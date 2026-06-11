@@ -1,0 +1,130 @@
+.container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 2rem;
+  padding: 2rem;
+}
+
+.setupCard {
+  background-color: var(--color-bg-secondary);
+  padding: 2rem;
+  border-radius: var(--border-radius-lg);
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+  width: 100%;
+  max-width: 500px;
+}
+
+.setupTitle {
+  font-size: 1.5rem;
+  font-weight: 600;
+  text-align: center;
+}
+
+.formGroup {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.label {
+  color: var(--color-text-secondary);
+  font-size: 0.9rem;
+}
+
+.select {
+  padding: 0.75rem;
+  background-color: var(--color-bg-primary);
+  border: 1px solid var(--color-border);
+  color: var(--color-text-primary);
+  border-radius: var(--border-radius);
+  font-size: 1rem;
+}
+
+.startButton {
+  padding: 1rem;
+  background-color: var(--color-accent);
+  color: #000;
+  font-size: 1.1rem;
+  font-weight: bold;
+  border-radius: var(--border-radius);
+  margin-top: 1rem;
+  transition: opacity 0.2s;
+}
+
+.startButton:hover {
+  opacity: 0.9;
+}
+
+.trainingArea {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 2rem;
+  width: 100%;
+}
+
+.wordDisplay {
+  text-align: center;
+}
+
+.targetWord {
+  font-size: 3rem;
+  font-weight: bold;
+  letter-spacing: 2px;
+  margin-bottom: 0.5rem;
+}
+
+.translation {
+  font-size: 1.5rem;
+  color: var(--color-text-secondary);
+}
+
+.inputField {
+  font-size: 2rem;
+  padding: 1rem;
+  border-radius: var(--border-radius);
+  border: 2px solid var(--color-border);
+  background-color: var(--color-bg-secondary);
+  color: var(--color-text-primary);
+  text-align: center;
+  width: 100%;
+  max-width: 600px;
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.inputField:focus {
+  border-color: var(--color-accent);
+}
+
+.inputFieldError {
+  border-color: var(--color-error);
+}
+
+.statsRow {
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 1rem;
+}
+
+.statItem {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.statValue {
+  font-size: 1.5rem;
+  font-weight: bold;
+  color: var(--color-accent);
+}
+
+.statLabel {
+  font-size: 0.8rem;
+  color: var(--color-text-secondary);
+  text-transform: uppercase;
+}

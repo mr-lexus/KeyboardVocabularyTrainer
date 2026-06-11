@@ -1,0 +1,47 @@
+:root {
+  /* Colors */
+  --color-bg-primary: #121212;
+  --color-bg-secondary: #1e1e1e;
+  --color-text-primary: #ffffff;
+  --color-text-secondary: #b3b3b3;
+  --color-accent: #00ff88;
+  --color-accent-hover: #00cc6a;
+  --color-error: #ff4d4d;
+  --color-success: #00ff88;
+  --color-border: #333333;
+  --color-key-bg: #2a2a2a;
+  --color-key-border: #444444;
+  --color-key-text: #ffffff;
+
+  /* Typography */
+  --font-family: 'Inter', system-ui, Avenir, Helvetica, Arial, sans-serif;
+  
+  /* Layout */
+  --border-radius: 8px;
+  --border-radius-lg: 12px;
+  --transition-speed: 0.2s;
+}
+
+[data-theme="light"] {
+  --color-bg-primary: #f5f5f5;
+  --color-bg-secondary: #ffffff;
+  --color-text-primary: #1a1a1a;
+  --color-text-secondary: #666666;
+  --color-accent: #00b35f;
+  --color-accent-hover: #009952;
+  --color-error: #e60000;
+  --color-success: #00b35f;
+  --color-border: #e0e0e0;
+  --color-key-bg: #f0f0f0;
+  --color-key-border: #cccccc;
+  --color-key-text: #333333;
+}
+
+
+body {
+  background-color: var(--color-bg-primary);
+  color: var(--color-text-primary);
+  font-family: var(--font-family);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
