@@ -1,6 +1,5 @@
 import { useState, useEffect } from 'react';
 import ReactMarkdown from 'react-markdown';
-// @ts-expect-error - Vite raw import
 import readmeContent from '../../../../README.md?raw';
 import styles from './WelcomePopup.module.css';
 
