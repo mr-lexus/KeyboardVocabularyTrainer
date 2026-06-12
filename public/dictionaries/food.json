@@ -1,0 +1,27 @@
+{
+  "id": "builtin-food",
+  "name": "Food & Cooking",
+  "description": "Food, drinks and cooking vocabulary",
+  "entries": [
+    { "id": "f1", "word": "bread", "translation": "хлеб", "language": "en" },
+    { "id": "f2", "word": "butter", "translation": "масло", "language": "en" },
+    { "id": "f3", "word": "cheese", "translation": "сыр", "language": "en" },
+    { "id": "f4", "word": "milk", "translation": "молоко", "language": "en" },
+    { "id": "f5", "word": "egg", "translation": "яйцо", "language": "en" },
+    { "id": "f6", "word": "sugar", "translation": "сахар", "language": "en" },
+    { "id": "f7", "word": "salt", "translation": "соль", "language": "en" },
+    { "id": "f8", "word": "pepper", "translation": "перец", "language": "en" },
+    { "id": "f9", "word": "soup", "translation": "суп", "language": "en" },
+    { "id": "f10", "word": "meat", "translation": "мясо", "language": "en" },
+    { "id": "f11", "word": "chicken", "translation": "курица", "language": "en" },
+    { "id": "f12", "word": "rice", "translation": "рис", "language": "en" },
+    { "id": "f13", "word": "potato", "translation": "картофель", "language": "en" },
+    { "id": "f14", "word": "carrot", "translation": "морковь", "language": "en" },
+    { "id": "f15", "word": "onion", "translation": "лук", "language": "en" },
+    { "id": "f16", "word": "garlic", "translation": "чеснок", "language": "en" },
+    { "id": "f17", "word": "tomato", "translation": "помидор", "language": "en" },
+    { "id": "f18", "word": "coffee", "translation": "кофе", "language": "en" },
+    { "id": "f19", "word": "tea", "translation": "чай", "language": "en" },
+    { "id": "f20", "word": "juice", "translation": "сок", "language": "en" }
+  ]
+}

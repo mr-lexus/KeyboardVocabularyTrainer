@@ -1,0 +1,27 @@
+{
+  "id": "builtin-it-terms",
+  "name": "IT & Technology",
+  "description": "Technology and programming vocabulary",
+  "entries": [
+    { "id": "it1", "word": "keyboard", "translation": "клавиатура", "language": "en" },
+    { "id": "it2", "word": "monitor", "translation": "монитор", "language": "en" },
+    { "id": "it3", "word": "browser", "translation": "браузер", "language": "en" },
+    { "id": "it4", "word": "server", "translation": "сервер", "language": "en" },
+    { "id": "it5", "word": "database", "translation": "база данных", "language": "en" },
+    { "id": "it6", "word": "network", "translation": "сеть", "language": "en" },
+    { "id": "it7", "word": "software", "translation": "программное обеспечение", "language": "en" },
+    { "id": "it8", "word": "hardware", "translation": "аппаратное обеспечение", "language": "en" },
+    { "id": "it9", "word": "password", "translation": "пароль", "language": "en" },
+    { "id": "it10", "word": "folder", "translation": "папка", "language": "en" },
+    { "id": "it11", "word": "file", "translation": "файл", "language": "en" },
+    { "id": "it12", "word": "memory", "translation": "память", "language": "en" },
+    { "id": "it13", "word": "processor", "translation": "процессор", "language": "en" },
+    { "id": "it14", "word": "router", "translation": "роутер", "language": "en" },
+    { "id": "it15", "word": "cursor", "translation": "курсор", "language": "en" },
+    { "id": "it16", "word": "screen", "translation": "экран", "language": "en" },
+    { "id": "it17", "word": "program", "translation": "программа", "language": "en" },
+    { "id": "it18", "word": "code", "translation": "код", "language": "en" },
+    { "id": "it19", "word": "button", "translation": "кнопка", "language": "en" },
+    { "id": "it20", "word": "window", "translation": "окно", "language": "en" }
+  ]
+}

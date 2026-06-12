@@ -1,0 +1,27 @@
+{
+  "id": "builtin-travel",
+  "name": "Travel & Places",
+  "description": "Vocabulary for travel and navigation",
+  "entries": [
+    { "id": "t1", "word": "airport", "translation": "аэропорт", "language": "en" },
+    { "id": "t2", "word": "hotel", "translation": "отель", "language": "en" },
+    { "id": "t3", "word": "ticket", "translation": "билет", "language": "en" },
+    { "id": "t4", "word": "passport", "translation": "паспорт", "language": "en" },
+    { "id": "t5", "word": "luggage", "translation": "багаж", "language": "en" },
+    { "id": "t6", "word": "map", "translation": "карта", "language": "en" },
+    { "id": "t7", "word": "train", "translation": "поезд", "language": "en" },
+    { "id": "t8", "word": "bus", "translation": "автобус", "language": "en" },
+    { "id": "t9", "word": "station", "translation": "вокзал", "language": "en" },
+    { "id": "t10", "word": "border", "translation": "граница", "language": "en" },
+    { "id": "t11", "word": "customs", "translation": "таможня", "language": "en" },
+    { "id": "t12", "word": "guide", "translation": "гид", "language": "en" },
+    { "id": "t13", "word": "museum", "translation": "музей", "language": "en" },
+    { "id": "t14", "word": "beach", "translation": "пляж", "language": "en" },
+    { "id": "t15", "word": "mountain", "translation": "гора", "language": "en" },
+    { "id": "t16", "word": "city", "translation": "город", "language": "en" },
+    { "id": "t17", "word": "village", "translation": "деревня", "language": "en" },
+    { "id": "t18", "word": "bridge", "translation": "мост", "language": "en" },
+    { "id": "t19", "word": "forest", "translation": "лес", "language": "en" },
+    { "id": "t20", "word": "river", "translation": "река", "language": "en" }
+  ]
+}

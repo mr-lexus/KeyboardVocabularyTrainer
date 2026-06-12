@@ -7,6 +7,7 @@
   padding: 2rem;
 }
 
+/* ====== Setup Card ====== */
 .setupCard {
   background-color: var(--color-bg-secondary);
   padding: 2rem;
@@ -15,7 +16,7 @@
   flex-direction: column;
   gap: 1.5rem;
   width: 100%;
-  max-width: 500px;
+  max-width: 680px;
 }
 
 .setupTitle {
@@ -27,23 +28,144 @@
 .formGroup {
   display: flex;
   flex-direction: column;
-  gap: 0.5rem;
+  gap: 0.6rem;
 }
 
 .label {
   color: var(--color-text-secondary);
-  font-size: 0.9rem;
+  font-size: 0.875rem;
+  font-weight: 500;
 }
 
-.select {
-  padding: 0.75rem;
-  background-color: var(--color-bg-primary);
-  border: 1px solid var(--color-border);
-  color: var(--color-text-primary);
-  border-radius: var(--border-radius);
+/* Group label (Built-in / My Dictionaries) */
+.groupLabel {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+  font-size: 0.8rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--color-text-secondary);
+}
+
+.groupLabelIcon {
   font-size: 1rem;
 }
 
+/* Dictionary cards grid */
+.dictGrid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(140px, 1fr));
+  gap: 0.75rem;
+}
+
+.dictCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.3rem;
+  padding: 0.9rem 0.75rem;
+  background-color: var(--color-bg-primary);
+  border: 2px solid var(--color-border);
+  border-radius: var(--border-radius-lg);
+  cursor: pointer;
+  transition: border-color 0.18s, transform 0.15s, box-shadow 0.18s;
+  text-align: center;
+}
+
+.dictCard:hover {
+  border-color: var(--color-accent);
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.15);
+}
+
+.dictCardSelected {
+  border-color: var(--color-accent);
+  background-color: color-mix(in srgb, var(--color-accent) 12%, var(--color-bg-primary));
+  box-shadow: 0 0 0 1px var(--color-accent);
+}
+
+.dictEmoji {
+  font-size: 1.75rem;
+  line-height: 1;
+}
+
+.dictName {
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--color-text-primary);
+}
+
+.dictMeta {
+  font-size: 0.72rem;
+  color: var(--color-accent);
+  font-weight: 500;
+}
+
+.dictDesc {
+  font-size: 0.68rem;
+  color: var(--color-text-secondary);
+  line-height: 1.3;
+}
+
+/* Mode row */
+.modeRow {
+  display: flex;
+  gap: 0.5rem;
+}
+
+.modeBtn {
+  flex: 1;
+  padding: 0.6rem 0.5rem;
+  background-color: var(--color-bg-primary);
+  border: 2px solid var(--color-border);
+  border-radius: var(--border-radius);
+  color: var(--color-text-secondary);
+  font-size: 0.85rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: border-color 0.15s, color 0.15s;
+}
+
+.modeBtn:hover {
+  border-color: var(--color-accent);
+  color: var(--color-text-primary);
+}
+
+.modeBtnActive {
+  border-color: var(--color-accent);
+  background-color: color-mix(in srgb, var(--color-accent) 15%, var(--color-bg-primary));
+  color: var(--color-text-primary);
+}
+
+/* Voice row */
+.voiceRow {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.checkbox {
+  width: 1.25rem;
+  height: 1.25rem;
+  accent-color: var(--color-accent);
+  cursor: pointer;
+}
+
+/* Empty hint */
+.emptyHint {
+  text-align: center;
+  color: var(--color-text-secondary);
+  font-size: 0.9rem;
+}
+
+.link {
+  color: var(--color-accent);
+  text-decoration: underline;
+}
+
+/* Start button */
 .startButton {
   padding: 1rem;
   background-color: var(--color-accent);
@@ -51,14 +173,21 @@
   font-size: 1.1rem;
   font-weight: bold;
   border-radius: var(--border-radius);
-  margin-top: 1rem;
-  transition: opacity 0.2s;
+  margin-top: 0.5rem;
+  transition: opacity 0.2s, transform 0.15s;
 }
 
-.startButton:hover {
+.startButton:hover:not(:disabled) {
   opacity: 0.9;
+  transform: translateY(-1px);
 }
 
+.startButton:disabled {
+  opacity: 0.4;
+  cursor: not-allowed;
+}
+
+/* ====== Training Area ====== */
 .trainingArea {
   display: flex;
   flex-direction: column;
@@ -105,6 +234,26 @@
   border-color: var(--color-error);
 }
 
+.backButton {
+  position: absolute;
+  top: 5.5rem;
+  left: 1.5rem;
+  background: transparent;
+  border: 1px solid var(--color-border);
+  color: var(--color-text-secondary);
+  padding: 0.5rem 1rem;
+  border-radius: var(--border-radius);
+  font-size: 0.9rem;
+  cursor: pointer;
+  transition: all 0.2s;
+}
+
+.backButton:hover {
+  background: var(--color-bg-secondary);
+  color: var(--color-text-primary);
+  border-color: var(--color-text-secondary);
+}
+
 .statsRow {
   display: flex;
   gap: 2rem;
@@ -127,4 +276,14 @@
   font-size: 0.8rem;
   color: var(--color-text-secondary);
   text-transform: uppercase;
+}
+
+/* select (kept for backwards compat) */
+.select {
+  padding: 0.75rem;
+  background-color: var(--color-bg-primary);
+  border: 1px solid var(--color-border);
+  color: var(--color-text-primary);
+  border-radius: var(--border-radius);
+  font-size: 1rem;
 }

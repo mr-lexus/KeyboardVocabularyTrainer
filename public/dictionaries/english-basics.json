@@ -1,0 +1,27 @@
+{
+  "id": "builtin-english-basics",
+  "name": "English Basics",
+  "description": "Common English words for beginners",
+  "entries": [
+    { "id": "e1", "word": "apple", "translation": "яблоко", "language": "en" },
+    { "id": "e2", "word": "book", "translation": "книга", "language": "en" },
+    { "id": "e3", "word": "cat", "translation": "кошка", "language": "en" },
+    { "id": "e4", "word": "dog", "translation": "собака", "language": "en" },
+    { "id": "e5", "word": "house", "translation": "дом", "language": "en" },
+    { "id": "e6", "word": "water", "translation": "вода", "language": "en" },
+    { "id": "e7", "word": "food", "translation": "еда", "language": "en" },
+    { "id": "e8", "word": "sun", "translation": "солнце", "language": "en" },
+    { "id": "e9", "word": "moon", "translation": "луна", "language": "en" },
+    { "id": "e10", "word": "tree", "translation": "дерево", "language": "en" },
+    { "id": "e11", "word": "fire", "translation": "огонь", "language": "en" },
+    { "id": "e12", "word": "wind", "translation": "ветер", "language": "en" },
+    { "id": "e13", "word": "stone", "translation": "камень", "language": "en" },
+    { "id": "e14", "word": "road", "translation": "дорога", "language": "en" },
+    { "id": "e15", "word": "sky", "translation": "небо", "language": "en" },
+    { "id": "e16", "word": "bird", "translation": "птица", "language": "en" },
+    { "id": "e17", "word": "fish", "translation": "рыба", "language": "en" },
+    { "id": "e18", "word": "hand", "translation": "рука", "language": "en" },
+    { "id": "e19", "word": "eye", "translation": "глаз", "language": "en" },
+    { "id": "e20", "word": "head", "translation": "голова", "language": "en" }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "dictionaries": [
+    {
+      "id": "builtin-english-basics",
+      "name": "English Basics",
+      "description": "Common English words for beginners",
+      "file": "dictionaries/english-basics.json",
+      "wordCount": 20,
+      "emoji": "📖"
+    },
+    {
+      "id": "builtin-travel",
+      "name": "Travel & Places",
+      "description": "Vocabulary for travel and navigation",
+      "file": "dictionaries/travel.json",
+      "wordCount": 20,
+      "emoji": "✈️"
+    },
+    {
+      "id": "builtin-it-terms",
+      "name": "IT & Technology",
+      "description": "Technology and programming vocabulary",
+      "file": "dictionaries/it-terms.json",
+      "wordCount": 20,
+      "emoji": "💻"
+    },
+    {
+      "id": "builtin-food",
+      "name": "Food & Cooking",
+      "description": "Food, drinks and cooking vocabulary",
+      "file": "dictionaries/food.json",
+      "wordCount": 20,
+      "emoji": "🍕"
+    }
+  ]
+}

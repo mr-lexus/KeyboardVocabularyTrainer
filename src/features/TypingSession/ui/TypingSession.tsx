@@ -8,12 +8,26 @@ import { VirtualKeyboard } from '../../../widgets/VirtualKeyboard';
 import { HandsOverlay } from '../../../widgets/HandsOverlay';
 import { getFingerForChar } from '../../../entities/Keyboard/silakka54';
 import { recordKeystroke } from '../api/stats';
+import { builtInDictionaryApi, type BuiltInDictionaryMeta } from '../../../entities/Dictionary/builtInApi';
+import type { DictionaryEntry } from '../../../entities/Dictionary/model';
 import styles from './TypingSession.module.css';
 import clsx from 'clsx';
 
+type DictionarySource = 'builtin' | 'user';
+
+interface SelectedDictionary {
+  id: string;
+  source: DictionarySource;
+}
+
 export const TypingSession = () => {
-  const dictionaries = useLiveQuery(() => db.dictionaries.toArray());
-  
+  const userDictionaries = useLiveQuery(() => db.dictionaries.toArray());
+  const [builtInMeta, setBuiltInMeta] = useState<BuiltInDictionaryMeta[]>([]);
+
+  useEffect(() => {
+    builtInDictionaryApi.getManifest().then(setBuiltInMeta).catch(console.error);
+  }, []);
+
   const {
     currentDictionaryId,
     mode,
@@ -28,19 +42,30 @@ export const TypingSession = () => {
     resetSession,
   } = useTypingSession();
 
-  const [setupDictId, setSetupDictId] = useState('');
+  const [selected, setSelected] = useState<SelectedDictionary | null>(null);
   const [setupMode, setSetupMode] = useState<TrainingMode>('en-ru');
 
   const voiceSettings = useVoiceSettings();
 
+  const [voices, setVoices] = useState<SpeechSynthesisVoice[]>([]);
+
+  useEffect(() => {
+    const loadVoices = () => {
+      setVoices(window.speechSynthesis?.getVoices().filter(v => v.lang.startsWith('en')) || []);
+    };
+    
+    loadVoices();
+    if (window.speechSynthesis && window.speechSynthesis.onvoiceschanged !== undefined) {
+      window.speechSynthesis.onvoiceschanged = loadVoices;
+    }
+  }, []);
+
   const inputRef = useRef<HTMLInputElement>(null);
   const sessionStatsRef = useRef({ startTime: 0, characters: 0, errors: 0 });
 
-  // Automatically focus input when session starts
   useEffect(() => {
     if (currentDictionaryId && !isFinished) {
       inputRef.current?.focus();
-      // Initialize stats on start
       if (currentEntryIndex === 0) {
         sessionStatsRef.current = { startTime: Date.now(), characters: 0, errors: 0 };
       }
@@ -48,14 +73,29 @@ export const TypingSession = () => {
   }, [currentDictionaryId, currentEntryIndex, isFinished]);
 
   const handleStart = async () => {
-    if (!setupDictId) return;
-    const dict = await db.dictionaries.get(setupDictId);
-    if (dict && dict.entries.length > 0) {
-      setMode(setupMode);
-      setDictionary(dict.id, dict.entries);
+    if (!selected) return;
+
+    let dictEntries: DictionaryEntry[];
+    const dictId = selected.id;
+
+    if (selected.source === 'builtin') {
+      const dict = await builtInDictionaryApi.getById(selected.id);
+      if (!dict || dict.entries.length === 0) {
+        alert('Selected dictionary is empty!');
+        return;
+      }
+      dictEntries = dict.entries;
     } else {
-      alert('Selected dictionary is empty!');
+      const dict = await db.dictionaries.get(selected.id);
+      if (!dict || dict.entries.length === 0) {
+        alert('Selected dictionary is empty!');
+        return;
+      }
+      dictEntries = dict.entries;
     }
+
+    setMode(setupMode);
+    setDictionary(dictId, dictEntries);
   };
 
   const handleInputChange = (e: React.ChangeEvent<HTMLInputElement>) => {
@@ -63,7 +103,12 @@ export const TypingSession = () => {
     const currentEntry = entries[currentEntryIndex];
     if (!currentEntry) return;
 
-    const targetWord = currentEntry.word;
+    let effectiveMode = mode;
+    if (mode === 'random') {
+      effectiveMode = currentEntryIndex % 2 === 0 ? 'en-ru' : 'ru-en';
+    }
+
+    const targetWord = effectiveMode === 'ru-en' ? currentEntry.translation : currentEntry.word;
     const expectedChar = targetWord[userInput.length];
     const lastChar = val[val.length - 1];
 
@@ -79,17 +124,22 @@ export const TypingSession = () => {
 
     if (val === targetWord) {
       if (voiceSettings.enabled) {
-        speechApi.speak(targetWord, 'en-US', voiceSettings.rate, voiceSettings.voiceURI || undefined);
+        let uriToUse = voiceSettings.voiceURI || undefined;
+        if (uriToUse === 'random' && voices.length > 0) {
+          const randVoice = voices[Math.floor(Math.random() * voices.length)];
+          uriToUse = randVoice.voiceURI;
+        } else if (uriToUse === 'random') {
+          uriToUse = undefined;
+        }
+        speechApi.speak(currentEntry.word, 'en-US', voiceSettings.rate, uriToUse);
       }
-      
+
       sessionStatsRef.current.characters += targetWord.length;
-      
+
       const isLastWord = currentEntryIndex === entries.length - 1;
       if (isLastWord) {
-        // Save session stats
         const durationSeconds = (Date.now() - sessionStatsRef.current.startTime) / 1000;
         const minutes = durationSeconds / 60;
-        // words = characters / 5
         const wpm = minutes > 0 ? (sessionStatsRef.current.characters / 5) / minutes : 0;
         const totalKeystrokes = sessionStatsRef.current.characters + sessionStatsRef.current.errors;
         const accuracy = totalKeystrokes > 0 ? (sessionStatsRef.current.characters / totalKeystrokes) * 100 : 0;
@@ -100,7 +150,7 @@ export const TypingSession = () => {
           durationSeconds: Math.round(durationSeconds),
           charactersTyped: sessionStatsRef.current.characters,
           wpm: Math.round(wpm),
-          accuracy: Math.round(accuracy)
+          accuracy: Math.round(accuracy),
         });
       }
 
@@ -111,52 +161,130 @@ export const TypingSession = () => {
   };
 
   if (!currentDictionaryId) {
+    const hasUserDicts = (userDictionaries?.length ?? 0) > 0;
+    const hasBuiltIn = builtInMeta.length > 0;
+
     return (
       <div className={styles.container}>
         <div className={styles.setupCard}>
           <h2 className={styles.setupTitle}>Start Training</h2>
-          
+
+          {/* Built-in dictionaries */}
+          {hasBuiltIn && (
+            <div className={styles.formGroup}>
+              <label className={styles.groupLabel}>
+                <span className={styles.groupLabelIcon}>📚</span>
+                Built-in Dictionaries
+              </label>
+              <div className={styles.dictGrid}>
+                {builtInMeta.map((meta) => {
+                  const isActive = selected?.id === meta.id && selected?.source === 'builtin';
+                  return (
+                    <button
+                      key={meta.id}
+                      id={`dict-builtin-${meta.id}`}
+                      className={clsx(styles.dictCard, isActive && styles.dictCardSelected)}
+                      onClick={() => setSelected({ id: meta.id, source: 'builtin' })}
+                    >
+                      <span className={styles.dictEmoji}>{meta.emoji}</span>
+                      <span className={styles.dictName}>{meta.name}</span>
+                      <span className={styles.dictMeta}>{meta.wordCount} words</span>
+                      <span className={styles.dictDesc}>{meta.description}</span>
+                    </button>
+                  );
+                })}
+              </div>
+            </div>
+          )}
+
+          {/* User dictionaries */}
+          {hasUserDicts && (
+            <div className={styles.formGroup}>
+              <label className={styles.groupLabel}>
+                <span className={styles.groupLabelIcon}>✏️</span>
+                My Dictionaries
+              </label>
+              <div className={styles.dictGrid}>
+                {userDictionaries?.map((dict) => {
+                  const isActive = selected?.id === dict.id && selected?.source === 'user';
+                  return (
+                    <button
+                      key={dict.id}
+                      id={`dict-user-${dict.id}`}
+                      className={clsx(styles.dictCard, isActive && styles.dictCardSelected)}
+                      onClick={() => setSelected({ id: dict.id, source: 'user' })}
+                    >
+                      <span className={styles.dictEmoji}>📝</span>
+                      <span className={styles.dictName}>{dict.name}</span>
+                      <span className={styles.dictMeta}>{dict.entries.length} words</span>
+                      <span className={styles.dictDesc}>Custom dictionary</span>
+                    </button>
+                  );
+                })}
+              </div>
+            </div>
+          )}
+
+          {!hasBuiltIn && !hasUserDicts && (
+            <p className={styles.emptyHint}>
+              No dictionaries available. Go to the{' '}
+              <a href="#/dictionaries" className={styles.link}>Dictionaries</a> page to create one.
+            </p>
+          )}
+
+          {/* Mode selector */}
           <div className={styles.formGroup}>
-            <label className={styles.label}>Select Dictionary</label>
-            <select 
-              className={styles.select}
-              value={setupDictId}
-              onChange={(e) => setSetupDictId(e.target.value)}
-            >
-              <option value="" disabled>-- Select a dictionary --</option>
-              {dictionaries?.map(d => (
-                <option key={d.id} value={d.id}>{d.name} ({d.entries.length} words)</option>
+            <label className={styles.label}>Training Mode</label>
+            <div className={styles.modeRow}>
+              {(['en-ru', 'ru-en', 'random'] as TrainingMode[]).map((m) => (
+                <button
+                  key={m}
+                  id={`mode-${m}`}
+                  className={clsx(styles.modeBtn, setupMode === m && styles.modeBtnActive)}
+                  onClick={() => setSetupMode(m)}
+                >
+                  {m === 'en-ru' ? 'EN → RU' : m === 'ru-en' ? 'RU → EN' : '🔀 Random'}
+                </button>
               ))}
-            </select>
+            </div>
           </div>
 
-          <div className={styles.formGroup}>
-            <label className={styles.label}>Mode</label>
-            <select 
-              className={styles.select}
-              value={setupMode}
-              onChange={(e) => setSetupMode(e.target.value as TrainingMode)}
-            >
-              <option value="en-ru">English → Russian</option>
-              <option value="ru-en">Russian → English</option>
-              <option value="random">Random</option>
-            </select>
-          </div>
-
-          <div className={styles.formGroup} style={{ flexDirection: 'row', alignItems: 'center', gap: '1rem', marginTop: '1rem' }}>
+          {/* Voice toggle */}
+          <div className={styles.voiceRow}>
             <label className={styles.label}>Enable Voice</label>
-            <input 
-              type="checkbox" 
-              checked={voiceSettings.enabled} 
-              onChange={(e) => voiceSettings.setEnabled(e.target.checked)} 
-              style={{ width: '1.5rem', height: '1.5rem' }}
+            <input
+              id="voice-toggle"
+              type="checkbox"
+              checked={voiceSettings.enabled}
+              onChange={(e) => voiceSettings.setEnabled(e.target.checked)}
+              className={styles.checkbox}
             />
           </div>
 
-          <button 
+          {voiceSettings.enabled && voices.length > 0 && (
+            <div className={styles.formGroup}>
+              <label className={styles.label}>Select Voice</label>
+              <select
+                className={styles.select}
+                value={voiceSettings.voiceURI || ''}
+                onChange={(e) => voiceSettings.setVoiceURI(e.target.value)}
+              >
+                <option value="">Default System Voice</option>
+                <option value="random">🔀 Random English Voice</option>
+                {voices.map(voice => (
+                  <option key={voice.voiceURI} value={voice.voiceURI}>
+                    {voice.name} ({voice.lang})
+                  </option>
+                ))}
+              </select>
+            </div>
+          )}
+
+          <button
+            id="start-training-btn"
             className={styles.startButton}
             onClick={handleStart}
-            disabled={!setupDictId}
+            disabled={!selected}
           >
             START
           </button>
@@ -179,25 +307,45 @@ export const TypingSession = () => {
   const currentEntry = entries[currentEntryIndex];
   if (!currentEntry) return null;
 
-  // Determine what to show based on mode
   let effectiveMode = mode;
   if (mode === 'random') {
-    // Determine pseudo-randomly based on index so it doesn't change on re-renders
     effectiveMode = currentEntryIndex % 2 === 0 ? 'en-ru' : 'ru-en';
   }
 
-  const targetTypingWord = currentEntry.word;
+  const targetTypingWord = effectiveMode === 'ru-en' ? currentEntry.translation : currentEntry.word;
   const isError = !targetTypingWord.startsWith(userInput) && userInput.length > 0;
   const nextChar = !isError && userInput.length < targetTypingWord.length ? targetTypingWord[userInput.length] : null;
   const targetFinger = nextChar ? getFingerForChar(nextChar) : null;
 
   return (
     <div className={styles.container}>
+      <button className={styles.backButton} onClick={resetSession} title="Back to Setup">
+        ← Back
+      </button>
       <div className={styles.statsRow}>
         <div className={styles.statItem}>
           <span className={styles.statValue}>{currentEntryIndex + 1} / {entries.length}</span>
           <span className={styles.statLabel}>Progress</span>
         </div>
+        
+        {voiceSettings.enabled && voices.length > 0 && (
+          <div className={styles.statItem} style={{ justifyContent: 'center' }}>
+            <select
+              className={styles.select}
+              style={{ fontSize: '0.85rem', padding: '0.4rem', color: 'var(--color-text-secondary)', borderColor: 'var(--color-border)', backgroundColor: 'var(--color-bg-primary)' }}
+              value={voiceSettings.voiceURI || ''}
+              onChange={(e) => voiceSettings.setVoiceURI(e.target.value)}
+            >
+              <option value="">Default Voice</option>
+              <option value="random">🔀 Random</option>
+              {voices.map(voice => (
+                <option key={voice.voiceURI} value={voice.voiceURI}>
+                  {voice.name}
+                </option>
+              ))}
+            </select>
+          </div>
+        )}
       </div>
 
       <div className={styles.trainingArea}>
@@ -210,8 +358,7 @@ export const TypingSession = () => {
           ) : (
             <>
               <div className={styles.targetWord}>{currentEntry.translation}</div>
-              {/* Maybe hint can be shown if needed, or leave hidden */}
-              <div className={styles.translation} style={{ opacity: 0.5 }}>Type: {currentEntry.word}</div>
+              <div className={styles.translation} style={{ opacity: 0.5 }}>Translation: {currentEntry.word}</div>
             </>
           )}
         </div>
@@ -227,13 +374,11 @@ export const TypingSession = () => {
           autoCapitalize="off"
           spellCheck="false"
         />
-        
-        {/* Virtual Keyboard */}
+
         <div style={{ marginTop: '0.5rem', width: '100%' }}>
-          <VirtualKeyboard targetWord={targetTypingWord} userInput={userInput} />
+          <VirtualKeyboard targetWord={targetTypingWord} userInput={userInput} layoutLanguage={effectiveMode === 'ru-en' ? 'ru' : 'en'} />
         </div>
 
-        {/* Hands Overlay */}
         <div style={{ width: '100%' }}>
           <HandsOverlay targetFinger={targetFinger} isError={isError} />
         </div>

@@ -13,6 +13,8 @@ export type Finger =
 export interface KeyDefinition {
   id: string; // The char or code, e.g. "a", "space"
   label: string; // Display text
+  ruId?: string;
+  ruLabel?: string;
   finger: Finger;
   width?: number; // Relative width, default 1
 }

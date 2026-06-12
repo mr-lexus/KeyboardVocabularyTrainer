@@ -1,73 +1,35 @@
-# React + TypeScript + Vite
+# Keyboard Vocabulary Trainer
+## RUS
+**Keyboard Vocabulary Trainer** — это интерактивное веб-приложение, созданное для одновременной тренировки навыка слепой печати и изучения иностранной лексики (англо-русский словарь).
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### 💡 Идея проекта
+Главная идея заключается в объединении развития мышечной памяти и изучения языка. Вместо бессмысленного набора случайных символов или стандартных текстов, вы печатаете слова из выбранного словаря. Вы видите слово, его перевод, а приложение подсказывает, каким пальцем нажимать следующую клавишу. Такой двойной подход делает обучение печати и запоминание новых слов более увлекательным и эффективным.
 
-Currently, two official plugins are available:
+### ✨ Основные возможности
+- **Помощник слепой печати**: Виртуальная клавиатура и визуализация рук на экране подсвечивают правильный палец для каждого нажатия.
+- **Несколько режимов тренировки**:
+  - **EN → RU**: Печатайте английское слово, видя его русский перевод.
+  - **RU → EN**: Печатайте русское слово для практики кириллической раскладки, видя его английский перевод.
+  - **Случайный**: Динамическое чередование обоих направлений.
+- **Словари**: Используйте встроенные списки слов или создавайте собственные пользовательские словари для изучения специфических тем.
+- **Озвучивание (Text-to-Speech)**: Автоматическое произношение слова после его правильного набора для улучшения восприятия на слух.
+- **Аналитика и статистика**: Отслеживайте свой прогресс с помощью подробных метрик, включая скорость печати (знаков в минуту), точность и продолжительность сессий.
+- **Локальное сохранение**: Ваш прогресс и пользовательские словари надежно сохраняются прямо в браузере.
+---
+## ENG
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+**Keyboard Vocabulary Trainer** is an interactive web application designed to help users simultaneously improve their touch-typing skills and learn foreign vocabulary (English-Russian).
 
-## React Compiler
+### 💡 The Idea
+The core idea is to combine muscle memory training with language acquisition. Instead of mindlessly typing random characters or standard texts, you type words from a selected vocabulary list. You see the word, its translation, and the application guides you on which finger to use for the next character. This dual-focus approach makes both learning to type and learning new words more engaging and efficient.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
-
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
-
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
-
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+### ✨ Key Features
+- **Touch-Typing Guidance**: On-screen virtual keyboard and hands overlay highlight the correct finger for each keystroke.
+- **Multiple Training Modes**:
+  - **EN → RU**: Type the English word while seeing its Russian translation.
+  - **RU → EN**: Type the Russian word to practice the Cyrillic keyboard layout while seeing its English translation.
+  - **Random**: Mixes both directions for a dynamic challenge.
+- **Dictionaries**: Use built-in word lists or create your own custom dictionaries to focus on specific topics.
+- **Speech Synthesis (Text-to-Speech)**: Automatically pronounces the word upon successful typing to improve listening comprehension and pronunciation.
+- **Analytics & Statistics**: Track your progress with detailed metrics including Words Per Minute (WPM), accuracy, and session duration.
+- **Offline Support**: Progress and custom dictionaries are saved locally in your browser.
