@@ -1,0 +1,1147 @@
+{
+  "id": "phrasebook-attherestaurant",
+  "name": "At the Restaurant",
+  "description": "Phrasebook for At the Restaurant",
+  "entries": [
+    {
+      "id": "pb_attherestaurant_0_0",
+      "word": "I used to be a vegetarian.",
+      "translation": "Я раньше был вегетарианцем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_1",
+      "word": "What's for dessert?",
+      "translation": "Что на десерт?",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_2",
+      "word": "I'll check it.",
+      "translation": "Я проверю это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_3",
+      "word": "I need to check on something.",
+      "translation": "Мне нужно кое-что проверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_4",
+      "word": "We must check.",
+      "translation": "Мы должны обязательно проверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_5",
+      "word": "Tom follows a strict vegan diet.",
+      "translation": "Том придерживается строгой веганской диеты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_6",
+      "word": "Tom isn't a vegan.",
+      "translation": "Том не веган.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_7",
+      "word": "Check it again.",
+      "translation": "Проверь снова.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_8",
+      "word": "Did you check all the items on the shopping list?",
+      "translation": "Вы проверили все товары в списке покупок?",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_9",
+      "word": "I'm a vegetarian.",
+      "translation": "Я вегетарианка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_10",
+      "word": "I know that you're a vegetarian.",
+      "translation": "Я знаю, что ты вегетарианец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_11",
+      "word": "I didn't know you were a vegetarian.",
+      "translation": "Я не знал, что ты вегетарианец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_12",
+      "word": "Milk is a popular beverage.",
+      "translation": "Молоко - популярный напиток.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_13",
+      "word": "It's a very healthy beverage.",
+      "translation": "Это очень полезный для здоровья напиток.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_14",
+      "word": "I need to check.",
+      "translation": "Мне нужно проверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_15",
+      "word": "We can check.",
+      "translation": "Мы можем проверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_16",
+      "word": "He signed the check.",
+      "translation": "Он подписал чек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_17",
+      "word": "This is too spicy for me.",
+      "translation": "Это для меня слишком остро.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_18",
+      "word": "Lay the napkin across your lap.",
+      "translation": "Разложи салфетку на коленях.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_19",
+      "word": "Tom decided to become a vegetarian.",
+      "translation": "Том решил стать вегетарианцем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_20",
+      "word": "Tom asked the waitress for the wine list.",
+      "translation": "Том попросил у официантки винную карту.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_21",
+      "word": "Did you check this?",
+      "translation": "Ты это проверил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_22",
+      "word": "Tom is also a vegetarian.",
+      "translation": "Том тоже вегетарианец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_23",
+      "word": "Check under the mattress.",
+      "translation": "Проверь под матрасом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_24",
+      "word": "We know that you're a vegetarian.",
+      "translation": "Мы знаем, что ты вегетарианка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_25",
+      "word": "I need to check something.",
+      "translation": "Мне нужно кое-что проверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_26",
+      "word": "That'll be easy to check.",
+      "translation": "Это будет легко проверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_27",
+      "word": "Tom wants dessert.",
+      "translation": "Том хочет десерт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_28",
+      "word": "I wrote it down on a napkin.",
+      "translation": "Я записал это на салфетке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_29",
+      "word": "There's only one way to check.",
+      "translation": "Есть только один способ проверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_30",
+      "word": "Tom isn't a vegetarian.",
+      "translation": "Том не вегетарианец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_31",
+      "word": "Just check it.",
+      "translation": "Просто проверь это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_32",
+      "word": "Tom admitted he forged the check.",
+      "translation": "Том признал, что подделал чек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_33",
+      "word": "The only dessert I really like is ice cream.",
+      "translation": "Единственный десерт, который я действительно люблю, - мороженое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_34",
+      "word": "My regular waitress wouldn't have anything to do with me.",
+      "translation": "Официантка, которая обычно меня обслуживает, не стала бы со мной связываться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_35",
+      "word": "I'll check my schedule.",
+      "translation": "Я проверю своё расписание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_36",
+      "word": "Tom will check.",
+      "translation": "Том проверит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_37",
+      "word": "Tom ordered his favorite dessert.",
+      "translation": "Том заказал свой любимый десерт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_38",
+      "word": "He lives paycheck to paycheck.",
+      "translation": "Он живёт от зарплаты до зарплаты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_39",
+      "word": "\"Are you a vegetarian?\" \"No. Are you?\"",
+      "translation": "\"Вы вегетарианец?\" - \"Нет, а Вы?\"",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_40",
+      "word": "It's easy to check.",
+      "translation": "Это легко проверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_41",
+      "word": "There's the waitress.",
+      "translation": "А вот и официантка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_42",
+      "word": "He tucked the napkin under his chin.",
+      "translation": "Он закрепил салфетку под подбородком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_43",
+      "word": "Check if everything is correct.",
+      "translation": "Проверь, всё ли правильно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_44",
+      "word": "Tom insulted the waitress.",
+      "translation": "Том оскорбил официантку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_45",
+      "word": "I'll check the list.",
+      "translation": "Я проверю список.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_46",
+      "word": "I'll go check.",
+      "translation": "Пойду проверю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_47",
+      "word": "Check this out.",
+      "translation": "Проверьте это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_48",
+      "word": "Did you check the mailbox?",
+      "translation": "Ты проверял почтовый ящик?",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_0_49",
+      "word": "Check your pockets.",
+      "translation": "Проверь карманы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_0",
+      "word": "Hold on. I'll check.",
+      "translation": "Не кладите трубку. Я проверю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_1",
+      "word": "I told Tom to check the oil level.",
+      "translation": "Я сказал Тому проверить уровень масла.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_2",
+      "word": "That's easy enough to check.",
+      "translation": "Это довольно легко проверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_3",
+      "word": "Tom is a vegetarian.",
+      "translation": "Том - вегетарианец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_4",
+      "word": "Apples were served as the dessert.",
+      "translation": "Яблоки были поданы на десерт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_5",
+      "word": "Check on the baby.",
+      "translation": "Проверь, как там ребёнок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_6",
+      "word": "Check it out, Tom.",
+      "translation": "Том, зацени.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_7",
+      "word": "Check your list.",
+      "translation": "Проверь свой список.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_8",
+      "word": "I didn't know Tom was a vegetarian.",
+      "translation": "Я не знал, что Том - вегетарианец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_9",
+      "word": "I brought some dessert.",
+      "translation": "Я принёс десерт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_10",
+      "word": "Tom has baked a pie for dessert.",
+      "translation": "Том испёк на десерт пирог.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_11",
+      "word": "Check your inbox.",
+      "translation": "Проверь свои входящие.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_12",
+      "word": "Tom often eats fruit for dessert.",
+      "translation": "Том часто ест фрукты на десерт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_13",
+      "word": "I just had to check on something.",
+      "translation": "Мне просто нужно было кое-что проверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_14",
+      "word": "I need to check something out.",
+      "translation": "Мне нужно кое-что проверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_15",
+      "word": "Tom will check it out.",
+      "translation": "Том это проверит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_16",
+      "word": "My favorite dessert is ice cream.",
+      "translation": "Мой любимый десерт - мороженое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_17",
+      "word": "He took out his pen to sign his check.",
+      "translation": "Он достал ручку, чтобы подписать свой чек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_18",
+      "word": "Tom lives paycheck to paycheck.",
+      "translation": "Том живёт от зарплаты до зарплаты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_19",
+      "word": "I know you're a vegetarian.",
+      "translation": "Я знаю, что ты вегетарианец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_20",
+      "word": "How long have you been a vegetarian?",
+      "translation": "Давно ты вегетарианец?",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_21",
+      "word": "I gave up eating dessert.",
+      "translation": "Я перестал есть десерты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_22",
+      "word": "Check it now.",
+      "translation": "Проверь это сейчас.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_23",
+      "word": "Is Tom a vegetarian?",
+      "translation": "Том вегетарианец?",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_24",
+      "word": "Tom is the only vegetarian I know.",
+      "translation": "Том — единственный вегетарианец, которого я знаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_25",
+      "word": "What will the dessert be?",
+      "translation": "Что будет на десерт?",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_26",
+      "word": "Are you vegetarian?",
+      "translation": "Ты вегетарианец?",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_27",
+      "word": "Chocolate ice cream is my favorite dessert.",
+      "translation": "Мой любимый десерт - шоколадное мороженое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_28",
+      "word": "I can check that for you.",
+      "translation": "Я могу проверить это для тебя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_29",
+      "word": "I want to check something.",
+      "translation": "Я хочу кое-что проверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_30",
+      "word": "I still need to check with Tom.",
+      "translation": "Мне всё ещё нужно спросить у Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_31",
+      "word": "Endorse this check.",
+      "translation": "Распишитесь на этом чеке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_32",
+      "word": "Let's check with Tom.",
+      "translation": "Давай спросим у Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_33",
+      "word": "We need to check.",
+      "translation": "Нам надо проверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_34",
+      "word": "Check the calendar.",
+      "translation": "Проверьте календарь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_35",
+      "word": "I'm living paycheck to paycheck.",
+      "translation": "Я живу от зарплаты до зарплаты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_36",
+      "word": "We know you're a vegetarian.",
+      "translation": "Мы знаем, что ты вегетарианка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_37",
+      "word": "I didn't check my mailbox.",
+      "translation": "Я не проверял свой почтовый ящик.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_38",
+      "word": "Tom didn't check his mailbox.",
+      "translation": "Том не проверил свой почтовый ящик.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_39",
+      "word": "Tom asked for the check.",
+      "translation": "Том попросил чек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_40",
+      "word": "I'll just go check.",
+      "translation": "Пойду проверю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_41",
+      "word": "We're making dessert.",
+      "translation": "Мы готовим десерт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_42",
+      "word": "Check this one out.",
+      "translation": "Проверьте это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_43",
+      "word": "Why don't we check?",
+      "translation": "Почему бы нам не проверить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_44",
+      "word": "Mary works as a waitress at a local cafe.",
+      "translation": "Мэри работает официанткой в местном кафе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_45",
+      "word": "Shall I check the oil?",
+      "translation": "Мне следует проверить масло?",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_46",
+      "word": "Aren't you a vegetarian?",
+      "translation": "Ты разве не вегетарианка?",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_47",
+      "word": "This dish is too spicy.",
+      "translation": "Это блюдо слишком острое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_48",
+      "word": "Tom didn't check the contents.",
+      "translation": "Том не проверял содержимое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_1_49",
+      "word": "I like it spicy, but I don't like it too spicy.",
+      "translation": "Мне он нравится острым, но не слишком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_0",
+      "word": "We wanted dessert.",
+      "translation": "Мы хотели десерт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_1",
+      "word": "Is it vegan?",
+      "translation": "Он веганский?",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_2",
+      "word": "Mary was a waitress.",
+      "translation": "Мэри была официанткой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_3",
+      "word": "I signed the check.",
+      "translation": "Я подписал чек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_4",
+      "word": "I know that Tom is a vegetarian.",
+      "translation": "Я знаю, что Том - вегетарианец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_5",
+      "word": "Did you know Tom was a vegetarian?",
+      "translation": "Ты знал, что Том вегетарианец?",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_6",
+      "word": "Tom is vegan.",
+      "translation": "Том - веган.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_7",
+      "word": "I'll check your vision.",
+      "translation": "Я проверю твоё зрение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_8",
+      "word": "I have to check my mailbox.",
+      "translation": "Я должен проверить свой почтовый ящик.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_9",
+      "word": "I paid by check.",
+      "translation": "Я заплатил чеком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_10",
+      "word": "We have to check.",
+      "translation": "Нам надо проверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_11",
+      "word": "Tom shared his dessert with Mary.",
+      "translation": "Том поделился десертом с Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_12",
+      "word": "There's something that I want to check.",
+      "translation": "Я хочу кое-что проверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_13",
+      "word": "Is it hard to be a vegetarian?",
+      "translation": "Трудно быть вегетарианцем?",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_14",
+      "word": "Check it out.",
+      "translation": "Проверь это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_15",
+      "word": "Tom admitted that he forged the check.",
+      "translation": "Том признал, что подделал чек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_16",
+      "word": "Tom isn't vegan.",
+      "translation": "Том не веган.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_17",
+      "word": "Check your spam folder.",
+      "translation": "Посмотри в спаме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_18",
+      "word": "Tom said that Mary ate his dessert.",
+      "translation": "Том сказал, что Мэри съела его десерт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_19",
+      "word": "I came by to check on you.",
+      "translation": "Я зашёл тебя проведать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_20",
+      "word": "We had chocolate ice cream for dessert.",
+      "translation": "На десерт у нас было шоколадное мороженое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_21",
+      "word": "I'll check that soon.",
+      "translation": "Я это скоро проверю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_22",
+      "word": "Let's skip dessert.",
+      "translation": "Давайте пропустим десерт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_23",
+      "word": "I'll check upstairs.",
+      "translation": "Пойду посмотрю наверху.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_24",
+      "word": "Can someone check this?",
+      "translation": "Кто-нибудь может это проверить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_25",
+      "word": "Check this for me.",
+      "translation": "Посмотри это для меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_26",
+      "word": "I didn't know that Tom was a vegetarian.",
+      "translation": "Я не знал, что Том - вегетарианец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_27",
+      "word": "I made an apple pie for dessert.",
+      "translation": "Я испёк яблочный пирог на десерт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_28",
+      "word": "I just went to check something.",
+      "translation": "Я просто пошёл кое-что проверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_29",
+      "word": "I'm not a vegetarian.",
+      "translation": "Я не вегетарианец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_30",
+      "word": "I'll have to check with Tom.",
+      "translation": "Мне придется спросить у Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_31",
+      "word": "Tom unfolded his napkin.",
+      "translation": "Том развернул салфетку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_32",
+      "word": "What's your favorite beverage?",
+      "translation": "Какой твой любимый напиток?",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_33",
+      "word": "I'll check it for you.",
+      "translation": "Я проверю её для тебя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_34",
+      "word": "Make it as spicy as you can.",
+      "translation": "Добавь как можно больше специй.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_35",
+      "word": "I'm a vegan.",
+      "translation": "Я веган.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_36",
+      "word": "I'll check again.",
+      "translation": "Я перепроверю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_37",
+      "word": "I just wanted to check to see if you're OK.",
+      "translation": "Я просто хотел проверить, всё ли у тебя хорошо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_38",
+      "word": "This dessert looks suspiciously like pasta.",
+      "translation": "Этот десерт подозрительно похож на макароны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_39",
+      "word": "Check Tom's pulse.",
+      "translation": "Проверь у Тома пульс.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_40",
+      "word": "How often do you check your messages?",
+      "translation": "Как часто вы проверяете свои сообщения?",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_41",
+      "word": "What'll we be having for dessert?",
+      "translation": "Что будем на десерт?",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_42",
+      "word": "I need to check it.",
+      "translation": "Мне нужно это проверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_43",
+      "word": "Is it too spicy?",
+      "translation": "Он слишком острый?",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_44",
+      "word": "I'll just check.",
+      "translation": "Я только проверю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_45",
+      "word": "There's something I want to check.",
+      "translation": "Я хочу кое-что проверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_46",
+      "word": "Here's your dessert.",
+      "translation": "Вот твой десерт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_47",
+      "word": "I live from paycheck to paycheck.",
+      "translation": "Я живу от зарплаты до зарплаты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_48",
+      "word": "I'm going to check.",
+      "translation": "Я проверю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_2_49",
+      "word": "Tom is a vegan.",
+      "translation": "Том - веган.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_0",
+      "word": "Check it out!",
+      "translation": "Погляди!",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_1",
+      "word": "What's your favorite non-alcoholic beverage?",
+      "translation": "Какой у тебя любимый безалкогольный напиток?",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_2",
+      "word": "Check everything once more.",
+      "translation": "Проверь всё ещё раз.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_3",
+      "word": "What are we having for dessert?",
+      "translation": "Что у нас на десерт?",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_4",
+      "word": "Check the pressure of the tires.",
+      "translation": "Проверьте давление в шинах.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_5",
+      "word": "Mary is a waitress.",
+      "translation": "Мэри — официантка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_6",
+      "word": "Let's check more thoroughly.",
+      "translation": "Давай посмотрим получше.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_7",
+      "word": "What's your favorite dessert?",
+      "translation": "Какой твой любимый десерт?",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_8",
+      "word": "Are you a vegetarian?",
+      "translation": "Ты вегетарианец?",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_9",
+      "word": "Check with Tom.",
+      "translation": "Спроси у Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_10",
+      "word": "I have to check with Tom first.",
+      "translation": "Мне надо сначала спросить у Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_11",
+      "word": "Tom flirted with the waitress.",
+      "translation": "Том флиртовал с официанткой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_12",
+      "word": "Here's your check.",
+      "translation": "Вот ваш чек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_13",
+      "word": "Have you made out the check yet?",
+      "translation": "Вы уже выписали чек?",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_14",
+      "word": "It's too spicy for me.",
+      "translation": "Для меня он слишком острый.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_15",
+      "word": "Where is the waitress?",
+      "translation": "Где официантка?",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_16",
+      "word": "I ate a banana for dessert.",
+      "translation": "На десерт я съел банан.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_17",
+      "word": "I'm going to check upstairs.",
+      "translation": "Я проверю, как там наверху.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_18",
+      "word": "Let's check it later.",
+      "translation": "Давай проверим это потом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_19",
+      "word": "I've ordered you some dessert.",
+      "translation": "Я тебе десерт заказал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_20",
+      "word": "It's an alcoholic beverage.",
+      "translation": "Это алкогольный напиток.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_21",
+      "word": "Check your dictionary.",
+      "translation": "Посмотри в своём словаре.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_22",
+      "word": "I want ice cream for dessert.",
+      "translation": "Я хочу на десерт мороженое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_23",
+      "word": "It's not very spicy.",
+      "translation": "Это не очень остро.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_24",
+      "word": "Wine is an alcoholic beverage.",
+      "translation": "Вино - алкогольный напиток.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_25",
+      "word": "Tom smiled at the waitress.",
+      "translation": "Том улыбнулся официантке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_26",
+      "word": "I know Tom is a vegetarian.",
+      "translation": "Я знаю, что Том - вегетарианец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_27",
+      "word": "I need to check your temperature.",
+      "translation": "Я должен измерить тебе температуру.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_28",
+      "word": "I want dessert.",
+      "translation": "Я хочу десерт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_29",
+      "word": "Tom handed Mary a check for half a million dollars.",
+      "translation": "Том передал Мэри чек на полмиллиона долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_30",
+      "word": "What's your favorite alcoholic beverage?",
+      "translation": "Какой ваш любимый алкогольный напиток?",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_31",
+      "word": "Check this translation with the original.",
+      "translation": "Сверь этот перевод с первоисточником.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_32",
+      "word": "Tom tipped the waitress.",
+      "translation": "Том дал официантке на чай.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_33",
+      "word": "What's your favorite dessert with bananas?",
+      "translation": "Какой твой любимый банановый десерт?",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_34",
+      "word": "What are we ordering for dessert?",
+      "translation": "Что мы закажем на десерт?",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_35",
+      "word": "I'll check them.",
+      "translation": "Я проверю их.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_36",
+      "word": "It was too spicy.",
+      "translation": "Оно было слишком острое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_37",
+      "word": "I didn't take it. You can check my pockets.",
+      "translation": "Я его не брал. Можешь проверить карманы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_38",
+      "word": "I'll go and check.",
+      "translation": "Я пойду проверю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_attherestaurant_3_39",
+      "word": "Can you write me a check?",
+      "translation": "Вы можете выписать мне чек?",
+      "language": "en"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "pb-business",
+  "name": "Business Meetings",
+  "description": "Деловое общение, митинги, переговоры",
+  "entries": [
+    {
+      "id": "entry_pb-business_0",
+      "word": "Let's get down to business.",
+      "translation": "Давайте перейдем к делу.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-business_1",
+      "word": "Can everyone hear me clearly?",
+      "translation": "Всем меня хорошо слышно?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-business_2",
+      "word": "I think you're on mute.",
+      "translation": "Кажется, у вас выключен микрофон.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-business_3",
+      "word": "Let me share my screen.",
+      "translation": "Позвольте мне поделиться экраном.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-business_4",
+      "word": "The main objective of today's meeting is...",
+      "translation": "Главная цель сегодняшней встречи...",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-business_5",
+      "word": "Are we all on the same page?",
+      "translation": "Мы все понимаем друг друга?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-business_6",
+      "word": "Let's table this discussion for now.",
+      "translation": "Давайте отложим это обсуждение на потом.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-business_7",
+      "word": "I'd like to get your input on this.",
+      "translation": "Я хотел бы услышать ваше мнение по этому поводу.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-business_8",
+      "word": "We need to meet the deadline by Friday.",
+      "translation": "Нам нужно уложиться в срок к пятнице.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-business_9",
+      "word": "Could you send me an email to follow up?",
+      "translation": "Не могли бы вы прислать мне письмо с итогами?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-business_10",
+      "word": "Let's schedule a follow-up meeting next week.",
+      "translation": "Давайте назначим следующую встречу на следующей неделе.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-business_11",
+      "word": "I completely agree with your point.",
+      "translation": "Я полностью согласен с вашей точкой зрения.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-business_12",
+      "word": "I see what you mean, but we have to consider the budget.",
+      "translation": "Я понимаю, что вы имеете в виду, но мы должны учитывать бюджет.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-business_13",
+      "word": "Who is in charge of this project?",
+      "translation": "Кто отвечает за этот проект?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-business_14",
+      "word": "Thank you all for your time and contribution.",
+      "translation": "Спасибо всем за ваше время и вклад.",
+      "language": "en"
+    }
+  ]
+}

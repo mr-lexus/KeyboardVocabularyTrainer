@@ -1,0 +1,3007 @@
+{
+  "id": "phrasebook-familyrelationships",
+  "name": "Family & Relationships",
+  "description": "Phrasebook for Family & Relationships",
+  "entries": [
+    {
+      "id": "pb_familyrelationships_0_0",
+      "word": "I love animals.",
+      "translation": "Я люблю животных.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_1",
+      "word": "Is it true that you're Tom's sister?",
+      "translation": "Правда, что ты сестра Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_2",
+      "word": "She gave her father a tie.",
+      "translation": "Она дала отцу галстук.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_3",
+      "word": "I did that for my family.",
+      "translation": "Я сделал это ради своей семьи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_4",
+      "word": "Tom entertained the children.",
+      "translation": "Том развлекал детей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_5",
+      "word": "I'll never marry Tom.",
+      "translation": "Я никогда не выйду замуж за Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_6",
+      "word": "Everyone knows you love Tom.",
+      "translation": "Все знают, что ты любишь Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_7",
+      "word": "Do you have any children?",
+      "translation": "У вас есть дети?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_8",
+      "word": "How many children were rescued?",
+      "translation": "Сколько детей было спасено?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_9",
+      "word": "Stop teasing your brother!",
+      "translation": "Прекрати дразнить своего брата!",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_10",
+      "word": "Do you know Tom's parents?",
+      "translation": "Ты знаешь родителей Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_11",
+      "word": "Tom praised his son.",
+      "translation": "Том похвалил сына.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_12",
+      "word": "Who's your uncle?",
+      "translation": "Кто твой дядя?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_13",
+      "word": "Are you still Tom's wife?",
+      "translation": "Ты всё ещё замужем за Томом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_14",
+      "word": "Tom knew the reason.",
+      "translation": "Том знал причину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_15",
+      "word": "He punished his children.",
+      "translation": "Он наказал своих детей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_16",
+      "word": "I have a son and a daughter.",
+      "translation": "У меня сын и дочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_17",
+      "word": "Tom disobeyed his father.",
+      "translation": "Том ослушался отца.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_18",
+      "word": "I just want to feel your love.",
+      "translation": "Я просто хочу почувствовать твою любовь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_19",
+      "word": "He is taller than his father.",
+      "translation": "Он выше своего отца.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_20",
+      "word": "Do you miss your parents?",
+      "translation": "Ты скучаешь по родителям?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_21",
+      "word": "I love spending time with you.",
+      "translation": "Мне очень нравится проводить с тобой время.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_22",
+      "word": "My son left today.",
+      "translation": "Мой сын сегодня уехал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_23",
+      "word": "Do you know Tom's father?",
+      "translation": "Ты знаешь отца Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_24",
+      "word": "I don't love him.",
+      "translation": "Я его не люблю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_25",
+      "word": "You sound like my father.",
+      "translation": "Ты говоришь как мой отец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_26",
+      "word": "I have a wife and family.",
+      "translation": "У меня есть жена и семья.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_27",
+      "word": "We love it.",
+      "translation": "Мы любим это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_28",
+      "word": "My mother has four brothers.",
+      "translation": "У моей матери четыре брата.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_29",
+      "word": "It seems Tom's in love with me.",
+      "translation": "Том, похоже, в меня влюблен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_30",
+      "word": "Does Tom have a son?",
+      "translation": "У Тома есть сын?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_31",
+      "word": "I love the way you look at me.",
+      "translation": "Мне нравится, как ты на меня смотришь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_32",
+      "word": "Yesterday my uncle bought a dog.",
+      "translation": "Вчера мой дядя купил собаку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_33",
+      "word": "I live with my two children.",
+      "translation": "Я живу со своими двумя детьми.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_34",
+      "word": "I want to see my son.",
+      "translation": "Я хочу увидеть сына.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_35",
+      "word": "Tom lied to protect his family.",
+      "translation": "Том солгал, чтобы защитить свою семью.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_36",
+      "word": "Why do children do that?",
+      "translation": "Почему дети это делают?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_37",
+      "word": "Children need love.",
+      "translation": "Детям нужна любовь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_38",
+      "word": "You don't know my brother.",
+      "translation": "Ты не знаешь моего брата.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_39",
+      "word": "Don't show that to children.",
+      "translation": "Не показывай это детям.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_40",
+      "word": "I love the way you dress.",
+      "translation": "Мне нравится, как ты одеваешься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_41",
+      "word": "My mother is fine.",
+      "translation": "У моей мамы всё хорошо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_42",
+      "word": "I think I'm in love with Tom.",
+      "translation": "Кажется, я влюбилась в Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_43",
+      "word": "We know your father.",
+      "translation": "Мы знаем твоего отца.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_44",
+      "word": "Tom's parents are strict.",
+      "translation": "У Тома строгие родители.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_45",
+      "word": "I taught my wife how to drive.",
+      "translation": "Я научил свою жену водить машину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_46",
+      "word": "I know you're in love with me.",
+      "translation": "Я знаю, что ты в меня влюблён!",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_47",
+      "word": "Tom yelled at his mother.",
+      "translation": "Том наорал на мать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_48",
+      "word": "Is Mary your wife?",
+      "translation": "Мэри — твоя жена?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_0_49",
+      "word": "Tom respects his parents.",
+      "translation": "Том уважает родителей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_0",
+      "word": "My mother was right.",
+      "translation": "Мать была права.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_1",
+      "word": "Love is irrational.",
+      "translation": "Любовь иррациональна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_2",
+      "word": "I'm a single mother.",
+      "translation": "Я мать-одиночка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_3",
+      "word": "Call my wife.",
+      "translation": "Позови мою жену.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_4",
+      "word": "My children are very quiet.",
+      "translation": "У меня очень спокойные дети.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_5",
+      "word": "Don't let the children fight.",
+      "translation": "Не позволяй детям драться!",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_6",
+      "word": "My mother is preparing supper.",
+      "translation": "Мама готовит ужин.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_7",
+      "word": "Your father is proud of you.",
+      "translation": "Твой отец тобой гордится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_8",
+      "word": "That isn't a valid comparison.",
+      "translation": "Это неподходящее сравнение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_9",
+      "word": "My father hated me.",
+      "translation": "Отец меня ненавидел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_10",
+      "word": "Tom wanted to marry Mary.",
+      "translation": "Том хотел жениться на Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_11",
+      "word": "He built his son a new house.",
+      "translation": "Он построил своему сыну новый дом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_12",
+      "word": "My mother made a sweater for me.",
+      "translation": "Мама связала мне свитер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_13",
+      "word": "I don't want to talk about love.",
+      "translation": "Я не хочу говорить о любви.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_14",
+      "word": "I love this country.",
+      "translation": "Обожаю эту страну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_15",
+      "word": "I love this kind of stuff.",
+      "translation": "Я такое люблю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_16",
+      "word": "I'm not Tom's sister.",
+      "translation": "Я не сестра Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_17",
+      "word": "I wonder if she will marry him.",
+      "translation": "Интересно, выйдет ли она за него замуж.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_18",
+      "word": "Do you think I still love Tom?",
+      "translation": "Думаешь, я всё ещё люблю Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_19",
+      "word": "I'm in love.",
+      "translation": "Я влюблён.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_20",
+      "word": "My children really like animals.",
+      "translation": "Моим детям очень нравятся животные.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_21",
+      "word": "My wife is a lawyer.",
+      "translation": "Моя жена — адвокат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_22",
+      "word": "My mother gave me this ring.",
+      "translation": "Это кольцо мне подарила мать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_23",
+      "word": "I'm never angry without reason.",
+      "translation": "Я никогда не злюсь без причины.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_24",
+      "word": "My father loves my mother.",
+      "translation": "Мой папа любит мою маму.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_25",
+      "word": "I know your mother.",
+      "translation": "Я знаю твою маму.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_26",
+      "word": "I've decided to marry Tom.",
+      "translation": "Я решила выйти замуж за Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_27",
+      "word": "Love is immortal.",
+      "translation": "Любовь бессмертна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_28",
+      "word": "I have to ask my husband.",
+      "translation": "Мне надо у мужа спросить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_29",
+      "word": "I love sitting on the beach.",
+      "translation": "Я очень люблю сидеть на пляже.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_30",
+      "word": "Tell us about your brother.",
+      "translation": "Расскажи нам о своём брате.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_31",
+      "word": "Tom isn't that kind of person.",
+      "translation": "Том не такой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_32",
+      "word": "I wasn't told the reason.",
+      "translation": "Причины мне не сказали.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_33",
+      "word": "Tom has no children.",
+      "translation": "У Тома нет детей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_34",
+      "word": "My family isn't very big.",
+      "translation": "У меня не очень большая семья.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_35",
+      "word": "Are those Tom's children?",
+      "translation": "Это дети Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_36",
+      "word": "The boy takes after his father.",
+      "translation": "Мальчик похож на своего отца.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_37",
+      "word": "My father is very angry with me.",
+      "translation": "Отец очень зол на меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_38",
+      "word": "We love going on picnics.",
+      "translation": "Мы любим ходить на пикники.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_39",
+      "word": "It's not easy to raise children.",
+      "translation": "Растить детей нелегко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_40",
+      "word": "I didn't listen to my parents.",
+      "translation": "Я не слушал родителей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_41",
+      "word": "I can't leave my husband.",
+      "translation": "Я не могу бросить своего мужа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_42",
+      "word": "We all love Tom.",
+      "translation": "Мы все любим Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_43",
+      "word": "I love this time of year.",
+      "translation": "Мне нравится это время года.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_44",
+      "word": "I mistook you for my brother.",
+      "translation": "Я спутал тебя со своим братом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_45",
+      "word": "I love egg yolks.",
+      "translation": "Я люблю яичные желтки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_46",
+      "word": "Love will find a way.",
+      "translation": "Любовь найдёт дорогу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_47",
+      "word": "My father may be sleeping.",
+      "translation": "Мой отец, возможно, спит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_48",
+      "word": "His father was a policeman.",
+      "translation": "Его отец был полицейским.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_1_49",
+      "word": "Father is proud of his car.",
+      "translation": "Отец гордится своей машиной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_0",
+      "word": "I fell in love with Mary.",
+      "translation": "Я влюбился в Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_1",
+      "word": "My aunt died of leukemia.",
+      "translation": "Моя тётя умерла от лейкемии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_2",
+      "word": "Tom is the best father I know.",
+      "translation": "Том - лучший отец из тех, что я знаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_3",
+      "word": "I love cats.",
+      "translation": "Я люблю кошек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_4",
+      "word": "Is sugar a poison?",
+      "translation": "Сахар - это яд?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_5",
+      "word": "I'll visit my uncle next week.",
+      "translation": "Я навещу своего дядю на следующей неделе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_6",
+      "word": "Spanish is his mother tongue.",
+      "translation": "Испанский — его родной язык.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_7",
+      "word": "How old is your younger son?",
+      "translation": "Сколько лет твоему младшему сыну?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_8",
+      "word": "Tom doesn't want children.",
+      "translation": "Том не хочет детей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_9",
+      "word": "I've never been in love before.",
+      "translation": "Я никогда раньше не влюблялась.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_10",
+      "word": "We love wine.",
+      "translation": "Мы любим вино.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_11",
+      "word": "Tom was my first husband.",
+      "translation": "Том был моим первым мужем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_12",
+      "word": "I'm different from my father.",
+      "translation": "Я не такой, как мой отец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_13",
+      "word": "I want to start a family.",
+      "translation": "Я хочу создать семью.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_14",
+      "word": "Did my father really die?",
+      "translation": "Мой отец действительно умер?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_15",
+      "word": "Summer is my favorite season.",
+      "translation": "Лето - моё любимое время года.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_16",
+      "word": "One has to protect his family.",
+      "translation": "Человек должен защищать свою семью.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_17",
+      "word": "You are in love with him.",
+      "translation": "Ты влюблена в него.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_18",
+      "word": "Tom is proud of his children.",
+      "translation": "Том гордится своими детьми.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_19",
+      "word": "My family lives here.",
+      "translation": "Моя семья живёт здесь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_20",
+      "word": "I love fall.",
+      "translation": "Я люблю осень.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_21",
+      "word": "I went camping with my family.",
+      "translation": "Я пошёл в поход со своей семьёй.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_22",
+      "word": "My son is playing in the rain.",
+      "translation": "Мой сын играет под дождём.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_23",
+      "word": "How old is your grandmother?",
+      "translation": "Сколько лет твоей бабушке?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_24",
+      "word": "Tom is a very creative person.",
+      "translation": "Том очень творческий человек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_25",
+      "word": "I'm not your brother.",
+      "translation": "Я не твой брат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_26",
+      "word": "We'll always love you, Tom.",
+      "translation": "Мы всегда будем любить тебя, Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_27",
+      "word": "She didn't have a brother.",
+      "translation": "У неё не было брата.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_28",
+      "word": "I love this city.",
+      "translation": "Я люблю этот город.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_29",
+      "word": "We're all God's children.",
+      "translation": "Все мы дети Бога.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_30",
+      "word": "Do you want children?",
+      "translation": "Ты хочешь детей?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_31",
+      "word": "My mother never liked me.",
+      "translation": "Мать никогда меня не любила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_32",
+      "word": "He did it for his family.",
+      "translation": "Он сделал это ради своей семьи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_33",
+      "word": "Don't scare the children.",
+      "translation": "Не пугайте детей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_34",
+      "word": "That's not the only reason.",
+      "translation": "Это не единственная причина.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_35",
+      "word": "Do I need a reason?",
+      "translation": "Разве мне нужна причина?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_36",
+      "word": "My sister died last year.",
+      "translation": "Моя сестра умерла в прошлом году.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_37",
+      "word": "I remember your daughter.",
+      "translation": "Я помню вашу дочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_38",
+      "word": "Who'll look after the children?",
+      "translation": "Кто будет присматривать за детьми?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_39",
+      "word": "Do you know Tom's mother?",
+      "translation": "Ты знаешь маму Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_40",
+      "word": "I love horses.",
+      "translation": "Я люблю лошадей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_41",
+      "word": "My father has five siblings.",
+      "translation": "У моего отца пятеро братьев и сестер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_42",
+      "word": "Where were your parents?",
+      "translation": "Где были твои родители?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_43",
+      "word": "I want to tell Mary I love her.",
+      "translation": "Я хочу сказать Мэри, что я её люблю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_44",
+      "word": "Your son has come of age.",
+      "translation": "Ваш сын достиг совершеннолетия.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_45",
+      "word": "I'm going to be a father.",
+      "translation": "Я собираюсь стать отцом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_46",
+      "word": "Are your parents at home?",
+      "translation": "Твои родители дома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_47",
+      "word": "I love baseball.",
+      "translation": "Я люблю бейсбол.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_48",
+      "word": "My father is here.",
+      "translation": "Мой отец здесь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_2_49",
+      "word": "He got engaged to my cousin.",
+      "translation": "Он обручился с моей двоюродной сестрой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_0",
+      "word": "Why did your father beat you?",
+      "translation": "Почему твой отец тебя бил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_1",
+      "word": "They're brother and sister.",
+      "translation": "Они брат и сестра.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_2",
+      "word": "Where are your children?",
+      "translation": "Где твои дети?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_3",
+      "word": "I want to marry you.",
+      "translation": "Я хочу жениться на тебе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_4",
+      "word": "My husband is a good man.",
+      "translation": "Мой муж — хороший человек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_5",
+      "word": "I have a brother named Tom.",
+      "translation": "У меня есть брат, которого зовут Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_6",
+      "word": "What's the other reason?",
+      "translation": "А другая причина?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_7",
+      "word": "I'm not your sister.",
+      "translation": "Я не твоя сестра.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_8",
+      "word": "Tom is my youngest brother.",
+      "translation": "Том - мой самый младший брат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_9",
+      "word": "I'm a person.",
+      "translation": "Я человек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_10",
+      "word": "Her husband is about to die.",
+      "translation": "Ее муж вот-вот умрет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_11",
+      "word": "I think that love doesn't exist.",
+      "translation": "Я думаю, что любви не существует.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_12",
+      "word": "Tom takes after his father.",
+      "translation": "Том похож на отца.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_13",
+      "word": "I'm a house-husband.",
+      "translation": "Я домохозяин.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_14",
+      "word": "He's not my cousin.",
+      "translation": "Он мне не двоюродный брат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_15",
+      "word": "He was put in prison.",
+      "translation": "Его посадили в тюрьму.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_16",
+      "word": "Tom's daughter is now thirteen.",
+      "translation": "Дочери Тома сейчас тринадцать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_17",
+      "word": "Tom hates me for no reason.",
+      "translation": "Том ненавидит меня без всяких на то причин.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_18",
+      "word": "My uncle gave his car to me.",
+      "translation": "Мой дядя дал мне свою машину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_19",
+      "word": "Tom claimed to be Mary's son.",
+      "translation": "Том утверждал, что он сын Марии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_20",
+      "word": "Tom is my biological father.",
+      "translation": "Том - мой биологический отец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_21",
+      "word": "Tom is proud of his family.",
+      "translation": "Том гордится своей семьёй.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_22",
+      "word": "I brought my son with me.",
+      "translation": "Я привёз с собой моего сына.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_23",
+      "word": "I'd like to meet Tom's sister.",
+      "translation": "Я хотел бы познакомиться с сестрой Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_24",
+      "word": "His parents were furious.",
+      "translation": "Его родители были в ярости.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_25",
+      "word": "Tom is Mary's second cousin.",
+      "translation": "Том — троюродный брат Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_26",
+      "word": "I know your daughter.",
+      "translation": "Я знаю твою дочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_27",
+      "word": "I love Monday!",
+      "translation": "Я люблю понедельник!",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_28",
+      "word": "How old is your daughter?",
+      "translation": "Сколько лет вашей дочери?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_29",
+      "word": "A true love story never ends.",
+      "translation": "Настоящая история любви никогда не заканчивается.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_30",
+      "word": "Do you have a younger sister?",
+      "translation": "У тебя есть младшая сестра?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_31",
+      "word": "Is your father stern?",
+      "translation": "У тебя строгий отец?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_32",
+      "word": "People love dogs.",
+      "translation": "Люди любят собак.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_33",
+      "word": "Does Mary have a husband?",
+      "translation": "У Марии есть муж?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_34",
+      "word": "I'm thankful for my children.",
+      "translation": "Я благодарен за детей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_35",
+      "word": "My mother made me a sweater.",
+      "translation": "Мама связала для меня свитер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_36",
+      "word": "The children are in the truck.",
+      "translation": "Дети в грузовике.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_37",
+      "word": "My mother never gets up early.",
+      "translation": "Моя мать никогда не встаёт рано.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_38",
+      "word": "Is your wife tall?",
+      "translation": "Твоя жена высокая?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_39",
+      "word": "My mother is a good cook.",
+      "translation": "Моя мама хорошо готовит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_40",
+      "word": "Tom doesn't like children.",
+      "translation": "Том не любит детей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_41",
+      "word": "Tom has children.",
+      "translation": "У Тома есть дети.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_42",
+      "word": "My mother lives by herself.",
+      "translation": "Моя мать живет одна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_43",
+      "word": "Am I a bad person?",
+      "translation": "Я плохой человек?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_44",
+      "word": "I still love Mary.",
+      "translation": "Я всё ещё люблю Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_45",
+      "word": "My parents don't like me.",
+      "translation": "Родители меня не любят.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_46",
+      "word": "Tom mistook me for my brother.",
+      "translation": "Том принял меня за моего брата.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_47",
+      "word": "I love him with all my heart.",
+      "translation": "Я люблю его всем сердцем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_48",
+      "word": "I have a family.",
+      "translation": "У меня есть семья.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_3_49",
+      "word": "There also was another reason.",
+      "translation": "Была также другая причина.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_0",
+      "word": "I'm going to be an uncle.",
+      "translation": "Я скоро стану дядей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_1",
+      "word": "Tom looked after the children.",
+      "translation": "Том присматривал за детьми.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_2",
+      "word": "My wife is having a baby.",
+      "translation": "У моей жены будет ребёнок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_3",
+      "word": "Tom doesn't want to have any more children.",
+      "translation": "Том не хочет больше детей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_4",
+      "word": "Tom seems to be a kind person.",
+      "translation": "Том, кажется, приятный человек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_5",
+      "word": "Mary is friends with Tom's ex-wife.",
+      "translation": "Мэри дружит с бывшей женой Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_6",
+      "word": "Tom has never been in love before.",
+      "translation": "Том ещё никогда не влюблялся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_7",
+      "word": "These books aren't just for children.",
+      "translation": "Эти книги не только для детей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_8",
+      "word": "He lured her away from her husband.",
+      "translation": "Он увёл её у мужа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_9",
+      "word": "We have to take care of our children.",
+      "translation": "Нам надо заботиться о своих детях.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_10",
+      "word": "Tom is the son of a very rich man.",
+      "translation": "Том - сын одного очень богатого человека.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_11",
+      "word": "My parents are both dead.",
+      "translation": "Мои родители оба умерли.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_12",
+      "word": "My father recently quit smoking.",
+      "translation": "Мой отец недавно бросил курить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_13",
+      "word": "The children were mesmerized.",
+      "translation": "Дети были заворожены.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_14",
+      "word": "I do not love him any longer.",
+      "translation": "Я его больше не люблю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_15",
+      "word": "My daughter is a tomboy.",
+      "translation": "Моя дочь - пацанка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_16",
+      "word": "His parents hate him.",
+      "translation": "Родители его ненавидят.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_17",
+      "word": "Tom was like a father to Mary.",
+      "translation": "Том был Мэри как отец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_18",
+      "word": "You're going to have a little sister.",
+      "translation": "У тебя будет сестрёнка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_19",
+      "word": "I want a divorce.",
+      "translation": "Я хочу расторгнуть брак.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_20",
+      "word": "Tom accidentally ate some rat poison.",
+      "translation": "Том случайно съел крысиный яд.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_21",
+      "word": "Tom should've listened to his mother.",
+      "translation": "Надо было Тому слушать маму.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_22",
+      "word": "Tom went fly fishing with his father.",
+      "translation": "Том пошел на рыбалку нахлыстом с отцом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_23",
+      "word": "Tom thinks I love Mary.",
+      "translation": "Том думает, что я люблю Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_24",
+      "word": "Tom seems to be in love with Mary.",
+      "translation": "Том, кажется, влюблён в Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_25",
+      "word": "My father is becoming gray.",
+      "translation": "Мой отец седеет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_26",
+      "word": "Tom brought some toys for the children.",
+      "translation": "Том принёс детям игрушек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_27",
+      "word": "Tom teaches French to my children.",
+      "translation": "Том преподаёт французский моим детям.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_28",
+      "word": "Do you often write to your parents?",
+      "translation": "Ты часто пишешь родителям?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_29",
+      "word": "Tom is a bad father.",
+      "translation": "Том - плохой отец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_30",
+      "word": "Your mother wouldn't approve.",
+      "translation": "Твоя мать этого бы не одобрила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_31",
+      "word": "I love birds.",
+      "translation": "Я обожаю птиц.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_32",
+      "word": "Tom knows how much I love him.",
+      "translation": "Том знает, как сильно я его люблю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_33",
+      "word": "I wish to talk to your daughter.",
+      "translation": "Я желаю поговорить с вашей дочерью.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_34",
+      "word": "Tom's parents died when Tom was three.",
+      "translation": "Родители Тома умерли, когда ему было три года.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_35",
+      "word": "She takes care of my children.",
+      "translation": "Она заботится о моих детях.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_36",
+      "word": "She's not as beautiful as her sister.",
+      "translation": "Она не такая красивая, как её сестра.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_37",
+      "word": "Do you have a wife?",
+      "translation": "У тебя есть жена?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_38",
+      "word": "Tom doesn't live with his wife anymore.",
+      "translation": "Том уже не живёт с женой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_39",
+      "word": "That's Tom's sister.",
+      "translation": "Это сестра Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_40",
+      "word": "My wife didn't come with me.",
+      "translation": "Жена со мной не пошла.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_41",
+      "word": "I love my friends.",
+      "translation": "Я люблю своих подруг.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_42",
+      "word": "He's very jealous of his wife.",
+      "translation": "Он очень ревнует свою жену.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_43",
+      "word": "I love spending time with Tom.",
+      "translation": "Я люблю проводить время с Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_44",
+      "word": "Stop hitting your brother.",
+      "translation": "Перестань бить брата!",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_45",
+      "word": "Tom saw his father hit his mother.",
+      "translation": "Том видел, как отец ударил мать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_46",
+      "word": "Tom sat between Mary and her husband.",
+      "translation": "Том сидел между Мэри и её мужем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_47",
+      "word": "I didn't know that Tom was Mary's uncle.",
+      "translation": "Я не знал, что Том - дядя Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_48",
+      "word": "I love this album.",
+      "translation": "Люблю этот альбом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_4_49",
+      "word": "Love will prevail.",
+      "translation": "Любовь восторжествует.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_0",
+      "word": "He was as good a pianist as his mother.",
+      "translation": "Он был таким же хорошим пианистом, как и его мать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_1",
+      "word": "Tom asked Mary's father for her hand.",
+      "translation": "Том попросил у отца Мэри её руки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_2",
+      "word": "I knew your mother well.",
+      "translation": "Я хорошо знал твою мать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_3",
+      "word": "Mary is a single mother.",
+      "translation": "Мэри - мать-одиночка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_4",
+      "word": "Tom is now a different person.",
+      "translation": "Том теперь другой человек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_5",
+      "word": "You're going to be a father.",
+      "translation": "Ты станешь отцом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_6",
+      "word": "Tom wasn't a good father.",
+      "translation": "Том не был хорошим отцом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_7",
+      "word": "Children should obey their parents.",
+      "translation": "Детям следует слушаться родителей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_8",
+      "word": "This CD belongs to my son.",
+      "translation": "Этот диск принадлежит моему сыну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_9",
+      "word": "Who's the father?",
+      "translation": "Кто отец?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_10",
+      "word": "I'm Tom's stepfather.",
+      "translation": "Я отчим Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_11",
+      "word": "Love gives us hope.",
+      "translation": "Любовь даёт нам надежду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_12",
+      "word": "Tom introduced his family.",
+      "translation": "Том представил свою семью.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_13",
+      "word": "Have you heard from your sister lately?",
+      "translation": "Ты в последнее время получал известия от своей сестры?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_14",
+      "word": "I don't think Tom is in love.",
+      "translation": "Не думаю, что Том влюблён.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_15",
+      "word": "I love Tom.",
+      "translation": "Я люблю Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_16",
+      "word": "Tom lived with his parents in Boston.",
+      "translation": "Том жил в Бостоне со своими родителями.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_17",
+      "word": "I ran into my aunt by chance in Europe.",
+      "translation": "Я случайно встретил свою тётю в Европе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_18",
+      "word": "His parents bought him something nice.",
+      "translation": "Родители купили ему что-то классное.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_19",
+      "word": "I think I'm falling in love with you.",
+      "translation": "Я, кажется, в тебя влюбляюсь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_20",
+      "word": "Children are playing in the schoolyard.",
+      "translation": "В школьном дворе играют дети.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_21",
+      "word": "She is taller than her sister.",
+      "translation": "Она выше своей сестры.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_22",
+      "word": "He is the father of three children.",
+      "translation": "Он отец троих детей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_23",
+      "word": "Tom's mother has died.",
+      "translation": "Мать Тома умерла.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_24",
+      "word": "You're a terrible person.",
+      "translation": "Ты ужасный человек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_25",
+      "word": "She always reminds me of her mother.",
+      "translation": "Она всегда напоминает мне о своей матери.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_26",
+      "word": "She wants to marry a rich man.",
+      "translation": "Она хочет выйти за богатого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_27",
+      "word": "You're the woman I love.",
+      "translation": "Ты женщина, которую я люблю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_28",
+      "word": "Father usually comes home at eight.",
+      "translation": "Обычно отец приходит домой в восемь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_29",
+      "word": "I knew your father.",
+      "translation": "Я знала твоего отца.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_30",
+      "word": "Tom's parents seem like nice people.",
+      "translation": "Родители Тома, похоже, приятные люди.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_31",
+      "word": "I don't love you anymore.",
+      "translation": "Я Вас больше не люблю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_32",
+      "word": "Tom misses his mother.",
+      "translation": "Том скучает по матери.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_33",
+      "word": "I have a large family I have to support.",
+      "translation": "Мне приходится содержать большую семью.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_34",
+      "word": "Is your family doing well?",
+      "translation": "У вас в семье всё хорошо?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_35",
+      "word": "I've got a wife at home.",
+      "translation": "У меня дома жена.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_36",
+      "word": "Tom lives in Australia with his mother.",
+      "translation": "Том живёт с матерью в Австралии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_37",
+      "word": "My father retired at the age of 65.",
+      "translation": "Мой отец вышел на пенсию в шестьдесят пять лет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_38",
+      "word": "I'm like my father.",
+      "translation": "Я похож на отца.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_39",
+      "word": "Did your husband have many enemies?",
+      "translation": "У твоего мужа было много врагов?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_40",
+      "word": "I often think of my dead mother.",
+      "translation": "Я часто думаю о своей умершей матери.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_41",
+      "word": "It's a family heirloom.",
+      "translation": "Это фамильная ценность.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_42",
+      "word": "In other words, she became a good wife.",
+      "translation": "Другими словами, она стала хорошей женой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_43",
+      "word": "You can't marry Tom.",
+      "translation": "Ты не можешь выйти замуж за Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_44",
+      "word": "Tom is in love with you.",
+      "translation": "Том в тебя влюблён.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_45",
+      "word": "He promised to marry her.",
+      "translation": "Он обещал на ней жениться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_46",
+      "word": "Tom's father walked out on his family.",
+      "translation": "Отец Тома ушёл из семьи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_47",
+      "word": "How were you able to escape from prison?",
+      "translation": "Как тебе удалось сбежать из тюрьмы?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_48",
+      "word": "The children are our future.",
+      "translation": "Дети — наше будущее.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_5_49",
+      "word": "Tom handed his son a lollipop.",
+      "translation": "Том протянул сыну леденец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_0",
+      "word": "You're scaring the children.",
+      "translation": "Ты пугаешь детей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_1",
+      "word": "Tom wants to see his son.",
+      "translation": "Том хочет увидеть своего сына.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_2",
+      "word": "Tom sounds a lot like his brother.",
+      "translation": "Том говорит похоже на своего брата.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_3",
+      "word": "My parents call me up every day.",
+      "translation": "Родители звонят мне каждый день.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_4",
+      "word": "She had to take care of her sister.",
+      "translation": "Она была вынуждена позаботиться о своей сестре.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_5",
+      "word": "How's your mother?",
+      "translation": "Как твоя мать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_6",
+      "word": "You have brought shame upon our family.",
+      "translation": "Ты навлёк позор на нашу семью.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_7",
+      "word": "Did you bring your family with you?",
+      "translation": "Вы привели свою семью с собой?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_8",
+      "word": "The children are gathering firewood.",
+      "translation": "Дети собирают дрова.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_9",
+      "word": "I am a dog person.",
+      "translation": "Я любитель собак.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_10",
+      "word": "He has a large family to provide for.",
+      "translation": "У него большая семья, которую надо обеспечивать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_11",
+      "word": "Is this where your mother works?",
+      "translation": "Это здесь работает твоя мать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_12",
+      "word": "Is this Tom's wife?",
+      "translation": "Это жена Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_13",
+      "word": "She doesn't love me anymore.",
+      "translation": "Она меня больше не любит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_14",
+      "word": "I presume you're Tom Jackson.",
+      "translation": "Полагаю, Вы Том Джексон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_15",
+      "word": "Tom isn't as handsome as his brother.",
+      "translation": "Том не так красив, как его брат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_16",
+      "word": "I love you for that.",
+      "translation": "За это я тебя люблю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_17",
+      "word": "My mother has Parkinson's.",
+      "translation": "У моей матери болезнь Паркинсона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_18",
+      "word": "I'd love to, but I can't.",
+      "translation": "Я бы с радостью, но не могу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_19",
+      "word": "He is teaching Spanish to the children.",
+      "translation": "Он учит детей испанскому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_20",
+      "word": "I know Tom is a good husband and father.",
+      "translation": "Я знаю, что Том хороший муж и отец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_21",
+      "word": "I love your son.",
+      "translation": "Я люблю твоего сына.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_22",
+      "word": "You must be Tom's mother.",
+      "translation": "Вы, наверное, мама Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_23",
+      "word": "My father died of cancer.",
+      "translation": "Мой отец умер от рака.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_24",
+      "word": "Have your parents met Tom yet?",
+      "translation": "Твои родители уже познакомились с Томом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_25",
+      "word": "How often do you call your parents?",
+      "translation": "Как часто ты звонишь родителям?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_26",
+      "word": "My father died before I got my diploma.",
+      "translation": "Мой отец умер до того, как я получил диплом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_27",
+      "word": "I have a wife.",
+      "translation": "У меня есть жена.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_28",
+      "word": "Do you like living with your parents?",
+      "translation": "Тебе нравится жить с родителями?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_29",
+      "word": "Tom married his first love.",
+      "translation": "Том женился на своей первой любви.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_30",
+      "word": "Where is Tom's wife?",
+      "translation": "Где жена Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_31",
+      "word": "Her father died when she was three.",
+      "translation": "Её отец умер, когда ей было три года.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_32",
+      "word": "The children need adult supervision.",
+      "translation": "Дети нуждаются в присмотре взрослых.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_33",
+      "word": "I know both Tom and his wife.",
+      "translation": "Я и Тома знаю, и его жену.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_34",
+      "word": "I told Tom who Mary's father is.",
+      "translation": "Я сказал Тому, кто отец Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_35",
+      "word": "Are you still in love with your wife?",
+      "translation": "Вы всё ещё любите свою жену?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_36",
+      "word": "Who makes the decisions in your family?",
+      "translation": "Кто у вас в семье принимает решения?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_37",
+      "word": "Have you ever heard of Tom Jackson?",
+      "translation": "Ты когда-нибудь слышал о Томе Джексоне?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_38",
+      "word": "Tom will get chewed out by his father.",
+      "translation": "Тома будет ругать отец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_39",
+      "word": "Tom asked Mary for a divorce.",
+      "translation": "Том попросил Мэри о разводе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_40",
+      "word": "I no longer love him.",
+      "translation": "Я его больше не люблю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_41",
+      "word": "She will return home to her family.",
+      "translation": "Она вернется домой к семье.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_42",
+      "word": "Tom has just been released from prison.",
+      "translation": "Том только что вышел из тюрьмы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_43",
+      "word": "Tom fell desperately in love with Mary.",
+      "translation": "Том безнадёжно влюбился в Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_44",
+      "word": "Tom is the bride's father.",
+      "translation": "Том — отец невесты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_45",
+      "word": "I'm the youngest in the family.",
+      "translation": "Я самый младший в семье.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_46",
+      "word": "Tom is married to a cousin of mine.",
+      "translation": "Том женат на моей двоюродной сестре.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_47",
+      "word": "I really love flowers.",
+      "translation": "Я очень люблю цветы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_48",
+      "word": "Are the children asleep?",
+      "translation": "Дети спят?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_6_49",
+      "word": "My younger brother is taller than I am.",
+      "translation": "Мой младший брат выше меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_0",
+      "word": "My father isn't talkative.",
+      "translation": "Мой отец неразговорчив.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_1",
+      "word": "Tom looks like his mother.",
+      "translation": "Том похож на свою мать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_2",
+      "word": "My mother often makes potato salad.",
+      "translation": "Мама часто делает картофельный салат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_3",
+      "word": "Tom is old enough to be your father.",
+      "translation": "Том тебе в отцы годится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_4",
+      "word": "He was named after his grandfather.",
+      "translation": "Его назвали в честь дедушки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_5",
+      "word": "I should've married your sister.",
+      "translation": "Надо было мне на твоей сестре жениться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_6",
+      "word": "Tom lives with his aunt and uncle.",
+      "translation": "Том живёт с тётей и дядей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_7",
+      "word": "Tom is a father.",
+      "translation": "Том отец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_8",
+      "word": "Where were Tom's parents at that time?",
+      "translation": "Где тогда были родители Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_9",
+      "word": "I love her to death.",
+      "translation": "Я её до смерти люблю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_10",
+      "word": "Tom grew up in a close-knit family.",
+      "translation": "Том вырос в дружной семье.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_11",
+      "word": "Do you think Tom is in love with you?",
+      "translation": "Думаешь, Том в тебя влюблен?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_12",
+      "word": "When is blueberry season?",
+      "translation": "Когда поспевает голубика?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_13",
+      "word": "If I'd only listened to my parents!",
+      "translation": "Если бы только я послушал родителей!",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_14",
+      "word": "I'm very proud of my son.",
+      "translation": "Я очень горжусь своим сыном.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_15",
+      "word": "We must keep up the family traditions.",
+      "translation": "Нам нужно поддерживать семейные традиции.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_16",
+      "word": "Tom didn't know I was Mary's husband.",
+      "translation": "Том не знал, что я муж Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_17",
+      "word": "Tom introduced Mary to his parents.",
+      "translation": "Том познакомил Мэри со своими родителями.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_18",
+      "word": "I'm glad Mary isn't my wife.",
+      "translation": "Я рад, что Мэри не моя жена.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_19",
+      "word": "Where's your father now?",
+      "translation": "Где сейчас твой отец?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_20",
+      "word": "Have I ever told you that I love you?",
+      "translation": "Я когда-нибудь говорил, что люблю тебя?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_21",
+      "word": "I love everything about you.",
+      "translation": "Я всё в тебе люблю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_22",
+      "word": "He fell in love with her at first sight.",
+      "translation": "Он с первого взгляда в неё влюбился.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_23",
+      "word": "Tom and Mary love each other very much.",
+      "translation": "Том с Мэри очень любят друг друга.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_24",
+      "word": "Tom's daughter has been kidnapped.",
+      "translation": "Дочь Тома похитили.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_25",
+      "word": "What do you know about Tom's family?",
+      "translation": "Что ты знаешь о семье Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_26",
+      "word": "Tom is the perfect father.",
+      "translation": "Том - идеальный отец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_27",
+      "word": "I know you're still in love with me.",
+      "translation": "Я знаю, что ты всё ещё влюблён в меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_28",
+      "word": "I've been in love before.",
+      "translation": "Я уже влюблялся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_29",
+      "word": "Is it true that Tom's father is famous?",
+      "translation": "Это правда, что отец Тома знаменит?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_30",
+      "word": "Tom made up his mind to marry Mary.",
+      "translation": "Том решил жениться на Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_31",
+      "word": "I speak only French with my parents.",
+      "translation": "Я говорю с родителями только по-французски.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_32",
+      "word": "I don't know where my mother is.",
+      "translation": "Я не знаю, где моя мать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_33",
+      "word": "Tom, your mother is here.",
+      "translation": "Том, твоя мама здесь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_34",
+      "word": "Tom's parents are older than mine.",
+      "translation": "Родители Тома старше моих.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_35",
+      "word": "I'm a lot like my father.",
+      "translation": "Я очень похож на своего отца.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_36",
+      "word": "I really love your house.",
+      "translation": "Я очень люблю ваш дом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_37",
+      "word": "They aren't my parents.",
+      "translation": "Они не мои родители.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_38",
+      "word": "Which of these men is your father?",
+      "translation": "Кто из этих людей твой отец?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_39",
+      "word": "Tom is like a member of our family.",
+      "translation": "Том для нас словно член семьи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_40",
+      "word": "My wife and I were both born in Boston.",
+      "translation": "Мы с женой оба родились в Бостоне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_41",
+      "word": "Tom tried to protect his daughter.",
+      "translation": "Том пытался защитить свою дочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_42",
+      "word": "I think Tom is still in love with Mary.",
+      "translation": "Я думаю, Том до сих пор влюблён в Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_43",
+      "word": "Tom is younger than his wife.",
+      "translation": "Том младше жены.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_44",
+      "word": "I love hot dogs.",
+      "translation": "Я люблю хот-доги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_45",
+      "word": "My brother is living in Boston.",
+      "translation": "Мой брат живёт в Бостоне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_46",
+      "word": "I'm not your son.",
+      "translation": "Я не твой сын.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_47",
+      "word": "I love bearded men.",
+      "translation": "Я люблю бородатых мужчин.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_48",
+      "word": "Why do you guys love Australia?",
+      "translation": "За что вы любите Австралию?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_7_49",
+      "word": "I have to call my father.",
+      "translation": "Я должна позвонить моему отцу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_0",
+      "word": "Children must be accompanied by adults.",
+      "translation": "Дети должны быть в сопровождении взрослых.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_1",
+      "word": "Is that your husband?",
+      "translation": "Это твой муж?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_2",
+      "word": "His wife is quite a talented woman.",
+      "translation": "Его супруга очень талантливая женщина.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_3",
+      "word": "Tom is a househusband.",
+      "translation": "Том — домохозяин.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_4",
+      "word": "She fell in love with him.",
+      "translation": "Она влюбилась в него.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_5",
+      "word": "Tom has an older sister named Mary.",
+      "translation": "У Тома есть старшая сестра по имени Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_6",
+      "word": "I love smoked sausages.",
+      "translation": "Обожаю копченые колбаски.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_7",
+      "word": "I'd like to meet Tom's father.",
+      "translation": "Я хотел бы познакомиться с отцом Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_8",
+      "word": "Tom and I don't have any children.",
+      "translation": "У нас с Томом нет детей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_9",
+      "word": "You never say that you love me.",
+      "translation": "Ты никогда не говоришь, что любишь меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_10",
+      "word": "When was the last time you ate venison?",
+      "translation": "Когда ты в последний раз ела оленину?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_11",
+      "word": "Tom lives with his mother.",
+      "translation": "Том живёт с мамой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_12",
+      "word": "Tom thought Mary was John's cousin.",
+      "translation": "Том думал, что Мэри - двоюродная сестра Джона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_13",
+      "word": "His wife seems to be a foreigner.",
+      "translation": "Его жена, похоже, иностранка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_14",
+      "word": "I don't have a son.",
+      "translation": "У меня нет сына.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_15",
+      "word": "Tom is always attentive to his parents.",
+      "translation": "Том всегда внимателен к своим родителям.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_16",
+      "word": "Tom doesn't know Mary's children.",
+      "translation": "Том не знаком с детьми Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_17",
+      "word": "My uncle gave him a present.",
+      "translation": "Мой дядя преподнес ему подарок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_18",
+      "word": "Tom said he didn't have a wife.",
+      "translation": "Том сказал, что у него нет жены.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_19",
+      "word": "Both of my parents are working today.",
+      "translation": "Мои родители сегодня оба работают.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_20",
+      "word": "I've fallen out of love with you.",
+      "translation": "Я тебя разлюбил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_21",
+      "word": "My parents made me apologize to Tom.",
+      "translation": "Мои родители заставили меня извиниться перед Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_22",
+      "word": "Is that your wife?",
+      "translation": "Это твоя жена?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_23",
+      "word": "Tom is Mary's grandfather.",
+      "translation": "Том — дедушка Маши.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_24",
+      "word": "My son won't listen to me.",
+      "translation": "Сын отказывается меня слушать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_25",
+      "word": "My parents are getting divorced.",
+      "translation": "Мои родители разводятся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_26",
+      "word": "My family is small.",
+      "translation": "Моя семья небольшая.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_27",
+      "word": "She did it for her children.",
+      "translation": "Она сделала это ради своих детей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_28",
+      "word": "Tom isn't like his sister.",
+      "translation": "Том не такой, как его сестра.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_29",
+      "word": "Tom doesn't want to be like his father.",
+      "translation": "Том не хочет быть таким, как отец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_30",
+      "word": "He's head over heels in love with Mary.",
+      "translation": "Он по уши влюблен в Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_31",
+      "word": "He can ski as skillfully as his father.",
+      "translation": "Он может кататься на лыжах не менее умело, чем его отец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_32",
+      "word": "I love nature.",
+      "translation": "Я люблю природу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_33",
+      "word": "I don't have a son named Tom.",
+      "translation": "У меня нет сына по имени Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_34",
+      "word": "Mary's mother made her a new dress.",
+      "translation": "Мама Мэри сшила ей новое платье.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_35",
+      "word": "I'm not very good with children.",
+      "translation": "Я не очень хорошо лажу с детьми.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_36",
+      "word": "He has a large family to support.",
+      "translation": "У него на содержании большая семья.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_37",
+      "word": "He is not as intelligent as his brother.",
+      "translation": "Он не так умён, как его брат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_38",
+      "word": "I wanted to get my children back.",
+      "translation": "Я хотела вернуть себе детей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_39",
+      "word": "I manage to support my family.",
+      "translation": "У меня получается прокормить семью.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_40",
+      "word": "Tom seemed like the ideal husband.",
+      "translation": "Том казался идеальным мужем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_41",
+      "word": "Tom must be Mary's father.",
+      "translation": "Том, должно быть, отец Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_42",
+      "word": "Father is out, but Mother is at home.",
+      "translation": "Отца нет, но мать дома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_43",
+      "word": "That's a photo of my sister.",
+      "translation": "Это фотография моей сестры.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_44",
+      "word": "I love myself.",
+      "translation": "Я люблю себя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_45",
+      "word": "You're even more beautiful in person.",
+      "translation": "В жизни ты даже красивее.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_46",
+      "word": "I don't want children.",
+      "translation": "Я не хочу детей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_47",
+      "word": "I've always wanted a daughter.",
+      "translation": "Я всегда хотел дочку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_48",
+      "word": "I love reading science fiction novels.",
+      "translation": "Я люблю читать научно-фантастические романы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_8_49",
+      "word": "Tom says that he'll always love Mary.",
+      "translation": "Том говорит, что всегда будет любить Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_0",
+      "word": "My parents taught me how to do that.",
+      "translation": "Этому меня научили родители.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_1",
+      "word": "Tom recently got out of prison.",
+      "translation": "Том недавно освободился.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_2",
+      "word": "Do you believe in love?",
+      "translation": "Ты веришь в любовь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_3",
+      "word": "I'm in love with you.",
+      "translation": "Я влюблён в тебя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_4",
+      "word": "I stayed with my uncle.",
+      "translation": "Я остался со своим дядей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_5",
+      "word": "Tom is a wonderful person.",
+      "translation": "Том - замечательный человек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_6",
+      "word": "I love both Mary and Alice.",
+      "translation": "Я люблю и Мэри, и Элис.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_7",
+      "word": "I saw your brother the other day.",
+      "translation": "Я недавно видел твоего брата.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_8",
+      "word": "My uncle came to see me.",
+      "translation": "Мой дядя пришёл повидать меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_9",
+      "word": "Tom has children and grandchildren.",
+      "translation": "У Тома есть дети и внуки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_10",
+      "word": "Tom was poisoned by his wife.",
+      "translation": "Том был отравлен женой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_11",
+      "word": "Talk to your children.",
+      "translation": "Поговори со своими детьми.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_12",
+      "word": "Children are very impressionable.",
+      "translation": "Дети очень впечатлительны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_13",
+      "word": "Tom is a nice person.",
+      "translation": "Том - хороший человек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_14",
+      "word": "Tom is looking for a wife.",
+      "translation": "Том ищет жену.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_15",
+      "word": "Both my parents are still living.",
+      "translation": "Мои родители ещё живы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_16",
+      "word": "Tom's mother is a devout Catholic.",
+      "translation": "Мать Тома - набожная католичка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_17",
+      "word": "Do you know Tom Jackson?",
+      "translation": "Вы знаете Тома Джексона?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_18",
+      "word": "Tom accidentally shot his wife.",
+      "translation": "Том случайно застрелил свою жену.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_19",
+      "word": "Parents love their children.",
+      "translation": "Родители любят своих детей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_20",
+      "word": "I wrote a letter to my mother.",
+      "translation": "Я написал письмо матери.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_21",
+      "word": "You two look like you're in love.",
+      "translation": "Вы двое выглядите так, словно влюблены.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_22",
+      "word": "We fell in love on our first date.",
+      "translation": "Мы полюбили друг друга на первом свидании.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_23",
+      "word": "I think Tom had a good reason.",
+      "translation": "Я думаю, у Тома была уважительная причина.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_24",
+      "word": "I was named after my great-grandfather.",
+      "translation": "Меня назвали в честь прадеда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_25",
+      "word": "Tom is a very straightforward person.",
+      "translation": "Том очень прямолинеен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_26",
+      "word": "Love is in the air.",
+      "translation": "Любовь витает в воздухе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_27",
+      "word": "My father lectured me for smoking.",
+      "translation": "Мой отец отчитал меня за курение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_28",
+      "word": "Tom is my neighbor's grandson.",
+      "translation": "Том - внук моего соседа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_29",
+      "word": "Tom isn't Mary's biological father.",
+      "translation": "Том не является биологическим отцом Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_30",
+      "word": "May I see my daughter?",
+      "translation": "Могу я увидеть свою дочь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_31",
+      "word": "When you love what you do, it shows.",
+      "translation": "Когда любишь своё дело, это заметно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_32",
+      "word": "Have you met my sister?",
+      "translation": "Ты знаком с моей сестрой?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_33",
+      "word": "Tom's children speak French perfectly.",
+      "translation": "Дети Тома прекрасно говорят по-французски.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_34",
+      "word": "My parents were murdered.",
+      "translation": "Мои родители были убиты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_35",
+      "word": "I helped my father yesterday.",
+      "translation": "Я вчера помог своему отцу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_36",
+      "word": "My parents are so unfair.",
+      "translation": "Мои родители такие несправедливые.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_37",
+      "word": "Tom is a very kind person.",
+      "translation": "Том очень добрый человек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_38",
+      "word": "Tom is the same height as his father.",
+      "translation": "Том такого же роста, как отец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_39",
+      "word": "Why were you in prison?",
+      "translation": "За что ты сидел в тюрьме?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_40",
+      "word": "You should tell Tom that you love Mary.",
+      "translation": "Тебе надо сказать Тому, что ты любишь Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_41",
+      "word": "Bring your daughter.",
+      "translation": "Приводи свою дочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_42",
+      "word": "You were in love with Tom, weren't you?",
+      "translation": "Ты ведь была влюблена в Тома, я прав?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_43",
+      "word": "Tom punished his son for lying.",
+      "translation": "Том наказал своего сына за ложь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_44",
+      "word": "Tom isn't currently in prison.",
+      "translation": "Том сейчас не в тюрьме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_45",
+      "word": "Do you love your family?",
+      "translation": "Ты любишь свою семью?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_46",
+      "word": "Are you planning on having children?",
+      "translation": "Вы планируете иметь детей?",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_47",
+      "word": "Tom left his son a fortune.",
+      "translation": "Том оставил своему сыну состояние.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_48",
+      "word": "You look like Tom's wife.",
+      "translation": "Вы похожи на жену Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_familyrelationships_9_49",
+      "word": "Stop hitting your sister.",
+      "translation": "Прекратите бить свою сестру.",
+      "language": "en"
+    }
+  ]
+}

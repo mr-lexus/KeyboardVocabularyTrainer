@@ -1,0 +1,1291 @@
+{
+  "id": "builtin-family",
+  "name": "Family & Relationships ",
+  "description": "Extensive vocabulary for family members and relationships",
+  "entries": [
+    {
+      "id": "e1",
+      "word": "family",
+      "translation": "семья",
+      "language": "en"
+    },
+    {
+      "id": "e2",
+      "word": "parents",
+      "translation": "родители",
+      "language": "en"
+    },
+    {
+      "id": "e3",
+      "word": "father",
+      "translation": "отец",
+      "language": "en"
+    },
+    {
+      "id": "e4",
+      "word": "mother",
+      "translation": "мать",
+      "language": "en"
+    },
+    {
+      "id": "e5",
+      "word": "son",
+      "translation": "сын",
+      "language": "en"
+    },
+    {
+      "id": "e6",
+      "word": "daughter",
+      "translation": "дочь",
+      "language": "en"
+    },
+    {
+      "id": "e7",
+      "word": "brother",
+      "translation": "брат",
+      "language": "en"
+    },
+    {
+      "id": "e8",
+      "word": "sister",
+      "translation": "сестра",
+      "language": "en"
+    },
+    {
+      "id": "e9",
+      "word": "grandfather",
+      "translation": "дедушка",
+      "language": "en"
+    },
+    {
+      "id": "e10",
+      "word": "grandmother",
+      "translation": "бабушка",
+      "language": "en"
+    },
+    {
+      "id": "e11",
+      "word": "grandson",
+      "translation": "внук",
+      "language": "en"
+    },
+    {
+      "id": "e12",
+      "word": "granddaughter",
+      "translation": "внучка",
+      "language": "en"
+    },
+    {
+      "id": "e13",
+      "word": "uncle",
+      "translation": "дядя",
+      "language": "en"
+    },
+    {
+      "id": "e14",
+      "word": "aunt",
+      "translation": "тетя",
+      "language": "en"
+    },
+    {
+      "id": "e15",
+      "word": "cousin",
+      "translation": "двоюродный брат/сестра",
+      "language": "en"
+    },
+    {
+      "id": "e16",
+      "word": "nephew",
+      "translation": "племянник",
+      "language": "en"
+    },
+    {
+      "id": "e17",
+      "word": "niece",
+      "translation": "племянница",
+      "language": "en"
+    },
+    {
+      "id": "e18",
+      "word": "husband",
+      "translation": "муж",
+      "language": "en"
+    },
+    {
+      "id": "e19",
+      "word": "wife",
+      "translation": "жена",
+      "language": "en"
+    },
+    {
+      "id": "e20",
+      "word": "partner",
+      "translation": "партнер",
+      "language": "en"
+    },
+    {
+      "id": "e21",
+      "word": "marriage",
+      "translation": "брак",
+      "language": "en"
+    },
+    {
+      "id": "e22",
+      "word": "wedding",
+      "translation": "свадьба",
+      "language": "en"
+    },
+    {
+      "id": "e23",
+      "word": "divorce",
+      "translation": "развод",
+      "language": "en"
+    },
+    {
+      "id": "e24",
+      "word": "friend",
+      "translation": "друг",
+      "language": "en"
+    },
+    {
+      "id": "e25",
+      "word": "enemy",
+      "translation": "враг",
+      "language": "en"
+    },
+    {
+      "id": "e26",
+      "word": "neighbor",
+      "translation": "сосед",
+      "language": "en"
+    },
+    {
+      "id": "e27",
+      "word": "guest",
+      "translation": "гость",
+      "language": "en"
+    },
+    {
+      "id": "e28",
+      "word": "host",
+      "translation": "хозяин",
+      "language": "en"
+    },
+    {
+      "id": "e29",
+      "word": "relationship",
+      "translation": "отношение",
+      "language": "en"
+    },
+    {
+      "id": "e30",
+      "word": "couple",
+      "translation": "пара",
+      "language": "en"
+    },
+    {
+      "id": "e31",
+      "word": "baby",
+      "translation": "младенец",
+      "language": "en"
+    },
+    {
+      "id": "e32",
+      "word": "child",
+      "translation": "ребенок",
+      "language": "en"
+    },
+    {
+      "id": "e33",
+      "word": "teenager",
+      "translation": "подросток",
+      "language": "en"
+    },
+    {
+      "id": "e34",
+      "word": "adult",
+      "translation": "взрослый",
+      "language": "en"
+    },
+    {
+      "id": "e35",
+      "word": "man",
+      "translation": "мужчина",
+      "language": "en"
+    },
+    {
+      "id": "e36",
+      "word": "woman",
+      "translation": "женщина",
+      "language": "en"
+    },
+    {
+      "id": "e37",
+      "word": "boy",
+      "translation": "мальчик",
+      "language": "en"
+    },
+    {
+      "id": "e38",
+      "word": "girl",
+      "translation": "девочка",
+      "language": "en"
+    },
+    {
+      "id": "e39",
+      "word": "relative",
+      "translation": "родственник",
+      "language": "en"
+    },
+    {
+      "id": "e40",
+      "word": "generation",
+      "translation": "поколение",
+      "language": "en"
+    },
+    {
+      "id": "e41",
+      "word": "ancestor",
+      "translation": "предок",
+      "language": "en"
+    },
+    {
+      "id": "e42",
+      "word": "descendant",
+      "translation": "потомок",
+      "language": "en"
+    },
+    {
+      "id": "e43",
+      "word": "forefather",
+      "translation": "праотец",
+      "language": "en"
+    },
+    {
+      "id": "e44",
+      "word": "offspring",
+      "translation": "потомок",
+      "language": "en"
+    },
+    {
+      "id": "e45",
+      "word": "kin",
+      "translation": "родня",
+      "language": "en"
+    },
+    {
+      "id": "e46",
+      "word": "kindred",
+      "translation": "родня",
+      "language": "en"
+    },
+    {
+      "id": "e47",
+      "word": "blood",
+      "translation": "кровь",
+      "language": "en"
+    },
+    {
+      "id": "e48",
+      "word": "lineage",
+      "translation": "происхождение",
+      "language": "en"
+    },
+    {
+      "id": "e49",
+      "word": "pedigree",
+      "translation": "родословная",
+      "language": "en"
+    },
+    {
+      "id": "e50",
+      "word": "genealogy",
+      "translation": "генеалогия",
+      "language": "en"
+    },
+    {
+      "id": "e51",
+      "word": "heritage",
+      "translation": "наследие",
+      "language": "en"
+    },
+    {
+      "id": "e52",
+      "word": "heir",
+      "translation": "наследник",
+      "language": "en"
+    },
+    {
+      "id": "e53",
+      "word": "heiress",
+      "translation": "наследница",
+      "language": "en"
+    },
+    {
+      "id": "e54",
+      "word": "sibling",
+      "translation": "брат или сестра",
+      "language": "en"
+    },
+    {
+      "id": "e55",
+      "word": "twin",
+      "translation": "близнец",
+      "language": "en"
+    },
+    {
+      "id": "e56",
+      "word": "triplet",
+      "translation": "тройняшка",
+      "language": "en"
+    },
+    {
+      "id": "e57",
+      "word": "stepfather",
+      "translation": "отчим",
+      "language": "en"
+    },
+    {
+      "id": "e58",
+      "word": "stepmother",
+      "translation": "мачеха",
+      "language": "en"
+    },
+    {
+      "id": "e59",
+      "word": "stepson",
+      "translation": "пасынок",
+      "language": "en"
+    },
+    {
+      "id": "e60",
+      "word": "stepdaughter",
+      "translation": "падчерица",
+      "language": "en"
+    },
+    {
+      "id": "e61",
+      "word": "stepbrother",
+      "translation": "сводный брат",
+      "language": "en"
+    },
+    {
+      "id": "e62",
+      "word": "stepsister",
+      "translation": "сводная сестра",
+      "language": "en"
+    },
+    {
+      "id": "e63",
+      "word": "half-brother",
+      "translation": "сводный брат",
+      "language": "en"
+    },
+    {
+      "id": "e64",
+      "word": "half-sister",
+      "translation": "сводная сестра",
+      "language": "en"
+    },
+    {
+      "id": "e65",
+      "word": "father-in-law",
+      "translation": "тесть/свекор",
+      "language": "en"
+    },
+    {
+      "id": "e66",
+      "word": "mother-in-law",
+      "translation": "теща/свекровь",
+      "language": "en"
+    },
+    {
+      "id": "e67",
+      "word": "son-in-law",
+      "translation": "зять",
+      "language": "en"
+    },
+    {
+      "id": "e68",
+      "word": "daughter-in-law",
+      "translation": "невестка",
+      "language": "en"
+    },
+    {
+      "id": "e69",
+      "word": "brother-in-law",
+      "translation": "шурин/деверь",
+      "language": "en"
+    },
+    {
+      "id": "e70",
+      "word": "sister-in-law",
+      "translation": "золовка/свояченица",
+      "language": "en"
+    },
+    {
+      "id": "e71",
+      "word": "godfather",
+      "translation": "крестный отец",
+      "language": "en"
+    },
+    {
+      "id": "e72",
+      "word": "godmother",
+      "translation": "крестная мать",
+      "language": "en"
+    },
+    {
+      "id": "e73",
+      "word": "godson",
+      "translation": "крестник",
+      "language": "en"
+    },
+    {
+      "id": "e74",
+      "word": "goddaughter",
+      "translation": "крестница",
+      "language": "en"
+    },
+    {
+      "id": "e75",
+      "word": "fiance",
+      "translation": "жених",
+      "language": "en"
+    },
+    {
+      "id": "e76",
+      "word": "fiancee",
+      "translation": "невеста",
+      "language": "en"
+    },
+    {
+      "id": "e77",
+      "word": "bride",
+      "translation": "невеста",
+      "language": "en"
+    },
+    {
+      "id": "e78",
+      "word": "groom",
+      "translation": "жених",
+      "language": "en"
+    },
+    {
+      "id": "e79",
+      "word": "spouse",
+      "translation": "супруг(а)",
+      "language": "en"
+    },
+    {
+      "id": "e80",
+      "word": "mate",
+      "translation": "супруг(а)",
+      "language": "en"
+    },
+    {
+      "id": "e81",
+      "word": "companion",
+      "translation": "компаньон",
+      "language": "en"
+    },
+    {
+      "id": "e82",
+      "word": "colleague",
+      "translation": "коллега",
+      "language": "en"
+    },
+    {
+      "id": "e83",
+      "word": "associate",
+      "translation": "партнер",
+      "language": "en"
+    },
+    {
+      "id": "e84",
+      "word": "acquaintance",
+      "translation": "знакомый",
+      "language": "en"
+    },
+    {
+      "id": "e85",
+      "word": "stranger",
+      "translation": "незнакомец",
+      "language": "en"
+    },
+    {
+      "id": "e86",
+      "word": "peer",
+      "translation": "ровня",
+      "language": "en"
+    },
+    {
+      "id": "e87",
+      "word": "friendship",
+      "translation": "дружба",
+      "language": "en"
+    },
+    {
+      "id": "e88",
+      "word": "companionship",
+      "translation": "товарищество",
+      "language": "en"
+    },
+    {
+      "id": "e89",
+      "word": "fellowship",
+      "translation": "товарищество",
+      "language": "en"
+    },
+    {
+      "id": "e90",
+      "word": "brotherhood",
+      "translation": "братство",
+      "language": "en"
+    },
+    {
+      "id": "e91",
+      "word": "sisterhood",
+      "translation": "сестринство",
+      "language": "en"
+    },
+    {
+      "id": "e92",
+      "word": "bond",
+      "translation": "связь",
+      "language": "en"
+    },
+    {
+      "id": "e93",
+      "word": "tie",
+      "translation": "связь",
+      "language": "en"
+    },
+    {
+      "id": "e94",
+      "word": "link",
+      "translation": "связь",
+      "language": "en"
+    },
+    {
+      "id": "e95",
+      "word": "attachment",
+      "translation": "привязанность",
+      "language": "en"
+    },
+    {
+      "id": "e96",
+      "word": "affection",
+      "translation": "привязанность",
+      "language": "en"
+    },
+    {
+      "id": "e97",
+      "word": "love",
+      "translation": "любовь",
+      "language": "en"
+    },
+    {
+      "id": "e98",
+      "word": "romance",
+      "translation": "романтика",
+      "language": "en"
+    },
+    {
+      "id": "e99",
+      "word": "passion",
+      "translation": "страсть",
+      "language": "en"
+    },
+    {
+      "id": "e100",
+      "word": "intimacy",
+      "translation": "близость",
+      "language": "en"
+    },
+    {
+      "id": "e101",
+      "word": "closeness",
+      "translation": "близость",
+      "language": "en"
+    },
+    {
+      "id": "e102",
+      "word": "trust",
+      "translation": "доверие",
+      "language": "en"
+    },
+    {
+      "id": "e103",
+      "word": "loyalty",
+      "translation": "верность",
+      "language": "en"
+    },
+    {
+      "id": "e104",
+      "word": "fidelity",
+      "translation": "верность",
+      "language": "en"
+    },
+    {
+      "id": "e105",
+      "word": "devotion",
+      "translation": "преданность",
+      "language": "en"
+    },
+    {
+      "id": "e106",
+      "word": "commitment",
+      "translation": "обязательство",
+      "language": "en"
+    },
+    {
+      "id": "e107",
+      "word": "engagement",
+      "translation": "помолвка",
+      "language": "en"
+    },
+    {
+      "id": "e108",
+      "word": "vow",
+      "translation": "клятва",
+      "language": "en"
+    },
+    {
+      "id": "e109",
+      "word": "promise",
+      "translation": "обещание",
+      "language": "en"
+    },
+    {
+      "id": "e110",
+      "word": "anniversary",
+      "translation": "годовщина",
+      "language": "en"
+    },
+    {
+      "id": "e111",
+      "word": "honeymoon",
+      "translation": "медовый месяц",
+      "language": "en"
+    },
+    {
+      "id": "e112",
+      "word": "pregnancy",
+      "translation": "беременность",
+      "language": "en"
+    },
+    {
+      "id": "e113",
+      "word": "maternity",
+      "translation": "материнство",
+      "language": "en"
+    },
+    {
+      "id": "e114",
+      "word": "paternity",
+      "translation": "отцовство",
+      "language": "en"
+    },
+    {
+      "id": "e115",
+      "word": "childhood",
+      "translation": "детство",
+      "language": "en"
+    },
+    {
+      "id": "e116",
+      "word": "boyhood",
+      "translation": "детство",
+      "language": "en"
+    },
+    {
+      "id": "e117",
+      "word": "girlhood",
+      "translation": "детство",
+      "language": "en"
+    },
+    {
+      "id": "e118",
+      "word": "youth",
+      "translation": "юность",
+      "language": "en"
+    },
+    {
+      "id": "e119",
+      "word": "adolescence",
+      "translation": "подростковый возраст",
+      "language": "en"
+    },
+    {
+      "id": "e120",
+      "word": "adulthood",
+      "translation": "взрослая жизнь",
+      "language": "en"
+    },
+    {
+      "id": "e121",
+      "word": "manhood",
+      "translation": "возмужалость",
+      "language": "en"
+    },
+    {
+      "id": "e122",
+      "word": "womanhood",
+      "translation": "женственность",
+      "language": "en"
+    },
+    {
+      "id": "e123",
+      "word": "maturity",
+      "translation": "зрелость",
+      "language": "en"
+    },
+    {
+      "id": "e124",
+      "word": "middle age",
+      "translation": "средний возраст",
+      "language": "en"
+    },
+    {
+      "id": "e125",
+      "word": "old age",
+      "translation": "старость",
+      "language": "en"
+    },
+    {
+      "id": "e126",
+      "word": "elderly",
+      "translation": "пожилой",
+      "language": "en"
+    },
+    {
+      "id": "e127",
+      "word": "senior",
+      "translation": "старший",
+      "language": "en"
+    },
+    {
+      "id": "e128",
+      "word": "pensioner",
+      "translation": "пенсионер",
+      "language": "en"
+    },
+    {
+      "id": "e129",
+      "word": "retiree",
+      "translation": "пенсионер",
+      "language": "en"
+    },
+    {
+      "id": "e130",
+      "word": "orphan",
+      "translation": "сирота",
+      "language": "en"
+    },
+    {
+      "id": "e131",
+      "word": "widow",
+      "translation": "вдова",
+      "language": "en"
+    },
+    {
+      "id": "e132",
+      "word": "widower",
+      "translation": "вдовец",
+      "language": "en"
+    },
+    {
+      "id": "e133",
+      "word": "bachelor",
+      "translation": "холостяк",
+      "language": "en"
+    },
+    {
+      "id": "e134",
+      "word": "spinster",
+      "translation": "старая дева",
+      "language": "en"
+    },
+    {
+      "id": "e135",
+      "word": "single",
+      "translation": "одинокий",
+      "language": "en"
+    },
+    {
+      "id": "e136",
+      "word": "married",
+      "translation": "женатый",
+      "language": "en"
+    },
+    {
+      "id": "e137",
+      "word": "divorced",
+      "translation": "разведенный",
+      "language": "en"
+    },
+    {
+      "id": "e138",
+      "word": "separated",
+      "translation": "в разводе",
+      "language": "en"
+    },
+    {
+      "id": "e139",
+      "word": "engaged",
+      "translation": "помолвлен",
+      "language": "en"
+    },
+    {
+      "id": "e140",
+      "word": "dating",
+      "translation": "встречаются",
+      "language": "en"
+    },
+    {
+      "id": "e141",
+      "word": "courtship",
+      "translation": "ухаживание",
+      "language": "en"
+    },
+    {
+      "id": "e142",
+      "word": "affair",
+      "translation": "роман",
+      "language": "en"
+    },
+    {
+      "id": "e143",
+      "word": "fling",
+      "translation": "интрижка",
+      "language": "en"
+    },
+    {
+      "id": "e144",
+      "word": "crush",
+      "translation": "увлечение",
+      "language": "en"
+    },
+    {
+      "id": "e145",
+      "word": "flirtation",
+      "translation": "флирт",
+      "language": "en"
+    },
+    {
+      "id": "e146",
+      "word": "breakup",
+      "translation": "расставание",
+      "language": "en"
+    },
+    {
+      "id": "e147",
+      "word": "split",
+      "translation": "расставание",
+      "language": "en"
+    },
+    {
+      "id": "e148",
+      "word": "reconciliation",
+      "translation": "примирение",
+      "language": "en"
+    },
+    {
+      "id": "e149",
+      "word": "reunion",
+      "translation": "воссоединение",
+      "language": "en"
+    },
+    {
+      "id": "e150",
+      "word": "dispute",
+      "translation": "спор",
+      "language": "en"
+    },
+    {
+      "id": "e151",
+      "word": "argument",
+      "translation": "ссора",
+      "language": "en"
+    },
+    {
+      "id": "e152",
+      "word": "quarrel",
+      "translation": "ссора",
+      "language": "en"
+    },
+    {
+      "id": "e153",
+      "word": "fight",
+      "translation": "драка",
+      "language": "en"
+    },
+    {
+      "id": "e154",
+      "word": "conflict",
+      "translation": "конфликт",
+      "language": "en"
+    },
+    {
+      "id": "e155",
+      "word": "tension",
+      "translation": "напряжение",
+      "language": "en"
+    },
+    {
+      "id": "e156",
+      "word": "harmony",
+      "translation": "гармония",
+      "language": "en"
+    },
+    {
+      "id": "e157",
+      "word": "peace",
+      "translation": "мир",
+      "language": "en"
+    },
+    {
+      "id": "e158",
+      "word": "understanding",
+      "translation": "понимание",
+      "language": "en"
+    },
+    {
+      "id": "e159",
+      "word": "support",
+      "translation": "поддержка",
+      "language": "en"
+    },
+    {
+      "id": "e160",
+      "word": "encouragement",
+      "translation": "поощрение",
+      "language": "en"
+    },
+    {
+      "id": "e161",
+      "word": "comfort",
+      "translation": "комфорт",
+      "language": "en"
+    },
+    {
+      "id": "e162",
+      "word": "care",
+      "translation": "забота",
+      "language": "en"
+    },
+    {
+      "id": "e163",
+      "word": "protection",
+      "translation": "защита",
+      "language": "en"
+    },
+    {
+      "id": "e164",
+      "word": "guidance",
+      "translation": "руководство",
+      "language": "en"
+    },
+    {
+      "id": "e165",
+      "word": "advice",
+      "translation": "совет",
+      "language": "en"
+    },
+    {
+      "id": "e166",
+      "word": "discipline",
+      "translation": "дисциплина",
+      "language": "en"
+    },
+    {
+      "id": "e167",
+      "word": "obedience",
+      "translation": "послушание",
+      "language": "en"
+    },
+    {
+      "id": "e168",
+      "word": "respect",
+      "translation": "уважение",
+      "language": "en"
+    },
+    {
+      "id": "e169",
+      "word": "honor",
+      "translation": "честь",
+      "language": "en"
+    },
+    {
+      "id": "e170",
+      "word": "reverence",
+      "translation": "почтение",
+      "language": "en"
+    },
+    {
+      "id": "e171",
+      "word": "admiration",
+      "translation": "восхищение",
+      "language": "en"
+    },
+    {
+      "id": "e172",
+      "word": "pride",
+      "translation": "гордость",
+      "language": "en"
+    },
+    {
+      "id": "e173",
+      "word": "joy",
+      "translation": "радость",
+      "language": "en"
+    },
+    {
+      "id": "e174",
+      "word": "happiness",
+      "translation": "счастье",
+      "language": "en"
+    },
+    {
+      "id": "e175",
+      "word": "celebration",
+      "translation": "празднование",
+      "language": "en"
+    },
+    {
+      "id": "e176",
+      "word": "gathering",
+      "translation": "собрание",
+      "language": "en"
+    },
+    {
+      "id": "e177",
+      "word": "party",
+      "translation": "вечеринка",
+      "language": "en"
+    },
+    {
+      "id": "e178",
+      "word": "feast",
+      "translation": "праздник",
+      "language": "en"
+    },
+    {
+      "id": "e179",
+      "word": "banquet",
+      "translation": "банкет",
+      "language": "en"
+    },
+    {
+      "id": "e180",
+      "word": "meal",
+      "translation": "еда",
+      "language": "en"
+    },
+    {
+      "id": "e181",
+      "word": "dinner",
+      "translation": "ужин",
+      "language": "en"
+    },
+    {
+      "id": "e182",
+      "word": "tradition",
+      "translation": "традиция",
+      "language": "en"
+    },
+    {
+      "id": "e183",
+      "word": "custom",
+      "translation": "обычай",
+      "language": "en"
+    },
+    {
+      "id": "e184",
+      "word": "ritual",
+      "translation": "ритуал",
+      "language": "en"
+    },
+    {
+      "id": "e185",
+      "word": "ceremony",
+      "translation": "церемония",
+      "language": "en"
+    },
+    {
+      "id": "e186",
+      "word": "funeral",
+      "translation": "похороны",
+      "language": "en"
+    },
+    {
+      "id": "e187",
+      "word": "burial",
+      "translation": "похороны",
+      "language": "en"
+    },
+    {
+      "id": "e188",
+      "word": "grave",
+      "translation": "могила",
+      "language": "en"
+    },
+    {
+      "id": "e189",
+      "word": "tomb",
+      "translation": "могила",
+      "language": "en"
+    },
+    {
+      "id": "e190",
+      "word": "cemetery",
+      "translation": "кладбище",
+      "language": "en"
+    },
+    {
+      "id": "e191",
+      "word": "mourning",
+      "translation": "траур",
+      "language": "en"
+    },
+    {
+      "id": "e192",
+      "word": "grief",
+      "translation": "горе",
+      "language": "en"
+    },
+    {
+      "id": "e193",
+      "word": "sorrow",
+      "translation": "печаль",
+      "language": "en"
+    },
+    {
+      "id": "e194",
+      "word": "loss",
+      "translation": "потеря",
+      "language": "en"
+    },
+    {
+      "id": "e195",
+      "word": "memory",
+      "translation": "память",
+      "language": "en"
+    },
+    {
+      "id": "e196",
+      "word": "remembrance",
+      "translation": "воспоминание",
+      "language": "en"
+    },
+    {
+      "id": "e197",
+      "word": "legacy",
+      "translation": "наследие",
+      "language": "en"
+    },
+    {
+      "id": "e198",
+      "word": "estate",
+      "translation": "имущество",
+      "language": "en"
+    },
+    {
+      "id": "e199",
+      "word": "will",
+      "translation": "завещание",
+      "language": "en"
+    },
+    {
+      "id": "e200",
+      "word": "inheritance",
+      "translation": "наследство",
+      "language": "en"
+    },
+    {
+      "id": "e201",
+      "word": "succession",
+      "translation": "наследование",
+      "language": "en"
+    },
+    {
+      "id": "e202",
+      "word": "generation gap",
+      "translation": "разрыв поколений",
+      "language": "en"
+    },
+    {
+      "id": "e203",
+      "word": "family tree",
+      "translation": "генеалогическое древо",
+      "language": "en"
+    },
+    {
+      "id": "e204",
+      "word": "household",
+      "translation": "домашнее хозяйство",
+      "language": "en"
+    },
+    {
+      "id": "e205",
+      "word": "home",
+      "translation": "дом",
+      "language": "en"
+    },
+    {
+      "id": "e206",
+      "word": "dwelling",
+      "translation": "жилище",
+      "language": "en"
+    },
+    {
+      "id": "e207",
+      "word": "residence",
+      "translation": "место жительства",
+      "language": "en"
+    },
+    {
+      "id": "e208",
+      "word": "address",
+      "translation": "адрес",
+      "language": "en"
+    },
+    {
+      "id": "e209",
+      "word": "community",
+      "translation": "община",
+      "language": "en"
+    },
+    {
+      "id": "e210",
+      "word": "society",
+      "translation": "общество",
+      "language": "en"
+    },
+    {
+      "id": "e211",
+      "word": "tribe",
+      "translation": "племя",
+      "language": "en"
+    },
+    {
+      "id": "e212",
+      "word": "clan",
+      "translation": "клан",
+      "language": "en"
+    },
+    {
+      "id": "e213",
+      "word": "folk",
+      "translation": "народ",
+      "language": "en"
+    },
+    {
+      "id": "e214",
+      "word": "people",
+      "translation": "люди",
+      "language": "en"
+    }
+  ]
+}

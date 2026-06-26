@@ -1,0 +1,3007 @@
+{
+  "id": "phrasebook-toolsequipment",
+  "name": "Tools & Equipment",
+  "description": "Phrasebook for Tools & Equipment",
+  "entries": [
+    {
+      "id": "pb_toolsequipment_0_0",
+      "word": "Can you fix a toilet?",
+      "translation": "Вы можете починить туалет?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_1",
+      "word": "I looked at Tom and saw that he was still smiling.",
+      "translation": "Я посмотрел на Тома и увидел, что он всё ещё улыбается.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_2",
+      "word": "I saw fear in Tom's eyes.",
+      "translation": "Я видел страх в глазах Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_3",
+      "word": "We heat with wood.",
+      "translation": "Мы топим дровами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_4",
+      "word": "I don't like chopping wood.",
+      "translation": "Я не люблю рубить дрова.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_5",
+      "word": "I saw Tom take it.",
+      "translation": "Я видел, как Том его брал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_6",
+      "word": "Wood is flammable.",
+      "translation": "Дерево легко горит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_7",
+      "word": "I saw Tom's picture.",
+      "translation": "Я видел фотографию Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_8",
+      "word": "I saw how Tom did it.",
+      "translation": "Я видел, как Том это делает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_9",
+      "word": "Do you think Tom saw it?",
+      "translation": "Думаешь, Том это видел?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_10",
+      "word": "I'm trying to fix it.",
+      "translation": "Я пытаюсь это исправить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_11",
+      "word": "We saw everything.",
+      "translation": "Мы всё видели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_12",
+      "word": "I saw nothing new.",
+      "translation": "Я не увидел ничего нового.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_13",
+      "word": "I saw Tom enter the cave.",
+      "translation": "Я видел, как Том входил в пещеру.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_14",
+      "word": "I saw Tom's pictures.",
+      "translation": "Я видел фотографии Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_15",
+      "word": "I saw you hide something.",
+      "translation": "Я видел, как ты что-то прятал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_16",
+      "word": "I hope no one saw me.",
+      "translation": "Надеюсь, меня никто не видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_17",
+      "word": "What Tom saw shocked him.",
+      "translation": "То, что Том увидел, потрясло его.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_18",
+      "word": "He also saw it.",
+      "translation": "Он тоже это видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_19",
+      "word": "I saw how it happened.",
+      "translation": "Я видел, как это произошло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_20",
+      "word": "Copper is a metal.",
+      "translation": "Медь — это металл.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_21",
+      "word": "Lead is a toxic metal.",
+      "translation": "Свинец - токсичный металл.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_22",
+      "word": "I saw Tom do this.",
+      "translation": "Я видел, как Том это делает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_23",
+      "word": "I saw Tom and Mary.",
+      "translation": "Я видел Тома и Марию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_24",
+      "word": "We saw three men.",
+      "translation": "Мы видели троих мужчин.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_25",
+      "word": "We need to build a fire.",
+      "translation": "Нам нужно развести костёр.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_26",
+      "word": "That box is made of wood.",
+      "translation": "Этот ящик сделан из дерева.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_27",
+      "word": "We both saw them.",
+      "translation": "Мы оба их видели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_28",
+      "word": "Tom saw what happened.",
+      "translation": "Том видел, что произошло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_29",
+      "word": "Get a saw.",
+      "translation": "Возьми пилу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_30",
+      "word": "I think Tom saw us.",
+      "translation": "Думаю, Том нас видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_31",
+      "word": "Bring in some firewood.",
+      "translation": "Занеси немного дров.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_32",
+      "word": "I fix broken radios.",
+      "translation": "Я ремонтирую сломанные радиоприемники.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_33",
+      "word": "I saw Tom kiss Mary.",
+      "translation": "Я видел, как Том целовал Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_34",
+      "word": "I saw a wolf.",
+      "translation": "Я видел волка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_35",
+      "word": "I saw it.",
+      "translation": "Я это видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_36",
+      "word": "I saw your brochure.",
+      "translation": "Я видел вашу брошюру.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_37",
+      "word": "I saw nothing at all.",
+      "translation": "Я вообще ничего не видела.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_38",
+      "word": "I saw what was happening.",
+      "translation": "Я видел, что происходит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_39",
+      "word": "What's that machine for?",
+      "translation": "Для чего эта машина?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_40",
+      "word": "I remember what I saw.",
+      "translation": "Я помню, что я видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_41",
+      "word": "I saw it happen.",
+      "translation": "Я видел, как это произошло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_42",
+      "word": "We saw Tom smiling.",
+      "translation": "Мы видели, как Том улыбался.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_43",
+      "word": "I saw Tom at the funeral.",
+      "translation": "Я видел Тома на похоронах.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_44",
+      "word": "I know that I can fix it.",
+      "translation": "Я знаю, что могу его починить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_45",
+      "word": "How do we fix it?",
+      "translation": "Как нам его починить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_46",
+      "word": "I saw a lightning bolt.",
+      "translation": "Я видел молнию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_47",
+      "word": "I know what I saw.",
+      "translation": "Я знаю, что я видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_48",
+      "word": "I never even saw it.",
+      "translation": "Я никогда даже не видел этого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_0_49",
+      "word": "We need more firewood.",
+      "translation": "Нам нужно больше дров.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_0",
+      "word": "I saw your photographs.",
+      "translation": "Я видел твои фотографии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_1",
+      "word": "Tom saw nothing at all.",
+      "translation": "Том вообще ничего не увидел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_2",
+      "word": "I know you saw Tom.",
+      "translation": "Я знаю, что ты видел Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_3",
+      "word": "There's no more firewood.",
+      "translation": "Дров больше нет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_4",
+      "word": "Don't tell me what I saw.",
+      "translation": "Не говори мне, что́ я видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_5",
+      "word": "Have you tried to fix it?",
+      "translation": "Ты пытался его починить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_6",
+      "word": "Tighten this screw.",
+      "translation": "Затяни этот винт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_7",
+      "word": "We saw Tom crying.",
+      "translation": "Мы видели, как Том плачет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_8",
+      "word": "I saw you give it to Tom.",
+      "translation": "Я видел, как ты даешь это Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_9",
+      "word": "Tom saw a squirrel.",
+      "translation": "Том увидел белку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_10",
+      "word": "Tom saw what Mary did.",
+      "translation": "Том видел, что сделала Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_11",
+      "word": "Do you think Tom saw Mary?",
+      "translation": "Думаешь, Том видел Мэри?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_12",
+      "word": "Tell me what you saw.",
+      "translation": "Скажи мне, что ты видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_13",
+      "word": "Tom saw Mary waiting.",
+      "translation": "Том видел, что Мэри ждет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_14",
+      "word": "Tom never even saw Mary.",
+      "translation": "Том даже никогда не видел Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_15",
+      "word": "I saw you there.",
+      "translation": "Я тебя там видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_16",
+      "word": "I'm going to fix this.",
+      "translation": "Я это починю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_17",
+      "word": "He ran away when he saw me.",
+      "translation": "Он убежал, когда увидел меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_18",
+      "word": "I saw a zebra at the zoo.",
+      "translation": "Я видел в зоопарке зебру.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_19",
+      "word": "Tom saw a badger.",
+      "translation": "Том видел барсука.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_20",
+      "word": "Tom smiled when he saw me.",
+      "translation": "Том улыбнулся, увидев меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_21",
+      "word": "We saw Tom doing it.",
+      "translation": "Мы видели, как Том это делает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_22",
+      "word": "He broke the machine by using it incorrectly.",
+      "translation": "Он сломал машину, неправильно её используя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_23",
+      "word": "Tom needed a hammer.",
+      "translation": "Тому нужен был молоток.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_24",
+      "word": "I saw you spying on Tom.",
+      "translation": "Я видел, как ты следишь за Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_25",
+      "word": "No one saw Tom take it.",
+      "translation": "Никто не видел, как Том его брал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_26",
+      "word": "They probably saw our ship come into port.",
+      "translation": "Они, вероятно, видели наш корабль прибывающим в порт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_27",
+      "word": "I got jealous when I saw Tom hugging Mary.",
+      "translation": "Я заревновала, когда увидела, что Том обнимает Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_28",
+      "word": "He said he would recognize it when he saw it.",
+      "translation": "Он сказал, что узнал бы его, если бы увидел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_29",
+      "word": "I didn't know that Tom saw me leaving early.",
+      "translation": "Я не знал, что Том видел, как я рано уходил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_30",
+      "word": "I'm sure it was Tom that I saw in the park.",
+      "translation": "Я уверен, что в парке я видел Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_31",
+      "word": "Do you have underwater photography equipment?",
+      "translation": "У вас есть оборудование для подводной съёмки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_32",
+      "word": "I hope that no one saw you coming in here.",
+      "translation": "Надеюсь, что никто не видел, как ты сюда заходил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_33",
+      "word": "I stepped on a nail.",
+      "translation": "Я наступил на гвоздь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_34",
+      "word": "Tom was the only one who saw what happened.",
+      "translation": "Том был единственным, кто видел, что произошло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_35",
+      "word": "Tom saw his former employer at a conference.",
+      "translation": "Том видел на конференции своего бывшего работодателя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_36",
+      "word": "Nobody saw Tom fall.",
+      "translation": "Никто не видел падения Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_37",
+      "word": "Do you have a corkscrew?",
+      "translation": "У вас есть штопор?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_38",
+      "word": "I hope that nobody saw you coming in here.",
+      "translation": "Надеюсь, что никто не видел, как ты сюда заходил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_39",
+      "word": "Tom carried the tool box into the garage.",
+      "translation": "Том отнёс ящик с инструментами в гараж.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_40",
+      "word": "I saw something terrible.",
+      "translation": "Я видел нечто ужасное.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_41",
+      "word": "We saw something.",
+      "translation": "Мы что-то видели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_42",
+      "word": "Tom has gained weight since I last saw him.",
+      "translation": "Том потолстел с тех пор, когда я его в последний раз видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_43",
+      "word": "These are the people who saw the explosion.",
+      "translation": "Это люди, которые видели взрыв.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_44",
+      "word": "We saw you at the beach.",
+      "translation": "Мы видели вас на пляже.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_45",
+      "word": "The instructions are attached to the machine.",
+      "translation": "Инструкции приложены к машине.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_46",
+      "word": "We saw a jet plane fly across the sky.",
+      "translation": "Мы видели в небе реактивный самолёт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_47",
+      "word": "We'll have to build a pen for the pigs.",
+      "translation": "Мы должны будем построить загон для свиней.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_48",
+      "word": "I never actually saw Tom.",
+      "translation": "Я на самом деле никогда не видел Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_1_49",
+      "word": "Tom burst out laughing when he saw Mary.",
+      "translation": "Том рассмеялся, увидев Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_0",
+      "word": "Tom saw Mary crying.",
+      "translation": "Том увидел, что Мэри плачет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_1",
+      "word": "There are lots of things we've got to fix.",
+      "translation": "Нам надо многое уладить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_2",
+      "word": "I saw a man with a child.",
+      "translation": "Я видел мужчину с ребёнком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_3",
+      "word": "Nickel is a hard metal with a silvery luster.",
+      "translation": "Никель - твёрдый металл с серебристым свечением.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_4",
+      "word": "I need you to fix this.",
+      "translation": "Мне нужно, чтобы вы это исправили.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_5",
+      "word": "They saw me.",
+      "translation": "Они меня видели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_6",
+      "word": "Tom told me he thought he saw Mary.",
+      "translation": "Том рассказал мне, что он думал, что увидел Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_7",
+      "word": "When Tom saw the policeman, he ran away.",
+      "translation": "Увидев полицейского, Том сбежал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_8",
+      "word": "Why do birds build nests?",
+      "translation": "Зачем птицы вьют гнёзда?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_9",
+      "word": "Don't worry. I can fix it.",
+      "translation": "Не беспокойтесь! Я могу это починить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_10",
+      "word": "Gold is more precious than any other metal.",
+      "translation": "Золото — самый ценный из всех металлов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_11",
+      "word": "The machine was working at full blast.",
+      "translation": "Машина работала на полной мощности.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_12",
+      "word": "Tom wasn't impressed by what he saw.",
+      "translation": "Том не был впечатлён увиденным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_13",
+      "word": "Tom saw a moose.",
+      "translation": "Том видел лося.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_14",
+      "word": "The nail that sticks out gets hammered down.",
+      "translation": "Торчащий гвоздь забивают.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_15",
+      "word": "I just saw Tom and Mary.",
+      "translation": "Я только что видел Тома и Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_16",
+      "word": "Why do you need a hammer?",
+      "translation": "Зачем тебе молоток?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_17",
+      "word": "How do we fix this problem?",
+      "translation": "Как нам решить эту проблему?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_18",
+      "word": "Iron is a metal.",
+      "translation": "Железо — металл.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_19",
+      "word": "Can you fix this or not?",
+      "translation": "Ты можешь это починить или нет?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_20",
+      "word": "Would you recognize Tom if you saw him?",
+      "translation": "Ты бы узнал Тома, если бы увидел?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_21",
+      "word": "Tom saw something.",
+      "translation": "Том что-то видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_22",
+      "word": "She testified that she saw the man.",
+      "translation": "Она подтвердила, что видела этого человека.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_23",
+      "word": "We build houses.",
+      "translation": "Мы строим дома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_24",
+      "word": "You've changed a lot since I last saw you.",
+      "translation": "Ты очень изменился с тех пор, как мы в последний раз виделись.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_25",
+      "word": "I saw Tom outside your door, eavesdropping.",
+      "translation": "Я видел, как Том подслушивает у тебя за дверью.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_26",
+      "word": "They also sold wood and wood products.",
+      "translation": "Они также продавали дерево и деревянные изделия.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_27",
+      "word": "I saw you there with a tall guy. Who is he?",
+      "translation": "Я видел тебя там с каким-то высоким парнем. Кто он?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_28",
+      "word": "I can fix it.",
+      "translation": "Я могу это исправить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_29",
+      "word": "Tom put some branches into the wood chipper.",
+      "translation": "Том подложил веток в дереводробильную машину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_30",
+      "word": "It took 22 years to build the Taj Mahal.",
+      "translation": "Потребовалось 22 года, чтобы построить Тадж-Махал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_31",
+      "word": "I saw him in the park.",
+      "translation": "Я видел его в парке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_32",
+      "word": "This morning, I saw an angel.",
+      "translation": "Сегодня утром я видел ангела.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_33",
+      "word": "I saw you smiling.",
+      "translation": "Я видел, как ты улыбался.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_34",
+      "word": "Tom saw the tears in Mary's eyes.",
+      "translation": "Том видел слёзы в глазах у Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_35",
+      "word": "The person I saw was a man, not a woman.",
+      "translation": "Человек, которого я видел, был мужчиной, а не женщиной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_36",
+      "word": "Wood floats, but iron sinks.",
+      "translation": "Дерево плавает, а железо тонет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_37",
+      "word": "I saw you dancing.",
+      "translation": "Я видел, как ты танцевал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_38",
+      "word": "Are you sure nobody saw you?",
+      "translation": "Тебя точно никто не видел?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_39",
+      "word": "The thief ran away when he saw a policeman.",
+      "translation": "Вор убежал, увидев полицейского.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_40",
+      "word": "I saw a cottage in the distance.",
+      "translation": "Я увидел вдалеке коттедж.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_41",
+      "word": "This machine is superior in quality to that one.",
+      "translation": "Эта машина лучшего качества, чем та.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_42",
+      "word": "How can we fix this mistake?",
+      "translation": "Как мы можем исправить эту ошибку?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_43",
+      "word": "All I want is a washing machine.",
+      "translation": "Всё, чего я хочу, - это стиральная машина.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_44",
+      "word": "We don't have the proper equipment.",
+      "translation": "У нас нет подходящего снаряжения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_45",
+      "word": "I saw Tom digging a hole.",
+      "translation": "Я видел, как Том рыл яму.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_46",
+      "word": "As soon as Tom got off the train, he saw Mary.",
+      "translation": "Как только Том сошел с поезда, он увидел Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_47",
+      "word": "Don't saw the branch that you're sitting on.",
+      "translation": "Не пили сук, на котором сидишь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_48",
+      "word": "Tom saw what Mary was doing.",
+      "translation": "Том увидел, что делала Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_2_49",
+      "word": "Can you tell me more about the person you saw?",
+      "translation": "Вы можете рассказать мне поподробнее о человеке, которого видели?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_0",
+      "word": "Tom likes to fix things.",
+      "translation": "Тому нравится чинить вещи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_1",
+      "word": "I saw you looking at Tom.",
+      "translation": "Я видел, что ты смотришь на Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_2",
+      "word": "Mary came up to me when she saw me.",
+      "translation": "Мэри подошла ко мне, когда меня увидела.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_3",
+      "word": "Tom gathered wood for the fire.",
+      "translation": "Том собрал дров для костра.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_4",
+      "word": "The nail that sticks up gets hammered down.",
+      "translation": "Торчащий гвоздь забивают.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_5",
+      "word": "I saw you with a man.",
+      "translation": "Я видел тебя с мужчиной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_6",
+      "word": "I saw Tom die.",
+      "translation": "Я видел, как Том умирает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_7",
+      "word": "Tom thought no one saw him.",
+      "translation": "Том думал, что его никто не видит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_8",
+      "word": "I saw Tom take your keys.",
+      "translation": "Я видел, как Том взял твои ключи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_9",
+      "word": "We saw a strange object in the sky.",
+      "translation": "Мы увидели странный объект в небе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_10",
+      "word": "Tom saw three deer.",
+      "translation": "Том видел трёх оленей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_11",
+      "word": "I saw the man jump.",
+      "translation": "Я видел, как мужчина прыгнул.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_12",
+      "word": "Did Tom repair the watch?",
+      "translation": "Том починил часы?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_13",
+      "word": "He ran away when he saw the policeman.",
+      "translation": "Он сбежал, завидев полицейского.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_14",
+      "word": "We all saw Tom kissing Mary.",
+      "translation": "Все мы видели, как Том целует Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_15",
+      "word": "I saw Tom in Boston last weekend.",
+      "translation": "Я видел Тома в Бостоне в прошлые выходные.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_16",
+      "word": "What did Tom build?",
+      "translation": "Что Том построил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_17",
+      "word": "I'll try to fix it later.",
+      "translation": "Попробую починить позже.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_18",
+      "word": "I saw you laughing.",
+      "translation": "Я видел, как ты смеялся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_19",
+      "word": "I only saw one person on the beach.",
+      "translation": "На пляже я видел только одного человека.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_20",
+      "word": "It's a snail.",
+      "translation": "Это улитка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_21",
+      "word": "Nobody saw it coming.",
+      "translation": "Этого никто не предвидел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_22",
+      "word": "Looking out of the window, I saw a rainbow.",
+      "translation": "Выглянув из окна, я увидел радугу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_23",
+      "word": "Are you sure Tom is the person you saw?",
+      "translation": "Ты уверен, что ты именно Тома видел?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_24",
+      "word": "Do you know how to fix this TV?",
+      "translation": "Вы знаете, как починить этот телевизор?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_25",
+      "word": "I saw nobody around.",
+      "translation": "Я никого поблизости не видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_26",
+      "word": "They're here to fix the heating system.",
+      "translation": "Они пришли починить отопление.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_27",
+      "word": "Put the pliers in the tool box.",
+      "translation": "Положи плоскогубцы в ящик для инструментов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_28",
+      "word": "I saw three men chasing Tom.",
+      "translation": "Я видел, как за Томом гонятся трое мужчин.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_29",
+      "word": "I saw a UFO.",
+      "translation": "Я видел НЛО.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_30",
+      "word": "Can you fix this for me?",
+      "translation": "Можешь мне это починить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_31",
+      "word": "I saw a koala.",
+      "translation": "Я увидел коалу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_32",
+      "word": "I saw you earlier.",
+      "translation": "Я тебя раньше видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_33",
+      "word": "I had him repair my watch.",
+      "translation": "Он починил мои часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_34",
+      "word": "No one saw you, I hope.",
+      "translation": "Тебя никто не видел, надеюсь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_35",
+      "word": "Why didn't you use the saw that I lent you?",
+      "translation": "Почему ты не использовал пилу, которую я тебе одолжил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_36",
+      "word": "I saw Tom try to kill himself.",
+      "translation": "Я видел, как Том пытался покончить с собой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_37",
+      "word": "This machine is broken.",
+      "translation": "Эта машина сломана.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_38",
+      "word": "No one saw me.",
+      "translation": "Меня никто не видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_39",
+      "word": "Something is always going wrong with the machine.",
+      "translation": "С механизмом вечно что-то не в порядке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_40",
+      "word": "Something is wrong with this washing machine.",
+      "translation": "С этой стиральной машиной что-то не так.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_41",
+      "word": "Tom couldn't control himself when he saw Mary kissing John.",
+      "translation": "Том не мог себя контролировать, когда увидел, как Мэри целует Джона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_42",
+      "word": "I saw a light at the end of the tunnel.",
+      "translation": "Я увидел свет в конце туннеля.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_43",
+      "word": "A single machine can replace ten workers.",
+      "translation": "Один станок может заменить десять рабочих.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_44",
+      "word": "We saw a dim light in the darkness.",
+      "translation": "Мы видели тусклый свет во мраке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_45",
+      "word": "Tom saw Mary working.",
+      "translation": "Том видел, как Мэри работает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_46",
+      "word": "Do you know how to fix this?",
+      "translation": "Ты знаешь, как это починить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_47",
+      "word": "I saw you with a woman.",
+      "translation": "Я видел тебя с женщиной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_48",
+      "word": "When I fix a thing, it stays fixed.",
+      "translation": "Если я что-нибудь чиню, то это уж держится крепко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_3_49",
+      "word": "No one saw anything.",
+      "translation": "Никто ничего не видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_0",
+      "word": "Bring your tool box.",
+      "translation": "Принеси ящик с инструментами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_1",
+      "word": "Tom saw it, too.",
+      "translation": "Том его тоже видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_2",
+      "word": "I hope nobody saw me kissing Tom.",
+      "translation": "Надеюсь, никто не видел, как я целую Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_3",
+      "word": "No one saw Tom and me.",
+      "translation": "Нас с Томом никто не видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_4",
+      "word": "I know I can fix it.",
+      "translation": "Я знаю, что могу его починить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_5",
+      "word": "I saw her again.",
+      "translation": "Я опять её видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_6",
+      "word": "We saw a flying saucer.",
+      "translation": "Мы видели летающую тарелку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_7",
+      "word": "I saw Tom a couple of weeks ago in Boston.",
+      "translation": "Я видел Тома в Бостоне пару недель назад.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_8",
+      "word": "That's what I saw.",
+      "translation": "Это то, что я видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_9",
+      "word": "I can't use this machine.",
+      "translation": "Я не могу использовать эту машину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_10",
+      "word": "Could you fix it?",
+      "translation": "Ты не мог бы это починить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_11",
+      "word": "I'm looking for a lipstick to go with this nail polish.",
+      "translation": "Я ищу губную помаду, которая бы подошла к этому лаку для ногтей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_12",
+      "word": "I didn't like what I saw.",
+      "translation": "Мне не понравилось то, что я увидел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_13",
+      "word": "Tom saw that Mary was upset.",
+      "translation": "Том видел, что Мэри расстроена.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_14",
+      "word": "I saw Tom smoking a cigarette.",
+      "translation": "Я видел, как Том курил сигарету.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_15",
+      "word": "Japanese houses are built of wood and they catch fire easily.",
+      "translation": "Японские дома построены из дерева, и они легко загораются.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_16",
+      "word": "Tom claimed that he saw a UFO.",
+      "translation": "Том утверждал, что он видел НЛО.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_17",
+      "word": "I saw a wolverine.",
+      "translation": "Я видел росомаху.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_18",
+      "word": "Tom said he could fix it.",
+      "translation": "Том сказал, что может это починить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_19",
+      "word": "We saw a pride of lions.",
+      "translation": "Мы видели львиный прайд.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_20",
+      "word": "I hope no one saw us.",
+      "translation": "Надеюсь, нас никто не видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_21",
+      "word": "I only saw him once.",
+      "translation": "Я видел его всего один раз.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_22",
+      "word": "You need to fix this.",
+      "translation": "Тебе нужно это починить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_23",
+      "word": "Tom saw some bears.",
+      "translation": "Том видел медведей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_24",
+      "word": "I want to build an igloo.",
+      "translation": "Я хочу построить иглу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_25",
+      "word": "Tom won't fix this.",
+      "translation": "Том это не починит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_26",
+      "word": "I saw Tom come in.",
+      "translation": "Я видел, как Том входил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_27",
+      "word": "I saw many things.",
+      "translation": "Я многое видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_28",
+      "word": "I'm sure I saw her two years ago.",
+      "translation": "Я уверен, что видел её два года назад.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_29",
+      "word": "I thought I saw a ghost.",
+      "translation": "Я думал, что вижу привидение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_30",
+      "word": "Tom saw you.",
+      "translation": "Том тебя видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_31",
+      "word": "Tom only saw Mary once.",
+      "translation": "Том видел Мэри всего один раз.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_32",
+      "word": "I saw him recently.",
+      "translation": "Я недавно его видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_33",
+      "word": "I need my tools to fix it.",
+      "translation": "Мне нужны мои инструменты, чтобы его починить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_34",
+      "word": "Gold is a precious metal.",
+      "translation": "Золото - драгоценный металл.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_35",
+      "word": "We should get some more firewood.",
+      "translation": "Нам надо бы достать ещё дров.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_36",
+      "word": "All equipment must be sanitized.",
+      "translation": "Всё оборудование должно быть продезинфицировано.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_37",
+      "word": "We can fix this.",
+      "translation": "Мы можем это починить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_38",
+      "word": "I'll fix it later.",
+      "translation": "Я это потом исправлю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_39",
+      "word": "The ships were made from wood.",
+      "translation": "Корабли были деревянными.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_40",
+      "word": "I saw flashes of lightning in the distance.",
+      "translation": "Вдалеке я видел вспышки молнии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_41",
+      "word": "I saw the girls pick the wild flowers.",
+      "translation": "Я видел девочек, собирающих дикие цветы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_42",
+      "word": "Nobody saw us, I hope.",
+      "translation": "Никто нас не видел, надеюсь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_43",
+      "word": "I saw one once.",
+      "translation": "Я однажды одного видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_44",
+      "word": "I have a washing machine.",
+      "translation": "У меня есть стиральная машина.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_45",
+      "word": "Maybe I can fix it with this piece of wire.",
+      "translation": "Может быть, я смогу починить это с помощью этого куска проволоки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_46",
+      "word": "How can we fix this error?",
+      "translation": "Как мы можем исправить эту ошибку?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_47",
+      "word": "I saw a lot of birds flying toward the south.",
+      "translation": "Я видел много птиц, летящих на юг.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_48",
+      "word": "She saw him eating a sandwich.",
+      "translation": "Она видела, как он ел бутерброд.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_4_49",
+      "word": "He broke up the chair for firewood.",
+      "translation": "Он разломал стул на дрова.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_0",
+      "word": "I broke a nail.",
+      "translation": "Я сломал ноготь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_1",
+      "word": "None of us saw that woman.",
+      "translation": "Никто из нас не видел эту женщину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_2",
+      "word": "Put some more wood on the fire.",
+      "translation": "Подкинь дров в огонь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_3",
+      "word": "Tom saw the video.",
+      "translation": "Том видел видео.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_4",
+      "word": "Don't fix it if it ain't broke.",
+      "translation": "Не сломалось - не чини.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_5",
+      "word": "Tom knows how to repair computers.",
+      "translation": "Том знает, как чинить компьютеры.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_6",
+      "word": "Tom and Mary were playing on the seesaw.",
+      "translation": "Том и Мэри катались на качелях.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_7",
+      "word": "I need a sewing machine.",
+      "translation": "Мне нужна швейная машинка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_8",
+      "word": "We both saw Tom.",
+      "translation": "Мы оба видели Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_9",
+      "word": "Tom saw Mary. He saw John, too.",
+      "translation": "Том видел Мэри. И Джона тоже видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_10",
+      "word": "Two girls played on the seesaw.",
+      "translation": "Две девочки качались на качелях-доске.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_11",
+      "word": "I saw Tom wink.",
+      "translation": "Я видел, как Том подмигнул.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_12",
+      "word": "I didn't like what I saw on TV.",
+      "translation": "Мне не понравилось то, что я увидел по телевизору.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_13",
+      "word": "I never saw such a woman.",
+      "translation": "Я никогда не видел такой женщины.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_14",
+      "word": "Is this made out of wood or metal?",
+      "translation": "Это сделано из дерева или из металла?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_15",
+      "word": "You're the only one who can fix this.",
+      "translation": "Только ты можешь это исправить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_16",
+      "word": "Tom saw that something was wrong.",
+      "translation": "Том видел, что что-то было не так.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_17",
+      "word": "Tom told me about what he saw.",
+      "translation": "Том рассказал мне о том, что видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_18",
+      "word": "I saw Tom crying.",
+      "translation": "Я видел, как Том плачет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_19",
+      "word": "I saw how you saved Tom's life.",
+      "translation": "Я видел, как ты спас Тому жизнь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_20",
+      "word": "Get my tool box.",
+      "translation": "Принеси мой ящик с инструментами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_21",
+      "word": "Birds build nests.",
+      "translation": "Птицы вьют гнезда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_22",
+      "word": "Tom is chopping wood.",
+      "translation": "Том колет дрова.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_23",
+      "word": "I must fix it.",
+      "translation": "Я должен это починить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_24",
+      "word": "I bought a new sewing machine.",
+      "translation": "Я купил новую швейную машинку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_25",
+      "word": "I already saw this.",
+      "translation": "Я это уже видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_26",
+      "word": "I never saw Tom.",
+      "translation": "Я никогда не видел Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_27",
+      "word": "Mary seldom uses nail polish.",
+      "translation": "Мэри редко пользуется лаком для ногтей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_28",
+      "word": "I saw Tom hide something.",
+      "translation": "Я видел, как Том что-то прячет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_29",
+      "word": "I'm a man, not a machine.",
+      "translation": "Я человек, а не машина.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_30",
+      "word": "Was that all you saw?",
+      "translation": "Это всё, что ты видел?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_31",
+      "word": "This is an old machine.",
+      "translation": "Это старинный станок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_32",
+      "word": "You probably wouldn't even recognize Tom if you saw him now.",
+      "translation": "Вы, вероятно, даже не узнали бы Тома, если бы сейчас его увидели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_33",
+      "word": "Tell me I'm not the only one who saw this coming.",
+      "translation": "Скажи мне, что я не единственный предполагал, что так и будет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_34",
+      "word": "I looked at Tom and saw he was still smiling.",
+      "translation": "Я посмотрел на Тома и увидел, что он всё ещё улыбается.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_35",
+      "word": "He is not the sharpest tool in the shed.",
+      "translation": "Он не самый острый нож в ящике.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_36",
+      "word": "I was there and saw everything.",
+      "translation": "Я был там и всё видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_37",
+      "word": "I saw a big pelican there.",
+      "translation": "Я видел там большого пеликана.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_38",
+      "word": "I just saw Tom and Mary together.",
+      "translation": "Я только что видел Тома и Мэри вместе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_39",
+      "word": "I'll try to repair it.",
+      "translation": "Я попробую его отремонтировать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_40",
+      "word": "Tom won't fix it.",
+      "translation": "Том не будет его чинить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_41",
+      "word": "I saw Tom outside.",
+      "translation": "Я видел снаружи Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_42",
+      "word": "I think they saw us.",
+      "translation": "Думаю, они нас видели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_43",
+      "word": "Tom says he saw nothing.",
+      "translation": "Том говорит, что ничего не видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_44",
+      "word": "I saw you hit Tom.",
+      "translation": "Я видел, как ты ударил Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_45",
+      "word": "I hope no one saw you come in here.",
+      "translation": "Надеюсь, никто не видел, как ты сюда входил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_46",
+      "word": "I saw Tom slip and fall.",
+      "translation": "Я видел, как Том поскользнулся и упал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_47",
+      "word": "What if somebody saw this?",
+      "translation": "А если бы это кто-нибудь увидел?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_48",
+      "word": "We can fix anything.",
+      "translation": "Мы можем всё починить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_5_49",
+      "word": "I saw Tom and Mary in the park.",
+      "translation": "Я видел Тома и Мэри в парке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_0",
+      "word": "If it snows tomorrow, I'll build a snowman.",
+      "translation": "Если завтра будет снег, я слеплю снеговика.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_1",
+      "word": "I saw Tom smiling.",
+      "translation": "Я видел, как Том улыбается.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_2",
+      "word": "When the man saw a policeman, he fled.",
+      "translation": "Когда мужчина увидел полицейского, он убежал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_3",
+      "word": "I thought I saw something.",
+      "translation": "Мне показалось, я что-то видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_4",
+      "word": "I thought that I saw someone there.",
+      "translation": "Я вроде там кого-то видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_5",
+      "word": "Tom was shocked by what he saw.",
+      "translation": "Том был потрясен увиденным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_6",
+      "word": "You saw what Tom did, didn't you?",
+      "translation": "Вы видели, что сделал Том, не так ли?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_7",
+      "word": "I hope that Tom saw what you did.",
+      "translation": "Надеюсь, Том видел, что ты делаешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_8",
+      "word": "He saw her and blushed.",
+      "translation": "Он увидел её и покраснел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_9",
+      "word": "Tom isn't chopping wood.",
+      "translation": "Том не рубит дрова.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_10",
+      "word": "I saw Tom naked.",
+      "translation": "Я видел Тома голым.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_11",
+      "word": "The boy tried to saw off the dead branch.",
+      "translation": "Мальчик попытался спилить мёртвую ветку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_12",
+      "word": "Let me repair it.",
+      "translation": "Давай я его починю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_13",
+      "word": "Tom saw Mary smiling at John.",
+      "translation": "Том видел, как Мэри улыбается Джону.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_14",
+      "word": "What does this machine do?",
+      "translation": "Что делает эта машина?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_15",
+      "word": "We saw it happen.",
+      "translation": "Мы видели, как это случилось.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_16",
+      "word": "Can you fix my lamp?",
+      "translation": "Можешь починить мою лампу?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_17",
+      "word": "There's something wrong with this machine.",
+      "translation": "С этой машиной что-то не так.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_18",
+      "word": "I hope no one saw you.",
+      "translation": "Надеюсь, никто тебя не видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_19",
+      "word": "Tom doesn't know how to use the washing machine.",
+      "translation": "Том не умеет пользоваться стиральной машиной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_20",
+      "word": "Where's the hammer?",
+      "translation": "Где молоток?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_21",
+      "word": "I saw Tom fall.",
+      "translation": "Я видел, как Том упал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_22",
+      "word": "We saw Tom talking to Mary.",
+      "translation": "Мы видели, как Том говорил с Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_23",
+      "word": "I saw Tom just a few hours ago.",
+      "translation": "Я видел Тома всего несколько часов назад.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_24",
+      "word": "I saw Tom in the hall.",
+      "translation": "Я видел Тома в коридоре.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_25",
+      "word": "The box was made of sandalwood.",
+      "translation": "Шкатулка была сделана из сандалового дерева.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_26",
+      "word": "Tom blushed when he saw Mary naked.",
+      "translation": "Том покраснел, увидев Марию голой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_27",
+      "word": "I brought Tom some wood.",
+      "translation": "Я принёс Тому немного дров.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_28",
+      "word": "Of course, I saw Tom.",
+      "translation": "Конечно, я видел Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_29",
+      "word": "I saw the sponge in the sink.",
+      "translation": "Я видел губку в раковине.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_30",
+      "word": "I have to fix the washing machine.",
+      "translation": "Мне надо починить стиральную машину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_31",
+      "word": "As soon as the child saw his mother, he stopped crying.",
+      "translation": "Как только ребёнок увидел мать, он перестал плакать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_32",
+      "word": "Tom can fix the heater.",
+      "translation": "Том может починить обогреватель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_33",
+      "word": "I saw you in the park with Tom.",
+      "translation": "Я видел тебя в парке с Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_34",
+      "word": "I hope Tom can fix it.",
+      "translation": "Надеюсь, Том сможет его починить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_35",
+      "word": "When I saw him last, he was still a child.",
+      "translation": "Когда я видел его в последний раз, он был ещё ребёнком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_36",
+      "word": "It's only a temporary fix.",
+      "translation": "Это лишь временное решение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_37",
+      "word": "I don't think that Tom even saw me.",
+      "translation": "Думаю, Том меня даже не видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_38",
+      "word": "Are you saying you can't fix it?",
+      "translation": "Ты хочешь сказать, что не можешь его починить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_39",
+      "word": "How would you fix it?",
+      "translation": "Как бы ты его починил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_40",
+      "word": "I was asked to fix the bicycle.",
+      "translation": "Меня попросили починить велосипед.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_41",
+      "word": "I saw Tom last weekend.",
+      "translation": "Я видел в прошлые выходные Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_42",
+      "word": "We have to fix this.",
+      "translation": "Мы должны исправить это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_43",
+      "word": "You need to fix it.",
+      "translation": "Ты должен это починить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_44",
+      "word": "The desk is made of wood.",
+      "translation": "Стол сделан из дерева.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_45",
+      "word": "You broke the washing machine.",
+      "translation": "Ты сломал стиральную машину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_46",
+      "word": "This won't fix the problem.",
+      "translation": "Это не решит проблему.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_47",
+      "word": "Tom saw Mary coming.",
+      "translation": "Том видел, как пришла Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_48",
+      "word": "Do you have a sewing machine?",
+      "translation": "У тебя есть швейная машина?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_6_49",
+      "word": "He carved a Buddha statue from wood.",
+      "translation": "Он вырезал из дерева статую Будды.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_0",
+      "word": "We saw smoke in the distance.",
+      "translation": "Мы увидели вдалеке дым.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_1",
+      "word": "We both saw you.",
+      "translation": "Мы оба тебя видели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_2",
+      "word": "This ladder is metal.",
+      "translation": "Эта лестница металлическая.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_3",
+      "word": "I saw you flirting with Tom.",
+      "translation": "Я видел, как ты флиртовала с Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_4",
+      "word": "He saw himself as the savior of the world.",
+      "translation": "Он видел в себе спасителя мира.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_5",
+      "word": "She burst out laughing when she saw me.",
+      "translation": "Увидев меня, она тотчас расхохоталась.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_6",
+      "word": "Let's build a hut.",
+      "translation": "Давай построим шалаш.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_7",
+      "word": "Hammer the nail in.",
+      "translation": "Вбейте гвоздь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_8",
+      "word": "I'm glad we saw Tom.",
+      "translation": "Я рад, что мы увиделись с Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_9",
+      "word": "No one saw us, I hope.",
+      "translation": "Никто нас не видел, надеюсь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_10",
+      "word": "Tell me how to use the washing machine.",
+      "translation": "Расскажи мне, как пользоваться стиральной машиной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_11",
+      "word": "I won't be able to fix this.",
+      "translation": "Я не смогу это починить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_12",
+      "word": "Why did Tom need a chainsaw?",
+      "translation": "Зачем Тому нужна была бензопила?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_13",
+      "word": "The person that I saw was a man, not a woman.",
+      "translation": "Человек, которого я видел, был мужчиной, а не женщиной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_14",
+      "word": "Not all birds build nests.",
+      "translation": "Не все птицы строят гнёзда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_15",
+      "word": "Something is wrong with the washing machine.",
+      "translation": "Со стиральной машиной что-то не так.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_16",
+      "word": "He saw that he was wrong.",
+      "translation": "Он увидел, что он неправ.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_17",
+      "word": "Tom saw Mary on TV.",
+      "translation": "Том увидел Мэри по телевизору.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_18",
+      "word": "We saw it.",
+      "translation": "Мы это видели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_19",
+      "word": "What you saw was a dolphin.",
+      "translation": "То, что ты видел, было дельфином.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_20",
+      "word": "The moment they saw me, they waved.",
+      "translation": "Увидев меня, они сразу же замахали.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_21",
+      "word": "Nobody heard or saw anything.",
+      "translation": "Никто ничего не слышал и не видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_22",
+      "word": "I don't think that anyone saw us.",
+      "translation": "Не думаю, что нас кто-то видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_23",
+      "word": "I saw an alien.",
+      "translation": "Я видел инопланетянина.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_24",
+      "word": "I'll fix it myself.",
+      "translation": "Я сам это исправлю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_25",
+      "word": "Today, I saw a starling.",
+      "translation": "Сегодня я видел скворца.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_26",
+      "word": "Tom told me what he saw.",
+      "translation": "Том рассказал мне, что он видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_27",
+      "word": "I saw everything you did.",
+      "translation": "Я видел всё, что ты сделал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_28",
+      "word": "It's a metal box.",
+      "translation": "Это металлический ящик.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_29",
+      "word": "You didn't see what I saw.",
+      "translation": "Ты не видел того, что видел я.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_30",
+      "word": "We might build a snowman.",
+      "translation": "Мы могли бы слепить снеговика.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_31",
+      "word": "I hope that nobody saw me.",
+      "translation": "Надеюсь, меня никто не видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_32",
+      "word": "Everybody saw what happened.",
+      "translation": "Все видели, что произошло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_33",
+      "word": "I saw what happened there.",
+      "translation": "Я видел, что там случилось.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_34",
+      "word": "I saw that report.",
+      "translation": "Я видел тот отчёт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_35",
+      "word": "This machine was manufactured in France.",
+      "translation": "Эта машина была изготовлена во Франции.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_36",
+      "word": "I didn't know Tom saw me leaving early.",
+      "translation": "Я не знал, что Том видел, как я рано уходил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_37",
+      "word": "Tom looked around, but saw no one.",
+      "translation": "Том огляделся вокруг, но никого не увидел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_38",
+      "word": "I hope Tom knows how to fix this.",
+      "translation": "Надеюсь, Том знает, как это починить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_39",
+      "word": "I saw that Tom was smiling.",
+      "translation": "Я видел, что Том улыбается.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_40",
+      "word": "I don't know how to fix this.",
+      "translation": "Я не знаю, как это починить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_41",
+      "word": "I saw that happening.",
+      "translation": "Я видел, как это произошло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_42",
+      "word": "The washing machine is broken.",
+      "translation": "Стиральная машина сломалась.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_43",
+      "word": "I saw them live.",
+      "translation": "Я их вживую видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_44",
+      "word": "I saw Tom hit Mary.",
+      "translation": "Я видел, как Том ударил Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_45",
+      "word": "We need to fix this problem now.",
+      "translation": "Нам нужно решить эту проблему сейчас.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_46",
+      "word": "Tom has a bread machine.",
+      "translation": "У Тома есть хлебопечка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_47",
+      "word": "The chair is made of wood.",
+      "translation": "Стул сделан из дерева.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_48",
+      "word": "I can't do it without a hammer.",
+      "translation": "Я не могу это сделать без молотка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_7_49",
+      "word": "That kind of machine is yet to be invented.",
+      "translation": "Такого рода машину ещё не изобрели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_0",
+      "word": "I saw an airplane.",
+      "translation": "Я видел самолет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_1",
+      "word": "The boy ran away when he saw me.",
+      "translation": "Увидев меня, мальчик убежал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_2",
+      "word": "You saw them, didn't you?",
+      "translation": "Ты видел их, не так ли?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_3",
+      "word": "I saw someone on the balcony.",
+      "translation": "Я видел кого-то на балконе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_4",
+      "word": "Tom says he saw Mary crying.",
+      "translation": "Том говорит, что видел, как Мэри плакала.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_5",
+      "word": "I only saw Tom once.",
+      "translation": "Я видел Тома всего раз.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_6",
+      "word": "Tom saw a squirrel in the distance.",
+      "translation": "Том увидел вдали белку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_7",
+      "word": "Tom couldn't find anyone to fix his refrigerator.",
+      "translation": "Том не мог найти никого, кто мог бы починить его холодильник.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_8",
+      "word": "Tom saw that Mary was still asleep.",
+      "translation": "Том видел, что Мэри ещё спит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_9",
+      "word": "This chair is made of wood.",
+      "translation": "Этот стул сделан из дерева.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_10",
+      "word": "Tom saw Mary talking with John.",
+      "translation": "Том видел, как Мэри разговаривала с Джоном.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_11",
+      "word": "Tom saw many raccoons.",
+      "translation": "Том видел много енотов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_12",
+      "word": "Why don't you try to fix it?",
+      "translation": "Почему ты не пытаешься починить его?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_13",
+      "word": "Tom saw Mary coming towards him.",
+      "translation": "Том видел, как Мэри приближалась к нему.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_14",
+      "word": "Tom was the only one who saw anything.",
+      "translation": "Том был единственным, кто что-то видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_15",
+      "word": "We saw some houses in the distance.",
+      "translation": "Мы видели несколько домов вдалеке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_16",
+      "word": "Screw it in tight.",
+      "translation": "Завинтите это покрепче.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_17",
+      "word": "I recognized you as soon as I saw you.",
+      "translation": "Я узнал тебя сразу, как только увидел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_18",
+      "word": "I saw their wedding photo.",
+      "translation": "Я видел их свадебную фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_19",
+      "word": "We're trying to build something.",
+      "translation": "Мы пытаемся что-то построить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_20",
+      "word": "Tom saw a raccoon.",
+      "translation": "Том видел енота.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_21",
+      "word": "I saw Tom shoot Mary.",
+      "translation": "Я видел, как Том выстрелил в Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_22",
+      "word": "We're having some equipment problems.",
+      "translation": "У нас некоторые проблемы с оборудованием.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_23",
+      "word": "I'm telling you what I saw.",
+      "translation": "Я рассказываю то, что видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_24",
+      "word": "I'll fix this soon.",
+      "translation": "Я это скоро исправлю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_25",
+      "word": "I don't know what Tom saw.",
+      "translation": "Я не знаю, что Том видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_26",
+      "word": "Tom tried to fix it himself.",
+      "translation": "Том пытался починить его сам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_27",
+      "word": "Do you think Tom saw you take the keys?",
+      "translation": "Думаешь, Том видел, как ты берёшь ключи?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_28",
+      "word": "I didn't know Tom saw us.",
+      "translation": "Я не знал, что Том нас видит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_29",
+      "word": "Tom says he saw Mary in the park.",
+      "translation": "Том говорит, что видел Мэри в парке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_30",
+      "word": "Tom saw two men lying on the floor, bleeding from gunshot wounds.",
+      "translation": "Том увидел двух мужчин, лежащих на полу и истекающих кровью от огнестрельного ранения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_31",
+      "word": "Tom saw him.",
+      "translation": "Том его видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_32",
+      "word": "Tom saw Mary looking at him and blushed.",
+      "translation": "Том увидел, что Мэри на него смотрит, и покраснел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_33",
+      "word": "I know how to fix this.",
+      "translation": "Я знаю, как это исправить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_34",
+      "word": "Tom saw that Mary was still sleeping.",
+      "translation": "Том видел, что Мэри ещё спит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_35",
+      "word": "I don't have any camping equipment.",
+      "translation": "У меня нет походного снаряжения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_36",
+      "word": "That's how he invented the machine.",
+      "translation": "Вот как он изобрёл это устройство.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_37",
+      "word": "I saw nothing more.",
+      "translation": "Я больше ничего не увидел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_38",
+      "word": "There's a washing machine in the cellar.",
+      "translation": "В подвале есть стиральная машина.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_39",
+      "word": "You saw me, didn't you?",
+      "translation": "Ты же меня видел?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_40",
+      "word": "I was impressed with what I saw.",
+      "translation": "Я был впечатлён увиденным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_41",
+      "word": "Tom never saw Mary again.",
+      "translation": "Том никогда больше не видел Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_42",
+      "word": "The machine was coated with dust.",
+      "translation": "Машина была покрыта пылью.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_43",
+      "word": "We have the equipment.",
+      "translation": "У нас есть снаряжение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_44",
+      "word": "Tom saw the lights.",
+      "translation": "Том видел огни.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_45",
+      "word": "Tom can fix it himself.",
+      "translation": "Том может сам его починить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_46",
+      "word": "She saw herself in the mirror.",
+      "translation": "Она увидела себя в зеркале.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_47",
+      "word": "I think I just saw something.",
+      "translation": "Мне кажется, я только что что-то видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_48",
+      "word": "The screw needs to be tightened.",
+      "translation": "Винт нужно докрутить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_8_49",
+      "word": "Beavers build dams.",
+      "translation": "Бобры строят плотины.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_0",
+      "word": "A lot of people saw it.",
+      "translation": "Многие это видели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_1",
+      "word": "I saw him running away.",
+      "translation": "Я видел, как он убегал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_2",
+      "word": "Tom saw it with his own eyes.",
+      "translation": "Том видел это собственными глазами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_3",
+      "word": "Tom saw right through Mary.",
+      "translation": "Том видел Мэри насквозь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_4",
+      "word": "I'll fix it by myself.",
+      "translation": "Я сам починю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_5",
+      "word": "I saw the cake you made.",
+      "translation": "Я видел торт, который вы сделали.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_6",
+      "word": "We saw them leave.",
+      "translation": "Мы видели, как они уходили.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_7",
+      "word": "You've grown since I last saw you.",
+      "translation": "Ты выросла с тех пор, как я тебя видел в последний раз.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_8",
+      "word": "I only saw one apple.",
+      "translation": "Я видел только одно яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_9",
+      "word": "They saw you.",
+      "translation": "Они видели вас.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_10",
+      "word": "I saw the boat sink.",
+      "translation": "Я видел, как лодка тонет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_11",
+      "word": "Tom said he saw Mary in the park.",
+      "translation": "Том сказал, что видел Мэри в парке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_12",
+      "word": "I didn't think anyone could fix this watch.",
+      "translation": "Я не думал, что хоть кто-то сможет починить эти часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_13",
+      "word": "Who saw me?",
+      "translation": "Кто меня видел?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_14",
+      "word": "I can't fix this.",
+      "translation": "Я не могу это починить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_15",
+      "word": "We saw you come in.",
+      "translation": "Мы видели, как ты входил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_16",
+      "word": "There's something wrong with this washing machine.",
+      "translation": "С этой стиральной машиной что-то не так.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_17",
+      "word": "I thought you were going to fix the sink.",
+      "translation": "Я думал, вы собираетесь чинить раковину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_18",
+      "word": "Tom saw a giraffe.",
+      "translation": "Том видел жирафа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_19",
+      "word": "We saw it all.",
+      "translation": "Мы всё это видели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_20",
+      "word": "If it ain't broke, don't fix it.",
+      "translation": "Не сломалось - не чини.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_21",
+      "word": "Can you fix my bike?",
+      "translation": "Можешь починить мой велосипед?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_22",
+      "word": "We might build a snowman later.",
+      "translation": "Мы могли бы построить снеговика позже.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_23",
+      "word": "Tom has no idea how to operate this machine.",
+      "translation": "Том понятия не имеет, как управлять этой машиной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_24",
+      "word": "They used local wood to build the ships.",
+      "translation": "Они использовали местную древесину, чтобы построить корабли.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_25",
+      "word": "Tom told me that he saw someone kissing Mary.",
+      "translation": "Том сказал мне, что видел, как кто-то целует Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_26",
+      "word": "Tom can fix this.",
+      "translation": "Том может это починить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_27",
+      "word": "What Tom saw changed his life.",
+      "translation": "То, что увидел Том, изменило его жизнь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_28",
+      "word": "Tom grabbed a piece of wood and hit Mary with it.",
+      "translation": "Том схватил деревяшку и ударил ею Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_29",
+      "word": "I saw nothing.",
+      "translation": "Я ничего не видела.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_30",
+      "word": "Tom saw it.",
+      "translation": "Том его видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_31",
+      "word": "He saw it also.",
+      "translation": "Он это тоже видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_32",
+      "word": "We need to fix it.",
+      "translation": "Нам нужно это починить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_33",
+      "word": "Tom liked what he saw.",
+      "translation": "Тому понравилось то, что он увидел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_34",
+      "word": "You're lucky nobody saw you leave.",
+      "translation": "Тебе повезло, что никто не видел, как ты уходишь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_35",
+      "word": "Tom saw nothing.",
+      "translation": "Том ничего не видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_36",
+      "word": "Tom went for a walk and took pictures of things he saw.",
+      "translation": "Том отправился на прогулку и фотографировал то, что попадалось ему на глаза.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_37",
+      "word": "Nobody saw us.",
+      "translation": "Нас никто не видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_38",
+      "word": "He affirmed that he saw the crash.",
+      "translation": "Он подтвердил, что видел аварию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_39",
+      "word": "Nobody saw Tom.",
+      "translation": "Никто не видел Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_40",
+      "word": "Tom saw a wolf.",
+      "translation": "Том видел волка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_41",
+      "word": "You saw the pictures, didn't you?",
+      "translation": "Вы ведь видели фотографии?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_42",
+      "word": "The machine operates around the clock.",
+      "translation": "Машина работает круглосуточно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_43",
+      "word": "I saw something strange in the sky.",
+      "translation": "Я видел что-то странное в небе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_44",
+      "word": "Mary was impressed with what she saw.",
+      "translation": "Мэри находилась под впечатлением от увиденного.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_45",
+      "word": "How long has it been since we last saw each other?",
+      "translation": "Сколько времени прошло с тех пор, как мы виделись в последний раз?",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_46",
+      "word": "Tom saw that he was wrong.",
+      "translation": "Том видел, что он не прав.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_47",
+      "word": "I saw Tom give Mary a peck on the cheek.",
+      "translation": "Я видел, как Том чмокнул Мэри в щеку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_48",
+      "word": "This vending machine takes only hundred-yen coins.",
+      "translation": "Этот автомат принимает только стоиеновые монеты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_toolsequipment_9_49",
+      "word": "As soon as she saw me, she burst out crying.",
+      "translation": "Завидев меня, она тотчас расплакалась.",
+      "language": "en"
+    }
+  ]
+}

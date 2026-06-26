@@ -1,0 +1,1723 @@
+{
+  "id": "builtin-health",
+  "name": "Health, Medicine & Anatomy ",
+  "description": "Comprehensive medical and anatomy vocabulary",
+  "entries": [
+    {
+      "id": "e1",
+      "word": "hospital",
+      "translation": "больница",
+      "language": "en"
+    },
+    {
+      "id": "e2",
+      "word": "doctor",
+      "translation": "врач",
+      "language": "en"
+    },
+    {
+      "id": "e3",
+      "word": "nurse",
+      "translation": "медсестра",
+      "language": "en"
+    },
+    {
+      "id": "e4",
+      "word": "patient",
+      "translation": "пациент",
+      "language": "en"
+    },
+    {
+      "id": "e5",
+      "word": "medicine",
+      "translation": "лекарство",
+      "language": "en"
+    },
+    {
+      "id": "e6",
+      "word": "pill",
+      "translation": "таблетка",
+      "language": "en"
+    },
+    {
+      "id": "e7",
+      "word": "pain",
+      "translation": "боль",
+      "language": "en"
+    },
+    {
+      "id": "e8",
+      "word": "health",
+      "translation": "здоровье",
+      "language": "en"
+    },
+    {
+      "id": "e9",
+      "word": "disease",
+      "translation": "болезнь",
+      "language": "en"
+    },
+    {
+      "id": "e10",
+      "word": "symptom",
+      "translation": "симптом",
+      "language": "en"
+    },
+    {
+      "id": "e11",
+      "word": "treatment",
+      "translation": "лечение",
+      "language": "en"
+    },
+    {
+      "id": "e12",
+      "word": "surgery",
+      "translation": "операция",
+      "language": "en"
+    },
+    {
+      "id": "e13",
+      "word": "blood",
+      "translation": "кровь",
+      "language": "en"
+    },
+    {
+      "id": "e14",
+      "word": "heart",
+      "translation": "сердце",
+      "language": "en"
+    },
+    {
+      "id": "e15",
+      "word": "brain",
+      "translation": "мозг",
+      "language": "en"
+    },
+    {
+      "id": "e16",
+      "word": "stomach",
+      "translation": "желудок",
+      "language": "en"
+    },
+    {
+      "id": "e17",
+      "word": "bone",
+      "translation": "кость",
+      "language": "en"
+    },
+    {
+      "id": "e18",
+      "word": "muscle",
+      "translation": "мышца",
+      "language": "en"
+    },
+    {
+      "id": "e19",
+      "word": "skin",
+      "translation": "кожа",
+      "language": "en"
+    },
+    {
+      "id": "e20",
+      "word": "eye",
+      "translation": "глаз",
+      "language": "en"
+    },
+    {
+      "id": "e21",
+      "word": "ear",
+      "translation": "ухо",
+      "language": "en"
+    },
+    {
+      "id": "e22",
+      "word": "nose",
+      "translation": "нос",
+      "language": "en"
+    },
+    {
+      "id": "e23",
+      "word": "mouth",
+      "translation": "рот",
+      "language": "en"
+    },
+    {
+      "id": "e24",
+      "word": "tooth",
+      "translation": "зуб",
+      "language": "en"
+    },
+    {
+      "id": "e25",
+      "word": "fever",
+      "translation": "температура",
+      "language": "en"
+    },
+    {
+      "id": "e26",
+      "word": "cough",
+      "translation": "кашель",
+      "language": "en"
+    },
+    {
+      "id": "e27",
+      "word": "cold",
+      "translation": "простуда",
+      "language": "en"
+    },
+    {
+      "id": "e28",
+      "word": "virus",
+      "translation": "вирус",
+      "language": "en"
+    },
+    {
+      "id": "e29",
+      "word": "infection",
+      "translation": "инфекция",
+      "language": "en"
+    },
+    {
+      "id": "e30",
+      "word": "pharmacy",
+      "translation": "аптека",
+      "language": "en"
+    },
+    {
+      "id": "e31",
+      "word": "prescription",
+      "translation": "рецепт",
+      "language": "en"
+    },
+    {
+      "id": "e32",
+      "word": "vitamin",
+      "translation": "витамин",
+      "language": "en"
+    },
+    {
+      "id": "e33",
+      "word": "diet",
+      "translation": "диета",
+      "language": "en"
+    },
+    {
+      "id": "e34",
+      "word": "exercise",
+      "translation": "упражнение",
+      "language": "en"
+    },
+    {
+      "id": "e35",
+      "word": "injury",
+      "translation": "травма",
+      "language": "en"
+    },
+    {
+      "id": "e36",
+      "word": "wound",
+      "translation": "рана",
+      "language": "en"
+    },
+    {
+      "id": "e37",
+      "word": "bandage",
+      "translation": "бинт",
+      "language": "en"
+    },
+    {
+      "id": "e38",
+      "word": "ambulance",
+      "translation": "скорая помощь",
+      "language": "en"
+    },
+    {
+      "id": "e39",
+      "word": "emergency",
+      "translation": "неотложная помощь",
+      "language": "en"
+    },
+    {
+      "id": "e40",
+      "word": "cure",
+      "translation": "исцеление",
+      "language": "en"
+    },
+    {
+      "id": "e41",
+      "word": "clinic",
+      "translation": "клиника",
+      "language": "en"
+    },
+    {
+      "id": "e42",
+      "word": "ward",
+      "translation": "палата",
+      "language": "en"
+    },
+    {
+      "id": "e43",
+      "word": "surgeon",
+      "translation": "хирург",
+      "language": "en"
+    },
+    {
+      "id": "e44",
+      "word": "dentist",
+      "translation": "дантолог",
+      "language": "en"
+    },
+    {
+      "id": "e45",
+      "word": "pediatrician",
+      "translation": "педиатр",
+      "language": "en"
+    },
+    {
+      "id": "e46",
+      "word": "cardiologist",
+      "translation": "кардиолог",
+      "language": "en"
+    },
+    {
+      "id": "e47",
+      "word": "neurologist",
+      "translation": "невролог",
+      "language": "en"
+    },
+    {
+      "id": "e48",
+      "word": "dermatologist",
+      "translation": "дерматолог",
+      "language": "en"
+    },
+    {
+      "id": "e49",
+      "word": "psychiatrist",
+      "translation": "психиатр",
+      "language": "en"
+    },
+    {
+      "id": "e50",
+      "word": "psychologist",
+      "translation": "психолог",
+      "language": "en"
+    },
+    {
+      "id": "e51",
+      "word": "therapist",
+      "translation": "терапевт",
+      "language": "en"
+    },
+    {
+      "id": "e52",
+      "word": "specialist",
+      "translation": "специалист",
+      "language": "en"
+    },
+    {
+      "id": "e53",
+      "word": "consultant",
+      "translation": "консультант",
+      "language": "en"
+    },
+    {
+      "id": "e54",
+      "word": "practitioner",
+      "translation": "практик",
+      "language": "en"
+    },
+    {
+      "id": "e55",
+      "word": "examination",
+      "translation": "осмотр",
+      "language": "en"
+    },
+    {
+      "id": "e56",
+      "word": "checkup",
+      "translation": "осмотр",
+      "language": "en"
+    },
+    {
+      "id": "e57",
+      "word": "diagnosis",
+      "translation": "диагноз",
+      "language": "en"
+    },
+    {
+      "id": "e58",
+      "word": "test",
+      "translation": "анализ",
+      "language": "en"
+    },
+    {
+      "id": "e59",
+      "word": "scan",
+      "translation": "сканирование",
+      "language": "en"
+    },
+    {
+      "id": "e60",
+      "word": "xray",
+      "translation": "рентген",
+      "language": "en"
+    },
+    {
+      "id": "e61",
+      "word": "ultrasound",
+      "translation": "узи",
+      "language": "en"
+    },
+    {
+      "id": "e62",
+      "word": "mri",
+      "translation": "мрт",
+      "language": "en"
+    },
+    {
+      "id": "e63",
+      "word": "blood test",
+      "translation": "анализ крови",
+      "language": "en"
+    },
+    {
+      "id": "e64",
+      "word": "urine",
+      "translation": "моча",
+      "language": "en"
+    },
+    {
+      "id": "e65",
+      "word": "saliva",
+      "translation": "слюна",
+      "language": "en"
+    },
+    {
+      "id": "e66",
+      "word": "sample",
+      "translation": "образец",
+      "language": "en"
+    },
+    {
+      "id": "e67",
+      "word": "swab",
+      "translation": "мазок",
+      "language": "en"
+    },
+    {
+      "id": "e68",
+      "word": "injection",
+      "translation": "инъекция",
+      "language": "en"
+    },
+    {
+      "id": "e69",
+      "word": "shot",
+      "translation": "укол",
+      "language": "en"
+    },
+    {
+      "id": "e70",
+      "word": "vaccine",
+      "translation": "вакцина",
+      "language": "en"
+    },
+    {
+      "id": "e71",
+      "word": "immunization",
+      "translation": "иммунизация",
+      "language": "en"
+    },
+    {
+      "id": "e72",
+      "word": "dose",
+      "translation": "доза",
+      "language": "en"
+    },
+    {
+      "id": "e73",
+      "word": "drop",
+      "translation": "капля",
+      "language": "en"
+    },
+    {
+      "id": "e74",
+      "word": "ointment",
+      "translation": "мазь",
+      "language": "en"
+    },
+    {
+      "id": "e75",
+      "word": "cream",
+      "translation": "крем",
+      "language": "en"
+    },
+    {
+      "id": "e76",
+      "word": "gel",
+      "translation": "гель",
+      "language": "en"
+    },
+    {
+      "id": "e77",
+      "word": "lotion",
+      "translation": "лосьон",
+      "language": "en"
+    },
+    {
+      "id": "e78",
+      "word": "spray",
+      "translation": "спрей",
+      "language": "en"
+    },
+    {
+      "id": "e79",
+      "word": "syrup",
+      "translation": "сироп",
+      "language": "en"
+    },
+    {
+      "id": "e80",
+      "word": "tablet",
+      "translation": "таблетка",
+      "language": "en"
+    },
+    {
+      "id": "e81",
+      "word": "capsule",
+      "translation": "капсула",
+      "language": "en"
+    },
+    {
+      "id": "e82",
+      "word": "powder",
+      "translation": "порошок",
+      "language": "en"
+    },
+    {
+      "id": "e83",
+      "word": "liquid",
+      "translation": "жидкость",
+      "language": "en"
+    },
+    {
+      "id": "e84",
+      "word": "fluid",
+      "translation": "жидкость",
+      "language": "en"
+    },
+    {
+      "id": "e85",
+      "word": "solution",
+      "translation": "раствор",
+      "language": "en"
+    },
+    {
+      "id": "e86",
+      "word": "mixture",
+      "translation": "смесь",
+      "language": "en"
+    },
+    {
+      "id": "e87",
+      "word": "compound",
+      "translation": "соединение",
+      "language": "en"
+    },
+    {
+      "id": "e88",
+      "word": "substance",
+      "translation": "вещество",
+      "language": "en"
+    },
+    {
+      "id": "e89",
+      "word": "chemical",
+      "translation": "химикат",
+      "language": "en"
+    },
+    {
+      "id": "e90",
+      "word": "drug",
+      "translation": "наркотик",
+      "language": "en"
+    },
+    {
+      "id": "e91",
+      "word": "antibiotic",
+      "translation": "антибиотик",
+      "language": "en"
+    },
+    {
+      "id": "e92",
+      "word": "painkiller",
+      "translation": "обезболивающее",
+      "language": "en"
+    },
+    {
+      "id": "e93",
+      "word": "aspirin",
+      "translation": "аспирин",
+      "language": "en"
+    },
+    {
+      "id": "e94",
+      "word": "paracetamol",
+      "translation": "парацетамол",
+      "language": "en"
+    },
+    {
+      "id": "e95",
+      "word": "ibuprofen",
+      "translation": "ибупрофен",
+      "language": "en"
+    },
+    {
+      "id": "e96",
+      "word": "steroid",
+      "translation": "стероид",
+      "language": "en"
+    },
+    {
+      "id": "e97",
+      "word": "hormone",
+      "translation": "гормон",
+      "language": "en"
+    },
+    {
+      "id": "e98",
+      "word": "insulin",
+      "translation": "инсулин",
+      "language": "en"
+    },
+    {
+      "id": "e99",
+      "word": "adrenaline",
+      "translation": "адреналин",
+      "language": "en"
+    },
+    {
+      "id": "e100",
+      "word": "allergy",
+      "translation": "аллергия",
+      "language": "en"
+    },
+    {
+      "id": "e101",
+      "word": "asthma",
+      "translation": "астма",
+      "language": "en"
+    },
+    {
+      "id": "e102",
+      "word": "diabetes",
+      "translation": "диабет",
+      "language": "en"
+    },
+    {
+      "id": "e103",
+      "word": "cancer",
+      "translation": "рак",
+      "language": "en"
+    },
+    {
+      "id": "e104",
+      "word": "tumor",
+      "translation": "опухоль",
+      "language": "en"
+    },
+    {
+      "id": "e105",
+      "word": "stroke",
+      "translation": "инсульт",
+      "language": "en"
+    },
+    {
+      "id": "e106",
+      "word": "heart attack",
+      "translation": "инфаркт",
+      "language": "en"
+    },
+    {
+      "id": "e107",
+      "word": "hypertension",
+      "translation": "гипертония",
+      "language": "en"
+    },
+    {
+      "id": "e108",
+      "word": "hypotension",
+      "translation": "гипотония",
+      "language": "en"
+    },
+    {
+      "id": "e109",
+      "word": "anemia",
+      "translation": "анемия",
+      "language": "en"
+    },
+    {
+      "id": "e110",
+      "word": "leukemia",
+      "translation": "лейкемия",
+      "language": "en"
+    },
+    {
+      "id": "e111",
+      "word": "arthritis",
+      "translation": "артрит",
+      "language": "en"
+    },
+    {
+      "id": "e112",
+      "word": "rheumatism",
+      "translation": "ревматизм",
+      "language": "en"
+    },
+    {
+      "id": "e113",
+      "word": "osteoporosis",
+      "translation": "остеопороз",
+      "language": "en"
+    },
+    {
+      "id": "e114",
+      "word": "fracture",
+      "translation": "перелом",
+      "language": "en"
+    },
+    {
+      "id": "e115",
+      "word": "sprain",
+      "translation": "растяжение",
+      "language": "en"
+    },
+    {
+      "id": "e116",
+      "word": "strain",
+      "translation": "растяжение",
+      "language": "en"
+    },
+    {
+      "id": "e117",
+      "word": "bruise",
+      "translation": "синяк",
+      "language": "en"
+    },
+    {
+      "id": "e118",
+      "word": "burn",
+      "translation": "ожог",
+      "language": "en"
+    },
+    {
+      "id": "e119",
+      "word": "cut",
+      "translation": "порез",
+      "language": "en"
+    },
+    {
+      "id": "e120",
+      "word": "scratch",
+      "translation": "царапина",
+      "language": "en"
+    },
+    {
+      "id": "e121",
+      "word": "scrape",
+      "translation": "царапина",
+      "language": "en"
+    },
+    {
+      "id": "e122",
+      "word": "scar",
+      "translation": "шрам",
+      "language": "en"
+    },
+    {
+      "id": "e123",
+      "word": "stitch",
+      "translation": "шов",
+      "language": "en"
+    },
+    {
+      "id": "e124",
+      "word": "plaster",
+      "translation": "пластырь",
+      "language": "en"
+    },
+    {
+      "id": "e125",
+      "word": "cast",
+      "translation": "гипс",
+      "language": "en"
+    },
+    {
+      "id": "e126",
+      "word": "splint",
+      "translation": "шина",
+      "language": "en"
+    },
+    {
+      "id": "e127",
+      "word": "crutch",
+      "translation": "костыль",
+      "language": "en"
+    },
+    {
+      "id": "e128",
+      "word": "wheelchair",
+      "translation": "инвалидная коляска",
+      "language": "en"
+    },
+    {
+      "id": "e129",
+      "word": "stretcher",
+      "translation": "носилки",
+      "language": "en"
+    },
+    {
+      "id": "e130",
+      "word": "bed",
+      "translation": "кровать",
+      "language": "en"
+    },
+    {
+      "id": "e131",
+      "word": "mattress",
+      "translation": "матрас",
+      "language": "en"
+    },
+    {
+      "id": "e132",
+      "word": "pillow",
+      "translation": "подушка",
+      "language": "en"
+    },
+    {
+      "id": "e133",
+      "word": "blanket",
+      "translation": "одеяло",
+      "language": "en"
+    },
+    {
+      "id": "e134",
+      "word": "sheet",
+      "translation": "простыня",
+      "language": "en"
+    },
+    {
+      "id": "e135",
+      "word": "towel",
+      "translation": "полотенце",
+      "language": "en"
+    },
+    {
+      "id": "e136",
+      "word": "robe",
+      "translation": "халат",
+      "language": "en"
+    },
+    {
+      "id": "e137",
+      "word": "gown",
+      "translation": "халат",
+      "language": "en"
+    },
+    {
+      "id": "e138",
+      "word": "slippers",
+      "translation": "тапочки",
+      "language": "en"
+    },
+    {
+      "id": "e139",
+      "word": "mask",
+      "translation": "маска",
+      "language": "en"
+    },
+    {
+      "id": "e140",
+      "word": "glove",
+      "translation": "перчатка",
+      "language": "en"
+    },
+    {
+      "id": "e141",
+      "word": "cap",
+      "translation": "шапочка",
+      "language": "en"
+    },
+    {
+      "id": "e142",
+      "word": "shoe",
+      "translation": "обувь",
+      "language": "en"
+    },
+    {
+      "id": "e143",
+      "word": "boot",
+      "translation": "ботинок",
+      "language": "en"
+    },
+    {
+      "id": "e144",
+      "word": "sock",
+      "translation": "носок",
+      "language": "en"
+    },
+    {
+      "id": "e145",
+      "word": "shirt",
+      "translation": "рубашка",
+      "language": "en"
+    },
+    {
+      "id": "e146",
+      "word": "pant",
+      "translation": "брюки",
+      "language": "en"
+    },
+    {
+      "id": "e147",
+      "word": "dress",
+      "translation": "платье",
+      "language": "en"
+    },
+    {
+      "id": "e148",
+      "word": "skirt",
+      "translation": "юбка",
+      "language": "en"
+    },
+    {
+      "id": "e149",
+      "word": "suit",
+      "translation": "костюм",
+      "language": "en"
+    },
+    {
+      "id": "e150",
+      "word": "jacket",
+      "translation": "куртка",
+      "language": "en"
+    },
+    {
+      "id": "e151",
+      "word": "coat",
+      "translation": "пальто",
+      "language": "en"
+    },
+    {
+      "id": "e152",
+      "word": "sweater",
+      "translation": "свитер",
+      "language": "en"
+    },
+    {
+      "id": "e153",
+      "word": "jumper",
+      "translation": "джемпер",
+      "language": "en"
+    },
+    {
+      "id": "e154",
+      "word": "hoodie",
+      "translation": "худи",
+      "language": "en"
+    },
+    {
+      "id": "e155",
+      "word": "sweatshirt",
+      "translation": "толстовка",
+      "language": "en"
+    },
+    {
+      "id": "e156",
+      "word": "tshirt",
+      "translation": "футболка",
+      "language": "en"
+    },
+    {
+      "id": "e157",
+      "word": "top",
+      "translation": "топ",
+      "language": "en"
+    },
+    {
+      "id": "e158",
+      "word": "blouse",
+      "translation": "блузка",
+      "language": "en"
+    },
+    {
+      "id": "e159",
+      "word": "bra",
+      "translation": "бюстгальтер",
+      "language": "en"
+    },
+    {
+      "id": "e160",
+      "word": "panties",
+      "translation": "трусы",
+      "language": "en"
+    },
+    {
+      "id": "e161",
+      "word": "underwear",
+      "translation": "нижнее белье",
+      "language": "en"
+    },
+    {
+      "id": "e162",
+      "word": "swimsuit",
+      "translation": "купальник",
+      "language": "en"
+    },
+    {
+      "id": "e163",
+      "word": "bikini",
+      "translation": "бикини",
+      "language": "en"
+    },
+    {
+      "id": "e164",
+      "word": "trunks",
+      "translation": "плавки",
+      "language": "en"
+    },
+    {
+      "id": "e165",
+      "word": "pajamas",
+      "translation": "пижама",
+      "language": "en"
+    },
+    {
+      "id": "e166",
+      "word": "nightgown",
+      "translation": "ночная рубашка",
+      "language": "en"
+    },
+    {
+      "id": "e167",
+      "word": "uniform",
+      "translation": "униформа",
+      "language": "en"
+    },
+    {
+      "id": "e168",
+      "word": "glasses",
+      "translation": "очки",
+      "language": "en"
+    },
+    {
+      "id": "e169",
+      "word": "lens",
+      "translation": "линза",
+      "language": "en"
+    },
+    {
+      "id": "e170",
+      "word": "contact",
+      "translation": "контакт",
+      "language": "en"
+    },
+    {
+      "id": "e171",
+      "word": "hearing aid",
+      "translation": "слуховой аппарат",
+      "language": "en"
+    },
+    {
+      "id": "e172",
+      "word": "pacemaker",
+      "translation": "кардиостимулятор",
+      "language": "en"
+    },
+    {
+      "id": "e173",
+      "word": "prosthesis",
+      "translation": "протез",
+      "language": "en"
+    },
+    {
+      "id": "e174",
+      "word": "implant",
+      "translation": "имплантат",
+      "language": "en"
+    },
+    {
+      "id": "e175",
+      "word": "organ",
+      "translation": "орган",
+      "language": "en"
+    },
+    {
+      "id": "e176",
+      "word": "tissue",
+      "translation": "ткань",
+      "language": "en"
+    },
+    {
+      "id": "e177",
+      "word": "cell",
+      "translation": "клетка",
+      "language": "en"
+    },
+    {
+      "id": "e178",
+      "word": "gene",
+      "translation": "ген",
+      "language": "en"
+    },
+    {
+      "id": "e179",
+      "word": "dna",
+      "translation": "днк",
+      "language": "en"
+    },
+    {
+      "id": "e180",
+      "word": "rna",
+      "translation": "рнк",
+      "language": "en"
+    },
+    {
+      "id": "e181",
+      "word": "chromosome",
+      "translation": "хромосома",
+      "language": "en"
+    },
+    {
+      "id": "e182",
+      "word": "protein",
+      "translation": "белок",
+      "language": "en"
+    },
+    {
+      "id": "e183",
+      "word": "enzyme",
+      "translation": "фермент",
+      "language": "en"
+    },
+    {
+      "id": "e184",
+      "word": "lipid",
+      "translation": "липид",
+      "language": "en"
+    },
+    {
+      "id": "e185",
+      "word": "carbohydrate",
+      "translation": "углевод",
+      "language": "en"
+    },
+    {
+      "id": "e186",
+      "word": "sugar",
+      "translation": "сахар",
+      "language": "en"
+    },
+    {
+      "id": "e187",
+      "word": "fat",
+      "translation": "жир",
+      "language": "en"
+    },
+    {
+      "id": "e188",
+      "word": "cholesterol",
+      "translation": "холестерин",
+      "language": "en"
+    },
+    {
+      "id": "e189",
+      "word": "mineral",
+      "translation": "минерал",
+      "language": "en"
+    },
+    {
+      "id": "e190",
+      "word": "calcium",
+      "translation": "кальций",
+      "language": "en"
+    },
+    {
+      "id": "e191",
+      "word": "iron",
+      "translation": "железо",
+      "language": "en"
+    },
+    {
+      "id": "e192",
+      "word": "zinc",
+      "translation": "цинк",
+      "language": "en"
+    },
+    {
+      "id": "e193",
+      "word": "potassium",
+      "translation": "калий",
+      "language": "en"
+    },
+    {
+      "id": "e194",
+      "word": "sodium",
+      "translation": "натрий",
+      "language": "en"
+    },
+    {
+      "id": "e195",
+      "word": "magnesium",
+      "translation": "магний",
+      "language": "en"
+    },
+    {
+      "id": "e196",
+      "word": "water",
+      "translation": "вода",
+      "language": "en"
+    },
+    {
+      "id": "e197",
+      "word": "oxygen",
+      "translation": "кислород",
+      "language": "en"
+    },
+    {
+      "id": "e198",
+      "word": "carbon dioxide",
+      "translation": "углекислый газ",
+      "language": "en"
+    },
+    {
+      "id": "e199",
+      "word": "nitrogen",
+      "translation": "азот",
+      "language": "en"
+    },
+    {
+      "id": "e200",
+      "word": "hydrogen",
+      "translation": "водород",
+      "language": "en"
+    },
+    {
+      "id": "e201",
+      "word": "breath",
+      "translation": "дыхание",
+      "language": "en"
+    },
+    {
+      "id": "e202",
+      "word": "pulse",
+      "translation": "пульс",
+      "language": "en"
+    },
+    {
+      "id": "e203",
+      "word": "heartbeat",
+      "translation": "сердцебиение",
+      "language": "en"
+    },
+    {
+      "id": "e204",
+      "word": "pressure",
+      "translation": "давление",
+      "language": "en"
+    },
+    {
+      "id": "e205",
+      "word": "tension",
+      "translation": "напряжение",
+      "language": "en"
+    },
+    {
+      "id": "e206",
+      "word": "stress",
+      "translation": "стресс",
+      "language": "en"
+    },
+    {
+      "id": "e207",
+      "word": "anxiety",
+      "translation": "тревога",
+      "language": "en"
+    },
+    {
+      "id": "e208",
+      "word": "depression",
+      "translation": "депрессия",
+      "language": "en"
+    },
+    {
+      "id": "e209",
+      "word": "panic",
+      "translation": "паника",
+      "language": "en"
+    },
+    {
+      "id": "e210",
+      "word": "fear",
+      "translation": "страх",
+      "language": "en"
+    },
+    {
+      "id": "e211",
+      "word": "phobia",
+      "translation": "фобия",
+      "language": "en"
+    },
+    {
+      "id": "e212",
+      "word": "trauma",
+      "translation": "травма",
+      "language": "en"
+    },
+    {
+      "id": "e213",
+      "word": "shock",
+      "translation": "шок",
+      "language": "en"
+    },
+    {
+      "id": "e214",
+      "word": "grief",
+      "translation": "горе",
+      "language": "en"
+    },
+    {
+      "id": "e215",
+      "word": "sorrow",
+      "translation": "печаль",
+      "language": "en"
+    },
+    {
+      "id": "e216",
+      "word": "sadness",
+      "translation": "грусть",
+      "language": "en"
+    },
+    {
+      "id": "e217",
+      "word": "anger",
+      "translation": "гнев",
+      "language": "en"
+    },
+    {
+      "id": "e218",
+      "word": "rage",
+      "translation": "ярость",
+      "language": "en"
+    },
+    {
+      "id": "e219",
+      "word": "fury",
+      "translation": "ярость",
+      "language": "en"
+    },
+    {
+      "id": "e220",
+      "word": "frustration",
+      "translation": "разочарование",
+      "language": "en"
+    },
+    {
+      "id": "e221",
+      "word": "disappointment",
+      "translation": "разочарование",
+      "language": "en"
+    },
+    {
+      "id": "e222",
+      "word": "guilt",
+      "translation": "вина",
+      "language": "en"
+    },
+    {
+      "id": "e223",
+      "word": "shame",
+      "translation": "стыд",
+      "language": "en"
+    },
+    {
+      "id": "e224",
+      "word": "embarrassment",
+      "translation": "смущение",
+      "language": "en"
+    },
+    {
+      "id": "e225",
+      "word": "humiliation",
+      "translation": "унижение",
+      "language": "en"
+    },
+    {
+      "id": "e226",
+      "word": "pride",
+      "translation": "гордость",
+      "language": "en"
+    },
+    {
+      "id": "e227",
+      "word": "joy",
+      "translation": "радость",
+      "language": "en"
+    },
+    {
+      "id": "e228",
+      "word": "happiness",
+      "translation": "счастье",
+      "language": "en"
+    },
+    {
+      "id": "e229",
+      "word": "pleasure",
+      "translation": "удовольствие",
+      "language": "en"
+    },
+    {
+      "id": "e230",
+      "word": "delight",
+      "translation": "восторг",
+      "language": "en"
+    },
+    {
+      "id": "e231",
+      "word": "satisfaction",
+      "translation": "удовлетворение",
+      "language": "en"
+    },
+    {
+      "id": "e232",
+      "word": "contentment",
+      "translation": "удовлетворенность",
+      "language": "en"
+    },
+    {
+      "id": "e233",
+      "word": "relief",
+      "translation": "облегчение",
+      "language": "en"
+    },
+    {
+      "id": "e234",
+      "word": "comfort",
+      "translation": "комфорт",
+      "language": "en"
+    },
+    {
+      "id": "e235",
+      "word": "peace",
+      "translation": "мир",
+      "language": "en"
+    },
+    {
+      "id": "e236",
+      "word": "calm",
+      "translation": "спокойствие",
+      "language": "en"
+    },
+    {
+      "id": "e237",
+      "word": "serenity",
+      "translation": "безмятежность",
+      "language": "en"
+    },
+    {
+      "id": "e238",
+      "word": "tranquility",
+      "translation": "спокойствие",
+      "language": "en"
+    },
+    {
+      "id": "e239",
+      "word": "harmony",
+      "translation": "гармония",
+      "language": "en"
+    },
+    {
+      "id": "e240",
+      "word": "balance",
+      "translation": "баланс",
+      "language": "en"
+    },
+    {
+      "id": "e241",
+      "word": "equilibrium",
+      "translation": "равновесие",
+      "language": "en"
+    },
+    {
+      "id": "e242",
+      "word": "stability",
+      "translation": "стабильность",
+      "language": "en"
+    },
+    {
+      "id": "e243",
+      "word": "strength",
+      "translation": "сила",
+      "language": "en"
+    },
+    {
+      "id": "e244",
+      "word": "power",
+      "translation": "сила",
+      "language": "en"
+    },
+    {
+      "id": "e245",
+      "word": "energy",
+      "translation": "энергия",
+      "language": "en"
+    },
+    {
+      "id": "e246",
+      "word": "vitality",
+      "translation": "жизнеспособность",
+      "language": "en"
+    },
+    {
+      "id": "e247",
+      "word": "vigor",
+      "translation": "энергия",
+      "language": "en"
+    },
+    {
+      "id": "e248",
+      "word": "stamina",
+      "translation": "выносливость",
+      "language": "en"
+    },
+    {
+      "id": "e249",
+      "word": "endurance",
+      "translation": "выносливость",
+      "language": "en"
+    },
+    {
+      "id": "e250",
+      "word": "resilience",
+      "translation": "стойкость",
+      "language": "en"
+    },
+    {
+      "id": "e251",
+      "word": "toughness",
+      "translation": "жесткость",
+      "language": "en"
+    },
+    {
+      "id": "e252",
+      "word": "fitness",
+      "translation": "фитнес",
+      "language": "en"
+    },
+    {
+      "id": "e253",
+      "word": "wellness",
+      "translation": "здоровье",
+      "language": "en"
+    },
+    {
+      "id": "e254",
+      "word": "wellbeing",
+      "translation": "благополучие",
+      "language": "en"
+    },
+    {
+      "id": "e255",
+      "word": "hygiene",
+      "translation": "гигиена",
+      "language": "en"
+    },
+    {
+      "id": "e256",
+      "word": "sanitation",
+      "translation": "санитария",
+      "language": "en"
+    },
+    {
+      "id": "e257",
+      "word": "cleanliness",
+      "translation": "чистота",
+      "language": "en"
+    },
+    {
+      "id": "e258",
+      "word": "purity",
+      "translation": "чистота",
+      "language": "en"
+    },
+    {
+      "id": "e259",
+      "word": "sterility",
+      "translation": "стерильность",
+      "language": "en"
+    },
+    {
+      "id": "e260",
+      "word": "disinfection",
+      "translation": "дезинфекция",
+      "language": "en"
+    },
+    {
+      "id": "e261",
+      "word": "sterilization",
+      "translation": "стерилизация",
+      "language": "en"
+    },
+    {
+      "id": "e262",
+      "word": "prevention",
+      "translation": "профилактика",
+      "language": "en"
+    },
+    {
+      "id": "e263",
+      "word": "protection",
+      "translation": "защита",
+      "language": "en"
+    },
+    {
+      "id": "e264",
+      "word": "defense",
+      "translation": "защита",
+      "language": "en"
+    },
+    {
+      "id": "e265",
+      "word": "immunity",
+      "translation": "иммунитет",
+      "language": "en"
+    },
+    {
+      "id": "e266",
+      "word": "resistance",
+      "translation": "сопротивление",
+      "language": "en"
+    },
+    {
+      "id": "e267",
+      "word": "susceptibility",
+      "translation": "восприимчивость",
+      "language": "en"
+    },
+    {
+      "id": "e268",
+      "word": "vulnerability",
+      "translation": "уязвимость",
+      "language": "en"
+    },
+    {
+      "id": "e269",
+      "word": "weakness",
+      "translation": "слабость",
+      "language": "en"
+    },
+    {
+      "id": "e270",
+      "word": "fragility",
+      "translation": "хрупкость",
+      "language": "en"
+    },
+    {
+      "id": "e271",
+      "word": "frailty",
+      "translation": "хрупкость",
+      "language": "en"
+    },
+    {
+      "id": "e272",
+      "word": "illness",
+      "translation": "болезнь",
+      "language": "en"
+    },
+    {
+      "id": "e273",
+      "word": "sickness",
+      "translation": "болезнь",
+      "language": "en"
+    },
+    {
+      "id": "e274",
+      "word": "ailment",
+      "translation": "недуг",
+      "language": "en"
+    },
+    {
+      "id": "e275",
+      "word": "malady",
+      "translation": "недуг",
+      "language": "en"
+    },
+    {
+      "id": "e276",
+      "word": "disorder",
+      "translation": "расстройство",
+      "language": "en"
+    },
+    {
+      "id": "e277",
+      "word": "condition",
+      "translation": "состояние",
+      "language": "en"
+    },
+    {
+      "id": "e278",
+      "word": "syndrome",
+      "translation": "синдром",
+      "language": "en"
+    },
+    {
+      "id": "e279",
+      "word": "defect",
+      "translation": "дефект",
+      "language": "en"
+    },
+    {
+      "id": "e280",
+      "word": "deformity",
+      "translation": "деформация",
+      "language": "en"
+    },
+    {
+      "id": "e281",
+      "word": "abnormality",
+      "translation": "аномалия",
+      "language": "en"
+    },
+    {
+      "id": "e282",
+      "word": "mutation",
+      "translation": "мутация",
+      "language": "en"
+    },
+    {
+      "id": "e283",
+      "word": "variation",
+      "translation": "вариация",
+      "language": "en"
+    },
+    {
+      "id": "e284",
+      "word": "deviation",
+      "translation": "отклонение",
+      "language": "en"
+    },
+    {
+      "id": "e285",
+      "word": "anomaly",
+      "translation": "аномалия",
+      "language": "en"
+    },
+    {
+      "id": "e286",
+      "word": "irregularity",
+      "translation": "нерегулярность",
+      "language": "en"
+    }
+  ]
+}

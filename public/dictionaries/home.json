@@ -1,0 +1,2071 @@
+{
+  "id": "builtin-home",
+  "name": "Home, Daily Life & Food ",
+  "description": "Vocabulary for everyday life, cooking, and household",
+  "entries": [
+    {
+      "id": "e1",
+      "word": "house",
+      "translation": "дом",
+      "language": "en"
+    },
+    {
+      "id": "e2",
+      "word": "apartment",
+      "translation": "квартира",
+      "language": "en"
+    },
+    {
+      "id": "e3",
+      "word": "room",
+      "translation": "комната",
+      "language": "en"
+    },
+    {
+      "id": "e4",
+      "word": "bedroom",
+      "translation": "спальня",
+      "language": "en"
+    },
+    {
+      "id": "e5",
+      "word": "living room",
+      "translation": "гостиная",
+      "language": "en"
+    },
+    {
+      "id": "e6",
+      "word": "kitchen",
+      "translation": "кухня",
+      "language": "en"
+    },
+    {
+      "id": "e7",
+      "word": "bathroom",
+      "translation": "ванная комната",
+      "language": "en"
+    },
+    {
+      "id": "e8",
+      "word": "hallway",
+      "translation": "коридор",
+      "language": "en"
+    },
+    {
+      "id": "e9",
+      "word": "door",
+      "translation": "дверь",
+      "language": "en"
+    },
+    {
+      "id": "e10",
+      "word": "window",
+      "translation": "окно",
+      "language": "en"
+    },
+    {
+      "id": "e11",
+      "word": "wall",
+      "translation": "стена",
+      "language": "en"
+    },
+    {
+      "id": "e12",
+      "word": "floor",
+      "translation": "пол",
+      "language": "en"
+    },
+    {
+      "id": "e13",
+      "word": "ceiling",
+      "translation": "потолок",
+      "language": "en"
+    },
+    {
+      "id": "e14",
+      "word": "roof",
+      "translation": "крыша",
+      "language": "en"
+    },
+    {
+      "id": "e15",
+      "word": "stairs",
+      "translation": "лестница",
+      "language": "en"
+    },
+    {
+      "id": "e16",
+      "word": "balcony",
+      "translation": "балкон",
+      "language": "en"
+    },
+    {
+      "id": "e17",
+      "word": "furniture",
+      "translation": "мебель",
+      "language": "en"
+    },
+    {
+      "id": "e18",
+      "word": "bed",
+      "translation": "кровать",
+      "language": "en"
+    },
+    {
+      "id": "e19",
+      "word": "chair",
+      "translation": "стул",
+      "language": "en"
+    },
+    {
+      "id": "e20",
+      "word": "table",
+      "translation": "стол",
+      "language": "en"
+    },
+    {
+      "id": "e21",
+      "word": "desk",
+      "translation": "письменный стол",
+      "language": "en"
+    },
+    {
+      "id": "e22",
+      "word": "sofa",
+      "translation": "диван",
+      "language": "en"
+    },
+    {
+      "id": "e23",
+      "word": "armchair",
+      "translation": "кресло",
+      "language": "en"
+    },
+    {
+      "id": "e24",
+      "word": "closet",
+      "translation": "шкаф",
+      "language": "en"
+    },
+    {
+      "id": "e25",
+      "word": "shelf",
+      "translation": "полка",
+      "language": "en"
+    },
+    {
+      "id": "e26",
+      "word": "lamp",
+      "translation": "лампа",
+      "language": "en"
+    },
+    {
+      "id": "e27",
+      "word": "carpet",
+      "translation": "ковер",
+      "language": "en"
+    },
+    {
+      "id": "e28",
+      "word": "mirror",
+      "translation": "зеркало",
+      "language": "en"
+    },
+    {
+      "id": "e29",
+      "word": "clock",
+      "translation": "часы",
+      "language": "en"
+    },
+    {
+      "id": "e30",
+      "word": "television",
+      "translation": "телевизор",
+      "language": "en"
+    },
+    {
+      "id": "e31",
+      "word": "refrigerator",
+      "translation": "холодильник",
+      "language": "en"
+    },
+    {
+      "id": "e32",
+      "word": "oven",
+      "translation": "духовка",
+      "language": "en"
+    },
+    {
+      "id": "e33",
+      "word": "stove",
+      "translation": "плита",
+      "language": "en"
+    },
+    {
+      "id": "e34",
+      "word": "microwave",
+      "translation": "микроволновка",
+      "language": "en"
+    },
+    {
+      "id": "e35",
+      "word": "sink",
+      "translation": "раковина",
+      "language": "en"
+    },
+    {
+      "id": "e36",
+      "word": "toilet",
+      "translation": "туалет",
+      "language": "en"
+    },
+    {
+      "id": "e37",
+      "word": "shower",
+      "translation": "душ",
+      "language": "en"
+    },
+    {
+      "id": "e38",
+      "word": "bathtub",
+      "translation": "ванна",
+      "language": "en"
+    },
+    {
+      "id": "e39",
+      "word": "towel",
+      "translation": "полотенце",
+      "language": "en"
+    },
+    {
+      "id": "e40",
+      "word": "blanket",
+      "translation": "одеяло",
+      "language": "en"
+    },
+    {
+      "id": "e41",
+      "word": "pillow",
+      "translation": "подушка",
+      "language": "en"
+    },
+    {
+      "id": "e42",
+      "word": "sheet",
+      "translation": "простыня",
+      "language": "en"
+    },
+    {
+      "id": "e43",
+      "word": "curtain",
+      "translation": "занавеска",
+      "language": "en"
+    },
+    {
+      "id": "e44",
+      "word": "blind",
+      "translation": "штора",
+      "language": "en"
+    },
+    {
+      "id": "e45",
+      "word": "rug",
+      "translation": "коврик",
+      "language": "en"
+    },
+    {
+      "id": "e46",
+      "word": "cushion",
+      "translation": "подушка",
+      "language": "en"
+    },
+    {
+      "id": "e47",
+      "word": "wardrobe",
+      "translation": "шкаф",
+      "language": "en"
+    },
+    {
+      "id": "e48",
+      "word": "drawer",
+      "translation": "выдвижной ящик",
+      "language": "en"
+    },
+    {
+      "id": "e49",
+      "word": "cabinet",
+      "translation": "шкафчик",
+      "language": "en"
+    },
+    {
+      "id": "e50",
+      "word": "cupboard",
+      "translation": "буфет",
+      "language": "en"
+    },
+    {
+      "id": "e51",
+      "word": "counter",
+      "translation": "столешница",
+      "language": "en"
+    },
+    {
+      "id": "e52",
+      "word": "dishwasher",
+      "translation": "посудомоечная машина",
+      "language": "en"
+    },
+    {
+      "id": "e53",
+      "word": "washing machine",
+      "translation": "стиральная машина",
+      "language": "en"
+    },
+    {
+      "id": "e54",
+      "word": "dryer",
+      "translation": "сушилка",
+      "language": "en"
+    },
+    {
+      "id": "e55",
+      "word": "iron",
+      "translation": "утюг",
+      "language": "en"
+    },
+    {
+      "id": "e56",
+      "word": "ironing board",
+      "translation": "гладильная доска",
+      "language": "en"
+    },
+    {
+      "id": "e57",
+      "word": "vacuum cleaner",
+      "translation": "пылесос",
+      "language": "en"
+    },
+    {
+      "id": "e58",
+      "word": "broom",
+      "translation": "метла",
+      "language": "en"
+    },
+    {
+      "id": "e59",
+      "word": "mop",
+      "translation": "швабра",
+      "language": "en"
+    },
+    {
+      "id": "e60",
+      "word": "dustpan",
+      "translation": "совок",
+      "language": "en"
+    },
+    {
+      "id": "e61",
+      "word": "bucket",
+      "translation": "ведро",
+      "language": "en"
+    },
+    {
+      "id": "e62",
+      "word": "sponge",
+      "translation": "губка",
+      "language": "en"
+    },
+    {
+      "id": "e63",
+      "word": "brush",
+      "translation": "щетка",
+      "language": "en"
+    },
+    {
+      "id": "e64",
+      "word": "soap",
+      "translation": "мыло",
+      "language": "en"
+    },
+    {
+      "id": "e65",
+      "word": "detergent",
+      "translation": "моющее средство",
+      "language": "en"
+    },
+    {
+      "id": "e66",
+      "word": "bleach",
+      "translation": "отбеливатель",
+      "language": "en"
+    },
+    {
+      "id": "e67",
+      "word": "trash can",
+      "translation": "мусорное ведро",
+      "language": "en"
+    },
+    {
+      "id": "e68",
+      "word": "bin",
+      "translation": "урна",
+      "language": "en"
+    },
+    {
+      "id": "e69",
+      "word": "basket",
+      "translation": "корзина",
+      "language": "en"
+    },
+    {
+      "id": "e70",
+      "word": "plate",
+      "translation": "тарелка",
+      "language": "en"
+    },
+    {
+      "id": "e71",
+      "word": "bowl",
+      "translation": "миска",
+      "language": "en"
+    },
+    {
+      "id": "e72",
+      "word": "cup",
+      "translation": "чашка",
+      "language": "en"
+    },
+    {
+      "id": "e73",
+      "word": "glass",
+      "translation": "стакан",
+      "language": "en"
+    },
+    {
+      "id": "e74",
+      "word": "mug",
+      "translation": "кружка",
+      "language": "en"
+    },
+    {
+      "id": "e75",
+      "word": "saucer",
+      "translation": "блюдце",
+      "language": "en"
+    },
+    {
+      "id": "e76",
+      "word": "pitcher",
+      "translation": "кувшин",
+      "language": "en"
+    },
+    {
+      "id": "e77",
+      "word": "jug",
+      "translation": "кувшин",
+      "language": "en"
+    },
+    {
+      "id": "e78",
+      "word": "kettle",
+      "translation": "чайник",
+      "language": "en"
+    },
+    {
+      "id": "e79",
+      "word": "teapot",
+      "translation": "чайник",
+      "language": "en"
+    },
+    {
+      "id": "e80",
+      "word": "pot",
+      "translation": "кастрюля",
+      "language": "en"
+    },
+    {
+      "id": "e81",
+      "word": "pan",
+      "translation": "кастрюля",
+      "language": "en"
+    },
+    {
+      "id": "e82",
+      "word": "skillet",
+      "translation": "сковорода",
+      "language": "en"
+    },
+    {
+      "id": "e83",
+      "word": "frying pan",
+      "translation": "сковорода",
+      "language": "en"
+    },
+    {
+      "id": "e84",
+      "word": "wok",
+      "translation": "сковорода",
+      "language": "en"
+    },
+    {
+      "id": "e85",
+      "word": "fork",
+      "translation": "вилка",
+      "language": "en"
+    },
+    {
+      "id": "e86",
+      "word": "knife",
+      "translation": "нож",
+      "language": "en"
+    },
+    {
+      "id": "e87",
+      "word": "spoon",
+      "translation": "ложка",
+      "language": "en"
+    },
+    {
+      "id": "e88",
+      "word": "chopsticks",
+      "translation": "палочки для еды",
+      "language": "en"
+    },
+    {
+      "id": "e89",
+      "word": "spatula",
+      "translation": "лопатка",
+      "language": "en"
+    },
+    {
+      "id": "e90",
+      "word": "ladle",
+      "translation": "половник",
+      "language": "en"
+    },
+    {
+      "id": "e91",
+      "word": "whisk",
+      "translation": "венчик",
+      "language": "en"
+    },
+    {
+      "id": "e92",
+      "word": "tongs",
+      "translation": "щипцы",
+      "language": "en"
+    },
+    {
+      "id": "e93",
+      "word": "grater",
+      "translation": "терка",
+      "language": "en"
+    },
+    {
+      "id": "e94",
+      "word": "peeler",
+      "translation": "овощечистка",
+      "language": "en"
+    },
+    {
+      "id": "e95",
+      "word": "slicer",
+      "translation": "слайсер",
+      "language": "en"
+    },
+    {
+      "id": "e96",
+      "word": "can opener",
+      "translation": "консервный нож",
+      "language": "en"
+    },
+    {
+      "id": "e97",
+      "word": "corkscrew",
+      "translation": "штопор",
+      "language": "en"
+    },
+    {
+      "id": "e98",
+      "word": "bottle opener",
+      "translation": "открывалка для бутылок",
+      "language": "en"
+    },
+    {
+      "id": "e99",
+      "word": "nutcracker",
+      "translation": "орехокол",
+      "language": "en"
+    },
+    {
+      "id": "e100",
+      "word": "scissors",
+      "translation": "ножницы",
+      "language": "en"
+    },
+    {
+      "id": "e101",
+      "word": "cutting board",
+      "translation": "разделочная доска",
+      "language": "en"
+    },
+    {
+      "id": "e102",
+      "word": "tray",
+      "translation": "поднос",
+      "language": "en"
+    },
+    {
+      "id": "e103",
+      "word": "platter",
+      "translation": "блюдо",
+      "language": "en"
+    },
+    {
+      "id": "e104",
+      "word": "napkin",
+      "translation": "салфетка",
+      "language": "en"
+    },
+    {
+      "id": "e105",
+      "word": "tablecloth",
+      "translation": "скатерть",
+      "language": "en"
+    },
+    {
+      "id": "e106",
+      "word": "apron",
+      "translation": "фартук",
+      "language": "en"
+    },
+    {
+      "id": "e107",
+      "word": "oven mitt",
+      "translation": "прихватка",
+      "language": "en"
+    },
+    {
+      "id": "e108",
+      "word": "toaster",
+      "translation": "тостер",
+      "language": "en"
+    },
+    {
+      "id": "e109",
+      "word": "blender",
+      "translation": "блендер",
+      "language": "en"
+    },
+    {
+      "id": "e110",
+      "word": "mixer",
+      "translation": "миксер",
+      "language": "en"
+    },
+    {
+      "id": "e111",
+      "word": "food processor",
+      "translation": "кухонный комбайн",
+      "language": "en"
+    },
+    {
+      "id": "e112",
+      "word": "juicer",
+      "translation": "соковыжималка",
+      "language": "en"
+    },
+    {
+      "id": "e113",
+      "word": "coffee maker",
+      "translation": "кофеварка",
+      "language": "en"
+    },
+    {
+      "id": "e114",
+      "word": "grinder",
+      "translation": "кофемолка",
+      "language": "en"
+    },
+    {
+      "id": "e115",
+      "word": "scale",
+      "translation": "весы",
+      "language": "en"
+    },
+    {
+      "id": "e116",
+      "word": "thermometer",
+      "translation": "термометр",
+      "language": "en"
+    },
+    {
+      "id": "e117",
+      "word": "timer",
+      "translation": "таймер",
+      "language": "en"
+    },
+    {
+      "id": "e118",
+      "word": "watch",
+      "translation": "наручные часы",
+      "language": "en"
+    },
+    {
+      "id": "e119",
+      "word": "alarm",
+      "translation": "будильник",
+      "language": "en"
+    },
+    {
+      "id": "e120",
+      "word": "radio",
+      "translation": "радио",
+      "language": "en"
+    },
+    {
+      "id": "e121",
+      "word": "stereo",
+      "translation": "стерео",
+      "language": "en"
+    },
+    {
+      "id": "e122",
+      "word": "speaker",
+      "translation": "колонка",
+      "language": "en"
+    },
+    {
+      "id": "e123",
+      "word": "headphones",
+      "translation": "наушники",
+      "language": "en"
+    },
+    {
+      "id": "e124",
+      "word": "earphones",
+      "translation": "наушники",
+      "language": "en"
+    },
+    {
+      "id": "e125",
+      "word": "microphone",
+      "translation": "микрофон",
+      "language": "en"
+    },
+    {
+      "id": "e126",
+      "word": "camera",
+      "translation": "камера",
+      "language": "en"
+    },
+    {
+      "id": "e127",
+      "word": "telephone",
+      "translation": "телефон",
+      "language": "en"
+    },
+    {
+      "id": "e128",
+      "word": "cellphone",
+      "translation": "мобильный телефон",
+      "language": "en"
+    },
+    {
+      "id": "e129",
+      "word": "smartphone",
+      "translation": "смартфон",
+      "language": "en"
+    },
+    {
+      "id": "e130",
+      "word": "charger",
+      "translation": "зарядное устройство",
+      "language": "en"
+    },
+    {
+      "id": "e131",
+      "word": "battery",
+      "translation": "батарея",
+      "language": "en"
+    },
+    {
+      "id": "e132",
+      "word": "plug",
+      "translation": "вилка",
+      "language": "en"
+    },
+    {
+      "id": "e133",
+      "word": "socket",
+      "translation": "розетка",
+      "language": "en"
+    },
+    {
+      "id": "e134",
+      "word": "switch",
+      "translation": "выключатель",
+      "language": "en"
+    },
+    {
+      "id": "e135",
+      "word": "wire",
+      "translation": "провод",
+      "language": "en"
+    },
+    {
+      "id": "e136",
+      "word": "cable",
+      "translation": "кабель",
+      "language": "en"
+    },
+    {
+      "id": "e137",
+      "word": "cord",
+      "translation": "шнур",
+      "language": "en"
+    },
+    {
+      "id": "e138",
+      "word": "adapter",
+      "translation": "адаптер",
+      "language": "en"
+    },
+    {
+      "id": "e139",
+      "word": "router",
+      "translation": "маршрутизатор",
+      "language": "en"
+    },
+    {
+      "id": "e140",
+      "word": "modem",
+      "translation": "модем",
+      "language": "en"
+    },
+    {
+      "id": "e141",
+      "word": "computer",
+      "translation": "компьютер",
+      "language": "en"
+    },
+    {
+      "id": "e142",
+      "word": "laptop",
+      "translation": "ноутбук",
+      "language": "en"
+    },
+    {
+      "id": "e143",
+      "word": "tablet",
+      "translation": "планшет",
+      "language": "en"
+    },
+    {
+      "id": "e144",
+      "word": "monitor",
+      "translation": "монитор",
+      "language": "en"
+    },
+    {
+      "id": "e145",
+      "word": "screen",
+      "translation": "экран",
+      "language": "en"
+    },
+    {
+      "id": "e146",
+      "word": "keyboard",
+      "translation": "клавиатура",
+      "language": "en"
+    },
+    {
+      "id": "e147",
+      "word": "mouse",
+      "translation": "мышь",
+      "language": "en"
+    },
+    {
+      "id": "e148",
+      "word": "printer",
+      "translation": "принтер",
+      "language": "en"
+    },
+    {
+      "id": "e149",
+      "word": "scanner",
+      "translation": "сканер",
+      "language": "en"
+    },
+    {
+      "id": "e150",
+      "word": "paper",
+      "translation": "бумага",
+      "language": "en"
+    },
+    {
+      "id": "e151",
+      "word": "pen",
+      "translation": "ручка",
+      "language": "en"
+    },
+    {
+      "id": "e152",
+      "word": "pencil",
+      "translation": "карандаш",
+      "language": "en"
+    },
+    {
+      "id": "e153",
+      "word": "eraser",
+      "translation": "ластик",
+      "language": "en"
+    },
+    {
+      "id": "e154",
+      "word": "ruler",
+      "translation": "линейка",
+      "language": "en"
+    },
+    {
+      "id": "e155",
+      "word": "glue",
+      "translation": "клей",
+      "language": "en"
+    },
+    {
+      "id": "e156",
+      "word": "tape",
+      "translation": "скотч",
+      "language": "en"
+    },
+    {
+      "id": "e157",
+      "word": "stapler",
+      "translation": "степлер",
+      "language": "en"
+    },
+    {
+      "id": "e158",
+      "word": "clip",
+      "translation": "скрепка",
+      "language": "en"
+    },
+    {
+      "id": "e159",
+      "word": "pin",
+      "translation": "булавка",
+      "language": "en"
+    },
+    {
+      "id": "e160",
+      "word": "folder",
+      "translation": "папка",
+      "language": "en"
+    },
+    {
+      "id": "e161",
+      "word": "file",
+      "translation": "файл",
+      "language": "en"
+    },
+    {
+      "id": "e162",
+      "word": "notebook",
+      "translation": "блокнот",
+      "language": "en"
+    },
+    {
+      "id": "e163",
+      "word": "diary",
+      "translation": "дневник",
+      "language": "en"
+    },
+    {
+      "id": "e164",
+      "word": "calendar",
+      "translation": "календарь",
+      "language": "en"
+    },
+    {
+      "id": "e165",
+      "word": "book",
+      "translation": "книга",
+      "language": "en"
+    },
+    {
+      "id": "e166",
+      "word": "magazine",
+      "translation": "журнал",
+      "language": "en"
+    },
+    {
+      "id": "e167",
+      "word": "newspaper",
+      "translation": "газета",
+      "language": "en"
+    },
+    {
+      "id": "e168",
+      "word": "letter",
+      "translation": "письмо",
+      "language": "en"
+    },
+    {
+      "id": "e169",
+      "word": "envelope",
+      "translation": "конверт",
+      "language": "en"
+    },
+    {
+      "id": "e170",
+      "word": "stamp",
+      "translation": "марка",
+      "language": "en"
+    },
+    {
+      "id": "e171",
+      "word": "package",
+      "translation": "пакет",
+      "language": "en"
+    },
+    {
+      "id": "e172",
+      "word": "parcel",
+      "translation": "посылка",
+      "language": "en"
+    },
+    {
+      "id": "e173",
+      "word": "box",
+      "translation": "коробка",
+      "language": "en"
+    },
+    {
+      "id": "e174",
+      "word": "carton",
+      "translation": "картонная коробка",
+      "language": "en"
+    },
+    {
+      "id": "e175",
+      "word": "bag",
+      "translation": "сумка",
+      "language": "en"
+    },
+    {
+      "id": "e176",
+      "word": "sack",
+      "translation": "мешок",
+      "language": "en"
+    },
+    {
+      "id": "e177",
+      "word": "backpack",
+      "translation": "рюкзак",
+      "language": "en"
+    },
+    {
+      "id": "e178",
+      "word": "suitcase",
+      "translation": "чемодан",
+      "language": "en"
+    },
+    {
+      "id": "e179",
+      "word": "purse",
+      "translation": "кошелек",
+      "language": "en"
+    },
+    {
+      "id": "e180",
+      "word": "wallet",
+      "translation": "бумажник",
+      "language": "en"
+    },
+    {
+      "id": "e181",
+      "word": "umbrella",
+      "translation": "зонт",
+      "language": "en"
+    },
+    {
+      "id": "e182",
+      "word": "key",
+      "translation": "ключ",
+      "language": "en"
+    },
+    {
+      "id": "e183",
+      "word": "lock",
+      "translation": "замок",
+      "language": "en"
+    },
+    {
+      "id": "e184",
+      "word": "doorbell",
+      "translation": "дверной звонок",
+      "language": "en"
+    },
+    {
+      "id": "e185",
+      "word": "handle",
+      "translation": "ручка",
+      "language": "en"
+    },
+    {
+      "id": "e186",
+      "word": "knob",
+      "translation": "круглая ручка",
+      "language": "en"
+    },
+    {
+      "id": "e187",
+      "word": "hinge",
+      "translation": "петля",
+      "language": "en"
+    },
+    {
+      "id": "e188",
+      "word": "bolt",
+      "translation": "болт",
+      "language": "en"
+    },
+    {
+      "id": "e189",
+      "word": "screw",
+      "translation": "винт",
+      "language": "en"
+    },
+    {
+      "id": "e190",
+      "word": "nail",
+      "translation": "гвоздь",
+      "language": "en"
+    },
+    {
+      "id": "e191",
+      "word": "hammer",
+      "translation": "молоток",
+      "language": "en"
+    },
+    {
+      "id": "e192",
+      "word": "screwdriver",
+      "translation": "отвертка",
+      "language": "en"
+    },
+    {
+      "id": "e193",
+      "word": "wrench",
+      "translation": "гаечный ключ",
+      "language": "en"
+    },
+    {
+      "id": "e194",
+      "word": "pliers",
+      "translation": "плоскогубцы",
+      "language": "en"
+    },
+    {
+      "id": "e195",
+      "word": "saw",
+      "translation": "пила",
+      "language": "en"
+    },
+    {
+      "id": "e196",
+      "word": "drill",
+      "translation": "дрель",
+      "language": "en"
+    },
+    {
+      "id": "e197",
+      "word": "tool",
+      "translation": "инструмент",
+      "language": "en"
+    },
+    {
+      "id": "e198",
+      "word": "equipment",
+      "translation": "оборудование",
+      "language": "en"
+    },
+    {
+      "id": "e199",
+      "word": "gear",
+      "translation": "снаряжение",
+      "language": "en"
+    },
+    {
+      "id": "e200",
+      "word": "machine",
+      "translation": "машина",
+      "language": "en"
+    },
+    {
+      "id": "e201",
+      "word": "device",
+      "translation": "устройство",
+      "language": "en"
+    },
+    {
+      "id": "e202",
+      "word": "appliance",
+      "translation": "прибор",
+      "language": "en"
+    },
+    {
+      "id": "e203",
+      "word": "gadget",
+      "translation": "гаджет",
+      "language": "en"
+    },
+    {
+      "id": "e204",
+      "word": "instrument",
+      "translation": "инструмент",
+      "language": "en"
+    },
+    {
+      "id": "e205",
+      "word": "implement",
+      "translation": "орудие",
+      "language": "en"
+    },
+    {
+      "id": "e206",
+      "word": "utensil",
+      "translation": "посуда",
+      "language": "en"
+    },
+    {
+      "id": "e207",
+      "word": "item",
+      "translation": "предмет",
+      "language": "en"
+    },
+    {
+      "id": "e208",
+      "word": "object",
+      "translation": "объект",
+      "language": "en"
+    },
+    {
+      "id": "e209",
+      "word": "thing",
+      "translation": "вещь",
+      "language": "en"
+    },
+    {
+      "id": "e210",
+      "word": "stuff",
+      "translation": "вещи",
+      "language": "en"
+    },
+    {
+      "id": "e211",
+      "word": "material",
+      "translation": "материал",
+      "language": "en"
+    },
+    {
+      "id": "e212",
+      "word": "cloth",
+      "translation": "ткань",
+      "language": "en"
+    },
+    {
+      "id": "e213",
+      "word": "fabric",
+      "translation": "материя",
+      "language": "en"
+    },
+    {
+      "id": "e214",
+      "word": "cotton",
+      "translation": "хлопок",
+      "language": "en"
+    },
+    {
+      "id": "e215",
+      "word": "wool",
+      "translation": "шерсть",
+      "language": "en"
+    },
+    {
+      "id": "e216",
+      "word": "silk",
+      "translation": "шелк",
+      "language": "en"
+    },
+    {
+      "id": "e217",
+      "word": "leather",
+      "translation": "кожа",
+      "language": "en"
+    },
+    {
+      "id": "e218",
+      "word": "plastic",
+      "translation": "пластик",
+      "language": "en"
+    },
+    {
+      "id": "e219",
+      "word": "rubber",
+      "translation": "резина",
+      "language": "en"
+    },
+    {
+      "id": "e220",
+      "word": "glass",
+      "translation": "стекло",
+      "language": "en"
+    },
+    {
+      "id": "e221",
+      "word": "metal",
+      "translation": "металл",
+      "language": "en"
+    },
+    {
+      "id": "e222",
+      "word": "wood",
+      "translation": "дерево",
+      "language": "en"
+    },
+    {
+      "id": "e223",
+      "word": "cardboard",
+      "translation": "картон",
+      "language": "en"
+    },
+    {
+      "id": "e224",
+      "word": "stone",
+      "translation": "камень",
+      "language": "en"
+    },
+    {
+      "id": "e225",
+      "word": "brick",
+      "translation": "кирпич",
+      "language": "en"
+    },
+    {
+      "id": "e226",
+      "word": "concrete",
+      "translation": "бетон",
+      "language": "en"
+    },
+    {
+      "id": "e227",
+      "word": "cement",
+      "translation": "цемент",
+      "language": "en"
+    },
+    {
+      "id": "e228",
+      "word": "paint",
+      "translation": "краска",
+      "language": "en"
+    },
+    {
+      "id": "e229",
+      "word": "color",
+      "translation": "цвет",
+      "language": "en"
+    },
+    {
+      "id": "e230",
+      "word": "shape",
+      "translation": "форма",
+      "language": "en"
+    },
+    {
+      "id": "e231",
+      "word": "size",
+      "translation": "размер",
+      "language": "en"
+    },
+    {
+      "id": "e232",
+      "word": "weight",
+      "translation": "вес",
+      "language": "en"
+    },
+    {
+      "id": "e233",
+      "word": "length",
+      "translation": "длина",
+      "language": "en"
+    },
+    {
+      "id": "e234",
+      "word": "width",
+      "translation": "ширина",
+      "language": "en"
+    },
+    {
+      "id": "e235",
+      "word": "height",
+      "translation": "высота",
+      "language": "en"
+    },
+    {
+      "id": "e236",
+      "word": "depth",
+      "translation": "глубина",
+      "language": "en"
+    },
+    {
+      "id": "e237",
+      "word": "distance",
+      "translation": "расстояние",
+      "language": "en"
+    },
+    {
+      "id": "e238",
+      "word": "area",
+      "translation": "площадь",
+      "language": "en"
+    },
+    {
+      "id": "e239",
+      "word": "volume",
+      "translation": "объем",
+      "language": "en"
+    },
+    {
+      "id": "e240",
+      "word": "capacity",
+      "translation": "вместимость",
+      "language": "en"
+    },
+    {
+      "id": "e241",
+      "word": "temperature",
+      "translation": "температура",
+      "language": "en"
+    },
+    {
+      "id": "e242",
+      "word": "speed",
+      "translation": "скорость",
+      "language": "en"
+    },
+    {
+      "id": "e243",
+      "word": "time",
+      "translation": "время",
+      "language": "en"
+    },
+    {
+      "id": "e244",
+      "word": "date",
+      "translation": "дата",
+      "language": "en"
+    },
+    {
+      "id": "e245",
+      "word": "day",
+      "translation": "день",
+      "language": "en"
+    },
+    {
+      "id": "e246",
+      "word": "week",
+      "translation": "неделя",
+      "language": "en"
+    },
+    {
+      "id": "e247",
+      "word": "month",
+      "translation": "месяц",
+      "language": "en"
+    },
+    {
+      "id": "e248",
+      "word": "year",
+      "translation": "год",
+      "language": "en"
+    },
+    {
+      "id": "e249",
+      "word": "morning",
+      "translation": "утро",
+      "language": "en"
+    },
+    {
+      "id": "e250",
+      "word": "afternoon",
+      "translation": "день",
+      "language": "en"
+    },
+    {
+      "id": "e251",
+      "word": "evening",
+      "translation": "вечер",
+      "language": "en"
+    },
+    {
+      "id": "e252",
+      "word": "night",
+      "translation": "ночь",
+      "language": "en"
+    },
+    {
+      "id": "e253",
+      "word": "midnight",
+      "translation": "полночь",
+      "language": "en"
+    },
+    {
+      "id": "e254",
+      "word": "noon",
+      "translation": "полдень",
+      "language": "en"
+    },
+    {
+      "id": "e255",
+      "word": "dawn",
+      "translation": "рассвет",
+      "language": "en"
+    },
+    {
+      "id": "e256",
+      "word": "dusk",
+      "translation": "сумерки",
+      "language": "en"
+    },
+    {
+      "id": "e257",
+      "word": "sunrise",
+      "translation": "восход",
+      "language": "en"
+    },
+    {
+      "id": "e258",
+      "word": "sunset",
+      "translation": "закат",
+      "language": "en"
+    },
+    {
+      "id": "e259",
+      "word": "today",
+      "translation": "сегодня",
+      "language": "en"
+    },
+    {
+      "id": "e260",
+      "word": "tomorrow",
+      "translation": "завтра",
+      "language": "en"
+    },
+    {
+      "id": "e261",
+      "word": "yesterday",
+      "translation": "вчера",
+      "language": "en"
+    },
+    {
+      "id": "e262",
+      "word": "now",
+      "translation": "сейчас",
+      "language": "en"
+    },
+    {
+      "id": "e263",
+      "word": "later",
+      "translation": "позже",
+      "language": "en"
+    },
+    {
+      "id": "e264",
+      "word": "soon",
+      "translation": "скоро",
+      "language": "en"
+    },
+    {
+      "id": "e265",
+      "word": "early",
+      "translation": "рано",
+      "language": "en"
+    },
+    {
+      "id": "e266",
+      "word": "late",
+      "translation": "поздно",
+      "language": "en"
+    },
+    {
+      "id": "e267",
+      "word": "always",
+      "translation": "всегда",
+      "language": "en"
+    },
+    {
+      "id": "e268",
+      "word": "never",
+      "translation": "никогда",
+      "language": "en"
+    },
+    {
+      "id": "e269",
+      "word": "sometimes",
+      "translation": "иногда",
+      "language": "en"
+    },
+    {
+      "id": "e270",
+      "word": "often",
+      "translation": "часто",
+      "language": "en"
+    },
+    {
+      "id": "e271",
+      "word": "rarely",
+      "translation": "редко",
+      "language": "en"
+    },
+    {
+      "id": "e272",
+      "word": "usually",
+      "translation": "обычно",
+      "language": "en"
+    },
+    {
+      "id": "e273",
+      "word": "daily",
+      "translation": "ежедневно",
+      "language": "en"
+    },
+    {
+      "id": "e274",
+      "word": "weekly",
+      "translation": "еженедельно",
+      "language": "en"
+    },
+    {
+      "id": "e275",
+      "word": "monthly",
+      "translation": "ежемесячно",
+      "language": "en"
+    },
+    {
+      "id": "e276",
+      "word": "yearly",
+      "translation": "ежегодно",
+      "language": "en"
+    },
+    {
+      "id": "e277",
+      "word": "food",
+      "translation": "еда",
+      "language": "en"
+    },
+    {
+      "id": "e278",
+      "word": "meal",
+      "translation": "прием пищи",
+      "language": "en"
+    },
+    {
+      "id": "e279",
+      "word": "breakfast",
+      "translation": "завтрак",
+      "language": "en"
+    },
+    {
+      "id": "e280",
+      "word": "lunch",
+      "translation": "обед",
+      "language": "en"
+    },
+    {
+      "id": "e281",
+      "word": "dinner",
+      "translation": "ужин",
+      "language": "en"
+    },
+    {
+      "id": "e282",
+      "word": "snack",
+      "translation": "закуска",
+      "language": "en"
+    },
+    {
+      "id": "e283",
+      "word": "dessert",
+      "translation": "десерт",
+      "language": "en"
+    },
+    {
+      "id": "e284",
+      "word": "drink",
+      "translation": "напиток",
+      "language": "en"
+    },
+    {
+      "id": "e285",
+      "word": "beverage",
+      "translation": "напиток",
+      "language": "en"
+    },
+    {
+      "id": "e286",
+      "word": "water",
+      "translation": "вода",
+      "language": "en"
+    },
+    {
+      "id": "e287",
+      "word": "juice",
+      "translation": "сок",
+      "language": "en"
+    },
+    {
+      "id": "e288",
+      "word": "milk",
+      "translation": "молоко",
+      "language": "en"
+    },
+    {
+      "id": "e289",
+      "word": "tea",
+      "translation": "чай",
+      "language": "en"
+    },
+    {
+      "id": "e290",
+      "word": "coffee",
+      "translation": "кофе",
+      "language": "en"
+    },
+    {
+      "id": "e291",
+      "word": "beer",
+      "translation": "пиво",
+      "language": "en"
+    },
+    {
+      "id": "e292",
+      "word": "wine",
+      "translation": "вино",
+      "language": "en"
+    },
+    {
+      "id": "e293",
+      "word": "alcohol",
+      "translation": "алкоголь",
+      "language": "en"
+    },
+    {
+      "id": "e294",
+      "word": "meat",
+      "translation": "мясо",
+      "language": "en"
+    },
+    {
+      "id": "e295",
+      "word": "beef",
+      "translation": "говядина",
+      "language": "en"
+    },
+    {
+      "id": "e296",
+      "word": "pork",
+      "translation": "свинина",
+      "language": "en"
+    },
+    {
+      "id": "e297",
+      "word": "chicken",
+      "translation": "курица",
+      "language": "en"
+    },
+    {
+      "id": "e298",
+      "word": "fish",
+      "translation": "рыба",
+      "language": "en"
+    },
+    {
+      "id": "e299",
+      "word": "seafood",
+      "translation": "морепродукты",
+      "language": "en"
+    },
+    {
+      "id": "e300",
+      "word": "vegetable",
+      "translation": "овощ",
+      "language": "en"
+    },
+    {
+      "id": "e301",
+      "word": "fruit",
+      "translation": "фрукт",
+      "language": "en"
+    },
+    {
+      "id": "e302",
+      "word": "apple",
+      "translation": "яблоко",
+      "language": "en"
+    },
+    {
+      "id": "e303",
+      "word": "banana",
+      "translation": "банан",
+      "language": "en"
+    },
+    {
+      "id": "e304",
+      "word": "orange",
+      "translation": "апельсин",
+      "language": "en"
+    },
+    {
+      "id": "e305",
+      "word": "lemon",
+      "translation": "лимон",
+      "language": "en"
+    },
+    {
+      "id": "e306",
+      "word": "grape",
+      "translation": "виноград",
+      "language": "en"
+    },
+    {
+      "id": "e307",
+      "word": "berry",
+      "translation": "ягода",
+      "language": "en"
+    },
+    {
+      "id": "e308",
+      "word": "strawberry",
+      "translation": "клубника",
+      "language": "en"
+    },
+    {
+      "id": "e309",
+      "word": "tomato",
+      "translation": "помидор",
+      "language": "en"
+    },
+    {
+      "id": "e310",
+      "word": "potato",
+      "translation": "картофель",
+      "language": "en"
+    },
+    {
+      "id": "e311",
+      "word": "onion",
+      "translation": "лук",
+      "language": "en"
+    },
+    {
+      "id": "e312",
+      "word": "garlic",
+      "translation": "чеснок",
+      "language": "en"
+    },
+    {
+      "id": "e313",
+      "word": "carrot",
+      "translation": "морковь",
+      "language": "en"
+    },
+    {
+      "id": "e314",
+      "word": "pepper",
+      "translation": "перец",
+      "language": "en"
+    },
+    {
+      "id": "e315",
+      "word": "salt",
+      "translation": "соль",
+      "language": "en"
+    },
+    {
+      "id": "e316",
+      "word": "sugar",
+      "translation": "сахар",
+      "language": "en"
+    },
+    {
+      "id": "e317",
+      "word": "spice",
+      "translation": "специя",
+      "language": "en"
+    },
+    {
+      "id": "e318",
+      "word": "herb",
+      "translation": "трава",
+      "language": "en"
+    },
+    {
+      "id": "e319",
+      "word": "oil",
+      "translation": "масло",
+      "language": "en"
+    },
+    {
+      "id": "e320",
+      "word": "butter",
+      "translation": "сливочное масло",
+      "language": "en"
+    },
+    {
+      "id": "e321",
+      "word": "cheese",
+      "translation": "сыр",
+      "language": "en"
+    },
+    {
+      "id": "e322",
+      "word": "bread",
+      "translation": "хлеб",
+      "language": "en"
+    },
+    {
+      "id": "e323",
+      "word": "cake",
+      "translation": "торт",
+      "language": "en"
+    },
+    {
+      "id": "e324",
+      "word": "cookie",
+      "translation": "печенье",
+      "language": "en"
+    },
+    {
+      "id": "e325",
+      "word": "candy",
+      "translation": "конфета",
+      "language": "en"
+    },
+    {
+      "id": "e326",
+      "word": "chocolate",
+      "translation": "шоколад",
+      "language": "en"
+    },
+    {
+      "id": "e327",
+      "word": "ice cream",
+      "translation": "мороженое",
+      "language": "en"
+    },
+    {
+      "id": "e328",
+      "word": "egg",
+      "translation": "яйцо",
+      "language": "en"
+    },
+    {
+      "id": "e329",
+      "word": "soup",
+      "translation": "суп",
+      "language": "en"
+    },
+    {
+      "id": "e330",
+      "word": "salad",
+      "translation": "салат",
+      "language": "en"
+    },
+    {
+      "id": "e331",
+      "word": "sandwich",
+      "translation": "бутерброд",
+      "language": "en"
+    },
+    {
+      "id": "e332",
+      "word": "pizza",
+      "translation": "пицца",
+      "language": "en"
+    },
+    {
+      "id": "e333",
+      "word": "burger",
+      "translation": "бургер",
+      "language": "en"
+    },
+    {
+      "id": "e334",
+      "word": "pasta",
+      "translation": "паста",
+      "language": "en"
+    },
+    {
+      "id": "e335",
+      "word": "rice",
+      "translation": "рис",
+      "language": "en"
+    },
+    {
+      "id": "e336",
+      "word": "noodle",
+      "translation": "лапша",
+      "language": "en"
+    },
+    {
+      "id": "e337",
+      "word": "bean",
+      "translation": "боб",
+      "language": "en"
+    },
+    {
+      "id": "e338",
+      "word": "nut",
+      "translation": "орех",
+      "language": "en"
+    },
+    {
+      "id": "e339",
+      "word": "seed",
+      "translation": "семя",
+      "language": "en"
+    },
+    {
+      "id": "e340",
+      "word": "grain",
+      "translation": "зерно",
+      "language": "en"
+    },
+    {
+      "id": "e341",
+      "word": "cereal",
+      "translation": "крупа",
+      "language": "en"
+    },
+    {
+      "id": "e342",
+      "word": "flour",
+      "translation": "мука",
+      "language": "en"
+    },
+    {
+      "id": "e343",
+      "word": "dough",
+      "translation": "тесто",
+      "language": "en"
+    },
+    {
+      "id": "e344",
+      "word": "batter",
+      "translation": "жидкое тесто",
+      "language": "en"
+    }
+  ]
+}

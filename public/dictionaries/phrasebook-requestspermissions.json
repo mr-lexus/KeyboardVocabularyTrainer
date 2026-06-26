@@ -1,0 +1,3007 @@
+{
+  "id": "phrasebook-requestspermissions",
+  "name": "Requests & Permissions",
+  "description": "Phrasebook for Requests & Permissions",
+  "entries": [
+    {
+      "id": "pb_requestspermissions_0_0",
+      "word": "Let me out.",
+      "translation": "Выпустите меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_1",
+      "word": "Let me look.",
+      "translation": "Дай посмотреть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_2",
+      "word": "Consider my request.",
+      "translation": "Рассмотрите мою просьбу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_3",
+      "word": "Ask her what she has done.",
+      "translation": "Спроси у неё, что она сделала.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_4",
+      "word": "Ask Tom to do that for you.",
+      "translation": "Попроси Тома сделать это для тебя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_5",
+      "word": "I'd better ask Tom.",
+      "translation": "Я бы лучше спросил у Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_6",
+      "word": "Did you ask Tom why?",
+      "translation": "Ты спросил у Тома почему?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_7",
+      "word": "I have a favor to ask of you.",
+      "translation": "У меня к тебе одна просьба.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_8",
+      "word": "Let me explain the situation.",
+      "translation": "Позвольте мне объяснить ситуацию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_9",
+      "word": "Did he ask you to spy on me?",
+      "translation": "Он просил тебя шпионить за мной?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_10",
+      "word": "I'll ask Tom for permission.",
+      "translation": "Я спрошу у Тома разрешения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_11",
+      "word": "I thought Tom would let me go.",
+      "translation": "Я думал, Том меня отпустит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_12",
+      "word": "Don't ask me anything.",
+      "translation": "Не спрашивай меня ни о чём.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_13",
+      "word": "How would you translate this sentence?",
+      "translation": "Как бы ты перевёл это предложение?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_14",
+      "word": "Should I ask him out?",
+      "translation": "Мне пригласить его на свидание?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_15",
+      "word": "Would you hire me?",
+      "translation": "Вы бы взяли меня на работу?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_16",
+      "word": "Let me die.",
+      "translation": "Дай мне умереть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_17",
+      "word": "Should I ask her out?",
+      "translation": "Мне пригласить её на свидание?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_18",
+      "word": "I suppose we could ask Tom.",
+      "translation": "Полагаю, мы могли бы спросить у Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_19",
+      "word": "Would you like to join us?",
+      "translation": "Хотите присоединиться к нам?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_20",
+      "word": "Let me guess.",
+      "translation": "Дай мне угадать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_21",
+      "word": "Would you like another apple?",
+      "translation": "Хочешь ещё яблоко?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_22",
+      "word": "Would you like some advice?",
+      "translation": "Тебе нужен какой-нибудь совет?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_23",
+      "word": "I didn't ask for your advice.",
+      "translation": "Я твоего совета не спрашивал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_24",
+      "word": "Let me handle this.",
+      "translation": "Предоставь это мне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_25",
+      "word": "What would you have told Tom?",
+      "translation": "А что бы ты Тому сказал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_26",
+      "word": "Tom didn't ask Mary to come.",
+      "translation": "Том не просил Мэри приходить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_27",
+      "word": "Tom had a favor to ask of me.",
+      "translation": "У Тома была ко мне просьба.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_28",
+      "word": "Would you stop it?",
+      "translation": "Может, хватит?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_29",
+      "word": "Wait, I'll ask someone.",
+      "translation": "Подожди, я у кого-нибудь спрошу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_30",
+      "word": "Let me give you some advice.",
+      "translation": "Позволь мне дать тебе совет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_31",
+      "word": "Would you care to try?",
+      "translation": "Не хотели бы вы попробовать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_32",
+      "word": "Tom is wearing a mask.",
+      "translation": "На Томе маска.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_33",
+      "word": "We didn't ask them.",
+      "translation": "Мы их не спросили.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_34",
+      "word": "Ask yourself that question.",
+      "translation": "Задай этот вопрос себе самому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_35",
+      "word": "What would you advise, Tom?",
+      "translation": "Что бы ты посоветовал, Том?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_36",
+      "word": "Let me see it.",
+      "translation": "Дайте-ка посмотреть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_37",
+      "word": "Let me talk.",
+      "translation": "Дайте сказать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_38",
+      "word": "Let me give it a try.",
+      "translation": "Позвольте мне попробовать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_39",
+      "word": "Just ask Tom.",
+      "translation": "Просто спроси Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_40",
+      "word": "Let me know.",
+      "translation": "Дайте мне знать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_41",
+      "word": "You need to ask Tom for permission.",
+      "translation": "Ты должен спросить разрешения у Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_42",
+      "word": "Would you like a shot of tequila?",
+      "translation": "Хотите рюмку текилы?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_43",
+      "word": "Would you like more wine?",
+      "translation": "Хотите ещё вина?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_44",
+      "word": "Can I ask you one more question?",
+      "translation": "Могу я задать вам еще один вопрос?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_45",
+      "word": "Did you ask Tom why he was late?",
+      "translation": "Ты спросил у Тома, почему он опоздал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_46",
+      "word": "Let me tell you something about Tom.",
+      "translation": "Позволь мне рассказать тебе кое-что о Томе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_47",
+      "word": "If it were true, what would you do?",
+      "translation": "Будь это правдой, что бы ты сделал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_48",
+      "word": "I'd like to ask you a question.",
+      "translation": "Я хотел бы задать тебе вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_0_49",
+      "word": "Tom, let me do it.",
+      "translation": "Том, давай я это сделаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_0",
+      "word": "Tom didn't even ask me if I was OK.",
+      "translation": "Том даже не спросил меня, всё ли у меня в порядке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_1",
+      "word": "I'm asking you to do me a favor.",
+      "translation": "Я прошу тебя оказать мне услугу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_2",
+      "word": "Did Tom ask you?",
+      "translation": "Том тебя спрашивал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_3",
+      "word": "I didn't ask you, Tom.",
+      "translation": "Я тебя не спрашивал, Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_4",
+      "word": "Tom was confused by Mary's request.",
+      "translation": "Просьба Мэри смутила Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_5",
+      "word": "Would you like to come in?",
+      "translation": "Не хотите ли зайти?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_6",
+      "word": "Where would you like to go for the weekend?",
+      "translation": "Куда бы вы хотели поехать на выходные?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_7",
+      "word": "I answered your questions. Now let me ask you a few.",
+      "translation": "Я на твои вопросы ответил. Теперь позволь мне задать несколько вопросов тебе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_8",
+      "word": "What did they ask you to do?",
+      "translation": "О чём они тебя просили?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_9",
+      "word": "That won't be an easy task.",
+      "translation": "Это будет непростой задачей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_10",
+      "word": "I'll do as you ask.",
+      "translation": "Я сделаю, как ты просишь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_11",
+      "word": "There are a lot of questions I need to ask you.",
+      "translation": "Мне нужно много о чём спросить у тебя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_12",
+      "word": "What fruit would you like to have for dessert?",
+      "translation": "Каких фруктов вам бы хотелось на десерт?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_13",
+      "word": "Did Tom ask you to do this?",
+      "translation": "Том тебя об этом просил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_14",
+      "word": "I'm doing Tom a favor.",
+      "translation": "Я делаю Тому одолжение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_15",
+      "word": "How would you like it?",
+      "translation": "Как тебе это нравится?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_16",
+      "word": "You'd better ask Tom.",
+      "translation": "Ты бы лучше у Тома спросил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_17",
+      "word": "I will do whatever you ask.",
+      "translation": "Я сделаю всё, о чём бы ты ни попросил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_18",
+      "word": "Let me explain.",
+      "translation": "Дай я объясню.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_19",
+      "word": "Ask your question.",
+      "translation": "Задавай свой вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_20",
+      "word": "Did Tom ask about us?",
+      "translation": "Том о нас спрашивал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_21",
+      "word": "I didn't ask any more questions.",
+      "translation": "Больше вопросов я не задавал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_22",
+      "word": "I'd like to ask a favor of you.",
+      "translation": "Я хотел бы попросить тебя об одолжении.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_23",
+      "word": "Let's go ask Tom.",
+      "translation": "Пойдём спросим у Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_24",
+      "word": "I'm now used to wearing a mask.",
+      "translation": "Я уже привык носить маску.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_25",
+      "word": "Did you ask Mary out?",
+      "translation": "Ты позвал Мэри на свидание?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_26",
+      "word": "Would you explain what this is?",
+      "translation": "Не могли бы вы объяснить, что это такое?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_27",
+      "word": "Let me go tell Tom that you're here.",
+      "translation": "Давай я пойду скажу Тому, что ты здесь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_28",
+      "word": "I need to ask a favor.",
+      "translation": "Мне надо попросить об услуге.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_29",
+      "word": "Would you like to make an appointment?",
+      "translation": "Хотите записаться на прием?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_30",
+      "word": "Tom didn't ask Mary for anything.",
+      "translation": "Том ни о чём не просил Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_31",
+      "word": "If you have any problems, let me know.",
+      "translation": "Дай мне знать, если будут какие-то проблемы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_32",
+      "word": "There was nobody to ask.",
+      "translation": "Спросить было некого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_33",
+      "word": "Tom didn't let me say a word.",
+      "translation": "Том не дал мне сказать ни слова.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_34",
+      "word": "Let me know if you have any questions.",
+      "translation": "Дай мне знать, если у тебя есть какие-нибудь вопросы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_35",
+      "word": "I have some questions to ask Tom.",
+      "translation": "Мне надо задать Тому несколько вопросов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_36",
+      "word": "Would you do a favor for me?",
+      "translation": "Вы не могли бы оказать мне услугу?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_37",
+      "word": "I owe you a favor.",
+      "translation": "Я перед вами в долгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_38",
+      "word": "I don't know. Let me check.",
+      "translation": "Не знаю. Дай проверю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_39",
+      "word": "Let me know if anything strange happens.",
+      "translation": "Дай мне знать, если случится что-нибудь странное.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_40",
+      "word": "What would you like to do in the future?",
+      "translation": "Чем бы ты хотел заниматься в будущем?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_41",
+      "word": "I'll do you a favor.",
+      "translation": "Я окажу тебе услугу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_42",
+      "word": "Tom wanted to ask many questions.",
+      "translation": "Том хотел задать много вопросов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_43",
+      "word": "Have a listen and let me know your thoughts.",
+      "translation": "Послушай и скажи мне, что ты думаешь об этом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_44",
+      "word": "Where would you like to go?",
+      "translation": "Куда Вы хотели бы пойти?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_45",
+      "word": "I'll go ask Tom.",
+      "translation": "Пойду спрошу Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_46",
+      "word": "I want to ask you a big favor.",
+      "translation": "Хочу попросить тебя о большом одолжении.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_47",
+      "word": "You said you wanted to ask me something.",
+      "translation": "Ты сказал, что хочешь меня о чем-то спросить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_48",
+      "word": "Let me go to Australia with you.",
+      "translation": "Позволь мне поехать с тобой в Австралию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_1_49",
+      "word": "I can't ask Tom now.",
+      "translation": "Я не могу сейчас у Тома спросить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_0",
+      "word": "You can ask Tom yourself if you want.",
+      "translation": "Можешь сам у Тома спросить, если хочешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_1",
+      "word": "Tom isn't the person to ask.",
+      "translation": "Это надо не у Тома спрашивать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_2",
+      "word": "I won't allow it.",
+      "translation": "Я этого не позволю!",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_3",
+      "word": "Would you like it washed?",
+      "translation": "Вам его помыть?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_4",
+      "word": "Ask more questions.",
+      "translation": "Задавай больше вопросов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_5",
+      "word": "Tom doesn't know who to ask.",
+      "translation": "Том не знает, кого спросить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_6",
+      "word": "You have only to ask for it.",
+      "translation": "Тебе нужно только это попросить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_7",
+      "word": "I just want to ask you some questions.",
+      "translation": "Я просто хочу задать вам несколько вопросов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_8",
+      "word": "Ask Mary out.",
+      "translation": "Пригласи Мэри на свидание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_9",
+      "word": "Let me in under your umbrella.",
+      "translation": "Пусти меня под свой зонтик.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_10",
+      "word": "Ask me any question and I'll try to answer it.",
+      "translation": "Задай мне любой вопрос, и я постараюсь на него ответить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_11",
+      "word": "Do me a favor.",
+      "translation": "Сделай мне одолжение!",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_12",
+      "word": "Who would you like to invite?",
+      "translation": "Кого бы ты хотел пригласить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_13",
+      "word": "Let me carry your suitcase.",
+      "translation": "Давай я понесу твой чемодан.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_14",
+      "word": "I'd like to ask you a couple of questions.",
+      "translation": "Я хотел бы задать Вам пару вопросов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_15",
+      "word": "You said Tom would let me win.",
+      "translation": "Ты сказал, что Том не позволит мне победить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_16",
+      "word": "Tom asked Mary if she could do him a favor.",
+      "translation": "Том спросил Мэри, может ли она сделать ему одолжение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_17",
+      "word": "Would you risk it?",
+      "translation": "Ты бы рискнул?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_18",
+      "word": "Ask Tom to come here.",
+      "translation": "Попроси Тома прийти сюда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_19",
+      "word": "I'd do that if Tom let me.",
+      "translation": "Я бы сделал, если бы Том мне позволил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_20",
+      "word": "What would you recommend that I do?",
+      "translation": "Что бы вы посоветовали мне сделать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_21",
+      "word": "Let me do it in a different way.",
+      "translation": "Давай я сделаю это по-другому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_22",
+      "word": "I want to ask you a few questions.",
+      "translation": "Я хочу задать тебе несколько вопросов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_23",
+      "word": "If you want to know, just ask.",
+      "translation": "Если хочешь знать, просто спроси.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_24",
+      "word": "Which would you recommend, spaghetti or pizza?",
+      "translation": "Что бы вы посоветовали, спагетти или пиццу?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_25",
+      "word": "Let me check.",
+      "translation": "Дай я проверю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_26",
+      "word": "You have to ask me for it.",
+      "translation": "Ты должен попросить меня об этом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_27",
+      "word": "Ask him about it when he comes.",
+      "translation": "Спросите его об этом, когда он придёт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_28",
+      "word": "How would you know?",
+      "translation": "Тебе-то откуда знать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_29",
+      "word": "I've got no one else to ask.",
+      "translation": "Мне больше некого попросить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_30",
+      "word": "Are you going to ask Tom or not?",
+      "translation": "Ты собираешься спросить у Тома или нет?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_31",
+      "word": "Would you like for me to do that for you?",
+      "translation": "Ты бы хотел, чтобы я сделал это для тебя?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_32",
+      "word": "Did you ask Tom to stop?",
+      "translation": "Ты попросил Фому остановиться?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_33",
+      "word": "Let me carry you.",
+      "translation": "Давай я тебя понесу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_34",
+      "word": "I didn't ask for anything.",
+      "translation": "Я ни о чём не просил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_35",
+      "word": "Let me go to Boston with you.",
+      "translation": "Позволь мне поехать в Бостон с тобой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_36",
+      "word": "Where would you rather go?",
+      "translation": "Куда вы предпочли бы пойти?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_37",
+      "word": "Let me know when you're ready.",
+      "translation": "Дай мне знать, когда будешь готов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_38",
+      "word": "Would you like me to take a look?",
+      "translation": "Вы хотели бы, чтобы я взглянул?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_39",
+      "word": "I'd like to ask Tom a question.",
+      "translation": "Я хотел бы задать Тому один вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_40",
+      "word": "Before you leave, can I ask you something?",
+      "translation": "Прежде чем ты уйдёшь, могу я спросить кое-что?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_41",
+      "word": "Ask Tom to explain it.",
+      "translation": "Попроси Тома объяснить это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_42",
+      "word": "Would you like to see it?",
+      "translation": "Не хотите на это посмотреть?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_43",
+      "word": "Did you ask Tom why he did this?",
+      "translation": "Ты спрашивал у Тома, зачем он это сделал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_44",
+      "word": "Would you like something smaller?",
+      "translation": "Вы хотели бы что-нибудь поменьше?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_45",
+      "word": "Tom wanted to ask Mary a favor.",
+      "translation": "Том хотел попросить Мэри об услуге.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_46",
+      "word": "You have to allow for human weakness.",
+      "translation": "Вы должны учитывать слабости человеческой природы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_47",
+      "word": "I forgot to ask Tom what I should do.",
+      "translation": "Я забыл спросить Тома, что мне делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_48",
+      "word": "Ask Tom if he has any friends.",
+      "translation": "Спросите у Тома, есть ли у него друзья.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_2_49",
+      "word": "Let me rephrase it.",
+      "translation": "Позволь, я перефразирую.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_0",
+      "word": "Let me take a look at it.",
+      "translation": "Дай мне взглянуть на это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_1",
+      "word": "Would you like to visit the United States?",
+      "translation": "Ты хотел бы посетить Соединённые Штаты?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_2",
+      "word": "Don't ask questions, just do it.",
+      "translation": "Не задавай вопросов, просто сделай это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_3",
+      "word": "Don't ask me to explain it.",
+      "translation": "Не проси меня объяснить это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_4",
+      "word": "Don't let me die.",
+      "translation": "Не дай мне умереть!",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_5",
+      "word": "We didn't ask any questions.",
+      "translation": "Мы не задавали никаких вопросов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_6",
+      "word": "Let me tell you what's going on.",
+      "translation": "Давай я расскажу тебе, что происходит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_7",
+      "word": "Let me do it differently.",
+      "translation": "Давай я сделаю это по-другому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_8",
+      "word": "Don't let me die here.",
+      "translation": "Не дай мне здесь умереть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_9",
+      "word": "They are in favor of your plan.",
+      "translation": "Они за твой план.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_10",
+      "word": "Did Tom ask you to come talk to me?",
+      "translation": "Том попросил тебя прийти поговорить со мной?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_11",
+      "word": "It's not an easy task.",
+      "translation": "Это непростая задача.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_12",
+      "word": "Can I ask a question?",
+      "translation": "Можно задать вопрос?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_13",
+      "word": "If you need anything, let me know.",
+      "translation": "Если вам что-нибудь понадобится, дайте мне знать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_14",
+      "word": "Let me take care of this.",
+      "translation": "Давай я этим займусь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_15",
+      "word": "I didn't ask Tom for anything.",
+      "translation": "Я ни о чём Тома не просил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_16",
+      "word": "Let's ask him.",
+      "translation": "Давайте спросим его.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_17",
+      "word": "There are a lot of things I want to ask you.",
+      "translation": "Я о многом хочу вас спросить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_18",
+      "word": "Give me a minute, would you?",
+      "translation": "Дай мне минутку, ладно?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_19",
+      "word": "Would you like to come with us?",
+      "translation": "Вы не хотели бы пойти с нами?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_20",
+      "word": "Tom wanted to ask us a few questions.",
+      "translation": "Том хотел задать нам несколько вопросов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_21",
+      "word": "Don't ask me what Tom is going to do.",
+      "translation": "Не спрашивай меня, что Том собирается делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_22",
+      "word": "Ask any woman.",
+      "translation": "Спросите у любой женщины.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_23",
+      "word": "Tom will do that if you ask him to.",
+      "translation": "Том сделает это, если ты его попросишь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_24",
+      "word": "Let me speak.",
+      "translation": "Дай мне сказать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_25",
+      "word": "Tom let me down and he also let Mary down.",
+      "translation": "Том подвёл как меня, так и Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_26",
+      "word": "That's all I ask.",
+      "translation": "Это всё, что я прошу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_27",
+      "word": "You'd better do what they ask you to do.",
+      "translation": "Тебе лучше сделать то, о чём они просят.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_28",
+      "word": "Tom wants to ask Mary something.",
+      "translation": "Том хочет что-то спросить у Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_29",
+      "word": "I thought Tom would ask Mary a few questions.",
+      "translation": "Я подумал, что Том задаст Мэри несколько вопросов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_30",
+      "word": "Who would you ask for advice?",
+      "translation": "У кого бы ты спросил совета?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_31",
+      "word": "If you're tired, just let me know.",
+      "translation": "Если ты устал, просто дай мне знать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_32",
+      "word": "I didn't ask whether you wanted to go.",
+      "translation": "Я не спросил, хочешь ли ты идти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_33",
+      "word": "Ask Tom what he's done.",
+      "translation": "Спроси у Тома, что он сделал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_34",
+      "word": "I'm not looking for a favor.",
+      "translation": "Мне не надо одолжений.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_35",
+      "word": "Would you like to try that again?",
+      "translation": "Хотите попробовать это снова?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_36",
+      "word": "Can I ask why this is so important to you?",
+      "translation": "Можно спросить, почему это для тебя так важно?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_37",
+      "word": "We're in favor of your plan.",
+      "translation": "Мы за ваш план.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_38",
+      "word": "Let me hold it.",
+      "translation": "Дай я его подержу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_39",
+      "word": "Oh, let me show you.",
+      "translation": "О, давай я тебе покажу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_40",
+      "word": "If there's anything I can do, let me know.",
+      "translation": "Если я что-то могу сделать, скажите.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_41",
+      "word": "Let me know when it's ready.",
+      "translation": "Дай мне знать, когда будет готово.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_42",
+      "word": "Ask me a question.",
+      "translation": "Задай мне вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_43",
+      "word": "Would you do that again if you had the chance?",
+      "translation": "Вы бы сделали это снова, если бы у вас была такая возможность?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_44",
+      "word": "I wanted to ask Tom a few questions.",
+      "translation": "Я хотел задать Тому несколько вопросов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_45",
+      "word": "Let me explain it once more.",
+      "translation": "Позвольте мне ещё раз объяснить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_46",
+      "word": "Ask Tom. He should know.",
+      "translation": "Спроси у Тома. Он должен знать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_47",
+      "word": "I didn't ask to be chosen.",
+      "translation": "Я не просил, чтобы меня выбирали.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_48",
+      "word": "Let me give you an example.",
+      "translation": "Позвольте мне привести вам пример.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_3_49",
+      "word": "Would you donate a kidney?",
+      "translation": "Ты бы пожертвовал почку?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_0",
+      "word": "Ask and you shall receive.",
+      "translation": "Просите, и дано будет вам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_1",
+      "word": "Let's ask Tom to do something else.",
+      "translation": "Давай попросим Тома заняться чем-нибудь другим.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_2",
+      "word": "This is an important task.",
+      "translation": "Это важное задание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_3",
+      "word": "You have to ask Tom.",
+      "translation": "Тебе надо спросить Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_4",
+      "word": "My mom doesn't let me talk to strangers.",
+      "translation": "Мама не разрешает мне разговаривать с незнакомыми людьми.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_5",
+      "word": "I don't know. You should ask Tom.",
+      "translation": "Не знаю. Тебе стоит спросить Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_6",
+      "word": "If you need help, just ask.",
+      "translation": "Если тебе будет нужна помощь, только попроси.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_7",
+      "word": "Can I ask Tom some questions?",
+      "translation": "Я могу задать Тому несколько вопросов?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_8",
+      "word": "Let me cut the carrots.",
+      "translation": "Дай мне порезать морковь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_9",
+      "word": "What is it that you want to ask me?",
+      "translation": "О чём ты хочешь меня спросить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_10",
+      "word": "Tell me why you didn't ask Tom.",
+      "translation": "Скажи мне, почему ты не спросил Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_11",
+      "word": "If you have any doubts, ask Tom.",
+      "translation": "Если сомневаешься, спроси у Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_12",
+      "word": "Would you explain it again?",
+      "translation": "Не объясните это ещё раз?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_13",
+      "word": "I'm going to ask you to leave now.",
+      "translation": "Я вас сейчас попрошу уйти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_14",
+      "word": "You didn't ask me.",
+      "translation": "Ты меня не спрашивал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_15",
+      "word": "Let me tell you what happened.",
+      "translation": "Давай я расскажу тебе, что произошло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_16",
+      "word": "Tom decided to ask Mary out.",
+      "translation": "Том решил пригласить Мэри на свидание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_17",
+      "word": "Tom said to ask you.",
+      "translation": "Том сказал спросить тебя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_18",
+      "word": "I hope that you'll accept my request.",
+      "translation": "Надеюсь, что вы примите моё обращение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_19",
+      "word": "I cannot comply with your request.",
+      "translation": "Я не могу ответить на ваш запрос.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_20",
+      "word": "What would you like to do while you're here?",
+      "translation": "Чем бы ты хотел заняться, пока ты здесь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_21",
+      "word": "Let me remind you of something.",
+      "translation": "Позвольте мне напомнить вам кое-что.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_22",
+      "word": "There's something I want to ask you.",
+      "translation": "Я хочу тебя кое о чём спросить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_23",
+      "word": "What do you want me to ask Tom?",
+      "translation": "Что ты хочешь, чтобы я спросил у Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_24",
+      "word": "I wanted to ask you some questions about Tom.",
+      "translation": "Я хотел задать вам несколько вопросов о Томе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_25",
+      "word": "I know who to ask.",
+      "translation": "Я знаю, кого спросить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_26",
+      "word": "Ask me anything you like.",
+      "translation": "Спрашивай меня о чём хочешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_27",
+      "word": "Let me give you a direct answer.",
+      "translation": "Позвольте мне ответить вам прямо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_28",
+      "word": "He flatly refused to let me in.",
+      "translation": "Он категорически отказался впустить меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_29",
+      "word": "Could I ask you a question?",
+      "translation": "Можно задать тебе один вопрос?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_30",
+      "word": "Can I ask what you're doing?",
+      "translation": "Позвольте узнать, что вы делаете?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_31",
+      "word": "I want to ask Tom some questions.",
+      "translation": "Я хочу задать Тому несколько вопросов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_32",
+      "word": "Tom would like to ask you a few questions.",
+      "translation": "Том хотел бы задать тебе несколько вопросов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_33",
+      "word": "Would you like a cup of milk?",
+      "translation": "Хочешь чашку молока?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_34",
+      "word": "What would you like him to do?",
+      "translation": "Что бы ты хотел, чтобы он сделал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_35",
+      "word": "Why should I ask Tom for permission?",
+      "translation": "Почему я должен просить у Тома разрешения?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_36",
+      "word": "Let me give you a bit of advice.",
+      "translation": "Позволь мне дать тебе совет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_37",
+      "word": "I would like to ask a question.",
+      "translation": "Я бы хотел задать вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_38",
+      "word": "Who would you choose?",
+      "translation": "Кого бы ты выбрал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_39",
+      "word": "I didn't ask you to come here.",
+      "translation": "Я не просил тебя сюда приходить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_40",
+      "word": "I wore a mask.",
+      "translation": "Я был в маске.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_41",
+      "word": "Would you like a sandwich?",
+      "translation": "Будешь бутерброд?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_42",
+      "word": "I have to ask Tom a question.",
+      "translation": "Я должен задать Тому вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_43",
+      "word": "Did you ask Tom to leave?",
+      "translation": "Ты просил Тома уйти?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_44",
+      "word": "Let me ask another question.",
+      "translation": "Позвольте мне задать другой вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_45",
+      "word": "I didn't ask her.",
+      "translation": "Я не спрашивал её.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_46",
+      "word": "I'll ask Tom if you like.",
+      "translation": "Я спрошу у Тома, если хочешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_47",
+      "word": "Tom asked me whether I could do him a favor.",
+      "translation": "Том спросил меня, могу ли я оказать ему одну услугу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_48",
+      "word": "You should ask for a refund.",
+      "translation": "Вам следует попросить, чтобы вам вернули деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_4_49",
+      "word": "Let me check it.",
+      "translation": "Дай я проверю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_0",
+      "word": "Tom should ask Mary how to do it.",
+      "translation": "Тому следует спросить Мэри, как это делается.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_1",
+      "word": "Let me go!",
+      "translation": "Отпустите меня!",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_2",
+      "word": "She kindly listened to my request.",
+      "translation": "Она любезно выслушала мою просьбу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_3",
+      "word": "Would you join me for a walk?",
+      "translation": "Прогуляемся?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_4",
+      "word": "Don't ask who he is.",
+      "translation": "Не спрашивай, кто он.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_5",
+      "word": "Ask Tom where Mary is.",
+      "translation": "Спроси у Тома, где Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_6",
+      "word": "Let me see.",
+      "translation": "Дай посмотреть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_7",
+      "word": "Let me have a look.",
+      "translation": "Дай посмотреть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_8",
+      "word": "Did Tom ask you to do it?",
+      "translation": "Том просил тебя это делать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_9",
+      "word": "There's no need to ask for permission.",
+      "translation": "Разрешения спрашивать не нужно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_10",
+      "word": "Who should I ask?",
+      "translation": "Кого мне спросить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_11",
+      "word": "Tom didn't know who to ask.",
+      "translation": "Том не знал, кого спросить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_12",
+      "word": "Tom didn't ask me for permission.",
+      "translation": "Том не спрашивал у меня разрешения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_13",
+      "word": "Would you like a bit more?",
+      "translation": "Не хотите ли ещё немного?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_14",
+      "word": "When I want your opinion, I'll ask for it.",
+      "translation": "Когда я захочу узнать твоё мнение, обязательно спрошу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_15",
+      "word": "Just let me catch my breath.",
+      "translation": "Дай мне хоть дух перевести.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_16",
+      "word": "Allow me to accompany you.",
+      "translation": "Позвольте Вас проводить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_17",
+      "word": "Tom did me a favor.",
+      "translation": "Том оказал мне услугу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_18",
+      "word": "Why did you ask Tom that question?",
+      "translation": "Почему ты задал Тому тот вопрос?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_19",
+      "word": "Would you do me a favor?",
+      "translation": "Можно вас кое о чём попросить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_20",
+      "word": "I didn't ask Tom that question.",
+      "translation": "Я не задавал Тому этого вопроса.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_21",
+      "word": "Can I ask you something very personal?",
+      "translation": "Можно спросить тебя о чём-то очень личном?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_22",
+      "word": "Tom won't come unless you ask him to.",
+      "translation": "Том не придёт, если только ты его об этом не попросишь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_23",
+      "word": "I don't want to ask Tom that question.",
+      "translation": "Я не хочу задавать Тому этот вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_24",
+      "word": "I have to ask you to leave.",
+      "translation": "Я должен попросить вас уйти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_25",
+      "word": "I didn't expect her to ask me such a question.",
+      "translation": "Я не ожидал от неё такого вопроса.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_26",
+      "word": "Let me have a talk with Tom.",
+      "translation": "Позволь мне поговорить с Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_27",
+      "word": "I was just going to ask you the same question.",
+      "translation": "Я как раз собирался спросить тебя о том же.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_28",
+      "word": "What would you call it?",
+      "translation": "Как бы вы это назвали?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_29",
+      "word": "I'll ask him.",
+      "translation": "Я спрошу его.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_30",
+      "word": "You'd better ask Tom if he minds.",
+      "translation": "Ты лучше спроси Тома, не возражает ли он.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_31",
+      "word": "What did you want to ask Tom?",
+      "translation": "О чём ты хотел спросить Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_32",
+      "word": "Ask Tom if he voted.",
+      "translation": "Спроси у Тома, голосовал ли он.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_33",
+      "word": "Where would you be if you were Tom?",
+      "translation": "Где бы ты был на месте Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_34",
+      "word": "What made you ask that question?",
+      "translation": "Что заставило тебя задать этот вопрос?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_35",
+      "word": "Let me see your prescription.",
+      "translation": "Покажите мне ваш рецепт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_36",
+      "word": "I won't allow that to happen again.",
+      "translation": "Я не позволю этому повториться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_37",
+      "word": "How would you describe yourself in one word?",
+      "translation": "Каким одним словом Вы бы себя описали?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_38",
+      "word": "Can I ask her a question?",
+      "translation": "Я могу задать ей вопрос?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_39",
+      "word": "His curiosity prompted him to ask questions.",
+      "translation": "Любопытство побудило его задавать вопросы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_40",
+      "word": "I didn't ask Tom to wait for us.",
+      "translation": "Я не просил Тома нас ждать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_41",
+      "word": "Would you carry this upstairs for me?",
+      "translation": "Ты не отнесёшь это для меня наверх?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_42",
+      "word": "If you see Tom, let me know.",
+      "translation": "Увидишь Тома - дай мне знать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_43",
+      "word": "Ask Tom to speak to me.",
+      "translation": "Попроси Тома со мной поговорить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_44",
+      "word": "Spread the rug out and let me look at it.",
+      "translation": "Разверните ковёр и дайте мне на него посмотреть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_45",
+      "word": "Did you ask them to wait?",
+      "translation": "Ты попросил их подождать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_46",
+      "word": "Let me talk with Tom.",
+      "translation": "Дай мне поговорить с Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_47",
+      "word": "Let me show you.",
+      "translation": "Давай я тебе покажу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_48",
+      "word": "Let me check your pulse.",
+      "translation": "Дай-ка я проверю твой пульс.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_5_49",
+      "word": "Ask me something else.",
+      "translation": "Спроси у меня что-нибудь другое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_0",
+      "word": "Don't ask questions, just come with me.",
+      "translation": "Не задавайте вопросов, просто идите со мной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_1",
+      "word": "Let me rephrase the question.",
+      "translation": "Позвольте мне перефразировать вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_2",
+      "word": "Would you like to see my new trombone?",
+      "translation": "Вы бы хотели увидеть мой новый тромбон?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_3",
+      "word": "Ask Tom if he can speak French.",
+      "translation": "Спроси у Тома, говорит ли он по-французски.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_4",
+      "word": "Tom denied Mary's request.",
+      "translation": "Том отверг просьбу Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_5",
+      "word": "Did Tom ever ask about me?",
+      "translation": "Том вообще обо мне спрашивал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_6",
+      "word": "Where would you most like to live?",
+      "translation": "Где ты больше всего хотел бы жить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_7",
+      "word": "For once in your life, do what I ask.",
+      "translation": "Хоть раз в жизни сделай, что я прошу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_8",
+      "word": "I'd like to ask you for some advice.",
+      "translation": "Я хотел бы с тобой посоветоваться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_9",
+      "word": "What questions did they ask?",
+      "translation": "Какие вопросы они задавали?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_10",
+      "word": "I was just about to ask you the same question.",
+      "translation": "Я как раз собирался задать тебе тот же вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_11",
+      "word": "Let me know when it's done.",
+      "translation": "Дай мне знать, когда будет сделано.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_12",
+      "word": "Don't ever ask me to do that again.",
+      "translation": "Никогда больше не проси меня об этом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_13",
+      "word": "Don't let me ever hear you say that again.",
+      "translation": "Чтобы я больше никогда не слышал, чтобы ты такое говорил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_14",
+      "word": "Let me ask a personal question.",
+      "translation": "Позвольте задать вам личный вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_15",
+      "word": "I need to ask you some more questions.",
+      "translation": "Мне нужно задать тебе ещё несколько вопросов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_16",
+      "word": "Just go and ask Tom.",
+      "translation": "Просто пойди и спроси у Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_17",
+      "word": "Can you do me a favor?",
+      "translation": "Можно вас кое о чём попросить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_18",
+      "word": "If you won a million yen, what would you do?",
+      "translation": "Если бы ты выиграл миллион иен, что бы ты сделал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_19",
+      "word": "Did you ask Tom?",
+      "translation": "Ты спросил Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_20",
+      "word": "Would you like anything else?",
+      "translation": "Хотите еще чего-нибудь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_21",
+      "word": "Nobody's going to ask you any questions.",
+      "translation": "Никто не будет задавать тебе вопросов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_22",
+      "word": "Let me put it in another way.",
+      "translation": "Давай я сформулирую иначе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_23",
+      "word": "Why do you ask?",
+      "translation": "Почему ты спрашиваешь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_24",
+      "word": "That victory turned the scales in our favor.",
+      "translation": "Эта победа повернула счастье в нашу сторону.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_25",
+      "word": "Tom should ask Mary what she thinks.",
+      "translation": "Тому надо спросить у Мэри, что она думает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_26",
+      "word": "Tom won't do that until you ask him.",
+      "translation": "Том не сделает этого, пока ты его не попросишь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_27",
+      "word": "Would you like to freshen up?",
+      "translation": "Не хочешь освежиться?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_28",
+      "word": "Ask for Tom.",
+      "translation": "Спроси Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_29",
+      "word": "I'll ask how to get there.",
+      "translation": "Я спрошу, как туда добраться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_30",
+      "word": "I'm in favor of the proposition.",
+      "translation": "Я за это предложение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_31",
+      "word": "Why don't we ask for Tom's advice?",
+      "translation": "Почему нам спросить совета у Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_32",
+      "word": "Let me introduce Tom to you.",
+      "translation": "Позвольте представить вам Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_33",
+      "word": "I'll do that if you ask me to.",
+      "translation": "Я сделаю это, если ты меня попросишь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_34",
+      "word": "Ask them to come.",
+      "translation": "Попроси их прийти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_35",
+      "word": "Are you in favor of or against that policy?",
+      "translation": "Вы за или против этой политики?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_36",
+      "word": "Let me check my schedule.",
+      "translation": "Дайте я посмотрю своё расписание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_37",
+      "word": "We can't allow Tom to leave.",
+      "translation": "Мы не можем позволить Тому уйти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_38",
+      "word": "I am not equal to the task.",
+      "translation": "Я не справляюсь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_39",
+      "word": "Why did Tom ask Mary to leave?",
+      "translation": "Почему Том попросил Мэри уйти?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_40",
+      "word": "I can't find anybody to ask.",
+      "translation": "Не могу найти никого, чтобы спросить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_41",
+      "word": "Would you care for more cookies?",
+      "translation": "Хочешь ещё печенья?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_42",
+      "word": "Tom didn't ask Mary what she thought.",
+      "translation": "Том не спросил Мэри, что она думает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_43",
+      "word": "Let me rest a little.",
+      "translation": "Дай мне передохнуть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_44",
+      "word": "Is there anybody else I can ask?",
+      "translation": "Я могу ещё кого-нибудь спросить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_45",
+      "word": "I didn't ask them for permission.",
+      "translation": "Я не спросил у них разрешения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_46",
+      "word": "I don't often ask questions.",
+      "translation": "Я нечасто задаю вопросы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_47",
+      "word": "I need to ask you a favor.",
+      "translation": "Мне нужно попросить Вас об одолжении.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_48",
+      "word": "I'll go and ask Tom.",
+      "translation": "Пойду спрошу Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_6_49",
+      "word": "Did Tom ask us to wait?",
+      "translation": "Том попросил нас подождать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_0",
+      "word": "Let's ask ourselves why.",
+      "translation": "Давайте спросим себя почему.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_1",
+      "word": "Don't hesitate to ask questions.",
+      "translation": "Не стесняйтесь задавать вопросы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_2",
+      "word": "If you need my help, all you have to do is ask.",
+      "translation": "Если тебе нужна моя помощь, всё, что тебе нужно сделать, - это попросить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_3",
+      "word": "Shoot first. Ask questions later.",
+      "translation": "Сначала стреляй, потом задавай вопросы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_4",
+      "word": "If you have any questions, let me know.",
+      "translation": "Если у вас будут какие-нибудь вопросы, дайте мне знать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_5",
+      "word": "Tom doesn't let me do anything.",
+      "translation": "Том мне ничего не даёт делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_6",
+      "word": "Let me tell you something, Tom.",
+      "translation": "Позволь мне кое-что сказать тебе, Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_7",
+      "word": "I only ask out of curiosity.",
+      "translation": "Я спрашиваю просто из любопытства.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_8",
+      "word": "Let me out of here.",
+      "translation": "Выпусти меня отсюда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_9",
+      "word": "Why don't you just let me go?",
+      "translation": "Почему бы тебе просто не отпустить меня?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_10",
+      "word": "Would you rather do something else?",
+      "translation": "Ты бы предпочёл заняться чем-нибудь другим?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_11",
+      "word": "Let me tell you my theory.",
+      "translation": "Позволь, я поделюсь с тобой своей теорией.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_12",
+      "word": "I will ask him about it tomorrow, then.",
+      "translation": "Тогда я спрошу его об этом завтра.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_13",
+      "word": "This isn't an easy task.",
+      "translation": "Это непростая задача.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_14",
+      "word": "I can't allow this.",
+      "translation": "Я не могу этого позволить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_15",
+      "word": "Let me go with Tom.",
+      "translation": "Отпусти меня с Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_16",
+      "word": "Don't make me ask you again.",
+      "translation": "Не заставляйте меня переспрашивать!",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_17",
+      "word": "Don't ever let me see you do that again.",
+      "translation": "Не дай бог, чтобы я ещё раз увидел тебя за этим.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_18",
+      "word": "Ask Tom whether he can swim.",
+      "translation": "Спроси Тома, умеет ли он плавать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_19",
+      "word": "I want you to do me one last favor.",
+      "translation": "Я хочу, чтобы ты сделал мне последнее одолжение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_20",
+      "word": "Who's that guy in the mask?",
+      "translation": "Кто этот тип в маске?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_21",
+      "word": "He was in favor of equality for all.",
+      "translation": "Он выступал за всеобщее равенство.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_22",
+      "word": "Don't ask questions yet. Just listen to what I have to say.",
+      "translation": "Подожди задавать вопросы. Сначала послушай, что я хочу сказать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_23",
+      "word": "You should ask Tom for advice.",
+      "translation": "Тебе стоит спросить совета у Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_24",
+      "word": "Where would you like to go first?",
+      "translation": "Куда бы ты хотел пойти сначала?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_25",
+      "word": "Let me see your health insurance certificate.",
+      "translation": "Позвольте мне взглянуть на вашу медицинскую страховку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_26",
+      "word": "What would you do with millions of dollars?",
+      "translation": "Что бы ты стал делать с миллионами долларов?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_27",
+      "word": "Let me tell you how it happened.",
+      "translation": "Давай я расскажу тебе, как это случилось.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_28",
+      "word": "I just want to ask you a few questions.",
+      "translation": "Я просто хочу задать вам несколько вопросов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_29",
+      "word": "You should ask Tom.",
+      "translation": "Тебе стоит спросить у Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_30",
+      "word": "Let me rest.",
+      "translation": "Дай мне отдохнуть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_31",
+      "word": "Where would you most like to go?",
+      "translation": "Куда вы больше всего хотели бы пойти?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_32",
+      "word": "There's something I've been meaning to ask you for a while.",
+      "translation": "Я уже давно хочу у тебя спросить кое-что.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_33",
+      "word": "I want to ask Tom something.",
+      "translation": "Я хочу кое о чём спросить Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_34",
+      "word": "Just ask Tom about it.",
+      "translation": "Просто спроси об этом Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_35",
+      "word": "You ought to ask him for advice.",
+      "translation": "Тебе следует спросить у него совета.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_36",
+      "word": "Tom will stop doing that if you ask him to.",
+      "translation": "Том перестанет это делать, если ты его попросишь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_37",
+      "word": "I've come to ask for your help, Tom.",
+      "translation": "Я пришёл попросить у тебя помощи, Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_38",
+      "word": "Which one would you like?",
+      "translation": "Какой бы ты хотел?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_39",
+      "word": "If anything happens to him, let me know.",
+      "translation": "Если с ним что-то случится, дай мне знать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_40",
+      "word": "Let me see that list.",
+      "translation": "Покажи мне этот список.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_41",
+      "word": "There's something I've been wanting to ask you, Tom.",
+      "translation": "Я всё хотел у тебя кое-что спросить, Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_42",
+      "word": "Let me make a suggestion.",
+      "translation": "Позвольте мне внести предложение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_43",
+      "word": "Let's ask Tom why he was late.",
+      "translation": "Спросим у Тома, почему он опоздал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_44",
+      "word": "Tom forgot to ask Mary what he had planned to ask her.",
+      "translation": "Том забыл спросить Мэри о том, о чём собирался.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_45",
+      "word": "Will you ask the waitress to bring me a straw?",
+      "translation": "Попросите, пожалуйста, официантку принести мне соломинку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_46",
+      "word": "Tom wasn't wearing a mask.",
+      "translation": "Том был без маски.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_47",
+      "word": "Can I ask you a personal question?",
+      "translation": "Могу я задать тебе вопрос личного характера?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_48",
+      "word": "Let me explain that to you.",
+      "translation": "Дай объясню.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_7_49",
+      "word": "If I were you, I'd ask for Tom's advice.",
+      "translation": "Я бы на вашем месте попросила совета у Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_0",
+      "word": "Let me see what it looks like.",
+      "translation": "Дай мне посмотреть, как оно выглядит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_1",
+      "word": "Tom stepped aside to allow Mary to pass.",
+      "translation": "Том отошёл в сторону, чтобы дать Мэри пройти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_2",
+      "word": "Let me take you there.",
+      "translation": "Давай я тебя туда отвезу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_3",
+      "word": "You'd better ask Tom first.",
+      "translation": "Лучше тебе сначала у Тома спросить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_4",
+      "word": "I can do that if you let me.",
+      "translation": "Я могу сделать это, если ты мне позволишь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_5",
+      "word": "Would you like to go to Boston with us?",
+      "translation": "Ты хотел бы поехать с нами в Бостон?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_6",
+      "word": "Would you do this for me?",
+      "translation": "Вы бы сделали это для меня?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_7",
+      "word": "Tom did Mary a favor.",
+      "translation": "Том сделал Мэри одолжение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_8",
+      "word": "Tom will come if you ask him to.",
+      "translation": "Том придёт, если ты его попросишь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_9",
+      "word": "Where would you go?",
+      "translation": "Куда бы ты пошёл?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_10",
+      "word": "Their modest income doesn't allow for many luxuries.",
+      "translation": "Скромный доход не позволяет им вести роскошную жизнь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_11",
+      "word": "Would you like a little?",
+      "translation": "Хочешь немного?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_12",
+      "word": "Tom took off his mask.",
+      "translation": "Том снял маску.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_13",
+      "word": "I meant to ask you.",
+      "translation": "Я собирался тебя спросить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_14",
+      "word": "Where would you like to meet?",
+      "translation": "Где ты хотел бы встретиться?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_15",
+      "word": "I didn't ask Tom for his advice.",
+      "translation": "Я не просил у Тома совета.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_16",
+      "word": "Let me leave!",
+      "translation": "Отпусти меня!",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_17",
+      "word": "Ask Tom about it.",
+      "translation": "Спроси об этом Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_18",
+      "word": "Tom told me to ask you.",
+      "translation": "Том сказал мне спросить у тебя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_19",
+      "word": "I could ask you the same question.",
+      "translation": "Я мог бы задать тебе тот же вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_20",
+      "word": "I won't permit Tom to do that anymore.",
+      "translation": "Я больше не позволю Тому делать это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_21",
+      "word": "Let me explain it to you.",
+      "translation": "Позвольте мне это вам объяснить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_22",
+      "word": "We don't need to ask for permission.",
+      "translation": "Нам не нужно спрашивать разрешения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_23",
+      "word": "Would you stop being so uptight?",
+      "translation": "Может, хватит париться?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_24",
+      "word": "I wouldn't allow that to happen.",
+      "translation": "Я бы этого не допустил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_25",
+      "word": "We'll ask Tom.",
+      "translation": "Мы спросим Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_26",
+      "word": "I'd just like to ask Tom one question.",
+      "translation": "Я бы хотел только задать Тому один вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_27",
+      "word": "Don't ask who she is.",
+      "translation": "Не спрашивай, кто она.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_28",
+      "word": "Allow me to demonstrate.",
+      "translation": "Позволь мне продемонстрировать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_29",
+      "word": "I need to ask my mom.",
+      "translation": "Мне нужно спросить у мамы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_30",
+      "word": "I was about to ask you the same question.",
+      "translation": "Я собирался задать тебе тот же вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_31",
+      "word": "Tom won't ask Mary to wait.",
+      "translation": "Том не будет просить Мэри подождать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_32",
+      "word": "Would you say it once more?",
+      "translation": "Могли бы вы это повторить ещё раз?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_33",
+      "word": "You let me down.",
+      "translation": "Ты меня разочаровал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_34",
+      "word": "You are not in a position to ask for anything.",
+      "translation": "Ты не в том положении, чтобы о чём-то просить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_35",
+      "word": "Tom wasn't wearing his mask.",
+      "translation": "Том был без маски.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_36",
+      "word": "Tom called Mary to ask her out.",
+      "translation": "Том позвонил Мэри, чтобы пригласить её на свидание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_37",
+      "word": "Tom, would you leave us alone for a moment?",
+      "translation": "Том, ты бы не мог оставить нас одних на минуту?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_38",
+      "word": "Do you want to ask me something else?",
+      "translation": "Вы хотите спросить у меня что-то ещё?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_39",
+      "word": "Let me find out.",
+      "translation": "Дай мне выяснить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_40",
+      "word": "Tom's pride won't allow him to ask questions.",
+      "translation": "Гордость Тома не позволяет ему задавать вопросы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_41",
+      "word": "Would you like to have another beer?",
+      "translation": "Не хотите ли еще пива?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_42",
+      "word": "Would you teach me?",
+      "translation": "Ты не мог бы меня научить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_43",
+      "word": "Why didn't you ask me?",
+      "translation": "Почему ты не спросил меня?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_44",
+      "word": "We'd like to ask you some questions.",
+      "translation": "Мы хотели бы задать вам несколько вопросов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_45",
+      "word": "If there's something you don't understand, let me know.",
+      "translation": "Если чего-нибудь не понимаешь, скажи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_46",
+      "word": "I just want to ask you a question.",
+      "translation": "Я просто хочу задать вам вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_47",
+      "word": "I'm going to ask Mary out.",
+      "translation": "Я собираюсь пригласить Мэри куда-нибудь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_48",
+      "word": "Ask Tom how Mary is.",
+      "translation": "Спроси Тома, как Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_8_49",
+      "word": "I won't ask why you want it.",
+      "translation": "Я не стану спрашивать, почему вы этого хотите.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_0",
+      "word": "I called you in here to ask you a question.",
+      "translation": "Я позвонил тебе сюда, чтобы задать вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_1",
+      "word": "I'd like to ask a question.",
+      "translation": "Я бы хотел задать вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_2",
+      "word": "There are some questions I have to ask Tom.",
+      "translation": "Я должен задать Тому несколько вопросов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_3",
+      "word": "We must not allow this.",
+      "translation": "Мы не должны этого позволять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_4",
+      "word": "They granted his request.",
+      "translation": "Они выполнили его просьбу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_5",
+      "word": "No one's going to ask you any questions.",
+      "translation": "Никто не будет задавать тебе вопросов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_6",
+      "word": "Tom won't ask Mary.",
+      "translation": "Том не будет спрашивать Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_7",
+      "word": "Tom, what would you do?",
+      "translation": "Том, что бы ты стал делать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_8",
+      "word": "Where's my mask?",
+      "translation": "Где моя маска?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_9",
+      "word": "Let me do it.",
+      "translation": "Дай я сделаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_10",
+      "word": "Ask somebody else.",
+      "translation": "Спроси кого-нибудь ещё.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_11",
+      "word": "Who would you like to speak to?",
+      "translation": "С кем Вы хотели бы поговорить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_12",
+      "word": "People often ask us this question.",
+      "translation": "Люди часто задают нам этот вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_13",
+      "word": "Suppose you had ten million yen, what would you do?",
+      "translation": "Представь, что у тебя есть десять миллионов иен. Что бы ты стал делать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_14",
+      "word": "Would you stop staring at me?",
+      "translation": "Может перестанешь глазеть на меня?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_15",
+      "word": "We need to ask you some questions.",
+      "translation": "Нам надо задать вам несколько вопросов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_16",
+      "word": "Let me do this.",
+      "translation": "Позволь мне сделать это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_17",
+      "word": "I can't allow it.",
+      "translation": "Я не могу этого позволить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_18",
+      "word": "I thought that you were going to let me go.",
+      "translation": "Я думал, ты меня отпустишь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_19",
+      "word": "Why don't you ask Tom to go with you?",
+      "translation": "Почему ты не попросишь Тома пойти с тобой?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_20",
+      "word": "Would you like some chocolate ice cream?",
+      "translation": "Ты бы хотела немного шоколадного мороженого?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_21",
+      "word": "I have a big favor to ask.",
+      "translation": "У меня есть большая просьба.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_22",
+      "word": "Would you like to go to Boston with me?",
+      "translation": "Ты бы хотел поехать в Бостон со мной?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_23",
+      "word": "Did Tom ask for anything?",
+      "translation": "Том что-нибудь просил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_24",
+      "word": "What more can I ask?",
+      "translation": "Чего мне ещё просить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_25",
+      "word": "Don’t ask me to do something that's impossible.",
+      "translation": "Не проси меня сделать невозможное.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_26",
+      "word": "Would you like to live forever?",
+      "translation": "Вы бы хотели жить вечно?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_27",
+      "word": "Would you show it to me?",
+      "translation": "Не покажешь мне это?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_28",
+      "word": "Ask him when the next plane will be.",
+      "translation": "Спросите его, когда следующий самолёт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_29",
+      "word": "I'm going to allow Tom to do whatever he wants.",
+      "translation": "Я собираюсь позволить Тому делать всё, что он хочет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_30",
+      "word": "Let's ask Tom to give a speech.",
+      "translation": "Давайте попросим Тома сказать речь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_31",
+      "word": "I didn't ask Tom to do anything.",
+      "translation": "Я ни о чём Тома не просил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_32",
+      "word": "Is he in favor of the plan?",
+      "translation": "Он согласен с планом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_33",
+      "word": "Let me tell you all something.",
+      "translation": "Позвольте мне вам всем кое-что сказать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_34",
+      "word": "Let me try it.",
+      "translation": "Дай мне попробовать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_35",
+      "word": "Let me dream.",
+      "translation": "Дай мне помечтать!",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_36",
+      "word": "Let me have a look at the picture.",
+      "translation": "Дай мне взглянуть на картину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_37",
+      "word": "Would you do it?",
+      "translation": "Ты бы сделал это?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_38",
+      "word": "Would you like to come along with us?",
+      "translation": "Хочешь пойти вместе с нами?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_39",
+      "word": "I'll allow it.",
+      "translation": "Я позволю это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_40",
+      "word": "Don't ask too many questions.",
+      "translation": "Не задавай слишком много вопросов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_41",
+      "word": "Would you do something for me?",
+      "translation": "Можно вас кое о чём попросить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_42",
+      "word": "Let me talk to Tom first.",
+      "translation": "Дай мне сначала поговорить с Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_43",
+      "word": "Tom wanted to ask a question, but didn't.",
+      "translation": "Том хотел задать вопрос, но не задал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_44",
+      "word": "Would you like to sit down?",
+      "translation": "Ты бы хотел присесть?",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_45",
+      "word": "Let me tell you about the case.",
+      "translation": "Позволь мне рассказать тебе об этом случае.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_46",
+      "word": "Let me tell you how it can be done.",
+      "translation": "Давай я расскажу тебе, как это можно сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_47",
+      "word": "If this happens again, let me know.",
+      "translation": "Если это снова случится, дайте мне знать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_48",
+      "word": "It was an impossible task.",
+      "translation": "Это была невыполнимая задача.",
+      "language": "en"
+    },
+    {
+      "id": "pb_requestspermissions_9_49",
+      "word": "Why don't you ask Tom directly?",
+      "translation": "Почему ты не спросишь Тома напрямую?",
+      "language": "en"
+    }
+  ]
+}

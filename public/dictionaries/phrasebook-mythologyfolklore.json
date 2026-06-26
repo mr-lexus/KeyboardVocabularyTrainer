@@ -1,0 +1,505 @@
+{
+  "id": "phrasebook-mythologyfolklore",
+  "name": "Mythology & Folklore",
+  "description": "Phrasebook for Mythology & Folklore",
+  "entries": [
+    {
+      "id": "pb_mythologyfolklore_0_0",
+      "word": "Tom is considered a hero.",
+      "translation": "Тома считают героем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_1",
+      "word": "Tom is my hero.",
+      "translation": "Том мой герой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_2",
+      "word": "Tom is no hero.",
+      "translation": "Том не герой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_3",
+      "word": "I'm a vampire.",
+      "translation": "Я вампир.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_4",
+      "word": "Tom is a zombie.",
+      "translation": "Том - зомби.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_5",
+      "word": "You used to be my hero.",
+      "translation": "Ты был моим героем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_6",
+      "word": "Don't try to be a hero.",
+      "translation": "Не геройствуй.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_7",
+      "word": "Tom is not a hero.",
+      "translation": "Том не герой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_8",
+      "word": "Tom was a real hero.",
+      "translation": "Том был настоящим героем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_9",
+      "word": "Tom became a national hero.",
+      "translation": "Том стал национальным героем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_10",
+      "word": "Tom wasn't a hero.",
+      "translation": "Том не был героем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_11",
+      "word": "The legend says that she was a mermaid.",
+      "translation": "Легенда гласит, что она была русалкой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_12",
+      "word": "Who's your favorite super hero?",
+      "translation": "Кто твой любимый супергерой?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_13",
+      "word": "Tom likes vampire stories.",
+      "translation": "Том любит истории про вампиров.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_14",
+      "word": "I heard Tom was a werewolf.",
+      "translation": "Я слышала, что Том был оборотнем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_15",
+      "word": "Tom wanted to be a hero.",
+      "translation": "Том хотел быть героем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_16",
+      "word": "You're my hero.",
+      "translation": "Ты мой герой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_17",
+      "word": "Tom dreamed of being a hero.",
+      "translation": "Том мечтал стать героем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_18",
+      "word": "His victory made him a hero.",
+      "translation": "Победа сделала его героем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_19",
+      "word": "Are you a vampire?",
+      "translation": "Ты вампир?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_20",
+      "word": "Tom is our hero.",
+      "translation": "Том - наш герой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_21",
+      "word": "I thought that it was just an urban legend.",
+      "translation": "Я думал, это просто городская легенда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_22",
+      "word": "You're such a tattletale.",
+      "translation": "Ты такой болтун.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_23",
+      "word": "Tom was my hero.",
+      "translation": "Том был моим героем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_24",
+      "word": "Tom didn't want to be a hero.",
+      "translation": "Том не хотел быть героем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_25",
+      "word": "You're the real hero.",
+      "translation": "Ты настоящий герой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_26",
+      "word": "They killed a goat as a sacrifice to the gods.",
+      "translation": "Они забили козу в жертву богам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_27",
+      "word": "I'm not a vampire.",
+      "translation": "Я не вампир.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_28",
+      "word": "I wish to become a superhero.",
+      "translation": "Я хотел бы стать супергероем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_29",
+      "word": "That's an old wives' tale.",
+      "translation": "Это бабушкины сказки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_30",
+      "word": "That's just an urban legend.",
+      "translation": "Это просто городская легенда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_31",
+      "word": "Tom was dressed as a vampire.",
+      "translation": "Том был одет в костюм вампира.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_32",
+      "word": "Every man cannot be a hero.",
+      "translation": "Не могут все быть героями.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_33",
+      "word": "The hero became the villain.",
+      "translation": "Герой превратился в злодея.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_34",
+      "word": "I'm not a hero.",
+      "translation": "Я не герой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_35",
+      "word": "The legend says he was abandoned in the woods.",
+      "translation": "Легенда гласит, что он был брошен в лесу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_36",
+      "word": "African folklore is very interesting.",
+      "translation": "Африканский фольклор очень интересен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_37",
+      "word": "I don't want to be a hero.",
+      "translation": "Я не хочу быть героем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_38",
+      "word": "Is Tom a hero or traitor?",
+      "translation": "Том герой или предатель?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_39",
+      "word": "Tom was our hero.",
+      "translation": "Том был нашим героем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_40",
+      "word": "Tom became a hero.",
+      "translation": "Том стал героем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_41",
+      "word": "Is Tom a hero or a traitor?",
+      "translation": "Том герой или предатель?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_42",
+      "word": "I want to be a hero.",
+      "translation": "Я хочу быть героем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_43",
+      "word": "Tom dressed up as a zombie.",
+      "translation": "Том нарядился зомби.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_44",
+      "word": "They worshiped him as a hero.",
+      "translation": "Они чтили его как героя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_45",
+      "word": "The Greeks used to worship several gods.",
+      "translation": "Греки поклонялись нескольким богам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_46",
+      "word": "Tom isn't a hero.",
+      "translation": "Том не герой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_47",
+      "word": "We regard Tom as our hero.",
+      "translation": "Мы считаем Тома нашим героем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_48",
+      "word": "I wasn't trying to be hero.",
+      "translation": "Я не пытался быть героем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_0_49",
+      "word": "Tom is a real hero.",
+      "translation": "Том - настоящий герой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_0",
+      "word": "Tom was a hero.",
+      "translation": "Том был героем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_1",
+      "word": "Tom is Mary's hero.",
+      "translation": "Том - герой Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_2",
+      "word": "Tom is the real hero.",
+      "translation": "Том - настоящий герой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_3",
+      "word": "I'm Tom's hero.",
+      "translation": "Я герой Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_4",
+      "word": "He's my hero.",
+      "translation": "Он мой герой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_5",
+      "word": "He is an unsung hero.",
+      "translation": "Он — невоспетый герой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_6",
+      "word": "There are no gods.",
+      "translation": "Богов нет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_7",
+      "word": "They consider him a hero.",
+      "translation": "Они считают его героем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_8",
+      "word": "Tom wants to be a hero.",
+      "translation": "Том хочет быть героем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_9",
+      "word": "Every little boy needs a hero.",
+      "translation": "Каждому маленькому мальчику нужен герой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_10",
+      "word": "I'm no hero.",
+      "translation": "Я не герой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_11",
+      "word": "To the public, he was a hero.",
+      "translation": "Для публики он был героем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_12",
+      "word": "He's not a hero.",
+      "translation": "Он не герой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_13",
+      "word": "Tom is a legend.",
+      "translation": "Том - легенда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_14",
+      "word": "They considered Tom a hero.",
+      "translation": "Они считали Тома героем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_15",
+      "word": "Tom is a hero.",
+      "translation": "Том — герой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_16",
+      "word": "Tom Jackson is my hero.",
+      "translation": "Том Джексон - мой герой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_17",
+      "word": "This is an urban legend.",
+      "translation": "Это городская легенда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_18",
+      "word": "Tom doesn't want to be a hero.",
+      "translation": "Том не хочет быть героем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_19",
+      "word": "Tom is a vampire.",
+      "translation": "Том - вампир.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_20",
+      "word": "I'm a hero.",
+      "translation": "Я герой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_21",
+      "word": "I thought it was just an urban legend.",
+      "translation": "Я думал, это просто городская легенда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_22",
+      "word": "They need a hero.",
+      "translation": "Им нужен герой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_23",
+      "word": "In my eyes, Tom is a hero.",
+      "translation": "По-моему, Том - герой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_24",
+      "word": "We are familiar with the legend of Robin Hood.",
+      "translation": "Мы знаем легенду о Робине Гуде.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_25",
+      "word": "He became a national hero.",
+      "translation": "Он стал национальным героем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_26",
+      "word": "Tom was their hero.",
+      "translation": "Том был их героем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_27",
+      "word": "Tom died a hero.",
+      "translation": "Том умер героем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_28",
+      "word": "We need a hero.",
+      "translation": "Нам нужен герой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_29",
+      "word": "Superman is a superhero.",
+      "translation": "Супермен - супергерой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_30",
+      "word": "He was regarded as a hero.",
+      "translation": "Его считали героем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_31",
+      "word": "That's just an old wives' tale.",
+      "translation": "Это просто бабушкины сказки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mythologyfolklore_1_32",
+      "word": "I'm not a tattletale.",
+      "translation": "Я не стукач.",
+      "language": "en"
+    }
+  ]
+}

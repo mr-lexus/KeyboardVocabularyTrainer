@@ -1,0 +1,97 @@
+{
+  "id": "pb-restaurant",
+  "name": "In a Restaurant",
+  "description": "В ресторане: заказ еды, счет, предпочтения",
+  "entries": [
+    {
+      "id": "entry_pb-restaurant_0",
+      "word": "We would like a table for two, please.",
+      "translation": "Мы бы хотели столик на двоих, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-restaurant_1",
+      "word": "Can we see the menu?",
+      "translation": "Можно посмотреть меню?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-restaurant_2",
+      "word": "Are you ready to order?",
+      "translation": "Вы готовы сделать заказ?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-restaurant_3",
+      "word": "I'll have the steak, medium rare.",
+      "translation": "Я буду стейк средней прожарки.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-restaurant_4",
+      "word": "Could I get a glass of water?",
+      "translation": "Можно мне стакан воды?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-restaurant_5",
+      "word": "Does this dish contain any nuts?",
+      "translation": "В этом блюде есть орехи?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-restaurant_6",
+      "word": "I am allergic to seafood.",
+      "translation": "У меня аллергия на морепродукты.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-restaurant_7",
+      "word": "Could we have the bill, please?",
+      "translation": "Можно нам счет, пожалуйста?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-restaurant_8",
+      "word": "Is service included?",
+      "translation": "Обслуживание включено?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-restaurant_9",
+      "word": "Keep the change.",
+      "translation": "Сдачи не надо.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-restaurant_10",
+      "word": "The food was delicious.",
+      "translation": "Еда была очень вкусной.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-restaurant_11",
+      "word": "Could you pack the leftovers?",
+      "translation": "Не могли бы вы упаковать остатки?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-restaurant_12",
+      "word": "Do you have any vegetarian options?",
+      "translation": "У вас есть вегетарианские блюда?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-restaurant_13",
+      "word": "Can I substitute the fries for a salad?",
+      "translation": "Могу я заменить картошку фри на салат?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-restaurant_14",
+      "word": "We are still deciding.",
+      "translation": "Мы еще выбираем.",
+      "language": "en"
+    }
+  ]
+}

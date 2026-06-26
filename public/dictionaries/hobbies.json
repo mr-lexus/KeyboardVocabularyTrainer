@@ -1,0 +1,1963 @@
+{
+  "id": "builtin-hobbies",
+  "name": "Hobbies & Free Time ",
+  "description": "Extensive vocabulary for leisure activities and pastimes",
+  "entries": [
+    {
+      "id": "e1",
+      "word": "hobby",
+      "translation": "хобби",
+      "language": "en"
+    },
+    {
+      "id": "e2",
+      "word": "free time",
+      "translation": "свободное время",
+      "language": "en"
+    },
+    {
+      "id": "e3",
+      "word": "leisure",
+      "translation": "досуг",
+      "language": "en"
+    },
+    {
+      "id": "e4",
+      "word": "activity",
+      "translation": "занятие",
+      "language": "en"
+    },
+    {
+      "id": "e5",
+      "word": "reading",
+      "translation": "чтение",
+      "language": "en"
+    },
+    {
+      "id": "e6",
+      "word": "writing",
+      "translation": "письмо",
+      "language": "en"
+    },
+    {
+      "id": "e7",
+      "word": "drawing",
+      "translation": "рисование",
+      "language": "en"
+    },
+    {
+      "id": "e8",
+      "word": "painting",
+      "translation": "живопись",
+      "language": "en"
+    },
+    {
+      "id": "e9",
+      "word": "photography",
+      "translation": "фотография",
+      "language": "en"
+    },
+    {
+      "id": "e10",
+      "word": "music",
+      "translation": "музыка",
+      "language": "en"
+    },
+    {
+      "id": "e11",
+      "word": "singing",
+      "translation": "пение",
+      "language": "en"
+    },
+    {
+      "id": "e12",
+      "word": "dancing",
+      "translation": "танцы",
+      "language": "en"
+    },
+    {
+      "id": "e13",
+      "word": "cooking",
+      "translation": "готовка",
+      "language": "en"
+    },
+    {
+      "id": "e14",
+      "word": "baking",
+      "translation": "выпечка",
+      "language": "en"
+    },
+    {
+      "id": "e15",
+      "word": "gardening",
+      "translation": "садоводство",
+      "language": "en"
+    },
+    {
+      "id": "e16",
+      "word": "knitting",
+      "translation": "вязание",
+      "language": "en"
+    },
+    {
+      "id": "e17",
+      "word": "sewing",
+      "translation": "шитье",
+      "language": "en"
+    },
+    {
+      "id": "e18",
+      "word": "crafts",
+      "translation": "рукоделие",
+      "language": "en"
+    },
+    {
+      "id": "e19",
+      "word": "collecting",
+      "translation": "коллекционирование",
+      "language": "en"
+    },
+    {
+      "id": "e20",
+      "word": "gaming",
+      "translation": "игры",
+      "language": "en"
+    },
+    {
+      "id": "e21",
+      "word": "sports",
+      "translation": "спорт",
+      "language": "en"
+    },
+    {
+      "id": "e22",
+      "word": "fitness",
+      "translation": "фитнес",
+      "language": "en"
+    },
+    {
+      "id": "e23",
+      "word": "yoga",
+      "translation": "йога",
+      "language": "en"
+    },
+    {
+      "id": "e24",
+      "word": "swimming",
+      "translation": "плавание",
+      "language": "en"
+    },
+    {
+      "id": "e25",
+      "word": "running",
+      "translation": "бег",
+      "language": "en"
+    },
+    {
+      "id": "e26",
+      "word": "cycling",
+      "translation": "езда на велосипеде",
+      "language": "en"
+    },
+    {
+      "id": "e27",
+      "word": "hiking",
+      "translation": "пеший туризм",
+      "language": "en"
+    },
+    {
+      "id": "e28",
+      "word": "camping",
+      "translation": "кемпинг",
+      "language": "en"
+    },
+    {
+      "id": "e29",
+      "word": "fishing",
+      "translation": "рыбалка",
+      "language": "en"
+    },
+    {
+      "id": "e30",
+      "word": "hunting",
+      "translation": "охота",
+      "language": "en"
+    },
+    {
+      "id": "e31",
+      "word": "traveling",
+      "translation": "путешествия",
+      "language": "en"
+    },
+    {
+      "id": "e32",
+      "word": "shopping",
+      "translation": "шоппинг",
+      "language": "en"
+    },
+    {
+      "id": "e33",
+      "word": "movies",
+      "translation": "кино",
+      "language": "en"
+    },
+    {
+      "id": "e34",
+      "word": "theater",
+      "translation": "театр",
+      "language": "en"
+    },
+    {
+      "id": "e35",
+      "word": "concert",
+      "translation": "концерт",
+      "language": "en"
+    },
+    {
+      "id": "e36",
+      "word": "museum",
+      "translation": "музей",
+      "language": "en"
+    },
+    {
+      "id": "e37",
+      "word": "exhibition",
+      "translation": "выставка",
+      "language": "en"
+    },
+    {
+      "id": "e38",
+      "word": "park",
+      "translation": "парк",
+      "language": "en"
+    },
+    {
+      "id": "e39",
+      "word": "picnic",
+      "translation": "пикник",
+      "language": "en"
+    },
+    {
+      "id": "e40",
+      "word": "party",
+      "translation": "вечеринка",
+      "language": "en"
+    },
+    {
+      "id": "e41",
+      "word": "pottery",
+      "translation": "гончарное дело",
+      "language": "en"
+    },
+    {
+      "id": "e42",
+      "word": "ceramics",
+      "translation": "керамика",
+      "language": "en"
+    },
+    {
+      "id": "e43",
+      "word": "sculpting",
+      "translation": "лепка",
+      "language": "en"
+    },
+    {
+      "id": "e44",
+      "word": "woodworking",
+      "translation": "работа по дереву",
+      "language": "en"
+    },
+    {
+      "id": "e45",
+      "word": "carpentry",
+      "translation": "столярное дело",
+      "language": "en"
+    },
+    {
+      "id": "e46",
+      "word": "metalworking",
+      "translation": "обработка металла",
+      "language": "en"
+    },
+    {
+      "id": "e47",
+      "word": "jewelry making",
+      "translation": "ювелирное дело",
+      "language": "en"
+    },
+    {
+      "id": "e48",
+      "word": "origami",
+      "translation": "оригами",
+      "language": "en"
+    },
+    {
+      "id": "e49",
+      "word": "calligraphy",
+      "translation": "каллиграфия",
+      "language": "en"
+    },
+    {
+      "id": "e50",
+      "word": "lettering",
+      "translation": "леттеринг",
+      "language": "en"
+    },
+    {
+      "id": "e51",
+      "word": "scrapbooking",
+      "translation": "скрапбукинг",
+      "language": "en"
+    },
+    {
+      "id": "e52",
+      "word": "card making",
+      "translation": "создание открыток",
+      "language": "en"
+    },
+    {
+      "id": "e53",
+      "word": "embroidery",
+      "translation": "вышивка",
+      "language": "en"
+    },
+    {
+      "id": "e54",
+      "word": "cross-stitch",
+      "translation": "вышивка крестом",
+      "language": "en"
+    },
+    {
+      "id": "e55",
+      "word": "crochet",
+      "translation": "вязание крючком",
+      "language": "en"
+    },
+    {
+      "id": "e56",
+      "word": "quilting",
+      "translation": "стежка",
+      "language": "en"
+    },
+    {
+      "id": "e57",
+      "word": "weaving",
+      "translation": "ткачество",
+      "language": "en"
+    },
+    {
+      "id": "e58",
+      "word": "macrame",
+      "translation": "макраме",
+      "language": "en"
+    },
+    {
+      "id": "e59",
+      "word": "beading",
+      "translation": "бисероплетение",
+      "language": "en"
+    },
+    {
+      "id": "e60",
+      "word": "model building",
+      "translation": "моделирование",
+      "language": "en"
+    },
+    {
+      "id": "e61",
+      "word": "miniatures",
+      "translation": "миниатюры",
+      "language": "en"
+    },
+    {
+      "id": "e62",
+      "word": "dioramas",
+      "translation": "диорамы",
+      "language": "en"
+    },
+    {
+      "id": "e63",
+      "word": "lego",
+      "translation": "лего",
+      "language": "en"
+    },
+    {
+      "id": "e64",
+      "word": "puzzles",
+      "translation": "пазлы",
+      "language": "en"
+    },
+    {
+      "id": "e65",
+      "word": "jigsaw",
+      "translation": "пазл",
+      "language": "en"
+    },
+    {
+      "id": "e66",
+      "word": "crosswords",
+      "translation": "кроссворды",
+      "language": "en"
+    },
+    {
+      "id": "e67",
+      "word": "sudoku",
+      "translation": "судоку",
+      "language": "en"
+    },
+    {
+      "id": "e68",
+      "word": "chess",
+      "translation": "шахматы",
+      "language": "en"
+    },
+    {
+      "id": "e69",
+      "word": "checkers",
+      "translation": "шашки",
+      "language": "en"
+    },
+    {
+      "id": "e70",
+      "word": "backgammon",
+      "translation": "нарды",
+      "language": "en"
+    },
+    {
+      "id": "e71",
+      "word": "board games",
+      "translation": "настольные игры",
+      "language": "en"
+    },
+    {
+      "id": "e72",
+      "word": "card games",
+      "translation": "карточные игры",
+      "language": "en"
+    },
+    {
+      "id": "e73",
+      "word": "poker",
+      "translation": "покер",
+      "language": "en"
+    },
+    {
+      "id": "e74",
+      "word": "bridge",
+      "translation": "бридж",
+      "language": "en"
+    },
+    {
+      "id": "e75",
+      "word": "billiards",
+      "translation": "бильярд",
+      "language": "en"
+    },
+    {
+      "id": "e76",
+      "word": "pool",
+      "translation": "пул",
+      "language": "en"
+    },
+    {
+      "id": "e77",
+      "word": "snooker",
+      "translation": "снукер",
+      "language": "en"
+    },
+    {
+      "id": "e78",
+      "word": "darts",
+      "translation": "дартс",
+      "language": "en"
+    },
+    {
+      "id": "e79",
+      "word": "bowling",
+      "translation": "боулинг",
+      "language": "en"
+    },
+    {
+      "id": "e80",
+      "word": "archery",
+      "translation": "стрельба из лука",
+      "language": "en"
+    },
+    {
+      "id": "e81",
+      "word": "shooting",
+      "translation": "стрельба",
+      "language": "en"
+    },
+    {
+      "id": "e82",
+      "word": "fencing",
+      "translation": "фехтование",
+      "language": "en"
+    },
+    {
+      "id": "e83",
+      "word": "martial arts",
+      "translation": "боевые искусства",
+      "language": "en"
+    },
+    {
+      "id": "e84",
+      "word": "karate",
+      "translation": "каратэ",
+      "language": "en"
+    },
+    {
+      "id": "e85",
+      "word": "judo",
+      "translation": "дзюдо",
+      "language": "en"
+    },
+    {
+      "id": "e86",
+      "word": "taekwondo",
+      "translation": "тхэквондо",
+      "language": "en"
+    },
+    {
+      "id": "e87",
+      "word": "boxing",
+      "translation": "бокс",
+      "language": "en"
+    },
+    {
+      "id": "e88",
+      "word": "wrestling",
+      "translation": "борьба",
+      "language": "en"
+    },
+    {
+      "id": "e89",
+      "word": "gymnastics",
+      "translation": "гимнастика",
+      "language": "en"
+    },
+    {
+      "id": "e90",
+      "word": "acrobatics",
+      "translation": "акробатика",
+      "language": "en"
+    },
+    {
+      "id": "e91",
+      "word": "juggling",
+      "translation": "жонглирование",
+      "language": "en"
+    },
+    {
+      "id": "e92",
+      "word": "magic tricks",
+      "translation": "фокусы",
+      "language": "en"
+    },
+    {
+      "id": "e93",
+      "word": "illusions",
+      "translation": "иллюзии",
+      "language": "en"
+    },
+    {
+      "id": "e94",
+      "word": "astronomy",
+      "translation": "астрономия",
+      "language": "en"
+    },
+    {
+      "id": "e95",
+      "word": "stargazing",
+      "translation": "наблюдение за звездами",
+      "language": "en"
+    },
+    {
+      "id": "e96",
+      "word": "birdwatching",
+      "translation": "наблюдение за птицами",
+      "language": "en"
+    },
+    {
+      "id": "e97",
+      "word": "foraging",
+      "translation": "собирательство",
+      "language": "en"
+    },
+    {
+      "id": "e98",
+      "word": "botany",
+      "translation": "ботаника",
+      "language": "en"
+    },
+    {
+      "id": "e99",
+      "word": "mycology",
+      "translation": "микология",
+      "language": "en"
+    },
+    {
+      "id": "e100",
+      "word": "geology",
+      "translation": "геология",
+      "language": "en"
+    },
+    {
+      "id": "e101",
+      "word": "rock collecting",
+      "translation": "коллекционирование камней",
+      "language": "en"
+    },
+    {
+      "id": "e102",
+      "word": "fossil hunting",
+      "translation": "поиск окаменелостей",
+      "language": "en"
+    },
+    {
+      "id": "e103",
+      "word": "metal detecting",
+      "translation": "поиск с металлоискателем",
+      "language": "en"
+    },
+    {
+      "id": "e104",
+      "word": "geocaching",
+      "translation": "геокешинг",
+      "language": "en"
+    },
+    {
+      "id": "e105",
+      "word": "treasure hunting",
+      "translation": "поиск сокровищ",
+      "language": "en"
+    },
+    {
+      "id": "e106",
+      "word": "antiquing",
+      "translation": "поиск антиквариата",
+      "language": "en"
+    },
+    {
+      "id": "e107",
+      "word": "thrifting",
+      "translation": "походы по секонд-хендам",
+      "language": "en"
+    },
+    {
+      "id": "e108",
+      "word": "flea markets",
+      "translation": "блошиные рынки",
+      "language": "en"
+    },
+    {
+      "id": "e109",
+      "word": "garage sales",
+      "translation": "гаражные распродажи",
+      "language": "en"
+    },
+    {
+      "id": "e110",
+      "word": "auctions",
+      "translation": "аукционы",
+      "language": "en"
+    },
+    {
+      "id": "e111",
+      "word": "numismatics",
+      "translation": "нумизматика",
+      "language": "en"
+    },
+    {
+      "id": "e112",
+      "word": "philately",
+      "translation": "филателия",
+      "language": "en"
+    },
+    {
+      "id": "e113",
+      "word": "stamp collecting",
+      "translation": "коллекционирование марок",
+      "language": "en"
+    },
+    {
+      "id": "e114",
+      "word": "coin collecting",
+      "translation": "коллекционирование монет",
+      "language": "en"
+    },
+    {
+      "id": "e115",
+      "word": "memorabilia",
+      "translation": "памятные вещи",
+      "language": "en"
+    },
+    {
+      "id": "e116",
+      "word": "autographs",
+      "translation": "автографы",
+      "language": "en"
+    },
+    {
+      "id": "e117",
+      "word": "postcards",
+      "translation": "открытки",
+      "language": "en"
+    },
+    {
+      "id": "e118",
+      "word": "vinyl records",
+      "translation": "виниловые пластинки",
+      "language": "en"
+    },
+    {
+      "id": "e119",
+      "word": "books",
+      "translation": "книги",
+      "language": "en"
+    },
+    {
+      "id": "e120",
+      "word": "comics",
+      "translation": "комиксы",
+      "language": "en"
+    },
+    {
+      "id": "e121",
+      "word": "manga",
+      "translation": "манга",
+      "language": "en"
+    },
+    {
+      "id": "e122",
+      "word": "anime",
+      "translation": "аниме",
+      "language": "en"
+    },
+    {
+      "id": "e123",
+      "word": "cosplay",
+      "translation": "косплей",
+      "language": "en"
+    },
+    {
+      "id": "e124",
+      "word": "larp",
+      "translation": "ларп",
+      "language": "en"
+    },
+    {
+      "id": "e125",
+      "word": "roleplaying",
+      "translation": "ролевые игры",
+      "language": "en"
+    },
+    {
+      "id": "e126",
+      "word": "tabletop",
+      "translation": "настольные игры",
+      "language": "en"
+    },
+    {
+      "id": "e127",
+      "word": "dnd",
+      "translation": "d&d",
+      "language": "en"
+    },
+    {
+      "id": "e128",
+      "word": "wargaming",
+      "translation": "варгеймы",
+      "language": "en"
+    },
+    {
+      "id": "e129",
+      "word": "video games",
+      "translation": "видеоигры",
+      "language": "en"
+    },
+    {
+      "id": "e130",
+      "word": "pc gaming",
+      "translation": "игры на пк",
+      "language": "en"
+    },
+    {
+      "id": "e131",
+      "word": "console gaming",
+      "translation": "консольные игры",
+      "language": "en"
+    },
+    {
+      "id": "e132",
+      "word": "mobile gaming",
+      "translation": "мобильные игры",
+      "language": "en"
+    },
+    {
+      "id": "e133",
+      "word": "esports",
+      "translation": "киберспорт",
+      "language": "en"
+    },
+    {
+      "id": "e134",
+      "word": "streaming",
+      "translation": "стриминг",
+      "language": "en"
+    },
+    {
+      "id": "e135",
+      "word": "vlogging",
+      "translation": "влогинг",
+      "language": "en"
+    },
+    {
+      "id": "e136",
+      "word": "blogging",
+      "translation": "блогинг",
+      "language": "en"
+    },
+    {
+      "id": "e137",
+      "word": "podcasting",
+      "translation": "подкастинг",
+      "language": "en"
+    },
+    {
+      "id": "e138",
+      "word": "journalism",
+      "translation": "журналистика",
+      "language": "en"
+    },
+    {
+      "id": "e139",
+      "word": "creative writing",
+      "translation": "творческое письмо",
+      "language": "en"
+    },
+    {
+      "id": "e140",
+      "word": "poetry",
+      "translation": "поэзия",
+      "language": "en"
+    },
+    {
+      "id": "e141",
+      "word": "scriptwriting",
+      "translation": "написание сценариев",
+      "language": "en"
+    },
+    {
+      "id": "e142",
+      "word": "songwriting",
+      "translation": "написание песен",
+      "language": "en"
+    },
+    {
+      "id": "e143",
+      "word": "composing",
+      "translation": "сочинение музыки",
+      "language": "en"
+    },
+    {
+      "id": "e144",
+      "word": "producing",
+      "translation": "продюсирование",
+      "language": "en"
+    },
+    {
+      "id": "e145",
+      "word": "djing",
+      "translation": "диджеинг",
+      "language": "en"
+    },
+    {
+      "id": "e146",
+      "word": "mixing",
+      "translation": "сведение",
+      "language": "en"
+    },
+    {
+      "id": "e147",
+      "word": "mastering",
+      "translation": "мастеринг",
+      "language": "en"
+    },
+    {
+      "id": "e148",
+      "word": "sound design",
+      "translation": "саунд-дизайн",
+      "language": "en"
+    },
+    {
+      "id": "e149",
+      "word": "video editing",
+      "translation": "видеомонтаж",
+      "language": "en"
+    },
+    {
+      "id": "e150",
+      "word": "animation",
+      "translation": "анимация",
+      "language": "en"
+    },
+    {
+      "id": "e151",
+      "word": "3d modeling",
+      "translation": "3d моделирование",
+      "language": "en"
+    },
+    {
+      "id": "e152",
+      "word": "graphic design",
+      "translation": "графический дизайн",
+      "language": "en"
+    },
+    {
+      "id": "e153",
+      "word": "web design",
+      "translation": "веб-дизайн",
+      "language": "en"
+    },
+    {
+      "id": "e154",
+      "word": "coding",
+      "translation": "программирование",
+      "language": "en"
+    },
+    {
+      "id": "e155",
+      "word": "programming",
+      "translation": "программирование",
+      "language": "en"
+    },
+    {
+      "id": "e156",
+      "word": "hacking",
+      "translation": "хакерство",
+      "language": "en"
+    },
+    {
+      "id": "e157",
+      "word": "electronics",
+      "translation": "электроника",
+      "language": "en"
+    },
+    {
+      "id": "e158",
+      "word": "robotics",
+      "translation": "робототехника",
+      "language": "en"
+    },
+    {
+      "id": "e159",
+      "word": "arduino",
+      "translation": "ардуино",
+      "language": "en"
+    },
+    {
+      "id": "e160",
+      "word": "raspberry pi",
+      "translation": "raspberry pi",
+      "language": "en"
+    },
+    {
+      "id": "e161",
+      "word": "diy",
+      "translation": "сделай сам",
+      "language": "en"
+    },
+    {
+      "id": "e162",
+      "word": "home improvement",
+      "translation": "улучшение дома",
+      "language": "en"
+    },
+    {
+      "id": "e163",
+      "word": "interior design",
+      "translation": "дизайн интерьера",
+      "language": "en"
+    },
+    {
+      "id": "e164",
+      "word": "decorating",
+      "translation": "декорирование",
+      "language": "en"
+    },
+    {
+      "id": "e165",
+      "word": "upcycling",
+      "translation": "переделка",
+      "language": "en"
+    },
+    {
+      "id": "e166",
+      "word": "restoration",
+      "translation": "реставрация",
+      "language": "en"
+    },
+    {
+      "id": "e167",
+      "word": "repair",
+      "translation": "ремонт",
+      "language": "en"
+    },
+    {
+      "id": "e168",
+      "word": "mechanics",
+      "translation": "механика",
+      "language": "en"
+    },
+    {
+      "id": "e169",
+      "word": "car tuning",
+      "translation": "тюнинг автомобилей",
+      "language": "en"
+    },
+    {
+      "id": "e170",
+      "word": "motorcycles",
+      "translation": "мотоциклы",
+      "language": "en"
+    },
+    {
+      "id": "e171",
+      "word": "bicycles",
+      "translation": "велосипеды",
+      "language": "en"
+    },
+    {
+      "id": "e172",
+      "word": "skateboarding",
+      "translation": "скейтбординг",
+      "language": "en"
+    },
+    {
+      "id": "e173",
+      "word": "roller skating",
+      "translation": "катание на роликах",
+      "language": "en"
+    },
+    {
+      "id": "e174",
+      "word": "inline skating",
+      "translation": "катание на роликовых коньках",
+      "language": "en"
+    },
+    {
+      "id": "e175",
+      "word": "scootering",
+      "translation": "катание на самокате",
+      "language": "en"
+    },
+    {
+      "id": "e176",
+      "word": "bmx",
+      "translation": "bmx",
+      "language": "en"
+    },
+    {
+      "id": "e177",
+      "word": "parkour",
+      "translation": "паркур",
+      "language": "en"
+    },
+    {
+      "id": "e178",
+      "word": "freerunning",
+      "translation": "фриран",
+      "language": "en"
+    },
+    {
+      "id": "e179",
+      "word": "surfing",
+      "translation": "серфинг",
+      "language": "en"
+    },
+    {
+      "id": "e180",
+      "word": "windsurfing",
+      "translation": "виндсерфинг",
+      "language": "en"
+    },
+    {
+      "id": "e181",
+      "word": "kitesurfing",
+      "translation": "кайтсерфинг",
+      "language": "en"
+    },
+    {
+      "id": "e182",
+      "word": "wakeboarding",
+      "translation": "вейкбординг",
+      "language": "en"
+    },
+    {
+      "id": "e183",
+      "word": "paddleboarding",
+      "translation": "сапбординг",
+      "language": "en"
+    },
+    {
+      "id": "e184",
+      "word": "water skiing",
+      "translation": "водные лыжи",
+      "language": "en"
+    },
+    {
+      "id": "e185",
+      "word": "jet skiing",
+      "translation": "катание на гидроцикле",
+      "language": "en"
+    },
+    {
+      "id": "e186",
+      "word": "scuba diving",
+      "translation": "дайвинг",
+      "language": "en"
+    },
+    {
+      "id": "e187",
+      "word": "snorkeling",
+      "translation": "сноркелинг",
+      "language": "en"
+    },
+    {
+      "id": "e188",
+      "word": "sailing",
+      "translation": "парусный спорт",
+      "language": "en"
+    },
+    {
+      "id": "e189",
+      "word": "boating",
+      "translation": "катание на лодке",
+      "language": "en"
+    },
+    {
+      "id": "e190",
+      "word": "yachting",
+      "translation": "яхтинг",
+      "language": "en"
+    },
+    {
+      "id": "e191",
+      "word": "canoeing",
+      "translation": "каноэ",
+      "language": "en"
+    },
+    {
+      "id": "e192",
+      "word": "kayaking",
+      "translation": "каякинг",
+      "language": "en"
+    },
+    {
+      "id": "e193",
+      "word": "rafting",
+      "translation": "рафтинг",
+      "language": "en"
+    },
+    {
+      "id": "e194",
+      "word": "skiing",
+      "translation": "катание на лыжах",
+      "language": "en"
+    },
+    {
+      "id": "e195",
+      "word": "snowboarding",
+      "translation": "сноубординг",
+      "language": "en"
+    },
+    {
+      "id": "e196",
+      "word": "ice skating",
+      "translation": "катание на коньках",
+      "language": "en"
+    },
+    {
+      "id": "e197",
+      "word": "figure skating",
+      "translation": "фигурное катание",
+      "language": "en"
+    },
+    {
+      "id": "e198",
+      "word": "speed skating",
+      "translation": "конькобежный спорт",
+      "language": "en"
+    },
+    {
+      "id": "e199",
+      "word": "hockey",
+      "translation": "хоккей",
+      "language": "en"
+    },
+    {
+      "id": "e200",
+      "word": "curling",
+      "translation": "керлинг",
+      "language": "en"
+    },
+    {
+      "id": "e201",
+      "word": "bobsleigh",
+      "translation": "бобслей",
+      "language": "en"
+    },
+    {
+      "id": "e202",
+      "word": "luge",
+      "translation": "санный спорт",
+      "language": "en"
+    },
+    {
+      "id": "e203",
+      "word": "skeleton",
+      "translation": "скелетон",
+      "language": "en"
+    },
+    {
+      "id": "e204",
+      "word": "mountaineering",
+      "translation": "альпинизм",
+      "language": "en"
+    },
+    {
+      "id": "e205",
+      "word": "rock climbing",
+      "translation": "скалолазание",
+      "language": "en"
+    },
+    {
+      "id": "e206",
+      "word": "bouldering",
+      "translation": "боулдеринг",
+      "language": "en"
+    },
+    {
+      "id": "e207",
+      "word": "caving",
+      "translation": "спелеология",
+      "language": "en"
+    },
+    {
+      "id": "e208",
+      "word": "canyoning",
+      "translation": "каньонинг",
+      "language": "en"
+    },
+    {
+      "id": "e209",
+      "word": "abseiling",
+      "translation": "каньонинг",
+      "language": "en"
+    },
+    {
+      "id": "e210",
+      "word": "zip lining",
+      "translation": "зиплайн",
+      "language": "en"
+    },
+    {
+      "id": "e211",
+      "word": "bungee jumping",
+      "translation": "зиплайн",
+      "language": "en"
+    },
+    {
+      "id": "e212",
+      "word": "skydiving",
+      "translation": "прыжки с парашютом",
+      "language": "en"
+    },
+    {
+      "id": "e213",
+      "word": "paragliding",
+      "translation": "парапланеризм",
+      "language": "en"
+    },
+    {
+      "id": "e214",
+      "word": "hang gliding",
+      "translation": "дельтапланеризм",
+      "language": "en"
+    },
+    {
+      "id": "e215",
+      "word": "ballooning",
+      "translation": "полеты на воздушном шаре",
+      "language": "en"
+    },
+    {
+      "id": "e216",
+      "word": "aviation",
+      "translation": "авиация",
+      "language": "en"
+    },
+    {
+      "id": "e217",
+      "word": "flying",
+      "translation": "полеты",
+      "language": "en"
+    },
+    {
+      "id": "e218",
+      "word": "piloting",
+      "translation": "пилотирование",
+      "language": "en"
+    },
+    {
+      "id": "e219",
+      "word": "drones",
+      "translation": "дроны",
+      "language": "en"
+    },
+    {
+      "id": "e220",
+      "word": "rc models",
+      "translation": "радиоуправляемые модели",
+      "language": "en"
+    },
+    {
+      "id": "e221",
+      "word": "model trains",
+      "translation": "модели поездов",
+      "language": "en"
+    },
+    {
+      "id": "e222",
+      "word": "slot cars",
+      "translation": "трассовый автомоделизм",
+      "language": "en"
+    },
+    {
+      "id": "e223",
+      "word": "kites",
+      "translation": "воздушные змеи",
+      "language": "en"
+    },
+    {
+      "id": "e224",
+      "word": "boomerang",
+      "translation": "бумеранг",
+      "language": "en"
+    },
+    {
+      "id": "e225",
+      "word": "frisbee",
+      "translation": "бумеранг",
+      "language": "en"
+    },
+    {
+      "id": "e226",
+      "word": "disc golf",
+      "translation": "алтимат",
+      "language": "en"
+    },
+    {
+      "id": "e227",
+      "word": "ultimate",
+      "translation": "алтимат",
+      "language": "en"
+    },
+    {
+      "id": "e228",
+      "word": "paintball",
+      "translation": "пейнтбол",
+      "language": "en"
+    },
+    {
+      "id": "e229",
+      "word": "airsoft",
+      "translation": "страйкбол",
+      "language": "en"
+    },
+    {
+      "id": "e230",
+      "word": "laser tag",
+      "translation": "лазертаг",
+      "language": "en"
+    },
+    {
+      "id": "e231",
+      "word": "escape rooms",
+      "translation": "квест-комнаты",
+      "language": "en"
+    },
+    {
+      "id": "e232",
+      "word": "trivia",
+      "translation": "викторины",
+      "language": "en"
+    },
+    {
+      "id": "e233",
+      "word": "pub quizzes",
+      "translation": "паб-квизы",
+      "language": "en"
+    },
+    {
+      "id": "e234",
+      "word": "karaoke",
+      "translation": "караоке",
+      "language": "en"
+    },
+    {
+      "id": "e235",
+      "word": "open mic",
+      "translation": "открытый микрофон",
+      "language": "en"
+    },
+    {
+      "id": "e236",
+      "word": "standup comedy",
+      "translation": "стендап",
+      "language": "en"
+    },
+    {
+      "id": "e237",
+      "word": "improv",
+      "translation": "импровизация",
+      "language": "en"
+    },
+    {
+      "id": "e238",
+      "word": "acting",
+      "translation": "актерское мастерство",
+      "language": "en"
+    },
+    {
+      "id": "e239",
+      "word": "directing",
+      "translation": "режиссура",
+      "language": "en"
+    },
+    {
+      "id": "e240",
+      "word": "stagecraft",
+      "translation": "сценическое искусство",
+      "language": "en"
+    },
+    {
+      "id": "e241",
+      "word": "puppetry",
+      "translation": "кукольный театр",
+      "language": "en"
+    },
+    {
+      "id": "e242",
+      "word": "ventriloquism",
+      "translation": "чревовещание",
+      "language": "en"
+    },
+    {
+      "id": "e243",
+      "word": "magic",
+      "translation": "магия",
+      "language": "en"
+    },
+    {
+      "id": "e244",
+      "word": "card tricks",
+      "translation": "карточные фокусы",
+      "language": "en"
+    },
+    {
+      "id": "e245",
+      "word": "mentalism",
+      "translation": "ментализм",
+      "language": "en"
+    },
+    {
+      "id": "e246",
+      "word": "hypnosis",
+      "translation": "гипноз",
+      "language": "en"
+    },
+    {
+      "id": "e247",
+      "word": "astrology",
+      "translation": "астрология",
+      "language": "en"
+    },
+    {
+      "id": "e248",
+      "word": "tarot",
+      "translation": "таро",
+      "language": "en"
+    },
+    {
+      "id": "e249",
+      "word": "numerology",
+      "translation": "нумерология",
+      "language": "en"
+    },
+    {
+      "id": "e250",
+      "word": "palmistry",
+      "translation": "хиромантия",
+      "language": "en"
+    },
+    {
+      "id": "e251",
+      "word": "meditation",
+      "translation": "медитация",
+      "language": "en"
+    },
+    {
+      "id": "e252",
+      "word": "mindfulness",
+      "translation": "осознанность",
+      "language": "en"
+    },
+    {
+      "id": "e253",
+      "word": "spirituality",
+      "translation": "духовность",
+      "language": "en"
+    },
+    {
+      "id": "e254",
+      "word": "religion",
+      "translation": "религия",
+      "language": "en"
+    },
+    {
+      "id": "e255",
+      "word": "philosophy",
+      "translation": "философия",
+      "language": "en"
+    },
+    {
+      "id": "e256",
+      "word": "history",
+      "translation": "история",
+      "language": "en"
+    },
+    {
+      "id": "e257",
+      "word": "genealogy",
+      "translation": "генеалогия",
+      "language": "en"
+    },
+    {
+      "id": "e258",
+      "word": "languages",
+      "translation": "языки",
+      "language": "en"
+    },
+    {
+      "id": "e259",
+      "word": "linguistics",
+      "translation": "лингвистика",
+      "language": "en"
+    },
+    {
+      "id": "e260",
+      "word": "translation",
+      "translation": "перевод",
+      "language": "en"
+    },
+    {
+      "id": "e261",
+      "word": "travel",
+      "translation": "путешествия",
+      "language": "en"
+    },
+    {
+      "id": "e262",
+      "word": "tourism",
+      "translation": "туризм",
+      "language": "en"
+    },
+    {
+      "id": "e263",
+      "word": "backpacking",
+      "translation": "бэкпекинг",
+      "language": "en"
+    },
+    {
+      "id": "e264",
+      "word": "couchsurfing",
+      "translation": "каучсерфинг",
+      "language": "en"
+    },
+    {
+      "id": "e265",
+      "word": "hitchhiking",
+      "translation": "автостоп",
+      "language": "en"
+    },
+    {
+      "id": "e266",
+      "word": "road trips",
+      "translation": "автопутешествия",
+      "language": "en"
+    },
+    {
+      "id": "e267",
+      "word": "cruises",
+      "translation": "круизы",
+      "language": "en"
+    },
+    {
+      "id": "e268",
+      "word": "safaris",
+      "translation": "сафари",
+      "language": "en"
+    },
+    {
+      "id": "e269",
+      "word": "volunteering",
+      "translation": "волонтерство",
+      "language": "en"
+    },
+    {
+      "id": "e270",
+      "word": "charity",
+      "translation": "благотворительность",
+      "language": "en"
+    },
+    {
+      "id": "e271",
+      "word": "activism",
+      "translation": "активизм",
+      "language": "en"
+    },
+    {
+      "id": "e272",
+      "word": "politics",
+      "translation": "политика",
+      "language": "en"
+    },
+    {
+      "id": "e273",
+      "word": "debating",
+      "translation": "дебаты",
+      "language": "en"
+    },
+    {
+      "id": "e274",
+      "word": "public speaking",
+      "translation": "публичные выступления",
+      "language": "en"
+    },
+    {
+      "id": "e275",
+      "word": "toastmasters",
+      "translation": "ораторское искусство",
+      "language": "en"
+    },
+    {
+      "id": "e276",
+      "word": "networking",
+      "translation": "нетворкинг",
+      "language": "en"
+    },
+    {
+      "id": "e277",
+      "word": "socializing",
+      "translation": "общение",
+      "language": "en"
+    },
+    {
+      "id": "e278",
+      "word": "clubbing",
+      "translation": "посещение клубов",
+      "language": "en"
+    },
+    {
+      "id": "e279",
+      "word": "partying",
+      "translation": "вечеринки",
+      "language": "en"
+    },
+    {
+      "id": "e280",
+      "word": "dining out",
+      "translation": "походы в рестораны",
+      "language": "en"
+    },
+    {
+      "id": "e281",
+      "word": "gastronomy",
+      "translation": "гастрономия",
+      "language": "en"
+    },
+    {
+      "id": "e282",
+      "word": "wine tasting",
+      "translation": "дегустация вина",
+      "language": "en"
+    },
+    {
+      "id": "e283",
+      "word": "beer brewing",
+      "translation": "пивоварение",
+      "language": "en"
+    },
+    {
+      "id": "e284",
+      "word": "mixology",
+      "translation": "миксология",
+      "language": "en"
+    },
+    {
+      "id": "e285",
+      "word": "barista",
+      "translation": "бармен",
+      "language": "en"
+    },
+    {
+      "id": "e286",
+      "word": "coffee roasting",
+      "translation": "обжарка кофе",
+      "language": "en"
+    },
+    {
+      "id": "e287",
+      "word": "tea ceremony",
+      "translation": "чайная церемония",
+      "language": "en"
+    },
+    {
+      "id": "e288",
+      "word": "baking",
+      "translation": "выпечка",
+      "language": "en"
+    },
+    {
+      "id": "e289",
+      "word": "pastry",
+      "translation": "кондитерские изделия",
+      "language": "en"
+    },
+    {
+      "id": "e290",
+      "word": "cake decorating",
+      "translation": "украшение тортов",
+      "language": "en"
+    },
+    {
+      "id": "e291",
+      "word": "chocolate making",
+      "translation": "создание шоколада",
+      "language": "en"
+    },
+    {
+      "id": "e292",
+      "word": "cheese making",
+      "translation": "сыроделие",
+      "language": "en"
+    },
+    {
+      "id": "e293",
+      "word": "fermentation",
+      "translation": "ферментация",
+      "language": "en"
+    },
+    {
+      "id": "e294",
+      "word": "pickling",
+      "translation": "маринование",
+      "language": "en"
+    },
+    {
+      "id": "e295",
+      "word": "canning",
+      "translation": "консервирование",
+      "language": "en"
+    },
+    {
+      "id": "e296",
+      "word": "preserving",
+      "translation": "сохранение",
+      "language": "en"
+    },
+    {
+      "id": "e297",
+      "word": "gardening",
+      "translation": "садоводство",
+      "language": "en"
+    },
+    {
+      "id": "e298",
+      "word": "horticulture",
+      "translation": "ботаника",
+      "language": "en"
+    },
+    {
+      "id": "e299",
+      "word": "landscaping",
+      "translation": "ландшафтный дизайн",
+      "language": "en"
+    },
+    {
+      "id": "e300",
+      "word": "floristry",
+      "translation": "флористика",
+      "language": "en"
+    },
+    {
+      "id": "e301",
+      "word": "flower arranging",
+      "translation": "составление букетов",
+      "language": "en"
+    },
+    {
+      "id": "e302",
+      "word": "bonsai",
+      "translation": "бонсай",
+      "language": "en"
+    },
+    {
+      "id": "e303",
+      "word": "terrariums",
+      "translation": "террариумы",
+      "language": "en"
+    },
+    {
+      "id": "e304",
+      "word": "aquariums",
+      "translation": "аквариумы",
+      "language": "en"
+    },
+    {
+      "id": "e305",
+      "word": "fishkeeping",
+      "translation": "аквариумистика",
+      "language": "en"
+    },
+    {
+      "id": "e306",
+      "word": "pet care",
+      "translation": "уход за животными",
+      "language": "en"
+    },
+    {
+      "id": "e307",
+      "word": "dog training",
+      "translation": "дрессировка собак",
+      "language": "en"
+    },
+    {
+      "id": "e308",
+      "word": "cat shows",
+      "translation": "выставки кошек",
+      "language": "en"
+    },
+    {
+      "id": "e309",
+      "word": "horse riding",
+      "translation": "верховая езда",
+      "language": "en"
+    },
+    {
+      "id": "e310",
+      "word": "equestrian",
+      "translation": "конный спорт",
+      "language": "en"
+    },
+    {
+      "id": "e311",
+      "word": "falconry",
+      "translation": "соколиная охота",
+      "language": "en"
+    },
+    {
+      "id": "e312",
+      "word": "beekeeping",
+      "translation": "пчеловодство",
+      "language": "en"
+    },
+    {
+      "id": "e313",
+      "word": "farming",
+      "translation": "фермерство",
+      "language": "en"
+    },
+    {
+      "id": "e314",
+      "word": "homesteading",
+      "translation": "домашнее хозяйство",
+      "language": "en"
+    },
+    {
+      "id": "e315",
+      "word": "permaculture",
+      "translation": "пермакультура",
+      "language": "en"
+    },
+    {
+      "id": "e316",
+      "word": "foraging",
+      "translation": "собирательство",
+      "language": "en"
+    },
+    {
+      "id": "e317",
+      "word": "survival skills",
+      "translation": "навыки выживания",
+      "language": "en"
+    },
+    {
+      "id": "e318",
+      "word": "bushcraft",
+      "translation": "бушкрафт",
+      "language": "en"
+    },
+    {
+      "id": "e319",
+      "word": "scouting",
+      "translation": "скаутинг",
+      "language": "en"
+    },
+    {
+      "id": "e320",
+      "word": "orienteering",
+      "translation": "ориентирование",
+      "language": "en"
+    },
+    {
+      "id": "e321",
+      "word": "navigation",
+      "translation": "навигация",
+      "language": "en"
+    },
+    {
+      "id": "e322",
+      "word": "map reading",
+      "translation": "чтение карт",
+      "language": "en"
+    },
+    {
+      "id": "e323",
+      "word": "knots",
+      "translation": "узлы",
+      "language": "en"
+    },
+    {
+      "id": "e324",
+      "word": "fire building",
+      "translation": "разведение огня",
+      "language": "en"
+    },
+    {
+      "id": "e325",
+      "word": "shelter building",
+      "translation": "строительство укрытий",
+      "language": "en"
+    },
+    {
+      "id": "e326",
+      "word": "first aid",
+      "translation": "первая помощь",
+      "language": "en"
+    }
+  ]
+}

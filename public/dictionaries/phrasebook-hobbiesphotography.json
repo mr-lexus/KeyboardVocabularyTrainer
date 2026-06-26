@@ -1,0 +1,3007 @@
+{
+  "id": "phrasebook-hobbiesphotography",
+  "name": "Hobbies: Photography",
+  "description": "Phrasebook for Hobbies: Photography",
+  "entries": [
+    {
+      "id": "pb_hobbiesphotography_0_0",
+      "word": "He bought me a nice camera.",
+      "translation": "Он купил мне хороший фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_1",
+      "word": "Let's take a picture here.",
+      "translation": "Давайте здесь сфотографируем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_2",
+      "word": "You sent me your photo.",
+      "translation": "Ты отправила мне своё фото.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_3",
+      "word": "Where did you have your picture taken?",
+      "translation": "Где ты сфотографировался?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_4",
+      "word": "Here is their photo album.",
+      "translation": "Это их фотоальбом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_5",
+      "word": "Who took this picture?",
+      "translation": "Кто сделал этот снимок?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_6",
+      "word": "I took this picture.",
+      "translation": "Я сделал эту фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_7",
+      "word": "That's a nice picture.",
+      "translation": "Красивая фотография.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_8",
+      "word": "Give me Tom's picture.",
+      "translation": "Дай мне фотографию Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_9",
+      "word": "I had my photograph taken.",
+      "translation": "Меня сфотографировали.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_10",
+      "word": "Could you take our picture?",
+      "translation": "Ты не мог бы нас сфотографировать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_11",
+      "word": "Tom isn't in this picture.",
+      "translation": "Тома нет на этой фотографии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_12",
+      "word": "Show me Tom's picture.",
+      "translation": "Покажи мне фотографию Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_13",
+      "word": "I would like your picture.",
+      "translation": "Я бы хотел иметь твою фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_14",
+      "word": "This picture fascinates me.",
+      "translation": "Эта картина меня завораживает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_15",
+      "word": "Do you have a picture of Tom?",
+      "translation": "У Вас есть фотография Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_16",
+      "word": "She looked at the picture.",
+      "translation": "Она посмотрела на фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_17",
+      "word": "Let's take a picture.",
+      "translation": "Давайте сфотографируем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_18",
+      "word": "Look at this photo.",
+      "translation": "Посмотри на эту фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_19",
+      "word": "Tom's out of the picture.",
+      "translation": "Том не при делах.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_20",
+      "word": "Don't shoot the messenger.",
+      "translation": "Не стреляйте в гонца.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_21",
+      "word": "Thanks for the photo.",
+      "translation": "Спасибо за фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_22",
+      "word": "That's my sister's camera.",
+      "translation": "Это фотоаппарат моей сестры.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_23",
+      "word": "Tom showed Mary a picture.",
+      "translation": "Том показал Мэри фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_24",
+      "word": "Tom hated that photo.",
+      "translation": "Том ненавидел эту фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_25",
+      "word": "Take our picture.",
+      "translation": "Сфотографируй нас.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_26",
+      "word": "Tom took a picture of Mary.",
+      "translation": "Том сфотографировал Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_27",
+      "word": "I lent her my camera.",
+      "translation": "Я дал ей свою камеру.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_28",
+      "word": "Here's Tom's picture.",
+      "translation": "Вот фотография Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_29",
+      "word": "Don't shoot Tom.",
+      "translation": "Не стреляй в Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_30",
+      "word": "She showed me his album.",
+      "translation": "Она показала мне его альбом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_31",
+      "word": "Did you find another picture?",
+      "translation": "Вы нашли другую картинку?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_32",
+      "word": "It's an old photo of me.",
+      "translation": "Это моя старая фотография.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_33",
+      "word": "Let's take a group picture.",
+      "translation": "Давайте сделаем групповое фото.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_34",
+      "word": "I liked your picture.",
+      "translation": "Мне понравилась твоя фотография.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_35",
+      "word": "She bought an album for me.",
+      "translation": "Она купила мне альбом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_36",
+      "word": "Here's a picture of my baby.",
+      "translation": "Вот фото моего ребёнка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_37",
+      "word": "The picture is hung crooked.",
+      "translation": "Картина висит криво.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_38",
+      "word": "I didn't shoot Tom.",
+      "translation": "Я не стрелял в Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_39",
+      "word": "Tom criticized the photo.",
+      "translation": "Том раскритиковал фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_40",
+      "word": "The boat sank in a flash.",
+      "translation": "Лодка затонула в одночасье.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_41",
+      "word": "Could you take a photo of me?",
+      "translation": "Вы не могли бы меня сфотографировать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_42",
+      "word": "Tom wants you to shoot Mary.",
+      "translation": "Том хочет, чтобы ты выстрелил в Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_43",
+      "word": "She showed him my picture.",
+      "translation": "Она показала ему мою фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_44",
+      "word": "I will shoot.",
+      "translation": "Я буду стрелять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_45",
+      "word": "Tom showed me Mary's picture.",
+      "translation": "Том показал мне фотографию Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_46",
+      "word": "I like your profile picture.",
+      "translation": "Мне нравится твоя аватарка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_47",
+      "word": "I want this camera.",
+      "translation": "Хочу этот фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_48",
+      "word": "Take my picture.",
+      "translation": "Сними меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_0_49",
+      "word": "You have to focus.",
+      "translation": "Тебе надо сосредоточиться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_0",
+      "word": "Tom didn't shoot anyone.",
+      "translation": "Том ни в кого не стрелял.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_1",
+      "word": "How do you decide what to focus on?",
+      "translation": "Как вы решаете, на чем сосредоточиться?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_2",
+      "word": "Delete that picture.",
+      "translation": "Удали этот кадр.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_3",
+      "word": "We had our picture taken.",
+      "translation": "Мы сфотографировались.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_4",
+      "word": "Tom takes his camera everywhere.",
+      "translation": "Том всюду берёт с собой фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_5",
+      "word": "I sold the picture for 20,000 yen.",
+      "translation": "Я продал картину за двадцать тысяч иен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_6",
+      "word": "My album is here.",
+      "translation": "Мой альбом здесь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_7",
+      "word": "Tom sent me a picture of Mary.",
+      "translation": "Том прислал мне фотографию Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_8",
+      "word": "Tom showed Mary my picture.",
+      "translation": "Том показал Мэри мою фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_9",
+      "word": "Can I take a picture of you?",
+      "translation": "Можно Вас сфотографировать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_10",
+      "word": "Tom didn't even bring a camera.",
+      "translation": "Том даже фотоаппарат не принёс.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_11",
+      "word": "Who took the picture?",
+      "translation": "Кто сделал снимок?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_12",
+      "word": "That is the picture that he painted.",
+      "translation": "Это та картина, что он написал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_13",
+      "word": "They looked at the picture.",
+      "translation": "Они посмотрели на картину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_14",
+      "word": "We need a frame for this picture.",
+      "translation": "Нам нужна рамка для этой фотографии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_15",
+      "word": "He showed me his photograph album.",
+      "translation": "Он показал мне свой фотоальбом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_16",
+      "word": "Tom took Mary's picture.",
+      "translation": "Том сделал фотографию Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_17",
+      "word": "The landscape is unfamiliar to me.",
+      "translation": "Эта местность незнакома мне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_18",
+      "word": "I've seen this picture before.",
+      "translation": "Я уже раньше видел это изображение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_19",
+      "word": "Tom bought a camera from Mary.",
+      "translation": "Том купил у Мэри фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_20",
+      "word": "This photo was taken by Tom.",
+      "translation": "Эту фотографию сделал Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_21",
+      "word": "Tom installed a surveillance camera.",
+      "translation": "Том установил камеру слежения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_22",
+      "word": "Tom showed Mary John's photo.",
+      "translation": "Том показал Мэри фотографию Джона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_23",
+      "word": "The guards are going to shoot Tom.",
+      "translation": "Охранники будут стрелять в Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_24",
+      "word": "Tom took a picture of the flowers.",
+      "translation": "Том сфотографировал цветы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_25",
+      "word": "I tore the picture out of the album.",
+      "translation": "Я выдрал фотографию из альбома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_26",
+      "word": "Tom sent me his picture.",
+      "translation": "Том прислал мне его фото.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_27",
+      "word": "I don't want to have to shoot you.",
+      "translation": "Я не хочу, чтобы мне пришлось в тебя стрелять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_28",
+      "word": "I've seen that picture before.",
+      "translation": "Я уже видел эту фотографию раньше.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_29",
+      "word": "I wish I had had a camera then.",
+      "translation": "Жаль, что у меня не было тогда фотоаппарата.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_30",
+      "word": "This is a picture that I drew.",
+      "translation": "Это картина, которую я нарисовал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_31",
+      "word": "I bought a good camera.",
+      "translation": "Я купил хороший фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_32",
+      "word": "We'll capture them.",
+      "translation": "Мы их поймаем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_33",
+      "word": "I've changed my profile picture.",
+      "translation": "Я поменял фотографию у себя в профиле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_34",
+      "word": "I bought this camera for 35,000 yen.",
+      "translation": "Я купил этот фотоаппарат за тридцать пять тысяч иен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_35",
+      "word": "I bought a camera not long ago.",
+      "translation": "Я недавно купил камеру.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_36",
+      "word": "Adjust the focus of the microscope.",
+      "translation": "Сфокусируйте микроскоп.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_37",
+      "word": "She showed us her mother's photo.",
+      "translation": "Она показала нам фотографию своей матери.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_38",
+      "word": "Do you see the portrait?",
+      "translation": "Ты видишь портрет?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_39",
+      "word": "Tom showed Mary a picture he drew.",
+      "translation": "Том показал Мэри рисунок, который он нарисовал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_40",
+      "word": "Tom found a picture of Mary and John.",
+      "translation": "Том нашёл фотографию Мэри и Джона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_41",
+      "word": "There's an album on the desk.",
+      "translation": "На столе лежит альбом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_42",
+      "word": "Tom turned and faced the camera.",
+      "translation": "Том повернулся и посмотрел в камеру.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_43",
+      "word": "This picture must've been taken in 1964.",
+      "translation": "Эта фотография, должно быть, была сделана в 1964 году.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_44",
+      "word": "Will you show me your album?",
+      "translation": "Не покажешь мне свой альбом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_45",
+      "word": "Do you know where he bought his camera?",
+      "translation": "Ты знаешь, где он купил свой фотоаппарат?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_46",
+      "word": "How do you use this camera?",
+      "translation": "Как ты пользуешься этой камерой?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_47",
+      "word": "When did you take this picture?",
+      "translation": "Когда ты сделал эту фотографию?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_48",
+      "word": "Do you have Stevie Wonder's new album?",
+      "translation": "У вас есть новый альбом Стиви Уандера?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_1_49",
+      "word": "Who was this picture painted by?",
+      "translation": "Кем была написана эта картина?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_0",
+      "word": "That's what we need to focus on.",
+      "translation": "Вот на чём мы должны сосредоточиться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_1",
+      "word": "Tom posed for a picture.",
+      "translation": "Том позировал для фотографии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_2",
+      "word": "What do you see in the picture?",
+      "translation": "Что вы видите на картине?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_3",
+      "word": "Tom looked at the picture carefully.",
+      "translation": "Том внимательно посмотрел на фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_4",
+      "word": "Tom didn't like this picture.",
+      "translation": "Тому не нравилась эта фотография.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_5",
+      "word": "Tom said he had deleted the picture.",
+      "translation": "Том сказал, что удалил фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_6",
+      "word": "Tom began to shoot.",
+      "translation": "Том начал стрелять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_7",
+      "word": "Do you know whose portrait this is?",
+      "translation": "Вы знаете, чей это портрет?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_8",
+      "word": "That's not Tom in this picture.",
+      "translation": "На этой фотографии не Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_9",
+      "word": "Have a look at that picture.",
+      "translation": "Посмотри на эту картину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_10",
+      "word": "This is a picture of Tom and Mary.",
+      "translation": "Это фотография Тома и Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_11",
+      "word": "What did you take a picture of?",
+      "translation": "Что вы сфотографировали?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_12",
+      "word": "I bought a camera.",
+      "translation": "Я купил фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_13",
+      "word": "She showed me her album.",
+      "translation": "Она показала мне свой альбом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_14",
+      "word": "I compared this picture with that one.",
+      "translation": "Я сравнил эту картину с той.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_15",
+      "word": "Tom said that he had deleted the picture.",
+      "translation": "Том сказал, что удалил фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_16",
+      "word": "We thanked Tom for taking our picture.",
+      "translation": "Мы поблагодарили Тома за то, что он нас сфотографировал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_17",
+      "word": "Tom tore Mary's picture up.",
+      "translation": "Том порвал фотографию Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_18",
+      "word": "I'm the only one who has a camera.",
+      "translation": "Я единственный, у кого есть фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_19",
+      "word": "Tom bought them each a camera.",
+      "translation": "Том купил им каждому по фотоаппарату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_20",
+      "word": "I brought a picture of you.",
+      "translation": "Я принёс твою фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_21",
+      "word": "He secretly showed me her picture.",
+      "translation": "Он тайком показал мне её фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_22",
+      "word": "Tom looked at Mary's picture.",
+      "translation": "Том посмотрел на фотографию Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_23",
+      "word": "I've just changed my profile picture.",
+      "translation": "Я только что поменял аватарку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_24",
+      "word": "How many girls are in this picture?",
+      "translation": "Сколько девочек на этой фотографии?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_25",
+      "word": "Focus on the details.",
+      "translation": "Сосредоточьтесь на подробностях.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_26",
+      "word": "Whose camera is this?",
+      "translation": "Чья это камера?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_27",
+      "word": "I'm the one who painted this picture.",
+      "translation": "Это я нарисовал эту картину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_28",
+      "word": "This is a good camera.",
+      "translation": "Это хороший фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_29",
+      "word": "The race was a photo finish.",
+      "translation": "Исход гонки решил фотофиниш.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_30",
+      "word": "Why did you shoot Tom?",
+      "translation": "Почему ты застрелил Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_31",
+      "word": "I painted a picture for you.",
+      "translation": "Я нарисовал для тебя картину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_32",
+      "word": "I bought this camera for 25,000 yen.",
+      "translation": "Я купил эту камеру за 25000 иен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_33",
+      "word": "Tom bought a camera for me.",
+      "translation": "Том купил мне фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_34",
+      "word": "Tom has released a new album.",
+      "translation": "Том выпустил новый альбом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_35",
+      "word": "This is the only picture I have of Tom.",
+      "translation": "Это единственная фотография Тома, которая у меня есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_36",
+      "word": "Tom sent Mary his picture.",
+      "translation": "Том послал Мэри свою картину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_37",
+      "word": "I found the picture Tom was looking for.",
+      "translation": "Я нашёл фотографию, которую Том искал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_38",
+      "word": "Tom took another look at the picture.",
+      "translation": "Том ещё раз взглянул на фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_39",
+      "word": "Do you know the boy in this picture?",
+      "translation": "Вы знаете мальчика на этой фотографии?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_40",
+      "word": "I found the picture you were looking for.",
+      "translation": "Я нашёл фотографию, которую ты искал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_41",
+      "word": "Tom asked me if I had a camera.",
+      "translation": "Том спросил меня, есть ли у меня фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_42",
+      "word": "Do you know how to use this camera?",
+      "translation": "Вы знаете, как пользоваться этой камерой?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_43",
+      "word": "You're missing the bigger picture.",
+      "translation": "Ты не замечаешь более важного.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_44",
+      "word": "Tom bought Mary a nice camera.",
+      "translation": "Том купил Мэри прекрасную камеру.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_45",
+      "word": "Can you show me that picture?",
+      "translation": "Можешь показать мне ту фотографию?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_46",
+      "word": "I don't know when this photo was taken.",
+      "translation": "Я не знаю, когда была сделана эта фотография.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_47",
+      "word": "I used to have a picture of Tom.",
+      "translation": "У меня раньше была фотография Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_48",
+      "word": "That's an old picture.",
+      "translation": "Это старая фотография.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_2_49",
+      "word": "Tom showed his photograph album to me.",
+      "translation": "Том показал мне свой фотоальбом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_0",
+      "word": "One more step and I'll shoot.",
+      "translation": "Ещё шаг, и стреляю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_1",
+      "word": "Tom showed his photo album to me.",
+      "translation": "Том показал мне свой фотоальбом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_2",
+      "word": "Tom burned Mary's picture.",
+      "translation": "Том сжёг фотографию Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_3",
+      "word": "Is there a picture of Tom in that album?",
+      "translation": "В этом альбоме есть фотография Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_4",
+      "word": "This camera is small, but very good.",
+      "translation": "Этот фотоаппарат маленький, но очень хороший.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_5",
+      "word": "I sent you a photo.",
+      "translation": "Я послал тебе фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_6",
+      "word": "How did the photo session go?",
+      "translation": "Как прошла фотосессия?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_7",
+      "word": "Here's a photo of Tom.",
+      "translation": "Вот фотография Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_8",
+      "word": "What have you done with the camera?",
+      "translation": "Что ты сделал с камерой?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_9",
+      "word": "Tom Jackson has released a new album.",
+      "translation": "Том Джексон выпустил новый альбом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_10",
+      "word": "He has the same camera as I have.",
+      "translation": "У него такой же фотоаппарат, как у меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_11",
+      "word": "Look at that picture on the desk.",
+      "translation": "Посмотри на эту фотографию на столе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_12",
+      "word": "She showed her album to me.",
+      "translation": "Она показала мне свой альбом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_13",
+      "word": "Don't shoot him.",
+      "translation": "Не стреляй в него.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_14",
+      "word": "I found the photo you were looking for.",
+      "translation": "Я нашёл фотографию, которую ты искал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_15",
+      "word": "Tom is a famous portrait painter.",
+      "translation": "Том знаменитый портретист.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_16",
+      "word": "I don't have a picture of Tom.",
+      "translation": "У меня нет фотографии Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_17",
+      "word": "I took Tom's picture.",
+      "translation": "Я сфотографировал Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_18",
+      "word": "I'll shoot you.",
+      "translation": "Я пристрелю тебя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_19",
+      "word": "This photo was taken in Boston.",
+      "translation": "Эта фотография была сделана в Бостоне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_20",
+      "word": "Tom was the one who took this picture.",
+      "translation": "Это Том сделал этот снимок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_21",
+      "word": "I don't like having my picture taken.",
+      "translation": "Я не люблю фотографироваться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_22",
+      "word": "Don't forget to take a camera with you.",
+      "translation": "Не забудь взять с собою фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_23",
+      "word": "Where did you take this picture?",
+      "translation": "Где ты сделал эту фотографию?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_24",
+      "word": "I took this photo.",
+      "translation": "Я сделал эту фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_25",
+      "word": "He showed his photograph album to me.",
+      "translation": "Он показал мне свой фотоальбом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_26",
+      "word": "That picture was taken three years ago.",
+      "translation": "Та фотография была сделана три года назад.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_27",
+      "word": "Dad bought a camera.",
+      "translation": "Папа купил фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_28",
+      "word": "Tom forgot to bring his camera.",
+      "translation": "Том забыл принести свой фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_29",
+      "word": "Tom showed me his photograph album.",
+      "translation": "Том показал мне свой фотоальбом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_30",
+      "word": "I tried to focus my attention on reading.",
+      "translation": "Я попробовал сосредоточиться на чтении.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_31",
+      "word": "Here's a picture of you.",
+      "translation": "Вот ваша фотография.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_32",
+      "word": "I bought a camera for 30 dollars.",
+      "translation": "Я купил фотоаппарат за тридцать долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_33",
+      "word": "How many photos are in this album?",
+      "translation": "Сколько фотографий в этом альбоме?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_34",
+      "word": "That picture was taken by Tom.",
+      "translation": "Эта фотография была сделана Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_35",
+      "word": "Tom looked at the picture and smiled.",
+      "translation": "Том посмотрел на фотографию и улыбнулся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_36",
+      "word": "Tom showed me how to use his camera.",
+      "translation": "Том показал мне, как пользоваться его фотоаппаратом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_37",
+      "word": "I can't focus on anything.",
+      "translation": "Я не могу ни на чём сосредоточиться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_38",
+      "word": "What did you do with your camera?",
+      "translation": "Что ты сделал со своей камерой?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_39",
+      "word": "Tom asked me who had painted the picture.",
+      "translation": "Том спросил меня, кто нарисовал картинку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_40",
+      "word": "This is the picture Tom painted.",
+      "translation": "Это картина, которую нарисовал Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_41",
+      "word": "This picture was taken three years ago.",
+      "translation": "Эта фотография была сделана три года назад.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_42",
+      "word": "Take a look at this picture.",
+      "translation": "Взгляните на эту фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_43",
+      "word": "Tom is working on his third album.",
+      "translation": "Том работает над своим третьим альбомом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_44",
+      "word": "It isn't worth repairing this camera.",
+      "translation": "Не стоит чинить этот фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_45",
+      "word": "I don't have a picture of you.",
+      "translation": "У меня нет твоей фотографии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_46",
+      "word": "Tom lent his camera to Mary.",
+      "translation": "Том одолжил свою камеру Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_47",
+      "word": "Have you ever seen the man in this photo?",
+      "translation": "Вы когда-нибудь видели человека с этой фотографии?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_48",
+      "word": "Where was this photo taken?",
+      "translation": "Где была сделана эта фотография?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_3_49",
+      "word": "I bought a camera for thirty dollars.",
+      "translation": "Я купил фотоаппарат за тридцать долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_0",
+      "word": "Tom gave Mary the picture.",
+      "translation": "Том дал фотографию Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_1",
+      "word": "Somebody stole my camera.",
+      "translation": "Кто-то украл мой фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_2",
+      "word": "This bike has an aluminum frame.",
+      "translation": "У этого велосипеда алюминиевая рама.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_3",
+      "word": "He asked me who had painted the picture.",
+      "translation": "Он спросил меня, кем была нарисована картина.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_4",
+      "word": "Is this really you in this picture?",
+      "translation": "Это действительно ты на фотографии?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_5",
+      "word": "Tom isn't the one who took this picture.",
+      "translation": "Эту фотографию сделал не Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_6",
+      "word": "It was all over in a flash.",
+      "translation": "В одно мгновение всё было кончено.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_7",
+      "word": "I want a picture.",
+      "translation": "Я хочу фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_8",
+      "word": "If Tom doesn't surrender, shoot him.",
+      "translation": "Если Том не сдастся, стреляйте в него.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_9",
+      "word": "The picture is blurry.",
+      "translation": "Картинка нечёткая.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_10",
+      "word": "Show me the picture.",
+      "translation": "Покажи мне фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_11",
+      "word": "The picture was painted by Picasso.",
+      "translation": "Картина написана Пикассо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_12",
+      "word": "This picture reminds me of my childhood.",
+      "translation": "Эта картинка напоминает мне о моём детстве.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_13",
+      "word": "I pointed my camera at her.",
+      "translation": "Я направил свою камеру на неё.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_14",
+      "word": "Tom just changed his profile picture.",
+      "translation": "Том только что поменял фотографию в своём профиле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_15",
+      "word": "Try to focus.",
+      "translation": "Постарайся сосредоточиться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_16",
+      "word": "Tom drew a picture of a dolphin.",
+      "translation": "Том нарисовал картину с дельфином.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_17",
+      "word": "Do you know this man in the picture?",
+      "translation": "Вы знаете этого человека на картине?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_18",
+      "word": "Tom wanted Mary to take his picture.",
+      "translation": "Том хотел, чтобы Мэри его сфотографировала.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_19",
+      "word": "I would like to get a camera like this.",
+      "translation": "Я бы хотел такую же камеру.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_20",
+      "word": "Tom gave the picture to Mary.",
+      "translation": "Том дал фотографию Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_21",
+      "word": "Could you take a photo of us?",
+      "translation": "Ты не мог бы нас сфотографировать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_22",
+      "word": "Tom didn't like this photo.",
+      "translation": "Тому не нравилась эта фотография.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_23",
+      "word": "He took pictures of me with his camera.",
+      "translation": "Он снял меня на свой фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_24",
+      "word": "Tom asked Mary who painted the picture.",
+      "translation": "Том спросил Мэри, кто написал картину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_25",
+      "word": "I'm not going to shoot you.",
+      "translation": "Я не собираюсь в тебя стрелять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_26",
+      "word": "It's a good camera.",
+      "translation": "Это хороший фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_27",
+      "word": "Tom showed Mary a picture of John.",
+      "translation": "Том показал Мэри фотографию Джона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_28",
+      "word": "Look at this photograph.",
+      "translation": "Посмотри на эту фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_29",
+      "word": "Tom took a picture.",
+      "translation": "Том сделал фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_30",
+      "word": "Go ahead, shoot me.",
+      "translation": "Давай, выстрели в меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_31",
+      "word": "Don't forget to bring the camera with you.",
+      "translation": "Не забудь взять фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_32",
+      "word": "Tom handed Mary the photo.",
+      "translation": "Том передал Мэри фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_33",
+      "word": "Tom showed the picture to Mary.",
+      "translation": "Том показал фотографию Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_34",
+      "word": "Tom showed Mary a photo of John.",
+      "translation": "Том показал Мэри фотографию Джона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_35",
+      "word": "Tom found an old camera in the attic.",
+      "translation": "Том нашёл на чердаке старый фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_36",
+      "word": "Do you know who took this picture?",
+      "translation": "Вы знаете, кто сделал этот снимок?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_37",
+      "word": "There's a photo of Tom on Mary's desk.",
+      "translation": "У Мэри на столе стоит фотография Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_38",
+      "word": "Tom bought Mary a camera.",
+      "translation": "Том купил Мэри фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_39",
+      "word": "We must focus.",
+      "translation": "Мы должны сосредоточиться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_40",
+      "word": "He has a camera.",
+      "translation": "У него есть камера.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_41",
+      "word": "It's a very old picture.",
+      "translation": "Это очень старая фотография.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_42",
+      "word": "Could you take a picture of me?",
+      "translation": "Вы не могли бы меня сфотографировать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_43",
+      "word": "Tom changed his profile picture.",
+      "translation": "Том поменял аватарку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_44",
+      "word": "Tom hasn't seen this picture yet.",
+      "translation": "Том ещё не видел эту фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_45",
+      "word": "He showed me his album.",
+      "translation": "Он показал мне свой альбом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_46",
+      "word": "Don't shoot. I'm coming out.",
+      "translation": "Не стреляйте. Я выхожу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_47",
+      "word": "Can I take a picture with you?",
+      "translation": "Можно мне с вами сфотографироваться?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_48",
+      "word": "Focus on your breathing.",
+      "translation": "Сосредоточьтесь на своём дыхании.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_4_49",
+      "word": "Don't show me her picture anymore.",
+      "translation": "Не показывай мне больше её фото.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_0",
+      "word": "Tom looked at the photograph.",
+      "translation": "Том посмотрел на фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_1",
+      "word": "I don't need a camera.",
+      "translation": "Фотоаппарат мне не нужен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_2",
+      "word": "Tom deleted the picture.",
+      "translation": "Том удалил фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_3",
+      "word": "This is the only picture of us together.",
+      "translation": "Это единственная фотография, где мы вместе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_4",
+      "word": "It happened in a flash.",
+      "translation": "Это случилось в одно мгновенье.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_5",
+      "word": "Tom has a nice camera.",
+      "translation": "У Тома хороший фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_6",
+      "word": "Let's get a picture of us together.",
+      "translation": "Давайте все вместе сфотографируемся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_7",
+      "word": "I drew a picture of a pony.",
+      "translation": "Я нарисовал пони.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_8",
+      "word": "Take another picture.",
+      "translation": "Сделай ещё один снимок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_9",
+      "word": "The girl in the photo is smiling.",
+      "translation": "Девочка на фотографии улыбается.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_10",
+      "word": "Do you know who painted this picture?",
+      "translation": "Ты знаешь, кто нарисовал эту картину?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_11",
+      "word": "This picture is from three years ago.",
+      "translation": "Этой фотографии три года.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_12",
+      "word": "I'm going to shoot.",
+      "translation": "Я буду стрелять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_13",
+      "word": "Can you take a photo of us?",
+      "translation": "Вы можете нас сфотографировать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_14",
+      "word": "Whose photo is this?",
+      "translation": "Чьё это фото?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_15",
+      "word": "Do you know when this picture was taken?",
+      "translation": "Ты знаешь, когда была сделана эта фотография?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_16",
+      "word": "I like this camera.",
+      "translation": "Мне нравится этот фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_17",
+      "word": "Tom drew a picture of a squirrel.",
+      "translation": "Том нарисовал белку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_18",
+      "word": "What did Tom take a picture of?",
+      "translation": "Что Том сфотографировал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_19",
+      "word": "Do you know the boy in the picture?",
+      "translation": "Вам знаком мальчик на этом фото?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_20",
+      "word": "Look at this picture.",
+      "translation": "Посмотри на эту картину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_21",
+      "word": "He showed me how to use this camera.",
+      "translation": "Он показал мне, как пользоваться этой камерой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_22",
+      "word": "I asked Tom to take my picture.",
+      "translation": "Я попросил Тома меня сфотографировать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_23",
+      "word": "Do you recognize the man in this photo?",
+      "translation": "Вы узнаёте мужчину на этой фотографии?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_24",
+      "word": "The man in that picture isn't Tom.",
+      "translation": "Человек на этой фотографии - не Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_25",
+      "word": "Write something about this picture.",
+      "translation": "Напиши что-нибудь об этой фотографии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_26",
+      "word": "I have a nice camera.",
+      "translation": "У меня есть хорошая камера.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_27",
+      "word": "I bought myself a new camera.",
+      "translation": "Я купил себе новый фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_28",
+      "word": "Tom is going to shoot Mary.",
+      "translation": "Том собирается выстрелить в Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_29",
+      "word": "Tom has a good camera.",
+      "translation": "У Тома хороший фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_30",
+      "word": "Have you seen the man in this picture?",
+      "translation": "Вы видели человека, который изображён на этой фотографии?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_31",
+      "word": "This is my sister's camera.",
+      "translation": "Это камера моей сестры.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_32",
+      "word": "Will you show me the picture?",
+      "translation": "Ты покажешь мне фотографию?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_33",
+      "word": "Tom will shoot.",
+      "translation": "Том выстрелит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_34",
+      "word": "Tom didn't recognize anyone in the photo.",
+      "translation": "Том никого на фотографии не узнал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_35",
+      "word": "Tom bought the same camera that Mary has.",
+      "translation": "Том купил тот же фотоаппарат, что у Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_36",
+      "word": "Tom hasn't seen the picture yet.",
+      "translation": "Том ещё не видел фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_37",
+      "word": "I don't like this photo.",
+      "translation": "Я не люблю эту фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_38",
+      "word": "That's a good picture.",
+      "translation": "Хорошая фотография.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_39",
+      "word": "He is the boy who painted this picture.",
+      "translation": "Он тот мальчик, который нарисовал эту картину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_40",
+      "word": "Did you see that flash of lightning?",
+      "translation": "Вы видели, как блеснула молния?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_41",
+      "word": "He took a picture.",
+      "translation": "Он сделал снимок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_42",
+      "word": "Tom took out his camera.",
+      "translation": "Том достал фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_43",
+      "word": "Can you identify the man in this picture?",
+      "translation": "Вы узнаёте человека на картинке?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_44",
+      "word": "Tom wasn't able to shoot the deer.",
+      "translation": "Том не смог застрелить оленя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_45",
+      "word": "I have a new camera I want you to see.",
+      "translation": "У меня есть новый фотоаппарат, который я хочу показать вам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_46",
+      "word": "They were going to shoot Tom.",
+      "translation": "Они собирались застрелить Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_47",
+      "word": "We have to focus.",
+      "translation": "Нам надо сосредоточиться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_48",
+      "word": "Leave my camera alone.",
+      "translation": "Оставь мою камеру в покое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_5_49",
+      "word": "Can you tell me who painted this picture?",
+      "translation": "Вы можете сказать мне, кто написал эту картину?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_0",
+      "word": "Can you take a picture of us?",
+      "translation": "Можете нас сфотографировать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_1",
+      "word": "He secretly showed me her photograph.",
+      "translation": "Он тайком показал мне её фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_2",
+      "word": "I was fifteen years old in this picture.",
+      "translation": "На этой фотографии мне пятнадцать лет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_3",
+      "word": "They released a new album.",
+      "translation": "Они выпустили новый альбом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_4",
+      "word": "I take my camera with me wherever I go.",
+      "translation": "Я везде ношу с собой камеру.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_5",
+      "word": "I bought the same camera as you have.",
+      "translation": "Я купил такую же камеру, как у тебя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_6",
+      "word": "We need to take a picture.",
+      "translation": "Нам нужно сделать снимок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_7",
+      "word": "Will you show me how to use this camera?",
+      "translation": "Ты покажешь мне, как пользоваться этим фотоаппаратом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_8",
+      "word": "She is drawing a picture.",
+      "translation": "Она рисует картину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_9",
+      "word": "Tom bought a camera for 500 dollars.",
+      "translation": "Том купил фотоаппарат за пятьсот долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_10",
+      "word": "Did she show you the picture?",
+      "translation": "Она показала тебе фотографию?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_11",
+      "word": "Don't shoot until I tell you to.",
+      "translation": "Не стреляй, пока я тебе не скажу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_12",
+      "word": "Tom bought a camera and a tripod.",
+      "translation": "Том купил фотоаппарат и штатив.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_13",
+      "word": "I don't have a camera.",
+      "translation": "У меня нет камеры.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_14",
+      "word": "I will shoot him.",
+      "translation": "Я пристрелю его.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_15",
+      "word": "I'm the one who took this picture.",
+      "translation": "Это я снимал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_16",
+      "word": "Tom bought a camera for Mary.",
+      "translation": "Том купил Мэри фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_17",
+      "word": "Here's my album.",
+      "translation": "Вот мой альбом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_18",
+      "word": "Don't you want to see a picture of Tom?",
+      "translation": "Не хочешь посмотреть на фотографию Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_19",
+      "word": "I bought the same camera that Tom has.",
+      "translation": "Я купил такой же фотоаппарат, как у Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_20",
+      "word": "Adjust the microscope's focus.",
+      "translation": "Наведи микроскоп на резкость.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_21",
+      "word": "I took the photo.",
+      "translation": "Я сделал фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_22",
+      "word": "My camera is different from yours.",
+      "translation": "Моя камера не похожа на твою.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_23",
+      "word": "Did you take their picture?",
+      "translation": "Ты их снял?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_24",
+      "word": "Let's see if we can get someone to take our picture.",
+      "translation": "Посмотрим, найдётся ли кто-нибудь, чтобы нас сфотографировать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_25",
+      "word": "I don't want to shoot.",
+      "translation": "Я не хочу стрелять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_26",
+      "word": "Is this a photo of you?",
+      "translation": "Это ты на фотографии?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_27",
+      "word": "Don't move, or I'll shoot you.",
+      "translation": "Не двигайся, или я тебя пристрелю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_28",
+      "word": "I've bought the same camera as you have.",
+      "translation": "Я купил такую же камеру, как у тебя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_29",
+      "word": "I'll give you this camera.",
+      "translation": "Я дам вам этот фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_30",
+      "word": "Tom has a picture he wants to show Mary.",
+      "translation": "У Тома есть фотография, которую он хочет показать Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_31",
+      "word": "I changed my profile picture.",
+      "translation": "Я поменял фотографию в моём профиле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_32",
+      "word": "I got a new camera.",
+      "translation": "У меня новый фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_33",
+      "word": "They shoot horses, don't they?",
+      "translation": "Они что, стреляют в лошадей?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_34",
+      "word": "This is a picture of Tom when he was a kid.",
+      "translation": "Это фотография Тома в детстве.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_35",
+      "word": "Did you take a picture of them?",
+      "translation": "Ты их снял?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_36",
+      "word": "Here's a picture of Tom.",
+      "translation": "Вот фотография Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_37",
+      "word": "This is a picture of my drawing.",
+      "translation": "Это фотография моего рисунка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_38",
+      "word": "Put your camera away.",
+      "translation": "Убери фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_39",
+      "word": "Tom deleted every picture he had of Mary.",
+      "translation": "Том удалил все фотографии Мэри, которые у него были.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_40",
+      "word": "Can you delete this photo?",
+      "translation": "Ты можешь удалить эту фотографию?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_41",
+      "word": "I have a camera.",
+      "translation": "У меня есть фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_42",
+      "word": "Look at that picture.",
+      "translation": "Посмотри на эту картину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_43",
+      "word": "Look at the picture.",
+      "translation": "Посмотри на картину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_44",
+      "word": "This photo was taken in Boston three years ago.",
+      "translation": "Эта фотография была сделана в Бостоне три года назад.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_45",
+      "word": "I remember this photo.",
+      "translation": "Я помню эту фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_46",
+      "word": "Do you know the man in this picture?",
+      "translation": "Ты знаешь мужчину на этой фотографии?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_47",
+      "word": "Everyone posed for a picture.",
+      "translation": "Все позировали для фотографии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_48",
+      "word": "Did you shoot Tom?",
+      "translation": "Ты стрелял в Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_6_49",
+      "word": "Tom sat beside Mary and opened the photo album.",
+      "translation": "Том сел рядом с Мэри и раскрыл фотоальбом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_0",
+      "word": "Have you seen my camera?",
+      "translation": "Ты видел мой фотоаппарат?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_1",
+      "word": "How many times did you shoot?",
+      "translation": "Сколько раз ты выстрелил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_2",
+      "word": "I took a picture.",
+      "translation": "Я сделал снимок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_3",
+      "word": "Tom hates this picture.",
+      "translation": "Том терпеть не может эту фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_4",
+      "word": "I know who painted this picture.",
+      "translation": "Я знаю, кто написал эту картину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_5",
+      "word": "This picture was taken in Boston.",
+      "translation": "Это было снято в Бостоне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_6",
+      "word": "Tom stole my camera.",
+      "translation": "Том украл у меня фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_7",
+      "word": "They would capture as many people as possible.",
+      "translation": "Они захватывали как можно больше людей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_8",
+      "word": "You're the only one who has a camera.",
+      "translation": "Ты единственный, у кого есть фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_9",
+      "word": "Tom bought a camera to give to Mary.",
+      "translation": "Том купил камеру, чтобы подарить её Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_10",
+      "word": "Will you show me your photo album?",
+      "translation": "Вы покажете мне свой фотоальбом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_11",
+      "word": "How many girls are there in this picture?",
+      "translation": "Сколько девушек на этой картине?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_12",
+      "word": "Tom colored the picture.",
+      "translation": "Том раскрасил картинку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_13",
+      "word": "Tom is the one who drew this picture.",
+      "translation": "Эту картину нарисовал Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_14",
+      "word": "I brought a picture of Tom.",
+      "translation": "Я принесла фотографию Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_15",
+      "word": "Tom stared at Mary's photo.",
+      "translation": "Том пристально разглядывал фотографию Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_16",
+      "word": "Where was this picture taken?",
+      "translation": "Где была сделана эта фотография?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_17",
+      "word": "Tom bought a camera for $300.",
+      "translation": "Том купил камеру за 300 долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_18",
+      "word": "Tom had his picture taken.",
+      "translation": "Тома сфотографировали.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_19",
+      "word": "Tom snapped a picture.",
+      "translation": "Том сделал снимок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_20",
+      "word": "I'm not the one who took this picture.",
+      "translation": "Это не я снимал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_21",
+      "word": "This photo was taken three days ago.",
+      "translation": "Эта фотография была снята три дня назад.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_22",
+      "word": "Tom doesn't want his picture taken.",
+      "translation": "Том не хочет, чтобы его фотографировали.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_23",
+      "word": "Have you ever seen the person in this photo?",
+      "translation": "Вы видели когда-нибудь человека с этой фотографии?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_24",
+      "word": "This is a picture of her.",
+      "translation": "Это её фотография.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_25",
+      "word": "The image isn't in focus.",
+      "translation": "Изображение не в фокусе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_26",
+      "word": "Tom took a picture of the cows.",
+      "translation": "Том сфотографировал коров.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_27",
+      "word": "Glue the photograph to your application form.",
+      "translation": "Приклейте фотографию к вашему бланку заявления.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_28",
+      "word": "Tom asked Mary who had given her the picture.",
+      "translation": "Том спросил Мэри, кто дал ей фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_29",
+      "word": "This is a picture of me when I was your age.",
+      "translation": "На этой фотографии я в твоём возрасте.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_30",
+      "word": "Don't touch my camera.",
+      "translation": "Не трогай мой фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_31",
+      "word": "I just want to take a picture.",
+      "translation": "Я лишь хочу сфотографировать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_32",
+      "word": "I looked at the photograph.",
+      "translation": "Я посмотрел на фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_33",
+      "word": "Is Tom in the picture?",
+      "translation": "Том на фотографии есть?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_34",
+      "word": "He secretly showed me her photo.",
+      "translation": "Он тайком показал мне её фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_35",
+      "word": "Take a picture of the kids with Santa Claus.",
+      "translation": "Сфотографируй детей с Дедом Морозом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_36",
+      "word": "Do you recognize the person in this picture?",
+      "translation": "Ты узнаёшь человека на этой фотографии?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_37",
+      "word": "You're not going to shoot me, are you?",
+      "translation": "Ты же не будешь в меня стрелять?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_38",
+      "word": "We need to look at the big picture.",
+      "translation": "Мы должны смотреть на всю картину в целом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_39",
+      "word": "Tom showed us a picture of Mary.",
+      "translation": "Том показал нам фотографию Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_40",
+      "word": "This is the most recent picture of Tom I have.",
+      "translation": "Это самая свежая фотография Тома, что у меня есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_41",
+      "word": "Look at this picture again.",
+      "translation": "Посмотрите ещё раз на эту картинку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_42",
+      "word": "This is a picture of one of my dogs.",
+      "translation": "Это фотография одной из моих собак.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_43",
+      "word": "We used to shoot hoops together.",
+      "translation": "Мы когда-то играли в баскетбол вместе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_44",
+      "word": "I bought a new camera.",
+      "translation": "Я купил новый фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_45",
+      "word": "Who drew this picture?",
+      "translation": "Кто нарисовал эту картину?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_46",
+      "word": "This is the only camera I've got.",
+      "translation": "Это единственный фотоаппарат, который у меня есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_47",
+      "word": "I looked at the picture.",
+      "translation": "Я посмотрел на картину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_48",
+      "word": "I took my camera along.",
+      "translation": "Я взял с собой фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_7_49",
+      "word": "Don't make me shoot you.",
+      "translation": "Не заставляй меня стрелять в тебя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_0",
+      "word": "We need to focus on just one thing.",
+      "translation": "Мы должны сосредоточиться только на одном.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_1",
+      "word": "I can teach you how to shoot.",
+      "translation": "Я могу научить тебя стрелять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_2",
+      "word": "I took a picture of the schedule.",
+      "translation": "Я сфотографировал расписание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_3",
+      "word": "Tom showed me his picture.",
+      "translation": "Том показал мне свою фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_4",
+      "word": "Tom bought a new camera.",
+      "translation": "Том купил новый фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_5",
+      "word": "Did you see my camera?",
+      "translation": "Ты видел мой фотоаппарат?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_6",
+      "word": "I don't like to have my picture taken.",
+      "translation": "Я не люблю фотографироваться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_7",
+      "word": "I lent Tom my camera.",
+      "translation": "Я одолжил Тому свой фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_8",
+      "word": "Let's get a picture of us together for my mom.",
+      "translation": "Давайте сфотографируемся вместе для моей мамы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_9",
+      "word": "Tom wasn't the one who painted that picture.",
+      "translation": "Эту картину нарисовал не Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_10",
+      "word": "He was shown the photo by her.",
+      "translation": "Она показала ему фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_11",
+      "word": "You look different than your picture.",
+      "translation": "Ты в жизни не такой, как на фотографии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_12",
+      "word": "He couldn't bring himself to shoot the deer.",
+      "translation": "Он не мог заставить себя застрелить оленя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_13",
+      "word": "You won't capture Tom.",
+      "translation": "Вы не схватите Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_14",
+      "word": "This is a picture painted by him.",
+      "translation": "Он нарисовал эту картину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_15",
+      "word": "I don't remember when I took this picture.",
+      "translation": "Я не помню, когда я сделал эту фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_16",
+      "word": "Don't make me shoot you again.",
+      "translation": "Не вынуждайте меня снова в вас стрелять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_17",
+      "word": "Could you show me a picture of Tom?",
+      "translation": "Ты не мог бы показать мне фотографию Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_18",
+      "word": "Look at the picture which he painted.",
+      "translation": "Посмотри на картину, которую он написал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_19",
+      "word": "Don't forget to take a camera.",
+      "translation": "Не забудь взять фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_20",
+      "word": "I showed my friends these picture postcards.",
+      "translation": "Я показал моим друзьям эти открытки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_21",
+      "word": "The picture was hung upside down.",
+      "translation": "Картина была перевёрнута вверх ногами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_22",
+      "word": "Tom looks different from his profile picture.",
+      "translation": "Том не похож на свою фотографию в профиле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_23",
+      "word": "Tom didn't bring a camera.",
+      "translation": "Том не принёс камеру.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_24",
+      "word": "I cannot afford a camera above 300 dollars.",
+      "translation": "Я не могу себе позволить камеру дороже трёхсот долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_25",
+      "word": "I don't remember when this photo was taken.",
+      "translation": "Я не помню, когда была сделана эта фотография.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_26",
+      "word": "What's your favorite Rolling Stones album?",
+      "translation": "Какой ваш любимый альбом у Rolling Stones?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_27",
+      "word": "Why did Tom shoot?",
+      "translation": "Почему Том стрелял?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_28",
+      "word": "I can't quite picture Tom as a politician.",
+      "translation": "Мне трудно представить себе Тома в роли политического деятеля.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_29",
+      "word": "I found the broken camera.",
+      "translation": "Я нашёл сломанный фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_30",
+      "word": "That picture was taken in Australia.",
+      "translation": "Эта фотография была сделана в Австралии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_31",
+      "word": "This picture must have been taken in 1964.",
+      "translation": "Эта фотография, должно быть, была сделана в 1964 году.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_32",
+      "word": "The photograph is blurry.",
+      "translation": "Фотография нечёткая.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_33",
+      "word": "I have a picture of Tom.",
+      "translation": "У меня есть фотография Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_34",
+      "word": "Tom doesn't look like the man in the picture.",
+      "translation": "Том не похож на человека на фотографии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_35",
+      "word": "I know the photographer who took this picture.",
+      "translation": "Я знаю фотографа, который сделал этот снимок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_36",
+      "word": "I don't want my picture taken.",
+      "translation": "Не хочу, чтобы меня фотографировали.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_37",
+      "word": "\"How much is this camera worth?\" \"About 100 dollars.\"",
+      "translation": "\"Сколько стоит этот фотоаппарат?\" - \"Около ста долларов\".",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_38",
+      "word": "I've almost finished listening to the album.",
+      "translation": "Я почти дослушал альбом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_39",
+      "word": "Tom is drawing a picture.",
+      "translation": "Том рисует картинку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_40",
+      "word": "Someone stole my camera.",
+      "translation": "Кто-то украл мой фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_41",
+      "word": "Tom was in almost every photo in Mary's album.",
+      "translation": "Том был почти на всех фотографиях у Мэри в альбоме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_42",
+      "word": "This is a picture of you.",
+      "translation": "Это твоя фотография.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_43",
+      "word": "Tom lent Mary his camera.",
+      "translation": "Том одолжил Мэри свою камеру.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_44",
+      "word": "I'll show my album to you.",
+      "translation": "Я покажу тебе свой альбом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_45",
+      "word": "What are the animals that you can see in this picture?",
+      "translation": "Каких животных вы видите на рисунке?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_46",
+      "word": "The picture you are looking at is a copy of a Picasso.",
+      "translation": "Картина, на которую вы смотрите, является репродукцией Пикассо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_47",
+      "word": "I wonder where she had her photograph taken.",
+      "translation": "Интересно, где она сделала свою фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_48",
+      "word": "Tom showed Mary John's picture.",
+      "translation": "Том показал Мэри фотографию Джона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_8_49",
+      "word": "Nobody noticed that the picture was hung upside down.",
+      "translation": "Никто не заметил, что картина висит вверх ногами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_0",
+      "word": "How old was Tom in this picture?",
+      "translation": "Сколько Тому на этой фотографии?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_1",
+      "word": "I don't like this camera.",
+      "translation": "Мне не нравится этот фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_2",
+      "word": "Tom didn't notice the surveillance camera.",
+      "translation": "Том не заметил камеру наблюдения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_3",
+      "word": "Don't forget to bring a camera.",
+      "translation": "Не забудь взять фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_4",
+      "word": "My camera is broken.",
+      "translation": "У меня фотоаппарат сломан.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_5",
+      "word": "Tom showed us his mother's picture.",
+      "translation": "Том показал нам фотографию своей матери.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_6",
+      "word": "Don't forget to attach your photo to the application form.",
+      "translation": "Не забудьте приложить к заявлению своё фото.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_7",
+      "word": "Can someone take our picture?",
+      "translation": "Кто-нибудь может нас сфотографировать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_8",
+      "word": "I'm interested in photography.",
+      "translation": "Я интересуюсь фотографией.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_9",
+      "word": "Do you know who is looking at that picture?",
+      "translation": "Ты знаешь, кто смотрит на эту фотографию?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_10",
+      "word": "Look at this picture of Tom.",
+      "translation": "Взгляни на эту фотографию Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_11",
+      "word": "Tom is taking a picture.",
+      "translation": "Том фотографирует.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_12",
+      "word": "Tom painted this picture.",
+      "translation": "Том нарисовал эту картину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_13",
+      "word": "I didn't expect this photo to get so many likes.",
+      "translation": "Я не ожидал, что эта фотография соберёт столько лайков.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_14",
+      "word": "I don't like having my photo taken.",
+      "translation": "Я не люблю фотографироваться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_15",
+      "word": "I really like this album.",
+      "translation": "Мне очень нравится этот альбом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_16",
+      "word": "Focus your attention on the really important things.",
+      "translation": "Сосредоточьте своё внимание на действительно важных вещах.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_17",
+      "word": "Here's a picture of Tom when he was a teenager.",
+      "translation": "Вот фотография Тома, когда он был подростком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_18",
+      "word": "I like this picture.",
+      "translation": "Эта фотография мне нравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_19",
+      "word": "Have a good look at this picture.",
+      "translation": "Хорошенько посмотрите на эту фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_20",
+      "word": "Bring a camera.",
+      "translation": "Принеси фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_21",
+      "word": "Tom just sat there and stared at Mary's picture.",
+      "translation": "Том просто сидел там и смотрел на фотографию Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_22",
+      "word": "This is my camera.",
+      "translation": "Это мой фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_23",
+      "word": "Is that you in the photo?",
+      "translation": "Это ты на фотографии?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_24",
+      "word": "Can you see the picture?",
+      "translation": "Ты видишь картинку?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_25",
+      "word": "Tom looked at the picture.",
+      "translation": "Том посмотрел на картинку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_26",
+      "word": "Tom wants to take a picture of it.",
+      "translation": "Том хочет это заснять на фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_27",
+      "word": "This is the most recent picture of Tom that I have.",
+      "translation": "Это самая свежая фотография Тома, что у меня есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_28",
+      "word": "This is a photograph of my drawing.",
+      "translation": "Это фотография моего рисунка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_29",
+      "word": "Do you have a camera?",
+      "translation": "У тебя есть фотоаппарат?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_30",
+      "word": "Can I take your picture?",
+      "translation": "Можно Вас сфотографировать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_31",
+      "word": "Show me another camera.",
+      "translation": "Покажите мне другой фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_32",
+      "word": "This is a very old photo.",
+      "translation": "Это очень старый снимок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_33",
+      "word": "A dreary landscape spread out for miles in all directions.",
+      "translation": "Тоскливый пейзаж простирался на многие мили вокруг.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_34",
+      "word": "I snapped a picture.",
+      "translation": "Я сделал снимок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_35",
+      "word": "That is an old camera.",
+      "translation": "Это старый фотоаппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_36",
+      "word": "I sent Tom my picture.",
+      "translation": "Я отправил Тому мою фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_37",
+      "word": "He showed us his mother's picture.",
+      "translation": "Он показал нам фото своей матери.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_38",
+      "word": "Someone broke my camera.",
+      "translation": "Кто-то сломал мою камеру.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_39",
+      "word": "Who painted this picture?",
+      "translation": "Кто нарисовал эту картину?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_40",
+      "word": "This picture was taken shortly before Tom's death.",
+      "translation": "Эта фотография была сделана незадолго до смерти Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_41",
+      "word": "It is probable that her first album will sell well.",
+      "translation": "Возможно, что её первый альбом будет хорошо продаваться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_42",
+      "word": "Do you have Tom's picture?",
+      "translation": "У тебя есть фотография Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_43",
+      "word": "Is that a picture of me?",
+      "translation": "Это я на фотографии?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_44",
+      "word": "Don't shoot till I tell you to.",
+      "translation": "Не стреляй, пока я не скажу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_45",
+      "word": "Show me the photo.",
+      "translation": "Покажи мне фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_46",
+      "word": "Tom didn't mean to shoot anyone.",
+      "translation": "Том не хотел ни в кого стрелять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_47",
+      "word": "Where did Tom find Mary's picture?",
+      "translation": "Где Том нашёл фотографию Мэри?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_48",
+      "word": "Tom showed Mary the photo.",
+      "translation": "Том показал фотографию Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hobbiesphotography_9_49",
+      "word": "Tom took out his camera and started taking pictures.",
+      "translation": "Том достал фотоаппарат и начал фотографировать.",
+      "language": "en"
+    }
+  ]
+}

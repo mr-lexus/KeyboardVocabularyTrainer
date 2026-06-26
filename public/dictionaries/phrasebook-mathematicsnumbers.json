@@ -1,0 +1,3007 @@
+{
+  "id": "phrasebook-mathematicsnumbers",
+  "name": "Mathematics & Numbers",
+  "description": "Phrasebook for Mathematics & Numbers",
+  "entries": [
+    {
+      "id": "pb_mathematicsnumbers_0_0",
+      "word": "Did you write down Tom's number?",
+      "translation": "Ты записал номер Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_1",
+      "word": "I am weak in math.",
+      "translation": "У меня плохо с математикой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_2",
+      "word": "Add a little milk.",
+      "translation": "Добавьте немного молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_3",
+      "word": "Do you still have my number?",
+      "translation": "У тебя ещё есть мой номер?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_4",
+      "word": "How do you calculate the volume of a cube?",
+      "translation": "Как вычислить объём куба?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_5",
+      "word": "Count from 10 down to zero.",
+      "translation": "Посчитай в обратном порядке от десяти до нуля.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_6",
+      "word": "Don't count on us.",
+      "translation": "Не рассчитывайте на нас.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_7",
+      "word": "Tom dialed the wrong number.",
+      "translation": "Том набрал неправильный номер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_8",
+      "word": "You can count on me, Tom.",
+      "translation": "Можешь рассчитывать на меня, Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_9",
+      "word": "I count on Tom.",
+      "translation": "Я рассчитываю на Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_10",
+      "word": "Can I count on you?",
+      "translation": "Могу я на Вас рассчитывать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_11",
+      "word": "Tom has my number.",
+      "translation": "У Тома есть мой номер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_12",
+      "word": "We count on you.",
+      "translation": "Мы рассчитываем на вас.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_13",
+      "word": "Count me out.",
+      "translation": "Я в этом не участвую.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_14",
+      "word": "Did you count me?",
+      "translation": "А меня ты посчитал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_15",
+      "word": "He asked me whether I like math.",
+      "translation": "Он спрашивал, нравится ли мне математика.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_16",
+      "word": "Add some olive oil.",
+      "translation": "Добавьте оливкового масла.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_17",
+      "word": "It doesn't add up.",
+      "translation": "Что-то не сходится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_18",
+      "word": "Count on me.",
+      "translation": "Рассчитывай на меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_19",
+      "word": "Don't add fuel to the fire.",
+      "translation": "Не подливай масла в огонь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_20",
+      "word": "That's our number one priority.",
+      "translation": "Это наш первейший приоритет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_21",
+      "word": "Does that count?",
+      "translation": "Это имеет значение?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_22",
+      "word": "Can I count on your loyalty?",
+      "translation": "Могу ли я рассчитывать на вашу верность?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_23",
+      "word": "Mathematics was never my forte.",
+      "translation": "Математика никогда не была моей сильной стороной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_24",
+      "word": "It doesn't count.",
+      "translation": "Это не имеет значения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_25",
+      "word": "Add up this list of figures.",
+      "translation": "Подсчитайте эти цифры.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_26",
+      "word": "Four plus sixteen equals twenty.",
+      "translation": "К четырём прибавить шестнадцать равняется двадцати.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_27",
+      "word": "I'm not a hundred per cent sure.",
+      "translation": "Я не уверен на сто процентов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_28",
+      "word": "I knew I could count on you.",
+      "translation": "Я знал, что могу на тебя рассчитывать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_29",
+      "word": "Did you add Tom to the list?",
+      "translation": "Ты включил Тома в список?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_30",
+      "word": "Can I count on Tom?",
+      "translation": "Я могу рассчитывать на Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_31",
+      "word": "I can do the math.",
+      "translation": "Я могу посчитать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_32",
+      "word": "I know that I can count on all of you.",
+      "translation": "Я знаю, что могу на всех вас рассчитывать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_33",
+      "word": "Math is boring.",
+      "translation": "Математика - это скучно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_34",
+      "word": "Tom has won a number of awards.",
+      "translation": "Том завоевал ряд наград.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_35",
+      "word": "A number of people were drowned.",
+      "translation": "Несколько человек утонуло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_36",
+      "word": "I only need three hundred dollars.",
+      "translation": "Мне нужно всего триста долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_37",
+      "word": "Tom knows how to count to ten already.",
+      "translation": "Том уже умеет считать до десяти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_38",
+      "word": "I think you have the wrong number.",
+      "translation": "Думаю, Вы ошиблись номером.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_39",
+      "word": "My favorite subject is math.",
+      "translation": "Мой любимый предмет - математика.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_40",
+      "word": "That's worth three hundred dollars.",
+      "translation": "Это стоит триста долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_41",
+      "word": "Who's number one?",
+      "translation": "Кто под первым номером?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_42",
+      "word": "I know I can count on you.",
+      "translation": "Я знаю, что могу на тебя рассчитывать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_43",
+      "word": "Tom wasn't good at math.",
+      "translation": "Том был не силён в математике.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_44",
+      "word": "I know I can always count on you.",
+      "translation": "Я знаю, что всегда могу на тебя рассчитывать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_45",
+      "word": "Why don't you give me your number?",
+      "translation": "Почему ты не даёшь мне свой номер?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_46",
+      "word": "I have nothing more to add.",
+      "translation": "Мне больше нечего добавить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_47",
+      "word": "I'm afraid you have the wrong number.",
+      "translation": "Боюсь, Вы ошиблись номером.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_48",
+      "word": "Six divided by two equals three.",
+      "translation": "Шесть поделить на два равно трём.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_0_49",
+      "word": "I agree with Tom a hundred percent.",
+      "translation": "Я согласен с Томом на сто процентов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_0",
+      "word": "Count to ten in French.",
+      "translation": "Посчитай по-французски до десяти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_1",
+      "word": "You have the wrong number.",
+      "translation": "Вы ошиблись номером.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_2",
+      "word": "Tom owes me three thousand dollars.",
+      "translation": "Том должен мне три тысячи долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_3",
+      "word": "Add whatever you like.",
+      "translation": "Добавь что хочешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_4",
+      "word": "Count to ten.",
+      "translation": "Посчитай до десяти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_5",
+      "word": "There were a number of inconsistencies in the suspect's story.",
+      "translation": "В рассказе подозреваемого было несколько несостыковок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_6",
+      "word": "What's this hotel's fax number?",
+      "translation": "Какой у этой гостиницы номер факса?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_7",
+      "word": "This photograph is more than one hundred years old.",
+      "translation": "Этой фотографии больше ста лет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_8",
+      "word": "We picked the number at random.",
+      "translation": "Мы выбрали число наугад.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_9",
+      "word": "I've done this a hundred times.",
+      "translation": "Я сто раз это делал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_10",
+      "word": "She was a genius in mathematics.",
+      "translation": "Она была математическим гением.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_11",
+      "word": "Don't count your chickens before they're hatched.",
+      "translation": "Цыплят по осени считают.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_12",
+      "word": "We're not good at math.",
+      "translation": "Мы не сильны в математике.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_13",
+      "word": "Let's divide the check between us.",
+      "translation": "Давай заплатим поровну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_14",
+      "word": "His opinion doesn't count.",
+      "translation": "Его мнение не в счёт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_15",
+      "word": "Add sixty grams of grated cheese.",
+      "translation": "Добавьте шестьдесят грамм натёртого сыра.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_16",
+      "word": "I'm not one hundred percent convinced that's true.",
+      "translation": "Я не на сто процентов уверен, что это правда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_17",
+      "word": "Oceans do not so much divide the world as unite it.",
+      "translation": "Океаны не столько разъединяют мир, сколько объединяют.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_18",
+      "word": "How many digits does that number have?",
+      "translation": "Сколько цифр в этом номере?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_19",
+      "word": "Tourists have increased in number.",
+      "translation": "Число туристов увеличилось.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_20",
+      "word": "The thermometer reads three degrees below zero.",
+      "translation": "Термометр показывает три градуса ниже нуля.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_21",
+      "word": "I thought I could count on you.",
+      "translation": "Я думал, что могу на тебя рассчитывать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_22",
+      "word": "This meant Florida had to count the votes again.",
+      "translation": "Это означало, что Флорида должна пересчитать голоса опять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_23",
+      "word": "Tom didn't give Mary his real telephone number.",
+      "translation": "Том не дал Мэри свой настоящий номер телефона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_24",
+      "word": "This antique clock is worth one thousand dollars.",
+      "translation": "Эти антикварные часы стоят тысячу долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_25",
+      "word": "I think Tom's number is unlisted.",
+      "translation": "Я думаю, что в телефонном справочнике нет номера Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_26",
+      "word": "There were about a thousand people there.",
+      "translation": "Там было около тысячи человек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_27",
+      "word": "It's the perfect number.",
+      "translation": "Это идеальное число.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_28",
+      "word": "Divide the candles among you.",
+      "translation": "Поделите свечи между собой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_29",
+      "word": "Two hundred dollars is a lot to me.",
+      "translation": "Двух тысяч долларов много для меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_30",
+      "word": "Tom doesn't know Mary's telephone number.",
+      "translation": "Том не знает номер телефона Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_31",
+      "word": "Divide and conquer.",
+      "translation": "Разделяй и властвуй.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_32",
+      "word": "When angry, count to ten.",
+      "translation": "Когда злой, считай до десяти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_33",
+      "word": "Did you want to add something?",
+      "translation": "Ты хотел что-то добавить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_34",
+      "word": "A meter is one hundred centimeters.",
+      "translation": "Метр - это сто сантиметров.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_35",
+      "word": "The atomic number for iron is 26.",
+      "translation": "Атомный номер железа - 26.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_36",
+      "word": "Two to the eighth power is two hundred fifty-six.",
+      "translation": "Два в восьмой степени — двести пятьдесят шесть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_37",
+      "word": "I hate math.",
+      "translation": "Ненавижу математику.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_38",
+      "word": "There are about a thousand students in all.",
+      "translation": "Всего порядка тысячи студентов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_39",
+      "word": "Tom asked me for Mary's number.",
+      "translation": "Том попросил у меня номер телефона Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_40",
+      "word": "She is a genius at mathematics.",
+      "translation": "Она — гений в математике.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_41",
+      "word": "I'm good at math.",
+      "translation": "Я силён в математике.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_42",
+      "word": "I've asked myself that question a hundred times.",
+      "translation": "Я сотни раз задавал себе этот вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_43",
+      "word": "Algebra is my favorite subject.",
+      "translation": "Алгебра — мой любимый предмет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_44",
+      "word": "I hired a math tutor for Tom.",
+      "translation": "Я наняла Тому репетитора по математике.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_45",
+      "word": "We like math.",
+      "translation": "Мы любим математику.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_46",
+      "word": "Math isn't Tom's strong suit.",
+      "translation": "В математике Том не блещет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_47",
+      "word": "Divide the pizza in three.",
+      "translation": "Подели пиццу на троих.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_48",
+      "word": "Tom is very good at math.",
+      "translation": "Тому очень хорошо даётся математика.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_1_49",
+      "word": "That's the sixty-four thousand dollar question.",
+      "translation": "Это вопрос на шестьдесят четыре тысячи долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_0",
+      "word": "Don't forget to add basil.",
+      "translation": "Не забудь добавить базилик.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_1",
+      "word": "I'm best at math.",
+      "translation": "В математике мне нет равных.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_2",
+      "word": "Ten plus ten equals twenty.",
+      "translation": "Десять плюс десять равно двадцати.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_3",
+      "word": "Add a tablespoon of olive oil.",
+      "translation": "Добавьте столовую ложку оливкового масла.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_4",
+      "word": "I'll add the finishing touch.",
+      "translation": "Я добавлю последний штрих.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_5",
+      "word": "Five plus two equals seven.",
+      "translation": "Пять плюс два равняется семи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_6",
+      "word": "Mathematics is difficult for me.",
+      "translation": "Математика дается мне нелегко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_7",
+      "word": "I thought that you said that I could count on you.",
+      "translation": "Ты вроде говорил, что я могу на тебя рассчитывать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_8",
+      "word": "What else would you add?",
+      "translation": "Что бы ты ещё добавил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_9",
+      "word": "Tom dialed the number again.",
+      "translation": "Том снова набрал номер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_10",
+      "word": "Tom asked me whether I liked math.",
+      "translation": "Том спросил меня, люблю ли я математику.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_11",
+      "word": "You've dialed the wrong number.",
+      "translation": "Ты набрал неправильный номер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_12",
+      "word": "Here's my number.",
+      "translation": "Вот мой номер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_13",
+      "word": "Six hundred thousand men were killed or wounded.",
+      "translation": "Шестьсот тысяч человек были убиты или ранены.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_14",
+      "word": "The default value is zero.",
+      "translation": "Значение по умолчанию - ноль.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_15",
+      "word": "I agree with you a hundred per cent.",
+      "translation": "Я согласна с тобой на сто процентов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_16",
+      "word": "Add two ounces of grated cheese.",
+      "translation": "Добавьте две унции тёртого сыра.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_17",
+      "word": "These people trust you and count on you.",
+      "translation": "Эти люди тебе доверяют и рассчитывают на тебя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_18",
+      "word": "I've told you so a hundred times.",
+      "translation": "Я вам это сто раз говорил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_19",
+      "word": "Tom has recently changed his telephone number.",
+      "translation": "Том недавно сменил номер телефона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_20",
+      "word": "What's your lucky number?",
+      "translation": "Какое твоё счастливое число?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_21",
+      "word": "I forget your telephone number.",
+      "translation": "Я забыл твой телефон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_22",
+      "word": "Almost three thousand people died.",
+      "translation": "Почти три тысячи человек погибло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_23",
+      "word": "Do you have something to add?",
+      "translation": "Тебе есть что добавить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_24",
+      "word": "Tom never was very good at math.",
+      "translation": "Том никогда не был силён в математике.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_25",
+      "word": "I asked for three hundred dollars.",
+      "translation": "Я попросил триста долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_26",
+      "word": "Two to the seventh power is one hundred twenty-eight.",
+      "translation": "Два в седьмой степени — сто двадцать восемь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_27",
+      "word": "This is a sentence that has the syllable count of a haiku.",
+      "translation": "Этих строк размер соответствует точно стандартам хайку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_28",
+      "word": "Tom won three thousand dollars.",
+      "translation": "Том выиграл три тысячи долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_29",
+      "word": "Did you write down the number?",
+      "translation": "Ты записал номер?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_30",
+      "word": "A number of countries have strict laws against drugs.",
+      "translation": "Во многих странах имеются суровые антинаркотические законы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_31",
+      "word": "Is your number still the same?",
+      "translation": "У тебя всё ещё тот же номер телефона?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_32",
+      "word": "We're not one hundred percent ready yet.",
+      "translation": "Мы ещё не на сто процентов готовы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_33",
+      "word": "I know I can count on you all.",
+      "translation": "Я знаю, что могу на всех вас рассчитывать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_34",
+      "word": "Do you know how to count to ten in French?",
+      "translation": "Ты умеешь считать до десяти на французском?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_35",
+      "word": "Add a few more names to the list.",
+      "translation": "Добавьте ещё несколько имён в список.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_36",
+      "word": "Four is an unlucky number in Japanese.",
+      "translation": "Четыре - несчастливое число в Японии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_37",
+      "word": "What did you add?",
+      "translation": "Что вы добавили?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_38",
+      "word": "Call this number.",
+      "translation": "Позвони по этому номеру.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_39",
+      "word": "I know we can count on Tom.",
+      "translation": "Я знаю, что мы можем рассчитывать на Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_40",
+      "word": "Math is my least favorite subject.",
+      "translation": "Математика — наименее любимый мной предмет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_41",
+      "word": "How did Tom get my number?",
+      "translation": "Откуда у Тома мой номер?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_42",
+      "word": "Do you have anything to add?",
+      "translation": "Тебе есть что добавить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_43",
+      "word": "\"How much is he asking for?\" \"A thousand euros.\"",
+      "translation": "\"Сколько он просит?\" - \"Тысячу евро\".",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_44",
+      "word": "I don't know Tom's number.",
+      "translation": "Я не знаю номер Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_45",
+      "word": "I am afraid you have the wrong number.",
+      "translation": "Боюсь, вам дали неправильный номер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_46",
+      "word": "I owe Tom three hundred dollars.",
+      "translation": "Я должен Тому триста долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_47",
+      "word": "I'll add the finishing touches.",
+      "translation": "Я добавлю последние штрихи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_48",
+      "word": "You can count on her.",
+      "translation": "Ты можешь на неё рассчитывать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_2_49",
+      "word": "There were about one thousand people.",
+      "translation": "Там было около тысячи человек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_0",
+      "word": "Tom asked for my number.",
+      "translation": "Том попросил у меня номер телефона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_1",
+      "word": "The Romans built a fleet of three hundred ships.",
+      "translation": "Римляне построили флот из трёхсот кораблей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_2",
+      "word": "I like math best.",
+      "translation": "Я больше всего люблю математику.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_3",
+      "word": "What else can I add?",
+      "translation": "Что ещё я могу добавить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_4",
+      "word": "Two hundred dollars was all we needed.",
+      "translation": "Двести долларов — вот всё, что нам было нужно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_5",
+      "word": "Don't count your chickens.",
+      "translation": "Цыплят по осени считают.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_6",
+      "word": "You've got my number.",
+      "translation": "Мой номер у тебя есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_7",
+      "word": "Mathematics is a difficult subject.",
+      "translation": "Математика — трудный предмет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_8",
+      "word": "There are around three thousand mosques in Istanbul.",
+      "translation": "В Стамбуле около трех тысяч мечетей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_9",
+      "word": "I'm going to count to three.",
+      "translation": "Считаю до трёх.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_10",
+      "word": "Math is hard.",
+      "translation": "Математика сложна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_11",
+      "word": "A number of problems remain unresolved.",
+      "translation": "Ряд проблем остаются нерешёнными.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_12",
+      "word": "I have fifteen hundred cows.",
+      "translation": "У меня пятнадцать сотен коров.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_13",
+      "word": "I'm sorry, you have the wrong number.",
+      "translation": "Извините, вы ошиблись номером.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_14",
+      "word": "Call the number I gave you.",
+      "translation": "Позвони по номеру, что я тебе дал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_15",
+      "word": "Don't count me out.",
+      "translation": "Не сбрасывай меня со счетов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_16",
+      "word": "I don't have the number.",
+      "translation": "У меня нет номера.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_17",
+      "word": "Mathematics is an easy subject for me.",
+      "translation": "Математика - простой предмет для меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_18",
+      "word": "I don't know Tom's telephone number.",
+      "translation": "Я не знаю телефон Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_19",
+      "word": "Math and English were my favorite subjects.",
+      "translation": "Математика и английский были моими любимыми предметами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_20",
+      "word": "A thousand yen will do.",
+      "translation": "Тысячи иен будет достаточно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_21",
+      "word": "The atomic number of hydrogen is 1.",
+      "translation": "Порядковый номер водорода равен единице.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_22",
+      "word": "Tom bought a bicycle for three hundred dollars.",
+      "translation": "Том купил велосипед за триста долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_23",
+      "word": "Is three hundred dollars not enough?",
+      "translation": "Трёхсот долларов не достаточно?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_24",
+      "word": "We can count on her.",
+      "translation": "Мы можем на неё рассчитывать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_25",
+      "word": "Don't worry, we can count on Tom.",
+      "translation": "Не беспокойся, мы можем рассчитывать на Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_26",
+      "word": "The atomic number of copper is 29.",
+      "translation": "Атомный номер меди - 29.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_27",
+      "word": "She saved a hundred dollars.",
+      "translation": "Она сэкономила сто долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_28",
+      "word": "Those numbers don't add up.",
+      "translation": "Эти цифры не сходятся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_29",
+      "word": "He is better than me at math.",
+      "translation": "Он лучше меня по математике.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_30",
+      "word": "I don't like math.",
+      "translation": "Я не люблю математику.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_31",
+      "word": "I don't have anything to add.",
+      "translation": "Мне нечего добавить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_32",
+      "word": "You can count on us, Tom.",
+      "translation": "Можешь на нас рассчитывать, Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_33",
+      "word": "Seven is a lucky number.",
+      "translation": "Семь — счастливое число.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_34",
+      "word": "Tom isn't good at math.",
+      "translation": "У Тома плохи дела с математикой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_35",
+      "word": "It's about three hundred miles from here to Boston.",
+      "translation": "Отсюда до Бостона около трёхсот миль.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_36",
+      "word": "He's a man of his word, so you can count on him.",
+      "translation": "Он человек слова, так что можешь на него положиться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_37",
+      "word": "Give me the number.",
+      "translation": "Дай мне номер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_38",
+      "word": "Tom borrowed three hundred bucks from me.",
+      "translation": "Том занял у меня триста баксов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_39",
+      "word": "Is thirteen an even number?",
+      "translation": "Тринадцать - чётное число?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_40",
+      "word": "Suppose you had a thousand dollars, what would you do with it?",
+      "translation": "Предположим, что у тебя была бы тысяча долларов, что бы ты с ней сделал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_41",
+      "word": "Tom is good at mathematics.",
+      "translation": "Том силён в математике.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_42",
+      "word": "Don't count on them.",
+      "translation": "Не рассчитывайте на них.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_43",
+      "word": "I know how to count.",
+      "translation": "Я умею считать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_44",
+      "word": "I agree one hundred percent.",
+      "translation": "Согласен на все сто.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_45",
+      "word": "Our ancestors came here over a hundred years ago.",
+      "translation": "Наши предки пришли сюда более ста лет назад.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_46",
+      "word": "There were at least a hundred people present.",
+      "translation": "Присутствовало по крайней мере сто человек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_47",
+      "word": "Many consider seven to be a lucky number.",
+      "translation": "Многие считают, что семь - счастливое число.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_48",
+      "word": "One minus one equals zero.",
+      "translation": "Один минус один будет ноль.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_3_49",
+      "word": "Three is my favorite number.",
+      "translation": "Три - моё любимое число.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_0",
+      "word": "I know we can't count on Tom to do that for us.",
+      "translation": "Я знаю, что мы не можем рассчитывать на то, что Том сделает это для нас.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_1",
+      "word": "At least six hundred men died in action.",
+      "translation": "В бою погибли по меньшей мере шестьсот человек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_2",
+      "word": "I can count.",
+      "translation": "Я умею считать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_3",
+      "word": "Tom has done this a thousand times.",
+      "translation": "Том делал это тысячу раз.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_4",
+      "word": "I don't know much about math.",
+      "translation": "Я мало что понимаю в математике.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_5",
+      "word": "My math is a little rusty.",
+      "translation": "Я немного подзабыл математику.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_6",
+      "word": "You can always count on Tom.",
+      "translation": "Ты всегда можешь рассчитывать на Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_7",
+      "word": "The number of casualties is still unknown.",
+      "translation": "Число жертв по-прежнему неизвестно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_8",
+      "word": "How long will one hundred dollars last me?",
+      "translation": "На сколько мне хватит сотни долларов?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_9",
+      "word": "I knew we could count on you.",
+      "translation": "Я знал, что мы можем на тебя рассчитывать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_10",
+      "word": "Tom is interested in math.",
+      "translation": "Том интересуется математикой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_11",
+      "word": "Is one thousand yen enough?",
+      "translation": "Тысячи иен хватит?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_12",
+      "word": "Are you sure we can count on Tom?",
+      "translation": "Вы уверены, что мы можем рассчитывать на Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_13",
+      "word": "In the beginning, Catalina had no more than two thousand soldiers.",
+      "translation": "В начале у Катилины было не больше двух тысяч солдат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_14",
+      "word": "There are over seven thousand languages in the world.",
+      "translation": "В мире существует более семи тысяч языков.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_15",
+      "word": "You're the only person I can count on.",
+      "translation": "Ты единственный, на кого я могу рассчитывать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_16",
+      "word": "The winner will get three hundred dollars.",
+      "translation": "Победитель получит триста долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_17",
+      "word": "Seven plus three equals ten.",
+      "translation": "Семь плюс три равняется десяти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_18",
+      "word": "You can always count on us.",
+      "translation": "Ты всегда можешь на нас рассчитывать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_19",
+      "word": "It's a three-digit number.",
+      "translation": "Это трёхзначное число.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_20",
+      "word": "I wish I knew Tom's telephone number.",
+      "translation": "Жаль, что я не знаю телефон Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_21",
+      "word": "Tom isn't very good at math.",
+      "translation": "Том не очень силён в математике.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_22",
+      "word": "This theater will hold three thousand people.",
+      "translation": "Этот театр вмещает три тысячи человек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_23",
+      "word": "Does this count?",
+      "translation": "Это имеет значение?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_24",
+      "word": "Pick a number.",
+      "translation": "Выбери число.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_25",
+      "word": "We can always count on Tom.",
+      "translation": "Мы всегда можем рассчитывать на Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_26",
+      "word": "Mathematics is important in daily life.",
+      "translation": "Математика играет важную роль в повседневной жизни.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_27",
+      "word": "Several hundred men were packed into the boat.",
+      "translation": "Корабль был набит сотнями людей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_28",
+      "word": "The discovery of electricity gave birth to an innumerable number of inventions.",
+      "translation": "Изобретение электричества дало начало неисчислимому количеству изобретений.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_29",
+      "word": "He is superior to her in math.",
+      "translation": "У него лучше с математикой, чем у неё.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_30",
+      "word": "You can count on it.",
+      "translation": "Можете на это рассчитывать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_31",
+      "word": "I don't have Tom's number.",
+      "translation": "У меня нет номера Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_32",
+      "word": "Are you sure this is the right number?",
+      "translation": "Ты уверен, что это правильный номер?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_33",
+      "word": "I sold it for three hundred dollars.",
+      "translation": "Я продал его за триста долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_34",
+      "word": "Tom asked Mary for her number.",
+      "translation": "Том попросил у Мэри номер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_35",
+      "word": "I don't know her telephone number.",
+      "translation": "Я не знаю её номер телефона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_36",
+      "word": "What would you do if you had ten thousand dollars?",
+      "translation": "Что бы ты сделал, если бы у тебя были десять тысяч долларов?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_37",
+      "word": "Tom owes Mary three hundred dollars.",
+      "translation": "Том должен Мэри триста долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_38",
+      "word": "You're a hundred percent right.",
+      "translation": "Ты прав на сто процентов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_39",
+      "word": "I asked Tom what his telephone number was.",
+      "translation": "Я спросил Тома, какой у него номер телефона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_40",
+      "word": "You owe Tom three hundred dollars.",
+      "translation": "Ты должен Тому триста долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_41",
+      "word": "I already gave Tom your number.",
+      "translation": "Я уже дал Тому твой номер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_42",
+      "word": "Tom was fined three hundred dollars.",
+      "translation": "Том был оштрафован на триста долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_43",
+      "word": "You can't count on Tom.",
+      "translation": "На Тома нельзя рассчитывать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_44",
+      "word": "Here's Tom's number.",
+      "translation": "Вот номер Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_45",
+      "word": "Tom saved up three hundred dollars.",
+      "translation": "Том сэкономил триста долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_46",
+      "word": "I'm willing to offer three hundred dollars for it.",
+      "translation": "Я готов предложить за это триста долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_47",
+      "word": "Count to thirty.",
+      "translation": "Посчитай до тридцати.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_48",
+      "word": "Math is an easy subject for me.",
+      "translation": "Математика для меня - лёгкий предмет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_4_49",
+      "word": "Here's my telephone number.",
+      "translation": "Вот мой номер телефона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_0",
+      "word": "You can count on him.",
+      "translation": "Можешь на него рассчитывать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_1",
+      "word": "There's not much more to add.",
+      "translation": "Добавить особо нечего.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_2",
+      "word": "There's nothing more to add.",
+      "translation": "Больше добавить нечего.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_3",
+      "word": "In the 19th century, the number of immigrants grew rapidly.",
+      "translation": "В XIX веке число иммигрантов стремительно выросло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_4",
+      "word": "Can you try this number again?",
+      "translation": "Вы можете еще раз попробовать позвонить по этому номеру?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_5",
+      "word": "Zero comes before one.",
+      "translation": "Ноль стоит перед единицей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_6",
+      "word": "Can you count to ten?",
+      "translation": "Ты умеешь считать до десяти?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_7",
+      "word": "Do you already know how to count?",
+      "translation": "Ты уже умеешь считать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_8",
+      "word": "Who gave you my number?",
+      "translation": "Кто дал вам мой номер?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_9",
+      "word": "Don't give Tom your number.",
+      "translation": "Не давай Тому свой номер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_10",
+      "word": "I'm fed up with math.",
+      "translation": "Я сыт по горло математикой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_11",
+      "word": "I've done that at least a hundred times.",
+      "translation": "Я делал это не меньше сотни раз.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_12",
+      "word": "They built their empire in Peru about five hundred years ago.",
+      "translation": "Они создали свою империю в Перу около пятисот лет назад.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_13",
+      "word": "I can't count on Tom.",
+      "translation": "Я не могу рассчитывать на Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_14",
+      "word": "Tom wants three hundred dollars for it.",
+      "translation": "Том хочет за это триста долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_15",
+      "word": "I seem to have the wrong number.",
+      "translation": "Я, видимо, ошибся номером.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_16",
+      "word": "The boxer got up on the count of nine.",
+      "translation": "Боксёр поднялся на счёте «девять».",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_17",
+      "word": "A thousand meters is a kilometer.",
+      "translation": "Тысяча метров - это километр.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_18",
+      "word": "You can't divide by zero.",
+      "translation": "На ноль делить нельзя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_19",
+      "word": "One thousand dollars will cover all the expenses for the party.",
+      "translation": "Штука баксов покроет все затраты на вечеринку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_20",
+      "word": "You owe me three hundred dollars.",
+      "translation": "Ты должен мне три сотни долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_21",
+      "word": "When you're in trouble, you can count on me.",
+      "translation": "Когда вы окажетесь в беде, можете рассчитывать на меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_22",
+      "word": "Two plus two equals four.",
+      "translation": "Два плюс два равняется четырём.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_23",
+      "word": "You don't count.",
+      "translation": "Вы не считаетесь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_24",
+      "word": "Tom gave me three hundred dollars.",
+      "translation": "Том дал мне триста долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_25",
+      "word": "In the current slump, economic growth has fallen to zero percent.",
+      "translation": "При нынешнем спаде экономический рост упал до нуля процентов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_26",
+      "word": "Wait till I count to ten.",
+      "translation": "Жди, пока я не досчитаю до десяти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_27",
+      "word": "Each one of us was given three hundred dollars.",
+      "translation": "Каждому из нас дали триста долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_28",
+      "word": "The temperature is currently ten degrees below zero.",
+      "translation": "Температура на данный момент — минус десять градусов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_29",
+      "word": "I know that I can always count on Tom.",
+      "translation": "Я знаю, что всегда могу рассчитывать на Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_30",
+      "word": "There are a thousand meters in a kilometer.",
+      "translation": "В километре тысяча метров.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_31",
+      "word": "We discussed a number of options.",
+      "translation": "Мы обсудили различные варианты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_32",
+      "word": "We estimated the damage at one thousand dollars.",
+      "translation": "Мы оценили ущерб в тысячу долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_33",
+      "word": "Tom can do a hundred pushups.",
+      "translation": "Том может отжаться сто раз.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_34",
+      "word": "He asked me if I knew her telephone number.",
+      "translation": "Он спросил меня, знаю ли я номер её телефона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_35",
+      "word": "No fewer than five hundred students were present.",
+      "translation": "Присутствовало не меньше пятисот учащихся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_36",
+      "word": "I know how to count to ten thousand.",
+      "translation": "Я умею считать до десяти тысяч.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_37",
+      "word": "Three hundred dollars wasn't enough.",
+      "translation": "Трёх сотен долларов было недостаточно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_38",
+      "word": "Don't forget to include me in the count.",
+      "translation": "Не забудьте посчитать меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_39",
+      "word": "I paid twenty thousand yen for this hearing aid.",
+      "translation": "Я заплатил двадцать тысяч иен за этот слуховой аппарат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_40",
+      "word": "How did you get my number?",
+      "translation": "Как ты достал мой номер?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_41",
+      "word": "Tom was paid three hundred dollars.",
+      "translation": "Тому заплатили триста долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_42",
+      "word": "I know we can count on Tom to do that for us.",
+      "translation": "Я знаю, что мы можем рассчитывать на то, что Том это для нас сделает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_43",
+      "word": "Two thousand people fit into this hall.",
+      "translation": "Этот зал вмещает две тысячи людей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_44",
+      "word": "He bought a bicycle for fifty thousand yen.",
+      "translation": "Он купил велосипед за 50000 иен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_45",
+      "word": "Give me a hundred dollars.",
+      "translation": "Дай мне сто долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_46",
+      "word": "Tom gave Mary his telephone number.",
+      "translation": "Том дал Мэри свой телефон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_47",
+      "word": "I support you a hundred percent.",
+      "translation": "Я тебя поддерживаю на сто процентов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_48",
+      "word": "Add one teaspoon of paprika.",
+      "translation": "Добавьте чайную ложку паприки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_5_49",
+      "word": "I won three hundred dollars.",
+      "translation": "Я выиграл триста долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_0",
+      "word": "Divide the pizza into three.",
+      "translation": "Разделите пиццу на три части.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_1",
+      "word": "Tom ran a hundred meters in twelve seconds.",
+      "translation": "Том пробежал сто метров за двенадцать секунд.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_2",
+      "word": "Now I'll add the finishing touch.",
+      "translation": "Сейчас я внесу последний штрих.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_3",
+      "word": "I'm good at mathematics.",
+      "translation": "Я силён в математике.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_4",
+      "word": "It is ten degrees below zero now.",
+      "translation": "Сейчас десять градусов ниже нуля.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_5",
+      "word": "She was chosen from ten thousand applicants.",
+      "translation": "Её выбрали из десяти тысяч кандидатов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_6",
+      "word": "Tom asked me if I knew Mary's telephone number.",
+      "translation": "Том спросил у меня, знаю ли я номер телефона Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_7",
+      "word": "Tom asked me if I liked math.",
+      "translation": "Том спросил меня, люблю ли я математику.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_8",
+      "word": "The temperature's fallen below zero.",
+      "translation": "Температура упала ниже нуля.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_9",
+      "word": "The atomic number of iron is 26.",
+      "translation": "Атомный номер железа - 26.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_10",
+      "word": "You can never count on Tom.",
+      "translation": "На Тома никогда нельзя рассчитывать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_11",
+      "word": "Tom gave me his number.",
+      "translation": "Том дал мне свой номер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_12",
+      "word": "Don't give anyone else this number.",
+      "translation": "Не давай больше никому этот номер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_13",
+      "word": "Tom said he won three hundred dollars.",
+      "translation": "Том сказал, что выиграл триста долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_14",
+      "word": "Algebra is a branch of mathematics.",
+      "translation": "Алгебра - это раздел математики.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_15",
+      "word": "Tom is good at math.",
+      "translation": "Том силён в математике.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_16",
+      "word": "Don't count on it.",
+      "translation": "Не рассчитывай на это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_17",
+      "word": "Tom is interested in mathematics.",
+      "translation": "Том интересуется математикой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_18",
+      "word": "There isn't much more to add.",
+      "translation": "Добавить особо нечего.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_19",
+      "word": "I know I can count on every one of you.",
+      "translation": "Я знаю, что могу рассчитывать на каждого из вас.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_20",
+      "word": "I thought that you said I could count on you.",
+      "translation": "Ты вроде говорил, что я могу на тебя рассчитывать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_21",
+      "word": "Count to three.",
+      "translation": "Сосчитай до трёх.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_22",
+      "word": "You've told me that a hundred times.",
+      "translation": "Ты мне это уже сто раз говорил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_23",
+      "word": "I'll give you Tom's telephone number.",
+      "translation": "Я дам тебе телефон Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_24",
+      "word": "Two to the tenth power is one thousand twenty-four.",
+      "translation": "Два в десятой степени — это тысяча двадцать четыре.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_25",
+      "word": "Is a thousand yen enough?",
+      "translation": "Тысячи иен хватит?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_26",
+      "word": "Would you like to add anything to what I've said?",
+      "translation": "Не хотите ли что-нибудь добавить к тому, что я сказал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_27",
+      "word": "Someone gave me Tom's number.",
+      "translation": "Кое-кто дал мне номер Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_28",
+      "word": "Eight plus one equals nine.",
+      "translation": "Восемь плюс один равняется девяти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_29",
+      "word": "I've done this a thousand times.",
+      "translation": "Я тысячу раз это делал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_30",
+      "word": "Tom got a three hundred dollar raise.",
+      "translation": "Тому подняли зарплату на триста долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_31",
+      "word": "Does Tom know your telephone number?",
+      "translation": "Том знает твой номер телефона?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_32",
+      "word": "I have to make three monthly payments of three hundred dollars each.",
+      "translation": "Я должен сделать три месячных взноса по триста долларов каждый.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_33",
+      "word": "I already told you that a hundred times.",
+      "translation": "Я вам это уже сто раз говорил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_34",
+      "word": "It is quite a big number.",
+      "translation": "Это довольно большое число.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_35",
+      "word": "There are an infinite number of numbers.",
+      "translation": "Чисел бесконечное множество.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_36",
+      "word": "Tom asked Mary for John's telephone number.",
+      "translation": "Том спросил у Мэри номер телефона Джона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_37",
+      "word": "Tom's not so good at math.",
+      "translation": "Том не так уж и силён в математике.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_38",
+      "word": "I did the math.",
+      "translation": "Я сделала математику.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_39",
+      "word": "You could count to ten when you were two.",
+      "translation": "Ты мог считать до десяти, когда тебе было два года.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_40",
+      "word": "Do you have anything else to add?",
+      "translation": "Тебе ещё есть что добавить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_41",
+      "word": "Tom studies mathematics.",
+      "translation": "Том изучает математику.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_42",
+      "word": "Any whole number can be written as a fraction.",
+      "translation": "Любое целое число можно записать в виде дроби.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_43",
+      "word": "There were about a thousand people.",
+      "translation": "Было около тысячи человек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_44",
+      "word": "You can count on me.",
+      "translation": "Можешь на меня рассчитывать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_45",
+      "word": "I've told you that a hundred times.",
+      "translation": "Я тебе сто раз это говорил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_46",
+      "word": "Multiply three by five to get fifteen.",
+      "translation": "Умножь три на пять, чтобы получить пятнадцать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_47",
+      "word": "What is the total number of students?",
+      "translation": "Каково общее число учеников?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_48",
+      "word": "I need another three hundred dollars.",
+      "translation": "Мне нужно ещё триста долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_6_49",
+      "word": "He teaches mathematics as well as English.",
+      "translation": "Он преподаёт математику, а также английский.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_0",
+      "word": "All I need is another three hundred dollars.",
+      "translation": "Всё, что мне нужно, - это ещё триста долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_1",
+      "word": "One plus two equals three.",
+      "translation": "Один плюс два будет три.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_2",
+      "word": "If you add three and four, you get seven.",
+      "translation": "Если сложить три и четыре, получится семь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_3",
+      "word": "I've seen this a thousand times.",
+      "translation": "Я тысячу раз это видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_4",
+      "word": "I was never good at math.",
+      "translation": "Я никогда не был силён в математике.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_5",
+      "word": "Let me add something.",
+      "translation": "Позвольте мне кое-что добавить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_6",
+      "word": "There are more than seven thousand languages in the world.",
+      "translation": "В мире существует более семи тысяч языков.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_7",
+      "word": "I'm not a hundred percent wrong.",
+      "translation": "Я не на сто процентов не прав.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_8",
+      "word": "Add a little oil.",
+      "translation": "Добавьте немного масла.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_9",
+      "word": "It's six degrees below zero.",
+      "translation": "Шесть градусов ниже нуля.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_10",
+      "word": "Let's do the math.",
+      "translation": "Давайте посчитаем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_11",
+      "word": "That doesn't count.",
+      "translation": "Это не считается.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_12",
+      "word": "Add up these figures.",
+      "translation": "Сложи эти цифры.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_13",
+      "word": "She always forgets my telephone number.",
+      "translation": "Она всегда забывает мой номер телефона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_14",
+      "word": "Tom had nothing to add.",
+      "translation": "Тому было нечего добавить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_15",
+      "word": "The atomic number for hydrogen is 1.",
+      "translation": "Атомный номер водорода - 1.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_16",
+      "word": "I wrote down that telephone number.",
+      "translation": "Я записал тот номер телефона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_17",
+      "word": "Mathematics is not my strong suit.",
+      "translation": "В математике я не силён.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_18",
+      "word": "I agree with you one hundred percent.",
+      "translation": "Я на сто процентов с тобой согласна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_19",
+      "word": "Tom wrote down Mary's telephone number.",
+      "translation": "Том записал номер телефона Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_20",
+      "word": "It's thirty degrees below zero.",
+      "translation": "Тридцать градусов ниже нуля.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_21",
+      "word": "Don't give Tom my number.",
+      "translation": "Не давай Тому мой телефон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_22",
+      "word": "I thought you said that I could count on you.",
+      "translation": "Ты вроде говорил, что я могу на тебя рассчитывать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_23",
+      "word": "Don't worry. You can count on me.",
+      "translation": "Не беспокойся. Ты можешь на меня рассчитывать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_24",
+      "word": "Don't count on that happening.",
+      "translation": "Не рассчитывай, что это произойдёт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_25",
+      "word": "I don't think Tom knows my telephone number.",
+      "translation": "Не думаю, что Том знает мой телефон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_26",
+      "word": "I'm not very good at math.",
+      "translation": "Я не очень силён в математике.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_27",
+      "word": "All I need is about three hundred more dollars.",
+      "translation": "Всё, что мне нужно, - это ещё около трёхсот долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_28",
+      "word": "It's more than a hundred years old.",
+      "translation": "Ему больше ста лет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_29",
+      "word": "I have nothing to add.",
+      "translation": "Мне нечего добавить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_30",
+      "word": "Safety is our number one priority.",
+      "translation": "Безопасность — наш главный приоритет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_31",
+      "word": "He's better than me at math.",
+      "translation": "С математикой у него лучше, чем у меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_32",
+      "word": "He became interested in mathematics.",
+      "translation": "Он заинтересовался математикой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_33",
+      "word": "Tom can't count.",
+      "translation": "Том не умеет считать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_34",
+      "word": "A picture is worth a thousand words.",
+      "translation": "Лучше один раз увидеть, чем сто раз услышать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_35",
+      "word": "You were never good at math.",
+      "translation": "Ты никогда не был силён в математике.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_36",
+      "word": "Do you like math?",
+      "translation": "Ты любишь математику?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_37",
+      "word": "Subtract three from that number.",
+      "translation": "Вычти три из этого числа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_38",
+      "word": "Tom gave Mary three thousand dollars.",
+      "translation": "Том дал Мэри три тысячи долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_39",
+      "word": "We can count on Tom.",
+      "translation": "Мы можем рассчитывать на Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_40",
+      "word": "Tom gave Mary his number.",
+      "translation": "Том дал Мэри свой номер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_41",
+      "word": "The number of women who become mothers is small.",
+      "translation": "Количество женщин, становящихся матерями, мало.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_42",
+      "word": "What do you have to add to 17 to get 60?",
+      "translation": "Сколько надо прибавить к семнадцати, чтобы получилось шестьдесят?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_43",
+      "word": "Divide that number by three.",
+      "translation": "Разделите это число на три.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_44",
+      "word": "I'm not any good at math.",
+      "translation": "Я не силён в математике.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_45",
+      "word": "Divide the cake among the three of you.",
+      "translation": "Разделите пирог на троих между собой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_46",
+      "word": "Take the apple and divide it into halves.",
+      "translation": "Возьми яблоко и раздели его на две части.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_47",
+      "word": "In case of an emergency, what number should I call?",
+      "translation": "По какому номеру звонить в чрезвычайной ситуации?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_48",
+      "word": "I agree with Tom one hundred per cent.",
+      "translation": "Я на сто процентов согласна с Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_7_49",
+      "word": "Did you write down the telephone number?",
+      "translation": "Вы записали номер телефона?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_0",
+      "word": "I'm not one hundred percent wrong.",
+      "translation": "Я не на сто процентов не прав.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_1",
+      "word": "Is it true that Japanese think four is an unlucky number?",
+      "translation": "Это правда, что японцы думают, что четыре - это несчастливое число?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_2",
+      "word": "Seven is said to be a lucky number.",
+      "translation": "Говорят, семь - счастливое число.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_3",
+      "word": "Accidents have increased in number.",
+      "translation": "Количество несчастных случаев выросло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_4",
+      "word": "We like to add new members to our group.",
+      "translation": "Нам нравится добавлять новых участников в нашу группу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_5",
+      "word": "A hundred years is called a century.",
+      "translation": "Сто лет называют веком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_6",
+      "word": "Tom changed his number.",
+      "translation": "Том поменял номер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_7",
+      "word": "Do you have Tom's number?",
+      "translation": "У тебя есть номер Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_8",
+      "word": "These oaks are over a hundred years old.",
+      "translation": "Этим дубам больше ста лет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_9",
+      "word": "Divide these apples between you three.",
+      "translation": "Поделите эти яблоки между вами тремя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_10",
+      "word": "Can you give me your cell number?",
+      "translation": "Можешь дать мне номер своего мобильного?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_11",
+      "word": "Tom wrote down Mary's number on a napkin.",
+      "translation": "Том записал телефон Мэри на салфетке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_12",
+      "word": "Can I have your telephone number?",
+      "translation": "Вы не дадите мне свой номер телефона?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_13",
+      "word": "We spent seven thousand dollars on drinks in total.",
+      "translation": "В общем мы потратили на напитки семь тысяч долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_14",
+      "word": "You owe us three hundred dollars.",
+      "translation": "Ты должен нам триста долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_15",
+      "word": "Close your eyes, and count to ten.",
+      "translation": "Закрой глаза и сосчитай до десяти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_16",
+      "word": "Sorry, I think I have the wrong number.",
+      "translation": "Извините, у меня, наверное, неправильный номер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_17",
+      "word": "Tom was the one who gave Mary my number.",
+      "translation": "Это Том дал Мэри мой номер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_18",
+      "word": "The total is approximately ten thousand dollars.",
+      "translation": "В итоге приблизительно десять тысяч долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_19",
+      "word": "They've put the value of the estate at three hundred thousand dollars.",
+      "translation": "Они оценили это поместье в триста тысяч долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_20",
+      "word": "Count up to thirty.",
+      "translation": "Досчитай до тридцати.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_21",
+      "word": "Few people live to be a hundred years old.",
+      "translation": "Мало кто доживает до ста лет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_22",
+      "word": "I'm not a hundred percent certain.",
+      "translation": "Я не уверен на сто процентов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_23",
+      "word": "That's the number one priority.",
+      "translation": "Это главный приоритет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_24",
+      "word": "Six squared equals thirty-six.",
+      "translation": "Шесть в квадрате равно тридцати шести.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_25",
+      "word": "I've done that a hundred times.",
+      "translation": "Я сделал это сто раз.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_26",
+      "word": "Tom agreed with me a hundred per cent.",
+      "translation": "Том был согласен со мной на все сто.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_27",
+      "word": "Can you count to ten in French?",
+      "translation": "Ты можешь посчитать до десяти по-французски?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_28",
+      "word": "Add olive oil.",
+      "translation": "Добавьте оливкового масла.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_29",
+      "word": "The number of students is dropping.",
+      "translation": "Количество студентов уменьшается.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_30",
+      "word": "I did that a number of times.",
+      "translation": "Я не раз это делал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_31",
+      "word": "Divide the cake among you three.",
+      "translation": "Раздели торт между вами троими.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_32",
+      "word": "Are you good at mathematics?",
+      "translation": "Ты силён в математике?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_33",
+      "word": "That doesn't add up.",
+      "translation": "Что-то не сходится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_34",
+      "word": "Can you count in French?",
+      "translation": "Ты умеешь считать по-французски?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_35",
+      "word": "The temperature fell to five degrees below zero.",
+      "translation": "Температура снизилась до пяти градусов ниже нуля.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_36",
+      "word": "What's your number?",
+      "translation": "Какой у тебя номер?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_37",
+      "word": "One hundred years is called a century.",
+      "translation": "Сто лет называют веком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_38",
+      "word": "I don't like mathematics.",
+      "translation": "Я не люблю математику.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_39",
+      "word": "We didn't count on that happening.",
+      "translation": "Мы не рассчитывали, что это случится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_40",
+      "word": "Over one hundred people came here.",
+      "translation": "Сюда пришли более ста человек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_41",
+      "word": "Divide the pie into three pieces.",
+      "translation": "Раздели пирог на три части.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_42",
+      "word": "Is it true that Japanese think the number four is unlucky?",
+      "translation": "Это правда, что японцы считают число четыре несчастливым?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_43",
+      "word": "What's Tom's number?",
+      "translation": "Какой у Тома номер?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_44",
+      "word": "One thousand buildings lay in ruins.",
+      "translation": "Одна тысяча зданий лежала в развалинах.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_45",
+      "word": "I never was very good at math.",
+      "translation": "Я никогда не был особенно силён в математике.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_46",
+      "word": "He isn't very good at math.",
+      "translation": "Он не очень силён в математике.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_47",
+      "word": "Three hundred dollars should be enough.",
+      "translation": "Трёхсот долларов должно хватить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_48",
+      "word": "Tom died a number of years ago.",
+      "translation": "Том ушёл из жизни несколько лет назад.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_8_49",
+      "word": "Can we count on you?",
+      "translation": "Мы можем на тебя рассчитывать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_0",
+      "word": "I don't recognize the number.",
+      "translation": "Я не узнаю номер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_1",
+      "word": "His ability in mathematics is outstanding.",
+      "translation": "У него выдающиеся способности к математике.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_2",
+      "word": "Mathematics is difficult.",
+      "translation": "Математика — это сложно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_3",
+      "word": "What's your new telephone number?",
+      "translation": "Какой твой новый номер телефона?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_4",
+      "word": "Tom has three thousand yen in his pocket.",
+      "translation": "У Тома в кармане три тысячи иен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_5",
+      "word": "Tom has several thousand books.",
+      "translation": "У Тома несколько тысяч книг.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_6",
+      "word": "Is 1 a prime number?",
+      "translation": "Единица – простое число?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_7",
+      "word": "Nobody equals him in strength.",
+      "translation": "Ему нет равных в силе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_8",
+      "word": "This doesn't count.",
+      "translation": "Это не считается.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_9",
+      "word": "Two to the power of five equals thirty-two.",
+      "translation": "Два в пятой степени равняется тридцати двум.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_10",
+      "word": "I'm very busy so don't count on me.",
+      "translation": "Я очень занят, так что на меня не рассчитывайте.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_11",
+      "word": "Don't count on Tom.",
+      "translation": "Не рассчитывай на Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_12",
+      "word": "Tom has three thousand books.",
+      "translation": "У Тома три тысячи книг.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_13",
+      "word": "Count from one to ten.",
+      "translation": "Сосчитай от одного до десяти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_14",
+      "word": "Don't worry. I've done this a thousand times.",
+      "translation": "Не беспокойся. Я тысячу раз это делал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_15",
+      "word": "We've been over this a thousand times.",
+      "translation": "Мы уже тысячу раз об этом говорили.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_16",
+      "word": "I'm not a hundred percent sure.",
+      "translation": "Я не уверен на сто процентов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_17",
+      "word": "This photo is over a hundred years old.",
+      "translation": "Этой фотографии больше ста лет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_18",
+      "word": "Divide this in half.",
+      "translation": "Разделите это пополам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_19",
+      "word": "Age is just a number.",
+      "translation": "Любви все возрасты покорны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_20",
+      "word": "Tom knows my number.",
+      "translation": "Том знает мой номер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_21",
+      "word": "I'm afraid the loss will amount to one hundred million dollars.",
+      "translation": "Я боюсь, что потери составят сто миллионов долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_22",
+      "word": "Do you have a favorite number?",
+      "translation": "У тебя есть любимое число?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_23",
+      "word": "You can count on us.",
+      "translation": "Ты можешь на нас рассчитывать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_24",
+      "word": "She can count from one to ten.",
+      "translation": "Она умеет считать до десяти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_25",
+      "word": "What do you get when you add 17 to 60?",
+      "translation": "Сколько будет, если к шестидесяти прибавить семнадцать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_26",
+      "word": "We demanded a recount.",
+      "translation": "Мы потребовали пересчёт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_27",
+      "word": "Tom isn't very good at mathematics.",
+      "translation": "Том не очень силён в математике.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_28",
+      "word": "Can I count on you to come?",
+      "translation": "Я могу рассчитывать, что ты придёшь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_29",
+      "word": "This theater seats several hundred people.",
+      "translation": "Этот театр вмещает несколько сот человек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_30",
+      "word": "Tom can count on Mary.",
+      "translation": "Том может рассчитывать на Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_31",
+      "word": "Everyone knows that two plus two equals four.",
+      "translation": "Все знают, что два плюс два будет четыре.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_32",
+      "word": "She dialed the wrong number.",
+      "translation": "Она ошиблась номером.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_33",
+      "word": "A century is one hundred years.",
+      "translation": "Век — это сто лет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_34",
+      "word": "I have almost three thousand dollars in my safe.",
+      "translation": "У меня в сейфе почти три тысячи долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_35",
+      "word": "Twelve is an even number.",
+      "translation": "Двенадцать - чётное число.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_36",
+      "word": "Tom didn't recognize the number.",
+      "translation": "Том не узнал номер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_37",
+      "word": "Add two cloves of garlic.",
+      "translation": "Добавьте два зубчика чеснока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_38",
+      "word": "Find the solution to the following equation.",
+      "translation": "Найдите решение следующего уравнения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_39",
+      "word": "This book's over a hundred years old.",
+      "translation": "Этой книге больше ста лет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_40",
+      "word": "The number of tickets was limited.",
+      "translation": "Количество билетов было ограничено.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_41",
+      "word": "I have no more than one thousand yen.",
+      "translation": "У меня не больше тысячи иен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_42",
+      "word": "I'm going to count to ten.",
+      "translation": "Считаю до десяти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_43",
+      "word": "Give them my number.",
+      "translation": "Дай им мой номер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_44",
+      "word": "Mathematics is my favorite subject.",
+      "translation": "Математика — мой любимый предмет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_45",
+      "word": "I always get an A in math.",
+      "translation": "Я всегда получаю пятёрки по математике.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_46",
+      "word": "The airplane ascended to four thousand feet.",
+      "translation": "Самолёт поднялся до высоты четыре тысячи футов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_47",
+      "word": "I need your number.",
+      "translation": "Мне нужен твой номер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_48",
+      "word": "Tom knows he can count on Mary.",
+      "translation": "Том знает, что может рассчитывать на Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_mathematicsnumbers_9_49",
+      "word": "Mathematics is basic to all sciences.",
+      "translation": "Математика - основа всех наук.",
+      "language": "en"
+    }
+  ]
+}

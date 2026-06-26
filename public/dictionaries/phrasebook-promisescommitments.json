@@ -1,0 +1,3007 @@
+{
+  "id": "phrasebook-promisescommitments",
+  "name": "Promises & Commitments",
+  "description": "Phrasebook for Promises & Commitments",
+  "entries": [
+    {
+      "id": "pb_promisescommitments_0_0",
+      "word": "Trust no one.",
+      "translation": "Никому не доверяй.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_1",
+      "word": "I promise I won't look.",
+      "translation": "Я обещаю, что не буду смотреть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_2",
+      "word": "I don't completely trust you.",
+      "translation": "Я не полностью доверяю вам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_3",
+      "word": "It was our secret.",
+      "translation": "Это был наш секрет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_4",
+      "word": "Don't trust anything Tom says.",
+      "translation": "Не верьте ничему, что говорит Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_5",
+      "word": "Tom shouldn't trust Mary.",
+      "translation": "Тому не следует доверять Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_6",
+      "word": "I swear it was Tom.",
+      "translation": "Клянусь, это был Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_7",
+      "word": "I promise I won't be late.",
+      "translation": "Обещаю не опаздывать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_8",
+      "word": "What did you promise to do?",
+      "translation": "Что ты обещал сделать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_9",
+      "word": "Don't trust what Tom says.",
+      "translation": "Не доверяй тому, что говорит Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_10",
+      "word": "Do you trust Tom?",
+      "translation": "Вы доверяете Тому?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_11",
+      "word": "I trust you.",
+      "translation": "Я тебе доверяю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_12",
+      "word": "What's the word?",
+      "translation": "Что за слово?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_13",
+      "word": "I can no longer trust you.",
+      "translation": "Я больше не могу тебе доверять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_14",
+      "word": "Why did Tom commit suicide?",
+      "translation": "Почему Том покончил с собой?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_15",
+      "word": "Is that even a real word?",
+      "translation": "Такое слово вообще есть?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_16",
+      "word": "Nothing is forever.",
+      "translation": "Ничто не вечно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_17",
+      "word": "I'm going to live forever.",
+      "translation": "Я собираюсь жить вечно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_18",
+      "word": "She couldn't utter a word.",
+      "translation": "Она не могла вымолвить ни слова.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_19",
+      "word": "It's not a secret.",
+      "translation": "Это не секрет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_20",
+      "word": "Why is it such a big secret?",
+      "translation": "Почему это такой большой секрет?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_21",
+      "word": "That was a secret.",
+      "translation": "Это был секрет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_22",
+      "word": "Do you trust your instincts?",
+      "translation": "Ты веришь своим инстинктам?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_23",
+      "word": "I don't trust them.",
+      "translation": "Я им не доверяю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_24",
+      "word": "That'll remain our secret.",
+      "translation": "Это останется нашей тайной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_25",
+      "word": "I knew how to keep a secret.",
+      "translation": "Я умел хранить секреты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_26",
+      "word": "That's a secret.",
+      "translation": "Это секрет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_27",
+      "word": "He keeps his word.",
+      "translation": "Он слово держит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_28",
+      "word": "Tom didn't keep his word.",
+      "translation": "Том не сдержал своего слова.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_29",
+      "word": "I thought I could trust Tom.",
+      "translation": "Я думал, что могу Тому доверять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_30",
+      "word": "I can rely on Tom.",
+      "translation": "Я могу опереться на Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_31",
+      "word": "I'll trust you.",
+      "translation": "Я буду верить тебе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_32",
+      "word": "This is top secret.",
+      "translation": "Это совершенно секретно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_33",
+      "word": "I was told not to trust you.",
+      "translation": "Мне сказали не доверять тебе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_34",
+      "word": "I don't compromise.",
+      "translation": "Я не иду на уступки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_35",
+      "word": "I'll put in a word for you.",
+      "translation": "Я замолвлю за тебя словечко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_36",
+      "word": "I simply don't trust Tom.",
+      "translation": "Я просто не доверяю Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_37",
+      "word": "Don't say that word again.",
+      "translation": "Не говори больше этого слова.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_38",
+      "word": "I've decided to trust you.",
+      "translation": "Я решил тебе довериться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_39",
+      "word": "I trust him.",
+      "translation": "Я ему доверяю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_40",
+      "word": "I still trust Tom.",
+      "translation": "Я всё ещё доверяю Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_41",
+      "word": "They met in secret.",
+      "translation": "Они встречались тайком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_42",
+      "word": "What does this word mean?",
+      "translation": "Что означает это слово?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_43",
+      "word": "We will be together forever.",
+      "translation": "Мы будем вместе навсегда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_44",
+      "word": "What's the secret?",
+      "translation": "В чём секрет?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_45",
+      "word": "Do you trust me?",
+      "translation": "Вы мне доверяете?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_46",
+      "word": "Come on, trust me.",
+      "translation": "Давай, доверься мне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_47",
+      "word": "I swear I won't tell anyone.",
+      "translation": "Клянусь, что никому не скажу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_48",
+      "word": "How is this word pronounced?",
+      "translation": "Как произносится это слово?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_0_49",
+      "word": "What did you promise Tom?",
+      "translation": "Что ты обещал Тому?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_0",
+      "word": "I don't trust Tom.",
+      "translation": "Я не доверяю Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_1",
+      "word": "Don't depend on it.",
+      "translation": "Не будь зависим от этого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_2",
+      "word": "Roosevelt kept his promise.",
+      "translation": "Рузвельт сдержал своё обещание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_3",
+      "word": "It'll be our little secret.",
+      "translation": "Это будет наш маленький секрет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_4",
+      "word": "I trust my friends.",
+      "translation": "Я доверяю моим друзьям.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_5",
+      "word": "Get word to Tom.",
+      "translation": "Свяжись с Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_6",
+      "word": "They don't trust me.",
+      "translation": "Они мне не доверяют.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_7",
+      "word": "I'll keep my promise.",
+      "translation": "Я сдержу своё обещание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_8",
+      "word": "Tom didn't say a word to us.",
+      "translation": "Том нам ни слова не сказал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_9",
+      "word": "People don't live forever.",
+      "translation": "Люди не вечны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_10",
+      "word": "This is a secret.",
+      "translation": "Это секрет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_11",
+      "word": "I swear it wasn't me.",
+      "translation": "Клянусь, это был не я.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_12",
+      "word": "I don't trust Tom anymore.",
+      "translation": "Я больше не доверяю Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_13",
+      "word": "Just trust me.",
+      "translation": "Просто доверься мне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_14",
+      "word": "I'll keep it a secret. Don't worry.",
+      "translation": "Я буду держать это в тайне. Не беспокойся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_15",
+      "word": "I promise I won't do that again.",
+      "translation": "Обещаю, что больше так не буду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_16",
+      "word": "Can I trust them?",
+      "translation": "Я могу им доверять?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_17",
+      "word": "I know your secret.",
+      "translation": "Я знаю твой секрет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_18",
+      "word": "How much do you trust what Tom says?",
+      "translation": "Насколько ты доверяешь тому, что говорит Том?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_19",
+      "word": "It's a difficult word to translate.",
+      "translation": "Это сложное для перевода слово.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_20",
+      "word": "He will live forever in our hearts.",
+      "translation": "Он всегда будет жить в наших сердцах.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_21",
+      "word": "She tried to commit suicide.",
+      "translation": "Она попыталась покончить жизнь самоубийством.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_22",
+      "word": "You didn't trust me.",
+      "translation": "Ты мне не доверял.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_23",
+      "word": "I don't intend to do this forever.",
+      "translation": "Я не намерен заниматься этим вечно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_24",
+      "word": "I need people I can rely on.",
+      "translation": "Мне нужны люди, на которых я могу положиться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_25",
+      "word": "His memory will live forever.",
+      "translation": "Память о нём будет жить вечно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_26",
+      "word": "He didn't reveal his secret.",
+      "translation": "Он не раскрыл своего секрета.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_27",
+      "word": "I swear I don't know anything.",
+      "translation": "Клянусь, я ничего не знаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_28",
+      "word": "We depend on you.",
+      "translation": "Мы зависим от тебя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_29",
+      "word": "They shouldn't trust Tom.",
+      "translation": "Им не следует доверять Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_30",
+      "word": "I knew we couldn't trust you.",
+      "translation": "Я знал, что мы не можем тебе доверять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_31",
+      "word": "In 1997 they reached a compromise.",
+      "translation": "В 1997 году они достигли компромисса.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_32",
+      "word": "Tom didn't commit suicide.",
+      "translation": "Том не совершал самоубийства.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_33",
+      "word": "I don't know if I can trust Tom.",
+      "translation": "Не знаю, могу ли я доверять Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_34",
+      "word": "I'm keeping it secret.",
+      "translation": "Я держу это в тайне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_35",
+      "word": "Promise you'll tell Tom about this.",
+      "translation": "Пообещай, что расскажешь Тому об этом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_36",
+      "word": "I don't know if we can trust them.",
+      "translation": "Не знаю, можем ли мы им доверять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_37",
+      "word": "I promise that I won't bite.",
+      "translation": "Обещаю, что не буду кусаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_38",
+      "word": "There's no such word.",
+      "translation": "Нет такого слова.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_39",
+      "word": "Don't you trust Tom?",
+      "translation": "Ты не доверяешь Тому?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_40",
+      "word": "He doesn't altogether trust me.",
+      "translation": "Он не полностью мне доверяет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_41",
+      "word": "She cannot have broken her promise.",
+      "translation": "Не может быть, чтобы она нарушила своё обещание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_42",
+      "word": "I'll keep it a secret.",
+      "translation": "Я буду хранить это в тайне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_43",
+      "word": "This doesn't depend on me.",
+      "translation": "Это от меня не зависит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_44",
+      "word": "I trust your advice.",
+      "translation": "Я доверяю твоему совету.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_45",
+      "word": "He kept his word.",
+      "translation": "Он сдержал своё слово.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_46",
+      "word": "I gave my word.",
+      "translation": "Я дал слово.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_47",
+      "word": "We'd like to have a word with Tom.",
+      "translation": "Нам бы хотелось переговорить с Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_48",
+      "word": "I promise I'll try.",
+      "translation": "Обещаю, что попробую.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_1_49",
+      "word": "He didn't say a word to me.",
+      "translation": "Он не сказал мне ни слова.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_0",
+      "word": "I don't know who I can trust.",
+      "translation": "Я не знаю, кому я могу доверять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_1",
+      "word": "I've kept my promise.",
+      "translation": "Я выполнил своё обещание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_2",
+      "word": "Is there another word for synonym?",
+      "translation": "Есть ли какое-то другое слово для синонима?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_3",
+      "word": "He seems to know the secret.",
+      "translation": "Похоже, он знает секрет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_4",
+      "word": "I wouldn't trust them.",
+      "translation": "Я бы им не доверял.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_5",
+      "word": "How do I know who to trust?",
+      "translation": "Откуда я знаю, кому доверять?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_6",
+      "word": "Tom can keep a secret.",
+      "translation": "Том умеет хранить секрет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_7",
+      "word": "This word was borrowed from French.",
+      "translation": "Это слово заимствовано из французского.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_8",
+      "word": "We have to keep it a secret.",
+      "translation": "Мы должны держать это в секрете.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_9",
+      "word": "Do you know how to keep a secret?",
+      "translation": "Вы умеете хранить секреты?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_10",
+      "word": "That's a secret. I can't tell you.",
+      "translation": "Это секрет. Я не могу тебе рассказать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_11",
+      "word": "I've got a secret.",
+      "translation": "У меня есть тайна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_12",
+      "word": "I want you to make me a promise.",
+      "translation": "Я хочу, чтобы ты мне кое-что пообещала.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_13",
+      "word": "Promise you'll write to me.",
+      "translation": "Обещайте писать!",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_14",
+      "word": "I couldn't say a word.",
+      "translation": "Я не мог сказать ни слова.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_15",
+      "word": "His promise cannot be relied on.",
+      "translation": "На его обещание нельзя положиться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_16",
+      "word": "If I were you, I would trust her.",
+      "translation": "Будь я на твоём месте, я бы ей доверял.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_17",
+      "word": "This word has a double meaning.",
+      "translation": "У этого слова есть два значения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_18",
+      "word": "I'm going to tell you a secret.",
+      "translation": "Я открою тебе один секрет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_19",
+      "word": "Tom's life was changed forever.",
+      "translation": "Жизнь Тома изменилась навсегда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_20",
+      "word": "Tom knows that he can trust me.",
+      "translation": "Том знает, что он может мне доверять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_21",
+      "word": "Promise you won't tell Tom.",
+      "translation": "Пообещай, что не скажешь Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_22",
+      "word": "Why do we need to keep it secret?",
+      "translation": "Почему нам нужно хранить это в секрете?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_23",
+      "word": "This is the last one, I promise.",
+      "translation": "Это последний, обещаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_24",
+      "word": "Tom knows he can trust us.",
+      "translation": "Том знает, что может нам доверять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_25",
+      "word": "I promise not to disappoint you.",
+      "translation": "Обещаю не обмануть твоих надежд.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_26",
+      "word": "This word is spelled with two N's.",
+      "translation": "Это слово пишется с двумя \"н\".",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_27",
+      "word": "I don't trust politicians.",
+      "translation": "Я не доверяю политикам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_28",
+      "word": "I swear I'll wait for you.",
+      "translation": "Клянусь, что буду тебя ждать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_29",
+      "word": "I don't want to break my promise.",
+      "translation": "Я не хочу нарушать своего обещания.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_30",
+      "word": "Even young kids know this word.",
+      "translation": "Это слово даже маленькие дети знают.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_31",
+      "word": "You know Tom doesn't trust you.",
+      "translation": "Ты знаешь, что Том тебе не доверяет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_32",
+      "word": "You can trust Tom.",
+      "translation": "Ты можешь доверять Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_33",
+      "word": "Promise me one more thing.",
+      "translation": "Пообещай мне ещё кое-что.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_34",
+      "word": "Can you remember the first word you learned in French?",
+      "translation": "Ты можешь вспомнить первое слово, которое ты выучил на французском?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_35",
+      "word": "Tom made me promise not to tell anyone.",
+      "translation": "Том взял с меня обещание, что я никому не скажу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_36",
+      "word": "What's your favorite word?",
+      "translation": "Какое твоё любимое слово?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_37",
+      "word": "Tom knows that he can trust Mary.",
+      "translation": "Том знает, что может доверять Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_38",
+      "word": "They trust you.",
+      "translation": "Они тебе доверяют.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_39",
+      "word": "You must trust in yourselves.",
+      "translation": "Вы должны верить в себя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_40",
+      "word": "I won't betray your trust.",
+      "translation": "Я не обману твоего доверия.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_41",
+      "word": "I thought I could trust you, Tom.",
+      "translation": "Я думал, что могу тебе доверять, Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_42",
+      "word": "We can't keep this a secret forever.",
+      "translation": "Мы не можем вечно держать это в тайне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_43",
+      "word": "He didn't say a word.",
+      "translation": "Он не сказал ни слова.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_44",
+      "word": "Do you know Tom's secret formula?",
+      "translation": "Ты знаешь секретную формулу Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_45",
+      "word": "Tom betrayed Mary's trust.",
+      "translation": "Том обманул доверие Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_46",
+      "word": "Promise me that you won't tell anyone.",
+      "translation": "Обещай мне, что никому не скажешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_47",
+      "word": "I won't wait forever.",
+      "translation": "Я не буду ждать вечно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_48",
+      "word": "I didn't say a single word.",
+      "translation": "Я не сказал ни слова.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_2_49",
+      "word": "Does anybody here trust Tom?",
+      "translation": "Здесь кто-нибудь доверяет Тому?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_0",
+      "word": "How did the secret get out?",
+      "translation": "Как была раскрыта эта тайна?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_1",
+      "word": "I swear I didn't know Tom was coming.",
+      "translation": "Клянусь, я не знал, что Том придёт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_2",
+      "word": "Tom can't hear a word you're saying.",
+      "translation": "Тому тебя совсем не слышно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_3",
+      "word": "He's very honest, so we can rely on him.",
+      "translation": "Он очень честен, так что мы можем на него положиться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_4",
+      "word": "Can we rely on Tom?",
+      "translation": "Мы можем положиться на Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_5",
+      "word": "She keeps her age a secret.",
+      "translation": "Она держит свой возраст в секрете.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_6",
+      "word": "How do you know that you can trust Tom?",
+      "translation": "Откуда ты знаешь, что Тому можно доверять?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_7",
+      "word": "We were trying to keep that a secret.",
+      "translation": "Мы пытались сохранить это в тайне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_8",
+      "word": "Can you swear in French?",
+      "translation": "Ты умеешь ругаться по-французски?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_9",
+      "word": "Take my word for it.",
+      "translation": "Поверь мне на слово.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_10",
+      "word": "I thought Tom would live forever.",
+      "translation": "Я думал, что Том будет жить вечно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_11",
+      "word": "The word is no longer in use.",
+      "translation": "Это слово больше не используется.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_12",
+      "word": "I can't trust you.",
+      "translation": "Я не могу верить Вам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_13",
+      "word": "Tom knows that we trust him.",
+      "translation": "Том знает, что мы ему доверяем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_14",
+      "word": "It is very important to keep your word.",
+      "translation": "Очень важно держать своё слово.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_15",
+      "word": "I didn't know it was a big secret.",
+      "translation": "Я не знал, что это большой секрет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_16",
+      "word": "I can't hide you forever.",
+      "translation": "Я не могу вечно вас прятать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_17",
+      "word": "I promise I won't be late again.",
+      "translation": "Обещаю, что больше не опоздаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_18",
+      "word": "You didn't keep your word.",
+      "translation": "Ты не сдержал своего обещания.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_19",
+      "word": "I've been waiting forever.",
+      "translation": "Я уже целую вечность жду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_20",
+      "word": "You shouldn't break your promise.",
+      "translation": "Тебе не следует нарушать своё обещание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_21",
+      "word": "Look up this word in the dictionary.",
+      "translation": "Посмотри это слово в словаре.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_22",
+      "word": "I promise that it won't happen again.",
+      "translation": "Обещаю, что это не повторится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_23",
+      "word": "It's no secret.",
+      "translation": "Это не секрет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_24",
+      "word": "I don't trust robots.",
+      "translation": "Я не доверяю роботам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_25",
+      "word": "I didn't keep my promise.",
+      "translation": "Я не сдержал своего обещания.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_26",
+      "word": "I don't know how to pronounce this word.",
+      "translation": "Я не знаю, как произносится это слово.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_27",
+      "word": "I promise I won't tell anybody where Tom is.",
+      "translation": "Обещаю, что никому не скажу, где Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_28",
+      "word": "Can we trust anyone?",
+      "translation": "Можем ли мы кому-нибудь доверять?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_29",
+      "word": "I promise that I won't peek.",
+      "translation": "Обещаю, что не буду подсматривать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_30",
+      "word": "Tom knows we trust him.",
+      "translation": "Том знает, что мы ему доверяем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_31",
+      "word": "Tom made us a promise that he didn't keep.",
+      "translation": "Том дал нам обещание, которое не сдержал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_32",
+      "word": "There will be no compromise.",
+      "translation": "Компромисса не будет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_33",
+      "word": "Tom and Mary didn't trust each other.",
+      "translation": "Том и Мэри не доверяли друг другу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_34",
+      "word": "I have fulfilled my promise.",
+      "translation": "Я выполнил своё обещание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_35",
+      "word": "Tom has a secret crush on Mary.",
+      "translation": "Том тайно влюблён в Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_36",
+      "word": "That word is very hard to translate.",
+      "translation": "Это слово перевести очень трудно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_37",
+      "word": "I do trust you, Tom.",
+      "translation": "Я доверяю тебе, Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_38",
+      "word": "Tom kept it secret.",
+      "translation": "Том держал это в тайне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_39",
+      "word": "Tom and I'll be best friends forever.",
+      "translation": "Мы с Томом всегда будем лучшими друзьями.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_40",
+      "word": "This can't last forever.",
+      "translation": "Это не может продолжаться вечно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_41",
+      "word": "I heard every word you said.",
+      "translation": "Я слышал каждое сказанное тобой слово.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_42",
+      "word": "I already know your secret.",
+      "translation": "Я уже знаю твою тайну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_43",
+      "word": "He's very honest, so we can depend on him.",
+      "translation": "Он очень честный, поэтому мы можем положиться на него.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_44",
+      "word": "Tom swore he didn't tell anyone our secret.",
+      "translation": "Том поклялся, что никому не рассказывал наш секрет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_45",
+      "word": "Why doesn't Tom trust Mary?",
+      "translation": "Почему Том не доверяет Мэри?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_46",
+      "word": "They seem to trust you.",
+      "translation": "Они, похоже, тебе доверяют.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_47",
+      "word": "Tom and Mary trust each other.",
+      "translation": "Том и Мэри доверяют друг другу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_48",
+      "word": "Your secret will be safe with me.",
+      "translation": "Я никому не открою твой секрет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_3_49",
+      "word": "I didn't say a word.",
+      "translation": "Я ни слова не сказал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_0",
+      "word": "I don't know who we can trust.",
+      "translation": "Я не знаю, кому мы можем доверять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_1",
+      "word": "Let's keep this a secret.",
+      "translation": "Давайте сохраним это в секрете.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_2",
+      "word": "Write down each word.",
+      "translation": "Запиши каждое слово.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_3",
+      "word": "I promise I'll explain everything later.",
+      "translation": "Я обещаю, я всё объясню позже.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_4",
+      "word": "I promise I won't tell anybody who you are.",
+      "translation": "Обещаю, что никому не скажу, кто вы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_5",
+      "word": "Every word in this dictionary is important.",
+      "translation": "Каждое слово в этом словаре важно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_6",
+      "word": "I could do this forever.",
+      "translation": "Я мог бы делать это вечно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_7",
+      "word": "No one lives forever.",
+      "translation": "Никто не живёт вечно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_8",
+      "word": "I'm the one who told Tom not to trust you.",
+      "translation": "Это я сказал Тому, чтобы он тебе не доверял.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_9",
+      "word": "I didn't know who to trust.",
+      "translation": "Я не знал, кому доверять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_10",
+      "word": "I kept it a secret.",
+      "translation": "Я держал это в тайне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_11",
+      "word": "He betrayed her secret to his friends.",
+      "translation": "Он выболтал её тайну своим друзьям.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_12",
+      "word": "If I can't trust my parents, who can I trust?",
+      "translation": "Если я не могу доверять родителям, тогда кому?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_13",
+      "word": "Tom and Mary got married in secret.",
+      "translation": "Том с Мэри тайно поженились.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_14",
+      "word": "You're the only person that I can trust.",
+      "translation": "Ты единственный, кому я могу доверять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_15",
+      "word": "How do you know you can trust Tom?",
+      "translation": "Откуда ты знаешь, что Тому можно доверять?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_16",
+      "word": "I knew I couldn't trust Tom.",
+      "translation": "Я знал, что не могу доверять Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_17",
+      "word": "We need to trust each other.",
+      "translation": "Нам нужно доверять друг другу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_18",
+      "word": "The spoken word matters.",
+      "translation": "Сказанное слово имеет значение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_19",
+      "word": "I swear I'm telling the truth.",
+      "translation": "Клянусь, я говорю правду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_20",
+      "word": "Promise me that you won't do that anymore.",
+      "translation": "Обещай мне, что больше так не будешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_21",
+      "word": "I trust you know what I mean.",
+      "translation": "Полагаю, вы знаете, о чём я.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_22",
+      "word": "I promise I'll come.",
+      "translation": "Обещаю, что приду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_23",
+      "word": "Can we have a word with you?",
+      "translation": "Мы можем с вами поговорить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_24",
+      "word": "I advised him to keep the secret.",
+      "translation": "Я посоветовал ему держать это в тайне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_25",
+      "word": "\"Promise?\" \"Yes, I promise.\"",
+      "translation": "\"Обещаешь?\" - \"Обещаю!\"",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_26",
+      "word": "Did Tom break his promise?",
+      "translation": "Том нарушил своё обещание?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_27",
+      "word": "Is this word in common use?",
+      "translation": "Это слово широко используется?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_28",
+      "word": "No matter what happens, I'll keep my promise.",
+      "translation": "Что бы ни случилось, я сдержу обещание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_29",
+      "word": "Can I tell you a secret?",
+      "translation": "Я могу рассказать тебе секрет?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_30",
+      "word": "We won't be able to keep this secret forever.",
+      "translation": "Мы не сможем вечно хранить это в тайне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_31",
+      "word": "Tom is working on something secret.",
+      "translation": "Том работает над чем-то секретным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_32",
+      "word": "That'll depend on what Tom says.",
+      "translation": "Это будет зависеть от того, что скажет Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_33",
+      "word": "Who can we trust?",
+      "translation": "Кому мы можем доверять?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_34",
+      "word": "Tom is the only person I can really trust.",
+      "translation": "Том единственный человек, кому я действительно могу доверять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_35",
+      "word": "Who else knows about your secret?",
+      "translation": "Кто ещё знает твой секрет?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_36",
+      "word": "Tom forgave Mary breaking her promise.",
+      "translation": "Том простил Мэри за то, что она нарушила своё обещание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_37",
+      "word": "Don't take their word for it.",
+      "translation": "Не верь им на слово.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_38",
+      "word": "Where is the accent on the word 'Australia?'",
+      "translation": "Где ударение в слове \"Australia\"?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_39",
+      "word": "You know it can't last forever.",
+      "translation": "Ты же понимаешь, что вечно так продолжаться не может.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_40",
+      "word": "I need a word with Tom.",
+      "translation": "Мне нужно поговорить с Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_41",
+      "word": "I'm keeping a secret.",
+      "translation": "Я храню секрет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_42",
+      "word": "Tom made me promise not to go there anymore.",
+      "translation": "Том заставил меня пообещать, что я больше туда не пойду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_43",
+      "word": "That secret can't be kept forever.",
+      "translation": "Этот секрет нельзя хранить вечно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_44",
+      "word": "I trust you and Tom.",
+      "translation": "Я вам с Томом доверяю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_45",
+      "word": "I'm going to let you in on a little secret.",
+      "translation": "Я открою вам маленький секрет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_46",
+      "word": "Don't rely on Tom.",
+      "translation": "Не полагайся на Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_47",
+      "word": "He didn't say a word about it.",
+      "translation": "Он ни слова об этом не сказал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_48",
+      "word": "Can I have a word with you?",
+      "translation": "Можно с вами переговорить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_4_49",
+      "word": "Tom abused my trust.",
+      "translation": "Том злоупотреблял моим доверием.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_0",
+      "word": "It's top secret.",
+      "translation": "Это совершенно секретно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_1",
+      "word": "Tom didn't want to share his secret.",
+      "translation": "Том не хотел делиться своим секретом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_2",
+      "word": "Do you promise not to tell anyone anything?",
+      "translation": "Обещаете никому ничего не говорить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_3",
+      "word": "The word is unfamiliar to me.",
+      "translation": "Это слово мне не знакомо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_4",
+      "word": "I trust Tom more than anyone.",
+      "translation": "Я доверяю Тому больше, чем кому-либо ещё.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_5",
+      "word": "I trust Tom completely.",
+      "translation": "Я полностью доверяю Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_6",
+      "word": "Tom said he knows Mary's secret.",
+      "translation": "Том сказал, что знает секрет Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_7",
+      "word": "We don't trust Tom.",
+      "translation": "Мы не доверяем Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_8",
+      "word": "Tom couldn't say a word.",
+      "translation": "Том не мог произнести ни слова.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_9",
+      "word": "I gave you my word.",
+      "translation": "Я дал тебе слово.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_10",
+      "word": "Do you know what Tom's secret is?",
+      "translation": "Знаешь, в чём заключается секрет Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_11",
+      "word": "You can't rely on Tom.",
+      "translation": "Ты не можешь полагаться на Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_12",
+      "word": "This is a top secret mission.",
+      "translation": "Это сверхсекретная миссия.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_13",
+      "word": "You can't trust anyone.",
+      "translation": "Никому нельзя доверять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_14",
+      "word": "I didn't utter a word.",
+      "translation": "Я не произнёс ни слова.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_15",
+      "word": "I didn't know who I could trust.",
+      "translation": "Я не знал, кому я могу доверять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_16",
+      "word": "Can I trust you?",
+      "translation": "Я могу тебе доверять?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_17",
+      "word": "I promise I won't tell anyone who you are.",
+      "translation": "Обещаю, что никому не скажу, кто вы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_18",
+      "word": "This word is not in common use.",
+      "translation": "Это слово не является общеупотребительным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_19",
+      "word": "We cannot rely on her kindness.",
+      "translation": "Мы не можем полагаться на её доброту.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_20",
+      "word": "Tom doesn't know who he can trust.",
+      "translation": "Том не знает, кому доверять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_21",
+      "word": "Tom revealed his secret to us.",
+      "translation": "Том открыл нам свой секрет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_22",
+      "word": "It's not a secret anymore.",
+      "translation": "Это уже не секрет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_23",
+      "word": "Why don't you trust Tom?",
+      "translation": "Почему ты не доверяешь Тому?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_24",
+      "word": "They finally had to commit Tom to an asylum.",
+      "translation": "Им пришлось в конце концов поместить Тома в сумасшедший дом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_25",
+      "word": "Translate the passage word for word.",
+      "translation": "Переведи отрывок слово за словом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_26",
+      "word": "You must promise me something.",
+      "translation": "Ты должен мне кое-что пообещать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_27",
+      "word": "I promise that I won't tell anybody where Tom is.",
+      "translation": "Обещаю, что никому не скажу, где Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_28",
+      "word": "I promise you that I won't ever leave you.",
+      "translation": "Я обещаю тебе, что никогда тебя не покину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_29",
+      "word": "I promise that I'll find out who did this.",
+      "translation": "Обещаю, что выясню, кто это сделал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_30",
+      "word": "No one said a word.",
+      "translation": "Никто не сказал ни слова.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_31",
+      "word": "You can't trust anything he says.",
+      "translation": "Ты не можешь доверять ничему из того, что он говорит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_32",
+      "word": "That's why I trust you.",
+      "translation": "Поэтому я тебе доверяю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_33",
+      "word": "Tom circled the word with his pencil.",
+      "translation": "Том обвёл слово карандашом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_34",
+      "word": "This word has a negative connotation.",
+      "translation": "Это слово имеет негативную коннотацию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_35",
+      "word": "Tom believes every word I say.",
+      "translation": "Том верит каждому моему слову.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_36",
+      "word": "That word isn't in the dictionary.",
+      "translation": "Этого слова нет в словаре.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_37",
+      "word": "It's said that he knows the secret.",
+      "translation": "Говорят, он знает этот секрет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_38",
+      "word": "Have you kept your promise?",
+      "translation": "Ты сдержал своё обещание?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_39",
+      "word": "I rely on you and Tom.",
+      "translation": "Я на вас с Томом рассчитываю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_40",
+      "word": "Promise not to tell anyone.",
+      "translation": "Обещай, что никому не скажешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_41",
+      "word": "They made a promise.",
+      "translation": "Они дали обещание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_42",
+      "word": "I want you to put in a good word for me.",
+      "translation": "Я хочу, чтобы ты замолвил за меня словечко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_43",
+      "word": "I swear I'll shoot you.",
+      "translation": "Я клянусь, что я тебя пристрелю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_44",
+      "word": "Tom kept his word.",
+      "translation": "Том сдержал слово.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_45",
+      "word": "He abused our trust.",
+      "translation": "Он злоупотребил нашим доверием.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_46",
+      "word": "You shouldn't use the word \"gay\" as an insult.",
+      "translation": "Вы не должны использовать слово \"гей\" в качестве оскорбления.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_47",
+      "word": "This is going to take forever.",
+      "translation": "Это будет длиться вечно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_48",
+      "word": "Not a word of this to anyone. Got it?",
+      "translation": "Никому об этом ни слова, ясно?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_5_49",
+      "word": "I don't know if I trust you.",
+      "translation": "Не знаю, доверяю ли я тебе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_0",
+      "word": "Tom accepted the compromise.",
+      "translation": "Том согласился на компромисс.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_1",
+      "word": "Tom didn't tell me his secret.",
+      "translation": "Том не рассказал мне свой секрет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_2",
+      "word": "I told Tom to keep his promise.",
+      "translation": "Я сказал Тому, чтобы он не нарушал своего обещания.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_3",
+      "word": "Why did I trust you?",
+      "translation": "Зачем я доверял тебе?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_4",
+      "word": "He didn't keep his promise.",
+      "translation": "Он не сдержал обещания.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_5",
+      "word": "I want to have a word with you.",
+      "translation": "Я хочу с тобой переговорить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_6",
+      "word": "I guarantee that this information is correct.",
+      "translation": "Я гарантирую, что эта информация корректна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_7",
+      "word": "No matter what he says, don't trust him.",
+      "translation": "Не важно что он говорит, не доверяй ему.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_8",
+      "word": "Can you explain the exact meaning of this word?",
+      "translation": "Ты можешь объяснить точное значение этого слова?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_9",
+      "word": "It's a huge secret.",
+      "translation": "Это большой секрет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_10",
+      "word": "You need to trust me.",
+      "translation": "Тебе нужно мне доверять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_11",
+      "word": "Dude, trust me.",
+      "translation": "Чувак, поверь мне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_12",
+      "word": "Tom learned a new word.",
+      "translation": "Том выучил новое слово.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_13",
+      "word": "Tom has a secret admirer.",
+      "translation": "У Тома есть тайный поклонник.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_14",
+      "word": "She failed to keep her promise.",
+      "translation": "Она не сдержала обещание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_15",
+      "word": "Is that a promise?",
+      "translation": "Обещаешь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_16",
+      "word": "She let the secret out.",
+      "translation": "Она выдала тайну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_17",
+      "word": "Can you guys keep a secret?",
+      "translation": "Вы умеете хранить секреты?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_18",
+      "word": "Do you swear you're telling me the truth?",
+      "translation": "Ты клянёшься, что говоришь мне правду?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_19",
+      "word": "I had to keep my secret.",
+      "translation": "Мне пришлось хранить свою тайну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_20",
+      "word": "He went away without saying a word.",
+      "translation": "Он ушёл, не сказав ни слова.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_21",
+      "word": "I didn't want to compromise.",
+      "translation": "Я не хотел идти на компромисс.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_22",
+      "word": "I give my word.",
+      "translation": "Даю слово.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_23",
+      "word": "I promise I'll call.",
+      "translation": "Обещаю позвонить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_24",
+      "word": "I promise you that won't happen.",
+      "translation": "Обещаю, что такого не будет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_25",
+      "word": "We can't promise anything.",
+      "translation": "Мы ничего не можем обещать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_26",
+      "word": "He's apt to forget his promise.",
+      "translation": "Он склонен забывать о своих обещаниях.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_27",
+      "word": "What's the secret to success?",
+      "translation": "В чём секрет успеха?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_28",
+      "word": "Friendship requires mutual trust.",
+      "translation": "Дружба требует взаимного доверия.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_29",
+      "word": "I promise that I won't tell anyone who you are.",
+      "translation": "Обещаю, что никому не скажу, кто вы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_30",
+      "word": "I swear I wasn't there.",
+      "translation": "Я клянусь, что меня там не было.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_31",
+      "word": "I'll remember you forever.",
+      "translation": "Я всегда буду помнить тебя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_32",
+      "word": "I'll keep your secret.",
+      "translation": "Я сохраню твой секрет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_33",
+      "word": "Tom kept his promise.",
+      "translation": "Том сдержал своё обещание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_34",
+      "word": "I promise not to look.",
+      "translation": "Обещаю не подсматривать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_35",
+      "word": "Tom knows your secret.",
+      "translation": "Том знает твой секрет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_36",
+      "word": "Tom misread the word.",
+      "translation": "Том неправильно прочитал слово.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_37",
+      "word": "You should've kept that a secret.",
+      "translation": "Вам следовало держать это в тайне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_38",
+      "word": "Can anyone pronounce this word?",
+      "translation": "Кто-нибудь может произнести это слово?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_39",
+      "word": "\"Nigger\" is an offensive word.",
+      "translation": "\"Ниггер\" - оскорбительное слово.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_40",
+      "word": "It was a compromise.",
+      "translation": "Это был компромисс.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_41",
+      "word": "I figured I could trust you.",
+      "translation": "Я решила, что могу тебе доверять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_42",
+      "word": "I don't want to live forever.",
+      "translation": "Я не хочу жить вечно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_43",
+      "word": "I want a word with you.",
+      "translation": "Я хочу с тобой переговорить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_44",
+      "word": "I promise that I'll be there by 2:30.",
+      "translation": "Обещаю, что буду там к половине третьего.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_45",
+      "word": "Promise me that you won't ever do that again.",
+      "translation": "Обещай мне, что больше никогда так не будешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_46",
+      "word": "They don't trust you.",
+      "translation": "Они не доверяют вам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_47",
+      "word": "I know who to trust and who not to trust.",
+      "translation": "Я знаю, кому доверять, а кому нет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_48",
+      "word": "I promise I won't intervene.",
+      "translation": "Обещаю, что не буду вмешиваться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_6_49",
+      "word": "Tom needed someone he could trust.",
+      "translation": "Тому нужен был кто-то, кому он мог бы доверять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_0",
+      "word": "You don't seem to trust me.",
+      "translation": "Похоже, ты не доверяешь мне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_1",
+      "word": "It isn't possible to live forever.",
+      "translation": "Невозможно жить вечно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_2",
+      "word": "They trust each other.",
+      "translation": "Они доверяют друг другу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_3",
+      "word": "You shouldn't rely on others.",
+      "translation": "Ты не должен полагаться на других.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_4",
+      "word": "I want you to know that I meant every word I said.",
+      "translation": "Я хочу, чтобы ты знал, что каждое сказанное мною слово было искренним.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_5",
+      "word": "Don't trust politicians.",
+      "translation": "Не верь политикам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_6",
+      "word": "I can't trust Tom anymore.",
+      "translation": "Я больше не могу доверять Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_7",
+      "word": "It's a promise.",
+      "translation": "Это обещание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_8",
+      "word": "Tom told me to keep it secret.",
+      "translation": "Том сказал мне, чтобы я хранил это в тайне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_9",
+      "word": "Can you keep a secret?",
+      "translation": "Вы можете хранить тайну?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_10",
+      "word": "Share your secret with me.",
+      "translation": "Поделись со мной своим секретом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_11",
+      "word": "I swear I didn't see Tom.",
+      "translation": "Клянусь, я не видел Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_12",
+      "word": "Promise you won't get mad.",
+      "translation": "Обещай, что не рассердишься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_13",
+      "word": "Don't say that word.",
+      "translation": "Не говори этого слова.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_14",
+      "word": "You don't trust anyone.",
+      "translation": "Вы никому не доверяете.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_15",
+      "word": "I don't trust businessmen.",
+      "translation": "Я не доверяю бизнесменам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_16",
+      "word": "Tom knows he can trust Mary.",
+      "translation": "Том знает, что может доверять Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_17",
+      "word": "You can't live forever.",
+      "translation": "Ты не можешь жить вечно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_18",
+      "word": "I don't trust many people.",
+      "translation": "Я мало кому доверяю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_19",
+      "word": "I swear I won't do that again.",
+      "translation": "Клянусь, что больше так не буду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_20",
+      "word": "It's no longer a secret.",
+      "translation": "Это уже не секрет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_21",
+      "word": "Can we really trust Tom?",
+      "translation": "Мы действительно можем доверять Тому?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_22",
+      "word": "You just have to promise me one thing.",
+      "translation": "Вы лишь должны пообещать мне одну вещь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_23",
+      "word": "I promise you I'll explain everything later.",
+      "translation": "Обещаю, что позже я тебе всё объясню.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_24",
+      "word": "I'll be there. I promise.",
+      "translation": "Я приду. Обещаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_25",
+      "word": "That French word has no equivalent in English.",
+      "translation": "У этого французского слова нет эквивалента в английском.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_26",
+      "word": "That was supposed to be our little secret.",
+      "translation": "Это должен был быть наш маленький секрет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_27",
+      "word": "I just need you to trust me, OK?",
+      "translation": "Прошу, просто поверь мне, ладно?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_28",
+      "word": "Promise me you won't do that again.",
+      "translation": "Обещай мне, что больше так не будешь!",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_29",
+      "word": "I can't guarantee that'll happen.",
+      "translation": "Я не ручаюсь, что это случится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_30",
+      "word": "I promise that I won't tell anyone where you are.",
+      "translation": "Обещаю, что никому не скажу, где ты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_31",
+      "word": "I sense that I can trust you.",
+      "translation": "Я чувствую, что могу тебе доверять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_32",
+      "word": "Tom didn't trust us.",
+      "translation": "Том нам не доверял.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_33",
+      "word": "I promise not to slack off.",
+      "translation": "Обещаю не отлынивать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_34",
+      "word": "I swear I didn't see anything.",
+      "translation": "Клянусь, я ничего не видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_35",
+      "word": "I swear I didn't see you.",
+      "translation": "Клянусь, я тебя не видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_36",
+      "word": "What did Tom promise to do?",
+      "translation": "Что Том обещал сделать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_37",
+      "word": "Tom doesn't trust you.",
+      "translation": "Том тебе не доверяет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_38",
+      "word": "I promise I won't do that anymore.",
+      "translation": "Обещаю, что больше так не буду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_39",
+      "word": "I won't do it anymore. I promise.",
+      "translation": "Я больше так не буду. Обещаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_40",
+      "word": "Do you trust anyone?",
+      "translation": "Ты кому-нибудь доверяешь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_41",
+      "word": "Can't you just take my word for it?",
+      "translation": "Разве ты не можешь просто поверить мне на слово?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_42",
+      "word": "We have no choice but to trust Tom.",
+      "translation": "У нас нет выбора, кроме как довериться Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_43",
+      "word": "Tom made me swear not to tell anyone.",
+      "translation": "Том заставил меня поклясться, что я никому не скажу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_44",
+      "word": "Tom keeps his word.",
+      "translation": "Том держит слово.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_45",
+      "word": "Tom just stared at Mary without saying a word.",
+      "translation": "Том просто смотрел на Мэри, не говоря ни слова.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_46",
+      "word": "You can rely on me.",
+      "translation": "Ты можешь на меня положиться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_47",
+      "word": "Don't trust what he says.",
+      "translation": "Не доверяйте тому, что он говорит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_48",
+      "word": "Can we trust them?",
+      "translation": "Мы можем им доверять?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_7_49",
+      "word": "It isn't a secret.",
+      "translation": "Это не секрет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_0",
+      "word": "You're the only person I can trust.",
+      "translation": "Ты единственный, кому я могу доверять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_1",
+      "word": "I can't trust you anymore.",
+      "translation": "Я больше не могу тебе доверять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_2",
+      "word": "You shouldn't trust that man.",
+      "translation": "Тебе не стоит доверять этому человеку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_3",
+      "word": "Promise me you won't be late.",
+      "translation": "Обещай мне, что не опоздаешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_4",
+      "word": "You're the only one I can trust.",
+      "translation": "Ты единственный, кому я могу доверять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_5",
+      "word": "I promise that I won't leave without you.",
+      "translation": "Обещаю, что без тебя не уйду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_6",
+      "word": "I promise to leave Tom alone.",
+      "translation": "Я обещаю оставить Тома в покое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_7",
+      "word": "OK, what's the secret?",
+      "translation": "Хорошо, что за секрет?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_8",
+      "word": "I promise you won't happen.",
+      "translation": "Обещаю, что такого не будет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_9",
+      "word": "I know that you trust Tom.",
+      "translation": "Я знаю, что ты доверяешь Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_10",
+      "word": "This word doesn't have a plural form.",
+      "translation": "Это слово не имеет множественного числа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_11",
+      "word": "Swear you won't tell anyone.",
+      "translation": "Поклянись, что никому не расскажешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_12",
+      "word": "This word is still in use.",
+      "translation": "Это слово всё ещё в употреблении.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_13",
+      "word": "I don't trust the administration.",
+      "translation": "Я не доверяю администрации.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_14",
+      "word": "I want you to promise me you won't do it again.",
+      "translation": "Я хочу, чтобы ты пообещал мне, что больше так не будешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_15",
+      "word": "This word is derived from Latin.",
+      "translation": "Это слово латинского происхождения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_16",
+      "word": "Tom is the only one I trust.",
+      "translation": "Том - единственный, кому я доверяю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_17",
+      "word": "This isn't a French word.",
+      "translation": "Это не французское слово.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_18",
+      "word": "The informer's identity has to remain secret.",
+      "translation": "Личность осведомителя должна остаться в тайне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_19",
+      "word": "I couldn't find the word in the dictionary.",
+      "translation": "Я не нашёл это слово в словаре.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_20",
+      "word": "You made a promise.",
+      "translation": "Ты дал обещание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_21",
+      "word": "I still don't trust Tom very much.",
+      "translation": "Я пока не слишком доверяю Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_22",
+      "word": "I don't know if I can trust you.",
+      "translation": "Не знаю, могу ли я тебе доверять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_23",
+      "word": "I wish Tom would trust me.",
+      "translation": "Хотел бы я, чтобы Том мне доверял.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_24",
+      "word": "He's a man you can rely on.",
+      "translation": "Это человек, на которого можно положиться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_25",
+      "word": "Can we have a word outside?",
+      "translation": "Мы можем поговорить снаружи?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_26",
+      "word": "Don't trust Tom, no matter what he says.",
+      "translation": "Не доверяй Тому, что бы он ни говорил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_27",
+      "word": "They're the only ones Tom can trust.",
+      "translation": "Они единственные, кому Том может доверять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_28",
+      "word": "Don't trust anyone, not even Tom.",
+      "translation": "Никому не доверяй, даже Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_29",
+      "word": "Tom wants to have a word with you.",
+      "translation": "Том хочет перекинуться с тобой словечком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_30",
+      "word": "Tom has no reason not to trust Mary.",
+      "translation": "У Тома нет причин не доверять Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_31",
+      "word": "It won't be easy to gain Tom's trust.",
+      "translation": "Завоевать доверие Тома будет непросто.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_32",
+      "word": "I need someone I can trust.",
+      "translation": "Мне нужен кто-то, кому я могу доверять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_33",
+      "word": "I don't want Tom to know. This has to be our secret.",
+      "translation": "Я не хочу, чтобы Том знал. Это должен быть наш секрет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_34",
+      "word": "No one uses that word anymore.",
+      "translation": "Никто больше не использует это слово.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_35",
+      "word": "Can we trust you?",
+      "translation": "Мы можем тебе доверять?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_36",
+      "word": "Tom doesn't trust any of us.",
+      "translation": "Том никому из нас не доверяет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_37",
+      "word": "It's very important to keep your word.",
+      "translation": "Очень важно держать своё слово.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_38",
+      "word": "Can I trust Tom?",
+      "translation": "Я могу доверять Тому?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_39",
+      "word": "I promise you I won't ever leave you.",
+      "translation": "Я обещаю тебе, что никогда тебя не покину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_40",
+      "word": "I know the secret.",
+      "translation": "Я знаю секрет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_41",
+      "word": "All of them wanted to know my secret.",
+      "translation": "Каждый из них хотел узнать мою тайну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_42",
+      "word": "I swear if you ever do that again, I'll kill you.",
+      "translation": "Клянусь, что если ты ещё раз так когда-нибудь сделаешь, я тебя убью.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_43",
+      "word": "You can trust them.",
+      "translation": "Ты можешь им доверять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_44",
+      "word": "I can't trust Tom.",
+      "translation": "Я не могу доверять Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_45",
+      "word": "I'm just saying you shouldn't trust Tom.",
+      "translation": "Я просто хочу сказать, что тебе не стоит доверять Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_46",
+      "word": "I know who your secret admirer is.",
+      "translation": "Я знаю, кто твой тайный поклонник.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_47",
+      "word": "Just say the word.",
+      "translation": "Просто скажи слово.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_48",
+      "word": "Is there some secret plan?",
+      "translation": "Есть какой-то секретный план?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_8_49",
+      "word": "Do you know what this word means?",
+      "translation": "Ты знаешь, что означает это слово?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_0",
+      "word": "I'll remember this incident forever.",
+      "translation": "Я навсегда запомню этот случай.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_1",
+      "word": "She revealed her secret.",
+      "translation": "Она раскрыла свой секрет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_2",
+      "word": "Don't depend on other people too much.",
+      "translation": "Не надо слишком зависеть от других людей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_3",
+      "word": "Promise me one thing.",
+      "translation": "Пообещай мне одну вещь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_4",
+      "word": "Tom didn't commit the crimes he's been accused of.",
+      "translation": "Том не совершал тех преступлений, в которых его обвиняют.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_5",
+      "word": "Tom hates that word.",
+      "translation": "Том ненавидит это слово.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_6",
+      "word": "You need to earn Tom's trust.",
+      "translation": "Тебе нужно завоевать доверие Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_7",
+      "word": "That's my favorite French word.",
+      "translation": "Это моё любимое французское слово.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_8",
+      "word": "How do we know we can trust you?",
+      "translation": "Откуда мы знаем, что мы можем тебе доверять?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_9",
+      "word": "We kept it secret.",
+      "translation": "Мы держали это в тайне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_10",
+      "word": "Do you know how to swear in French?",
+      "translation": "Ты умеешь ругаться по-французски?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_11",
+      "word": "I can't remember the secret code.",
+      "translation": "Я не могу вспомнить секретный код.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_12",
+      "word": "What does it depend on?",
+      "translation": "От чего это зависит?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_13",
+      "word": "This word has several meanings.",
+      "translation": "У этого слова несколько значений.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_14",
+      "word": "It is difficult for me to pronounce the word.",
+      "translation": "Мне трудно произносить это слово.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_15",
+      "word": "Tom is the one who told me not to trust Mary.",
+      "translation": "Это Том сказал мне не доверять Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_16",
+      "word": "This word is both a noun and a verb.",
+      "translation": "Это слово одновременно и существительное, и глагол.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_17",
+      "word": "Commit these words to memory.",
+      "translation": "Выучите эти слова наизусть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_18",
+      "word": "You must gain Tom's trust first.",
+      "translation": "Сначала ты должен заручиться доверием Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_19",
+      "word": "That will forever remain a mystery.",
+      "translation": "Это навсегда останется загадкой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_20",
+      "word": "I'd like you to keep this a secret.",
+      "translation": "Я бы хотел, чтобы ты сохранил это в тайне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_21",
+      "word": "Tom didn't trust anybody and nobody trusted him.",
+      "translation": "Том никому не доверял, и ему никто не доверял.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_22",
+      "word": "I don't trust any of you.",
+      "translation": "Я никому из вас не доверяю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_23",
+      "word": "Let's be together forever.",
+      "translation": "Давай всегда будем вместе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_24",
+      "word": "You can't trust a word Tom says.",
+      "translation": "Тебе нельзя верить ни единому слову из того, что говорит Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_25",
+      "word": "I promise I'll wait for you.",
+      "translation": "Обещаю, что подожду тебя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_26",
+      "word": "Can you trust Tom?",
+      "translation": "Вы можете доверять Тому?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_27",
+      "word": "Tom seldom breaks his promise.",
+      "translation": "Том редко нарушает обещания.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_28",
+      "word": "Don't take my word for it.",
+      "translation": "Не верь мне на слово.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_29",
+      "word": "I promise that I won't intervene.",
+      "translation": "Обещаю, что не буду вмешиваться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_30",
+      "word": "I promise I'll find out who did this.",
+      "translation": "Обещаю, что выясню, кто это сделал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_31",
+      "word": "I'm forever indebted to you.",
+      "translation": "Я до конца жизни у тебя в долгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_32",
+      "word": "Tom must've forgotten his promise.",
+      "translation": "Том, должно быть, забыл своё обещание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_33",
+      "word": "What does the word \"get\" mean in this sentence?",
+      "translation": "Что означает слово \"get\" в этом предложении?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_34",
+      "word": "Tom vanished without saying a word.",
+      "translation": "Том исчез, не сказав ни слова.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_35",
+      "word": "I swear I didn't do anything.",
+      "translation": "Клянусь, я ничего не делал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_36",
+      "word": "I hope that I can rely on you.",
+      "translation": "Надеюсь, я могу на тебя положиться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_37",
+      "word": "Can we trust him?",
+      "translation": "Мы можем ему доверять?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_38",
+      "word": "Tom uses that word a lot.",
+      "translation": "Том часто использует это слово.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_39",
+      "word": "What's the meaning of that word?",
+      "translation": "Каково значение этого слова?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_40",
+      "word": "Tom gave us his word.",
+      "translation": "Том дал нам слово.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_41",
+      "word": "Nobody lives forever.",
+      "translation": "Никто не живёт вечно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_42",
+      "word": "That isn't how that word is pronounced.",
+      "translation": "Это слово не так произносится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_43",
+      "word": "I took him at his word.",
+      "translation": "Я поверил ему на слово.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_44",
+      "word": "I promise that I won't tell anybody who you are.",
+      "translation": "Обещаю, что никому не скажу, кто вы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_45",
+      "word": "He kept his promise and helped his brothers.",
+      "translation": "Он сдержал обещание и помог своим братьям.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_46",
+      "word": "You have a secret admirer.",
+      "translation": "У тебя есть тайный поклонник.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_47",
+      "word": "That's not how that word is pronounced.",
+      "translation": "Это слово не так произносится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_48",
+      "word": "What's the longest French word you know?",
+      "translation": "Какое самое длинное французское слово ты знаешь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_promisescommitments_9_49",
+      "word": "This won't last forever.",
+      "translation": "Это не будет длиться вечно.",
+      "language": "en"
+    }
+  ]
+}

@@ -1,0 +1,3007 @@
+{
+  "id": "phrasebook-restaurantfood",
+  "name": "Restaurant & Food",
+  "description": "Phrasebook for Restaurant & Food",
+  "entries": [
+    {
+      "id": "pb_restaurantfood_0_0",
+      "word": "We had a drink of nice cool spring water.",
+      "translation": "Мы напились холодной ключевой воды.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_1",
+      "word": "Today is my treat.",
+      "translation": "Сегодня я угощаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_2",
+      "word": "I want to eat some rice.",
+      "translation": "Я хочу поесть риса.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_3",
+      "word": "We need to cross the border.",
+      "translation": "Мы должны пересечь границу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_4",
+      "word": "This table is round.",
+      "translation": "Этот стол круглый.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_5",
+      "word": "We must retreat.",
+      "translation": "Мы должны отступить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_6",
+      "word": "I made coffee.",
+      "translation": "Я приготовил кофе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_7",
+      "word": "Can I get a glass of water?",
+      "translation": "Можно мне стакан воды?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_8",
+      "word": "Tom died from food poisoning.",
+      "translation": "Том умер от пищевого отравления.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_9",
+      "word": "The coffee is cold.",
+      "translation": "Кофе холодный.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_10",
+      "word": "Accidents are inevitable.",
+      "translation": "Несчастные случаи неизбежны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_11",
+      "word": "Call the kids for lunch.",
+      "translation": "Зови детей обедать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_12",
+      "word": "Eat more bread.",
+      "translation": "Ешь больше хлеба.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_13",
+      "word": "If you want to eat, eat.",
+      "translation": "Хотите есть - ешьте!",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_14",
+      "word": "I've already paid the bill.",
+      "translation": "Я уже оплатил счёт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_15",
+      "word": "Why don't we have dinner?",
+      "translation": "Почему бы нам не поужинать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_16",
+      "word": "This song's great.",
+      "translation": "Это отличная песня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_17",
+      "word": "May I have something to drink?",
+      "translation": "Я могу что-нибудь выпить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_18",
+      "word": "Don't play with your food.",
+      "translation": "Не играй с едой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_19",
+      "word": "Tom never drinks tea.",
+      "translation": "Том никогда не пьёт чай.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_20",
+      "word": "There's not enough coffee.",
+      "translation": "Не хватает кофе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_21",
+      "word": "I made you coffee.",
+      "translation": "Я сделал тебе кофе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_22",
+      "word": "Tom works in a coffee shop.",
+      "translation": "Том работает в кофейне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_23",
+      "word": "I prepared breakfast for Tom.",
+      "translation": "Я приготовил Тому завтрак.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_24",
+      "word": "I'll eat after Tom leaves.",
+      "translation": "Я поем, когда Том уйдёт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_25",
+      "word": "Let them eat if they want to.",
+      "translation": "Пусть едят, если хотят.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_26",
+      "word": "Somebody stole my lunch.",
+      "translation": "Кто-то украл мой обед.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_27",
+      "word": "Do you eat a lot of fruit?",
+      "translation": "Ты ешь много фруктов?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_28",
+      "word": "I turned on the heat.",
+      "translation": "Я включил отопление.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_29",
+      "word": "The Indians were hungry.",
+      "translation": "Индейцы были голодными.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_30",
+      "word": "Eat as much as you want.",
+      "translation": "Ешь сколько хочешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_31",
+      "word": "I have my own restaurant now.",
+      "translation": "Теперь у меня есть собственный ресторан.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_32",
+      "word": "Why don't we eat pizza?",
+      "translation": "Почему бы нам не поесть пиццы?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_33",
+      "word": "Do you drink milk every day?",
+      "translation": "Вы каждый день пьёте молоко?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_34",
+      "word": "You shouldn't eat that.",
+      "translation": "Тебе не стоит это есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_35",
+      "word": "We've drunk all our water.",
+      "translation": "Мы выпили всю воду, какая у нас была.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_36",
+      "word": "I don't drink soda.",
+      "translation": "Я не пью газировку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_37",
+      "word": "Do I have to eat this?",
+      "translation": "Мне надо это съесть?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_38",
+      "word": "I'm doing great.",
+      "translation": "У меня всё великолепно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_39",
+      "word": "I love soul food.",
+      "translation": "Я обожаю афроамериканскую кухню.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_40",
+      "word": "Can you swim underwater?",
+      "translation": "Ты умеешь плавать под водой?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_41",
+      "word": "Isn't it time for lunch?",
+      "translation": "Обедать не пора?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_42",
+      "word": "The sun gives light and heat.",
+      "translation": "Солнце даёт свет и тепло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_43",
+      "word": "The ATM is out of order.",
+      "translation": "Банкомат сломался.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_44",
+      "word": "Did you have a nice dinner?",
+      "translation": "Ты хорошо поужинал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_45",
+      "word": "The ATM was out of order.",
+      "translation": "Банкомат был сломан.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_46",
+      "word": "I drank the water.",
+      "translation": "Я пил воду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_47",
+      "word": "Don't eat by yourself.",
+      "translation": "Не ешь в одиночку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_48",
+      "word": "Tom is making tea.",
+      "translation": "Том заваривает чай.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_0_49",
+      "word": "I don't eat cherries anymore.",
+      "translation": "Я перестал есть вишню.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_0",
+      "word": "The water was really hot.",
+      "translation": "Вода была очень горячая.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_1",
+      "word": "We have enough time to eat.",
+      "translation": "У нас достаточно времени, чтобы поесть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_2",
+      "word": "I knew Tom wouldn't eat that.",
+      "translation": "Я знал, что Том не будет это есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_3",
+      "word": "The paper is under the table.",
+      "translation": "Бумага под столом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_4",
+      "word": "The cats are eating meat.",
+      "translation": "Кошки едят мясо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_5",
+      "word": "We eat bread every day.",
+      "translation": "Мы едим хлеб каждый день.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_6",
+      "word": "Did you like the food?",
+      "translation": "Вам понравилась еда?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_7",
+      "word": "Tom doesn't drink beer.",
+      "translation": "Том не пьет пиво.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_8",
+      "word": "We're tired and hungry.",
+      "translation": "Мы устали и хотим есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_9",
+      "word": "I seldom eat seafood.",
+      "translation": "Я редко ем морепродукты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_10",
+      "word": "Tom cooked me dinner.",
+      "translation": "Том приготовил мне ужин.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_11",
+      "word": "I'd like to order drinks now.",
+      "translation": "Я хотел бы заказать напитки сейчас.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_12",
+      "word": "I can eat insects.",
+      "translation": "Я могу есть насекомых.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_13",
+      "word": "Tom didn't eat any meat.",
+      "translation": "Том совсем не ел мяса.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_14",
+      "word": "How often do you eat fruit?",
+      "translation": "Как часто ты ешь фрукты?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_15",
+      "word": "I've quit drinking coffee.",
+      "translation": "Я бросил пить кофе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_16",
+      "word": "Take a seat.",
+      "translation": "Садись.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_17",
+      "word": "I'm dying to eat something.",
+      "translation": "Умираю от желания что-нибудь съесть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_18",
+      "word": "We eat soup with a spoon.",
+      "translation": "Мы едим суп ложками.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_19",
+      "word": "Tell Tom to take a seat.",
+      "translation": "Попросите Тома сесть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_20",
+      "word": "Tom was covered in sweat.",
+      "translation": "Том был весь в поту.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_21",
+      "word": "It looks delicious.",
+      "translation": "Выглядит вкусно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_22",
+      "word": "I ate a nutritious breakfast.",
+      "translation": "У меня был питательный завтрак.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_23",
+      "word": "Will you drink some tea?",
+      "translation": "Выпьешь чаю?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_24",
+      "word": "I don't want to eat anything.",
+      "translation": "Я ничего не хочу есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_25",
+      "word": "Have you tried mint tea yet?",
+      "translation": "Ты уже пробовал чай из листьев мяты?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_26",
+      "word": "A butcher deals in meat.",
+      "translation": "Мясник торгует мясом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_27",
+      "word": "Fish can't live out of water.",
+      "translation": "Рыбы не могут жить вне воды.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_28",
+      "word": "Finns drink a lot of coffee.",
+      "translation": "Финны пьют много кофе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_29",
+      "word": "You shouldn't eat this.",
+      "translation": "Тебе не стоит это есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_30",
+      "word": "Order has been restored.",
+      "translation": "Порядок был восстановлен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_31",
+      "word": "This water is delicious.",
+      "translation": "Эта вода вкусная.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_32",
+      "word": "Who left the water running?",
+      "translation": "Кто кран не закрыл?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_33",
+      "word": "Isn't it about time to eat?",
+      "translation": "Не пора ли поесть?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_34",
+      "word": "I had a bad lunch.",
+      "translation": "У меня был плохой обед.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_35",
+      "word": "We were just eating dinner.",
+      "translation": "Мы просто ужинали.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_36",
+      "word": "Tell Tom I won't eat.",
+      "translation": "Скажи Тому, что я не буду есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_37",
+      "word": "You need to eat better.",
+      "translation": "Вам нужно лучше питаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_38",
+      "word": "We had dinner by candlelight.",
+      "translation": "Мы ужинали при свечах.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_39",
+      "word": "I seldom eat pizza at home.",
+      "translation": "Я редко ем пиццу дома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_40",
+      "word": "Water is very important.",
+      "translation": "Вода очень важна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_41",
+      "word": "Tom skipped lunch.",
+      "translation": "Том пропустил обед.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_42",
+      "word": "When do you eat dinner?",
+      "translation": "Когда вы ужинаете?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_43",
+      "word": "What would you like to drink?",
+      "translation": "Что желаете пить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_44",
+      "word": "Tom wants to eat with us.",
+      "translation": "Том хочет с нами поесть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_45",
+      "word": "Their meeting was inevitable.",
+      "translation": "Их встреча была неизбежна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_46",
+      "word": "Tom bought some food.",
+      "translation": "Том купил еды.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_47",
+      "word": "How hungry are you?",
+      "translation": "Сильно проголодался?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_48",
+      "word": "What kind of tea is this?",
+      "translation": "Что это за чай?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_1_49",
+      "word": "Oil and water don't mix.",
+      "translation": "Масло с водой не смешиваются.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_0",
+      "word": "We just finished dinner.",
+      "translation": "Мы только что поужинали.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_1",
+      "word": "That coffee smells good.",
+      "translation": "Этот кофе вкусно пахнет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_2",
+      "word": "Tom likes soup.",
+      "translation": "Том любит суп.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_3",
+      "word": "Put more salt in the soup.",
+      "translation": "Добавь ещё соли в суп.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_4",
+      "word": "I was in the front seat.",
+      "translation": "Я был на переднем сиденье.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_5",
+      "word": "I have to cook dinner today.",
+      "translation": "Я должен приготовить ужин сегодня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_6",
+      "word": "Are you guys still hungry?",
+      "translation": "Вы всё ещё голодные?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_7",
+      "word": "Why don't you eat vegetables?",
+      "translation": "Почему вы не едите овощи?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_8",
+      "word": "Don't leave the water running.",
+      "translation": "Не оставляй кран открытым.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_9",
+      "word": "I dove into the water.",
+      "translation": "Я нырнул в воду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_10",
+      "word": "You may eat now.",
+      "translation": "Теперь можете поесть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_11",
+      "word": "Let's eat together tonight.",
+      "translation": "Давай поедим сегодня вечером вместе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_12",
+      "word": "We love fast food.",
+      "translation": "Мы обожаем фастфуд.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_13",
+      "word": "I'm sick of the heat.",
+      "translation": "Мне надоела жара.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_14",
+      "word": "We often have lunch together.",
+      "translation": "Мы часто вместе обедаем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_15",
+      "word": "What do chimpanzees eat?",
+      "translation": "Что едят шимпанзе?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_16",
+      "word": "It's quite delicious.",
+      "translation": "Это довольно вкусно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_17",
+      "word": "I want more coffee.",
+      "translation": "Я хочу ещё кофе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_18",
+      "word": "I know what Tom likes to eat.",
+      "translation": "Я знаю, что Том любит поесть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_19",
+      "word": "Tom says I drink too much.",
+      "translation": "Том говорит, что я слишком много пью.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_20",
+      "word": "I like green tea.",
+      "translation": "Я люблю зелёный чай.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_21",
+      "word": "I'm not hungry either.",
+      "translation": "Я тоже не голоден.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_22",
+      "word": "It's a cheap restaurant.",
+      "translation": "Это дешёвый ресторан.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_23",
+      "word": "Come and have tea with me.",
+      "translation": "Приходи попить чаю со мной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_24",
+      "word": "I often drink tea.",
+      "translation": "Я часто пью чай.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_25",
+      "word": "Finish your coffee.",
+      "translation": "Допей свой кофе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_26",
+      "word": "Should we have some tea?",
+      "translation": "Почаёвничаем?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_27",
+      "word": "We're not all that hungry.",
+      "translation": "Мы не настолько голодные.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_28",
+      "word": "I didn't have anything to eat.",
+      "translation": "Мне было нечего есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_29",
+      "word": "Tom says he's not hungry.",
+      "translation": "Том говорит, что он не голоден.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_30",
+      "word": "This plant is good to eat.",
+      "translation": "Это растение годится в пищу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_31",
+      "word": "I just made dinner.",
+      "translation": "Я только что приготовил обед.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_32",
+      "word": "Tom was hungry and angry.",
+      "translation": "Том был голодный и злой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_33",
+      "word": "We are hungry.",
+      "translation": "Мы голодны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_34",
+      "word": "I eat lots of vegetables.",
+      "translation": "Я ем много овощей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_35",
+      "word": "When do you have breakfast?",
+      "translation": "Когда вы завтракаете?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_36",
+      "word": "Who's coming for dinner?",
+      "translation": "Кто придёт на ужин?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_37",
+      "word": "I'd like my coffee weak.",
+      "translation": "Я бы хотел некрепкий кофе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_38",
+      "word": "The water is too hot.",
+      "translation": "Вода слишком горячая.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_39",
+      "word": "I prepared breakfast for him.",
+      "translation": "Я приготовила ему завтрак.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_40",
+      "word": "I'll make you breakfast.",
+      "translation": "Я приготовлю тебе завтрак.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_41",
+      "word": "I'm not really hungry.",
+      "translation": "Я не очень голоден.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_42",
+      "word": "All we needed was water.",
+      "translation": "Всё, что нам было нужно, - это вода.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_43",
+      "word": "Tom wants some more tea.",
+      "translation": "Том хочет ещё чаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_44",
+      "word": "The cat prefers fish to meat.",
+      "translation": "Кошка рыбу любит больше, чем мясо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_45",
+      "word": "I went out for dinner.",
+      "translation": "Я вышел поужинать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_46",
+      "word": "I don't often drink tequila.",
+      "translation": "Я нечасто пью текилу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_47",
+      "word": "Someone's sitting in my seat.",
+      "translation": "Кто-то сидит на моём месте.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_48",
+      "word": "I've never eaten Chinese food.",
+      "translation": "Мне не доводилось есть китайскую еду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_2_49",
+      "word": "It is abnormal to eat so much.",
+      "translation": "Это ненормально, есть так много.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_0",
+      "word": "I like tomato soup.",
+      "translation": "Я люблю томатный суп.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_1",
+      "word": "We only had a little water.",
+      "translation": "У нас было совсем мало воды.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_2",
+      "word": "Can coffee stains be removed?",
+      "translation": "Кофейные пятна можно вывести?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_3",
+      "word": "I want to eat something.",
+      "translation": "Я хочу чего-нибудь съесть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_4",
+      "word": "Tom is wiping the table.",
+      "translation": "Том вытирает стол.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_5",
+      "word": "Let's go to lunch.",
+      "translation": "Пойдём обедать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_6",
+      "word": "Have another cup of coffee.",
+      "translation": "Выпейте ещё чашку кофе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_7",
+      "word": "I'd like to order the same.",
+      "translation": "Я хотел бы заказать то же самое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_8",
+      "word": "Is this water drinkable?",
+      "translation": "Эту воду можно пить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_9",
+      "word": "We don't have any more water.",
+      "translation": "У нас нет больше воды.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_10",
+      "word": "Give Tom your seat.",
+      "translation": "Уступи Тому место.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_11",
+      "word": "Are you still thirsty?",
+      "translation": "Ты ещё хочешь пить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_12",
+      "word": "I love American food.",
+      "translation": "Я люблю американскую еду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_13",
+      "word": "I hope you two are hungry.",
+      "translation": "Надеюсь, вы оба проголодались.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_14",
+      "word": "Tom doesn't eat celery.",
+      "translation": "Том не ест сельдерей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_15",
+      "word": "I like this tea.",
+      "translation": "Мне нравится этот чай.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_16",
+      "word": "Tom and I aren't hungry.",
+      "translation": "Мы с Томом не хотим есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_17",
+      "word": "Tom keeps a food diary.",
+      "translation": "Том ведёт дневник питания.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_18",
+      "word": "How about a cup of coffee?",
+      "translation": "Как насчёт чашечки кофе?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_19",
+      "word": "It was time for breakfast.",
+      "translation": "Было время завтрака.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_20",
+      "word": "Don't drink too much coffee.",
+      "translation": "Не пей слишком много кофе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_21",
+      "word": "I brought you coffee.",
+      "translation": "Я принёс тебе кофе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_22",
+      "word": "There's free food.",
+      "translation": "Есть бесплатная еда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_23",
+      "word": "I left after lunch.",
+      "translation": "Я ушёл после обеда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_24",
+      "word": "Please give me a coffee.",
+      "translation": "Дайте мне чашку кофе, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_25",
+      "word": "They have nothing to eat.",
+      "translation": "Им нечего есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_26",
+      "word": "You're probably thirsty.",
+      "translation": "Ты, наверное, пить хочешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_27",
+      "word": "There is a vase on the table.",
+      "translation": "На столе стоит ваза.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_28",
+      "word": "I'd like to reserve a seat.",
+      "translation": "Я хотел бы забронировать место.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_29",
+      "word": "I only drink tea.",
+      "translation": "Я пью только чай.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_30",
+      "word": "The yogurt is delicious.",
+      "translation": "Йогурт очень вкусный.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_31",
+      "word": "Tom didn't have time to eat.",
+      "translation": "У Тома не было времени поесть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_32",
+      "word": "I have to pay this bill today.",
+      "translation": "Мне надо сегодня оплатить этот счёт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_33",
+      "word": "I wanted a glass of water.",
+      "translation": "Я хотел стакан воды.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_34",
+      "word": "Where does Tom want to eat?",
+      "translation": "Где Том хочет поесть?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_35",
+      "word": "Golf isn't my cup of tea.",
+      "translation": "Гольф не моё увлечение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_36",
+      "word": "Have you tried this water?",
+      "translation": "Ты пробовал эту воду?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_37",
+      "word": "The weather's been great.",
+      "translation": "Погода была великолепная.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_38",
+      "word": "I like to swim in salt water.",
+      "translation": "Мне нравится плавать в морской воде.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_39",
+      "word": "I prefer coffee without sugar.",
+      "translation": "Я предпочитаю кофе без сахара.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_40",
+      "word": "What's wrong with the food?",
+      "translation": "Что не так с едой?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_41",
+      "word": "I don't eat the crust.",
+      "translation": "Я корки не ем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_42",
+      "word": "I can eat everything.",
+      "translation": "Мне всё можно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_43",
+      "word": "We import coffee from Brazil.",
+      "translation": "Мы импортируем кофе из Бразилии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_44",
+      "word": "Tom ate breakfast.",
+      "translation": "Том позавтракал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_45",
+      "word": "We can talk after dinner.",
+      "translation": "Можем поговорить после ужина.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_46",
+      "word": "I was so hungry that I ate it.",
+      "translation": "Я был такой голодный, что съел его.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_47",
+      "word": "I don't usually eat dessert.",
+      "translation": "Я обычно не ем десерт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_48",
+      "word": "I bought some food for lunch.",
+      "translation": "Я купил еды на обед.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_3_49",
+      "word": "Tom knew I was thirsty.",
+      "translation": "Том знал, что я хочу пить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_0",
+      "word": "Serve the coffee now, please.",
+      "translation": "Подайте теперь кофе, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_1",
+      "word": "Where can we get lunch?",
+      "translation": "Где мы можем пообедать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_2",
+      "word": "I know that Tom isn't hungry.",
+      "translation": "Я знаю, что Том не голоден.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_3",
+      "word": "Tom got Mary some water.",
+      "translation": "Том принес Мэри воды.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_4",
+      "word": "You two must be hungry.",
+      "translation": "Вы двое, наверное, голодны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_5",
+      "word": "Tom said he felt great.",
+      "translation": "Том сказал, что отлично себя чувствует.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_6",
+      "word": "The ice in the water melted.",
+      "translation": "Лёд в воде растаял.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_7",
+      "word": "Tom doesn't eat chocolate.",
+      "translation": "Том не ест шоколад.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_8",
+      "word": "I want to eat this.",
+      "translation": "Я хочу это съесть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_9",
+      "word": "You look great.",
+      "translation": "Отлично выглядишь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_10",
+      "word": "What did you cook for dinner?",
+      "translation": "Что ты приготовил на ужин?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_11",
+      "word": "If you eat that you will die.",
+      "translation": "Если съешь это, умрёшь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_12",
+      "word": "It's just water.",
+      "translation": "Это простая вода.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_13",
+      "word": "I was invited to dinner.",
+      "translation": "Меня пригласили на ужин.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_14",
+      "word": "I was so hungry.",
+      "translation": "Я был так голоден.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_15",
+      "word": "I only drink water.",
+      "translation": "Я пью только воду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_16",
+      "word": "She will be late for dinner.",
+      "translation": "Она опоздает к ужину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_17",
+      "word": "Why don't we have lunch here?",
+      "translation": "Почему бы нам не пообедать здесь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_18",
+      "word": "This meat cuts easily.",
+      "translation": "Это мясо легко режется.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_19",
+      "word": "I'll cook you dinner.",
+      "translation": "Я приготовлю тебе ужин.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_20",
+      "word": "You're in my seat.",
+      "translation": "Вы сидите на моём месте.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_21",
+      "word": "How much cake did Tom eat?",
+      "translation": "Сколько торта Том съел?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_22",
+      "word": "I broke Tom's coffee cup.",
+      "translation": "Я разбил кофейную чашку Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_23",
+      "word": "Tell them that I don't drink.",
+      "translation": "Скажи им, что я не пью.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_24",
+      "word": "I like Indian food.",
+      "translation": "Мне нравится индийская еда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_25",
+      "word": "I never drink wine.",
+      "translation": "Я никогда не пью вино.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_26",
+      "word": "How much candy did Tom eat?",
+      "translation": "Сколько конфет Том съел?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_27",
+      "word": "What did Tom cook for dinner?",
+      "translation": "Что Том приготовил на ужин?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_28",
+      "word": "The water began to boil.",
+      "translation": "Вода начала закипать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_29",
+      "word": "You eat more than I do.",
+      "translation": "Ты ешь больше меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_30",
+      "word": "We split the bill.",
+      "translation": "Мы разделили счёт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_31",
+      "word": "Add water and stir.",
+      "translation": "Добавьте воды и помешайте.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_32",
+      "word": "He had a hasty breakfast.",
+      "translation": "Он наспех позавтракал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_33",
+      "word": "Tom looked hungry.",
+      "translation": "Том выглядел голодным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_34",
+      "word": "Get your feet off the table.",
+      "translation": "Убери ноги со стола.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_35",
+      "word": "I'm a little bit hungry.",
+      "translation": "Я слегка голоден.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_36",
+      "word": "I am not thirsty.",
+      "translation": "У меня нет жажды.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_37",
+      "word": "Where's my coffee mug?",
+      "translation": "Где моя кофейная кружка?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_38",
+      "word": "There isn't much coffee left.",
+      "translation": "Осталось не так много кофе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_39",
+      "word": "I ordered lunch.",
+      "translation": "Я заказал обед.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_40",
+      "word": "I like fish more than meat.",
+      "translation": "Я рыбу люблю больше, чем мясо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_41",
+      "word": "This water isn't cold.",
+      "translation": "Эта вода не холодная.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_42",
+      "word": "How much coffee did you drink?",
+      "translation": "Сколько кофе ты выпил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_43",
+      "word": "Tom collected coffee cups.",
+      "translation": "Том коллекционировал кофейные чашки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_44",
+      "word": "I always drink a lot of water.",
+      "translation": "Я всегда пью много воды.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_45",
+      "word": "I need to eat now.",
+      "translation": "Сейчас мне нужно поесть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_46",
+      "word": "I'm always thirsty.",
+      "translation": "Я всё время хочу пить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_47",
+      "word": "I'll make some tea.",
+      "translation": "Я заварю чаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_48",
+      "word": "A tea with lemon, please.",
+      "translation": "Чай с лимоном, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_4_49",
+      "word": "I'm allergic to seafood.",
+      "translation": "У меня аллергия на морепродукты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_0",
+      "word": "I want to eat some cake first.",
+      "translation": "Сперва я хочу съесть немного пирога.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_1",
+      "word": "What time does Tom eat breakfast?",
+      "translation": "Во сколько Том завтракает?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_2",
+      "word": "Tom met Mary for breakfast.",
+      "translation": "Том встретился с Мэри за завтраком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_3",
+      "word": "Babies cry when they're hungry.",
+      "translation": "Младенцы кричат, когда голодные.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_4",
+      "word": "Does the price include breakfast?",
+      "translation": "Завтрак включён в стоимость?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_5",
+      "word": "Tom spilled his drink on Mary.",
+      "translation": "Том пролил свой напиток на Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_6",
+      "word": "Tom only eats white meat.",
+      "translation": "Том ест лишь белое мясо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_7",
+      "word": "Could I have a little more water?",
+      "translation": "Могу я попросить ещё немного воды?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_8",
+      "word": "Tom doesn't like Chinese food.",
+      "translation": "Том не любит китайскую еду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_9",
+      "word": "Can you put it down on the table?",
+      "translation": "Ты можешь положить его на стол?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_10",
+      "word": "He had a shower before breakfast.",
+      "translation": "Перед завтраком он принял душ.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_11",
+      "word": "The water is crystal clear.",
+      "translation": "Вода кристально чиста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_12",
+      "word": "We'll have lunch at noon.",
+      "translation": "Пообедаем в двенадцать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_13",
+      "word": "Tom has made breakfast for you.",
+      "translation": "Том приготовил вам завтрак.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_14",
+      "word": "This movie is really great.",
+      "translation": "Это просто отличный фильм.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_15",
+      "word": "Tom built this restaurant.",
+      "translation": "Этот ресторан построил Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_16",
+      "word": "I just needed some water.",
+      "translation": "Мне просто нужна была вода.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_17",
+      "word": "It went great.",
+      "translation": "Всё прошло отлично.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_18",
+      "word": "Why were you at the restaurant?",
+      "translation": "Зачем ты ходил в ресторан?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_19",
+      "word": "Could you help me move the table?",
+      "translation": "Ты не мог бы помочь мне передвинуть стол?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_20",
+      "word": "Tom very seldom eats red meat.",
+      "translation": "Том очень редко ест красное мясо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_21",
+      "word": "Tom asked me to set the table.",
+      "translation": "Том попросил меня накрыть стол.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_22",
+      "word": "That was my lunch.",
+      "translation": "Это был мой обед.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_23",
+      "word": "Who's going to foot the bill?",
+      "translation": "Кто заплатит по счёту?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_24",
+      "word": "There is a flower on the table.",
+      "translation": "На столе цветок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_25",
+      "word": "I made you lunch.",
+      "translation": "Я приготовил тебе обед.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_26",
+      "word": "Which is the most delicious?",
+      "translation": "Какой самый вкусный?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_27",
+      "word": "Tom, I've made you a cup of tea.",
+      "translation": "Том, я сделал тебе чашку чая.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_28",
+      "word": "Tom drinks a lot of water.",
+      "translation": "Том пьёт много воды.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_29",
+      "word": "Is this restaurant's coffee good?",
+      "translation": "В этом ресторане хороший кофе?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_30",
+      "word": "Whiskey goes very well with tea.",
+      "translation": "Виски хорошо сочетается с чаем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_31",
+      "word": "Tom helped Mary set the table.",
+      "translation": "Том помог Мэри накрыть на стол.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_32",
+      "word": "Do you think it's OK to eat this?",
+      "translation": "Думаешь, это можно есть?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_33",
+      "word": "They are sitting at the table.",
+      "translation": "Они сидят за столом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_34",
+      "word": "Make yourself something to eat.",
+      "translation": "Приготовь себе чего-нибудь поесть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_35",
+      "word": "Let's drink some beer.",
+      "translation": "Давай выпьем пива.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_36",
+      "word": "She brought me a cup of tea.",
+      "translation": "Она принесла мне чашку чая.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_37",
+      "word": "Tom wouldn't drink that.",
+      "translation": "Том не стал бы это пить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_38",
+      "word": "I had a late lunch.",
+      "translation": "Я поздно пообедал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_39",
+      "word": "Tom didn't drink anything.",
+      "translation": "Том ничего не пил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_40",
+      "word": "We hardly have time to eat breakfast.",
+      "translation": "Мы едва успеваем позавтракать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_41",
+      "word": "You've drunk three cups of coffee.",
+      "translation": "Вы выпили три чашки кофе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_42",
+      "word": "I want to drink coconut milk.",
+      "translation": "Я хочу попить кокосового молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_43",
+      "word": "There was no water in the well.",
+      "translation": "В колодце не было воды.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_44",
+      "word": "Why won't anybody eat what I made?",
+      "translation": "Почему никто не хочет есть то, что я приготовил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_45",
+      "word": "Thank you for inviting me to dinner.",
+      "translation": "Спасибо, что пригласил на ужин.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_46",
+      "word": "We'll talk at dinner tonight.",
+      "translation": "Мы поговорим сегодня за ужином.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_47",
+      "word": "I put it on the table.",
+      "translation": "Я положил его на стол.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_48",
+      "word": "Why doesn't Tom want to eat now?",
+      "translation": "Почему Том не хочет сейчас поесть?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_5_49",
+      "word": "I shared my lunch with Tom.",
+      "translation": "Я поделился с Томом обедом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_0",
+      "word": "Tom brought a cup of tea to me.",
+      "translation": "Том принес мне чашку чая.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_1",
+      "word": "Tom cooked dinner.",
+      "translation": "Том приготовил ужин.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_2",
+      "word": "Would you like more coffee?",
+      "translation": "Вы хотели бы ещё кофе?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_3",
+      "word": "They played table tennis together.",
+      "translation": "Они вместе играли в настольный теннис.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_4",
+      "word": "I poured Tom another cup of coffee.",
+      "translation": "Я налил Тому ещё одну чашку кофе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_5",
+      "word": "I thought you said you didn't drink.",
+      "translation": "Ты же говорил, что не пьёшь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_6",
+      "word": "I only came for the free food.",
+      "translation": "Я пришёл только ради бесплатной еды.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_7",
+      "word": "What would you like to eat?",
+      "translation": "Чего бы ты съел?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_8",
+      "word": "How much did you drink last night?",
+      "translation": "Сколько ты вчера вечером выпил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_9",
+      "word": "Can I eat my lunch here?",
+      "translation": "Могу ли я здесь съесть свой обед?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_10",
+      "word": "I have not eaten breakfast yet.",
+      "translation": "Я ещё не завтракала.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_11",
+      "word": "Tom watched TV while he ate dinner.",
+      "translation": "За ужином Том смотрел телевизор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_12",
+      "word": "Dinner is on the table.",
+      "translation": "Ужин на столе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_13",
+      "word": "Tom got Mary a glass of water.",
+      "translation": "Том принес Мэри стакан воды.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_14",
+      "word": "We're going to eat right now.",
+      "translation": "Сейчас будем есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_15",
+      "word": "My children are hungry.",
+      "translation": "Мои дети голодные.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_16",
+      "word": "Tom wanted something to drink.",
+      "translation": "Том хотел что-нибудь выпить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_17",
+      "word": "What do you think of Japanese food?",
+      "translation": "Как тебе японская кухня?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_18",
+      "word": "Would you have lunch with me today?",
+      "translation": "Не хотите со мной сегодня пообедать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_19",
+      "word": "I don't drink much.",
+      "translation": "Я не очень много пью.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_20",
+      "word": "I actually don't drink all that much.",
+      "translation": "Я, вообще-то, не так много пью.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_21",
+      "word": "My mother is cooking breakfast.",
+      "translation": "Моя мать готовит завтрак.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_22",
+      "word": "Tom is so predictable.",
+      "translation": "Том такой предсказуемый.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_23",
+      "word": "I don't want to drink anything.",
+      "translation": "Мне ничего не хочется пить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_24",
+      "word": "Tom works as a waiter.",
+      "translation": "Том работает официантом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_25",
+      "word": "Tom tasted the coffee and smiled.",
+      "translation": "Том попробовал кофе и улыбнулся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_26",
+      "word": "When water freezes it becomes ice.",
+      "translation": "Когда вода замерзает, она становится льдом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_27",
+      "word": "I'd really rather not eat that.",
+      "translation": "Я, пожалуй, всё-таки не буду это есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_28",
+      "word": "Did Tom have his dinner?",
+      "translation": "Том поужинал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_29",
+      "word": "I can't see the stage from this seat.",
+      "translation": "Отсюда я не вижу сцены.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_30",
+      "word": "Does the soup taste good?",
+      "translation": "Суп вкусный?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_31",
+      "word": "I want you to return to your seat.",
+      "translation": "Я хочу, чтобы ты вернулся на место.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_32",
+      "word": "Did Tom eat dinner?",
+      "translation": "Том поужинал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_33",
+      "word": "Meat is scarce.",
+      "translation": "Мяса мало.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_34",
+      "word": "Guess who's coming for dinner.",
+      "translation": "Угадайте, кто придёт на ужин!",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_35",
+      "word": "Where's my breakfast?",
+      "translation": "Где мой завтрак?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_36",
+      "word": "He has gone out for lunch already.",
+      "translation": "Он уже ушёл на обед.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_37",
+      "word": "You don't have to eat that.",
+      "translation": "Ты не должен это есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_38",
+      "word": "Your table is ready, sir.",
+      "translation": "Ваш столик готов, сэр.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_39",
+      "word": "You have to eat something.",
+      "translation": "Тебе надо чего-нибудь поесть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_40",
+      "word": "Tom and Mary had dinner alone.",
+      "translation": "Том и Мэри поужинали в одиночестве.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_41",
+      "word": "I told Tom to eat more vegetables.",
+      "translation": "Я сказал Тому, чтобы он ел больше овощей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_42",
+      "word": "I tried to eat it, but I couldn't.",
+      "translation": "Я попытался это съесть, но не смог.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_43",
+      "word": "I skipped lunch.",
+      "translation": "Я пропустил обед.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_44",
+      "word": "The ball rolled under the table.",
+      "translation": "Мячик закатился под стол.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_45",
+      "word": "I poured myself a cup of coffee.",
+      "translation": "Я налила себе чашку кофе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_46",
+      "word": "I knew you'd be thirsty.",
+      "translation": "Я знал, что тебе захочется пить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_47",
+      "word": "Don't eat so much. You'll get fat.",
+      "translation": "Не ешь так много. Ты располнеешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_48",
+      "word": "I need to eat.",
+      "translation": "Мне нужно поесть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_6_49",
+      "word": "Do you want to go get a drink?",
+      "translation": "Ты хочешь выпить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_0",
+      "word": "What are we having for dinner?",
+      "translation": "Что у нас на ужин?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_1",
+      "word": "Why don't we have lunch together?",
+      "translation": "Почему бы нам не пообедать вместе?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_2",
+      "word": "We drink wine more often than beer.",
+      "translation": "Мы пьем вино чаще, чем пиво.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_3",
+      "word": "The tea costs two euros.",
+      "translation": "Чай стоит два евро.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_4",
+      "word": "Aren't you thirsty?",
+      "translation": "Вы пить не хотите?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_5",
+      "word": "You'd better not eat too much.",
+      "translation": "Тебе лучше слишком много не есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_6",
+      "word": "I often eat hot dogs.",
+      "translation": "Я часто ем хот-доги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_7",
+      "word": "I want to eat some cake.",
+      "translation": "Я хочу поесть торта.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_8",
+      "word": "Everyone drank coffee afterwards.",
+      "translation": "Потом все пили кофе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_9",
+      "word": "I'm not supposed to eat peanuts.",
+      "translation": "Я не должен есть арахис.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_10",
+      "word": "I won't drink that.",
+      "translation": "Я не буду это пить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_11",
+      "word": "I'll make you a cup of tea.",
+      "translation": "Я приготовлю тебе чашку чая.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_12",
+      "word": "Tom asked for a cup of coffee.",
+      "translation": "Том попросил чашку кофе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_13",
+      "word": "Would you like meat or fish?",
+      "translation": "Хотите мясо или рыбу?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_14",
+      "word": "What do you usually eat for supper?",
+      "translation": "Что ты обычно ешь на ужин?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_15",
+      "word": "We're waiting for lunch.",
+      "translation": "Мы ждём обеда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_16",
+      "word": "Some books are on the table.",
+      "translation": "На столе несколько книг.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_17",
+      "word": "Tom says dinner will be ready soon.",
+      "translation": "Том говорит, что обед скоро будет готов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_18",
+      "word": "Why does water conduct electricity?",
+      "translation": "Почему вода проводит электричество?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_19",
+      "word": "Do you eat rice in your country?",
+      "translation": "Вы едите рис в своей стране?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_20",
+      "word": "Tom doesn't want dinner.",
+      "translation": "Том не хочет ужинать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_21",
+      "word": "I did that in order to survive.",
+      "translation": "Я сделал это, чтобы выжить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_22",
+      "word": "I'd like to eat.",
+      "translation": "Я бы поел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_23",
+      "word": "Tom can't decide what to order.",
+      "translation": "Том не может определиться с заказом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_24",
+      "word": "Are you sure Tom can eat peanuts?",
+      "translation": "Ты уверен, что Тому можно арахис?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_25",
+      "word": "We should eat something.",
+      "translation": "Нам надо бы чего-нибудь поесть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_26",
+      "word": "I don't usually drink tequila.",
+      "translation": "Я обычно не пью текилу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_27",
+      "word": "I usually eat three times a day.",
+      "translation": "Обычно я ем три раза в день.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_28",
+      "word": "You need a drink.",
+      "translation": "Тебе надо выпить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_29",
+      "word": "The water evaporated.",
+      "translation": "Вода испарилась.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_30",
+      "word": "Could I have some water?",
+      "translation": "Могу я попросить немного воды?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_31",
+      "word": "I fixed myself something to eat.",
+      "translation": "Я приготовил себе поесть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_32",
+      "word": "Tom doesn't drink juice.",
+      "translation": "Том не пьёт соки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_33",
+      "word": "Thank you for the coffee.",
+      "translation": "Спасибо вам за кофе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_34",
+      "word": "Tom isn't thirsty.",
+      "translation": "Тому не хочется пить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_35",
+      "word": "Did you give Tom something to eat?",
+      "translation": "Ты дала Тому что-нибудь поесть?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_36",
+      "word": "Tom will do that right after lunch.",
+      "translation": "Том сделает это сразу после обеда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_37",
+      "word": "He sometimes eats lunch there, too.",
+      "translation": "Иногда он также обедает там.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_38",
+      "word": "I can't order you to do this.",
+      "translation": "Я не могу приказать тебе сделать это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_39",
+      "word": "Both Tom and I were hungry.",
+      "translation": "Мы с Томом оба хотели есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_40",
+      "word": "You've had too much to drink.",
+      "translation": "Ты перепил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_41",
+      "word": "We're not ready to order yet.",
+      "translation": "Мы ещё не готовы сделать заказ.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_42",
+      "word": "I think that that's inevitable.",
+      "translation": "Думаю, это неизбежно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_43",
+      "word": "Tom was overcome by the heat.",
+      "translation": "От жары Тому стало дурно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_44",
+      "word": "I don't think that you can eat that.",
+      "translation": "Не думаю, что тебе можно это есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_45",
+      "word": "Your dog looks hungry.",
+      "translation": "Ваша собака выглядит голодной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_46",
+      "word": "Are we really going to eat all that?",
+      "translation": "Мы действительно собираемся всё это съесть?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_47",
+      "word": "I'll heat up the soup for you.",
+      "translation": "Я подогрею вам суп.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_48",
+      "word": "I want you to cook dinner tonight.",
+      "translation": "Я хочу, чтобы ты сегодня вечером приготовил ужин.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_7_49",
+      "word": "What's Tom's favorite drink?",
+      "translation": "Какой у Тома любимый напиток?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_0",
+      "word": "I drink to numb the pain.",
+      "translation": "Я пью, чтобы заглушить боль.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_1",
+      "word": "I gave the waiter a good tip.",
+      "translation": "Я оставил официанту хорошие чаевые.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_2",
+      "word": "I used to eat pizza very often.",
+      "translation": "Я раньше очень часто ел пиццу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_3",
+      "word": "I burned myself with boiling water.",
+      "translation": "Я обварился кипятком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_4",
+      "word": "Do you want to have some coffee?",
+      "translation": "Хочешь кофе выпить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_5",
+      "word": "I got very thirsty.",
+      "translation": "Мне сильно захотелось пить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_6",
+      "word": "Don't drink this water.",
+      "translation": "Не пей эту воду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_7",
+      "word": "Would you like another cup of tea?",
+      "translation": "Не хочешь ли ещё чашечку чая?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_8",
+      "word": "Are you coming to lunch tomorrow?",
+      "translation": "Придёшь завтра на обед?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_9",
+      "word": "Tom left after breakfast.",
+      "translation": "Том ушёл после завтрака.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_10",
+      "word": "I felt uncomfortable.",
+      "translation": "Мне было не по себе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_11",
+      "word": "Tom is upbeat.",
+      "translation": "Том оптимистичен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_12",
+      "word": "Natural food will do you good.",
+      "translation": "Натуральные продукты пойдут вам на пользу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_13",
+      "word": "Wine helps digest food.",
+      "translation": "Вино способствует пищеварению.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_14",
+      "word": "I'm buying meat and vegetables.",
+      "translation": "Я покупаю мясо и овощи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_15",
+      "word": "I'll see you at lunch tomorrow.",
+      "translation": "Увидимся завтра за обедом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_16",
+      "word": "Tom told me that he wasn't thirsty.",
+      "translation": "Том сказал мне, что не хочет пить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_17",
+      "word": "This meat smells bad.",
+      "translation": "Это мясо плохо пахнет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_18",
+      "word": "I didn't drink tea yesterday.",
+      "translation": "Я вчера не пил чай.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_19",
+      "word": "You shouldn't eat anything cold.",
+      "translation": "Ты не должен есть ничего холодного.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_20",
+      "word": "Why is the floor covered in water?",
+      "translation": "Почему весь пол в воде?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_21",
+      "word": "I'd like to drink some hot tea.",
+      "translation": "Я хотел бы выпить горячего чая.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_22",
+      "word": "I'm the one who cooked dinner.",
+      "translation": "Ужин приготовил я.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_23",
+      "word": "I couldn't sleep because of the heat.",
+      "translation": "Я не мог спать из-за жары.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_24",
+      "word": "Let's eat lunch.",
+      "translation": "Давайте пообедаем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_25",
+      "word": "Fill the bottle with water.",
+      "translation": "Наполни бутылку водой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_26",
+      "word": "Will you give me something to drink?",
+      "translation": "Вы дадите мне что-нибудь выпить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_27",
+      "word": "I hate the way the water tastes here.",
+      "translation": "Терпеть не могу вкус здешней воды.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_28",
+      "word": "I won't drink this.",
+      "translation": "Я не буду это пить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_29",
+      "word": "The boys are thirsty.",
+      "translation": "Мальчики хотят пить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_30",
+      "word": "I only drink on weekends.",
+      "translation": "Я пью только по выходным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_31",
+      "word": "What exactly did Tom drink?",
+      "translation": "Что именно Том пил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_32",
+      "word": "Some trips are unforgettable.",
+      "translation": "Некоторые путешествия незабываемы!",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_33",
+      "word": "Tom hasn't had his dinner yet.",
+      "translation": "Том ещё не поужинал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_34",
+      "word": "Can we talk about this after lunch?",
+      "translation": "Мы можем поговорить об этом после обеда?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_35",
+      "word": "I haven't paid the bill yet.",
+      "translation": "Я ещё не оплатил счёт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_36",
+      "word": "I hope that you feel comfortable.",
+      "translation": "Надеюсь, тебе удобно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_37",
+      "word": "This coffee doesn't taste good.",
+      "translation": "Этот кофе невкусный.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_38",
+      "word": "I'm going to get some breakfast.",
+      "translation": "Я собираюсь чем-нибудь позавтракать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_39",
+      "word": "I'm still hungry.",
+      "translation": "Я всё ещё голоден.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_40",
+      "word": "I neither drink nor smoke.",
+      "translation": "Не пью и не курю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_41",
+      "word": "I decided not to eat.",
+      "translation": "Я решил не есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_42",
+      "word": "I don't like sugar in my coffee.",
+      "translation": "Я не люблю кофе с сахаром.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_43",
+      "word": "How did you know Tom didn't eat meat?",
+      "translation": "Откуда ты знал, что Том не ест мяса?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_44",
+      "word": "Why's Tom hiding under the table?",
+      "translation": "Почему Том прячется под столом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_45",
+      "word": "Will you have some more tea?",
+      "translation": "Хотите ещё чаю?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_46",
+      "word": "Tom asked me if I were hungry.",
+      "translation": "Том спросил меня, хочу ли я есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_47",
+      "word": "Can I get you some coffee?",
+      "translation": "Не желаете кофе?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_48",
+      "word": "Coffee is Brazil's main product.",
+      "translation": "Кофе — важнейший продукт Бразилии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_8_49",
+      "word": "I'll bring you something to drink.",
+      "translation": "Я принесу тебе попить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_0",
+      "word": "It was predictable.",
+      "translation": "Это было предсказуемо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_1",
+      "word": "Tom is holding a cup of coffee.",
+      "translation": "Том держит чашку кофе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_2",
+      "word": "The coffee is too strong.",
+      "translation": "Кофе слишком крепкий.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_3",
+      "word": "You shouldn't drink that water.",
+      "translation": "Тебе не стоит пить ту воду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_4",
+      "word": "Children shouldn't drink wine.",
+      "translation": "Дети не должны пить вино.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_5",
+      "word": "I'm late for lunch.",
+      "translation": "Я опоздал на обед.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_6",
+      "word": "I'd rather not eat that.",
+      "translation": "Я лучше не буду это есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_7",
+      "word": "He shared his soup with me.",
+      "translation": "Он поделился супом со мной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_8",
+      "word": "This coffee tastes really good.",
+      "translation": "Этот кофе действительно вкусный.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_9",
+      "word": "Where are you going to eat tonight?",
+      "translation": "Где ты будешь сегодня ужинать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_10",
+      "word": "Tom didn't say Mary was hungry.",
+      "translation": "Том не сказал, что Мэри голодная.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_11",
+      "word": "What I want isn't tea, but coffee.",
+      "translation": "Я хочу не чай, а кофе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_12",
+      "word": "I don't want to eat now.",
+      "translation": "Я сейчас не хочу есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_13",
+      "word": "Meat is expensive nowadays.",
+      "translation": "Мясо теперь дорогое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_14",
+      "word": "Tom ate pancakes for breakfast.",
+      "translation": "Том поел блинов на завтрак.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_15",
+      "word": "Bring Tom a cup of coffee.",
+      "translation": "Принеси Тому чашку кофе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_16",
+      "word": "I have a wooden table.",
+      "translation": "У меня есть деревянный стол.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_17",
+      "word": "I'm not hungry, but I'm thirsty.",
+      "translation": "Я есть не хочу, а пить хочу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_18",
+      "word": "The seats were comfortable.",
+      "translation": "Сиденья были удобные.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_19",
+      "word": "I think Tom doesn't eat meat.",
+      "translation": "Я думаю, Том не ест мяса.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_20",
+      "word": "I put a few blueberries in your tea.",
+      "translation": "Я добавил в твой чай немного черники.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_21",
+      "word": "You can eat as much as you want.",
+      "translation": "Можешь есть сколько хочешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_22",
+      "word": "Tom invited me over for dinner.",
+      "translation": "Том пригласил меня на ужин.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_23",
+      "word": "Tom's behavior was unacceptable.",
+      "translation": "Поведение Тома было неприемлемым.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_24",
+      "word": "Where are we going to eat tonight?",
+      "translation": "Где будем сегодня вечером ужинать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_25",
+      "word": "If you're hungry, eat something.",
+      "translation": "Если ты голоден, съешь что-нибудь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_26",
+      "word": "I love lentil soup.",
+      "translation": "Я люблю чечевичный суп.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_27",
+      "word": "Let's eat in this evening.",
+      "translation": "Давай сегодня вечером дома поедим.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_28",
+      "word": "The food is ready.",
+      "translation": "Еда готова.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_29",
+      "word": "Tom doesn't like hot coffee.",
+      "translation": "Том не любит горячий кофе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_30",
+      "word": "I don't have enough time to eat.",
+      "translation": "Мне некогда поесть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_31",
+      "word": "Have you finished your lunch yet?",
+      "translation": "Ты уже закончил ланч?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_32",
+      "word": "Let's order pizza.",
+      "translation": "Давай закажем пиццу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_33",
+      "word": "Tom needs to eat more.",
+      "translation": "Тому нужно больше есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_34",
+      "word": "Tom knows that Mary is hungry.",
+      "translation": "Том знает, что Мэри голодна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_35",
+      "word": "What Chinese food do you like?",
+      "translation": "Какие китайские блюда тебе нравятся?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_36",
+      "word": "I am eating lunch with my sister.",
+      "translation": "Я обедаю со своею сестрой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_37",
+      "word": "I am dying for a cold drink.",
+      "translation": "Я умираю от желания выпить что-нибудь холодное.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_38",
+      "word": "Tom made breakfast.",
+      "translation": "Том приготовил завтрак.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_39",
+      "word": "Our food is better than theirs.",
+      "translation": "Наша еда лучше, чем их.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_40",
+      "word": "I don't want to eat a live lobster.",
+      "translation": "Я не хочу есть живого омара.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_41",
+      "word": "Aren't you going to drink that?",
+      "translation": "Ты не будешь это пить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_42",
+      "word": "You put too much sugar in the tea.",
+      "translation": "Ты кладёшь слишком много сахара в чай.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_43",
+      "word": "I usually have breakfast at seven.",
+      "translation": "Обычно я завтракаю в семь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_44",
+      "word": "He said that he was hungry.",
+      "translation": "Он сказал, что голоден.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_45",
+      "word": "They dashed water into my face.",
+      "translation": "Они плеснули воду мне в лицо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_46",
+      "word": "Vigorous exercise makes you sweat.",
+      "translation": "Энергичное упражнение заставляет тебя потеть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_47",
+      "word": "Tom fried an egg for breakfast.",
+      "translation": "Том пожарил на завтрак яичницу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_48",
+      "word": "Tom was starting to get hungry.",
+      "translation": "Том начинал хотеть есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_restaurantfood_9_49",
+      "word": "Please put that on the table.",
+      "translation": "Положи это на стол, пожалуйста.",
+      "language": "en"
+    }
+  ]
+}

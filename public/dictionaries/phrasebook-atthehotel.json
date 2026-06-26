@@ -1,0 +1,217 @@
+{
+  "id": "phrasebook-atthehotel",
+  "name": "At the Hotel",
+  "description": "Phrasebook for At the Hotel",
+  "entries": [
+    {
+      "id": "pb_atthehotel_0_0",
+      "word": "Tom asked Mary to meet him in the lobby.",
+      "translation": "Том попросил Мэри встретить его в вестибюле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_1",
+      "word": "Tom was supposed to meet me in the lobby.",
+      "translation": "Том предположительно должен был встретиться со мной в холле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_2",
+      "word": "I'll be waiting in the lobby.",
+      "translation": "Я буду ждать в холле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_3",
+      "word": "Nobody was in the lobby.",
+      "translation": "В холле никого не было.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_4",
+      "word": "Tom and Mary are waiting in the lobby.",
+      "translation": "Том и Мэри ждут в холле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_5",
+      "word": "Tom is now waiting in the lobby.",
+      "translation": "Том сейчас ждёт в холле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_6",
+      "word": "I suspect Tom is waiting for us in the lobby.",
+      "translation": "Подозреваю, что Том ждёт нас в холле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_7",
+      "word": "I told Tom to wait for me in the lobby.",
+      "translation": "Я сказал Тому, чтобы он ждал меня в вестибюле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_8",
+      "word": "Tom is waiting for me in the lobby.",
+      "translation": "Том ждёт меня в холле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_9",
+      "word": "Can you wait for us in the lobby?",
+      "translation": "Вы можете подождать нас в фойе?",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_10",
+      "word": "Could you give me a wake-up call at seven?",
+      "translation": "Не могли бы Вы разбудить меня своим звонком в семь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_11",
+      "word": "We'll wait in the lobby.",
+      "translation": "Мы подождем в вестибюле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_12",
+      "word": "Tom isn't waiting outside. He's waiting in the lobby.",
+      "translation": "Том ждёт не на улице, а в холле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_13",
+      "word": "I suspect that Tom is waiting for us in the lobby.",
+      "translation": "Подозреваю, что Том ждёт нас в холле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_14",
+      "word": "There's somebody waiting for you in the lobby.",
+      "translation": "Вас кто-то ждёт в холле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_15",
+      "word": "We'll be waiting for you in the lobby.",
+      "translation": "Мы будем ждать тебя в холле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_16",
+      "word": "Tom is going to be waiting for us in the lobby.",
+      "translation": "Том будет ждать нас в холле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_17",
+      "word": "We'll wait for Tom in the lobby.",
+      "translation": "Мы будем ждать Тома в вестибюле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_18",
+      "word": "Tom will be waiting in the lobby.",
+      "translation": "Том будет ждать в холле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_19",
+      "word": "Tom is waiting for us in the lobby.",
+      "translation": "Том ждёт нас в холле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_20",
+      "word": "Tom will be waiting for us in the lobby at 2:30.",
+      "translation": "Том будет ждать нас в холле в половине третьего.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_21",
+      "word": "There is one vacancy.",
+      "translation": "Есть одна вакансия.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_22",
+      "word": "The lobby was totally empty.",
+      "translation": "Холл был совершенно пустой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_23",
+      "word": "Wait in the lobby.",
+      "translation": "Подожди в вестибюле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_24",
+      "word": "Wait for us in the lobby.",
+      "translation": "Ждите нас в холле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_25",
+      "word": "There's someone waiting for you in the lobby.",
+      "translation": "Вас кто-то ждёт в холле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_26",
+      "word": "During the break, I went to look for Tom in the lobby.",
+      "translation": "В антракте я пошёл искать Тома в фойе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_27",
+      "word": "I'm in the lobby.",
+      "translation": "Я в холле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_28",
+      "word": "I'll wait for you in the lobby.",
+      "translation": "Я подожду тебя в вестибюле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_29",
+      "word": "Tom will be waiting for us in the lobby.",
+      "translation": "Том будет ждать нас в холле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_30",
+      "word": "Tom has been waiting patiently in the lobby for three hours.",
+      "translation": "Фома терпеливо ждёт в вестибюле на протяжении трёх часов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_31",
+      "word": "I'd like you to wait in the lobby.",
+      "translation": "Я хотел бы, чтобы ты подождал в холле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_32",
+      "word": "Tom waited for Mary in the lobby.",
+      "translation": "Том ждал Мэри в холле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_33",
+      "word": "Tom asked for a wake-up call.",
+      "translation": "Том попросил разбудить его по телефону.",
+      "language": "en"
+    },
+    {
+      "id": "pb_atthehotel_0_34",
+      "word": "Tom and Mary agreed to meet in the lobby.",
+      "translation": "Том и Мэри договорились встретиться в вестибюле.",
+      "language": "en"
+    }
+  ]
+}

@@ -1,0 +1,1513 @@
+{
+  "id": "builtin-politics",
+  "name": "Politics & Law ",
+  "description": "Government, politics, and legal terms",
+  "entries": [
+    {
+      "id": "e1",
+      "word": "politics",
+      "translation": "политика",
+      "language": "en"
+    },
+    {
+      "id": "e2",
+      "word": "government",
+      "translation": "правительство",
+      "language": "en"
+    },
+    {
+      "id": "e3",
+      "word": "state",
+      "translation": "государство",
+      "language": "en"
+    },
+    {
+      "id": "e4",
+      "word": "country",
+      "translation": "страна",
+      "language": "en"
+    },
+    {
+      "id": "e5",
+      "word": "nation",
+      "translation": "нация",
+      "language": "en"
+    },
+    {
+      "id": "e6",
+      "word": "citizen",
+      "translation": "гражданин",
+      "language": "en"
+    },
+    {
+      "id": "e7",
+      "word": "president",
+      "translation": "президент",
+      "language": "en"
+    },
+    {
+      "id": "e8",
+      "word": "minister",
+      "translation": "министр",
+      "language": "en"
+    },
+    {
+      "id": "e9",
+      "word": "politician",
+      "translation": "политик",
+      "language": "en"
+    },
+    {
+      "id": "e10",
+      "word": "election",
+      "translation": "выборы",
+      "language": "en"
+    },
+    {
+      "id": "e11",
+      "word": "vote",
+      "translation": "голосование",
+      "language": "en"
+    },
+    {
+      "id": "e12",
+      "word": "campaign",
+      "translation": "кампания",
+      "language": "en"
+    },
+    {
+      "id": "e13",
+      "word": "party",
+      "translation": "партия",
+      "language": "en"
+    },
+    {
+      "id": "e14",
+      "word": "law",
+      "translation": "закон",
+      "language": "en"
+    },
+    {
+      "id": "e15",
+      "word": "rule",
+      "translation": "правило",
+      "language": "en"
+    },
+    {
+      "id": "e16",
+      "word": "right",
+      "translation": "право",
+      "language": "en"
+    },
+    {
+      "id": "e17",
+      "word": "court",
+      "translation": "суд",
+      "language": "en"
+    },
+    {
+      "id": "e18",
+      "word": "judge",
+      "translation": "судья",
+      "language": "en"
+    },
+    {
+      "id": "e19",
+      "word": "lawyer",
+      "translation": "адвокат",
+      "language": "en"
+    },
+    {
+      "id": "e20",
+      "word": "police",
+      "translation": "полиция",
+      "language": "en"
+    },
+    {
+      "id": "e21",
+      "word": "officer",
+      "translation": "офицер",
+      "language": "en"
+    },
+    {
+      "id": "e22",
+      "word": "crime",
+      "translation": "преступление",
+      "language": "en"
+    },
+    {
+      "id": "e23",
+      "word": "criminal",
+      "translation": "преступник",
+      "language": "en"
+    },
+    {
+      "id": "e24",
+      "word": "prison",
+      "translation": "тюрьма",
+      "language": "en"
+    },
+    {
+      "id": "e25",
+      "word": "arrest",
+      "translation": "арест",
+      "language": "en"
+    },
+    {
+      "id": "e26",
+      "word": "trial",
+      "translation": "судебный процесс",
+      "language": "en"
+    },
+    {
+      "id": "e27",
+      "word": "jury",
+      "translation": "присяжные",
+      "language": "en"
+    },
+    {
+      "id": "e28",
+      "word": "evidence",
+      "translation": "доказательство",
+      "language": "en"
+    },
+    {
+      "id": "e29",
+      "word": "guilty",
+      "translation": "виновный",
+      "language": "en"
+    },
+    {
+      "id": "e30",
+      "word": "innocent",
+      "translation": "невиновный",
+      "language": "en"
+    },
+    {
+      "id": "e31",
+      "word": "justice",
+      "translation": "справедливость",
+      "language": "en"
+    },
+    {
+      "id": "e32",
+      "word": "freedom",
+      "translation": "свобода",
+      "language": "en"
+    },
+    {
+      "id": "e33",
+      "word": "peace",
+      "translation": "мир",
+      "language": "en"
+    },
+    {
+      "id": "e34",
+      "word": "war",
+      "translation": "война",
+      "language": "en"
+    },
+    {
+      "id": "e35",
+      "word": "army",
+      "translation": "армия",
+      "language": "en"
+    },
+    {
+      "id": "e36",
+      "word": "soldier",
+      "translation": "солдат",
+      "language": "en"
+    },
+    {
+      "id": "e37",
+      "word": "weapon",
+      "translation": "оружие",
+      "language": "en"
+    },
+    {
+      "id": "e38",
+      "word": "attack",
+      "translation": "атака",
+      "language": "en"
+    },
+    {
+      "id": "e39",
+      "word": "defense",
+      "translation": "защита",
+      "language": "en"
+    },
+    {
+      "id": "e40",
+      "word": "security",
+      "translation": "безопасность",
+      "language": "en"
+    },
+    {
+      "id": "e41",
+      "word": "society",
+      "translation": "общество",
+      "language": "en"
+    },
+    {
+      "id": "e42",
+      "word": "community",
+      "translation": "сообщество",
+      "language": "en"
+    },
+    {
+      "id": "e43",
+      "word": "population",
+      "translation": "население",
+      "language": "en"
+    },
+    {
+      "id": "e44",
+      "word": "culture",
+      "translation": "культура",
+      "language": "en"
+    },
+    {
+      "id": "e45",
+      "word": "tradition",
+      "translation": "традиция",
+      "language": "en"
+    },
+    {
+      "id": "e46",
+      "word": "custom",
+      "translation": "обычай",
+      "language": "en"
+    },
+    {
+      "id": "e47",
+      "word": "religion",
+      "translation": "религия",
+      "language": "en"
+    },
+    {
+      "id": "e48",
+      "word": "belief",
+      "translation": "вера",
+      "language": "en"
+    },
+    {
+      "id": "e49",
+      "word": "value",
+      "translation": "ценность",
+      "language": "en"
+    },
+    {
+      "id": "e50",
+      "word": "moral",
+      "translation": "мораль",
+      "language": "en"
+    },
+    {
+      "id": "e51",
+      "word": "ethic",
+      "translation": "этика",
+      "language": "en"
+    },
+    {
+      "id": "e52",
+      "word": "principle",
+      "translation": "принцип",
+      "language": "en"
+    },
+    {
+      "id": "e53",
+      "word": "norm",
+      "translation": "норма",
+      "language": "en"
+    },
+    {
+      "id": "e54",
+      "word": "standard",
+      "translation": "стандарт",
+      "language": "en"
+    },
+    {
+      "id": "e55",
+      "word": "behavior",
+      "translation": "поведение",
+      "language": "en"
+    },
+    {
+      "id": "e56",
+      "word": "attitude",
+      "translation": "отношение",
+      "language": "en"
+    },
+    {
+      "id": "e57",
+      "word": "opinion",
+      "translation": "мнение",
+      "language": "en"
+    },
+    {
+      "id": "e58",
+      "word": "view",
+      "translation": "взгляд",
+      "language": "en"
+    },
+    {
+      "id": "e59",
+      "word": "perspective",
+      "translation": "перспектива",
+      "language": "en"
+    },
+    {
+      "id": "e60",
+      "word": "mindset",
+      "translation": "менталитет",
+      "language": "en"
+    },
+    {
+      "id": "e61",
+      "word": "ideology",
+      "translation": "идеология",
+      "language": "en"
+    },
+    {
+      "id": "e62",
+      "word": "philosophy",
+      "translation": "философия",
+      "language": "en"
+    },
+    {
+      "id": "e63",
+      "word": "movement",
+      "translation": "движение",
+      "language": "en"
+    },
+    {
+      "id": "e64",
+      "word": "trend",
+      "translation": "тренд",
+      "language": "en"
+    },
+    {
+      "id": "e65",
+      "word": "change",
+      "translation": "изменение",
+      "language": "en"
+    },
+    {
+      "id": "e66",
+      "word": "reform",
+      "translation": "реформа",
+      "language": "en"
+    },
+    {
+      "id": "e67",
+      "word": "revolution",
+      "translation": "революция",
+      "language": "en"
+    },
+    {
+      "id": "e68",
+      "word": "protest",
+      "translation": "протест",
+      "language": "en"
+    },
+    {
+      "id": "e69",
+      "word": "strike",
+      "translation": "забастовка",
+      "language": "en"
+    },
+    {
+      "id": "e70",
+      "word": "riot",
+      "translation": "бунт",
+      "language": "en"
+    },
+    {
+      "id": "e71",
+      "word": "rebellion",
+      "translation": "восстание",
+      "language": "en"
+    },
+    {
+      "id": "e72",
+      "word": "conflict",
+      "translation": "конфликт",
+      "language": "en"
+    },
+    {
+      "id": "e73",
+      "word": "dispute",
+      "translation": "спор",
+      "language": "en"
+    },
+    {
+      "id": "e74",
+      "word": "argument",
+      "translation": "аргумент",
+      "language": "en"
+    },
+    {
+      "id": "e75",
+      "word": "debate",
+      "translation": "дебаты",
+      "language": "en"
+    },
+    {
+      "id": "e76",
+      "word": "discussion",
+      "translation": "обсуждение",
+      "language": "en"
+    },
+    {
+      "id": "e77",
+      "word": "negotiation",
+      "translation": "переговоры",
+      "language": "en"
+    },
+    {
+      "id": "e78",
+      "word": "agreement",
+      "translation": "соглашение",
+      "language": "en"
+    },
+    {
+      "id": "e79",
+      "word": "compromise",
+      "translation": "компромисс",
+      "language": "en"
+    },
+    {
+      "id": "e80",
+      "word": "treaty",
+      "translation": "договор",
+      "language": "en"
+    },
+    {
+      "id": "e81",
+      "word": "pact",
+      "translation": "пакт",
+      "language": "en"
+    },
+    {
+      "id": "e82",
+      "word": "alliance",
+      "translation": "альянс",
+      "language": "en"
+    },
+    {
+      "id": "e83",
+      "word": "coalition",
+      "translation": "коалиция",
+      "language": "en"
+    },
+    {
+      "id": "e84",
+      "word": "union",
+      "translation": "союз",
+      "language": "en"
+    },
+    {
+      "id": "e85",
+      "word": "organization",
+      "translation": "организация",
+      "language": "en"
+    },
+    {
+      "id": "e86",
+      "word": "institution",
+      "translation": "институт",
+      "language": "en"
+    },
+    {
+      "id": "e87",
+      "word": "agency",
+      "translation": "агентство",
+      "language": "en"
+    },
+    {
+      "id": "e88",
+      "word": "department",
+      "translation": "отдел",
+      "language": "en"
+    },
+    {
+      "id": "e89",
+      "word": "ministry",
+      "translation": "министерство",
+      "language": "en"
+    },
+    {
+      "id": "e90",
+      "word": "bureau",
+      "translation": "бюро",
+      "language": "en"
+    },
+    {
+      "id": "e91",
+      "word": "office",
+      "translation": "управление",
+      "language": "en"
+    },
+    {
+      "id": "e92",
+      "word": "council",
+      "translation": "совет",
+      "language": "en"
+    },
+    {
+      "id": "e93",
+      "word": "committee",
+      "translation": "комитет",
+      "language": "en"
+    },
+    {
+      "id": "e94",
+      "word": "board",
+      "translation": "комиссия",
+      "language": "en"
+    },
+    {
+      "id": "e95",
+      "word": "panel",
+      "translation": "панель",
+      "language": "en"
+    },
+    {
+      "id": "e96",
+      "word": "assembly",
+      "translation": "ассамблея",
+      "language": "en"
+    },
+    {
+      "id": "e97",
+      "word": "parliament",
+      "translation": "парламент",
+      "language": "en"
+    },
+    {
+      "id": "e98",
+      "word": "congress",
+      "translation": "конгресс",
+      "language": "en"
+    },
+    {
+      "id": "e99",
+      "word": "senate",
+      "translation": "сенат",
+      "language": "en"
+    },
+    {
+      "id": "e100",
+      "word": "chamber",
+      "translation": "палата",
+      "language": "en"
+    },
+    {
+      "id": "e101",
+      "word": "representative",
+      "translation": "представитель",
+      "language": "en"
+    },
+    {
+      "id": "e102",
+      "word": "delegate",
+      "translation": "делегат",
+      "language": "en"
+    },
+    {
+      "id": "e103",
+      "word": "deputy",
+      "translation": "депутат",
+      "language": "en"
+    },
+    {
+      "id": "e104",
+      "word": "mayor",
+      "translation": "мэр",
+      "language": "en"
+    },
+    {
+      "id": "e105",
+      "word": "governor",
+      "translation": "губернатор",
+      "language": "en"
+    },
+    {
+      "id": "e106",
+      "word": "leader",
+      "translation": "лидер",
+      "language": "en"
+    },
+    {
+      "id": "e107",
+      "word": "ruler",
+      "translation": "правитель",
+      "language": "en"
+    },
+    {
+      "id": "e108",
+      "word": "monarch",
+      "translation": "монарх",
+      "language": "en"
+    },
+    {
+      "id": "e109",
+      "word": "king",
+      "translation": "король",
+      "language": "en"
+    },
+    {
+      "id": "e110",
+      "word": "queen",
+      "translation": "королева",
+      "language": "en"
+    },
+    {
+      "id": "e111",
+      "word": "prince",
+      "translation": "принц",
+      "language": "en"
+    },
+    {
+      "id": "e112",
+      "word": "princess",
+      "translation": "принцесса",
+      "language": "en"
+    },
+    {
+      "id": "e113",
+      "word": "emperor",
+      "translation": "император",
+      "language": "en"
+    },
+    {
+      "id": "e114",
+      "word": "dictator",
+      "translation": "диктатор",
+      "language": "en"
+    },
+    {
+      "id": "e115",
+      "word": "tyrant",
+      "translation": "тиран",
+      "language": "en"
+    },
+    {
+      "id": "e116",
+      "word": "regime",
+      "translation": "режим",
+      "language": "en"
+    },
+    {
+      "id": "e117",
+      "word": "system",
+      "translation": "система",
+      "language": "en"
+    },
+    {
+      "id": "e118",
+      "word": "structure",
+      "translation": "структура",
+      "language": "en"
+    },
+    {
+      "id": "e119",
+      "word": "hierarchy",
+      "translation": "иерархия",
+      "language": "en"
+    },
+    {
+      "id": "e120",
+      "word": "class",
+      "translation": "класс",
+      "language": "en"
+    },
+    {
+      "id": "e121",
+      "word": "status",
+      "translation": "статус",
+      "language": "en"
+    },
+    {
+      "id": "e122",
+      "word": "rank",
+      "translation": "ранг",
+      "language": "en"
+    },
+    {
+      "id": "e123",
+      "word": "position",
+      "translation": "должность",
+      "language": "en"
+    },
+    {
+      "id": "e124",
+      "word": "role",
+      "translation": "роль",
+      "language": "en"
+    },
+    {
+      "id": "e125",
+      "word": "duty",
+      "translation": "обязанность",
+      "language": "en"
+    },
+    {
+      "id": "e126",
+      "word": "responsibility",
+      "translation": "ответственность",
+      "language": "en"
+    },
+    {
+      "id": "e127",
+      "word": "obligation",
+      "translation": "обязательство",
+      "language": "en"
+    },
+    {
+      "id": "e128",
+      "word": "task",
+      "translation": "задача",
+      "language": "en"
+    },
+    {
+      "id": "e129",
+      "word": "function",
+      "translation": "функция",
+      "language": "en"
+    },
+    {
+      "id": "e130",
+      "word": "power",
+      "translation": "власть",
+      "language": "en"
+    },
+    {
+      "id": "e131",
+      "word": "authority",
+      "translation": "полномочие",
+      "language": "en"
+    },
+    {
+      "id": "e132",
+      "word": "control",
+      "translation": "контроль",
+      "language": "en"
+    },
+    {
+      "id": "e133",
+      "word": "influence",
+      "translation": "влияние",
+      "language": "en"
+    },
+    {
+      "id": "e134",
+      "word": "impact",
+      "translation": "воздействие",
+      "language": "en"
+    },
+    {
+      "id": "e135",
+      "word": "effect",
+      "translation": "эффект",
+      "language": "en"
+    },
+    {
+      "id": "e136",
+      "word": "result",
+      "translation": "результат",
+      "language": "en"
+    },
+    {
+      "id": "e137",
+      "word": "consequence",
+      "translation": "последствие",
+      "language": "en"
+    },
+    {
+      "id": "e138",
+      "word": "outcome",
+      "translation": "исход",
+      "language": "en"
+    },
+    {
+      "id": "e139",
+      "word": "issue",
+      "translation": "проблема",
+      "language": "en"
+    },
+    {
+      "id": "e140",
+      "word": "problem",
+      "translation": "проблема",
+      "language": "en"
+    },
+    {
+      "id": "e141",
+      "word": "challenge",
+      "translation": "вызов",
+      "language": "en"
+    },
+    {
+      "id": "e142",
+      "word": "difficulty",
+      "translation": "трудность",
+      "language": "en"
+    },
+    {
+      "id": "e143",
+      "word": "obstacle",
+      "translation": "препятствие",
+      "language": "en"
+    },
+    {
+      "id": "e144",
+      "word": "barrier",
+      "translation": "барьер",
+      "language": "en"
+    },
+    {
+      "id": "e145",
+      "word": "crisis",
+      "translation": "кризис",
+      "language": "en"
+    },
+    {
+      "id": "e146",
+      "word": "emergency",
+      "translation": "чрезвычайная ситуация",
+      "language": "en"
+    },
+    {
+      "id": "e147",
+      "word": "disaster",
+      "translation": "катастрофа",
+      "language": "en"
+    },
+    {
+      "id": "e148",
+      "word": "tragedy",
+      "translation": "трагедия",
+      "language": "en"
+    },
+    {
+      "id": "e149",
+      "word": "catastrophe",
+      "translation": "катастрофа",
+      "language": "en"
+    },
+    {
+      "id": "e150",
+      "word": "threat",
+      "translation": "угроза",
+      "language": "en"
+    },
+    {
+      "id": "e151",
+      "word": "danger",
+      "translation": "опасность",
+      "language": "en"
+    },
+    {
+      "id": "e152",
+      "word": "risk",
+      "translation": "риск",
+      "language": "en"
+    },
+    {
+      "id": "e153",
+      "word": "fear",
+      "translation": "страх",
+      "language": "en"
+    },
+    {
+      "id": "e154",
+      "word": "panic",
+      "translation": "паника",
+      "language": "en"
+    },
+    {
+      "id": "e155",
+      "word": "terror",
+      "translation": "террор",
+      "language": "en"
+    },
+    {
+      "id": "e156",
+      "word": "violence",
+      "translation": "насилие",
+      "language": "en"
+    },
+    {
+      "id": "e157",
+      "word": "force",
+      "translation": "сила",
+      "language": "en"
+    },
+    {
+      "id": "e158",
+      "word": "abuse",
+      "translation": "злоупотребление",
+      "language": "en"
+    },
+    {
+      "id": "e159",
+      "word": "corruption",
+      "translation": "коррупция",
+      "language": "en"
+    },
+    {
+      "id": "e160",
+      "word": "bribe",
+      "translation": "взятка",
+      "language": "en"
+    },
+    {
+      "id": "e161",
+      "word": "fraud",
+      "translation": "мошенничество",
+      "language": "en"
+    },
+    {
+      "id": "e162",
+      "word": "scandal",
+      "translation": "скандал",
+      "language": "en"
+    },
+    {
+      "id": "e163",
+      "word": "controversy",
+      "translation": "противоречие",
+      "language": "en"
+    },
+    {
+      "id": "e164",
+      "word": "scam",
+      "translation": "афера",
+      "language": "en"
+    },
+    {
+      "id": "e165",
+      "word": "theft",
+      "translation": "кража",
+      "language": "en"
+    },
+    {
+      "id": "e166",
+      "word": "robbery",
+      "translation": "ограбление",
+      "language": "en"
+    },
+    {
+      "id": "e167",
+      "word": "burglary",
+      "translation": "кража со взломом",
+      "language": "en"
+    },
+    {
+      "id": "e168",
+      "word": "murder",
+      "translation": "убийство",
+      "language": "en"
+    },
+    {
+      "id": "e169",
+      "word": "homicide",
+      "translation": "убийство",
+      "language": "en"
+    },
+    {
+      "id": "e170",
+      "word": "assassination",
+      "translation": "убийство",
+      "language": "en"
+    },
+    {
+      "id": "e171",
+      "word": "kidnapping",
+      "translation": "похищение",
+      "language": "en"
+    },
+    {
+      "id": "e172",
+      "word": "hijacking",
+      "translation": "угон",
+      "language": "en"
+    },
+    {
+      "id": "e173",
+      "word": "smuggling",
+      "translation": "контрабанда",
+      "language": "en"
+    },
+    {
+      "id": "e174",
+      "word": "trafficking",
+      "translation": "торговля людьми",
+      "language": "en"
+    },
+    {
+      "id": "e175",
+      "word": "piracy",
+      "translation": "пиратство",
+      "language": "en"
+    },
+    {
+      "id": "e176",
+      "word": "terrorism",
+      "translation": "терроризм",
+      "language": "en"
+    },
+    {
+      "id": "e177",
+      "word": "extremism",
+      "translation": "экстремизм",
+      "language": "en"
+    },
+    {
+      "id": "e178",
+      "word": "radicalism",
+      "translation": "радикализм",
+      "language": "en"
+    },
+    {
+      "id": "e179",
+      "word": "racism",
+      "translation": "расизм",
+      "language": "en"
+    },
+    {
+      "id": "e180",
+      "word": "sexism",
+      "translation": "сексизм",
+      "language": "en"
+    },
+    {
+      "id": "e181",
+      "word": "discrimination",
+      "translation": "дискриминация",
+      "language": "en"
+    },
+    {
+      "id": "e182",
+      "word": "prejudice",
+      "translation": "предубеждение",
+      "language": "en"
+    },
+    {
+      "id": "e183",
+      "word": "bias",
+      "translation": "предвзятость",
+      "language": "en"
+    },
+    {
+      "id": "e184",
+      "word": "stereotype",
+      "translation": "стереотип",
+      "language": "en"
+    },
+    {
+      "id": "e185",
+      "word": "inequality",
+      "translation": "неравенство",
+      "language": "en"
+    },
+    {
+      "id": "e186",
+      "word": "injustice",
+      "translation": "несправедливость",
+      "language": "en"
+    },
+    {
+      "id": "e187",
+      "word": "poverty",
+      "translation": "бедность",
+      "language": "en"
+    },
+    {
+      "id": "e188",
+      "word": "wealth",
+      "translation": "богатство",
+      "language": "en"
+    },
+    {
+      "id": "e189",
+      "word": "richness",
+      "translation": "богатство",
+      "language": "en"
+    },
+    {
+      "id": "e190",
+      "word": "prosperity",
+      "translation": "процветание",
+      "language": "en"
+    },
+    {
+      "id": "e191",
+      "word": "success",
+      "translation": "успех",
+      "language": "en"
+    },
+    {
+      "id": "e192",
+      "word": "failure",
+      "translation": "неудача",
+      "language": "en"
+    },
+    {
+      "id": "e193",
+      "word": "victory",
+      "translation": "победа",
+      "language": "en"
+    },
+    {
+      "id": "e194",
+      "word": "defeat",
+      "translation": "поражение",
+      "language": "en"
+    },
+    {
+      "id": "e195",
+      "word": "loss",
+      "translation": "потеря",
+      "language": "en"
+    },
+    {
+      "id": "e196",
+      "word": "gain",
+      "translation": "выгода",
+      "language": "en"
+    },
+    {
+      "id": "e197",
+      "word": "benefit",
+      "translation": "преимущество",
+      "language": "en"
+    },
+    {
+      "id": "e198",
+      "word": "advantage",
+      "translation": "преимущество",
+      "language": "en"
+    },
+    {
+      "id": "e199",
+      "word": "disadvantage",
+      "translation": "недостаток",
+      "language": "en"
+    },
+    {
+      "id": "e200",
+      "word": "opportunity",
+      "translation": "возможность",
+      "language": "en"
+    },
+    {
+      "id": "e201",
+      "word": "chance",
+      "translation": "шанс",
+      "language": "en"
+    },
+    {
+      "id": "e202",
+      "word": "prospect",
+      "translation": "перспектива",
+      "language": "en"
+    },
+    {
+      "id": "e203",
+      "word": "future",
+      "translation": "будущее",
+      "language": "en"
+    },
+    {
+      "id": "e204",
+      "word": "past",
+      "translation": "прошлое",
+      "language": "en"
+    },
+    {
+      "id": "e205",
+      "word": "present",
+      "translation": "настоящее",
+      "language": "en"
+    },
+    {
+      "id": "e206",
+      "word": "history",
+      "translation": "история",
+      "language": "en"
+    },
+    {
+      "id": "e207",
+      "word": "memory",
+      "translation": "память",
+      "language": "en"
+    },
+    {
+      "id": "e208",
+      "word": "record",
+      "translation": "запись",
+      "language": "en"
+    },
+    {
+      "id": "e209",
+      "word": "document",
+      "translation": "документ",
+      "language": "en"
+    },
+    {
+      "id": "e210",
+      "word": "archive",
+      "translation": "архив",
+      "language": "en"
+    },
+    {
+      "id": "e211",
+      "word": "source",
+      "translation": "источник",
+      "language": "en"
+    },
+    {
+      "id": "e212",
+      "word": "resource",
+      "translation": "ресурс",
+      "language": "en"
+    },
+    {
+      "id": "e213",
+      "word": "fund",
+      "translation": "фонд",
+      "language": "en"
+    },
+    {
+      "id": "e214",
+      "word": "capital",
+      "translation": "капитал",
+      "language": "en"
+    },
+    {
+      "id": "e215",
+      "word": "money",
+      "translation": "деньги",
+      "language": "en"
+    },
+    {
+      "id": "e216",
+      "word": "finance",
+      "translation": "финансы",
+      "language": "en"
+    },
+    {
+      "id": "e217",
+      "word": "economy",
+      "translation": "экономика",
+      "language": "en"
+    },
+    {
+      "id": "e218",
+      "word": "market",
+      "translation": "рынок",
+      "language": "en"
+    },
+    {
+      "id": "e219",
+      "word": "trade",
+      "translation": "торговля",
+      "language": "en"
+    },
+    {
+      "id": "e220",
+      "word": "commerce",
+      "translation": "коммерция",
+      "language": "en"
+    },
+    {
+      "id": "e221",
+      "word": "industry",
+      "translation": "промышленность",
+      "language": "en"
+    },
+    {
+      "id": "e222",
+      "word": "business",
+      "translation": "бизнес",
+      "language": "en"
+    },
+    {
+      "id": "e223",
+      "word": "company",
+      "translation": "компания",
+      "language": "en"
+    },
+    {
+      "id": "e224",
+      "word": "corporation",
+      "translation": "корпорация",
+      "language": "en"
+    },
+    {
+      "id": "e225",
+      "word": "enterprise",
+      "translation": "предприятие",
+      "language": "en"
+    },
+    {
+      "id": "e226",
+      "word": "firm",
+      "translation": "фирма",
+      "language": "en"
+    },
+    {
+      "id": "e227",
+      "word": "workplace",
+      "translation": "рабочее место",
+      "language": "en"
+    },
+    {
+      "id": "e228",
+      "word": "job",
+      "translation": "работа",
+      "language": "en"
+    },
+    {
+      "id": "e229",
+      "word": "work",
+      "translation": "работа",
+      "language": "en"
+    },
+    {
+      "id": "e230",
+      "word": "employment",
+      "translation": "занятость",
+      "language": "en"
+    },
+    {
+      "id": "e231",
+      "word": "career",
+      "translation": "карьера",
+      "language": "en"
+    },
+    {
+      "id": "e232",
+      "word": "profession",
+      "translation": "профессия",
+      "language": "en"
+    },
+    {
+      "id": "e233",
+      "word": "occupation",
+      "translation": "занятие",
+      "language": "en"
+    },
+    {
+      "id": "e234",
+      "word": "trade",
+      "translation": "ремесло",
+      "language": "en"
+    },
+    {
+      "id": "e235",
+      "word": "skill",
+      "translation": "навык",
+      "language": "en"
+    },
+    {
+      "id": "e236",
+      "word": "ability",
+      "translation": "способность",
+      "language": "en"
+    },
+    {
+      "id": "e237",
+      "word": "talent",
+      "translation": "талант",
+      "language": "en"
+    },
+    {
+      "id": "e238",
+      "word": "experience",
+      "translation": "опыт",
+      "language": "en"
+    },
+    {
+      "id": "e239",
+      "word": "knowledge",
+      "translation": "знание",
+      "language": "en"
+    },
+    {
+      "id": "e240",
+      "word": "education",
+      "translation": "образование",
+      "language": "en"
+    },
+    {
+      "id": "e241",
+      "word": "training",
+      "translation": "обучение",
+      "language": "en"
+    },
+    {
+      "id": "e242",
+      "word": "qualification",
+      "translation": "квалификация",
+      "language": "en"
+    },
+    {
+      "id": "e243",
+      "word": "degree",
+      "translation": "степень",
+      "language": "en"
+    },
+    {
+      "id": "e244",
+      "word": "diploma",
+      "translation": "диплом",
+      "language": "en"
+    },
+    {
+      "id": "e245",
+      "word": "certificate",
+      "translation": "сертификат",
+      "language": "en"
+    },
+    {
+      "id": "e246",
+      "word": "license",
+      "translation": "лицензия",
+      "language": "en"
+    },
+    {
+      "id": "e247",
+      "word": "permit",
+      "translation": "разрешение",
+      "language": "en"
+    },
+    {
+      "id": "e248",
+      "word": "authorization",
+      "translation": "авторизация",
+      "language": "en"
+    },
+    {
+      "id": "e249",
+      "word": "approval",
+      "translation": "одобрение",
+      "language": "en"
+    },
+    {
+      "id": "e250",
+      "word": "consent",
+      "translation": "согласие",
+      "language": "en"
+    },
+    {
+      "id": "e251",
+      "word": "permission",
+      "translation": "разрешение",
+      "language": "en"
+    }
+  ]
+}

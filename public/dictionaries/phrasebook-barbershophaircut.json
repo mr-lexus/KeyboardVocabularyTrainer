@@ -1,0 +1,733 @@
+{
+  "id": "phrasebook-barbershophaircut",
+  "name": "Barbershop & Haircut",
+  "description": "Phrasebook for Barbershop & Haircut",
+  "entries": [
+    {
+      "id": "pb_barbershophaircut_0_0",
+      "word": "I don't have a beard.",
+      "translation": "У меня нет бороды.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_1",
+      "word": "Tom has a long beard.",
+      "translation": "У Тома длинная борода.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_2",
+      "word": "She's an angel.",
+      "translation": "Она ангел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_3",
+      "word": "Are you growing a beard?",
+      "translation": "Ты отращиваешь бороду?",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_4",
+      "word": "Tom now has a beard.",
+      "translation": "У Тома теперь борода.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_5",
+      "word": "Tom has a thick beard.",
+      "translation": "У Тома густая борода.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_6",
+      "word": "My beard grows quickly.",
+      "translation": "Моя борода быстро растет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_7",
+      "word": "I noticed that Tom has started growing a beard.",
+      "translation": "Я заметил, что Том начал отращивать бороду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_8",
+      "word": "Have you ever grown a beard?",
+      "translation": "Ты когда-нибудь отпускал бороду?",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_9",
+      "word": "Tom twirled his mustache.",
+      "translation": "Том покрутил усы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_10",
+      "word": "I need scissors.",
+      "translation": "Мне нужны ножницы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_11",
+      "word": "He grew a beard to look more mature.",
+      "translation": "Он отрастил бороду, чтобы выглядеть взрослее.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_12",
+      "word": "I'm no angel.",
+      "translation": "Я не ангел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_13",
+      "word": "Tom has a mustache.",
+      "translation": "У Тома усы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_14",
+      "word": "Tom isn't a barber.",
+      "translation": "Том не парикмахер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_15",
+      "word": "Tom has a beard now.",
+      "translation": "У Тома теперь борода.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_16",
+      "word": "Tom shaved off his mustache.",
+      "translation": "Том сбрил усы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_17",
+      "word": "Tom has a longer beard than John.",
+      "translation": "У Тома борода длиннее, чем у Джона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_18",
+      "word": "These scissors don't cut well.",
+      "translation": "Эти ножницы плохо режут.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_19",
+      "word": "When were scissors invented?",
+      "translation": "Когда были изобретены ножницы?",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_20",
+      "word": "I have a beard.",
+      "translation": "У меня борода.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_21",
+      "word": "There's a pair of scissors in the top drawer.",
+      "translation": "В верхнем ящике есть ножницы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_22",
+      "word": "I grew a beard.",
+      "translation": "Я отрастил бороду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_23",
+      "word": "Tom handed Mary the scissors.",
+      "translation": "Том передал Мэри ножницы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_24",
+      "word": "I wonder whose scissors these are.",
+      "translation": "Интересно, чьи это ножницы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_25",
+      "word": "Tom is growing a beard.",
+      "translation": "Том отращивает бороду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_26",
+      "word": "The scissors aren't sharp.",
+      "translation": "Ножницы тупые.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_27",
+      "word": "I can't find the scissors.",
+      "translation": "Я не могу найти ножницы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_28",
+      "word": "I need a pair of scissors.",
+      "translation": "Мне нужны ножницы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_29",
+      "word": "The scissors are dull.",
+      "translation": "Ножницы тупые.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_30",
+      "word": "Where are my scissors?",
+      "translation": "Где мои ножницы?",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_31",
+      "word": "We have the same barber.",
+      "translation": "У нас один парикмахер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_32",
+      "word": "You look older with a beard.",
+      "translation": "С бородой ты выглядишь старше.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_33",
+      "word": "Tom took the scissors from Mary.",
+      "translation": "Том отобрал у Мэри ножницы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_34",
+      "word": "Whose scissors are these?",
+      "translation": "Чьи это ножницы?",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_35",
+      "word": "He has a beard.",
+      "translation": "Он носит бороду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_36",
+      "word": "Who's that man with a beard?",
+      "translation": "Кто это тот человек с бородой?",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_37",
+      "word": "Tom carefully cut the tissue with scissors.",
+      "translation": "Том аккуратно разрезал материю ножницами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_38",
+      "word": "I cut the cloth with a pair of scissors.",
+      "translation": "Я разрезал ткань ножницами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_39",
+      "word": "I was looking for a pair of scissors.",
+      "translation": "Я искал ножницы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_40",
+      "word": "I have a mustache.",
+      "translation": "У меня усы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_41",
+      "word": "Tom borrowed a pair of scissors from Mary.",
+      "translation": "Том одолжил у Мэри ножницы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_42",
+      "word": "Tom isn't an angel.",
+      "translation": "Том не ангел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_43",
+      "word": "Your beard makes you look old.",
+      "translation": "Борода тебя старит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_44",
+      "word": "I'm your guardian angel.",
+      "translation": "Я твой ангел-хранитель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_45",
+      "word": "Tom has a longer beard than John does.",
+      "translation": "У Тома борода длиннее, чем у Джона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_46",
+      "word": "Tom is an angel.",
+      "translation": "Том - ангел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_47",
+      "word": "Tom had a mustache.",
+      "translation": "У Тома были усы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_48",
+      "word": "You're really an angel.",
+      "translation": "Ты настоящий ангел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_0_49",
+      "word": "Tom has shaved off his mustache.",
+      "translation": "Том сбрил усы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_0",
+      "word": "Are you done with these scissors?",
+      "translation": "Вам эти ножницы больше не нужны?",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_1",
+      "word": "Have you ever seen an angel?",
+      "translation": "Вы когда-нибудь видели ангела?",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_2",
+      "word": "Tom became a barber.",
+      "translation": "Том стал парикмахером.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_3",
+      "word": "Tom works as a barber.",
+      "translation": "Том работает парикмахером.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_4",
+      "word": "Tom was no angel.",
+      "translation": "Том не был ангелом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_5",
+      "word": "He shaved his mustache off.",
+      "translation": "Он сбрил усы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_6",
+      "word": "Tom has started growing a beard.",
+      "translation": "Том начал отращивать бороду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_7",
+      "word": "I'm not an angel.",
+      "translation": "Я не ангел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_8",
+      "word": "Does Tom have a beard?",
+      "translation": "У Тома есть борода?",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_9",
+      "word": "She's an absolute angel.",
+      "translation": "Она настоящий ангел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_10",
+      "word": "I'm growing a beard.",
+      "translation": "Я отращиваю бороду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_11",
+      "word": "Tom yanked off John's fake beard.",
+      "translation": "Том сорвал с Джона фальшивую бороду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_12",
+      "word": "I'm an angel.",
+      "translation": "Я ангел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_13",
+      "word": "Go to the barber.",
+      "translation": "Сходи в парикмахерскую.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_14",
+      "word": "He twirled his mustache.",
+      "translation": "Он подкрутил усы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_15",
+      "word": "Tom has grown a beard.",
+      "translation": "Том отрастил бороду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_16",
+      "word": "Tom has a full beard.",
+      "translation": "У Тома густая борода.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_17",
+      "word": "Tom is growing a beard again.",
+      "translation": "Том опять отращивает бороду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_18",
+      "word": "Tom trimmed his beard.",
+      "translation": "Том подстриг бороду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_19",
+      "word": "Tom shaved his mustache.",
+      "translation": "Том сбрил усы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_20",
+      "word": "Bring me the scissors.",
+      "translation": "Принеси мне ножницы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_21",
+      "word": "Tom carefully cut the fabric with a pair of scissors.",
+      "translation": "Том аккуратно разрезал ткань ножницами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_22",
+      "word": "Tom grew a long beard.",
+      "translation": "Том отрастил длинную бороду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_23",
+      "word": "I grew a mustache.",
+      "translation": "Я отпустил усы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_24",
+      "word": "Tom is the one with the beard.",
+      "translation": "Том - это тот, что с бородой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_25",
+      "word": "Would I look good with a mustache?",
+      "translation": "Мне бы пошли усы?",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_26",
+      "word": "Who took my scissors?",
+      "translation": "Кто взял мои ножницы?",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_27",
+      "word": "I didn't recognize you without a beard.",
+      "translation": "Я тебя не узнал без бороды.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_28",
+      "word": "The old man stroked his beard thoughtfully.",
+      "translation": "Старик задумчиво погладил бороду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_29",
+      "word": "You're an angel.",
+      "translation": "Ты ангел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_30",
+      "word": "I bought a pair of scissors.",
+      "translation": "Я купил ножницы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_31",
+      "word": "Tom nodded as he listened to the applause fade.",
+      "translation": "Том кивнул, слушая, как стихают аплодисменты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_32",
+      "word": "Can I touch your beard?",
+      "translation": "Можно потрогать твою бороду?",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_33",
+      "word": "Tom told everyone he wanted to become a barber.",
+      "translation": "Том сказал всем, что хочет стать парикмахером.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_34",
+      "word": "I'm growing a beard again.",
+      "translation": "Я опять отращиваю бороду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_35",
+      "word": "Tom has a very long beard.",
+      "translation": "У Тома очень длинная борода.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_36",
+      "word": "These scissors are new.",
+      "translation": "Эти ножницы новые.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_37",
+      "word": "I found nothing but a pair of scissors.",
+      "translation": "Я не нашёл ничего, кроме ножниц.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_38",
+      "word": "Neither Tom nor John has a beard.",
+      "translation": "Ни у Тома, ни у Джона нет бороды.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_39",
+      "word": "Tom shaved off his beard.",
+      "translation": "Том сбрил бороду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_40",
+      "word": "Tom grew a mustache.",
+      "translation": "Том отрастил усы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_41",
+      "word": "Tom has a beard.",
+      "translation": "У Тома борода.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_42",
+      "word": "He's got a thick beard.",
+      "translation": "У него густая борода.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_43",
+      "word": "I have a long beard.",
+      "translation": "У меня длинная борода.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_44",
+      "word": "I need to trim my beard.",
+      "translation": "Мне нужно подровнять бороду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_45",
+      "word": "Is Tom the one with the beard?",
+      "translation": "Том - это тот, что с бородой?",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_46",
+      "word": "Tom grew out his beard.",
+      "translation": "Том отпустил бороду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_47",
+      "word": "Tom told everyone that he wanted to become a barber.",
+      "translation": "Том сказал всем, что хочет стать парикмахером.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_48",
+      "word": "Why are you holding a pair of scissors?",
+      "translation": "Почему ты держишь ножницы?",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_1_49",
+      "word": "Tom took a pair of scissors out of the drawer.",
+      "translation": "Том достал ножницы из ящика стола.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_2_0",
+      "word": "I have a beard now.",
+      "translation": "У меня теперь борода.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_2_1",
+      "word": "Tom told everybody that he wanted to become a barber.",
+      "translation": "Том сказал всем, что хочет стать парикмахером.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_2_2",
+      "word": "How long have you had a beard?",
+      "translation": "Давно у тебя борода?",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_2_3",
+      "word": "I wonder whose these scissors are.",
+      "translation": "Интересно, чьи это ножницы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_2_4",
+      "word": "Tom is no angel.",
+      "translation": "Том не ангел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_2_5",
+      "word": "Tom grew a beard.",
+      "translation": "Том отрастил бороду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_2_6",
+      "word": "Shaving off your beard took ten years off you.",
+      "translation": "Сбрив бороду, ты помолодел на десять лет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_2_7",
+      "word": "Tom grew his beard so he'd look older.",
+      "translation": "Том отрастил себе бороду, чтобы выглядеть старше.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_2_8",
+      "word": "Where do you keep your scissors?",
+      "translation": "Где ты хранишь ножницы?",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_2_9",
+      "word": "Tom cuts dill with scissors.",
+      "translation": "Том режет ножницами укроп.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_2_10",
+      "word": "Tom is growing a mustache.",
+      "translation": "Том отращивает усы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_2_11",
+      "word": "Tom has braided his beard.",
+      "translation": "Том заплёл свою бороду в косичку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_2_12",
+      "word": "Do you sell left-handed scissors?",
+      "translation": "Вы продаёте ножницы для левшей?",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_2_13",
+      "word": "Do you have a pair of scissors?",
+      "translation": "У вас есть ножницы?",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_2_14",
+      "word": "Tom has a little mustache.",
+      "translation": "У Тома небольшие усики.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_2_15",
+      "word": "Tom shaved his mustache off.",
+      "translation": "Том сбрил усы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_2_16",
+      "word": "Tell Tom to give you some scissors.",
+      "translation": "Скажи Тому, чтобы он дал тебе ножницы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_2_17",
+      "word": "Tom has a nice-looking beard.",
+      "translation": "У Тома симпатичная борода.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_2_18",
+      "word": "Tom told everybody he wanted to become a barber.",
+      "translation": "Том сказал всем, что хочет стать парикмахером.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_2_19",
+      "word": "Tom stroked his beard.",
+      "translation": "Том погладил бороду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_barbershophaircut_2_20",
+      "word": "She attacked him with a pair of scissors.",
+      "translation": "Она набросилась на него с ножницами.",
+      "language": "en"
+    }
+  ]
+}

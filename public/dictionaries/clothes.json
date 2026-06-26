@@ -1,0 +1,2167 @@
+{
+  "id": "builtin-clothes",
+  "name": "Clothes & Fashion ",
+  "description": "Extensive vocabulary for clothing, accessories, and fashion",
+  "entries": [
+    {
+      "id": "e1",
+      "word": "clothes",
+      "translation": "одежда",
+      "language": "en"
+    },
+    {
+      "id": "e2",
+      "word": "shirt",
+      "translation": "рубашка",
+      "language": "en"
+    },
+    {
+      "id": "e3",
+      "word": "t-shirt",
+      "translation": "футболка",
+      "language": "en"
+    },
+    {
+      "id": "e4",
+      "word": "pants",
+      "translation": "брюки",
+      "language": "en"
+    },
+    {
+      "id": "e5",
+      "word": "jeans",
+      "translation": "джинсы",
+      "language": "en"
+    },
+    {
+      "id": "e6",
+      "word": "shorts",
+      "translation": "шорты",
+      "language": "en"
+    },
+    {
+      "id": "e7",
+      "word": "dress",
+      "translation": "платье",
+      "language": "en"
+    },
+    {
+      "id": "e8",
+      "word": "skirt",
+      "translation": "юбка",
+      "language": "en"
+    },
+    {
+      "id": "e9",
+      "word": "suit",
+      "translation": "костюм",
+      "language": "en"
+    },
+    {
+      "id": "e10",
+      "word": "jacket",
+      "translation": "куртка",
+      "language": "en"
+    },
+    {
+      "id": "e11",
+      "word": "coat",
+      "translation": "пальто",
+      "language": "en"
+    },
+    {
+      "id": "e12",
+      "word": "sweater",
+      "translation": "свитер",
+      "language": "en"
+    },
+    {
+      "id": "e13",
+      "word": "shoe",
+      "translation": "обувь",
+      "language": "en"
+    },
+    {
+      "id": "e14",
+      "word": "sneakers",
+      "translation": "кроссовки",
+      "language": "en"
+    },
+    {
+      "id": "e15",
+      "word": "boots",
+      "translation": "ботинки",
+      "language": "en"
+    },
+    {
+      "id": "e16",
+      "word": "sock",
+      "translation": "носок",
+      "language": "en"
+    },
+    {
+      "id": "e17",
+      "word": "hat",
+      "translation": "шляпа",
+      "language": "en"
+    },
+    {
+      "id": "e18",
+      "word": "cap",
+      "translation": "кепка",
+      "language": "en"
+    },
+    {
+      "id": "e19",
+      "word": "scarf",
+      "translation": "шарф",
+      "language": "en"
+    },
+    {
+      "id": "e20",
+      "word": "glove",
+      "translation": "перчатка",
+      "language": "en"
+    },
+    {
+      "id": "e21",
+      "word": "belt",
+      "translation": "ремень",
+      "language": "en"
+    },
+    {
+      "id": "e22",
+      "word": "tie",
+      "translation": "галстук",
+      "language": "en"
+    },
+    {
+      "id": "e23",
+      "word": "underwear",
+      "translation": "нижнее белье",
+      "language": "en"
+    },
+    {
+      "id": "e24",
+      "word": "swimsuit",
+      "translation": "купальник",
+      "language": "en"
+    },
+    {
+      "id": "e25",
+      "word": "pajamas",
+      "translation": "пижама",
+      "language": "en"
+    },
+    {
+      "id": "e26",
+      "word": "uniform",
+      "translation": "униформа",
+      "language": "en"
+    },
+    {
+      "id": "e27",
+      "word": "glasses",
+      "translation": "очки",
+      "language": "en"
+    },
+    {
+      "id": "e28",
+      "word": "sunglasses",
+      "translation": "солнечные очки",
+      "language": "en"
+    },
+    {
+      "id": "e29",
+      "word": "watch",
+      "translation": "часы",
+      "language": "en"
+    },
+    {
+      "id": "e30",
+      "word": "jewelry",
+      "translation": "ювелирные изделия",
+      "language": "en"
+    },
+    {
+      "id": "e31",
+      "word": "ring",
+      "translation": "кольцо",
+      "language": "en"
+    },
+    {
+      "id": "e32",
+      "word": "necklace",
+      "translation": "ожерелье",
+      "language": "en"
+    },
+    {
+      "id": "e33",
+      "word": "earring",
+      "translation": "серьга",
+      "language": "en"
+    },
+    {
+      "id": "e34",
+      "word": "bracelet",
+      "translation": "браслет",
+      "language": "en"
+    },
+    {
+      "id": "e35",
+      "word": "bag",
+      "translation": "сумка",
+      "language": "en"
+    },
+    {
+      "id": "e36",
+      "word": "backpack",
+      "translation": "рюкзак",
+      "language": "en"
+    },
+    {
+      "id": "e37",
+      "word": "wallet",
+      "translation": "бумажник",
+      "language": "en"
+    },
+    {
+      "id": "e38",
+      "word": "pocket",
+      "translation": "карман",
+      "language": "en"
+    },
+    {
+      "id": "e39",
+      "word": "button",
+      "translation": "пуговица",
+      "language": "en"
+    },
+    {
+      "id": "e40",
+      "word": "zipper",
+      "translation": "молния",
+      "language": "en"
+    },
+    {
+      "id": "e41",
+      "word": "apparel",
+      "translation": "одежда",
+      "language": "en"
+    },
+    {
+      "id": "e42",
+      "word": "garment",
+      "translation": "одеяние",
+      "language": "en"
+    },
+    {
+      "id": "e43",
+      "word": "attire",
+      "translation": "наряд",
+      "language": "en"
+    },
+    {
+      "id": "e44",
+      "word": "outfit",
+      "translation": "наряд",
+      "language": "en"
+    },
+    {
+      "id": "e45",
+      "word": "wardrobe",
+      "translation": "гардероб",
+      "language": "en"
+    },
+    {
+      "id": "e46",
+      "word": "boutique",
+      "translation": "бутик",
+      "language": "en"
+    },
+    {
+      "id": "e47",
+      "word": "tailor",
+      "translation": "портной",
+      "language": "en"
+    },
+    {
+      "id": "e48",
+      "word": "fashion",
+      "translation": "мода",
+      "language": "en"
+    },
+    {
+      "id": "e49",
+      "word": "trend",
+      "translation": "тренд",
+      "language": "en"
+    },
+    {
+      "id": "e50",
+      "word": "style",
+      "translation": "стиль",
+      "language": "en"
+    },
+    {
+      "id": "e51",
+      "word": "designer",
+      "translation": "дизайнер",
+      "language": "en"
+    },
+    {
+      "id": "e52",
+      "word": "model",
+      "translation": "модель",
+      "language": "en"
+    },
+    {
+      "id": "e53",
+      "word": "catwalk",
+      "translation": "подиум",
+      "language": "en"
+    },
+    {
+      "id": "e54",
+      "word": "runway",
+      "translation": "подиум",
+      "language": "en"
+    },
+    {
+      "id": "e55",
+      "word": "collection",
+      "translation": "коллекция",
+      "language": "en"
+    },
+    {
+      "id": "e56",
+      "word": "brand",
+      "translation": "бренд",
+      "language": "en"
+    },
+    {
+      "id": "e57",
+      "word": "label",
+      "translation": "этикетка",
+      "language": "en"
+    },
+    {
+      "id": "e58",
+      "word": "fabric",
+      "translation": "ткань",
+      "language": "en"
+    },
+    {
+      "id": "e59",
+      "word": "material",
+      "translation": "материал",
+      "language": "en"
+    },
+    {
+      "id": "e60",
+      "word": "cotton",
+      "translation": "хлопок",
+      "language": "en"
+    },
+    {
+      "id": "e61",
+      "word": "wool",
+      "translation": "шерсть",
+      "language": "en"
+    },
+    {
+      "id": "e62",
+      "word": "silk",
+      "translation": "шелк",
+      "language": "en"
+    },
+    {
+      "id": "e63",
+      "word": "linen",
+      "translation": "лен",
+      "language": "en"
+    },
+    {
+      "id": "e64",
+      "word": "leather",
+      "translation": "кожа",
+      "language": "en"
+    },
+    {
+      "id": "e65",
+      "word": "denim",
+      "translation": "деним",
+      "language": "en"
+    },
+    {
+      "id": "e66",
+      "word": "velvet",
+      "translation": "бархат",
+      "language": "en"
+    },
+    {
+      "id": "e67",
+      "word": "lace",
+      "translation": "кружево",
+      "language": "en"
+    },
+    {
+      "id": "e68",
+      "word": "nylon",
+      "translation": "нейлон",
+      "language": "en"
+    },
+    {
+      "id": "e69",
+      "word": "polyester",
+      "translation": "полиэстер",
+      "language": "en"
+    },
+    {
+      "id": "e70",
+      "word": "synthetic",
+      "translation": "синтетический",
+      "language": "en"
+    },
+    {
+      "id": "e71",
+      "word": "pattern",
+      "translation": "узор",
+      "language": "en"
+    },
+    {
+      "id": "e72",
+      "word": "stripe",
+      "translation": "полоска",
+      "language": "en"
+    },
+    {
+      "id": "e73",
+      "word": "check",
+      "translation": "клетка",
+      "language": "en"
+    },
+    {
+      "id": "e74",
+      "word": "polka dot",
+      "translation": "горошек",
+      "language": "en"
+    },
+    {
+      "id": "e75",
+      "word": "plaid",
+      "translation": "плед",
+      "language": "en"
+    },
+    {
+      "id": "e76",
+      "word": "print",
+      "translation": "принт",
+      "language": "en"
+    },
+    {
+      "id": "e77",
+      "word": "floral",
+      "translation": "цветочный",
+      "language": "en"
+    },
+    {
+      "id": "e78",
+      "word": "solid",
+      "translation": "сплошной",
+      "language": "en"
+    },
+    {
+      "id": "e79",
+      "word": "plain",
+      "translation": "однотонный",
+      "language": "en"
+    },
+    {
+      "id": "e80",
+      "word": "color",
+      "translation": "цвет",
+      "language": "en"
+    },
+    {
+      "id": "e81",
+      "word": "shade",
+      "translation": "оттенок",
+      "language": "en"
+    },
+    {
+      "id": "e82",
+      "word": "dye",
+      "translation": "краситель",
+      "language": "en"
+    },
+    {
+      "id": "e83",
+      "word": "sew",
+      "translation": "шить",
+      "language": "en"
+    },
+    {
+      "id": "e84",
+      "word": "stitch",
+      "translation": "шов",
+      "language": "en"
+    },
+    {
+      "id": "e85",
+      "word": "thread",
+      "translation": "нить",
+      "language": "en"
+    },
+    {
+      "id": "e86",
+      "word": "needle",
+      "translation": "игла",
+      "language": "en"
+    },
+    {
+      "id": "e87",
+      "word": "pin",
+      "translation": "булавка",
+      "language": "en"
+    },
+    {
+      "id": "e88",
+      "word": "scissor",
+      "translation": "ножницы",
+      "language": "en"
+    },
+    {
+      "id": "e89",
+      "word": "measure",
+      "translation": "измерять",
+      "language": "en"
+    },
+    {
+      "id": "e90",
+      "word": "tape",
+      "translation": "лента",
+      "language": "en"
+    },
+    {
+      "id": "e91",
+      "word": "size",
+      "translation": "размер",
+      "language": "en"
+    },
+    {
+      "id": "e92",
+      "word": "fit",
+      "translation": "подходить",
+      "language": "en"
+    },
+    {
+      "id": "e93",
+      "word": "loose",
+      "translation": "свободный",
+      "language": "en"
+    },
+    {
+      "id": "e94",
+      "word": "tight",
+      "translation": "тесный",
+      "language": "en"
+    },
+    {
+      "id": "e95",
+      "word": "baggy",
+      "translation": "мешковатый",
+      "language": "en"
+    },
+    {
+      "id": "e96",
+      "word": "slim",
+      "translation": "облегающий",
+      "language": "en"
+    },
+    {
+      "id": "e97",
+      "word": "casual",
+      "translation": "повседневный",
+      "language": "en"
+    },
+    {
+      "id": "e98",
+      "word": "formal",
+      "translation": "формальный",
+      "language": "en"
+    },
+    {
+      "id": "e99",
+      "word": "elegant",
+      "translation": "элегантный",
+      "language": "en"
+    },
+    {
+      "id": "e100",
+      "word": "smart",
+      "translation": "нарядный",
+      "language": "en"
+    },
+    {
+      "id": "e101",
+      "word": "chic",
+      "translation": "шикарный",
+      "language": "en"
+    },
+    {
+      "id": "e102",
+      "word": "vintage",
+      "translation": "винтажный",
+      "language": "en"
+    },
+    {
+      "id": "e103",
+      "word": "retro",
+      "translation": "ретро",
+      "language": "en"
+    },
+    {
+      "id": "e104",
+      "word": "modern",
+      "translation": "современный",
+      "language": "en"
+    },
+    {
+      "id": "e105",
+      "word": "classic",
+      "translation": "классический",
+      "language": "en"
+    },
+    {
+      "id": "e106",
+      "word": "trendy",
+      "translation": "модный",
+      "language": "en"
+    },
+    {
+      "id": "e107",
+      "word": "stylish",
+      "translation": "стильный",
+      "language": "en"
+    },
+    {
+      "id": "e108",
+      "word": "fashionable",
+      "translation": "модный",
+      "language": "en"
+    },
+    {
+      "id": "e109",
+      "word": "outdated",
+      "translation": "устаревший",
+      "language": "en"
+    },
+    {
+      "id": "e110",
+      "word": "old-fashioned",
+      "translation": "старомодный",
+      "language": "en"
+    },
+    {
+      "id": "e111",
+      "word": "collar",
+      "translation": "воротник",
+      "language": "en"
+    },
+    {
+      "id": "e112",
+      "word": "sleeve",
+      "translation": "рукав",
+      "language": "en"
+    },
+    {
+      "id": "e113",
+      "word": "cuff",
+      "translation": "манжета",
+      "language": "en"
+    },
+    {
+      "id": "e114",
+      "word": "hem",
+      "translation": "подол",
+      "language": "en"
+    },
+    {
+      "id": "e115",
+      "word": "seam",
+      "translation": "шов",
+      "language": "en"
+    },
+    {
+      "id": "e116",
+      "word": "lining",
+      "translation": "подкладка",
+      "language": "en"
+    },
+    {
+      "id": "e117",
+      "word": "lapel",
+      "translation": "лацкан",
+      "language": "en"
+    },
+    {
+      "id": "e118",
+      "word": "hood",
+      "translation": "капюшон",
+      "language": "en"
+    },
+    {
+      "id": "e119",
+      "word": "waistband",
+      "translation": "пояс",
+      "language": "en"
+    },
+    {
+      "id": "e120",
+      "word": "fly",
+      "translation": "ширинка",
+      "language": "en"
+    },
+    {
+      "id": "e121",
+      "word": "crease",
+      "translation": "складка",
+      "language": "en"
+    },
+    {
+      "id": "e122",
+      "word": "pleat",
+      "translation": "складка",
+      "language": "en"
+    },
+    {
+      "id": "e123",
+      "word": "buttonhole",
+      "translation": "петля для пуговицы",
+      "language": "en"
+    },
+    {
+      "id": "e124",
+      "word": "snap",
+      "translation": "кнопка",
+      "language": "en"
+    },
+    {
+      "id": "e125",
+      "word": "hook",
+      "translation": "крючок",
+      "language": "en"
+    },
+    {
+      "id": "e126",
+      "word": "fastener",
+      "translation": "застежка",
+      "language": "en"
+    },
+    {
+      "id": "e127",
+      "word": "buckle",
+      "translation": "пряжка",
+      "language": "en"
+    },
+    {
+      "id": "e128",
+      "word": "lace",
+      "translation": "шнурок",
+      "language": "en"
+    },
+    {
+      "id": "e129",
+      "word": "sole",
+      "translation": "подошва",
+      "language": "en"
+    },
+    {
+      "id": "e130",
+      "word": "heel",
+      "translation": "каблук",
+      "language": "en"
+    },
+    {
+      "id": "e131",
+      "word": "toe",
+      "translation": "мысок",
+      "language": "en"
+    },
+    {
+      "id": "e132",
+      "word": "tongue",
+      "translation": "язычок",
+      "language": "en"
+    },
+    {
+      "id": "e133",
+      "word": "insole",
+      "translation": "стелька",
+      "language": "en"
+    },
+    {
+      "id": "e134",
+      "word": "shoelace",
+      "translation": "шнурок",
+      "language": "en"
+    },
+    {
+      "id": "e135",
+      "word": "sandal",
+      "translation": "сандалия",
+      "language": "en"
+    },
+    {
+      "id": "e136",
+      "word": "slipper",
+      "translation": "тапочка",
+      "language": "en"
+    },
+    {
+      "id": "e137",
+      "word": "flip-flop",
+      "translation": "шлепанец",
+      "language": "en"
+    },
+    {
+      "id": "e138",
+      "word": "moccasin",
+      "translation": "мокасин",
+      "language": "en"
+    },
+    {
+      "id": "e139",
+      "word": "bootie",
+      "translation": "ботильон",
+      "language": "en"
+    },
+    {
+      "id": "e140",
+      "word": "wellington",
+      "translation": "резиновый сапог",
+      "language": "en"
+    },
+    {
+      "id": "e141",
+      "word": "stiletto",
+      "translation": "шпилька",
+      "language": "en"
+    },
+    {
+      "id": "e142",
+      "word": "wedge",
+      "translation": "танкетка",
+      "language": "en"
+    },
+    {
+      "id": "e143",
+      "word": "platform",
+      "translation": "платформа",
+      "language": "en"
+    },
+    {
+      "id": "e144",
+      "word": "flat",
+      "translation": "балетка",
+      "language": "en"
+    },
+    {
+      "id": "e145",
+      "word": "pump",
+      "translation": "лодочка",
+      "language": "en"
+    },
+    {
+      "id": "e146",
+      "word": "loafer",
+      "translation": "мокасин",
+      "language": "en"
+    },
+    {
+      "id": "e147",
+      "word": "oxford",
+      "translation": "лофер",
+      "language": "en"
+    },
+    {
+      "id": "e148",
+      "word": "brogue",
+      "translation": "оксфорд",
+      "language": "en"
+    },
+    {
+      "id": "e149",
+      "word": "blouse",
+      "translation": "блузка",
+      "language": "en"
+    },
+    {
+      "id": "e150",
+      "word": "tunic",
+      "translation": "туника",
+      "language": "en"
+    },
+    {
+      "id": "e151",
+      "word": "camisole",
+      "translation": "камисоль",
+      "language": "en"
+    },
+    {
+      "id": "e152",
+      "word": "tank top",
+      "translation": "майка",
+      "language": "en"
+    },
+    {
+      "id": "e153",
+      "word": "halter",
+      "translation": "топ с бретелькой",
+      "language": "en"
+    },
+    {
+      "id": "e154",
+      "word": "crop top",
+      "translation": "укороченный топ",
+      "language": "en"
+    },
+    {
+      "id": "e155",
+      "word": "polo",
+      "translation": "поло",
+      "language": "en"
+    },
+    {
+      "id": "e156",
+      "word": "turtleneck",
+      "translation": "водолазка",
+      "language": "en"
+    },
+    {
+      "id": "e157",
+      "word": "v-neck",
+      "translation": "v-образный вырез",
+      "language": "en"
+    },
+    {
+      "id": "e158",
+      "word": "cardigan",
+      "translation": "кардиган",
+      "language": "en"
+    },
+    {
+      "id": "e159",
+      "word": "pullover",
+      "translation": "пуловер",
+      "language": "en"
+    },
+    {
+      "id": "e160",
+      "word": "jumper",
+      "translation": "джемпер",
+      "language": "en"
+    },
+    {
+      "id": "e161",
+      "word": "sweatshirt",
+      "translation": "толстовка",
+      "language": "en"
+    },
+    {
+      "id": "e162",
+      "word": "hoodie",
+      "translation": "худи",
+      "language": "en"
+    },
+    {
+      "id": "e163",
+      "word": "fleece",
+      "translation": "флиска",
+      "language": "en"
+    },
+    {
+      "id": "e164",
+      "word": "blazer",
+      "translation": "блейзер",
+      "language": "en"
+    },
+    {
+      "id": "e165",
+      "word": "vest",
+      "translation": "жилет",
+      "language": "en"
+    },
+    {
+      "id": "e166",
+      "word": "waistcoat",
+      "translation": "жилет",
+      "language": "en"
+    },
+    {
+      "id": "e167",
+      "word": "trench",
+      "translation": "тренч",
+      "language": "en"
+    },
+    {
+      "id": "e168",
+      "word": "parka",
+      "translation": "парка",
+      "language": "en"
+    },
+    {
+      "id": "e169",
+      "word": "anorak",
+      "translation": "анорак",
+      "language": "en"
+    },
+    {
+      "id": "e170",
+      "word": "windbreaker",
+      "translation": "ветровка",
+      "language": "en"
+    },
+    {
+      "id": "e171",
+      "word": "poncho",
+      "translation": "пончо",
+      "language": "en"
+    },
+    {
+      "id": "e172",
+      "word": "cape",
+      "translation": "пончо",
+      "language": "en"
+    },
+    {
+      "id": "e173",
+      "word": "cloak",
+      "translation": "плащ",
+      "language": "en"
+    },
+    {
+      "id": "e174",
+      "word": "shawl",
+      "translation": "шаль",
+      "language": "en"
+    },
+    {
+      "id": "e175",
+      "word": "wrap",
+      "translation": "накидка",
+      "language": "en"
+    },
+    {
+      "id": "e176",
+      "word": "pashmina",
+      "translation": "пашмина",
+      "language": "en"
+    },
+    {
+      "id": "e177",
+      "word": "stole",
+      "translation": "палантин",
+      "language": "en"
+    },
+    {
+      "id": "e178",
+      "word": "muffler",
+      "translation": "палантин",
+      "language": "en"
+    },
+    {
+      "id": "e179",
+      "word": "boa",
+      "translation": "боа",
+      "language": "en"
+    },
+    {
+      "id": "e180",
+      "word": "tippet",
+      "translation": "палантин",
+      "language": "en"
+    },
+    {
+      "id": "e181",
+      "word": "trousers",
+      "translation": "брюки",
+      "language": "en"
+    },
+    {
+      "id": "e182",
+      "word": "slacks",
+      "translation": "брюки",
+      "language": "en"
+    },
+    {
+      "id": "e183",
+      "word": "chinos",
+      "translation": "слаксы",
+      "language": "en"
+    },
+    {
+      "id": "e184",
+      "word": "khakis",
+      "translation": "чинос",
+      "language": "en"
+    },
+    {
+      "id": "e185",
+      "word": "cords",
+      "translation": "вельветовые брюки",
+      "language": "en"
+    },
+    {
+      "id": "e186",
+      "word": "cargos",
+      "translation": "карго",
+      "language": "en"
+    },
+    {
+      "id": "e187",
+      "word": "sweatpants",
+      "translation": "спортивные штаны",
+      "language": "en"
+    },
+    {
+      "id": "e188",
+      "word": "tracksuit",
+      "translation": "спортивный костюм",
+      "language": "en"
+    },
+    {
+      "id": "e189",
+      "word": "joggers",
+      "translation": "джоггеры",
+      "language": "en"
+    },
+    {
+      "id": "e190",
+      "word": "leggings",
+      "translation": "легинсы",
+      "language": "en"
+    },
+    {
+      "id": "e191",
+      "word": "tights",
+      "translation": "колготки",
+      "language": "en"
+    },
+    {
+      "id": "e192",
+      "word": "pantyhose",
+      "translation": "колготки",
+      "language": "en"
+    },
+    {
+      "id": "e193",
+      "word": "stockings",
+      "translation": "чулки",
+      "language": "en"
+    },
+    {
+      "id": "e194",
+      "word": "socks",
+      "translation": "носки",
+      "language": "en"
+    },
+    {
+      "id": "e195",
+      "word": "knee-highs",
+      "translation": "гольфы",
+      "language": "en"
+    },
+    {
+      "id": "e196",
+      "word": "ankle socks",
+      "translation": "короткие носки",
+      "language": "en"
+    },
+    {
+      "id": "e197",
+      "word": "invisible socks",
+      "translation": "следки",
+      "language": "en"
+    },
+    {
+      "id": "e198",
+      "word": "overalls",
+      "translation": "комбинезон",
+      "language": "en"
+    },
+    {
+      "id": "e199",
+      "word": "dungarees",
+      "translation": "комбинезон",
+      "language": "en"
+    },
+    {
+      "id": "e200",
+      "word": "jumpsuit",
+      "translation": "комбинезон",
+      "language": "en"
+    },
+    {
+      "id": "e201",
+      "word": "playsuit",
+      "translation": "ромпер",
+      "language": "en"
+    },
+    {
+      "id": "e202",
+      "word": "romper",
+      "translation": "ромпер",
+      "language": "en"
+    },
+    {
+      "id": "e203",
+      "word": "bodysuit",
+      "translation": "боди",
+      "language": "en"
+    },
+    {
+      "id": "e204",
+      "word": "swimwear",
+      "translation": "купальники",
+      "language": "en"
+    },
+    {
+      "id": "e205",
+      "word": "bikini",
+      "translation": "бикини",
+      "language": "en"
+    },
+    {
+      "id": "e206",
+      "word": "tankini",
+      "translation": "танкини",
+      "language": "en"
+    },
+    {
+      "id": "e207",
+      "word": "monokini",
+      "translation": "монокини",
+      "language": "en"
+    },
+    {
+      "id": "e208",
+      "word": "trunks",
+      "translation": "плавки",
+      "language": "en"
+    },
+    {
+      "id": "e209",
+      "word": "boardshorts",
+      "translation": "шорты для плавания",
+      "language": "en"
+    },
+    {
+      "id": "e210",
+      "word": "speedos",
+      "translation": "плавки",
+      "language": "en"
+    },
+    {
+      "id": "e211",
+      "word": "wetsuit",
+      "translation": "гидрокостюм",
+      "language": "en"
+    },
+    {
+      "id": "e212",
+      "word": "nightwear",
+      "translation": "ночная одежда",
+      "language": "en"
+    },
+    {
+      "id": "e213",
+      "word": "nightgown",
+      "translation": "ночная рубашка",
+      "language": "en"
+    },
+    {
+      "id": "e214",
+      "word": "nightdress",
+      "translation": "ночная рубашка",
+      "language": "en"
+    },
+    {
+      "id": "e215",
+      "word": "nightie",
+      "translation": "ночная рубашка",
+      "language": "en"
+    },
+    {
+      "id": "e216",
+      "word": "robe",
+      "translation": "халат",
+      "language": "en"
+    },
+    {
+      "id": "e217",
+      "word": "bathrobe",
+      "translation": "банний халат",
+      "language": "en"
+    },
+    {
+      "id": "e218",
+      "word": "dressing gown",
+      "translation": "пьюар",
+      "language": "en"
+    },
+    {
+      "id": "e219",
+      "word": "lingerie",
+      "translation": "женское белье",
+      "language": "en"
+    },
+    {
+      "id": "e220",
+      "word": "bra",
+      "translation": "бюстгальтер",
+      "language": "en"
+    },
+    {
+      "id": "e221",
+      "word": "knickers",
+      "translation": "трусики",
+      "language": "en"
+    },
+    {
+      "id": "e222",
+      "word": "panties",
+      "translation": "трусики",
+      "language": "en"
+    },
+    {
+      "id": "e223",
+      "word": "briefs",
+      "translation": "трусы",
+      "language": "en"
+    },
+    {
+      "id": "e224",
+      "word": "thong",
+      "translation": "стринги",
+      "language": "en"
+    },
+    {
+      "id": "e225",
+      "word": "g-string",
+      "translation": "стринги",
+      "language": "en"
+    },
+    {
+      "id": "e226",
+      "word": "boyshorts",
+      "translation": "шортики",
+      "language": "en"
+    },
+    {
+      "id": "e227",
+      "word": "boxers",
+      "translation": "боксеры",
+      "language": "en"
+    },
+    {
+      "id": "e228",
+      "word": "trunks",
+      "translation": "трусы",
+      "language": "en"
+    },
+    {
+      "id": "e229",
+      "word": "y-fronts",
+      "translation": "плавки",
+      "language": "en"
+    },
+    {
+      "id": "e230",
+      "word": "undershirt",
+      "translation": "майка",
+      "language": "en"
+    },
+    {
+      "id": "e231",
+      "word": "vest",
+      "translation": "майка",
+      "language": "en"
+    },
+    {
+      "id": "e232",
+      "word": "singlet",
+      "translation": "майка",
+      "language": "en"
+    },
+    {
+      "id": "e233",
+      "word": "slip",
+      "translation": "комбинация",
+      "language": "en"
+    },
+    {
+      "id": "e234",
+      "word": "camisole",
+      "translation": "камисоль",
+      "language": "en"
+    },
+    {
+      "id": "e235",
+      "word": "corset",
+      "translation": "корсет",
+      "language": "en"
+    },
+    {
+      "id": "e236",
+      "word": "bustier",
+      "translation": "бюстье",
+      "language": "en"
+    },
+    {
+      "id": "e237",
+      "word": "basque",
+      "translation": "бюстье",
+      "language": "en"
+    },
+    {
+      "id": "e238",
+      "word": "garter",
+      "translation": "подвязка",
+      "language": "en"
+    },
+    {
+      "id": "e239",
+      "word": "suspenders",
+      "translation": "подтяжки",
+      "language": "en"
+    },
+    {
+      "id": "e240",
+      "word": "hosiery",
+      "translation": "чулочно-носочные изделия",
+      "language": "en"
+    },
+    {
+      "id": "e241",
+      "word": "accessories",
+      "translation": "аксессуары",
+      "language": "en"
+    },
+    {
+      "id": "e242",
+      "word": "headwear",
+      "translation": "головные уборы",
+      "language": "en"
+    },
+    {
+      "id": "e243",
+      "word": "beanie",
+      "translation": "шапочка",
+      "language": "en"
+    },
+    {
+      "id": "e244",
+      "word": "beret",
+      "translation": "берет",
+      "language": "en"
+    },
+    {
+      "id": "e245",
+      "word": "fedora",
+      "translation": "берет",
+      "language": "en"
+    },
+    {
+      "id": "e246",
+      "word": "trilby",
+      "translation": "шляпа",
+      "language": "en"
+    },
+    {
+      "id": "e247",
+      "word": "panama",
+      "translation": "панама",
+      "language": "en"
+    },
+    {
+      "id": "e248",
+      "word": "sombrero",
+      "translation": "сомбреро",
+      "language": "en"
+    },
+    {
+      "id": "e249",
+      "word": "sunhat",
+      "translation": "шляпа от солнца",
+      "language": "en"
+    },
+    {
+      "id": "e250",
+      "word": "visor",
+      "translation": "козырек",
+      "language": "en"
+    },
+    {
+      "id": "e251",
+      "word": "headband",
+      "translation": "ободок",
+      "language": "en"
+    },
+    {
+      "id": "e252",
+      "word": "bandana",
+      "translation": "бандана",
+      "language": "en"
+    },
+    {
+      "id": "e253",
+      "word": "scrunchie",
+      "translation": "резинка для волос",
+      "language": "en"
+    },
+    {
+      "id": "e254",
+      "word": "hairpin",
+      "translation": "шпилька",
+      "language": "en"
+    },
+    {
+      "id": "e255",
+      "word": "barrette",
+      "translation": "заколка",
+      "language": "en"
+    },
+    {
+      "id": "e256",
+      "word": "clip",
+      "translation": "зажим",
+      "language": "en"
+    },
+    {
+      "id": "e257",
+      "word": "grip",
+      "translation": "зажим",
+      "language": "en"
+    },
+    {
+      "id": "e258",
+      "word": "tiara",
+      "translation": "тиара",
+      "language": "en"
+    },
+    {
+      "id": "e259",
+      "word": "crown",
+      "translation": "корона",
+      "language": "en"
+    },
+    {
+      "id": "e260",
+      "word": "fascinator",
+      "translation": "шляпка",
+      "language": "en"
+    },
+    {
+      "id": "e261",
+      "word": "veil",
+      "translation": "вуаль",
+      "language": "en"
+    },
+    {
+      "id": "e262",
+      "word": "mask",
+      "translation": "маска",
+      "language": "en"
+    },
+    {
+      "id": "e263",
+      "word": "goggles",
+      "translation": "очки",
+      "language": "en"
+    },
+    {
+      "id": "e264",
+      "word": "spectacles",
+      "translation": "очки",
+      "language": "en"
+    },
+    {
+      "id": "e265",
+      "word": "shades",
+      "translation": "очки",
+      "language": "en"
+    },
+    {
+      "id": "e266",
+      "word": "aviators",
+      "translation": "авиаторы",
+      "language": "en"
+    },
+    {
+      "id": "e267",
+      "word": "wayfarers",
+      "translation": "вайфареры",
+      "language": "en"
+    },
+    {
+      "id": "e268",
+      "word": "contacts",
+      "translation": "контактные линзы",
+      "language": "en"
+    },
+    {
+      "id": "e269",
+      "word": "lenses",
+      "translation": "линзы",
+      "language": "en"
+    },
+    {
+      "id": "e270",
+      "word": "necktie",
+      "translation": "галстук",
+      "language": "en"
+    },
+    {
+      "id": "e271",
+      "word": "bowtie",
+      "translation": "галстук-бабочка",
+      "language": "en"
+    },
+    {
+      "id": "e272",
+      "word": "cravat",
+      "translation": "шейный платок",
+      "language": "en"
+    },
+    {
+      "id": "e273",
+      "word": "ascot",
+      "translation": "шейный платок",
+      "language": "en"
+    },
+    {
+      "id": "e274",
+      "word": "bolo",
+      "translation": "шейный платок",
+      "language": "en"
+    },
+    {
+      "id": "e275",
+      "word": "kerchief",
+      "translation": "платок",
+      "language": "en"
+    },
+    {
+      "id": "e276",
+      "word": "handkerchief",
+      "translation": "носовой платок",
+      "language": "en"
+    },
+    {
+      "id": "e277",
+      "word": "pocket square",
+      "translation": "нагрудный платок",
+      "language": "en"
+    },
+    {
+      "id": "e278",
+      "word": "suspenders",
+      "translation": "подтяжки",
+      "language": "en"
+    },
+    {
+      "id": "e279",
+      "word": "braces",
+      "translation": "подтяжки",
+      "language": "en"
+    },
+    {
+      "id": "e280",
+      "word": "cummerbund",
+      "translation": "кушак",
+      "language": "en"
+    },
+    {
+      "id": "e281",
+      "word": "sash",
+      "translation": "кушак",
+      "language": "en"
+    },
+    {
+      "id": "e282",
+      "word": "belt",
+      "translation": "ремень",
+      "language": "en"
+    },
+    {
+      "id": "e283",
+      "word": "girdle",
+      "translation": "пояс",
+      "language": "en"
+    },
+    {
+      "id": "e284",
+      "word": "corset",
+      "translation": "корсет",
+      "language": "en"
+    },
+    {
+      "id": "e285",
+      "word": "cincher",
+      "translation": "пояс",
+      "language": "en"
+    },
+    {
+      "id": "e286",
+      "word": "bag",
+      "translation": "сумка",
+      "language": "en"
+    },
+    {
+      "id": "e287",
+      "word": "handbag",
+      "translation": "сумочка",
+      "language": "en"
+    },
+    {
+      "id": "e288",
+      "word": "purse",
+      "translation": "сумочка",
+      "language": "en"
+    },
+    {
+      "id": "e289",
+      "word": "clutch",
+      "translation": "клатч",
+      "language": "en"
+    },
+    {
+      "id": "e290",
+      "word": "tote",
+      "translation": "большая сумка",
+      "language": "en"
+    },
+    {
+      "id": "e291",
+      "word": "satchel",
+      "translation": "сумка-портфель",
+      "language": "en"
+    },
+    {
+      "id": "e292",
+      "word": "hobo",
+      "translation": "сумка хобо",
+      "language": "en"
+    },
+    {
+      "id": "e293",
+      "word": "duffel",
+      "translation": "вещевой мешок",
+      "language": "en"
+    },
+    {
+      "id": "e294",
+      "word": "backpack",
+      "translation": "рюкзак",
+      "language": "en"
+    },
+    {
+      "id": "e295",
+      "word": "knapsack",
+      "translation": "рюкзак",
+      "language": "en"
+    },
+    {
+      "id": "e296",
+      "word": "rucksack",
+      "translation": "рюкзак",
+      "language": "en"
+    },
+    {
+      "id": "e297",
+      "word": "briefcase",
+      "translation": "портфель",
+      "language": "en"
+    },
+    {
+      "id": "e298",
+      "word": "portfolio",
+      "translation": "портфель",
+      "language": "en"
+    },
+    {
+      "id": "e299",
+      "word": "messenger",
+      "translation": "сумка-мессенджер",
+      "language": "en"
+    },
+    {
+      "id": "e300",
+      "word": "crossbody",
+      "translation": "сумка через плечо",
+      "language": "en"
+    },
+    {
+      "id": "e301",
+      "word": "sling",
+      "translation": "сумка на ремне",
+      "language": "en"
+    },
+    {
+      "id": "e302",
+      "word": "bumbag",
+      "translation": "поясная сумка",
+      "language": "en"
+    },
+    {
+      "id": "e303",
+      "word": "fanny pack",
+      "translation": "поясная сумка",
+      "language": "en"
+    },
+    {
+      "id": "e304",
+      "word": "wallet",
+      "translation": "бумажник",
+      "language": "en"
+    },
+    {
+      "id": "e305",
+      "word": "billfold",
+      "translation": "бумажник",
+      "language": "en"
+    },
+    {
+      "id": "e306",
+      "word": "purse",
+      "translation": "кошелек",
+      "language": "en"
+    },
+    {
+      "id": "e307",
+      "word": "coin purse",
+      "translation": "кошелек для монет",
+      "language": "en"
+    },
+    {
+      "id": "e308",
+      "word": "pouch",
+      "translation": "мешочек",
+      "language": "en"
+    },
+    {
+      "id": "e309",
+      "word": "case",
+      "translation": "футляр",
+      "language": "en"
+    },
+    {
+      "id": "e310",
+      "word": "cover",
+      "translation": "чехол",
+      "language": "en"
+    },
+    {
+      "id": "e311",
+      "word": "sleeve",
+      "translation": "рукав",
+      "language": "en"
+    },
+    {
+      "id": "e312",
+      "word": "holder",
+      "translation": "держатель",
+      "language": "en"
+    },
+    {
+      "id": "e313",
+      "word": "folder",
+      "translation": "папка",
+      "language": "en"
+    },
+    {
+      "id": "e314",
+      "word": "organizer",
+      "translation": "органайзер",
+      "language": "en"
+    },
+    {
+      "id": "e315",
+      "word": "umbrella",
+      "translation": "зонт",
+      "language": "en"
+    },
+    {
+      "id": "e316",
+      "word": "parasol",
+      "translation": "зонтик от солнца",
+      "language": "en"
+    },
+    {
+      "id": "e317",
+      "word": "cane",
+      "translation": "трость",
+      "language": "en"
+    },
+    {
+      "id": "e318",
+      "word": "walking stick",
+      "translation": "трость",
+      "language": "en"
+    },
+    {
+      "id": "e319",
+      "word": "gloves",
+      "translation": "перчатки",
+      "language": "en"
+    },
+    {
+      "id": "e320",
+      "word": "mittens",
+      "translation": "варежки",
+      "language": "en"
+    },
+    {
+      "id": "e321",
+      "word": "muffs",
+      "translation": "муфта",
+      "language": "en"
+    },
+    {
+      "id": "e322",
+      "word": "gauntlets",
+      "translation": "краги",
+      "language": "en"
+    },
+    {
+      "id": "e323",
+      "word": "jewelry",
+      "translation": "ювелирные изделия",
+      "language": "en"
+    },
+    {
+      "id": "e324",
+      "word": "bijouterie",
+      "translation": "бижутерия",
+      "language": "en"
+    },
+    {
+      "id": "e325",
+      "word": "ring",
+      "translation": "кольцо",
+      "language": "en"
+    },
+    {
+      "id": "e326",
+      "word": "band",
+      "translation": "кольцо",
+      "language": "en"
+    },
+    {
+      "id": "e327",
+      "word": "signet",
+      "translation": "печатка",
+      "language": "en"
+    },
+    {
+      "id": "e328",
+      "word": "engagement",
+      "translation": "помолвочное кольцо",
+      "language": "en"
+    },
+    {
+      "id": "e329",
+      "word": "wedding",
+      "translation": "обручальное кольцо",
+      "language": "en"
+    },
+    {
+      "id": "e330",
+      "word": "eternity",
+      "translation": "кольцо вечности",
+      "language": "en"
+    },
+    {
+      "id": "e331",
+      "word": "necklace",
+      "translation": "ожерелье",
+      "language": "en"
+    },
+    {
+      "id": "e332",
+      "word": "chain",
+      "translation": "цепочка",
+      "language": "en"
+    },
+    {
+      "id": "e333",
+      "word": "pendant",
+      "translation": "кулон",
+      "language": "en"
+    },
+    {
+      "id": "e334",
+      "word": "locket",
+      "translation": "медальон",
+      "language": "en"
+    },
+    {
+      "id": "e335",
+      "word": "choker",
+      "translation": "чокер",
+      "language": "en"
+    },
+    {
+      "id": "e336",
+      "word": "collar",
+      "translation": "ошейник",
+      "language": "en"
+    },
+    {
+      "id": "e337",
+      "word": "bracelet",
+      "translation": "браслет",
+      "language": "en"
+    },
+    {
+      "id": "e338",
+      "word": "bangle",
+      "translation": "браслет",
+      "language": "en"
+    },
+    {
+      "id": "e339",
+      "word": "cuff",
+      "translation": "браслет-манжета",
+      "language": "en"
+    },
+    {
+      "id": "e340",
+      "word": "charm",
+      "translation": "шарм",
+      "language": "en"
+    },
+    {
+      "id": "e341",
+      "word": "anklet",
+      "translation": "браслет на ногу",
+      "language": "en"
+    },
+    {
+      "id": "e342",
+      "word": "earring",
+      "translation": "серьга",
+      "language": "en"
+    },
+    {
+      "id": "e343",
+      "word": "stud",
+      "translation": "гвоздик",
+      "language": "en"
+    },
+    {
+      "id": "e344",
+      "word": "hoop",
+      "translation": "кольцо",
+      "language": "en"
+    },
+    {
+      "id": "e345",
+      "word": "drop",
+      "translation": "висюлька",
+      "language": "en"
+    },
+    {
+      "id": "e346",
+      "word": "dangle",
+      "translation": "висюлька",
+      "language": "en"
+    },
+    {
+      "id": "e347",
+      "word": "chandelier",
+      "translation": "люстра",
+      "language": "en"
+    },
+    {
+      "id": "e348",
+      "word": "clip-on",
+      "translation": "клипса",
+      "language": "en"
+    },
+    {
+      "id": "e349",
+      "word": "piercing",
+      "translation": "пирсинг",
+      "language": "en"
+    },
+    {
+      "id": "e350",
+      "word": "brooch",
+      "translation": "брошь",
+      "language": "en"
+    },
+    {
+      "id": "e351",
+      "word": "pin",
+      "translation": "булавка",
+      "language": "en"
+    },
+    {
+      "id": "e352",
+      "word": "badge",
+      "translation": "значок",
+      "language": "en"
+    },
+    {
+      "id": "e353",
+      "word": "cufflink",
+      "translation": "запонка",
+      "language": "en"
+    },
+    {
+      "id": "e354",
+      "word": "tie pin",
+      "translation": "булавка для галстука",
+      "language": "en"
+    },
+    {
+      "id": "e355",
+      "word": "tie clip",
+      "translation": "зажим для галстука",
+      "language": "en"
+    },
+    {
+      "id": "e356",
+      "word": "watch",
+      "translation": "часы",
+      "language": "en"
+    },
+    {
+      "id": "e357",
+      "word": "timepiece",
+      "translation": "часы",
+      "language": "en"
+    },
+    {
+      "id": "e358",
+      "word": "chronometer",
+      "translation": "хронометр",
+      "language": "en"
+    },
+    {
+      "id": "e359",
+      "word": "smartwatch",
+      "translation": "смарт-часы",
+      "language": "en"
+    },
+    {
+      "id": "e360",
+      "word": "fitness tracker",
+      "translation": "фитнес-трекер",
+      "language": "en"
+    }
+  ]
+}

@@ -1,0 +1,97 @@
+{
+  "id": "pb-hotel",
+  "name": "Hotel & Accommodation",
+  "description": "Заселение, выселение и обслуживание в отеле",
+  "entries": [
+    {
+      "id": "entry_pb-hotel_0",
+      "word": "I have a reservation under the name Smith.",
+      "translation": "У меня бронь на имя Смит.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-hotel_1",
+      "word": "What time is check-in and check-out?",
+      "translation": "В какое время заезд и выезд?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-hotel_2",
+      "word": "Is breakfast included in the price?",
+      "translation": "Завтрак включен в стоимость?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-hotel_3",
+      "word": "Could we get some extra towels?",
+      "translation": "Можно нам дополнительные полотенца?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-hotel_4",
+      "word": "The air conditioning in my room isn't working.",
+      "translation": "Кондиционер в моем номере не работает.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-hotel_5",
+      "word": "What is the Wi-Fi password?",
+      "translation": "Какой пароль от Wi-Fi?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-hotel_6",
+      "word": "Could you call a taxi for me tomorrow morning?",
+      "translation": "Не могли бы вы вызвать мне такси на завтрашнее утро?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-hotel_7",
+      "word": "I would like to request a late check-out.",
+      "translation": "Я хотел бы запросить поздний выезд.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-hotel_8",
+      "word": "Do you offer room service?",
+      "translation": "У вас есть обслуживание номеров?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-hotel_9",
+      "word": "Is there a gym or pool in the hotel?",
+      "translation": "В отеле есть тренажерный зал или бассейн?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-hotel_10",
+      "word": "Could I change my room, please?",
+      "translation": "Могу ли я поменять номер, пожалуйста?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-hotel_11",
+      "word": "Please make up my room.",
+      "translation": "Пожалуйста, уберите в моем номере.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-hotel_12",
+      "word": "Do not disturb.",
+      "translation": "Не беспокоить.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-hotel_13",
+      "word": "Where is the dining room located?",
+      "translation": "Где находится столовая?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-hotel_14",
+      "word": "Thank you for a wonderful stay.",
+      "translation": "Спасибо за прекрасное пребывание.",
+      "language": "en"
+    }
+  ]
+}

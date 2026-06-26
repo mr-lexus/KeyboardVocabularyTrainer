@@ -1,0 +1,3007 @@
+{
+  "id": "phrasebook-smalltalkbasics",
+  "name": "Small Talk & Basics",
+  "description": "Phrasebook for Small Talk & Basics",
+  "entries": [
+    {
+      "id": "pb_smalltalkbasics_0_0",
+      "word": "Tom tells me you're his girlfriend.",
+      "translation": "Том говорит мне, что ты его девушка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_1",
+      "word": "I forgot his name again.",
+      "translation": "Я опять забыл, как его зовут.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_2",
+      "word": "That name sounds familiar.",
+      "translation": "Это имя кажется знакомым.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_3",
+      "word": "The weather changed overnight.",
+      "translation": "За ночь погода изменилась.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_4",
+      "word": "I like the name Tom.",
+      "translation": "Мне нравится имя Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_5",
+      "word": "Turn around, please.",
+      "translation": "Повернись, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_6",
+      "word": "Please tell the truth.",
+      "translation": "Скажи, пожалуйста, правду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_7",
+      "word": "Please don't leave without me.",
+      "translation": "Пожалуйста, не уходите без меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_8",
+      "word": "We're sorry that it happened.",
+      "translation": "Мы сожалеем, что это произошло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_9",
+      "word": "Please show me around Boston.",
+      "translation": "Покажи мне Бостон, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_10",
+      "word": "It's very hard to understand.",
+      "translation": "Это очень трудно понять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_11",
+      "word": "I'm sorry I left without you.",
+      "translation": "Прости, что ушёл без тебя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_12",
+      "word": "They don't understand French.",
+      "translation": "Они не понимают по-французски.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_13",
+      "word": "I was forced to sign my name.",
+      "translation": "Меня заставили поставить подпись.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_14",
+      "word": "His name was Tom.",
+      "translation": "Его звали Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_15",
+      "word": "I said goodbye.",
+      "translation": "Я попрощался.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_16",
+      "word": "Thank you both.",
+      "translation": "Спасибо обеим.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_17",
+      "word": "So do you also speak English?",
+      "translation": "Так ты тоже говоришь по-английски?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_18",
+      "word": "I'm sorry I wasted your time.",
+      "translation": "Извините, что отнял у вас время.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_19",
+      "word": "I thought his name was Tom.",
+      "translation": "Я думал, его зовут Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_20",
+      "word": "Please tell me.",
+      "translation": "Пожалуйста, скажите мне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_21",
+      "word": "Please don't lock the door.",
+      "translation": "Не запирай дверь, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_22",
+      "word": "Sorry about yesterday.",
+      "translation": "Сожалею о вчерашнем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_23",
+      "word": "I know that you understand.",
+      "translation": "Я знаю, что вы понимаете.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_24",
+      "word": "Please hold on.",
+      "translation": "Пожалуйста, подождите.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_25",
+      "word": "I need a friend.",
+      "translation": "Мне нужен друг.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_26",
+      "word": "Please stick out your tongue.",
+      "translation": "Пожалуйста, высунь язык.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_27",
+      "word": "Your friend is here.",
+      "translation": "Твой друг здесь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_28",
+      "word": "Do you know Tom's real name?",
+      "translation": "Ты знаешь настоящее имя Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_29",
+      "word": "Tom can understand us.",
+      "translation": "Том может нас понять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_30",
+      "word": "Please pass me the bread.",
+      "translation": "Передайте мне хлеб, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_31",
+      "word": "The weather was awful.",
+      "translation": "Погода была ужасная.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_32",
+      "word": "I can speak English a little.",
+      "translation": "Я немного говорю по-английски.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_33",
+      "word": "The weather really is lovely.",
+      "translation": "Погода действительно хорошая.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_34",
+      "word": "Please wait until I get back.",
+      "translation": "Подожди, пожалуйста, моего возвращения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_35",
+      "word": "\"How many pumpkins do you want?\" \"Three, please.\"",
+      "translation": "\"Сколько вам тыкв?\" - \"Три, пожалуйста\".",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_36",
+      "word": "Thank you all for being here.",
+      "translation": "Спасибо всем, что пришли.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_37",
+      "word": "I'm waiting for my boyfriend.",
+      "translation": "Я жду своего парня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_38",
+      "word": "Is he a friend?",
+      "translation": "Он друг?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_39",
+      "word": "Don't ever say her name.",
+      "translation": "Никогда не произноси её имени.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_40",
+      "word": "Just leave us alone, please.",
+      "translation": "Просто оставь нас одних, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_41",
+      "word": "Bring me the menu, please.",
+      "translation": "Принесите мне меню, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_42",
+      "word": "Please tell me the answer to the question.",
+      "translation": "Скажи мне, пожалуйста, ответ на вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_43",
+      "word": "Please sing with me.",
+      "translation": "Спой со мной, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_44",
+      "word": "Please tell me what time I need to be there.",
+      "translation": "Скажите, пожалуйста, в какое время мне нужно быть там.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_45",
+      "word": "Better safe than sorry.",
+      "translation": "Бережёного бог бережёт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_46",
+      "word": "I hope the weather will clear up tomorrow.",
+      "translation": "Надеюсь, завтра погода прояснится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_47",
+      "word": "Thank you for taking Tom fishing with you.",
+      "translation": "Спасибо, что взял Тома с собой на рыбалку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_48",
+      "word": "I don't understand what you expect me to do.",
+      "translation": "Не понимаю, чего ты от меня ждёшь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_0_49",
+      "word": "I'm sorry, but your name isn't on the list.",
+      "translation": "Простите, но Вашего имени нет в списке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_0",
+      "word": "Please stop it.",
+      "translation": "Пожалуйста, прекратите это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_1",
+      "word": "Take off your socks, please.",
+      "translation": "Снимите, пожалуйста, носки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_2",
+      "word": "I wanted you to know I'm still your friend.",
+      "translation": "Я хотел, чтобы ты знал, что я по-прежнему твой друг.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_3",
+      "word": "What's your brother's name?",
+      "translation": "Как зовут твоего брата?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_4",
+      "word": "When was the last time you had a boyfriend?",
+      "translation": "Когда у тебя последний раз был парень?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_5",
+      "word": "Thank you very much for all your kindness.",
+      "translation": "Спасибо тебе большое за всю твою доброту.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_6",
+      "word": "Please wait until 3:00. She'll be back then.",
+      "translation": "Пожалуйста, подождите до 3 часов. Она тогда вернётся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_7",
+      "word": "The boy's name is Tom.",
+      "translation": "Мальчика зовут Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_8",
+      "word": "Whose friend is he?",
+      "translation": "Чей он друг?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_9",
+      "word": "That's Tom, my best friend.",
+      "translation": "Это Том, мой лучший друг.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_10",
+      "word": "I didn't want anybody to feel sorry for me.",
+      "translation": "Я не хотел, чтобы меня жалели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_11",
+      "word": "Please be careful when crossing the street.",
+      "translation": "Пожалуйста, будьте внимательны, переходя улицу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_12",
+      "word": "May I have the check, please?",
+      "translation": "Принесите счёт, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_13",
+      "word": "Tom didn't tell me Mary was his girlfriend.",
+      "translation": "Том не сказал мне, что Мэри его девушка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_14",
+      "word": "His name is Tom.",
+      "translation": "Его зовут Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_15",
+      "word": "Please tell me how to start the engine.",
+      "translation": "Пожалуйста, скажите мне, как заводить мотор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_16",
+      "word": "Tom wanted to know if Mary had a boyfriend.",
+      "translation": "Том хотел знать, есть ли у Марии парень.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_17",
+      "word": "She is a friend of my wife's.",
+      "translation": "Она подруга моей жены.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_18",
+      "word": "I forgot that Tom didn't understand French.",
+      "translation": "Я забыл, что Том не понимает по-французски.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_19",
+      "word": "I don't understand what you mean by that.",
+      "translation": "Не понимаю, что ты хочешь этим сказать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_20",
+      "word": "Please do that.",
+      "translation": "Сделай это, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_21",
+      "word": "This is my best friend.",
+      "translation": "Это мой лучший друг.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_22",
+      "word": "Please add Tom to the list.",
+      "translation": "Пожалуйста, добавьте Тома в список.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_23",
+      "word": "I have a friend who has a house in Boston.",
+      "translation": "У меня есть друг, у которого есть дом в Бостоне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_24",
+      "word": "I don't even know what Tom's last name is.",
+      "translation": "Я даже не знаю, какая у Тома фамилия.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_25",
+      "word": "Please promise me you'll never lie again.",
+      "translation": "Пожалуйста, пообещай мне, что больше никогда не будешь врать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_26",
+      "word": "Please promise me that you won't do that.",
+      "translation": "Обещай мне, пожалуйста, что не сделаешь этого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_27",
+      "word": "We began to understand more.",
+      "translation": "Мы стали понимать больше.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_28",
+      "word": "I'm sorry I couldn't write to you sooner.",
+      "translation": "Извини, что не смог написать тебе раньше.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_29",
+      "word": "The plane was late because of bad weather.",
+      "translation": "Самолёт задержался из-за плохой погоды.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_30",
+      "word": "I understand it more or less.",
+      "translation": "Я это понимаю более или менее.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_31",
+      "word": "He is no friend of mine.",
+      "translation": "Он мне не друг.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_32",
+      "word": "When I was your age, I had a girlfriend.",
+      "translation": "Когда я был в твоём возрасте, у меня была девушка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_33",
+      "word": "Please come at 2:30.",
+      "translation": "Приходи полтретьего, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_34",
+      "word": "I didn't understand what was going on there.",
+      "translation": "Я не понял, что там происходит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_35",
+      "word": "I can't remember the name of Tom's brother.",
+      "translation": "Я не могу вспомнить, как зовут брата Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_36",
+      "word": "How are you today, Tom?",
+      "translation": "Как ты сегодня, Том?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_37",
+      "word": "Your name is definitely not on the list.",
+      "translation": "Твоего имени в списке определённо нет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_38",
+      "word": "Tom is just a family friend.",
+      "translation": "Том - просто друг семьи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_39",
+      "word": "Tom doesn't understand why we're doing this.",
+      "translation": "Том не понимает, зачем мы это делаем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_40",
+      "word": "I can't explain what I don't understand.",
+      "translation": "Я не могу объяснить то, чего не понимаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_41",
+      "word": "I honestly don't understand what's going on.",
+      "translation": "Я искренне не понимаю, что происходит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_42",
+      "word": "What should I name it?",
+      "translation": "Как мне следует называть это?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_43",
+      "word": "Please tell us about your future plans.",
+      "translation": "Расскажи нам, пожалуйста, о своих планах на будущее.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_44",
+      "word": "I didn't understand you.",
+      "translation": "Я вас не понял.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_45",
+      "word": "A true friend would not say such a thing.",
+      "translation": "Настоящий друг никогда бы такого не сказал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_46",
+      "word": "Please don't interrupt me while I'm talking.",
+      "translation": "Пожалуйста, не перебивай меня, когда я говорю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_47",
+      "word": "Thank you for helping me with my homework.",
+      "translation": "Спасибо, что помог мне с домашним заданием.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_48",
+      "word": "The weather forecast says there'll be showers.",
+      "translation": "Прогноз погоды говорит, что будут кратковременные ливни.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_1_49",
+      "word": "Tom doesn't understand what's going on either, but he won't admit it.",
+      "translation": "Том тоже не понимает, что происходит, но он этого не признает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_0",
+      "word": "Please just tell me what's happening.",
+      "translation": "Пожалуйста, просто скажи мне, что происходит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_1",
+      "word": "I thought that Mary was Tom's girlfriend.",
+      "translation": "Я думал, Мэри - девушка Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_2",
+      "word": "Would you please stop talking for a minute?",
+      "translation": "Не могли бы вы перестать говорить на минутку?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_3",
+      "word": "Please tell Tom to call me.",
+      "translation": "Передай, пожалуйста, Тому, чтобы он мне позвонил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_4",
+      "word": "I forgot Tom's family name.",
+      "translation": "Я забыл фамилию Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_5",
+      "word": "Do you think we'll have good weather?",
+      "translation": "Думаешь, погода будет хорошая?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_6",
+      "word": "I'm a friend.",
+      "translation": "Я друг.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_7",
+      "word": "It is good for us to understand other cultures.",
+      "translation": "Нам полезно понимать другие культуры.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_8",
+      "word": "Please introduce me to your friend.",
+      "translation": "Представьте меня, пожалуйста, своему другу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_9",
+      "word": "I need his name.",
+      "translation": "Мне нужно его имя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_10",
+      "word": "I am writing you at the request of a friend.",
+      "translation": "Я пишу вам по просьбе моего друга.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_11",
+      "word": "I'm sorry. I can't do that.",
+      "translation": "Извините. Я не могу этого сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_12",
+      "word": "You don't understand how worried I was about you.",
+      "translation": "Ты не понимаешь, как я за тебя беспокоилась.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_13",
+      "word": "The weather is just perfect.",
+      "translation": "Погода просто идеальная.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_14",
+      "word": "Do you understand that?",
+      "translation": "Ты это понимаешь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_15",
+      "word": "If you understand, please raise your hand.",
+      "translation": "Пожалуйста, поднимите руки, если вам понятно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_16",
+      "word": "I can't understand why Tom didn't win.",
+      "translation": "Я не могу понять, почему Том не выиграл.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_17",
+      "word": "I'm sorry. I didn't hear you.",
+      "translation": "Прости, я тебя не слышала.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_18",
+      "word": "Please write down everything I say.",
+      "translation": "Пожалуйста, записывайте всё, что я говорю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_19",
+      "word": "He's a friend from work.",
+      "translation": "Он друг с работы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_20",
+      "word": "Thank you for waiting.",
+      "translation": "Спасибо тебе за ожидание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_21",
+      "word": "Can he speak English?",
+      "translation": "Он говорит по-английски?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_22",
+      "word": "Thank you for the donation.",
+      "translation": "Спасибо за пожертвование.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_23",
+      "word": "We have the same name.",
+      "translation": "Мы тёзки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_24",
+      "word": "Consider me your friend.",
+      "translation": "Считайте меня своим другом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_25",
+      "word": "Sorry for not contacting you sooner.",
+      "translation": "Простите, что не связался с вами раньше.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_26",
+      "word": "Today was definitely shorts and T-shirt weather.",
+      "translation": "Сегодня погода была прямо летняя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_27",
+      "word": "Tom doesn't understand what you want.",
+      "translation": "Том не понимает, чего ты хочешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_28",
+      "word": "I don't understand why you like baseball so much.",
+      "translation": "Не понимаю, за что ты так любишь бейсбол.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_29",
+      "word": "Could you lend me your pink pen, please?",
+      "translation": "Ты можешь одолжить мне свою розовую ручку, пожалуйста?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_30",
+      "word": "My younger sister didn't say \"hello.\"",
+      "translation": "Моя младшая сестра не поздоровалась.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_31",
+      "word": "I borrowed the screwdriver from a friend of mine.",
+      "translation": "Я одолжил отвёртку у одного своего друга.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_32",
+      "word": "Please put an end to this quarreling.",
+      "translation": "Пожалуйста, прекратите ссору.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_33",
+      "word": "I found my name written on the blackboard.",
+      "translation": "Я обнаружил, что кто-то написал на доске моё имя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_34",
+      "word": "We don't understand French.",
+      "translation": "Мы не понимаем по-французски.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_35",
+      "word": "Please wait an hour.",
+      "translation": "Подожди часок, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_36",
+      "word": "I'm sorry I kept you waiting so long.",
+      "translation": "Извините, что заставил вас ждать так долго.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_37",
+      "word": "I know that you consider Tom a close friend.",
+      "translation": "Я знаю, что ты считаешь Тома близким другом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_38",
+      "word": "I still don't really understand what's happening.",
+      "translation": "Я так и не понял, что происходит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_39",
+      "word": "I'm here with a friend.",
+      "translation": "Я здесь с другом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_40",
+      "word": "Tom wanted Mary to pretend to be his girlfriend.",
+      "translation": "Том хотел, чтобы Мэри прикинулась его подружкой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_41",
+      "word": "Tom was unable to understand anything Mary said.",
+      "translation": "Том не мог понять ничего из сказанного Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_42",
+      "word": "Will you excuse us, please?",
+      "translation": "Прошу прощения, мы отлучимся ненадолго.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_43",
+      "word": "I thought Tom was Mary's boyfriend.",
+      "translation": "Я думал, Том парень Марии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_44",
+      "word": "I've tried to be your friend.",
+      "translation": "Я пыталась быть тебе другом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_45",
+      "word": "Tom didn't understand me.",
+      "translation": "Том меня не понял.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_46",
+      "word": "Hi, my name is Tom.",
+      "translation": "Привет, меня зовут Том!",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_47",
+      "word": "A friend told me that story.",
+      "translation": "Ту историю рассказал мне друг.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_48",
+      "word": "My name isn't even Tom.",
+      "translation": "Меня даже не Томом зовут.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_2_49",
+      "word": "Thank you for doing me this favor.",
+      "translation": "Спасибо, что оказали мне эту услугу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_0",
+      "word": "Tom doesn't even know how to write his own name.",
+      "translation": "Том даже не знает, как написать своё имя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_1",
+      "word": "I didn't know Mary was Tom's girlfriend.",
+      "translation": "Я не знал, что Мэри была девушкой Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_2",
+      "word": "Don't you understand what's happening here?",
+      "translation": "Неужели ты не понимаешь, что здесь происходит?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_3",
+      "word": "I understand it.",
+      "translation": "Я понимаю это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_4",
+      "word": "I know Tom was your friend.",
+      "translation": "Я знаю, что Том был твоим другом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_5",
+      "word": "I don't understand what this is.",
+      "translation": "Я не понимаю, что это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_6",
+      "word": "Put me through to the boss, please.",
+      "translation": "Свяжите меня с вашим начальником, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_7",
+      "word": "Dogs are man's best friend.",
+      "translation": "Собаки - лучшие друзья человека.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_8",
+      "word": "I asked him for his name.",
+      "translation": "Я поинтересовался его именем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_9",
+      "word": "Please stick your tongue out.",
+      "translation": "Пожалуйста, высунь язык.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_10",
+      "word": "Everyone knows his name.",
+      "translation": "Все знают его имя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_11",
+      "word": "Can't you understand that it's impossible?",
+      "translation": "Ты не можешь понять, что это невозможно?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_12",
+      "word": "His name sounds familiar.",
+      "translation": "Его имя кажется мне знакомым.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_13",
+      "word": "If Tom comes, please tell me.",
+      "translation": "Если Том придёт, пожалуйста, скажи мне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_14",
+      "word": "Tom tried to understand.",
+      "translation": "Том попытался понять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_15",
+      "word": "Fortunately, the weather was good.",
+      "translation": "К счастью, погода была хорошая.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_16",
+      "word": "May I ask your name?",
+      "translation": "Могу я спросить Ваше имя?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_17",
+      "word": "He went out without saying goodbye to me.",
+      "translation": "Он вышел, не попрощавшись со мной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_18",
+      "word": "My friend said he had bought a new watch.",
+      "translation": "Мой друг сказал мне, что купил новые часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_19",
+      "word": "Please give this to Tom.",
+      "translation": "Пожалуйста, дайте это Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_20",
+      "word": "Mary wanted to be Tom's girlfriend.",
+      "translation": "Мэри хотела быть девушкой Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_21",
+      "word": "Please don't quote me.",
+      "translation": "Пожалуйста, не цитируйте меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_22",
+      "word": "Thank you so much for your hospitality.",
+      "translation": "Большое вам спасибо за гостеприимство.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_23",
+      "word": "I wish you good luck.",
+      "translation": "Желаю удачи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_24",
+      "word": "Thank you for reminding me.",
+      "translation": "Спасибо, что напомнили.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_25",
+      "word": "Do you still not understand what's going on?",
+      "translation": "Ты всё ещё не понимаешь, что происходит?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_26",
+      "word": "I'm sorry that I yelled at you yesterday.",
+      "translation": "Прости, что наорал на тебя вчера.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_27",
+      "word": "I'm sorry I have to go.",
+      "translation": "Извини, я должен идти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_28",
+      "word": "Tom didn't tell me her name.",
+      "translation": "Том не сказал мне её имени.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_29",
+      "word": "Bring me a glass of water, please.",
+      "translation": "Принеси мне, пожалуйста, стакан воды.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_30",
+      "word": "Please speak more slowly.",
+      "translation": "Говори помедленнее, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_31",
+      "word": "Tom pretended he couldn't understand French.",
+      "translation": "Том сделал вид, что не понимает по-французски.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_32",
+      "word": "I just don't understand it.",
+      "translation": "Я этого просто не понимаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_33",
+      "word": "Tom is a close personal friend of mine.",
+      "translation": "Том - мой близкий личный друг.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_34",
+      "word": "It's now time to say goodbye.",
+      "translation": "Пора прощаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_35",
+      "word": "Your explanation was very easy to understand.",
+      "translation": "Твоё объяснение было очень понятным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_36",
+      "word": "Please forgive me for forgetting to call you.",
+      "translation": "Прости, что забыл тебе позвонить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_37",
+      "word": "You don't even know his name.",
+      "translation": "Ты даже его имени не знаешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_38",
+      "word": "I feel sorry for your kids.",
+      "translation": "Мне жаль твоих детей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_39",
+      "word": "Please don't ask unnecessary questions.",
+      "translation": "Пожалуйста, не задавай ненужных вопросов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_40",
+      "word": "I don't understand why you don't need to do that.",
+      "translation": "Не понимаю, почему тебе не нужно этого делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_41",
+      "word": "Tom asked me if I had a girlfriend.",
+      "translation": "Том спросил меня, есть ли у меня девушка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_42",
+      "word": "Please get Tom Jackson on the phone.",
+      "translation": "Дозвонитесь, пожалуйста, до Тома Джексона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_43",
+      "word": "Thank you for your support.",
+      "translation": "Спасибо вам за поддержку!",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_44",
+      "word": "Please find out when Tom plans on doing that.",
+      "translation": "Пожалуйста, выясни, когда Том планирует это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_45",
+      "word": "The only way to have a friend is to be one.",
+      "translation": "Единственный способ иметь друга — быть другом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_46",
+      "word": "Please tell me your present address.",
+      "translation": "Скажи мне свой теперешний адрес, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_47",
+      "word": "I'm very sorry for what I've done.",
+      "translation": "Я очень сожалею о том, что сделал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_48",
+      "word": "Tom didn't understand Mary.",
+      "translation": "Том не понял Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_3_49",
+      "word": "Tom was my only friend in Boston.",
+      "translation": "Том был моим единственным другом в Бостоне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_0",
+      "word": "Could you repeat that, please?",
+      "translation": "Простите, Вы не могли бы это повторить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_1",
+      "word": "I can't speak English as well as he can.",
+      "translation": "Я не так хорошо говорю по-английски, как он.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_2",
+      "word": "Any comments are welcome.",
+      "translation": "Любые комментарии приветствуются.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_3",
+      "word": "I don't think that Tom can understand French.",
+      "translation": "Не думаю, что Том понимает по-французски.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_4",
+      "word": "All you have to do is sign your name here.",
+      "translation": "Всё, что вам надо сделать, - это вписать ваше имя здесь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_5",
+      "word": "I know her name.",
+      "translation": "Я знаю, как её зовут.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_6",
+      "word": "He heard his name called.",
+      "translation": "Он услышал, как его зовут по имени.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_7",
+      "word": "You're Tom's friend.",
+      "translation": "Ты друг Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_8",
+      "word": "I'm very sorry about what happened.",
+      "translation": "Я очень сожалею о том, что произошло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_9",
+      "word": "I don't understand why Tom is so mad at me.",
+      "translation": "Не понимаю, за что Том так на меня злится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_10",
+      "word": "Please forgive Tom.",
+      "translation": "Пожалуйста, простите Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_11",
+      "word": "Tom spelled your name wrong.",
+      "translation": "Том неправильно написал твоё имя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_12",
+      "word": "Please see below for more details.",
+      "translation": "Более подробно смотрите ниже.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_13",
+      "word": "She refused to speak English.",
+      "translation": "Она отказалась говорить по-английски.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_14",
+      "word": "I don't consider Tom a friend.",
+      "translation": "Я не считаю Тома другом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_15",
+      "word": "Please take Tom with you.",
+      "translation": "Пожалуйста, возьми Тома с собой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_16",
+      "word": "Tom is not my friend anymore.",
+      "translation": "Том мне больше не друг.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_17",
+      "word": "I'm sorry I woke you.",
+      "translation": "Прости, что разбудил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_18",
+      "word": "Tom was probably Mary's closest friend.",
+      "translation": "Том был, вероятно, самым близким другом Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_19",
+      "word": "Please send me a letter.",
+      "translation": "Пошли мне письмо, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_20",
+      "word": "I'm sorry, but I already have a girlfriend.",
+      "translation": "Извини, но у меня уже есть девушка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_21",
+      "word": "Please feel free to make suggestions.",
+      "translation": "Пожалуйста, не стесняйтесь вносить предложения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_22",
+      "word": "Please forgive me for telling a lie.",
+      "translation": "Прости, пожалуйста, что я сказал неправду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_23",
+      "word": "Please tell your friends about it.",
+      "translation": "Пожалуйста, расскажи об этом твоим друзьям.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_24",
+      "word": "Of course, I understand.",
+      "translation": "Конечно, я понимаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_25",
+      "word": "One day, you'll understand.",
+      "translation": "Когда-нибудь ты поймёшь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_26",
+      "word": "Please do what's necessary.",
+      "translation": "Сделайте, пожалуйста, всё необходимое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_27",
+      "word": "I'm sure Tom will understand.",
+      "translation": "Я уверен, что Том поймёт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_28",
+      "word": "Everybody wants to be my friend.",
+      "translation": "Все хотят быть моими друзьями.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_29",
+      "word": "Is that your new boyfriend?",
+      "translation": "Это твой новый друг?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_30",
+      "word": "I'm sorry that I didn't call.",
+      "translation": "Прости, что не позвонила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_31",
+      "word": "May I offer my congratulations?",
+      "translation": "Разрешите вас поздравить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_32",
+      "word": "Tom has been a great friend.",
+      "translation": "Том был отличным другом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_33",
+      "word": "My friend has a large family.",
+      "translation": "У моего друга большая семья.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_34",
+      "word": "Would you please repeat what you just said?",
+      "translation": "Не могли бы вы повторить, что вы только что сказали?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_35",
+      "word": "Please remember to write to Tom.",
+      "translation": "Пожалуйста, не забудь написать Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_36",
+      "word": "I heard you broke up with your girlfriend.",
+      "translation": "Я слышал, ты расстался со своей девушкой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_37",
+      "word": "She is a friend of mine.",
+      "translation": "Она моя подруга.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_38",
+      "word": "I began to understand the reason why he hated me.",
+      "translation": "Я начал понимать, почему он меня ненавидит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_39",
+      "word": "Tom says he doesn't remember my name.",
+      "translation": "Том говорит, что не помнит моё имя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_40",
+      "word": "What's the weather like today?",
+      "translation": "Какая сегодня погода?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_41",
+      "word": "Didn't you know Tom was a friend of Mary's?",
+      "translation": "Ты не знал, что Том - друг Мэри?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_42",
+      "word": "He has an uncommon name.",
+      "translation": "У него редкое имя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_43",
+      "word": "Hi! How are you?",
+      "translation": "Привет, как дела?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_44",
+      "word": "Thank you for your time and effort.",
+      "translation": "Спасибо вам за время и усилия.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_45",
+      "word": "Does Tom have a girlfriend?",
+      "translation": "У Тома есть девушка?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_46",
+      "word": "She asked after her friend.",
+      "translation": "Она спросила о своём друге.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_47",
+      "word": "Welcome to my humble abode.",
+      "translation": "Добро пожаловать в моё скромное жилище.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_48",
+      "word": "The man swimming in the river is my friend.",
+      "translation": "Человек, плавающий в реке, - мой друг.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_4_49",
+      "word": "Why don't you say hello to everybody?",
+      "translation": "Почему бы тебе не поздороваться со всеми?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_0",
+      "word": "His real name is Tom.",
+      "translation": "Его настоящее имя - Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_1",
+      "word": "You said your name was Tom, didn't you?",
+      "translation": "Ты сказал, что тебя Томом зовут, не так ли?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_2",
+      "word": "Tom is a friend of ours.",
+      "translation": "Том — наш друг.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_3",
+      "word": "You haven't told me your name.",
+      "translation": "Вы не сказали мне своё имя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_4",
+      "word": "She told me his name after he had left.",
+      "translation": "Она назвала мне его имя, после того как он ушёл.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_5",
+      "word": "Excuse me for a moment.",
+      "translation": "Я на минуточку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_6",
+      "word": "Please let me out.",
+      "translation": "Пожалуйста, выпусти меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_7",
+      "word": "What did you say? Could you please say it again?",
+      "translation": "Что Вы сказали? Вы не могли бы повторить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_8",
+      "word": "Thank you for your call.",
+      "translation": "Спасибо Вам за звонок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_9",
+      "word": "Tom doesn't even know my name.",
+      "translation": "Том даже имени моего не знает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_10",
+      "word": "There's something I don't understand.",
+      "translation": "Есть кое-что, чего я не понимаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_11",
+      "word": "Please forget I said that.",
+      "translation": "Пожалуйста, забудь, что я это сказал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_12",
+      "word": "I don't think that Tom has ever had a girlfriend.",
+      "translation": "Не думаю, что у Тома когда-нибудь была девушка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_13",
+      "word": "Please answer this question for me.",
+      "translation": "Пожалуйста, ответь мне на этот вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_14",
+      "word": "Pass me the butter, please.",
+      "translation": "Передай мне масло, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_15",
+      "word": "Most people nowadays don't understand friendship.",
+      "translation": "В наше время большинство людей не понимает, что такое дружба.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_16",
+      "word": "I consider Tom to be a friend.",
+      "translation": "Я считаю Тома другом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_17",
+      "word": "Please turn off the radio.",
+      "translation": "Выключи, пожалуйста, радио.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_18",
+      "word": "Please answer all of the questions.",
+      "translation": "Ответь, пожалуйста, на все вопросы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_19",
+      "word": "I really want to know her name.",
+      "translation": "Я действительно хочу знать её имя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_20",
+      "word": "Yes, please do that.",
+      "translation": "Да, сделай это, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_21",
+      "word": "I don't understand why.",
+      "translation": "Не понимаю почему.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_22",
+      "word": "The weather remained rainy.",
+      "translation": "Погода осталась дождливой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_23",
+      "word": "How can I thank you?",
+      "translation": "Как я могу вас отблагодарить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_24",
+      "word": "Write only your family name in capitals.",
+      "translation": "Напишите только свою фамилию большими буквами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_25",
+      "word": "I just wanted to say hello.",
+      "translation": "Я просто хотел поздороваться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_26",
+      "word": "I understand very well.",
+      "translation": "Прекрасно понимаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_27",
+      "word": "Can I please talk to Tom?",
+      "translation": "Пожалуйста, могу я поговорить с Томом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_28",
+      "word": "Leave the windows open, please.",
+      "translation": "Оставь окна открытыми, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_29",
+      "word": "Please speak slower.",
+      "translation": "Пожалуйста, говорите помедленнее.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_30",
+      "word": "I don't understand why I have to do this.",
+      "translation": "Я не понимаю, почему я должен это делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_31",
+      "word": "You don't understand what I mean.",
+      "translation": "Ты не понимаешь, что я имею в виду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_32",
+      "word": "Please don't leave me.",
+      "translation": "Пожалуйста, не покидай меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_33",
+      "word": "Is it true that Tom changed his name?",
+      "translation": "Правда, что Том сменил имя?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_34",
+      "word": "Please don't get me wrong.",
+      "translation": "Пожалуйста, не пойми меня неправильно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_35",
+      "word": "Did you not understand?",
+      "translation": "Ты не понял?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_36",
+      "word": "Thank you for your cooperation.",
+      "translation": "Спасибо за ваше сотрудничество.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_37",
+      "word": "Don't you understand how it works?",
+      "translation": "Ты не понимаешь, как это работает?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_38",
+      "word": "Tom is a very good friend of mine.",
+      "translation": "Том мой очень хороший друг.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_39",
+      "word": "Please feel free to contact me anytime.",
+      "translation": "Вы можете связаться со мной в любое время.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_40",
+      "word": "Tom can't understand Mary's motives.",
+      "translation": "Том не может понять мотивы Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_41",
+      "word": "There's something I still don't understand.",
+      "translation": "Есть кое-что, чего я всё ещё не понимаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_42",
+      "word": "Do you understand your orders?",
+      "translation": "Вы понимаете свои приказы?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_43",
+      "word": "I don't want another girlfriend. I want you.",
+      "translation": "Мне не нужна другая девушка. Мне нужна ты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_44",
+      "word": "The only way to have a friend is to be a friend.",
+      "translation": "Единственный способ сделать так, чтобы у тебя был друг, — самому быть другом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_45",
+      "word": "It's difficult to understand.",
+      "translation": "Это сложно понять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_46",
+      "word": "To the Hilton Hotel, please.",
+      "translation": "Отель \"Хилтон\", пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_47",
+      "word": "Please don't turn on the lights.",
+      "translation": "Не включай свет, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_48",
+      "word": "Tom's dog's name is Cookie.",
+      "translation": "Собаку Тома зовут Куки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_5_49",
+      "word": "Ladies and gentlemen, please come this way.",
+      "translation": "Дамы и господа, пожалуйста, сюда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_0",
+      "word": "Tom doesn't understand the situation.",
+      "translation": "Том не понимает ситуацию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_1",
+      "word": "I feel sorry for him.",
+      "translation": "Мне его жалко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_2",
+      "word": "Say my name.",
+      "translation": "Скажи моё имя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_3",
+      "word": "Give me a goodbye kiss.",
+      "translation": "Поцелуй меня на прощание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_4",
+      "word": "I finally understand.",
+      "translation": "Я наконец понял.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_5",
+      "word": "My parents wouldn't understand.",
+      "translation": "Мои родители не поняли бы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_6",
+      "word": "If you find a mistake, please leave a comment.",
+      "translation": "Если обнаружите ошибку, оставьте, пожалуйста, комментарий.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_7",
+      "word": "This is unusual weather.",
+      "translation": "Это необычная погода.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_8",
+      "word": "Please wait here until Tom gets back.",
+      "translation": "Подождите, пожалуйста, здесь, пока Том не вернётся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_9",
+      "word": "She was asked to write her name in ink.",
+      "translation": "Её попросили написать её имя чернилами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_10",
+      "word": "Please show me that letter.",
+      "translation": "Покажи мне это письмо, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_11",
+      "word": "Two teas and a coffee, please.",
+      "translation": "Два чая и кофе, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_12",
+      "word": "Please keep it a secret.",
+      "translation": "Пожалуйста, держите это в тайне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_13",
+      "word": "Could you please close the windows?",
+      "translation": "Не мог бы ты закрыть окна?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_14",
+      "word": "Tom was a friend.",
+      "translation": "Том был другом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_15",
+      "word": "I don't know what his name is.",
+      "translation": "Я не знаю, как его зовут.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_16",
+      "word": "Tom left without saying goodbye.",
+      "translation": "Том ушёл не попрощавшись.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_17",
+      "word": "Tom must be Mary's boyfriend.",
+      "translation": "Том, должно быть, парень Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_18",
+      "word": "Please excuse my ignorance.",
+      "translation": "Простите, пожалуйста, моё невежество.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_19",
+      "word": "Do you understand this?",
+      "translation": "Ты это понимаешь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_20",
+      "word": "Stop complaining about the weather.",
+      "translation": "Прекрати жаловаться на погоду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_21",
+      "word": "Please take care of that.",
+      "translation": "Позаботься об этом, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_22",
+      "word": "We try to please everybody.",
+      "translation": "Мы стараемся угодить всем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_23",
+      "word": "Thank you for meeting me halfway.",
+      "translation": "Спасибо, что пошли навстречу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_24",
+      "word": "I'm not your friend.",
+      "translation": "Я не твой друг.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_25",
+      "word": "Remain seated, please.",
+      "translation": "Пожалуйста, оставайтесь на местах.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_26",
+      "word": "You didn't understand.",
+      "translation": "Ты не понял.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_27",
+      "word": "Take it, please.",
+      "translation": "Возьми это, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_28",
+      "word": "Everyone wants to be Tom's friend.",
+      "translation": "Все хотят быть друзьями Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_29",
+      "word": "I know you're a friend of Tom's.",
+      "translation": "Я знаю, что ты друг Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_30",
+      "word": "I don't quite understand what you want to say.",
+      "translation": "Я не совсем понимаю, что вы хотите сказать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_31",
+      "word": "Some people are difficult to please.",
+      "translation": "Некоторым людям трудно угодить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_32",
+      "word": "Can you hold the elevator, please?",
+      "translation": "Можешь подержать лифт, пожалуйста?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_33",
+      "word": "Please scale the fish.",
+      "translation": "Соскоблите чешую с рыбы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_34",
+      "word": "You're very hard to please.",
+      "translation": "Тебе очень трудно угодить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_35",
+      "word": "Tom is dating my ex-girlfriend.",
+      "translation": "Том встречается с моей бывшей девушкой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_36",
+      "word": "I know this is hard for you to understand.",
+      "translation": "Я знаю, что тебе это трудно понять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_37",
+      "word": "I wish I could understand what you're saying.",
+      "translation": "Вот бы понимать, что ты говоришь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_38",
+      "word": "Please don't do it.",
+      "translation": "Пожалуйста, не делай этого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_39",
+      "word": "Do you both understand French?",
+      "translation": "Вы оба понимаете по-французски?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_40",
+      "word": "Please lower the flag.",
+      "translation": "Пожалуйста, опустите флаг.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_41",
+      "word": "Please take me to Tom.",
+      "translation": "Отведи меня к Тому, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_42",
+      "word": "Tom will understand.",
+      "translation": "Том поймёт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_43",
+      "word": "Please let Tom sleep a little longer.",
+      "translation": "Пожалуйста, дай Тому ещё немного поспать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_44",
+      "word": "Please just give it to me.",
+      "translation": "Просто дай мне это, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_45",
+      "word": "Show me the photos, please.",
+      "translation": "Покажи мне фотографии, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_46",
+      "word": "Please wake me up at six tomorrow morning.",
+      "translation": "Разбудите меня завтра в шесть утра, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_47",
+      "word": "Someone shouted my name.",
+      "translation": "Кто-то выкрикнул моё имя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_48",
+      "word": "Please show me how I should do that.",
+      "translation": "Пожалуйста, покажи мне, как это нужно делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_6_49",
+      "word": "We can do whatever we please.",
+      "translation": "Мы можем делать все, что угодно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_0",
+      "word": "Welcome to our humble home.",
+      "translation": "Добро пожаловать в наш скромный дом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_1",
+      "word": "You've misspelled my name.",
+      "translation": "Вы неправильно написали моё имя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_2",
+      "word": "I have always considered you a good friend.",
+      "translation": "Я всегда считал тебя хорошим другом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_3",
+      "word": "I always counted you as a friend.",
+      "translation": "Я всегда считал тебя своим другом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_4",
+      "word": "It's important to understand why.",
+      "translation": "Важно понимать причину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_5",
+      "word": "How are you all?",
+      "translation": "Как поживаете?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_6",
+      "word": "Tom still doesn't understand.",
+      "translation": "Том всё ещё не понимает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_7",
+      "word": "I'm sorry I couldn't come to your birthday party.",
+      "translation": "Прости, что не смог прийти к тебе на день рождения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_8",
+      "word": "Tom wouldn't understand it.",
+      "translation": "Том бы этого не понял.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_9",
+      "word": "We wanted to wish you good luck.",
+      "translation": "Мы хотели пожелать вам удачи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_10",
+      "word": "Tom's friend's name was Mary.",
+      "translation": "Подругу Тома звали Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_11",
+      "word": "Please let us know.",
+      "translation": "Пожалуйста, дайте нам знать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_12",
+      "word": "Tom kissed his kids goodbye.",
+      "translation": "Том поцеловал детей на прощание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_13",
+      "word": "Good luck with that, Tom.",
+      "translation": "Удачи тебе с этим, Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_14",
+      "word": "I didn't tell Tom what my last name was.",
+      "translation": "Я не говорил Тому свою фамилию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_15",
+      "word": "She wants him to be just a friend.",
+      "translation": "Она хочет, чтобы он был ей просто другом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_16",
+      "word": "Can you understand the meaning of this paragraph?",
+      "translation": "Ты понимаешь смысл этого параграфа?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_17",
+      "word": "I don't understand why Tom did that.",
+      "translation": "Я не понимаю, зачем Том это сделал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_18",
+      "word": "Tom isn't Mary's friend.",
+      "translation": "Том не друг Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_19",
+      "word": "Tom pronounces my name incorrectly.",
+      "translation": "Том неправильно произносит моё имя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_20",
+      "word": "I am sorry if I disturbed you.",
+      "translation": "Сожалею, если побеспокоила тебя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_21",
+      "word": "I don't understand people like Tom.",
+      "translation": "Я не понимаю таких людей, как Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_22",
+      "word": "Dog is man's best friend.",
+      "translation": "Собака - лучший друг человека.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_23",
+      "word": "Please don't tell Tom about what happened.",
+      "translation": "Пожалуйста, не рассказывай Тому о том, что произошло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_24",
+      "word": "I just wanted to thank you personally.",
+      "translation": "Я лишь хотел поблагодарить тебя лично.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_25",
+      "word": "Would you please send me a catalogue by mail?",
+      "translation": "Вы не могли бы выслать мне каталог по почте?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_26",
+      "word": "They understand each other.",
+      "translation": "Они понимают друг друга.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_27",
+      "word": "I need to understand your reasons.",
+      "translation": "Мне нужно понять твои доводы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_28",
+      "word": "I should've chosen a shorter username.",
+      "translation": "Надо было мне выбрать ник покороче.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_29",
+      "word": "Please call the fire department.",
+      "translation": "Пожалуйста, позвоните в пожарное депо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_30",
+      "word": "Please don't blame me.",
+      "translation": "Не обвиняй меня, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_31",
+      "word": "I don't understand why you don't like Tom.",
+      "translation": "Не понимаю, чем тебе не нравится Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_32",
+      "word": "Tom and Mary understand each other perfectly.",
+      "translation": "Том и Мэри прекрасно понимают друг друга.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_33",
+      "word": "That's what I want to understand.",
+      "translation": "Это-то я и хочу понять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_34",
+      "word": "I replied automatically when I heard my name.",
+      "translation": "Я автоматически ответил, когда услышал своё имя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_35",
+      "word": "Please wait fifteen minutes.",
+      "translation": "Подождите пятнадцать минут, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_36",
+      "word": "My friend isn't Canadian.",
+      "translation": "Мой друг не канадец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_37",
+      "word": "I don't understand you.",
+      "translation": "Я вас не понимаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_38",
+      "word": "My friend doesn't believe in ghosts.",
+      "translation": "Мой друг не верит в привидения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_39",
+      "word": "Please don't ask me.",
+      "translation": "Пожалуйста, не спрашивай.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_40",
+      "word": "Please explain how you did that.",
+      "translation": "Объясни, пожалуйста, как ты это сделал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_41",
+      "word": "Please turn the radio up.",
+      "translation": "Сделай радио погромче, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_42",
+      "word": "I met my friend in the library last night.",
+      "translation": "Вчера вечером я встретил в библиотеке своего друга.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_43",
+      "word": "I didn't know you had a girlfriend.",
+      "translation": "Я не знал, что у тебя есть девушка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_44",
+      "word": "Tom, go say goodbye to Grandma.",
+      "translation": "Том, иди попрощайся с бабушкой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_45",
+      "word": "Tom has a cute girlfriend.",
+      "translation": "У Тома привлекательная девушка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_46",
+      "word": "It was the bad weather that caused his illness.",
+      "translation": "Его заболевание вызвано плохой погодой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_47",
+      "word": "Two large coffees, please.",
+      "translation": "Два больших кофе, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_48",
+      "word": "My friend called me a coward.",
+      "translation": "Мой друг назвал меня трусом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_7_49",
+      "word": "Tom doesn't yet know everyone's name.",
+      "translation": "Том пока не знает никого по имени.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_0",
+      "word": "The weather is becoming cooler.",
+      "translation": "Становится прохладнее.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_1",
+      "word": "I felt sorry for you.",
+      "translation": "Мне стало вас жаль.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_2",
+      "word": "If you know something about this, please tell me.",
+      "translation": "Если ты что-нибудь об этом знаешь, пожалуйста, скажи мне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_3",
+      "word": "Give me a glass of water, please.",
+      "translation": "Дайте мне стакан воды, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_4",
+      "word": "Thank you for your hard work.",
+      "translation": "Благодарим за Ваш ценный труд.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_5",
+      "word": "Follow me, please.",
+      "translation": "Следуйте за мной, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_6",
+      "word": "I'm sorry that I did that.",
+      "translation": "Прости, что я это сделал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_7",
+      "word": "Tom's my friend.",
+      "translation": "Том — мой друг.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_8",
+      "word": "I don't know his real name.",
+      "translation": "Я не знаю его настоящего имени.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_9",
+      "word": "Could you bring me a towel, please?",
+      "translation": "Ты не мог бы принести мне полотенце?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_10",
+      "word": "Thank you for yesterday.",
+      "translation": "Спасибо за вчерашнее.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_11",
+      "word": "What's your lawyer's name?",
+      "translation": "Как зовут твоего адвоката?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_12",
+      "word": "I think you'll like the weather there.",
+      "translation": "Думаю, вам понравится там погода.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_13",
+      "word": "I understand why Tom doesn't want to do that.",
+      "translation": "Я понимаю, почему Том не хочет этого делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_14",
+      "word": "You'll understand soon.",
+      "translation": "Ты скоро поймёшь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_15",
+      "word": "Would you please show Tom how to do that?",
+      "translation": "Ты не могла бы, пожалуйста, показать Тому, как это делается?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_16",
+      "word": "Thank you for taking care of my dog.",
+      "translation": "Спасибо, что присмотрели за моей собакой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_17",
+      "word": "I'm lucky to have you as a friend.",
+      "translation": "Мне повезло, что у меня такая подруга, как ты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_18",
+      "word": "Let go of me, please.",
+      "translation": "Отпустите меня, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_19",
+      "word": "Please do that for us.",
+      "translation": "Сделай это для нас, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_20",
+      "word": "Please wait half an hour.",
+      "translation": "Подождите полчаса, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_21",
+      "word": "Thank you for agreeing to meet.",
+      "translation": "Спасибо, что согласились встретиться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_22",
+      "word": "I don't understand what you're complaining about.",
+      "translation": "Я не понимаю, на что вы жалуетесь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_23",
+      "word": "I don't understand why you don't like me.",
+      "translation": "Я не понимаю, за что ты меня не любишь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_24",
+      "word": "They couldn't understand each other.",
+      "translation": "Они не могли друг друга понять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_25",
+      "word": "I understand how hard this is.",
+      "translation": "Я понимаю, как это тяжело.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_26",
+      "word": "I'm sorry to have taken up your valuable time.",
+      "translation": "Прошу прощения, что отнял Ваше драгоценное время.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_27",
+      "word": "Could you please lend me thirty dollars?",
+      "translation": "Не мог бы ты одолжить мне тридцать долларов?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_28",
+      "word": "Tom didn't even say goodbye.",
+      "translation": "Том даже до свидания не сказал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_29",
+      "word": "Please bring a dictionary.",
+      "translation": "Принеси, пожалуйста, словарь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_30",
+      "word": "Did you understand what Tom was trying to say?",
+      "translation": "Ты понял, что Том пытался сказать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_31",
+      "word": "Why is Tom wearing a name tag?",
+      "translation": "Почему Том носит бейдж?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_32",
+      "word": "My name is Tom Jackson.",
+      "translation": "Меня зовут Том Джексон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_33",
+      "word": "Please be as brief as possible.",
+      "translation": "Пожалуйста, будьте максимально краткими.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_34",
+      "word": "The weather is unusual today.",
+      "translation": "Погода сегодня необычная.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_35",
+      "word": "I want to thank you for what you've done for me.",
+      "translation": "Я хочу поблагодарить тебя за то, что ты для меня сделал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_36",
+      "word": "Thank you for your warning.",
+      "translation": "Спасибо тебе за предупреждение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_37",
+      "word": "You're welcome to join us.",
+      "translation": "Можешь к нам присоединиться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_38",
+      "word": "Please write your date of birth here.",
+      "translation": "Пожалуйста, напишите здесь свою дату рождения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_39",
+      "word": "You don't need to feel sorry for Tom.",
+      "translation": "Тебе нет нужды жалеть Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_40",
+      "word": "Today the weather is much better than yesterday.",
+      "translation": "Сегодня погода намного лучше, чем вчера.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_41",
+      "word": "I truly don't understand the question.",
+      "translation": "Я действительно не понимаю вопроса.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_42",
+      "word": "Does Tom understand the situation?",
+      "translation": "Том понимает ситуацию?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_43",
+      "word": "Please don't let us down.",
+      "translation": "Пожалуйста, не подведите нас.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_44",
+      "word": "I don't understand what you mean.",
+      "translation": "Я не понимаю, что ты хочешь сказать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_45",
+      "word": "I can't understand why Tom didn't do that.",
+      "translation": "Я не могу понять, почему Том этого не сделал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_46",
+      "word": "Please write your name with a pencil.",
+      "translation": "Напишите своё имя карандашом, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_47",
+      "word": "The weather had been hot.",
+      "translation": "Погода была жаркой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_48",
+      "word": "How's the weather there?",
+      "translation": "Как там погода?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_8_49",
+      "word": "You need a new girlfriend.",
+      "translation": "Тебе нужна новая девушка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_0",
+      "word": "Please do what we asked you to do.",
+      "translation": "Сделай, пожалуйста, то, о чём мы тебя просили.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_1",
+      "word": "We're looking for a friend.",
+      "translation": "Мы ищем друга.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_2",
+      "word": "You won't be sorry.",
+      "translation": "Ты не пожалеешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_3",
+      "word": "Everybody knows that she can speak English well.",
+      "translation": "Все знают, что она хорошо говорит по-английски.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_4",
+      "word": "I don't mind hot weather.",
+      "translation": "Я не против жаркой погоды.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_5",
+      "word": "Please make sure.",
+      "translation": "Убедитесь, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_6",
+      "word": "I hope this fine weather lasts till the weekend.",
+      "translation": "Надеюсь, такая хорошая погода продержится до выходных.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_7",
+      "word": "I don't understand this sentence.",
+      "translation": "Я не понимаю это предложение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_8",
+      "word": "Please tell Tom we're here.",
+      "translation": "Скажи, пожалуйста, Тому, что мы здесь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_9",
+      "word": "Mary was my first girlfriend.",
+      "translation": "Мэри была моей первой девушкой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_10",
+      "word": "Please don't leave me alone with Tom.",
+      "translation": "Пожалуйста, не оставляй меня с Томом наедине.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_11",
+      "word": "Tom's father's name was John.",
+      "translation": "Отца Тома звали Джоном.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_12",
+      "word": "He can scarcely write his name.",
+      "translation": "Он с трудом может написать своё имя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_13",
+      "word": "What's his name?",
+      "translation": "Как его имя?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_14",
+      "word": "I need Tom to understand.",
+      "translation": "Мне нужно, чтобы Том понял.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_15",
+      "word": "Could you please lend me your dictionary?",
+      "translation": "Будьте добры, Вы не могли бы одолжить мне свой словарь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_16",
+      "word": "Tom never forgets a name or a face.",
+      "translation": "Том никогда не забывает ни лиц, ни имён.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_17",
+      "word": "You'll understand someday.",
+      "translation": "Когда-нибудь ты поймёшь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_18",
+      "word": "I have a friend coming over to visit tomorrow.",
+      "translation": "Ко мне завтра приезжает друг погостить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_19",
+      "word": "Tom isn't my friend.",
+      "translation": "Том мне не друг.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_20",
+      "word": "Do you think the weather will be fine tomorrow?",
+      "translation": "По-твоему, погода завтра будет хорошей?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_21",
+      "word": "I think you don't understand what's going on.",
+      "translation": "Думаю, ты не понимаешь, что происходит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_22",
+      "word": "What's your maiden name?",
+      "translation": "Какая у тебя девичья фамилия?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_23",
+      "word": "My friend is bilingual.",
+      "translation": "Мой друг говорит на двух языках.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_24",
+      "word": "Please tell Tom that I'll be a few minutes late.",
+      "translation": "Скажи, пожалуйста, Тому, что я на несколько минут опоздаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_25",
+      "word": "I don't understand you either.",
+      "translation": "Я тебя тоже не понимаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_26",
+      "word": "I cannot understand what you say.",
+      "translation": "Я не понимаю, что ты говоришь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_27",
+      "word": "I'm very sorry for you.",
+      "translation": "Мне Вас очень жаль.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_28",
+      "word": "He has a common name.",
+      "translation": "У него распространенное имя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_29",
+      "word": "The weather has been nice all week.",
+      "translation": "Погода была хорошей всю неделю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_30",
+      "word": "I think Tom didn't understand.",
+      "translation": "Думаю, Том не понял.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_31",
+      "word": "Please visit us at your convenience.",
+      "translation": "Пожалуйста, зайдите к нам, когда вам будет удобно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_32",
+      "word": "The weather is so oppressive.",
+      "translation": "Погода очень гнетущая.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_33",
+      "word": "Your ideas are welcome.",
+      "translation": "Ждём ваших идей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_34",
+      "word": "The most terrible enemy is a former friend.",
+      "translation": "Самый страшный враг — бывший друг.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_35",
+      "word": "What's your name again?",
+      "translation": "Как Вас зовут, ещё раз?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_36",
+      "word": "I'm trying to understand.",
+      "translation": "Я пытаюсь понять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_37",
+      "word": "I forgot my username.",
+      "translation": "Я забыл свой логин.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_38",
+      "word": "I don't understand what you're saying.",
+      "translation": "Я не понимаю, что ты говоришь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_39",
+      "word": "I'm here as a friend.",
+      "translation": "Я здесь как друг.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_40",
+      "word": "No one here knows my real name.",
+      "translation": "Никто здесь не знает моего настоящего имени.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_41",
+      "word": "We can't understand French.",
+      "translation": "Мы не понимаем по-французски.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_42",
+      "word": "I think that boy's name is Tom.",
+      "translation": "По-моему, того мальчика зовут Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_43",
+      "word": "That dog answers to the name Cookie.",
+      "translation": "Эта собака отзывается на кличку Печенька.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_44",
+      "word": "Is Tom your friend?",
+      "translation": "Том твой друг?",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_45",
+      "word": "I know him, but I don't know his name.",
+      "translation": "Я знаю его, но я не знаю его имени.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_46",
+      "word": "Please excuse me for a second.",
+      "translation": "Простите, я отойду на секунду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_47",
+      "word": "Put down your name and address.",
+      "translation": "Запишите ваше имя и адрес.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_48",
+      "word": "I don't want to tell my boyfriend.",
+      "translation": "Я не хочу говорить своему парню.",
+      "language": "en"
+    },
+    {
+      "id": "pb_smalltalkbasics_9_49",
+      "word": "Thank you very much for the useful advice.",
+      "translation": "Большое спасибо за полезный совет.",
+      "language": "en"
+    }
+  ]
+}

@@ -1,0 +1,3007 @@
+{
+  "id": "phrasebook-clothingfashion",
+  "name": "Clothing & Fashion",
+  "description": "Phrasebook for Clothing & Fashion",
+  "entries": [
+    {
+      "id": "pb_clothingfashion_0_0",
+      "word": "I didn't tell Tom that I didn't know how to do that.",
+      "translation": "Я не сказал Тому, что не знаю, как это делается.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_1",
+      "word": "He can't find his hat.",
+      "translation": "Он не может найти свою шляпу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_2",
+      "word": "I really need to do that.",
+      "translation": "Мне действительно нужно это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_3",
+      "word": "I have nothing to add to that.",
+      "translation": "Мне нечего к этому добавить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_4",
+      "word": "I know that Tom can do that.",
+      "translation": "Я знаю, что Том может это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_5",
+      "word": "That isn't how I did that.",
+      "translation": "Я не так это сделал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_6",
+      "word": "What did you mean by that?",
+      "translation": "Что ты имел в виду?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_7",
+      "word": "Everybody has to do that.",
+      "translation": "Всем надо это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_8",
+      "word": "I knew Tom could do that.",
+      "translation": "Я знал, что Том может это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_9",
+      "word": "Tom has finally done that.",
+      "translation": "Том наконец это сделал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_10",
+      "word": "I knew you'd say that.",
+      "translation": "Я знал, что ты так скажешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_11",
+      "word": "Don't forget your jacket.",
+      "translation": "Не забудьте куртку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_12",
+      "word": "Take off your trousers.",
+      "translation": "Снимай штаны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_13",
+      "word": "Even a fool knows that.",
+      "translation": "Это даже дурак знает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_14",
+      "word": "I can't even imagine that.",
+      "translation": "Я этого даже представить себе не могу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_15",
+      "word": "Has Tom already done that?",
+      "translation": "Том это уже сделал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_16",
+      "word": "Did you all hear that?",
+      "translation": "Вы все это слышали?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_17",
+      "word": "Why do you want all that?",
+      "translation": "Зачем тебе всё это?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_18",
+      "word": "Tom is wearing a blue hat.",
+      "translation": "На Томе синяя шапка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_19",
+      "word": "Tom forgot to wear gloves.",
+      "translation": "Том забыл надеть перчатки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_20",
+      "word": "Tom is used to doing that.",
+      "translation": "Том привык это делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_21",
+      "word": "We can't promise that.",
+      "translation": "Мы не можем обещать этого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_22",
+      "word": "Why are they saying that?",
+      "translation": "Почему они это говорят?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_23",
+      "word": "I'm sure Tom knows that.",
+      "translation": "Я уверен, что Том это знает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_24",
+      "word": "You've got to avoid that.",
+      "translation": "Ты должен этого избегать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_25",
+      "word": "How did they manage that?",
+      "translation": "Как им это удалось?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_26",
+      "word": "I allowed Tom to do that.",
+      "translation": "Я позволил Тому это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_27",
+      "word": "Tom enjoyed doing that.",
+      "translation": "Тому понравилось это делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_28",
+      "word": "I can prove Tom did that.",
+      "translation": "Я могу доказать, что Том это сделал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_29",
+      "word": "Tom needs to wear glasses.",
+      "translation": "Тому нужно носить очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_30",
+      "word": "You can't give Tom that.",
+      "translation": "Вы не можете дать это Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_31",
+      "word": "I knew all about that.",
+      "translation": "Я всё об этом знал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_32",
+      "word": "I didn't want any of that.",
+      "translation": "Я не хотел этого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_33",
+      "word": "These shoes belong to Tom.",
+      "translation": "Эта обувь принадлежит Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_34",
+      "word": "I know you can do that.",
+      "translation": "Я знаю, что ты можешь это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_35",
+      "word": "Someone had to do that.",
+      "translation": "Кто-то должен был это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_36",
+      "word": "I didn't like doing that.",
+      "translation": "Мне не понравилось это делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_37",
+      "word": "Did you tell anybody that?",
+      "translation": "Ты об этом кому-нибудь говорил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_38",
+      "word": "Did you really do that?",
+      "translation": "Ты действительно это сделал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_39",
+      "word": "I have a hole in my jeans.",
+      "translation": "У меня дырка в джинсах.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_40",
+      "word": "Opinions can vary on that.",
+      "translation": "Мнения на этот счёт могут разниться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_41",
+      "word": "Tom is hoping we'll do that.",
+      "translation": "Том надеется, что мы это сделаем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_42",
+      "word": "Am I right about that?",
+      "translation": "Я прав насчёт этого?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_43",
+      "word": "I hope you don't do that.",
+      "translation": "Надеюсь, ты этого не сделаешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_44",
+      "word": "I don't intend to do that.",
+      "translation": "Я не намерен это делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_45",
+      "word": "Don't you forget that.",
+      "translation": "И не думай про это забыть!",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_46",
+      "word": "I know who can do that.",
+      "translation": "Я знаю, кто может это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_47",
+      "word": "Tom doesn't have a shirt on.",
+      "translation": "Том без рубашки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_48",
+      "word": "Tom tried to tell Mary that.",
+      "translation": "Том пытался сказать это Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_0_49",
+      "word": "Tom isn't likely to do that.",
+      "translation": "Том вряд ли это сделает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_0",
+      "word": "Wouldn't you want that?",
+      "translation": "Ты разве не хотел бы этого?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_1",
+      "word": "Tom bought a shirt for me.",
+      "translation": "Том купил мне рубашку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_2",
+      "word": "Will you put on this kimono?",
+      "translation": "Вы не наденете это кимоно?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_3",
+      "word": "I got a hole in my jeans.",
+      "translation": "У меня дыра на джинсах.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_4",
+      "word": "It's not my style.",
+      "translation": "Это не в моём стиле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_5",
+      "word": "Take your shoes off.",
+      "translation": "Сними ботинки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_6",
+      "word": "The question is who did that.",
+      "translation": "Вопрос в том, кто это сделал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_7",
+      "word": "You don't want that.",
+      "translation": "Ты не хочешь этого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_8",
+      "word": "Do you know Tom's address?",
+      "translation": "Ты знаешь адрес Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_9",
+      "word": "It'd be difficult to do that.",
+      "translation": "Это было бы сложно сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_10",
+      "word": "Where are your clothes?",
+      "translation": "Где твоя одежда?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_11",
+      "word": "You are mistaken about that.",
+      "translation": "Ты ошибаешься насчёт этого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_12",
+      "word": "Tom didn't tell us about that.",
+      "translation": "Том не говорил нам об этом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_13",
+      "word": "We've got to go do that.",
+      "translation": "Нам надо пойти сделать это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_14",
+      "word": "Tom didn't take off his hat.",
+      "translation": "Том не снял шляпу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_15",
+      "word": "We appreciate that.",
+      "translation": "Мы это ценим.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_16",
+      "word": "Did Tom actually say that?",
+      "translation": "Неужели Том так и сказал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_17",
+      "word": "Where did you find that?",
+      "translation": "Где ты это нашёл?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_18",
+      "word": "I know I should've done that.",
+      "translation": "Я знаю, что мне надо было это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_19",
+      "word": "Don't ever say that.",
+      "translation": "Никогда так не говори.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_20",
+      "word": "I can't think about that.",
+      "translation": "Я не могу об этом думать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_21",
+      "word": "When can you do that?",
+      "translation": "Когда ты сможешь это сделать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_22",
+      "word": "Who threw that?",
+      "translation": "Кто это бросил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_23",
+      "word": "Where did you get those jeans?",
+      "translation": "Где ты достал эти джинсы?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_24",
+      "word": "I know Tom can do that.",
+      "translation": "Я знаю, что Том может это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_25",
+      "word": "Did I just say that?",
+      "translation": "Я это только что сказал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_26",
+      "word": "I'm not signing that.",
+      "translation": "Я этого не подпишу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_27",
+      "word": "Tom's shirt is drying.",
+      "translation": "Рубашка Тома сохнет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_28",
+      "word": "I think Tom would like that.",
+      "translation": "Думаю, Тому бы это понравилось.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_29",
+      "word": "You look nice in that dress.",
+      "translation": "Тебе идёт это платье.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_30",
+      "word": "It would be crazy to do that.",
+      "translation": "Сделать это было бы безумием.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_31",
+      "word": "We've already done that.",
+      "translation": "Это мы уже сделали.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_32",
+      "word": "I've just started doing that.",
+      "translation": "Я только начал это делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_33",
+      "word": "Did you notice that?",
+      "translation": "Ты это заметил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_34",
+      "word": "Do you always do that?",
+      "translation": "Вы всегда это делаете?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_35",
+      "word": "I wore a hat.",
+      "translation": "Я носил шляпу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_36",
+      "word": "Isn't that Tom's hat?",
+      "translation": "Это разве не Тома шляпа?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_37",
+      "word": "I don't accept that.",
+      "translation": "Я на это не согласен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_38",
+      "word": "How do you like my dress?",
+      "translation": "Вам нравится моё платье?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_39",
+      "word": "I hope you remember to do that.",
+      "translation": "Надеюсь, ты не забудешь это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_40",
+      "word": "Did Tom already know that?",
+      "translation": "Том это уже знал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_41",
+      "word": "You can't force me to do that.",
+      "translation": "Ты не можешь заставить меня это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_42",
+      "word": "I really can't do that.",
+      "translation": "Я правда не могу это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_43",
+      "word": "We can do without that.",
+      "translation": "Мы можем обойтись без этого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_44",
+      "word": "Am I not supposed to do that?",
+      "translation": "Я не должен этого делать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_45",
+      "word": "Why don't you try this hat on?",
+      "translation": "Почему бы тебе не померить эту шляпу?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_46",
+      "word": "We're able to do that.",
+      "translation": "Мы в состоянии это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_47",
+      "word": "Tom had on shoes but no socks.",
+      "translation": "Том был в ботинках, но без носков.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_48",
+      "word": "I'd do that.",
+      "translation": "Я бы это сделал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_1_49",
+      "word": "I didn't say you did that.",
+      "translation": "Я не говорил, что ты это сделал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_0",
+      "word": "We need to forget that.",
+      "translation": "Нам нужно это забыть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_1",
+      "word": "He does not wear a hat.",
+      "translation": "Он не носит шапку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_2",
+      "word": "Do you have an address?",
+      "translation": "У тебя есть адрес?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_3",
+      "word": "I plan on doing that.",
+      "translation": "Я планирую это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_4",
+      "word": "Don't force us to do that.",
+      "translation": "Не заставляй нас это делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_5",
+      "word": "I'm not obligated to do that.",
+      "translation": "Я не обязан это делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_6",
+      "word": "We're looking forward to that.",
+      "translation": "Мы с нетерпением этого ждём.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_7",
+      "word": "Tom never saw Mary after that.",
+      "translation": "После того Том никогда не видел Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_8",
+      "word": "Don't talk about that.",
+      "translation": "Не говори об этом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_9",
+      "word": "Why did Tom decide to do that?",
+      "translation": "Почему Том решил это сделать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_10",
+      "word": "Tom doesn't need to know that.",
+      "translation": "Тому не нужно это знать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_11",
+      "word": "Why does Tom always do that?",
+      "translation": "Почему Том всегда это делает?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_12",
+      "word": "Everybody was doing that.",
+      "translation": "Это делали все.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_13",
+      "word": "Why did you decide to do that?",
+      "translation": "Почему ты решил это сделать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_14",
+      "word": "We needed all that.",
+      "translation": "Нам всё это было нужно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_15",
+      "word": "Mary is wearing a red skirt.",
+      "translation": "Мэри в красной юбке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_16",
+      "word": "You shouldn't tell Tom that.",
+      "translation": "Вам не следует говорить об этом Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_17",
+      "word": "It's not too hard to do that.",
+      "translation": "Это не так трудно сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_18",
+      "word": "Tom put on his raincoat.",
+      "translation": "Том надел плащ.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_19",
+      "word": "I'm absolutely sure of that.",
+      "translation": "Я в этом абсолютно уверен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_20",
+      "word": "I'm aware of all that.",
+      "translation": "Я всё это осознаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_21",
+      "word": "That isn't why Tom did that.",
+      "translation": "Том не поэтому это сделал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_22",
+      "word": "Tom didn't have a hat on.",
+      "translation": "Том был без шляпы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_23",
+      "word": "I have no quarrel with that.",
+      "translation": "Я не спорю с этим.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_24",
+      "word": "Do you have their address?",
+      "translation": "У тебя есть их адрес?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_25",
+      "word": "Tom and I did that.",
+      "translation": "Мы с Томом сделали это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_26",
+      "word": "We can't guarantee that.",
+      "translation": "Мы не можем этого гарантировать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_27",
+      "word": "A man like me needs a hat.",
+      "translation": "Такому человеку, как я, нужна шляпа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_28",
+      "word": "Don't say it like that.",
+      "translation": "Не говори это вот так.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_29",
+      "word": "I'm not 100% sure about that.",
+      "translation": "Я на сто процентов в этом не уверен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_30",
+      "word": "Tom needs a new pair of shoes.",
+      "translation": "Тому нужна новая пара обуви.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_31",
+      "word": "I'm secretly hoping for that.",
+      "translation": "Я втайне на это надеюсь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_32",
+      "word": "Why did she do that?",
+      "translation": "Зачем она это сделала?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_33",
+      "word": "Why do you ask that?",
+      "translation": "Почему ты об этом спрашиваешь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_34",
+      "word": "And why would I do that?",
+      "translation": "И с чего бы мне это делать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_35",
+      "word": "I should know that.",
+      "translation": "Мне надо это знать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_36",
+      "word": "I shouldn't have eaten that.",
+      "translation": "Мне не стоило это есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_37",
+      "word": "I didn't tell you to do that.",
+      "translation": "Я не говорил тебе это делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_38",
+      "word": "I anticipated that.",
+      "translation": "Я это предвидел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_39",
+      "word": "Why did I do that?",
+      "translation": "Зачем я это сделал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_40",
+      "word": "Tom is too young to do that.",
+      "translation": "Том для этого слишком молод.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_41",
+      "word": "You can't believe that.",
+      "translation": "Ты не можешь в это поверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_42",
+      "word": "Tom has been told not do that.",
+      "translation": "Тому сказали не делать этого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_43",
+      "word": "Tom is a bit old for that.",
+      "translation": "Том для этого староват.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_44",
+      "word": "Why's Tom like that?",
+      "translation": "Почему Том такой?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_45",
+      "word": "You forgot to put on your tie.",
+      "translation": "Ты забыл галстук надеть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_46",
+      "word": "Take off your tinfoil hat.",
+      "translation": "Сними шапочку из фольги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_47",
+      "word": "Let me know your new address.",
+      "translation": "Сообщи мне свой новый адрес.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_48",
+      "word": "Did you iron my shirt?",
+      "translation": "Ты погладила мою рубашку?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_2_49",
+      "word": "There's a problem with that.",
+      "translation": "С этим есть проблема.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_0",
+      "word": "Who wouldn't like that?",
+      "translation": "Кому бы это не понравилось?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_1",
+      "word": "Mary put on her new necklace.",
+      "translation": "Мэри надела своё новое ожерелье.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_2",
+      "word": "Why don't you want to do that?",
+      "translation": "Почему ты не хочешь этого сделать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_3",
+      "word": "It's not Tom's style at all.",
+      "translation": "Это совсем не в духе Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_4",
+      "word": "Would Tom do that?",
+      "translation": "Том бы это сделал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_5",
+      "word": "They forced us to do that.",
+      "translation": "Они заставили нас это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_6",
+      "word": "Choose any dress you like.",
+      "translation": "Выбери какое хочешь платье.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_7",
+      "word": "Any child can do that.",
+      "translation": "Любой ребенок может это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_8",
+      "word": "I like your T-shirt.",
+      "translation": "Мне нравится твоя футболка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_9",
+      "word": "Can you repeat that?",
+      "translation": "Ты можешь это повторить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_10",
+      "word": "He went back to get his hat.",
+      "translation": "Он вернулся, чтобы забрать свою шляпу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_11",
+      "word": "Why did you start doing that?",
+      "translation": "Почему ты начал этим заниматься?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_12",
+      "word": "You can't wear that.",
+      "translation": "Ты не можешь это носить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_13",
+      "word": "What a funny hat!",
+      "translation": "Какая смешная шляпа!",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_14",
+      "word": "I didn't know about that.",
+      "translation": "Я об этом не знал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_15",
+      "word": "Fashion is not my specialty.",
+      "translation": "Мода - не моя специальность.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_16",
+      "word": "Most of us know that.",
+      "translation": "Большинство из нас это знает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_17",
+      "word": "Mary is wearing a silk dress.",
+      "translation": "Мэри в шёлковом платье.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_18",
+      "word": "I picked out the gray hat.",
+      "translation": "Я выбрал серую шляпу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_19",
+      "word": "Wow, you're good at that.",
+      "translation": "Ух ты, у тебя отлично получается.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_20",
+      "word": "Tom needs clothes.",
+      "translation": "Тому нужна одежда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_21",
+      "word": "What a lovely dress!",
+      "translation": "Какое восхитительное платье!",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_22",
+      "word": "Why is Tom afraid to do that?",
+      "translation": "Почему Том боится это делать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_23",
+      "word": "Don't speak to Tom like that.",
+      "translation": "Не разговаривай так с Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_24",
+      "word": "Do you remember saying that?",
+      "translation": "Ты помнишь, как ты это говорил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_25",
+      "word": "Didn't I mention that?",
+      "translation": "Я разве об этом не упоминал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_26",
+      "word": "Tom never would've said that.",
+      "translation": "Том никогда бы такого не сказал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_27",
+      "word": "Tom bought a coat.",
+      "translation": "Том купил пальто.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_28",
+      "word": "Tom saw Mary doing that.",
+      "translation": "Том видел, как Мэри это делает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_29",
+      "word": "Will you allow Tom to do that?",
+      "translation": "Вы позволите Тому сделать это?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_30",
+      "word": "It's much more complicated than that.",
+      "translation": "Всё намного сложнее.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_31",
+      "word": "I'm the one who helped Tom do that.",
+      "translation": "Это я помог Тому это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_32",
+      "word": "I didn't know Tom could do that.",
+      "translation": "Я не знал, что Том умеет это делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_33",
+      "word": "Tom says he's not ready to do that.",
+      "translation": "Том говорит, что не готов это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_34",
+      "word": "I really hope no one saw that.",
+      "translation": "Я очень надеюсь, что никто этого не видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_35",
+      "word": "Some people don't like that.",
+      "translation": "Некоторым это не нравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_36",
+      "word": "Tom started taking his clothes off.",
+      "translation": "Том начал раздеваться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_37",
+      "word": "I hope Tom agreed to do that.",
+      "translation": "Надеюсь, Том согласился это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_38",
+      "word": "Tom isn't ready for that.",
+      "translation": "Том к этому не готов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_39",
+      "word": "She loves the color of her T-shirt.",
+      "translation": "Ей нравится цвет её футболки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_40",
+      "word": "Tom forgot to mention that.",
+      "translation": "Том забыл об этом упомянуть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_41",
+      "word": "Sometimes I worry a lot about that.",
+      "translation": "Иногда меня это очень беспокоит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_42",
+      "word": "Are you sure Tom wants to do that?",
+      "translation": "Ты уверен, что Том хочет это сделать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_43",
+      "word": "Tom told me you'd say that.",
+      "translation": "Том говорил мне, что ты это скажешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_44",
+      "word": "Tom should ask Mary to do that.",
+      "translation": "Тому надо попросить об этом Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_45",
+      "word": "You deserved that.",
+      "translation": "Ты это заслужил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_46",
+      "word": "Tom strongly advised me to do that.",
+      "translation": "Том настоятельно советовал мне это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_47",
+      "word": "What's the point of doing that?",
+      "translation": "Какой смысл это делать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_48",
+      "word": "Tom believes Mary can do that.",
+      "translation": "Том считает, что Мэри может это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_3_49",
+      "word": "\"Why did Tom do that?\" \"Do what?\"",
+      "translation": "\"Зачем Том это сделал?\" - \"Что сделал?\".",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_0",
+      "word": "She was pleased with her new dress.",
+      "translation": "Она была довольна новым платьем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_1",
+      "word": "Tom's shoes are too big for him.",
+      "translation": "Тому велики ботинки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_2",
+      "word": "Tom usually wears black clothes.",
+      "translation": "Том обычно ходит в чёрном.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_3",
+      "word": "Everyone thinks Tom did that.",
+      "translation": "Все думают, что это сделал Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_4",
+      "word": "Tom said he's not going to do that.",
+      "translation": "Том сказал, что не будет этого делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_5",
+      "word": "I didn't know you wanted to do that.",
+      "translation": "Я не знал, что ты хочешь это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_6",
+      "word": "Of course, I'll fix that.",
+      "translation": "Конечно, я это исправлю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_7",
+      "word": "I forgot about that.",
+      "translation": "Я забыл об этом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_8",
+      "word": "Only Tom knows that.",
+      "translation": "Это только Том знает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_9",
+      "word": "I didn't know any of that.",
+      "translation": "Я ничего этого не знал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_10",
+      "word": "I'd like to put on some clothes.",
+      "translation": "Я хотел бы чего-нибудь надеть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_11",
+      "word": "You're absolutely right about that.",
+      "translation": "Ты совершенно в этом прав.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_12",
+      "word": "Tom isn't interested in fashion.",
+      "translation": "Тома не интересует мода.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_13",
+      "word": "I put on my shoes at once.",
+      "translation": "Я сразу же обулся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_14",
+      "word": "Tom knew I was going to do that.",
+      "translation": "Том знал, что я собираюсь это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_15",
+      "word": "I didn't say I would do that.",
+      "translation": "Я не говорил, что сделаю это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_16",
+      "word": "I can't believe that.",
+      "translation": "Я не могу в это поверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_17",
+      "word": "We have to find out how to do that.",
+      "translation": "Нам надо выяснить, как это делается.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_18",
+      "word": "Would it OK with you if I did that?",
+      "translation": "Ты не против, если я это сделаю?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_19",
+      "word": "Did you know that you could do that?",
+      "translation": "Ты знал, что можешь это сделать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_20",
+      "word": "Tom will never allow me to do that.",
+      "translation": "Том никогда не позволит мне это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_21",
+      "word": "He kept his hat on.",
+      "translation": "Он не снял шляпу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_22",
+      "word": "Perhaps I shouldn't have done that.",
+      "translation": "Наверное, мне не надо было этого делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_23",
+      "word": "I've already been asked to do that.",
+      "translation": "Меня уже просили об этом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_24",
+      "word": "Tom removed his socks.",
+      "translation": "Том снял носки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_25",
+      "word": "I'm all for that.",
+      "translation": "Я только за.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_26",
+      "word": "You can't make a living doing that.",
+      "translation": "Этим на жизнь не заработаешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_27",
+      "word": "Tom often does things like that.",
+      "translation": "Том часто делает такие вещи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_28",
+      "word": "I wondered how Tom did that.",
+      "translation": "Мне было интересно, как Том это делает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_29",
+      "word": "I can vouch for that.",
+      "translation": "Я могу за это поручиться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_30",
+      "word": "I wonder why Tom agreed to do that.",
+      "translation": "Интересно, почему Том согласился это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_31",
+      "word": "Would you sew a button on my shirt?",
+      "translation": "Ты бы не мог пришить пуговицу к моей рубашке?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_32",
+      "word": "That's how I'd do that.",
+      "translation": "Вот как я бы это сделал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_33",
+      "word": "We know that Tom didn't do that.",
+      "translation": "Мы знаем, что Том этого не делал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_34",
+      "word": "Tom says that he's never done that.",
+      "translation": "Том говорит, что никогда этого не делал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_35",
+      "word": "I don't know why Tom did that.",
+      "translation": "Я не знаю, почему Том это сделал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_36",
+      "word": "Do you want that?",
+      "translation": "Хочешь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_37",
+      "word": "What's the point in doing that?",
+      "translation": "Какой смысл делать это?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_38",
+      "word": "How do you know Tom did that?",
+      "translation": "Откуда ты знаешь, что Том это сделал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_39",
+      "word": "Nobody wants that.",
+      "translation": "Никто этого не хочет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_40",
+      "word": "I know you wouldn't do that.",
+      "translation": "Я знаю, что ты бы этого не сделал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_41",
+      "word": "I made a mess of that.",
+      "translation": "Я всё испортил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_42",
+      "word": "Everyone knew that.",
+      "translation": "Все это знали.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_43",
+      "word": "I don't have your address.",
+      "translation": "У меня нет твоего адреса.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_44",
+      "word": "I've never had a permanent address.",
+      "translation": "У меня никогда не было постоянного адреса.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_45",
+      "word": "Tom was wearing baggy tan pants.",
+      "translation": "Том носил мешковатые бежевые штаны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_46",
+      "word": "Tom told me Mary would do that.",
+      "translation": "Том сказал мне, что Мэри это сделает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_47",
+      "word": "Why did you tell Tom about that?",
+      "translation": "Зачем ты сказал об этом Тому?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_48",
+      "word": "Tom's clothes smell like smoke.",
+      "translation": "Одежда Тома пахнет дымом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_4_49",
+      "word": "He wore red pants.",
+      "translation": "Он носил красные штаны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_0",
+      "word": "Tom told me that he never did that.",
+      "translation": "Том сказал мне, что никогда так не делает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_1",
+      "word": "I can't remember how to do that.",
+      "translation": "Я не могу вспомнить, как это делается.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_2",
+      "word": "Will you permit Tom to do that?",
+      "translation": "Ты позволишь Тому это сделать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_3",
+      "word": "I was enjoying that.",
+      "translation": "Я наслаждался этим.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_4",
+      "word": "Tom should at least wear a tie.",
+      "translation": "Тому надо бы хотя бы галстук надеть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_5",
+      "word": "I told you Tom wouldn't do that.",
+      "translation": "Я говорил тебе, что Том не будет этого делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_6",
+      "word": "This coat does not fit me any more.",
+      "translation": "Это пальто больше мне не по размеру.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_7",
+      "word": "I don't remember how to do that.",
+      "translation": "Я не помню, как это делается.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_8",
+      "word": "I hope you're prepared for that.",
+      "translation": "Я надеюсь, ты готов к этому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_9",
+      "word": "Didn't I warn you not to do that?",
+      "translation": "Разве я тебя не предупреждал, чтобы ты этого не делал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_10",
+      "word": "Mary is wearing a blue dress.",
+      "translation": "Мэри в синем платье.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_11",
+      "word": "I can't believe no one heard that.",
+      "translation": "Не могу поверить, что никто этого не слышал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_12",
+      "word": "I've decided not to do that.",
+      "translation": "Я решил этого не делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_13",
+      "word": "Tom will never agree to that.",
+      "translation": "Том никогда не согласится на это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_14",
+      "word": "Only you and you alone can do that.",
+      "translation": "Ты и только ты можешь это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_15",
+      "word": "I knew Tom had to do that.",
+      "translation": "Я знал, что Тому надо это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_16",
+      "word": "I don't have any clothes on.",
+      "translation": "На мне нет одежды.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_17",
+      "word": "I hope Tom and Mary do that.",
+      "translation": "Надеюсь, Том и Мэри это сделают.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_18",
+      "word": "I don't think I would do that.",
+      "translation": "Не думаю, что я бы так поступил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_19",
+      "word": "Did Tom say he was going to do that?",
+      "translation": "Том сказал, что собирается сделать это?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_20",
+      "word": "Tom isn't going to have to do that.",
+      "translation": "Тому не придётся это делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_21",
+      "word": "Tom didn't get paid for doing that.",
+      "translation": "Тому за это не заплатили.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_22",
+      "word": "You're not the first one to say that.",
+      "translation": "Ты не первый, кто так говорит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_23",
+      "word": "Pick up your clothes.",
+      "translation": "Собери свою одежду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_24",
+      "word": "The dress suits you very well.",
+      "translation": "Это платье тебе очень идёт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_25",
+      "word": "We're not going to let Tom do that.",
+      "translation": "Мы не собираемся позволять это Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_26",
+      "word": "That red dress suited her.",
+      "translation": "То красное платье ей подошло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_27",
+      "word": "Tom has already stopped doing that.",
+      "translation": "Том уже перестал это делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_28",
+      "word": "Who taught you that?",
+      "translation": "Кто тебя этому научил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_29",
+      "word": "Tom isn't going to want to do that.",
+      "translation": "Том не захочет это делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_30",
+      "word": "Tom's wearing a new coat.",
+      "translation": "Том в новом пальто.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_31",
+      "word": "When could you do that?",
+      "translation": "Когда ты мог бы это сделать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_32",
+      "word": "How old were you when you did that?",
+      "translation": "Сколько вам было лет, когда вы это сделали?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_33",
+      "word": "Tom knows Mary did that.",
+      "translation": "Том знает, что Мэри сделала это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_34",
+      "word": "I can't remember ever doing that.",
+      "translation": "Не помню, чтобы я это когда-либо делал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_35",
+      "word": "Tom and I know why Mary did that.",
+      "translation": "Мы с Томом знаем, почему Мэри это сделала.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_36",
+      "word": "Tom knows Mary will do that.",
+      "translation": "Том знает, что Мэри это сделает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_37",
+      "word": "We're asking you not to do that.",
+      "translation": "Мы просим тебя не делать этого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_38",
+      "word": "I'm smart enough not to do that.",
+      "translation": "Я достаточно умён, чтобы этого не делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_39",
+      "word": "I've already asked Tom about that.",
+      "translation": "Я уже спрашивал об этом Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_40",
+      "word": "I know I was mistaken about that.",
+      "translation": "Я знаю, что ошибался насчёт этого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_41",
+      "word": "It'll be necessary to do that.",
+      "translation": "Необходимо будет это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_42",
+      "word": "I'll speak to Tom about that.",
+      "translation": "Я поговорю об этом с Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_43",
+      "word": "Have you thought of that?",
+      "translation": "Вы подумали об этом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_44",
+      "word": "Tom and I often do that.",
+      "translation": "Мы с Томом часто это делаем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_45",
+      "word": "Tom would likely agree to do that.",
+      "translation": "Том, скорее всего, согласился бы это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_46",
+      "word": "I'm not like that.",
+      "translation": "Я не такой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_47",
+      "word": "Why are you so interested in that?",
+      "translation": "Почему это тебя так интересует?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_48",
+      "word": "Tom has never asked me to do that.",
+      "translation": "Том никогда не просил меня это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_5_49",
+      "word": "Tom says that Mary will do that.",
+      "translation": "Том говорит, что Мэри это сделает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_0",
+      "word": "Don't you want that?",
+      "translation": "Тебе этого не хочется?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_1",
+      "word": "I know Tom has tried to do that.",
+      "translation": "Я знаю, что Том пытался это делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_2",
+      "word": "Neither Tom nor Mary can do that.",
+      "translation": "Ни Том, ни Мэри не могут этого сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_3",
+      "word": "Tom didn't seem to know who did that.",
+      "translation": "Том, похоже, не знал, кто это сделал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_4",
+      "word": "It won't be difficult to do that.",
+      "translation": "Сделать это будет несложно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_5",
+      "word": "I've already started doing that.",
+      "translation": "Я уже начал это делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_6",
+      "word": "I've asked you repeatedly to do that.",
+      "translation": "Я тебя неоднократно об этом просил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_7",
+      "word": "Tom didn't know how to react to that.",
+      "translation": "Том не знал, как на это реагировать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_8",
+      "word": "\"Why did Tom do that?\" \"Beats me.\"",
+      "translation": "\"Зачем Том это сделал?\" - \"Понятия не имею\".",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_9",
+      "word": "Tom and Mary will do that.",
+      "translation": "Том и Мэри это сделают.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_10",
+      "word": "Tell Tom why you did that.",
+      "translation": "Скажи Тому, почему ты это сделал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_11",
+      "word": "Tom is convinced he ought to do that.",
+      "translation": "Том убеждён, что он должен это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_12",
+      "word": "Where did you hear that?",
+      "translation": "Где ты это услышал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_13",
+      "word": "I have no choice but to do that.",
+      "translation": "У меня нет выбора, кроме как сделать это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_14",
+      "word": "Tom won't allow anybody to do that.",
+      "translation": "Том никому не позволит этого делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_15",
+      "word": "Put on your good shoes.",
+      "translation": "Надень свои нарядные ботинки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_16",
+      "word": "Most of all, I hate wearing socks.",
+      "translation": "Больше всего я ненавижу носить носки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_17",
+      "word": "Tom is going to be doing that.",
+      "translation": "Том собирается этим заниматься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_18",
+      "word": "I've got good reasons to do that.",
+      "translation": "У меня есть веские причины сделать это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_19",
+      "word": "I've already finished doing that.",
+      "translation": "Я с этим уже закончил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_20",
+      "word": "Do I look beautiful in this dress?",
+      "translation": "Я красиво выгляжу в этом платье?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_21",
+      "word": "I'm lucky that nobody saw me do that.",
+      "translation": "Мне повезло, что никто не видел, как я это делаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_22",
+      "word": "When do you expect us to do that?",
+      "translation": "Когда вы ждали, что мы это сделаем?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_23",
+      "word": "There's a loose button on your shirt.",
+      "translation": "У вас на рубашке пуговица болтается.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_24",
+      "word": "Tell Tom we can't do that.",
+      "translation": "Скажи Тому, что мы не можем этого сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_25",
+      "word": "We don't need to worry about that.",
+      "translation": "Нам не нужно об этом беспокоиться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_26",
+      "word": "I'm 100% sure of that.",
+      "translation": "Я на сто процентов в этом уверен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_27",
+      "word": "Put this coat on a hanger.",
+      "translation": "Повесь это пальто на вешалку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_28",
+      "word": "I hope you agree to do that.",
+      "translation": "Надеюсь, ты согласишься это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_29",
+      "word": "Tom would never do that.",
+      "translation": "Том никогда бы такого не сделал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_30",
+      "word": "Tom paid Mary to do that.",
+      "translation": "Том заплатил Мэри, чтобы она это сделала.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_31",
+      "word": "Who told you to do that?",
+      "translation": "Кто сказал тебе это сделать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_32",
+      "word": "We've been asked not to do that.",
+      "translation": "Нас попросили не делать этого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_33",
+      "word": "Maybe there's no need to do that.",
+      "translation": "Может быть, не нужно этого делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_34",
+      "word": "We could sell that.",
+      "translation": "Мы могли бы это продать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_35",
+      "word": "I can't imagine that.",
+      "translation": "Я не могу это вообразить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_36",
+      "word": "Didn't Tom do that?",
+      "translation": "Том этого не сделал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_37",
+      "word": "Tom was suddenly put on the spot.",
+      "translation": "Тома внезапно поставили в затруднительное положение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_38",
+      "word": "Is that a silk dress?",
+      "translation": "Это шёлковое платье?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_39",
+      "word": "I ripped my pants.",
+      "translation": "Я порвал штаны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_40",
+      "word": "Tom was wearing a black knit hat.",
+      "translation": "На Томе была чёрная вязаная шапочка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_41",
+      "word": "I had nothing to do with that.",
+      "translation": "Я к этому не имел никакого отношения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_42",
+      "word": "We were the ones who did that.",
+      "translation": "Это сделали мы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_43",
+      "word": "Can you tell me a bit more about that?",
+      "translation": "Можешь рассказать мне об этом поподробнее?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_44",
+      "word": "Tom is wearing a brown coat.",
+      "translation": "Том в коричневом пальто.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_45",
+      "word": "Tom apologized for that.",
+      "translation": "Том за это извинился.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_46",
+      "word": "Do you like that?",
+      "translation": "Вам это нравится?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_47",
+      "word": "Didn't I just tell you not to do that?",
+      "translation": "Я тебе разве не говорил не делать этого?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_48",
+      "word": "These shoes fit perfectly.",
+      "translation": "Эти туфли подходят идеально.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_6_49",
+      "word": "I didn't know you could do that.",
+      "translation": "Я не знал, что ты можешь это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_0",
+      "word": "Tom doesn't like doing that.",
+      "translation": "Тому не нравится это делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_1",
+      "word": "Tom will be arrested if he does that.",
+      "translation": "Тома арестуют, если он это сделает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_2",
+      "word": "I know that you did that.",
+      "translation": "Я знаю, что ты это сделал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_3",
+      "word": "Are you sure you did that?",
+      "translation": "Ты точно это сделал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_4",
+      "word": "Tom tried the shoes on.",
+      "translation": "Том померил ботинки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_5",
+      "word": "I was the one who had to do that.",
+      "translation": "Делать это пришлось мне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_6",
+      "word": "The brown hat is old.",
+      "translation": "Коричневая шляпа старая.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_7",
+      "word": "Tom already knew that.",
+      "translation": "Том уже знал это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_8",
+      "word": "Tom told me you wouldn't do that.",
+      "translation": "Том сказал мне, что ты этого не сделаешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_9",
+      "word": "Do you want me to try doing that?",
+      "translation": "Хочешь, чтобы я попробовал это сделать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_10",
+      "word": "I don't want anyone to see that.",
+      "translation": "Я не хочу, чтобы это кто-то видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_11",
+      "word": "Nobody else knows how to do that.",
+      "translation": "Больше никто не знает, как это делается.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_12",
+      "word": "Tom really does want to do that.",
+      "translation": "Том действительно очень хочет это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_13",
+      "word": "Nowadays, everybody does that.",
+      "translation": "В наше время все так делают.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_14",
+      "word": "Why do you always wear that hat?",
+      "translation": "Почему на тебе всё время эта шляпа?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_15",
+      "word": "She was wearing an ugly dress.",
+      "translation": "Она носила безобразное платье.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_16",
+      "word": "You always tell me that.",
+      "translation": "Ты всё время мне это говоришь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_17",
+      "word": "Can you tell me how you did that?",
+      "translation": "Ты можешь сказать мне, как ты это сделал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_18",
+      "word": "This shirt needs to be ironed.",
+      "translation": "Эту рубашку надо погладить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_19",
+      "word": "Let's not ask Tom to do that.",
+      "translation": "Давай не будем просить об этом Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_20",
+      "word": "Why can't you just accept that?",
+      "translation": "Почему ты не можешь это просто принять?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_21",
+      "word": "Do many people still wear watches?",
+      "translation": "Много ли людей до сих пор носит часы?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_22",
+      "word": "Are you sure that you want to do that?",
+      "translation": "Ты уверен, что хочешь это сделать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_23",
+      "word": "It's good that Tom did that.",
+      "translation": "Хорошо, что Том это сделал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_24",
+      "word": "Tom says he can do that.",
+      "translation": "Том говорит, что может это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_25",
+      "word": "Do you know that?",
+      "translation": "Ты это знаешь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_26",
+      "word": "Do you need a coat?",
+      "translation": "Вам нужно пальто?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_27",
+      "word": "Theoretically, Tom could do that.",
+      "translation": "Теоретически Том мог это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_28",
+      "word": "There's no point doing that.",
+      "translation": "Это делать бесполезно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_29",
+      "word": "Where did Tom hear that?",
+      "translation": "Где Том это слышал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_30",
+      "word": "How often do you wear a hat?",
+      "translation": "Как часто ты носишь шляпу?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_31",
+      "word": "Did Tom actually tell you that?",
+      "translation": "Том действительно тебе это сказал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_32",
+      "word": "Tom has promised to do that.",
+      "translation": "Том обещал это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_33",
+      "word": "You could do that.",
+      "translation": "Ты мог бы это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_34",
+      "word": "Tom put on his backpack.",
+      "translation": "Том надел рюкзак.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_35",
+      "word": "My friends and I want to do that.",
+      "translation": "Мы с подругами хотим это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_36",
+      "word": "I need Tom's address.",
+      "translation": "Мне нужен адрес Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_37",
+      "word": "I need three pairs of black socks.",
+      "translation": "Мне нужно три пары чёрных носков.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_38",
+      "word": "Actually, I didn't know that.",
+      "translation": "Вообще-то, я этого не знал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_39",
+      "word": "Don't you want to know why I did that?",
+      "translation": "Разве ты не хочешь знать, почему я это сделала?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_40",
+      "word": "You don't need to explain that.",
+      "translation": "Можешь не объяснять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_41",
+      "word": "Who doesn't like that?",
+      "translation": "Кому это не нравится?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_42",
+      "word": "I would've definitely noticed that.",
+      "translation": "Я бы точно заметил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_43",
+      "word": "How do you propose doing that?",
+      "translation": "Как вы предлагаете сделать это?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_44",
+      "word": "I'll see what can be done about that.",
+      "translation": "Я посмотрю, что можно с этим сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_45",
+      "word": "A lot of people do that.",
+      "translation": "Многие люди делают это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_46",
+      "word": "Don't look at that.",
+      "translation": "Не смотри на это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_47",
+      "word": "I can't do anything about that.",
+      "translation": "Я ничего не могу сделать относительно этого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_48",
+      "word": "Don't force me to do that.",
+      "translation": "Не заставляйте меня это делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_7_49",
+      "word": "Did you tell Tom to do that?",
+      "translation": "Ты сказал Тому сделать это?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_0",
+      "word": "I'm afraid I can't talk about that.",
+      "translation": "Боюсь, я не могу об этом говорить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_1",
+      "word": "Could you send it to this address?",
+      "translation": "Не могли бы вы отправить его по этому адресу?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_2",
+      "word": "Tom bought a dress for Mary.",
+      "translation": "Том купил Мэри платье.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_3",
+      "word": "Will you ever do that?",
+      "translation": "Ты когда-нибудь это сделаешь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_4",
+      "word": "This shirt is a little bit loose.",
+      "translation": "Рубашка чуть великовата.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_5",
+      "word": "Very little is known about that.",
+      "translation": "Об этом очень мало известно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_6",
+      "word": "I usually wear dark clothes.",
+      "translation": "Я обычно ношу тёмную одежду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_7",
+      "word": "Tom doesn't have a problem with that.",
+      "translation": "У Тома нет с этим проблем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_8",
+      "word": "No one else knows how to do that.",
+      "translation": "Больше никто не знает, как это делается.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_9",
+      "word": "Tom never spoke about that.",
+      "translation": "Том никогда не говорил об этом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_10",
+      "word": "Why aren't you wearing shoes?",
+      "translation": "Ты почему без обуви?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_11",
+      "word": "Your clothes are out of fashion.",
+      "translation": "Твоя одежда вышла из моды.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_12",
+      "word": "Tom had to do that.",
+      "translation": "Тому пришлось это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_13",
+      "word": "Don't believe that.",
+      "translation": "Не верь этому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_14",
+      "word": "Do you know their address?",
+      "translation": "Вы знаете их адрес?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_15",
+      "word": "I'm one hundred percent sure of that.",
+      "translation": "Я на сто процентов в этом уверен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_16",
+      "word": "Put on the hat.",
+      "translation": "Надень шляпу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_17",
+      "word": "I didn't ask Tom to do that.",
+      "translation": "Я не просил Тома это делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_18",
+      "word": "Let's try to do that.",
+      "translation": "Давай попробуем это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_19",
+      "word": "Tom probably doesn't want to do that.",
+      "translation": "Том, наверное, не хочет этим заниматься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_20",
+      "word": "No one knows anything about that.",
+      "translation": "Об этом никто ничего не знает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_21",
+      "word": "Tom's hat was blown off his head.",
+      "translation": "У Тома с головы слетела шляпа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_22",
+      "word": "Long skirts are out of fashion now.",
+      "translation": "Длинные юбки сейчас не в моде.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_23",
+      "word": "How could I've forgotten that?",
+      "translation": "Как я мог это забыть?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_24",
+      "word": "We didn't know anything about that.",
+      "translation": "Мы ничего об этом не знали.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_25",
+      "word": "I've already ironed my dress.",
+      "translation": "Я уже погладила своё платье.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_26",
+      "word": "I can live with that.",
+      "translation": "Я могу с этим жить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_27",
+      "word": "This isn't about that.",
+      "translation": "Речь не об этом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_28",
+      "word": "Who gave you a nickname like that?",
+      "translation": "Кто дал тебе такое прозвище?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_29",
+      "word": "Tom wants to show you how to do that.",
+      "translation": "Том хочет показать тебе, как это делается.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_30",
+      "word": "Tom can take care of that.",
+      "translation": "Том может позаботиться об этом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_31",
+      "word": "I know I shouldn't have said that.",
+      "translation": "Я знаю, что не должен был этого говорить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_32",
+      "word": "Someone told me that.",
+      "translation": "Кто-то мне это сказал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_33",
+      "word": "I'm not going to let anyone do that.",
+      "translation": "Я никому не позволю это делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_34",
+      "word": "Mary's wedding dress was beautiful.",
+      "translation": "У Мэри было красивое свадебное платье.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_35",
+      "word": "Tom told us not to do that.",
+      "translation": "Том сказал нам не делать этого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_36",
+      "word": "I know you expected us to do that.",
+      "translation": "Я знаю, что ты ждал, что мы это сделаем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_37",
+      "word": "Tom looked mad when Mary said that.",
+      "translation": "У Тома был сердитый вид, когда Мэри это сказала.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_38",
+      "word": "That's not why I did that.",
+      "translation": "Я не поэтому это сделал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_39",
+      "word": "We're proud of that.",
+      "translation": "Мы этим гордимся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_40",
+      "word": "Tom said that he'd also do that.",
+      "translation": "Том сказал, что он тоже это сделает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_41",
+      "word": "Put on your shoes.",
+      "translation": "Наденьте туфли.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_42",
+      "word": "I've never thought of doing that.",
+      "translation": "Я никогда не думал о том, чтобы это делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_43",
+      "word": "Has anyone asked Tom why he did that?",
+      "translation": "Кто-нибудь спрашивал у Тома, зачем он это сделал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_44",
+      "word": "I knew you'd have to do that.",
+      "translation": "Я знал, что тебе придётся это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_45",
+      "word": "Be careful with that.",
+      "translation": "Будь осторожен с этим.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_46",
+      "word": "I'm the one who asked Tom to do that.",
+      "translation": "Это я попросил Тома это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_47",
+      "word": "Is Tom really going to do that?",
+      "translation": "Том действительно собирается это сделать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_48",
+      "word": "Tom isn't used to wearing shoes.",
+      "translation": "Том не привык ходить обутым.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_8_49",
+      "word": "Tom can't find his hat.",
+      "translation": "Том не может найти свою шляпу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_0",
+      "word": "How exactly did you do that?",
+      "translation": "Как именно ты это сделал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_1",
+      "word": "Tom is too young for that.",
+      "translation": "Том слишком молод для этого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_2",
+      "word": "Why is this town called that?",
+      "translation": "Почему этот город так называется?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_3",
+      "word": "Wet clothes cling to the body.",
+      "translation": "Мокрая одежда прилипает к телу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_4",
+      "word": "Mary looks good in a black dress.",
+      "translation": "Мэри хорошо выглядит в чёрном платье.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_5",
+      "word": "I think Tom likes to do that.",
+      "translation": "Я думаю, Тому нравится это занятие.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_6",
+      "word": "I'm the one who suggested doing that.",
+      "translation": "Это я предложил это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_7",
+      "word": "Tom only wears brand-name clothes.",
+      "translation": "Том носит только брендовую одежду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_8",
+      "word": "We don't want to do that.",
+      "translation": "Мы не хотим этого делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_9",
+      "word": "You can wear anything you want.",
+      "translation": "Можешь носить что хочешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_10",
+      "word": "Is this the hat you bought in Boston?",
+      "translation": "Это та шляпа, которую ты купил в Бостоне?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_11",
+      "word": "There's an easier way to do that.",
+      "translation": "Есть способ проще.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_12",
+      "word": "He's strong enough to lift that.",
+      "translation": "Он достаточно силён, чтобы это поднять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_13",
+      "word": "I forgot to take my coat with me.",
+      "translation": "Я забыл взять с собой пальто.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_14",
+      "word": "If I wanted to, I could do that.",
+      "translation": "Если бы я захотел, я мог бы это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_15",
+      "word": "I've already promised not to do that.",
+      "translation": "Я уже обещал, что не буду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_16",
+      "word": "Tom hopes Mary will do that.",
+      "translation": "Том надеется, что Мэри это сделает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_17",
+      "word": "Why don't you take off your hat?",
+      "translation": "Почему бы Вам не снять шляпу?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_18",
+      "word": "It isn't so easy to do that.",
+      "translation": "Это не так просто сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_19",
+      "word": "I fell asleep with my clothes on.",
+      "translation": "Я заснул в одежде.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_20",
+      "word": "She wore a green dress.",
+      "translation": "На ней было зеленое платье.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_21",
+      "word": "Tom wiped his hands on his jeans.",
+      "translation": "Том вытер руки о джинсы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_22",
+      "word": "How do you account for that?",
+      "translation": "Как вы это сможете объяснить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_23",
+      "word": "Tom never forgave himself for that.",
+      "translation": "Том так себя за это и не простил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_24",
+      "word": "Try putting yourself in my shoes.",
+      "translation": "Попробуй поставить себя на мое место.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_25",
+      "word": "I was going to ask Tom to do that.",
+      "translation": "Я собирался попросить об этом Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_26",
+      "word": "I can't remember why I did that.",
+      "translation": "Я уже не помню, зачем это сделал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_27",
+      "word": "We need to discuss that.",
+      "translation": "Нам нужно это обсудить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_28",
+      "word": "What caused that?",
+      "translation": "Что стало причиной этого?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_29",
+      "word": "She was ironing her dress.",
+      "translation": "Она гладила своё платье.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_30",
+      "word": "Tom is wearing a party hat.",
+      "translation": "На Томе праздничный колпак.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_31",
+      "word": "These shoes are made in Italy.",
+      "translation": "Эти ботинки сделаны в Италии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_32",
+      "word": "I didn't make Tom do that.",
+      "translation": "Я не заставлял Тома это делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_33",
+      "word": "I never asked you to do that.",
+      "translation": "Я никогда тебя об этом не просил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_34",
+      "word": "Tom has yet to do that.",
+      "translation": "Тому ещё надо это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_35",
+      "word": "Is it really so difficult to do that?",
+      "translation": "Это действительно так трудно сделать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_36",
+      "word": "I wouldn't worry so much about that.",
+      "translation": "Я бы так сильно насчёт этого не волновался.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_37",
+      "word": "There is some truth in that.",
+      "translation": "В этом есть доля правды.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_38",
+      "word": "Tom was very clear about that.",
+      "translation": "Том очень ясно дал это понять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_39",
+      "word": "The girl had a large red hat on.",
+      "translation": "На девочке была большая красная шляпа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_40",
+      "word": "And what happened after that?",
+      "translation": "А что было потом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_41",
+      "word": "These pants are too small for me.",
+      "translation": "Эти штаны мне малы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_42",
+      "word": "Where did Tom find those shoes?",
+      "translation": "Где Том нашёл эти ботинки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_43",
+      "word": "Choose the T-shirt you like the best.",
+      "translation": "Выбери футболку, которая тебе нравится больше всего.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_44",
+      "word": "Tom was wearing a ridiculous hat.",
+      "translation": "Том был в смешной шляпе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_45",
+      "word": "I'm sure Tom never agreed to do that.",
+      "translation": "Уверен, Том никогда не соглашался сделать это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_46",
+      "word": "I never noticed that.",
+      "translation": "Я никогда этого не замечал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_47",
+      "word": "You of all people should know that.",
+      "translation": "Уж кому-кому, а тебе это должно быть известно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_48",
+      "word": "Tom is allergic to that.",
+      "translation": "У Тома на это аллергия.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothingfashion_9_49",
+      "word": "Take off your wet clothes.",
+      "translation": "Снимите свою мокрую одежду.",
+      "language": "en"
+    }
+  ]
+}

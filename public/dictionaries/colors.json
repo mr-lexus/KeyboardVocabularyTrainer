@@ -1,0 +1,1729 @@
+{
+  "id": "builtin-colors",
+  "name": "Colors, Shapes & Design ",
+  "description": "Detailed vocabulary for colors, shades, shapes, and geometry",
+  "entries": [
+    {
+      "id": "e1",
+      "word": "color",
+      "translation": "цвет",
+      "language": "en"
+    },
+    {
+      "id": "e2",
+      "word": "red",
+      "translation": "красный",
+      "language": "en"
+    },
+    {
+      "id": "e3",
+      "word": "blue",
+      "translation": "синий",
+      "language": "en"
+    },
+    {
+      "id": "e4",
+      "word": "yellow",
+      "translation": "желтый",
+      "language": "en"
+    },
+    {
+      "id": "e5",
+      "word": "green",
+      "translation": "зеленый",
+      "language": "en"
+    },
+    {
+      "id": "e6",
+      "word": "orange",
+      "translation": "оранжевый",
+      "language": "en"
+    },
+    {
+      "id": "e7",
+      "word": "purple",
+      "translation": "фиолетовый",
+      "language": "en"
+    },
+    {
+      "id": "e8",
+      "word": "pink",
+      "translation": "розовый",
+      "language": "en"
+    },
+    {
+      "id": "e9",
+      "word": "brown",
+      "translation": "коричневый",
+      "language": "en"
+    },
+    {
+      "id": "e10",
+      "word": "black",
+      "translation": "черный",
+      "language": "en"
+    },
+    {
+      "id": "e11",
+      "word": "white",
+      "translation": "белый",
+      "language": "en"
+    },
+    {
+      "id": "e12",
+      "word": "gray",
+      "translation": "серый",
+      "language": "en"
+    },
+    {
+      "id": "e13",
+      "word": "silver",
+      "translation": "серебряный",
+      "language": "en"
+    },
+    {
+      "id": "e14",
+      "word": "gold",
+      "translation": "золотой",
+      "language": "en"
+    },
+    {
+      "id": "e15",
+      "word": "light",
+      "translation": "светлый",
+      "language": "en"
+    },
+    {
+      "id": "e16",
+      "word": "dark",
+      "translation": "темный",
+      "language": "en"
+    },
+    {
+      "id": "e17",
+      "word": "bright",
+      "translation": "яркий",
+      "language": "en"
+    },
+    {
+      "id": "e18",
+      "word": "pale",
+      "translation": "бледный",
+      "language": "en"
+    },
+    {
+      "id": "e19",
+      "word": "shade",
+      "translation": "оттенок",
+      "language": "en"
+    },
+    {
+      "id": "e20",
+      "word": "shape",
+      "translation": "форма",
+      "language": "en"
+    },
+    {
+      "id": "e21",
+      "word": "circle",
+      "translation": "круг",
+      "language": "en"
+    },
+    {
+      "id": "e22",
+      "word": "square",
+      "translation": "квадрат",
+      "language": "en"
+    },
+    {
+      "id": "e23",
+      "word": "triangle",
+      "translation": "треугольник",
+      "language": "en"
+    },
+    {
+      "id": "e24",
+      "word": "rectangle",
+      "translation": "прямоугольник",
+      "language": "en"
+    },
+    {
+      "id": "e25",
+      "word": "oval",
+      "translation": "овал",
+      "language": "en"
+    },
+    {
+      "id": "e26",
+      "word": "star",
+      "translation": "звезда",
+      "language": "en"
+    },
+    {
+      "id": "e27",
+      "word": "heart",
+      "translation": "сердце",
+      "language": "en"
+    },
+    {
+      "id": "e28",
+      "word": "diamond",
+      "translation": "ромб",
+      "language": "en"
+    },
+    {
+      "id": "e29",
+      "word": "line",
+      "translation": "линия",
+      "language": "en"
+    },
+    {
+      "id": "e30",
+      "word": "curve",
+      "translation": "кривая",
+      "language": "en"
+    },
+    {
+      "id": "e31",
+      "word": "point",
+      "translation": "точка",
+      "language": "en"
+    },
+    {
+      "id": "e32",
+      "word": "angle",
+      "translation": "угол",
+      "language": "en"
+    },
+    {
+      "id": "e33",
+      "word": "straight",
+      "translation": "прямой",
+      "language": "en"
+    },
+    {
+      "id": "e34",
+      "word": "round",
+      "translation": "круглый",
+      "language": "en"
+    },
+    {
+      "id": "e35",
+      "word": "flat",
+      "translation": "плоский",
+      "language": "en"
+    },
+    {
+      "id": "e36",
+      "word": "cube",
+      "translation": "куб",
+      "language": "en"
+    },
+    {
+      "id": "e37",
+      "word": "sphere",
+      "translation": "сфера",
+      "language": "en"
+    },
+    {
+      "id": "e38",
+      "word": "pyramid",
+      "translation": "пирамида",
+      "language": "en"
+    },
+    {
+      "id": "e39",
+      "word": "cylinder",
+      "translation": "цилиндр",
+      "language": "en"
+    },
+    {
+      "id": "e40",
+      "word": "cone",
+      "translation": "конус",
+      "language": "en"
+    },
+    {
+      "id": "e41",
+      "word": "hue",
+      "translation": "оттенок",
+      "language": "en"
+    },
+    {
+      "id": "e42",
+      "word": "tint",
+      "translation": "тон",
+      "language": "en"
+    },
+    {
+      "id": "e43",
+      "word": "tone",
+      "translation": "тон",
+      "language": "en"
+    },
+    {
+      "id": "e44",
+      "word": "saturation",
+      "translation": "насыщенность",
+      "language": "en"
+    },
+    {
+      "id": "e45",
+      "word": "brightness",
+      "translation": "яркость",
+      "language": "en"
+    },
+    {
+      "id": "e46",
+      "word": "lightness",
+      "translation": "светлота",
+      "language": "en"
+    },
+    {
+      "id": "e47",
+      "word": "contrast",
+      "translation": "контраст",
+      "language": "en"
+    },
+    {
+      "id": "e48",
+      "word": "opacity",
+      "translation": "непрозрачность",
+      "language": "en"
+    },
+    {
+      "id": "e49",
+      "word": "transparency",
+      "translation": "прозрачность",
+      "language": "en"
+    },
+    {
+      "id": "e50",
+      "word": "gradient",
+      "translation": "градиент",
+      "language": "en"
+    },
+    {
+      "id": "e51",
+      "word": "palette",
+      "translation": "палитра",
+      "language": "en"
+    },
+    {
+      "id": "e52",
+      "word": "spectrum",
+      "translation": "спектр",
+      "language": "en"
+    },
+    {
+      "id": "e53",
+      "word": "pigment",
+      "translation": "пигмент",
+      "language": "en"
+    },
+    {
+      "id": "e54",
+      "word": "dye",
+      "translation": "краситель",
+      "language": "en"
+    },
+    {
+      "id": "e55",
+      "word": "paint",
+      "translation": "краска",
+      "language": "en"
+    },
+    {
+      "id": "e56",
+      "word": "ink",
+      "translation": "чернила",
+      "language": "en"
+    },
+    {
+      "id": "e57",
+      "word": "chalk",
+      "translation": "мел",
+      "language": "en"
+    },
+    {
+      "id": "e58",
+      "word": "pastel",
+      "translation": "пастель",
+      "language": "en"
+    },
+    {
+      "id": "e59",
+      "word": "crayon",
+      "translation": "мелок",
+      "language": "en"
+    },
+    {
+      "id": "e60",
+      "word": "marker",
+      "translation": "маркер",
+      "language": "en"
+    },
+    {
+      "id": "e61",
+      "word": "pencil",
+      "translation": "карандаш",
+      "language": "en"
+    },
+    {
+      "id": "e62",
+      "word": "brush",
+      "translation": "кисть",
+      "language": "en"
+    },
+    {
+      "id": "e63",
+      "word": "canvas",
+      "translation": "холст",
+      "language": "en"
+    },
+    {
+      "id": "e64",
+      "word": "paper",
+      "translation": "бумага",
+      "language": "en"
+    },
+    {
+      "id": "e65",
+      "word": "board",
+      "translation": "доска",
+      "language": "en"
+    },
+    {
+      "id": "e66",
+      "word": "primary",
+      "translation": "основной",
+      "language": "en"
+    },
+    {
+      "id": "e67",
+      "word": "secondary",
+      "translation": "вторичный",
+      "language": "en"
+    },
+    {
+      "id": "e68",
+      "word": "tertiary",
+      "translation": "третичный",
+      "language": "en"
+    },
+    {
+      "id": "e69",
+      "word": "complementary",
+      "translation": "дополнительный",
+      "language": "en"
+    },
+    {
+      "id": "e70",
+      "word": "analogous",
+      "translation": "аналогичный",
+      "language": "en"
+    },
+    {
+      "id": "e71",
+      "word": "monochromatic",
+      "translation": "монохромный",
+      "language": "en"
+    },
+    {
+      "id": "e72",
+      "word": "polychromatic",
+      "translation": "полихромный",
+      "language": "en"
+    },
+    {
+      "id": "e73",
+      "word": "warm",
+      "translation": "теплый",
+      "language": "en"
+    },
+    {
+      "id": "e74",
+      "word": "cool",
+      "translation": "холодный",
+      "language": "en"
+    },
+    {
+      "id": "e75",
+      "word": "neutral",
+      "translation": "нейтральный",
+      "language": "en"
+    },
+    {
+      "id": "e76",
+      "word": "vibrant",
+      "translation": "вибрационный",
+      "language": "en"
+    },
+    {
+      "id": "e77",
+      "word": "vivid",
+      "translation": "живой",
+      "language": "en"
+    },
+    {
+      "id": "e78",
+      "word": "intense",
+      "translation": "интенсивный",
+      "language": "en"
+    },
+    {
+      "id": "e79",
+      "word": "brilliant",
+      "translation": "блестящий",
+      "language": "en"
+    },
+    {
+      "id": "e80",
+      "word": "radiant",
+      "translation": "сияющий",
+      "language": "en"
+    },
+    {
+      "id": "e81",
+      "word": "glowing",
+      "translation": "светящийся",
+      "language": "en"
+    },
+    {
+      "id": "e82",
+      "word": "luminous",
+      "translation": "светящийся",
+      "language": "en"
+    },
+    {
+      "id": "e83",
+      "word": "shiny",
+      "translation": "блестящий",
+      "language": "en"
+    },
+    {
+      "id": "e84",
+      "word": "glossy",
+      "translation": "глянцевый",
+      "language": "en"
+    },
+    {
+      "id": "e85",
+      "word": "matte",
+      "translation": "матовый",
+      "language": "en"
+    },
+    {
+      "id": "e86",
+      "word": "dull",
+      "translation": "тусклый",
+      "language": "en"
+    },
+    {
+      "id": "e87",
+      "word": "faded",
+      "translation": "выцветший",
+      "language": "en"
+    },
+    {
+      "id": "e88",
+      "word": "muted",
+      "translation": "приглушенный",
+      "language": "en"
+    },
+    {
+      "id": "e89",
+      "word": "subtle",
+      "translation": "нежный",
+      "language": "en"
+    },
+    {
+      "id": "e90",
+      "word": "soft",
+      "translation": "мягкий",
+      "language": "en"
+    },
+    {
+      "id": "e91",
+      "word": "delicate",
+      "translation": "деликатный",
+      "language": "en"
+    },
+    {
+      "id": "e92",
+      "word": "harsh",
+      "translation": "резкий",
+      "language": "en"
+    },
+    {
+      "id": "e93",
+      "word": "loud",
+      "translation": "кричащий",
+      "language": "en"
+    },
+    {
+      "id": "e94",
+      "word": "neon",
+      "translation": "неоновый",
+      "language": "en"
+    },
+    {
+      "id": "e95",
+      "word": "fluorescent",
+      "translation": "флуоресцентный",
+      "language": "en"
+    },
+    {
+      "id": "e96",
+      "word": "metallic",
+      "translation": "металлический",
+      "language": "en"
+    },
+    {
+      "id": "e97",
+      "word": "pearlescent",
+      "translation": "жемчужный",
+      "language": "en"
+    },
+    {
+      "id": "e98",
+      "word": "iridescent",
+      "translation": "переливающийся",
+      "language": "en"
+    },
+    {
+      "id": "e99",
+      "word": "opalescent",
+      "translation": "опалесцирующий",
+      "language": "en"
+    },
+    {
+      "id": "e100",
+      "word": "crimson",
+      "translation": "малиновый",
+      "language": "en"
+    },
+    {
+      "id": "e101",
+      "word": "scarlet",
+      "translation": "алый",
+      "language": "en"
+    },
+    {
+      "id": "e102",
+      "word": "ruby",
+      "translation": "рубиновый",
+      "language": "en"
+    },
+    {
+      "id": "e103",
+      "word": "burgundy",
+      "translation": "бордовый",
+      "language": "en"
+    },
+    {
+      "id": "e104",
+      "word": "maroon",
+      "translation": "бордовый",
+      "language": "en"
+    },
+    {
+      "id": "e105",
+      "word": "magenta",
+      "translation": "пурпурный",
+      "language": "en"
+    },
+    {
+      "id": "e106",
+      "word": "fuchsia",
+      "translation": "фуксия",
+      "language": "en"
+    },
+    {
+      "id": "e107",
+      "word": "rose",
+      "translation": "розовый",
+      "language": "en"
+    },
+    {
+      "id": "e108",
+      "word": "coral",
+      "translation": "коралловый",
+      "language": "en"
+    },
+    {
+      "id": "e109",
+      "word": "salmon",
+      "translation": "лососевый",
+      "language": "en"
+    },
+    {
+      "id": "e110",
+      "word": "peach",
+      "translation": "персиковый",
+      "language": "en"
+    },
+    {
+      "id": "e111",
+      "word": "apricot",
+      "translation": "абрикосовый",
+      "language": "en"
+    },
+    {
+      "id": "e112",
+      "word": "amber",
+      "translation": "янтарный",
+      "language": "en"
+    },
+    {
+      "id": "e113",
+      "word": "rust",
+      "translation": "ржавый",
+      "language": "en"
+    },
+    {
+      "id": "e114",
+      "word": "copper",
+      "translation": "медный",
+      "language": "en"
+    },
+    {
+      "id": "e115",
+      "word": "bronze",
+      "translation": "бронзовый",
+      "language": "en"
+    },
+    {
+      "id": "e116",
+      "word": "ochre",
+      "translation": "охра",
+      "language": "en"
+    },
+    {
+      "id": "e117",
+      "word": "mustard",
+      "translation": "горчичный",
+      "language": "en"
+    },
+    {
+      "id": "e118",
+      "word": "saffron",
+      "translation": "шафрановый",
+      "language": "en"
+    },
+    {
+      "id": "e119",
+      "word": "lemon",
+      "translation": "лимонный",
+      "language": "en"
+    },
+    {
+      "id": "e120",
+      "word": "lime",
+      "translation": "лимонный",
+      "language": "en"
+    },
+    {
+      "id": "e121",
+      "word": "olive",
+      "translation": "оливковый",
+      "language": "en"
+    },
+    {
+      "id": "e122",
+      "word": "chartreuse",
+      "translation": "шартрез",
+      "language": "en"
+    },
+    {
+      "id": "e123",
+      "word": "emerald",
+      "translation": "изумрудный",
+      "language": "en"
+    },
+    {
+      "id": "e124",
+      "word": "jade",
+      "translation": "изумрудный",
+      "language": "en"
+    },
+    {
+      "id": "e125",
+      "word": "mint",
+      "translation": "мятный",
+      "language": "en"
+    },
+    {
+      "id": "e126",
+      "word": "forest",
+      "translation": "лесной",
+      "language": "en"
+    },
+    {
+      "id": "e127",
+      "word": "pine",
+      "translation": "сосновый",
+      "language": "en"
+    },
+    {
+      "id": "e128",
+      "word": "teal",
+      "translation": "чирок",
+      "language": "en"
+    },
+    {
+      "id": "e129",
+      "word": "turquoise",
+      "translation": "бирюзовый",
+      "language": "en"
+    },
+    {
+      "id": "e130",
+      "word": "cyan",
+      "translation": "циан",
+      "language": "en"
+    },
+    {
+      "id": "e131",
+      "word": "aqua",
+      "translation": "аква",
+      "language": "en"
+    },
+    {
+      "id": "e132",
+      "word": "azure",
+      "translation": "аквамарин",
+      "language": "en"
+    },
+    {
+      "id": "e133",
+      "word": "sapphire",
+      "translation": "сапфировый",
+      "language": "en"
+    },
+    {
+      "id": "e134",
+      "word": "cobalt",
+      "translation": "кобальтовый",
+      "language": "en"
+    },
+    {
+      "id": "e135",
+      "word": "navy",
+      "translation": "темно-синий",
+      "language": "en"
+    },
+    {
+      "id": "e136",
+      "word": "indigo",
+      "translation": "индиго",
+      "language": "en"
+    },
+    {
+      "id": "e137",
+      "word": "ultramarine",
+      "translation": "ультрамарин",
+      "language": "en"
+    },
+    {
+      "id": "e138",
+      "word": "cerulean",
+      "translation": "церулеум",
+      "language": "en"
+    },
+    {
+      "id": "e139",
+      "word": "lapis",
+      "translation": "лазурит",
+      "language": "en"
+    },
+    {
+      "id": "e140",
+      "word": "denim",
+      "translation": "деним",
+      "language": "en"
+    },
+    {
+      "id": "e141",
+      "word": "slate",
+      "translation": "сланец",
+      "language": "en"
+    },
+    {
+      "id": "e142",
+      "word": "steel",
+      "translation": "стальной",
+      "language": "en"
+    },
+    {
+      "id": "e143",
+      "word": "charcoal",
+      "translation": "угольный",
+      "language": "en"
+    },
+    {
+      "id": "e144",
+      "word": "ash",
+      "translation": "пепельный",
+      "language": "en"
+    },
+    {
+      "id": "e145",
+      "word": "lead",
+      "translation": "свинцовый",
+      "language": "en"
+    },
+    {
+      "id": "e146",
+      "word": "iron",
+      "translation": "железный",
+      "language": "en"
+    },
+    {
+      "id": "e147",
+      "word": "platinum",
+      "translation": "платиновый",
+      "language": "en"
+    },
+    {
+      "id": "e148",
+      "word": "pearl",
+      "translation": "жемчужный",
+      "language": "en"
+    },
+    {
+      "id": "e149",
+      "word": "ivory",
+      "translation": "слоновая кость",
+      "language": "en"
+    },
+    {
+      "id": "e150",
+      "word": "cream",
+      "translation": "кремовый",
+      "language": "en"
+    },
+    {
+      "id": "e151",
+      "word": "vanilla",
+      "translation": "ванильный",
+      "language": "en"
+    },
+    {
+      "id": "e152",
+      "word": "beige",
+      "translation": "бежевый",
+      "language": "en"
+    },
+    {
+      "id": "e153",
+      "word": "champagne",
+      "translation": "шампанское",
+      "language": "en"
+    },
+    {
+      "id": "e154",
+      "word": "sand",
+      "translation": "песочный",
+      "language": "en"
+    },
+    {
+      "id": "e155",
+      "word": "khaki",
+      "translation": "хаки",
+      "language": "en"
+    },
+    {
+      "id": "e156",
+      "word": "taupe",
+      "translation": "серо-коричневый",
+      "language": "en"
+    },
+    {
+      "id": "e157",
+      "word": "fawn",
+      "translation": "серовато-коричневый",
+      "language": "en"
+    },
+    {
+      "id": "e158",
+      "word": "camel",
+      "translation": "верблюжий",
+      "language": "en"
+    },
+    {
+      "id": "e159",
+      "word": "caramel",
+      "translation": "карамельный",
+      "language": "en"
+    },
+    {
+      "id": "e160",
+      "word": "toffee",
+      "translation": "ириска",
+      "language": "en"
+    },
+    {
+      "id": "e161",
+      "word": "chocolate",
+      "translation": "шоколадный",
+      "language": "en"
+    },
+    {
+      "id": "e162",
+      "word": "cocoa",
+      "translation": "какао",
+      "language": "en"
+    },
+    {
+      "id": "e163",
+      "word": "coffee",
+      "translation": "кофейный",
+      "language": "en"
+    },
+    {
+      "id": "e164",
+      "word": "mocha",
+      "translation": "мокко",
+      "language": "en"
+    },
+    {
+      "id": "e165",
+      "word": "espresso",
+      "translation": "эспрессо",
+      "language": "en"
+    },
+    {
+      "id": "e166",
+      "word": "chestnut",
+      "translation": "каштан",
+      "language": "en"
+    },
+    {
+      "id": "e167",
+      "word": "mahogany",
+      "translation": "красное дерево",
+      "language": "en"
+    },
+    {
+      "id": "e168",
+      "word": "walnut",
+      "translation": "орех",
+      "language": "en"
+    },
+    {
+      "id": "e169",
+      "word": "auburn",
+      "translation": "каштановый",
+      "language": "en"
+    },
+    {
+      "id": "e170",
+      "word": "copper",
+      "translation": "медный",
+      "language": "en"
+    },
+    {
+      "id": "e171",
+      "word": "brass",
+      "translation": "латунный",
+      "language": "en"
+    },
+    {
+      "id": "e172",
+      "word": "gold",
+      "translation": "золотой",
+      "language": "en"
+    },
+    {
+      "id": "e173",
+      "word": "silver",
+      "translation": "серебряный",
+      "language": "en"
+    },
+    {
+      "id": "e174",
+      "word": "geometry",
+      "translation": "геометрия",
+      "language": "en"
+    },
+    {
+      "id": "e175",
+      "word": "polygon",
+      "translation": "многоугольник",
+      "language": "en"
+    },
+    {
+      "id": "e176",
+      "word": "pentagon",
+      "translation": "пятиугольник",
+      "language": "en"
+    },
+    {
+      "id": "e177",
+      "word": "hexagon",
+      "translation": "шестиугольник",
+      "language": "en"
+    },
+    {
+      "id": "e178",
+      "word": "heptagon",
+      "translation": "семиугольник",
+      "language": "en"
+    },
+    {
+      "id": "e179",
+      "word": "octagon",
+      "translation": "восьмиугольник",
+      "language": "en"
+    },
+    {
+      "id": "e180",
+      "word": "nonagon",
+      "translation": "девятиугольник",
+      "language": "en"
+    },
+    {
+      "id": "e181",
+      "word": "decagon",
+      "translation": "десятиугольник",
+      "language": "en"
+    },
+    {
+      "id": "e182",
+      "word": "parallelogram",
+      "translation": "параллелограмм",
+      "language": "en"
+    },
+    {
+      "id": "e183",
+      "word": "rhombus",
+      "translation": "ромб",
+      "language": "en"
+    },
+    {
+      "id": "e184",
+      "word": "trapezoid",
+      "translation": "трапеция",
+      "language": "en"
+    },
+    {
+      "id": "e185",
+      "word": "kite",
+      "translation": "трапеция",
+      "language": "en"
+    },
+    {
+      "id": "e186",
+      "word": "ellipse",
+      "translation": "эллипс",
+      "language": "en"
+    },
+    {
+      "id": "e187",
+      "word": "crescent",
+      "translation": "полумесяц",
+      "language": "en"
+    },
+    {
+      "id": "e188",
+      "word": "cross",
+      "translation": "крест",
+      "language": "en"
+    },
+    {
+      "id": "e189",
+      "word": "arrow",
+      "translation": "стрелка",
+      "language": "en"
+    },
+    {
+      "id": "e190",
+      "word": "spiral",
+      "translation": "спираль",
+      "language": "en"
+    },
+    {
+      "id": "e191",
+      "word": "helix",
+      "translation": "спираль",
+      "language": "en"
+    },
+    {
+      "id": "e192",
+      "word": "coil",
+      "translation": "катушка",
+      "language": "en"
+    },
+    {
+      "id": "e193",
+      "word": "loop",
+      "translation": "петля",
+      "language": "en"
+    },
+    {
+      "id": "e194",
+      "word": "wave",
+      "translation": "волна",
+      "language": "en"
+    },
+    {
+      "id": "e195",
+      "word": "zigzag",
+      "translation": "зигзаг",
+      "language": "en"
+    },
+    {
+      "id": "e196",
+      "word": "arc",
+      "translation": "дуга",
+      "language": "en"
+    },
+    {
+      "id": "e197",
+      "word": "chord",
+      "translation": "хорда",
+      "language": "en"
+    },
+    {
+      "id": "e198",
+      "word": "radius",
+      "translation": "радиус",
+      "language": "en"
+    },
+    {
+      "id": "e199",
+      "word": "diameter",
+      "translation": "диаметр",
+      "language": "en"
+    },
+    {
+      "id": "e200",
+      "word": "circumference",
+      "translation": "окружность",
+      "language": "en"
+    },
+    {
+      "id": "e201",
+      "word": "perimeter",
+      "translation": "периметр",
+      "language": "en"
+    },
+    {
+      "id": "e202",
+      "word": "area",
+      "translation": "площадь",
+      "language": "en"
+    },
+    {
+      "id": "e203",
+      "word": "surface",
+      "translation": "поверхность",
+      "language": "en"
+    },
+    {
+      "id": "e204",
+      "word": "volume",
+      "translation": "объем",
+      "language": "en"
+    },
+    {
+      "id": "e205",
+      "word": "space",
+      "translation": "пространство",
+      "language": "en"
+    },
+    {
+      "id": "e206",
+      "word": "dimension",
+      "translation": "измерение",
+      "language": "en"
+    },
+    {
+      "id": "e207",
+      "word": "length",
+      "translation": "длина",
+      "language": "en"
+    },
+    {
+      "id": "e208",
+      "word": "width",
+      "translation": "ширина",
+      "language": "en"
+    },
+    {
+      "id": "e209",
+      "word": "height",
+      "translation": "высота",
+      "language": "en"
+    },
+    {
+      "id": "e210",
+      "word": "depth",
+      "translation": "глубина",
+      "language": "en"
+    },
+    {
+      "id": "e211",
+      "word": "breadth",
+      "translation": "ширина",
+      "language": "en"
+    },
+    {
+      "id": "e212",
+      "word": "thickness",
+      "translation": "толщина",
+      "language": "en"
+    },
+    {
+      "id": "e213",
+      "word": "distance",
+      "translation": "расстояние",
+      "language": "en"
+    },
+    {
+      "id": "e214",
+      "word": "gap",
+      "translation": "зазор",
+      "language": "en"
+    },
+    {
+      "id": "e215",
+      "word": "interval",
+      "translation": "интервал",
+      "language": "en"
+    },
+    {
+      "id": "e216",
+      "word": "margin",
+      "translation": "край",
+      "language": "en"
+    },
+    {
+      "id": "e217",
+      "word": "border",
+      "translation": "граница",
+      "language": "en"
+    },
+    {
+      "id": "e218",
+      "word": "edge",
+      "translation": "край",
+      "language": "en"
+    },
+    {
+      "id": "e219",
+      "word": "rim",
+      "translation": "обод",
+      "language": "en"
+    },
+    {
+      "id": "e220",
+      "word": "brim",
+      "translation": "край",
+      "language": "en"
+    },
+    {
+      "id": "e221",
+      "word": "lip",
+      "translation": "губа",
+      "language": "en"
+    },
+    {
+      "id": "e222",
+      "word": "boundary",
+      "translation": "граница",
+      "language": "en"
+    },
+    {
+      "id": "e223",
+      "word": "limit",
+      "translation": "предел",
+      "language": "en"
+    },
+    {
+      "id": "e224",
+      "word": "outline",
+      "translation": "контур",
+      "language": "en"
+    },
+    {
+      "id": "e225",
+      "word": "profile",
+      "translation": "профиль",
+      "language": "en"
+    },
+    {
+      "id": "e226",
+      "word": "silhouette",
+      "translation": "силуэт",
+      "language": "en"
+    },
+    {
+      "id": "e227",
+      "word": "form",
+      "translation": "форма",
+      "language": "en"
+    },
+    {
+      "id": "e228",
+      "word": "figure",
+      "translation": "фигура",
+      "language": "en"
+    },
+    {
+      "id": "e229",
+      "word": "body",
+      "translation": "тело",
+      "language": "en"
+    },
+    {
+      "id": "e230",
+      "word": "mass",
+      "translation": "масса",
+      "language": "en"
+    },
+    {
+      "id": "e231",
+      "word": "block",
+      "translation": "блок",
+      "language": "en"
+    },
+    {
+      "id": "e232",
+      "word": "chunk",
+      "translation": "кусок",
+      "language": "en"
+    },
+    {
+      "id": "e233",
+      "word": "piece",
+      "translation": "кусок",
+      "language": "en"
+    },
+    {
+      "id": "e234",
+      "word": "part",
+      "translation": "часть",
+      "language": "en"
+    },
+    {
+      "id": "e235",
+      "word": "section",
+      "translation": "раздел",
+      "language": "en"
+    },
+    {
+      "id": "e236",
+      "word": "segment",
+      "translation": "сегмент",
+      "language": "en"
+    },
+    {
+      "id": "e237",
+      "word": "fraction",
+      "translation": "доля",
+      "language": "en"
+    },
+    {
+      "id": "e238",
+      "word": "portion",
+      "translation": "порция",
+      "language": "en"
+    },
+    {
+      "id": "e239",
+      "word": "proportion",
+      "translation": "пропорция",
+      "language": "en"
+    },
+    {
+      "id": "e240",
+      "word": "ratio",
+      "translation": "соотношение",
+      "language": "en"
+    },
+    {
+      "id": "e241",
+      "word": "scale",
+      "translation": "масштаб",
+      "language": "en"
+    },
+    {
+      "id": "e242",
+      "word": "size",
+      "translation": "размер",
+      "language": "en"
+    },
+    {
+      "id": "e243",
+      "word": "magnitude",
+      "translation": "величина",
+      "language": "en"
+    },
+    {
+      "id": "e244",
+      "word": "measure",
+      "translation": "мера",
+      "language": "en"
+    },
+    {
+      "id": "e245",
+      "word": "symmetry",
+      "translation": "симметрия",
+      "language": "en"
+    },
+    {
+      "id": "e246",
+      "word": "asymmetry",
+      "translation": "асимметрия",
+      "language": "en"
+    },
+    {
+      "id": "e247",
+      "word": "balance",
+      "translation": "баланс",
+      "language": "en"
+    },
+    {
+      "id": "e248",
+      "word": "harmony",
+      "translation": "гармония",
+      "language": "en"
+    },
+    {
+      "id": "e249",
+      "word": "proportion",
+      "translation": "пропорция",
+      "language": "en"
+    },
+    {
+      "id": "e250",
+      "word": "alignment",
+      "translation": "выравнивание",
+      "language": "en"
+    },
+    {
+      "id": "e251",
+      "word": "arrangement",
+      "translation": "расположение",
+      "language": "en"
+    },
+    {
+      "id": "e252",
+      "word": "layout",
+      "translation": "макет",
+      "language": "en"
+    },
+    {
+      "id": "e253",
+      "word": "pattern",
+      "translation": "узор",
+      "language": "en"
+    },
+    {
+      "id": "e254",
+      "word": "design",
+      "translation": "дизайн",
+      "language": "en"
+    },
+    {
+      "id": "e255",
+      "word": "motif",
+      "translation": "мотив",
+      "language": "en"
+    },
+    {
+      "id": "e256",
+      "word": "texture",
+      "translation": "текстура",
+      "language": "en"
+    },
+    {
+      "id": "e257",
+      "word": "surface",
+      "translation": "поверхность",
+      "language": "en"
+    },
+    {
+      "id": "e258",
+      "word": "finish",
+      "translation": "отделка",
+      "language": "en"
+    },
+    {
+      "id": "e259",
+      "word": "grain",
+      "translation": "зерно",
+      "language": "en"
+    },
+    {
+      "id": "e260",
+      "word": "weave",
+      "translation": "переплетение",
+      "language": "en"
+    },
+    {
+      "id": "e261",
+      "word": "nap",
+      "translation": "ворс",
+      "language": "en"
+    },
+    {
+      "id": "e262",
+      "word": "pile",
+      "translation": "ворс",
+      "language": "en"
+    },
+    {
+      "id": "e263",
+      "word": "rough",
+      "translation": "грубый",
+      "language": "en"
+    },
+    {
+      "id": "e264",
+      "word": "smooth",
+      "translation": "гладкий",
+      "language": "en"
+    },
+    {
+      "id": "e265",
+      "word": "soft",
+      "translation": "мягкий",
+      "language": "en"
+    },
+    {
+      "id": "e266",
+      "word": "hard",
+      "translation": "твердый",
+      "language": "en"
+    },
+    {
+      "id": "e267",
+      "word": "firm",
+      "translation": "твердый",
+      "language": "en"
+    },
+    {
+      "id": "e268",
+      "word": "solid",
+      "translation": "сплошной",
+      "language": "en"
+    },
+    {
+      "id": "e269",
+      "word": "hollow",
+      "translation": "полый",
+      "language": "en"
+    },
+    {
+      "id": "e270",
+      "word": "empty",
+      "translation": "пустой",
+      "language": "en"
+    },
+    {
+      "id": "e271",
+      "word": "full",
+      "translation": "полный",
+      "language": "en"
+    },
+    {
+      "id": "e272",
+      "word": "heavy",
+      "translation": "тяжелый",
+      "language": "en"
+    },
+    {
+      "id": "e273",
+      "word": "light",
+      "translation": "легкий",
+      "language": "en"
+    },
+    {
+      "id": "e274",
+      "word": "thick",
+      "translation": "толстый",
+      "language": "en"
+    },
+    {
+      "id": "e275",
+      "word": "thin",
+      "translation": "тонкий",
+      "language": "en"
+    },
+    {
+      "id": "e276",
+      "word": "fine",
+      "translation": "тонкий",
+      "language": "en"
+    },
+    {
+      "id": "e277",
+      "word": "coarse",
+      "translation": "грубый",
+      "language": "en"
+    },
+    {
+      "id": "e278",
+      "word": "sharp",
+      "translation": "острый",
+      "language": "en"
+    },
+    {
+      "id": "e279",
+      "word": "blunt",
+      "translation": "тупой",
+      "language": "en"
+    },
+    {
+      "id": "e280",
+      "word": "pointed",
+      "translation": "заостренный",
+      "language": "en"
+    },
+    {
+      "id": "e281",
+      "word": "rounded",
+      "translation": "закругленный",
+      "language": "en"
+    },
+    {
+      "id": "e282",
+      "word": "curved",
+      "translation": "изогнутый",
+      "language": "en"
+    },
+    {
+      "id": "e283",
+      "word": "bent",
+      "translation": "изогнутый",
+      "language": "en"
+    },
+    {
+      "id": "e284",
+      "word": "crooked",
+      "translation": "кривой",
+      "language": "en"
+    },
+    {
+      "id": "e285",
+      "word": "twisted",
+      "translation": "скрученный",
+      "language": "en"
+    },
+    {
+      "id": "e286",
+      "word": "warped",
+      "translation": "деформированный",
+      "language": "en"
+    },
+    {
+      "id": "e287",
+      "word": "distorted",
+      "translation": "искаженный",
+      "language": "en"
+    }
+  ]
+}

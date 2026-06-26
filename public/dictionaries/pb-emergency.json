@@ -1,0 +1,97 @@
+{
+  "id": "pb-emergency",
+  "name": "Emergencies",
+  "description": "Экстренные ситуации, помощь, медицина",
+  "entries": [
+    {
+      "id": "entry_pb-emergency_0",
+      "word": "Help! I need assistance.",
+      "translation": "Помогите! Мне нужна помощь.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-emergency_1",
+      "word": "Call an ambulance right away!",
+      "translation": "Немедленно вызовите скорую помощь!",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-emergency_2",
+      "word": "Where is the nearest hospital?",
+      "translation": "Где ближайшая больница?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-emergency_3",
+      "word": "I have lost my passport.",
+      "translation": "Я потерял свой паспорт.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-emergency_4",
+      "word": "Someone stole my wallet.",
+      "translation": "Кто-то украл мой кошелек.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-emergency_5",
+      "word": "Please call the police.",
+      "translation": "Пожалуйста, вызовите полицию.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-emergency_6",
+      "word": "I need to contact my embassy.",
+      "translation": "Мне нужно связаться с моим посольством.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-emergency_7",
+      "word": "Is there a doctor around here?",
+      "translation": "Здесь есть врач поблизости?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-emergency_8",
+      "word": "I feel dizzy and sick.",
+      "translation": "У меня кружится голова и меня тошнит.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-emergency_9",
+      "word": "It hurts right here.",
+      "translation": "Болит вот здесь.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-emergency_10",
+      "word": "I have travel insurance.",
+      "translation": "У меня есть туристическая страховка.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-emergency_11",
+      "word": "Can I borrow your phone for a quick call?",
+      "translation": "Могу я одолжить ваш телефон для быстрого звонка?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-emergency_12",
+      "word": "Fire! Everyone needs to evacuate.",
+      "translation": "Пожар! Всем нужно эвакуироваться.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-emergency_13",
+      "word": "Where is the emergency exit?",
+      "translation": "Где аварийный выход?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-emergency_14",
+      "word": "Everything is going to be alright.",
+      "translation": "Все будет хорошо.",
+      "language": "en"
+    }
+  ]
+}

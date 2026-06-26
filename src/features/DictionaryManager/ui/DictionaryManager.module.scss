@@ -1,0 +1,364 @@
+.dictionaryManager {
+  &__container {
+    display: flex;
+    gap: 1rem;
+    height: 100%;
+  }
+
+  &__sidebar {
+    width: 280px;
+    background-color: var(--color-bg-secondary);
+    border-radius: var(--border-radius);
+    padding: 1rem;
+    display: flex;
+    flex-direction: column;
+    gap: 0.75rem;
+  }
+
+  &__sidebarHint {
+    font-size: 0.72rem;
+    color: var(--color-text-secondary);
+    text-align: center;
+    opacity: 0.8;
+  }
+
+  &__main {
+    flex: 1;
+    background-color: var(--color-bg-secondary);
+    border-radius: var(--border-radius);
+    padding: 1.5rem;
+    overflow-y: auto;
+  }
+
+  &__tabs {
+    display: flex;
+    gap: 0.4rem;
+    background-color: var(--color-bg-primary);
+    border-radius: var(--border-radius);
+    padding: 0.25rem;
+  }
+
+  &__tab {
+    flex: 1;
+    padding: 0.4rem 0.5rem;
+    border-radius: calc(var(--border-radius) - 2px);
+    font-size: 0.8rem;
+    font-weight: 500;
+    color: var(--color-text-secondary);
+    cursor: pointer;
+    background: none;
+    border: none;
+    transition:
+      background-color 0.15s,
+      color 0.15s;
+    &:hover {
+      color: var(--color-text-primary);
+    }
+  }
+
+  &__tab_active {
+    background-color: var(--color-accent);
+    color: #000;
+    font-weight: 600;
+  }
+
+  &__emptyHint {
+    font-size: 0.85rem;
+    color: var(--color-text-secondary);
+    text-align: center;
+    padding: 0.5rem;
+  }
+
+  &__list {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+    overflow-y: auto;
+    flex: 1;
+  }
+
+  &__groupHeader {
+    font-size: 0.75rem;
+    font-weight: 600;
+    color: var(--color-text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    padding: 0.5rem 0.2rem 0.2rem 0.2rem;
+    margin-top: 0.5rem;
+    &:first-child {
+      margin-top: 0;
+    }
+  }
+
+  &__listItem {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    padding: 0.6rem 0.75rem;
+    background-color: var(--color-bg-primary);
+    border-radius: var(--border-radius);
+    cursor: pointer;
+    border: 1px solid transparent;
+    transition: border-color 0.15s;
+    &:hover {
+      border-color: var(--color-border);
+    }
+  }
+
+  &__listItem_selected {
+    border-color: var(--color-accent);
+  }
+
+  &__listItemIcon {
+    font-size: 1.5rem;
+    flex-shrink: 0;
+  }
+
+  &__listItemName {
+    flex: 1;
+    font-size: 0.875rem;
+    font-weight: 500;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+  }
+
+  &__listItemBadge {
+    font-size: 0.7rem;
+    font-weight: 600;
+    color: var(--color-accent);
+    background-color: color-mix(in srgb, var(--color-accent) 15%, transparent);
+    padding: 0.1rem 0.35rem;
+    border-radius: 999px;
+    flex-shrink: 0;
+  }
+
+  &__lockIcon {
+    color: var(--color-text-secondary);
+    opacity: 0.5;
+    flex-shrink: 0;
+  }
+
+  &__title {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--color-text-primary);
+  }
+
+  &__titleEmojiBtn {
+    background: none;
+    border: 1px solid transparent;
+    font-size: 1.5rem;
+    cursor: pointer;
+    padding: 0.2rem 0.4rem;
+    border-radius: 6px;
+    transition:
+      border-color 0.2s,
+      background-color 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    &:hover {
+      background-color: var(--color-bg-primary);
+      border-color: var(--color-border);
+    }
+  }
+
+  &__titleEditBtn {
+    background: none;
+    border: none;
+    color: var(--color-text-secondary);
+    cursor: pointer;
+    padding: 0.3rem;
+    border-radius: 6px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    opacity: 0;
+    transition:
+      opacity 0.2s,
+      background-color 0.2s,
+      color 0.2s;
+    &:hover {
+      background-color: var(--color-bg-primary);
+      color: var(--color-text-primary);
+    }
+  }
+
+  &__titleInput {
+    font-size: 1.25rem;
+    font-weight: 600;
+    color: var(--color-text-primary);
+    background-color: var(--color-bg-primary);
+    border: 1px solid var(--color-accent);
+    border-radius: 6px;
+    padding: 0.2rem 0.5rem;
+    outline: none;
+    width: 300px;
+  }
+
+  &__dictDescription {
+    font-size: 0.85rem;
+    color: var(--color-text-secondary);
+    margin-bottom: 1rem;
+  }
+
+  &__placeholder {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100%;
+    color: var(--color-text-secondary);
+    font-size: 0.95rem;
+  }
+
+  &__headerRow {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 0.5rem;
+    &:hover .dictionaryManager__titleEditBtn {
+      opacity: 1;
+    }
+  }
+
+  &__inputGroup {
+    display: flex;
+    gap: 0.5rem;
+  }
+
+  &__emojiSelectBtn {
+    background-color: var(--color-bg-primary);
+    border: 1px solid var(--color-border);
+    border-radius: var(--border-radius);
+    font-size: 1.2rem;
+    width: 2.4rem;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    cursor: pointer;
+    transition: border-color 0.2s;
+    &:hover {
+      border-color: var(--color-accent);
+    }
+  }
+
+  &__input {
+    flex: 1;
+    padding: 0.5rem;
+    border-radius: var(--border-radius);
+    border: 1px solid var(--color-border);
+    background-color: var(--color-bg-primary);
+    color: var(--color-text-primary);
+  }
+
+  &__button {
+    padding: 0.5rem 1rem;
+    background-color: var(--color-accent);
+    color: #000;
+    border-radius: var(--border-radius);
+    font-weight: 600;
+    transition: opacity var(--transition-speed);
+    &:hover {
+      opacity: 0.8;
+    }
+  }
+
+  &__button_danger {
+    background-color: var(--color-error);
+    color: #fff;
+  }
+
+  &__entryList {
+    display: flex;
+    flex-direction: column;
+    gap: 0.4rem;
+    margin-top: 1rem;
+  }
+
+  &__entryItem {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    padding: 0.6rem 0.75rem;
+    background-color: var(--color-bg-primary);
+    border-radius: var(--border-radius);
+  }
+
+  &__entryWord {
+    flex: 1;
+    font-weight: 500;
+  }
+
+  &__entryTranslation {
+    flex: 1;
+    color: var(--color-text-secondary);
+  }
+
+  &__entryActions {
+    display: flex;
+    gap: 0.5rem;
+    align-items: center;
+    justify-content: flex-end;
+    width: 80px;
+    flex-shrink: 0;
+  }
+
+  &__iconButton {
+    padding: 0.25rem;
+    background: none;
+    border: none;
+    color: var(--color-text-secondary);
+    cursor: pointer;
+    transition: color var(--transition-speed);
+    &:hover {
+      color: var(--color-error);
+    }
+  }
+}
+
+@media (max-width: 1024px) {
+  .dictionaryManager {
+    &__container {
+      flex-direction: column;
+      height: auto;
+    }
+
+    &__sidebar {
+      width: 100%;
+      height: 300px;
+    }
+
+    &__main {
+      height: 600px;
+    }
+  }
+}
+
+@media (max-width: 768px) {
+  .dictionaryManager {
+    &__sidebar {
+      height: 250px;
+    }
+
+    &__main {
+      height: auto;
+      min-height: 400px;
+      padding: 1rem;
+    }
+
+    &__entryItem {
+      flex-direction: column;
+      align-items: flex-start;
+      gap: 0.5rem;
+      position: relative;
+    }
+
+    &__entryActions {
+      position: absolute;
+      top: 0.5rem;
+      right: 0.5rem;
+      width: auto;
+    }
+  }
+}

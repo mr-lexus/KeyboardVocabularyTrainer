@@ -1,0 +1,3007 @@
+{
+  "id": "phrasebook-laworder",
+  "name": "Law & Order",
+  "description": "Phrasebook for Law & Order",
+  "entries": [
+    {
+      "id": "pb_laworder_0_0",
+      "word": "I believe that Tom is innocent.",
+      "translation": "Думаю, Том невиновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_1",
+      "word": "Isn't this against the rules?",
+      "translation": "Разве это не против правил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_2",
+      "word": "Tom broke the rules.",
+      "translation": "Том нарушил правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_3",
+      "word": "Maybe I need a lawyer.",
+      "translation": "Возможно, мне нужен адвокат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_4",
+      "word": "Tom is a good lawyer.",
+      "translation": "Том - хороший адвокат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_5",
+      "word": "There aren't any rules.",
+      "translation": "Нет никаких правил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_6",
+      "word": "Talk to my lawyer.",
+      "translation": "Поговори с моим адвокатом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_7",
+      "word": "I'm calling my lawyer.",
+      "translation": "Я звоню своему адвокату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_8",
+      "word": "There are no rules.",
+      "translation": "Нет правил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_9",
+      "word": "Crime is on the rise.",
+      "translation": "Преступность растёт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_10",
+      "word": "It's a stupid law.",
+      "translation": "Это глупый закон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_11",
+      "word": "I'm married to a lawyer.",
+      "translation": "Я замужем за адвокатом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_12",
+      "word": "You aren't guilty.",
+      "translation": "Ты не виноват.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_13",
+      "word": "Tom is a prison guard.",
+      "translation": "Том - тюремный надзиратель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_14",
+      "word": "Why is Tom in jail?",
+      "translation": "Почему Том в тюрьме?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_15",
+      "word": "Tom is an able lawyer.",
+      "translation": "Том - способный адвокат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_16",
+      "word": "You broke the law.",
+      "translation": "Вы нарушили закон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_17",
+      "word": "Tom is the guilty one.",
+      "translation": "Виновен Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_18",
+      "word": "Tom wasn't guilty.",
+      "translation": "Том не был виновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_19",
+      "word": "Where's the judge?",
+      "translation": "Где судья?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_20",
+      "word": "I always obey the rules.",
+      "translation": "Я всегда соблюдаю правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_21",
+      "word": "Did you steal this?",
+      "translation": "Ты это украл?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_22",
+      "word": "Perhaps Tom is guilty.",
+      "translation": "Возможно, Том виновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_23",
+      "word": "You looked guilty.",
+      "translation": "Ты выглядел виноватым.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_24",
+      "word": "He felt a little guilty.",
+      "translation": "Он чувствовал себя слегка виноватым.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_25",
+      "word": "He was innocent.",
+      "translation": "Он был невиновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_26",
+      "word": "Could it have been murder?",
+      "translation": "Это могло быть убийство?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_27",
+      "word": "He was declared guilty.",
+      "translation": "Он был признан виновным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_28",
+      "word": "Does Tom know the rules?",
+      "translation": "Том знает правила?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_29",
+      "word": "Did you talk to a lawyer?",
+      "translation": "Вы говорили с адвокатом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_30",
+      "word": "Isn't this illegal?",
+      "translation": "Разве это не незаконно?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_31",
+      "word": "I think that's legal.",
+      "translation": "Думаю, это законно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_32",
+      "word": "You have to obey the law.",
+      "translation": "Вы должны соблюдать закон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_33",
+      "word": "Tom did nothing illegal.",
+      "translation": "Том не сделал ничего противозаконного.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_34",
+      "word": "I want to call my lawyer.",
+      "translation": "Я хочу позвонить своему адвокату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_35",
+      "word": "Who are you to judge?",
+      "translation": "Кто вы такие, чтобы судить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_36",
+      "word": "Explain the rules to me.",
+      "translation": "Объясни мне правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_37",
+      "word": "We called our lawyer.",
+      "translation": "Мы позвонили своему адвокату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_38",
+      "word": "I have a murder to solve.",
+      "translation": "Мне надо разгадать убийство.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_39",
+      "word": "I know that I'm innocent.",
+      "translation": "Я знаю, что я невиновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_40",
+      "word": "I don't steal.",
+      "translation": "Я не ворую.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_41",
+      "word": "Did you steal that dress?",
+      "translation": "Ты укра́л это платье?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_42",
+      "word": "You're not under arrest.",
+      "translation": "Вы не под арестом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_43",
+      "word": "What proof do you have that he committed this crime?",
+      "translation": "Какие у вас есть доказательства, что он совершил это преступление?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_44",
+      "word": "I didn't ask what the rules were.",
+      "translation": "Я не спросил, какие правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_45",
+      "word": "We hired a good lawyer for Tom.",
+      "translation": "Мы наняли Тому хорошего адвоката.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_46",
+      "word": "It's not entirely legal.",
+      "translation": "Это не совсем законно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_47",
+      "word": "Every religion prohibits murder.",
+      "translation": "Все религии запрещают убийство.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_48",
+      "word": "Tom said he'd consult a lawyer.",
+      "translation": "Том сказал, что проконсультируется с адвокатом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_0_49",
+      "word": "I'm your lawyer.",
+      "translation": "Я твой адвокат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_0",
+      "word": "I told Tom to talk to a lawyer.",
+      "translation": "Я сказал Тому, чтобы он поговорил с адвокатом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_1",
+      "word": "I'll never violate a law again.",
+      "translation": "Я больше никогда не буду нарушать закон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_2",
+      "word": "It's a design flaw.",
+      "translation": "Это конструктивный недостаток.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_3",
+      "word": "Everyone knows Tom is innocent.",
+      "translation": "Все знают, что Том невиновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_4",
+      "word": "It's like a prison here.",
+      "translation": "Тут как в тюрьме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_5",
+      "word": "Tom needs a good lawyer.",
+      "translation": "Тому нужен хороший юрист.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_6",
+      "word": "Tom thinks that Mary is guilty.",
+      "translation": "Том думает, что Мэри виновна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_7",
+      "word": "Tom will end up in jail.",
+      "translation": "Том закончит в тюрьме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_8",
+      "word": "Tom says he's not guilty.",
+      "translation": "Том говорит, что он невиновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_9",
+      "word": "This is perfectly legal.",
+      "translation": "Это абсолютно законно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_10",
+      "word": "Tom is guilty of stealing.",
+      "translation": "Том виновен в краже.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_11",
+      "word": "That's against the rules.",
+      "translation": "Это против правил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_12",
+      "word": "I don't want to end up in court.",
+      "translation": "Я не хочу пойти под суд.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_13",
+      "word": "I didn't know Tom was a lawyer.",
+      "translation": "Не знал, что Том – юрист.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_14",
+      "word": "We've got too many rules.",
+      "translation": "У нас слишком много правил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_15",
+      "word": "Tom has a criminal record.",
+      "translation": "У Тома уголовное прошлое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_16",
+      "word": "It's an illegal practice.",
+      "translation": "Это незаконная практика.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_17",
+      "word": "Have the rules changed?",
+      "translation": "Правила изменились?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_18",
+      "word": "Tom keeps saying he's innocent.",
+      "translation": "Том продолжает говорить, что он невиновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_19",
+      "word": "I don't even remember the rules.",
+      "translation": "Я даже правил не помню.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_20",
+      "word": "He decided to be a lawyer.",
+      "translation": "Он решил стать адвокатом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_21",
+      "word": "I just don't want to go to jail.",
+      "translation": "Я просто не хочу в тюрьму.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_22",
+      "word": "They're under arrest.",
+      "translation": "Они под арестом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_23",
+      "word": "I followed the rules.",
+      "translation": "Я соблюдал правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_24",
+      "word": "Tom wanted to talk to his lawyer.",
+      "translation": "Том хотел поговорить со своим адвокатом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_25",
+      "word": "I'm not a lawyer.",
+      "translation": "Я не адвокат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_26",
+      "word": "Insofar as we know, he is guilty.",
+      "translation": "Насколько мы знаем, он виновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_27",
+      "word": "I didn't steal anything from Tom.",
+      "translation": "Я ничего не крал у Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_28",
+      "word": "Do I need a lawyer?",
+      "translation": "Мне нужен адвокат?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_29",
+      "word": "I thought that he was innocent.",
+      "translation": "Я думал, что он невиновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_30",
+      "word": "Is that law still in force?",
+      "translation": "Этот закон всё ещё в силе?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_31",
+      "word": "The criminal is still at large.",
+      "translation": "Преступник всё ещё не пойман.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_32",
+      "word": "This is a violation of the law.",
+      "translation": "Это является нарушением закона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_33",
+      "word": "Each convent has its own rules.",
+      "translation": "Каждый женский монастырь имеет свои собственные правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_34",
+      "word": "I believe he isn't a lawyer.",
+      "translation": "По-моему, он не адвокат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_35",
+      "word": "Hunger drove him to steal.",
+      "translation": "Голод подтолкнул его к воровству.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_36",
+      "word": "I think you know the rules.",
+      "translation": "Думаю, правила вы знаете.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_37",
+      "word": "They must know that I'm innocent.",
+      "translation": "Они должны знать, что я невиновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_38",
+      "word": "I know that you're guilty.",
+      "translation": "Я знаю, что ты виновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_39",
+      "word": "Does Tom have a criminal record?",
+      "translation": "У Тома есть судимости?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_40",
+      "word": "The jury has returned a verdict of guilty.",
+      "translation": "Присяжные вынесли обвинительный приговор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_41",
+      "word": "We had to retain a lawyer.",
+      "translation": "Нам пришлось нанять адвоката.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_42",
+      "word": "I live by my own rules.",
+      "translation": "Я живу по собственным правилам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_43",
+      "word": "Tom might be in jail.",
+      "translation": "Том, возможно, в тюрьме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_44",
+      "word": "Do you believe Tom is innocent?",
+      "translation": "Ты считаешь, Том невиновен?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_45",
+      "word": "Tom knew Mary wasn't a criminal.",
+      "translation": "Том знал, что Мэри не преступница.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_46",
+      "word": "Tom is in court.",
+      "translation": "Фома в суде.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_47",
+      "word": "I think Tom is guilty.",
+      "translation": "Я думаю, что Том виновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_48",
+      "word": "Rules are rules.",
+      "translation": "Правила есть правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_1_49",
+      "word": "I'm going to visit Tom in jail.",
+      "translation": "Я думаю навестить Тома в тюрьме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_0",
+      "word": "Is Tom a criminal?",
+      "translation": "Том — преступник?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_1",
+      "word": "Are you going to arrest me?",
+      "translation": "Вы меня арестуете?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_2",
+      "word": "You sound like a lawyer.",
+      "translation": "Ты говоришь как адвокат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_3",
+      "word": "Does Tom have a lawyer?",
+      "translation": "У Тома есть адвокат?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_4",
+      "word": "It's hard to steal from a thief.",
+      "translation": "Сложно украсть у вора.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_5",
+      "word": "Tom couldn't afford to hire a lawyer.",
+      "translation": "Том не мог позволить себе нанять адвоката.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_6",
+      "word": "I don't know all the rules.",
+      "translation": "Я не все правила знаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_7",
+      "word": "I'm being treated like a criminal.",
+      "translation": "Со мной обращаются как с преступником.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_8",
+      "word": "Have you ever been in trouble with the law?",
+      "translation": "У тебя когда-нибудь были проблемы с законом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_9",
+      "word": "Tom hopes Mary doesn't end up in jail.",
+      "translation": "Том надеется, что Мэри не попадёт в тюрьму.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_10",
+      "word": "I believe that he is innocent.",
+      "translation": "Я верю, что он невиновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_11",
+      "word": "Is it true that Tom witnessed a murder?",
+      "translation": "Это правда, что Том стал свидетелем убийства?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_12",
+      "word": "Tom said that he didn't have a lawyer.",
+      "translation": "Том сказал, что у него нет адвоката.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_13",
+      "word": "Tell me what the rules are.",
+      "translation": "Скажи мне, какие тут правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_14",
+      "word": "I should've hired a lawyer.",
+      "translation": "Мне стоило нанять адвоката.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_15",
+      "word": "It's our duty to obey the law.",
+      "translation": "Наш долг — повиноваться закону.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_16",
+      "word": "Don't do anything illegal.",
+      "translation": "Не делай ничего незаконного.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_17",
+      "word": "Most people obey the law.",
+      "translation": "Большинство людей подчиняются закону.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_18",
+      "word": "Tom went to prison for selling drugs.",
+      "translation": "Тома посадили за продажу наркотиков.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_19",
+      "word": "I don't think that's legal.",
+      "translation": "Не думаю, что это законно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_20",
+      "word": "Tom never broke any rules.",
+      "translation": "Том никогда не нарушает правил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_21",
+      "word": "I'm convinced Tom isn't guilty.",
+      "translation": "Я убеждён, что Том невиновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_22",
+      "word": "Tom is back in jail.",
+      "translation": "Том опять в тюрьме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_23",
+      "word": "You're entitled to have a lawyer.",
+      "translation": "Вы имеете право на адвоката.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_24",
+      "word": "I have nothing to do with that crime.",
+      "translation": "Я не имею к этому преступлению никакого отношения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_25",
+      "word": "We intend to rob a bank.",
+      "translation": "Мы собираемся ограбить банк.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_26",
+      "word": "He committed an illegal act.",
+      "translation": "Он совершил противозаконное.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_27",
+      "word": "Tom violated the rules.",
+      "translation": "Том нарушил правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_28",
+      "word": "Tom is a very good lawyer.",
+      "translation": "Том очень хороший адвокат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_29",
+      "word": "The rules are very simple.",
+      "translation": "Правила очень простые.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_30",
+      "word": "The lawyer explained the new law to us.",
+      "translation": "Адвокат объяснил нам новый закон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_31",
+      "word": "Tom denied any involvement in the crime.",
+      "translation": "Том отрицал свою причастность к преступлению.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_32",
+      "word": "They're all guilty.",
+      "translation": "Они все виноваты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_33",
+      "word": "Is that a crime?",
+      "translation": "Это преступление?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_34",
+      "word": "It's very important to respect the rules.",
+      "translation": "Очень важно не нарушать правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_35",
+      "word": "Nobody's going to judge you.",
+      "translation": "Никто тебя не осудит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_36",
+      "word": "I need to talk to a lawyer.",
+      "translation": "Мне нужно поговорить с адвокатом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_37",
+      "word": "Don't judge a man by the way he looks.",
+      "translation": "Не суди о человеке по его внешности.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_38",
+      "word": "Tom denied he was involved in the murder.",
+      "translation": "Том отрицал, что замешан в убийстве.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_39",
+      "word": "The rules require us all to be present.",
+      "translation": "Правила требуют, чтобы мы все были.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_40",
+      "word": "Tom isn't in jail.",
+      "translation": "Том не в тюрьме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_41",
+      "word": "I need to call my lawyer.",
+      "translation": "Мне нужно позвонить своему адвокату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_42",
+      "word": "He's not breaking the law.",
+      "translation": "Он не нарушает закон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_43",
+      "word": "Tom broke out of jail.",
+      "translation": "Том сбежал из тюрьмы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_44",
+      "word": "I don't think that I've broken any rules.",
+      "translation": "Я не думаю, что нарушил какие-то правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_45",
+      "word": "Did you murder Tom?",
+      "translation": "Ты убил Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_46",
+      "word": "She advised him to see a lawyer.",
+      "translation": "Она посоветовала ему встретиться с адвокатом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_47",
+      "word": "Tom believes Mary is innocent.",
+      "translation": "Том считает, что Мэри невиновна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_48",
+      "word": "Which rules did Tom break?",
+      "translation": "Какие правила Том нарушил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_2_49",
+      "word": "Perhaps I need a lawyer.",
+      "translation": "Мне может понадобиться адвокат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_0",
+      "word": "What was Tom's crime?",
+      "translation": "В чём состояло преступление Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_1",
+      "word": "Did you arrest Tom?",
+      "translation": "Вы арестовали Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_2",
+      "word": "Tom isn't a criminal.",
+      "translation": "Том не преступник.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_3",
+      "word": "Gay marriage is legal here.",
+      "translation": "Здесь разрешены однополые браки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_4",
+      "word": "I knew that Tom was guilty.",
+      "translation": "Я знала, что Том виновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_5",
+      "word": "Tom doesn't get along with his mother-in-law.",
+      "translation": "Том не ладит со своей тёщей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_6",
+      "word": "Tom said Mary is innocent.",
+      "translation": "Том сказал, что Мэри невиновна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_7",
+      "word": "Is Tom really guilty?",
+      "translation": "Действительно ли Том виноват?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_8",
+      "word": "We had strict rules.",
+      "translation": "У нас были строгие правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_9",
+      "word": "These rules don't apply to us.",
+      "translation": "Эти правила нас не касаются.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_10",
+      "word": "It wasn't a crime.",
+      "translation": "Это было не преступление.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_11",
+      "word": "When were you released from the prison camp?",
+      "translation": "Когда вы были освобождены из лагеря военнопленных?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_12",
+      "word": "Do you really think Tom is guilty?",
+      "translation": "Ты действительно думаешь, что Том виновен?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_13",
+      "word": "I think that Tom is doing something illegal.",
+      "translation": "По-моему, Том делает что-то незаконное.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_14",
+      "word": "I'm in prison now.",
+      "translation": "Я сейчас в тюрьме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_15",
+      "word": "Of the eight, only one was found guilty.",
+      "translation": "Из восьмерых только один был признан виновным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_16",
+      "word": "Let me explain the rules.",
+      "translation": "Давай я объясню правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_17",
+      "word": "Tom said that he was innocent.",
+      "translation": "Том сказал, что он невиновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_18",
+      "word": "Tom hasn't done anything illegal.",
+      "translation": "Том не сделал ничего противозаконного.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_19",
+      "word": "Tom isn't a lawyer anymore.",
+      "translation": "Том уже не адвокат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_20",
+      "word": "Tom and Mary attempted to murder John.",
+      "translation": "Том и Мэри попытались убить Джона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_21",
+      "word": "Tom has been accused of murder.",
+      "translation": "Том обвиняется в убийстве.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_22",
+      "word": "No one's going to judge you.",
+      "translation": "Никто тебя не осудит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_23",
+      "word": "We're looking for a lawyer.",
+      "translation": "Мы ищем адвоката.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_24",
+      "word": "I'm convinced that Tom is guilty.",
+      "translation": "Я убеждён, что Том виновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_25",
+      "word": "Tom is an illegal immigrant.",
+      "translation": "Том является незаконным иммигрантом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_26",
+      "word": "I have to be in court at 2:30.",
+      "translation": "Я должен быть в суде в половине третьего.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_27",
+      "word": "The judge sustained the lawyer's objections.",
+      "translation": "Судья поддержал возражения адвоката.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_28",
+      "word": "He broke the law.",
+      "translation": "Он нарушил закон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_29",
+      "word": "Tom told the judge that he was innocent.",
+      "translation": "Том сказал судье, что он невиновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_30",
+      "word": "An innocent man was arrested by mistake.",
+      "translation": "По ошибке был арестован невиновный мужчина.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_31",
+      "word": "I know it's illegal.",
+      "translation": "Я знаю, что это незаконно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_32",
+      "word": "We've never broken the law.",
+      "translation": "Мы никогда не нарушали закон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_33",
+      "word": "Tom knew a lot about the murder.",
+      "translation": "Том много знал об убийстве.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_34",
+      "word": "He bribed the judge and got off scot-free.",
+      "translation": "Он подкупил судью и вышел сухим из воды.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_35",
+      "word": "Tom hasn't been released from prison yet.",
+      "translation": "Тома ещё не выпустили из тюрьмы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_36",
+      "word": "Tom claimed that he was innocent.",
+      "translation": "Том утверждал, что он невиновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_37",
+      "word": "Tom shared a jail cell with John.",
+      "translation": "Том сидел с Джоном в одной камере.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_38",
+      "word": "I'm your new lawyer.",
+      "translation": "Я Ваш новый адвокат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_39",
+      "word": "How do I know you won't steal it?",
+      "translation": "Откуда мне знать, что ты его не украдёшь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_40",
+      "word": "Has prison changed her?",
+      "translation": "Тюрьма изменила её?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_41",
+      "word": "I broke the law.",
+      "translation": "Я нарушил закон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_42",
+      "word": "Tom claims that he's innocent.",
+      "translation": "Том утверждает, что он невиновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_43",
+      "word": "Is it legal?",
+      "translation": "Это законно?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_44",
+      "word": "We found the murder weapon.",
+      "translation": "Мы нашли орудие убийства.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_45",
+      "word": "He became a successful lawyer.",
+      "translation": "Он стал успешным адвокатом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_46",
+      "word": "Why do I need a lawyer?",
+      "translation": "Зачем мне адвокат?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_47",
+      "word": "Nobody believes you're guilty.",
+      "translation": "Никто не считает тебя виновным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_48",
+      "word": "The rules are simple.",
+      "translation": "Правила просты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_3_49",
+      "word": "He believed in the supreme power of the law.",
+      "translation": "Он верил в верховенство закона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_0",
+      "word": "The punishment must fit the crime.",
+      "translation": "Наказание должно соответствовать преступлению.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_1",
+      "word": "I decided to be a lawyer.",
+      "translation": "Я решил стать адвокатом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_2",
+      "word": "Tom spent three days in jail.",
+      "translation": "Том три дня провёл в тюрьме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_3",
+      "word": "Tom helped Mary escape from jail.",
+      "translation": "Том помог Мэри бежать из тюрьмы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_4",
+      "word": "A legal precedent has been set.",
+      "translation": "Был создан правовой прецедент.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_5",
+      "word": "I know I'm innocent.",
+      "translation": "Я знаю, что я невиновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_6",
+      "word": "Poverty is still the major cause of crime.",
+      "translation": "Бедность - всё ещё главная причина преступлений.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_7",
+      "word": "She should be charged with murder.",
+      "translation": "Она должна понести ответственность за убийство.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_8",
+      "word": "Tom has committed a crime.",
+      "translation": "Том совершил преступление.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_9",
+      "word": "Tom was in jail.",
+      "translation": "Том был в тюрьме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_10",
+      "word": "I think she will succeed as a lawyer.",
+      "translation": "Я думаю, она преуспеет как адвокат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_11",
+      "word": "I hope I can get Tom out of jail.",
+      "translation": "Надеюсь, мне удастся вызволить Тома из тюрьмы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_12",
+      "word": "I told Tom to consult a lawyer.",
+      "translation": "Я сказал Тому, чтобы он проконсультировался с адвокатом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_13",
+      "word": "The murder happened between 3 a.m. and 5 a.m.",
+      "translation": "Убийство произошло между тремя и пятью часами утра.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_14",
+      "word": "Tom pleaded guilty to armed robbery.",
+      "translation": "Том признал себя виновным в вооружённом ограблении.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_15",
+      "word": "Tom died in prison ten years ago.",
+      "translation": "Том умер в тюрьме десять лет назад.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_16",
+      "word": "We're all convinced that Tom is innocent.",
+      "translation": "Мы все убеждены, что Том невиновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_17",
+      "word": "These facts prove that he is innocent.",
+      "translation": "Эти факты говорят о его невиновности.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_18",
+      "word": "Do you think they'll find him guilty?",
+      "translation": "Вы думаете, они признают его виновным?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_19",
+      "word": "Tom pled with the judge for mercy.",
+      "translation": "Том просил судью о снисхождении.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_20",
+      "word": "I'm Tom's legal guardian.",
+      "translation": "Я законный опекун Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_21",
+      "word": "Tom already knows the rules.",
+      "translation": "Том уже знает правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_22",
+      "word": "Tom has been found guilty.",
+      "translation": "Том был признан виновным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_23",
+      "word": "It's our duty to always obey the law.",
+      "translation": "Всегда соблюдать закон - это наша обязанность.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_24",
+      "word": "It is clear that he is guilty.",
+      "translation": "Очевидно, что он виновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_25",
+      "word": "Tom is really a good lawyer.",
+      "translation": "Том действительно хороший адвокат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_26",
+      "word": "The motive for the murder is not yet known.",
+      "translation": "Мотив убийства до сих пор не известен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_27",
+      "word": "You have no legal right to seize my property.",
+      "translation": "Вы не имеете права конфисковывать моё имущество.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_28",
+      "word": "I still think Tom is guilty.",
+      "translation": "Я всё ещё считаю Тома виновным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_29",
+      "word": "We have very strict rules.",
+      "translation": "У нас очень строгие правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_30",
+      "word": "Tom felt rather guilty.",
+      "translation": "Том ощущал немалую вину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_31",
+      "word": "Tom was found guilty and fined.",
+      "translation": "Том был признан виновным и оштрафован.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_32",
+      "word": "The prison is heavily guarded.",
+      "translation": "Тюрьма строго охраняется.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_33",
+      "word": "I didn't know that what I'd done was illegal.",
+      "translation": "Я не знал, что то, что я сделал, незаконно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_34",
+      "word": "Tom is breaking the law.",
+      "translation": "Том нарушает закон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_35",
+      "word": "I don't have a lawyer.",
+      "translation": "У меня нет адвоката.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_36",
+      "word": "The witnesses appeared before the judge.",
+      "translation": "Свидетели предстали перед судьёй.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_37",
+      "word": "The judge condemned him to death.",
+      "translation": "Судья приговорил его к смерти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_38",
+      "word": "The murder weapon wasn't found.",
+      "translation": "Орудие убийства не было найдено.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_39",
+      "word": "It's a very serious crime.",
+      "translation": "Это очень серьёзное преступление.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_40",
+      "word": "When will Tom be released from jail?",
+      "translation": "Когда Тома выпустят из тюрьмы?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_41",
+      "word": "Tom isn't guilty.",
+      "translation": "Том невиновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_42",
+      "word": "You'll be punished if you break the law.",
+      "translation": "Вы будете наказаны, если нарушите закон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_43",
+      "word": "Tom and Mary aren't guilty.",
+      "translation": "Том и Мэри невиновны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_44",
+      "word": "Tom isn't in prison anymore.",
+      "translation": "Том больше не в тюрьме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_45",
+      "word": "Don't judge Tom too harshly.",
+      "translation": "Не судите Тома слишком строго.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_46",
+      "word": "We didn't steal it.",
+      "translation": "Мы его не крали.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_47",
+      "word": "I know my legal rights.",
+      "translation": "Я знаю свои законные права.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_48",
+      "word": "I found out Tom has a criminal record.",
+      "translation": "Я узнал, что у Тома криминальное прошлое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_4_49",
+      "word": "They must know I'm innocent.",
+      "translation": "Они должны знать, что я невиновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_0",
+      "word": "Tom doesn't get along with his father-in-law.",
+      "translation": "Том не ладит со своим тестем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_1",
+      "word": "Drivers must observe the traffic rules.",
+      "translation": "Водители должны соблюдать правила дорожного движения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_2",
+      "word": "I doubt if he is a lawyer.",
+      "translation": "Сомневаюсь, что он адвокат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_3",
+      "word": "What Tom and I are doing is perfectly legal.",
+      "translation": "То, что мы с Томом делаем, совершенно законно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_4",
+      "word": "Mary doesn't like her mother-in-law.",
+      "translation": "Мэри не нравится её свекровь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_5",
+      "word": "Jealousy was the motive for the murder.",
+      "translation": "Мотивом убийства была ревность.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_6",
+      "word": "There are rules.",
+      "translation": "Есть правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_7",
+      "word": "That's not legal.",
+      "translation": "Это незаконно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_8",
+      "word": "There are no rules without exceptions.",
+      "translation": "Нет правил без исключений.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_9",
+      "word": "Are you a lawyer?",
+      "translation": "Ты адвокат?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_10",
+      "word": "Schools often have a lot of rules.",
+      "translation": "В школах часто много правил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_11",
+      "word": "Tom isn't a lawyer yet.",
+      "translation": "Том ещё не адвокат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_12",
+      "word": "I forgot the rules.",
+      "translation": "Я забыл правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_13",
+      "word": "I hate rules.",
+      "translation": "Ненавижу правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_14",
+      "word": "This is my mother-in-law.",
+      "translation": "Это моя тёща.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_15",
+      "word": "Why do you want to become a lawyer?",
+      "translation": "Почему ты хочешь стать адвокатом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_16",
+      "word": "Let me call my lawyer.",
+      "translation": "Позвольте мне позвонить моему адвокату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_17",
+      "word": "I've never done anything illegal in my life.",
+      "translation": "Я никогда в жизни не делал ничего противозаконного.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_18",
+      "word": "It's against the law to carry weapons.",
+      "translation": "Ношение оружия противозаконно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_19",
+      "word": "In Esperanto there are only 16 grammar rules.",
+      "translation": "В эсперанто всего шестнадцать грамматических правил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_20",
+      "word": "Tom is convinced Mary is innocent.",
+      "translation": "Том убеждён, что Мэри невиновна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_21",
+      "word": "The murderer confessed his crime.",
+      "translation": "Убийца признался в преступлении.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_22",
+      "word": "I'm a criminal.",
+      "translation": "Я преступник.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_23",
+      "word": "Are you in trouble with the law?",
+      "translation": "У тебя проблемы с законом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_24",
+      "word": "Gambling is prohibited by law.",
+      "translation": "Азартные игры запрещены законом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_25",
+      "word": "Tom thought Mary was guilty.",
+      "translation": "Том считал, что Мэри виновна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_26",
+      "word": "The jury found Tom not guilty.",
+      "translation": "Присяжные признали Тома невиновным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_27",
+      "word": "The jail is overcrowded.",
+      "translation": "Тюрьма переполнена.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_28",
+      "word": "I didn't steal it. You can check my pockets.",
+      "translation": "Я её не крал. Можете проверить мои карманы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_29",
+      "word": "He was convicted of murder.",
+      "translation": "Он был осуждён за убийство.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_30",
+      "word": "I have a warrant for Tom's arrest.",
+      "translation": "У меня ордер на арест Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_31",
+      "word": "All men are equal under the law.",
+      "translation": "Перед законом все люди равны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_32",
+      "word": "Tom is convinced that Mary is innocent.",
+      "translation": "Том убеждён, что Мэри невиновна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_33",
+      "word": "He was sent to jail for murder.",
+      "translation": "Он был отправлен в тюрьму за убийство.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_34",
+      "word": "Tom doesn't know all the rules.",
+      "translation": "Том не знает всех правил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_35",
+      "word": "Gambling is legal in Nevada.",
+      "translation": "В Неваде азартные игры разрешены.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_36",
+      "word": "Am I going to need a lawyer?",
+      "translation": "Мне понадобится адвокат?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_37",
+      "word": "There are too many rules.",
+      "translation": "Слишком много правил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_38",
+      "word": "Tom is in prison again.",
+      "translation": "Том опять в тюрьме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_39",
+      "word": "How did Tom get out of jail?",
+      "translation": "Как Том выбрался из тюрьмы?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_40",
+      "word": "Tom didn't steal anything.",
+      "translation": "Том ничего не украл.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_41",
+      "word": "Tom told me he knew the rules.",
+      "translation": "Том сказал мне, что правила он знает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_42",
+      "word": "I think she's innocent.",
+      "translation": "Я думаю, она невиновна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_43",
+      "word": "Tom has a good lawyer.",
+      "translation": "У Тома есть хороший адвокат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_44",
+      "word": "You're a terrible judge of character.",
+      "translation": "Ты очень плохо разбираешься в людях.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_45",
+      "word": "I don't believe you're guilty.",
+      "translation": "Я не верю, что ты виновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_46",
+      "word": "I don't believe he is a lawyer.",
+      "translation": "Не думаю, что он адвокат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_47",
+      "word": "No one has been convicted of the crime yet.",
+      "translation": "Никто ещё не был обвинён в этом преступлении.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_48",
+      "word": "Isn't that illegal?",
+      "translation": "Это разве не незаконно?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_5_49",
+      "word": "Tom was guilty.",
+      "translation": "Том был виновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_0",
+      "word": "We sometimes judge others based on their actions.",
+      "translation": "Иногда мы судим других по их поступкам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_1",
+      "word": "Tom was feeling a little guilty.",
+      "translation": "Том чувствовал себя немного виноватым.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_2",
+      "word": "I wonder if Tom is guilty.",
+      "translation": "Интересно, виновен ли Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_3",
+      "word": "Tom belongs in jail.",
+      "translation": "Тому место в тюрьме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_4",
+      "word": "I know all the rules.",
+      "translation": "Я знаю все правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_5",
+      "word": "I'm Tom's mother-in-law.",
+      "translation": "Я тёща Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_6",
+      "word": "We should hire Tom a lawyer.",
+      "translation": "Нам надо нанять Тому адвоката.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_7",
+      "word": "The accused told the judge that he was innocent.",
+      "translation": "Обвиняемый заявил судье, что он невиновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_8",
+      "word": "Murder is against the law.",
+      "translation": "Убийство противозаконно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_9",
+      "word": "Tom was a successful lawyer.",
+      "translation": "Том был успешным адвокатом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_10",
+      "word": "Do you know the rules?",
+      "translation": "Правила знаешь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_11",
+      "word": "Tom doesn't need a lawyer.",
+      "translation": "Тому не нужен адвокат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_12",
+      "word": "I was a criminal.",
+      "translation": "Я был преступником.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_13",
+      "word": "We must obey the rules.",
+      "translation": "Мы должны следовать правилам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_14",
+      "word": "Can I speak to my lawyer?",
+      "translation": "Я могу поговорить со своим адвокатом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_15",
+      "word": "I wanted to be a lawyer.",
+      "translation": "Я хотел стать адвокатом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_16",
+      "word": "Ten prisoners broke out of jail.",
+      "translation": "Десять заключённых сбежали из тюрьмы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_17",
+      "word": "That law isn't being enforced anymore.",
+      "translation": "Этот закон больше не соблюдается.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_18",
+      "word": "There's no doubt that he's innocent.",
+      "translation": "Нет сомнений в том, что он невиновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_19",
+      "word": "I think I need a lawyer.",
+      "translation": "Думаю, мне нужен адвокат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_20",
+      "word": "Where's my lawyer?",
+      "translation": "Где мой адвокат?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_21",
+      "word": "Was Tom found innocent?",
+      "translation": "Тома признали невиновным?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_22",
+      "word": "Tom's arrest was unexpected.",
+      "translation": "Арест Тома был неожиданным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_23",
+      "word": "It is bad to steal.",
+      "translation": "Воровать плохо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_24",
+      "word": "I didn't make the rules.",
+      "translation": "Не я придумал правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_25",
+      "word": "Tom has been looking for another lawyer.",
+      "translation": "Том ищет другого адвоката.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_26",
+      "word": "You can go to prison for that.",
+      "translation": "Тебя могут за это в тюрьму посадить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_27",
+      "word": "Tom knew the rules.",
+      "translation": "Том знал правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_28",
+      "word": "I'll get you another lawyer.",
+      "translation": "Я достану тебе другого адвоката.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_29",
+      "word": "I don't know all the rules yet.",
+      "translation": "Я ещё не знаю всех правил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_30",
+      "word": "Is this the murder weapon?",
+      "translation": "Это орудие убийства?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_31",
+      "word": "We're going to need a lawyer.",
+      "translation": "Нам понадобится адвокат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_32",
+      "word": "Tom died in jail.",
+      "translation": "Том умер в тюрьме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_33",
+      "word": "Why did they arrest Tom?",
+      "translation": "Почему они арестовали Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_34",
+      "word": "I didn't steal it. I just borrowed it.",
+      "translation": "Я это не крал, а просто одолжил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_35",
+      "word": "This is the law of the jungle.",
+      "translation": "Это закон джунглей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_36",
+      "word": "They declared that they were innocent.",
+      "translation": "Они заявили, что невиновны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_37",
+      "word": "I'm here to report a crime.",
+      "translation": "Я пришёл заявить о преступлении.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_38",
+      "word": "Does the death penalty stop crime?",
+      "translation": "Предотвращает ли смертная казнь преступность?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_39",
+      "word": "Tom is an outlaw.",
+      "translation": "Том — разбойник.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_40",
+      "word": "They fined him 5,000 yen for illegal parking.",
+      "translation": "Они оштрафовал его на 5000 иен за неправильную парковку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_41",
+      "word": "Tom is a criminal.",
+      "translation": "Том — преступник.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_42",
+      "word": "I met Tom in jail.",
+      "translation": "Я познакомился с Томом в тюрьме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_43",
+      "word": "We all know Tom is guilty.",
+      "translation": "Все мы знаем, что Том виноват.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_44",
+      "word": "The rules are clear.",
+      "translation": "Правила понятны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_45",
+      "word": "Tom could go to jail for three years.",
+      "translation": "Том мог угодить в тюрьму на три года.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_46",
+      "word": "Nobody seemed to have a motive for the murder.",
+      "translation": "Казалось, никто не имел повода для убийства.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_47",
+      "word": "I'm not guilty of anything.",
+      "translation": "Я ни в чём не виноват.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_48",
+      "word": "I was found guilty.",
+      "translation": "Меня признали виновным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_6_49",
+      "word": "How long were you in jail?",
+      "translation": "Как долго вы были в тюрьме?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_0",
+      "word": "I make the rules.",
+      "translation": "Я устанавливаю правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_1",
+      "word": "The rules are the same for everyone.",
+      "translation": "Правила одинаковы для всех.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_2",
+      "word": "Tom said that Mary was innocent.",
+      "translation": "Том сказал, что Мэри невиновна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_3",
+      "word": "Judge for yourself.",
+      "translation": "Посудите сами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_4",
+      "word": "What did you steal from Tom?",
+      "translation": "Что ты украл у Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_5",
+      "word": "I think what you just did is illegal.",
+      "translation": "Я думаю, что то, что вы только что сделали, незаконно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_6",
+      "word": "Tom spent Christmas in jail.",
+      "translation": "Том провёл Рождество в тюрьме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_7",
+      "word": "You all know I'm not a criminal.",
+      "translation": "Вы все знаете, что я не преступник.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_8",
+      "word": "I didn't even know that was legal.",
+      "translation": "Я и не знал, что это законно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_9",
+      "word": "Is bigamy a crime in Australia?",
+      "translation": "Двоебрачие является преступлением в Австралии?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_10",
+      "word": "Slavery was legal there.",
+      "translation": "Рабство там было узаконено.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_11",
+      "word": "One must follow the rules.",
+      "translation": "Нужно следовать правилам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_12",
+      "word": "Tom is a wanted criminal.",
+      "translation": "Том — разыскиваемый преступник.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_13",
+      "word": "Tom didn't think he was committing a crime.",
+      "translation": "Том не думал, что совершает преступление.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_14",
+      "word": "A crime has been committed.",
+      "translation": "Было совершено преступление.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_15",
+      "word": "We don't have any rules.",
+      "translation": "У нас нет никаких правил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_16",
+      "word": "Tom doesn't want to go to jail.",
+      "translation": "Том не хочет в тюрьму.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_17",
+      "word": "Poaching means illegal hunting or fishing.",
+      "translation": "Браконьерство означает незаконную охоту или рыбалку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_18",
+      "word": "I don't think Tom knows the rules yet.",
+      "translation": "Не думаю, что Том уже знает правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_19",
+      "word": "I have only one flaw.",
+      "translation": "У меня есть только один недостаток.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_20",
+      "word": "Tom should've obeyed the rules.",
+      "translation": "Тому надо было придерживаться правил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_21",
+      "word": "Has Tom ever been in trouble with the law?",
+      "translation": "У Тома когда-нибудь были проблемы с законом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_22",
+      "word": "You are supposed to obey the law.",
+      "translation": "Вы должны соблюдать закон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_23",
+      "word": "Tom is too poor to hire a lawyer.",
+      "translation": "Том слишком беден, чтобы нанять адвоката.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_24",
+      "word": "I don't think I broke any rules.",
+      "translation": "Не думаю, что я нарушил какие-то правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_25",
+      "word": "I didn't know that what I'd done wasn't legal.",
+      "translation": "Я не знал, что то, что я сделал, незаконно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_26",
+      "word": "Tom is a successful lawyer.",
+      "translation": "Том - преуспевающий адвокат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_27",
+      "word": "He has spent ten years in jail for murder.",
+      "translation": "Он отсидел десять лет за убийство.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_28",
+      "word": "Don't act like you're so innocent.",
+      "translation": "Не строй из себя невинность.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_29",
+      "word": "Tom feels very guilty about what happened.",
+      "translation": "Том чувствует себя очень виноватым в том, что произошло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_30",
+      "word": "Tom is still in jail.",
+      "translation": "Том всё ещё в тюрьме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_31",
+      "word": "He explained the rules in detail.",
+      "translation": "Он подробно объяснил правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_32",
+      "word": "You must observe the rules of the club.",
+      "translation": "Вы должны соблюдать правила клуба.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_33",
+      "word": "Tom confessed to the murder.",
+      "translation": "Том признался в убийстве.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_34",
+      "word": "You shouldn't judge others on how they look.",
+      "translation": "Не судите по одёжке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_35",
+      "word": "I still think Tom is innocent.",
+      "translation": "Я всё ещё считаю, что Том невиновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_36",
+      "word": "I don't have a criminal record.",
+      "translation": "У меня нет судимостей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_37",
+      "word": "Tom said he's innocent.",
+      "translation": "Том сказал, что он невиновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_38",
+      "word": "Tom has been in prison for three years.",
+      "translation": "Том сидит в тюрьме уже три года.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_39",
+      "word": "I've been trying to follow the rules.",
+      "translation": "Я стараюсь следовать правилам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_40",
+      "word": "Tom says he did nothing illegal.",
+      "translation": "Том говорит, что не сделал ничего незаконного.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_41",
+      "word": "This is one of the basic rules.",
+      "translation": "Это одно из основных правил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_42",
+      "word": "It's perfectly legal.",
+      "translation": "Это совершенно законно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_43",
+      "word": "We should obey the law.",
+      "translation": "Мы должны соблюдать закон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_44",
+      "word": "We make our own rules.",
+      "translation": "Мы устанавливаем свои собственные правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_45",
+      "word": "Tom says that he did nothing illegal.",
+      "translation": "Том говорит, что не сделал ничего незаконного.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_46",
+      "word": "Are you here to arrest me?",
+      "translation": "Ты здесь, чтобы арестовать меня?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_47",
+      "word": "A detective arrived upon the scene of the crime.",
+      "translation": "На место преступления прибыл детектив.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_48",
+      "word": "Tom is in jail now.",
+      "translation": "Том сейчас в тюрьме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_7_49",
+      "word": "I heard you were looking for a lawyer.",
+      "translation": "Я слышал, ты ищешь адвоката.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_0",
+      "word": "All you need is a good lawyer.",
+      "translation": "Всё, что тебе нужно, - это хороший адвокат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_1",
+      "word": "I want to speak to my lawyer.",
+      "translation": "Я хочу поговорить со своим адвокатом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_2",
+      "word": "He served a ten-year prison term.",
+      "translation": "Он отсидел в тюрьме десять лет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_3",
+      "word": "I can recommend a good lawyer.",
+      "translation": "Я могу порекомендовать хорошего адвоката.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_4",
+      "word": "I'm going to jail.",
+      "translation": "Меня посадят.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_5",
+      "word": "I have nothing to do with the crime.",
+      "translation": "Я не имею никакого отношения к этому преступлению.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_6",
+      "word": "Are they going to arrest Tom?",
+      "translation": "Они арестуют Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_7",
+      "word": "They tried to rob me.",
+      "translation": "Они пытались меня ограбить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_8",
+      "word": "Tom didn't break the law.",
+      "translation": "Том не нарушал закон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_9",
+      "word": "We didn't rob the bank.",
+      "translation": "Мы не грабили банк.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_10",
+      "word": "Tom explained the rules to Mary in detail.",
+      "translation": "Том подробно объяснил Мэри правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_11",
+      "word": "I have no acquaintance with court procedure.",
+      "translation": "Я не имею никакого понятия о судебной процедуре.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_12",
+      "word": "What are the rules again?",
+      "translation": "Какие там правила?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_13",
+      "word": "I believe Tom is innocent.",
+      "translation": "Я верю, что Том невиновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_14",
+      "word": "We're investigating a possible murder.",
+      "translation": "Мы расследуем возможное убийство.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_15",
+      "word": "Tom has hired a lawyer.",
+      "translation": "Том нанял адвоката.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_16",
+      "word": "I'm Tom's lawyer.",
+      "translation": "Я адвокат Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_17",
+      "word": "I won't judge you.",
+      "translation": "Я не буду тебя судить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_18",
+      "word": "The lawyer believed in his client's innocence.",
+      "translation": "Адвокат верил в невиновность своего клиента.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_19",
+      "word": "Tom believes that Mary is innocent.",
+      "translation": "Том считает, что Мэри невиновна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_20",
+      "word": "Tom is in prison for a crime he didn't commit.",
+      "translation": "Том находится в тюрьме за преступление, которого он не совершал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_21",
+      "word": "I would rather die than steal from others.",
+      "translation": "Я бы лучше умер, чем стал красть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_22",
+      "word": "Tom hasn't broken any rules yet.",
+      "translation": "Том пока не нарушил никаких правил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_23",
+      "word": "Tom is in prison for murder.",
+      "translation": "Том сидит в тюрьме за убийство.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_24",
+      "word": "Jaywalking is dangerous and illegal.",
+      "translation": "Переходить дорогу в неположенном месте опасно и незаконно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_25",
+      "word": "Tom had a lot of information about the murder.",
+      "translation": "У Тома было много информации об убийстве.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_26",
+      "word": "They treated me like a criminal.",
+      "translation": "Они обращались со мной как с преступником.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_27",
+      "word": "You have to judge the case without bias.",
+      "translation": "Ты должен вынести приговор по этому делу беспристрастно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_28",
+      "word": "Tom said that Mary is innocent.",
+      "translation": "Том сказал, что Мэри невиновна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_29",
+      "word": "Tom studied law at Harvard.",
+      "translation": "Том изучал юриспруденцию в Гарварде.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_30",
+      "word": "He realized the magnitude of his crime.",
+      "translation": "Он осознал размеры своего преступления.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_31",
+      "word": "What is Tom guilty of?",
+      "translation": "В чём Том виноват?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_32",
+      "word": "This is legal.",
+      "translation": "Это законно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_33",
+      "word": "I couldn't afford a lawyer.",
+      "translation": "Я не мог позволить себе адвоката.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_34",
+      "word": "I'm convinced that Tom is innocent.",
+      "translation": "Я убеждён, что Том невиновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_35",
+      "word": "Tom has no prison record.",
+      "translation": "У Тома нет тюремного прошлого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_36",
+      "word": "Tom hasn't actually done anything illegal.",
+      "translation": "Том, вообще-то, не сделал ничего противозаконного.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_37",
+      "word": "What I want is for everyone to follow the rules.",
+      "translation": "Чего я хочу, так это чтобы все соблюдали правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_38",
+      "word": "He broke the rules.",
+      "translation": "Он нарушил правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_39",
+      "word": "You're violating the law.",
+      "translation": "Ты нарушаешь закон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_40",
+      "word": "I know Tom is a prison guard.",
+      "translation": "Я знаю, что Том - охранник в тюрьме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_41",
+      "word": "Tom said he didn't need a lawyer.",
+      "translation": "Том сказал, что ему не нужен адвокат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_42",
+      "word": "Tom is probably still in jail.",
+      "translation": "Том, наверное, до сих пор в тюрьме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_43",
+      "word": "I don't think I've broken any rules.",
+      "translation": "Я не думаю, что нарушил какие-то правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_44",
+      "word": "Can I speak to a lawyer?",
+      "translation": "Я могу поговорить с адвокатом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_45",
+      "word": "We could go to prison for doing this.",
+      "translation": "Нас могут посадить в тюрьму за это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_46",
+      "word": "Tom was a lawyer.",
+      "translation": "Том был адвокатом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_47",
+      "word": "I like my mother-in-law.",
+      "translation": "Мне нравится моя свекровь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_48",
+      "word": "I've hired a new lawyer.",
+      "translation": "Я нанял нового адвоката.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_8_49",
+      "word": "I'd rather starve than steal.",
+      "translation": "Я предпочитаю умереть с голоду, чем воровать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_0",
+      "word": "It's not illegal.",
+      "translation": "Это не незаконно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_1",
+      "word": "I know the rules.",
+      "translation": "Я знаю правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_2",
+      "word": "I doubt that Tom is guilty.",
+      "translation": "Сомневаюсь, что Том виноват.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_3",
+      "word": "I went to the scene of the crime.",
+      "translation": "Я пошёл на место преступления.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_4",
+      "word": "I insist that I'm innocent.",
+      "translation": "Я настаиваю на том, что я невиновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_5",
+      "word": "The prisoner dug a hole under the prison wall.",
+      "translation": "Заключённый вырыл яму под тюремной стеной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_6",
+      "word": "Every nunnery has its own rules.",
+      "translation": "Каждый женский монастырь имеет свои собственные правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_7",
+      "word": "You need to follow the rules.",
+      "translation": "Вы должны соблюдать правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_8",
+      "word": "You shouldn't judge a person by what he wears.",
+      "translation": "Не следует судить человека по тому, как он одет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_9",
+      "word": "That crime is punishable by death.",
+      "translation": "Это преступление карается смертью.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_10",
+      "word": "I'm not a criminal.",
+      "translation": "Я не преступник.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_11",
+      "word": "They were all guilty.",
+      "translation": "Они все были виноваты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_12",
+      "word": "It's not against the law.",
+      "translation": "Это не противоречит закону.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_13",
+      "word": "That's not a crime.",
+      "translation": "Это не преступление.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_14",
+      "word": "Are they going to arrest you?",
+      "translation": "Они собираются арестовать тебя?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_15",
+      "word": "It was evident to all of us that he was innocent.",
+      "translation": "Нам всем было очевидно, что он невиновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_16",
+      "word": "We need a lawyer.",
+      "translation": "Нам нужен адвокат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_17",
+      "word": "Is Tom being charged with a crime?",
+      "translation": "Том обвиняется в преступлении?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_18",
+      "word": "Tom witnessed the murder.",
+      "translation": "Том был свидетелем убийства.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_19",
+      "word": "It was a crime of passion.",
+      "translation": "Это было преступление страсти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_20",
+      "word": "The judge gave Tom 30 years.",
+      "translation": "Судья дал Тому тридцать лет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_21",
+      "word": "Tom says that Mary is innocent.",
+      "translation": "Том говорит, что Мэри невиновна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_22",
+      "word": "Tom didn't know the rules.",
+      "translation": "Том не знал правил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_23",
+      "word": "When is it OK to break rules?",
+      "translation": "Когда можно нарушать правила?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_24",
+      "word": "Tom looked very guilty.",
+      "translation": "Том выглядел очень виноватым.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_25",
+      "word": "Tom wants to call his lawyer.",
+      "translation": "Том хочет позвонить своему адвокату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_26",
+      "word": "Tom would make a good lawyer.",
+      "translation": "Из Тома вышел бы хороший адвокат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_27",
+      "word": "Tom is innocent.",
+      "translation": "Том невиновен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_28",
+      "word": "The law is clear.",
+      "translation": "Закон понятный.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_29",
+      "word": "This is an ancient law.",
+      "translation": "Это древний закон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_30",
+      "word": "Every crime must be punished.",
+      "translation": "Всякое преступление должно быть наказано.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_31",
+      "word": "Why did you steal your grandmother's jewelry?",
+      "translation": "Почему ты украл драгоценности своей бабушки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_32",
+      "word": "Tom is Mary's father-in-law.",
+      "translation": "Том — свёкор Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_33",
+      "word": "He was hanged for murder.",
+      "translation": "Он был повешен за убийство.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_34",
+      "word": "I heard of his involvement in crime.",
+      "translation": "Я слышал о его криминальной деятельности.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_35",
+      "word": "That law is full of ambiguities.",
+      "translation": "В этом законе полно неясностей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_36",
+      "word": "We were innocent.",
+      "translation": "Мы были невинны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_37",
+      "word": "They found him guilty.",
+      "translation": "Они признали его виновным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_38",
+      "word": "Tom was breaking the rules.",
+      "translation": "Том нарушал правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_39",
+      "word": "I'm not going to judge you.",
+      "translation": "Я не собираюсь тебя осуждать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_40",
+      "word": "I don't want Tom to go to jail.",
+      "translation": "Я не хочу, чтобы Том сел в тюрьму.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_41",
+      "word": "We're investigating Tom Jackson's murder.",
+      "translation": "Мы расследуем убийство Тома Джексона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_42",
+      "word": "I didn't know what we were doing wasn't legal.",
+      "translation": "Я не знал, что то, что мы делаем, незаконно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_43",
+      "word": "Tom was found guilty of first-degree murder.",
+      "translation": "Тома признали виновным в убийстве первой степени.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_44",
+      "word": "Tom convinced Mary that John was innocent.",
+      "translation": "Том убедил Мэри в невиновности Джона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_45",
+      "word": "Obey the law.",
+      "translation": "Повинуйтесь закону.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_46",
+      "word": "I'm investigating a murder.",
+      "translation": "Я расследую убийство.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_47",
+      "word": "Tom tried to steal my girlfriend from me.",
+      "translation": "Том пытался увести у меня девушку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_48",
+      "word": "Tom is a really good lawyer.",
+      "translation": "Том очень хороший адвокат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_laworder_9_49",
+      "word": "Why did you become a lawyer?",
+      "translation": "Почему ты стал адвокатом?",
+      "language": "en"
+    }
+  ]
+}

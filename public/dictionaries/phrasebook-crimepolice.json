@@ -1,0 +1,2107 @@
+{
+  "id": "phrasebook-crimepolice",
+  "name": "Crime & Police",
+  "description": "Phrasebook for Crime & Police",
+  "entries": [
+    {
+      "id": "pb_crimepolice_0_0",
+      "word": "Where did Tom find this evidence?",
+      "translation": "Где Том нашёл эти доказательства?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_1",
+      "word": "Tom is an eyewitness.",
+      "translation": "Том — свидетель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_2",
+      "word": "Don't be a victim.",
+      "translation": "Не будь жертвой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_3",
+      "word": "I didn't suspect anything.",
+      "translation": "Я ни о чём не подозревал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_4",
+      "word": "I suspect Tom has been arrested.",
+      "translation": "Подозреваю, что Тома арестовали.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_5",
+      "word": "Tom was the main suspect.",
+      "translation": "Том был главным подозреваемым.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_6",
+      "word": "Tom has become a suspect.",
+      "translation": "Том стал подозреваемым.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_7",
+      "word": "Tom is a retired detective.",
+      "translation": "Том — детектив в отставке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_8",
+      "word": "I suspect that Tom is here.",
+      "translation": "Подозреваю, Том здесь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_9",
+      "word": "Tom realized he was a suspect.",
+      "translation": "Том осознавал, что он подозреваемый.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_10",
+      "word": "What evidence do you have?",
+      "translation": "Какие у вас есть доказательства?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_11",
+      "word": "I'm a witness.",
+      "translation": "Я свидетель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_12",
+      "word": "I need evidence.",
+      "translation": "Мне нужны доказательства.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_13",
+      "word": "There's no evidence.",
+      "translation": "Этому нет доказательств.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_14",
+      "word": "The man was charged with theft.",
+      "translation": "Этот человек был обвинен в воровстве.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_15",
+      "word": "I suspect Tom isn't in Boston.",
+      "translation": "Я подозреваю, что Том не в Бостоне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_16",
+      "word": "You're the only witness.",
+      "translation": "Ты единственный свидетель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_17",
+      "word": "I knew Tom would suspect me.",
+      "translation": "Я знал, что Том будет меня подозревать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_18",
+      "word": "I've got no evidence.",
+      "translation": "У меня нет доказательств.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_19",
+      "word": "Get me the evidence.",
+      "translation": "Приведи улики.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_20",
+      "word": "The evidence is overwhelming.",
+      "translation": "Доказательств предостаточно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_21",
+      "word": "We suspect poisoning.",
+      "translation": "Мы подозреваем отравление.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_22",
+      "word": "Am I no longer a suspect?",
+      "translation": "Я уже не подозреваемый?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_23",
+      "word": "I'm not a cop.",
+      "translation": "Я не полицейский.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_24",
+      "word": "The victim was a woman.",
+      "translation": "Жертвой была женщина.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_25",
+      "word": "I'm not a detective.",
+      "translation": "Я не детектив.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_26",
+      "word": "Tom found evidence.",
+      "translation": "Том нашёл улики.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_27",
+      "word": "Who do you suspect?",
+      "translation": "Кого ты подозреваешь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_28",
+      "word": "How did you get to be a cop?",
+      "translation": "Как ты стал копом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_29",
+      "word": "I was a witness.",
+      "translation": "Я был свидетелем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_30",
+      "word": "Tom confessed to the robbery.",
+      "translation": "Том сознался в краже.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_31",
+      "word": "I'd like to report a theft.",
+      "translation": "Я хотел бы сообщить о краже.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_32",
+      "word": "I don't have a clue who he is.",
+      "translation": "Не имею ни малейшего понятия, кто он.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_33",
+      "word": "You're a suspect.",
+      "translation": "Ты подозреваемый.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_34",
+      "word": "The evidence was against me.",
+      "translation": "Доказательства были против меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_35",
+      "word": "I didn't have a clue.",
+      "translation": "Я понятия не имел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_36",
+      "word": "I suspect Tom won't wait until we get there.",
+      "translation": "Подозреваю, что Том не будет ждать, пока мы туда доберёмся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_37",
+      "word": "I suspect that Tom isn't in Boston.",
+      "translation": "Я подозреваю, что Том не в Бостоне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_38",
+      "word": "I suspect that Tom didn't do this.",
+      "translation": "Я подозреваю, что Том этого не делал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_39",
+      "word": "The witness perjured herself on the stand.",
+      "translation": "Свидетельница дала ложное показание под присягой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_40",
+      "word": "The suspect confessed.",
+      "translation": "Подозреваемый сознался.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_41",
+      "word": "We suspect him of telling a lie.",
+      "translation": "Мы подозреваем, что он лжёт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_42",
+      "word": "Tom didn't suspect a thing.",
+      "translation": "Том ничего не подозревал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_43",
+      "word": "The evidence is all circumstantial.",
+      "translation": "Все улики косвенные.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_44",
+      "word": "I suspect that you've conspired against me.",
+      "translation": "Я подозреваю, что вы в сговоре против меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_45",
+      "word": "How did you become a cop?",
+      "translation": "Как ты стала полицейским?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_46",
+      "word": "I suspect that Tom doesn't want to do that anymore.",
+      "translation": "Подозреваю, что Том больше не хочет это делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_47",
+      "word": "Tom was the victim of a self-inflicted gunshot wound.",
+      "translation": "Том был жертвой «самострела».",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_48",
+      "word": "I had no clue.",
+      "translation": "Я понятия не имел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_0_49",
+      "word": "This man was charged with theft.",
+      "translation": "Этого человека обвинили в воровстве.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_0",
+      "word": "I don't have enough evidence.",
+      "translation": "У меня недостаточно доказательств.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_1",
+      "word": "The assassin smothered his victim with a pillow.",
+      "translation": "Убийца задушил свою жертву подушкой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_2",
+      "word": "It was an armed robbery.",
+      "translation": "Это было вооружённое ограбление.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_3",
+      "word": "I have no clue what you're going to do.",
+      "translation": "Понятия не имею, что ты будешь делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_4",
+      "word": "Tom provided evidence.",
+      "translation": "Том предоставил доказательства.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_5",
+      "word": "I'm a cop.",
+      "translation": "Я полицейская.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_6",
+      "word": "I suspect that Tom and Mary are both over thirty.",
+      "translation": "Подозреваю, что Тому и Мэри обоим за тридцать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_7",
+      "word": "You look like a cop.",
+      "translation": "Ты похож на полицейского.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_8",
+      "word": "I suspect Tom and Mary aren't able to do that very well.",
+      "translation": "Я подозреваю, что Том и Мария не очень хорошо умеют это делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_9",
+      "word": "Tom concealed evidence.",
+      "translation": "Том скрыл улики.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_10",
+      "word": "A cop was killed.",
+      "translation": "Был убит полицейский.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_11",
+      "word": "They'll suspect me.",
+      "translation": "Они заподозрят меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_12",
+      "word": "I suspect Tom and Mary are planning to get married.",
+      "translation": "Подозреваю, что Том и Мэри планируют пожениться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_13",
+      "word": "Tom was a witness.",
+      "translation": "Том был свидетелем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_14",
+      "word": "I knew that Tom would suspect me.",
+      "translation": "Я знал, что Том будет меня подозревать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_15",
+      "word": "The whereabouts of the suspect is still unknown.",
+      "translation": "Местонахождение подозреваемого до сих пор неизвестно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_16",
+      "word": "One suspect has been identified.",
+      "translation": "Был установлен один подозреваемый.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_17",
+      "word": "Tom used to be a private detective.",
+      "translation": "Том раньше был частным детективом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_18",
+      "word": "The detective found absolute proof of the man's guilt.",
+      "translation": "Детектив нашел полное доказательство вины этого человека.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_19",
+      "word": "I suspect Tom and Mary are both sleepy.",
+      "translation": "Подозреваю, что Том и Мэри оба хотят спать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_20",
+      "word": "I suspect Tom and Mary are both mistaken.",
+      "translation": "Подозреваю, что Том и Мэри оба ошибаются.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_21",
+      "word": "Tom isn't a suspect.",
+      "translation": "Том не подозреваемый.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_22",
+      "word": "According to the police, the suspect is armed and dangerous.",
+      "translation": "По словам полицейских, подозреваемый вооружён и опасен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_23",
+      "word": "I have no clue.",
+      "translation": "Без понятия.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_24",
+      "word": "I want it to look like a robbery.",
+      "translation": "Я хочу, чтобы это выглядело как ограбление.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_25",
+      "word": "Tom began to suspect that Mary was lying to him.",
+      "translation": "Том стал подозревать, что Мэри ему лжёт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_26",
+      "word": "I suspect that Tom is downstairs, watching TV.",
+      "translation": "Подозреваю, что Том внизу, смотрит телевизор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_27",
+      "word": "The suspect is armed and dangerous.",
+      "translation": "Подозреваемый вооружён и опасен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_28",
+      "word": "I suspect Tom is here.",
+      "translation": "Подозреваю, Том здесь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_29",
+      "word": "Was it a robbery?",
+      "translation": "Это было ограбление?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_30",
+      "word": "Tom wants evidence.",
+      "translation": "Тому нужны доказательства.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_31",
+      "word": "I suspect Tom doesn't need to do that anymore.",
+      "translation": "Подозреваю, что Тому больше не нужно этого делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_32",
+      "word": "I don't know anything about the robbery.",
+      "translation": "Я ничего не знаю об ограблении.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_33",
+      "word": "I'm beginning to suspect that isn't going to happen.",
+      "translation": "Я начинаю подозревать, что этого не случится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_34",
+      "word": "You'd make a good private detective.",
+      "translation": "Из тебя вышел бы хороший частный детектив.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_35",
+      "word": "Tom is going to be called as a witness.",
+      "translation": "Тома вызовут в качестве свидетеля.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_36",
+      "word": "The cop went through his pockets, but found nothing.",
+      "translation": "Мент обшмонал его карманы, но ничего не нашёл.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_37",
+      "word": "I suspect they're all gone.",
+      "translation": "Я подозреваю, что они все ушли.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_38",
+      "word": "Tom is the only witness.",
+      "translation": "Том - единственный свидетель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_39",
+      "word": "I suspect that Tom knows why Mary doesn't like him.",
+      "translation": "Подозреваю, что Том знает, за что Мэри его не любит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_40",
+      "word": "I suspect that Tom is depressed.",
+      "translation": "Подозреваю, что у Тома депрессия.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_41",
+      "word": "I suspect that what Tom said was a lie.",
+      "translation": "Подозреваю, что то, что сказал Том, - ложь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_42",
+      "word": "Tom Jackson is our only suspect.",
+      "translation": "Том Джексон является нашим единственным подозреваемым.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_43",
+      "word": "The suspect was hiding out in the mountains for three weeks.",
+      "translation": "Подозреваемый три недели прятался в горах.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_44",
+      "word": "I hope Tom didn't suspect anything.",
+      "translation": "Надеюсь, Том ничего не заподозрил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_45",
+      "word": "Tom isn't a credible witness.",
+      "translation": "Том - ненадёжный свидетель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_46",
+      "word": "Tom hired a detective to follow Mary.",
+      "translation": "Том нанял детектива, чтобы следить за Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_47",
+      "word": "I suspect Tom did it on purpose.",
+      "translation": "Я подозреваю, что Том сделал это специально.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_48",
+      "word": "Tom became a suspect.",
+      "translation": "Том попал под подозрение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_1_49",
+      "word": "I suspect that that isn't going to happen.",
+      "translation": "Подозреваю, этого не случится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_0",
+      "word": "I suspect that Tom won't need to do that anymore.",
+      "translation": "Подозреваю, что Тому больше не нужно будет это делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_1",
+      "word": "We need more substantial evidence.",
+      "translation": "Нужны более весомые доказательства.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_2",
+      "word": "I suspect Tom is depressed.",
+      "translation": "Подозреваю, что у Тома депрессия.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_3",
+      "word": "Tom was the only witness.",
+      "translation": "Том был единственным свидетелем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_4",
+      "word": "I suspect Tom and Mary don't like spinach.",
+      "translation": "Я подозреваю, что Том и Мэри не любят шпинат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_5",
+      "word": "I'd like to see the evidence.",
+      "translation": "Я хотел бы посмотреть на доказательства.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_6",
+      "word": "Tom became a cop.",
+      "translation": "Том стал полицейским.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_7",
+      "word": "I suspect that Tom did that just to get some attention.",
+      "translation": "Подозреваю, что Том сделал это, только чтобы привлечь к себе внимание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_8",
+      "word": "I suspect Tom has gone to Boston.",
+      "translation": "Подозреваю, Том уехал в Бостон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_9",
+      "word": "I suspect that Tom and Mary aren't in Australia now.",
+      "translation": "Подозреваю, что Тома и Мэри сейчас нет в Австралии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_10",
+      "word": "That's all the evidence I need.",
+      "translation": "Именно это доказательство мне и нужно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_11",
+      "word": "I suspect that Tom doesn't often do that anymore.",
+      "translation": "Подозреваю, что Том уже нечасто это делает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_12",
+      "word": "The man turned out to be a private detective.",
+      "translation": "Этот мужчина оказался частным детективом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_13",
+      "word": "I suspect Tom is a spy.",
+      "translation": "Я подозреваю, что Том — шпион.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_14",
+      "word": "I suspect that Tom doesn't need to do that anymore.",
+      "translation": "Подозреваю, что Тому больше не нужно этого делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_15",
+      "word": "They attempted in vain to bribe the witness.",
+      "translation": "Они безуспешно пытались подкупить свидетеля.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_16",
+      "word": "The sheriff beat the suspect until he was almost dead.",
+      "translation": "Шериф избил подозреваемого почти до смерти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_17",
+      "word": "None of you have any clue what Tom's going through.",
+      "translation": "Никто из вас не представляет себе, что испытывает Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_18",
+      "word": "I suspect Tom went to Boston last weekend.",
+      "translation": "Подозреваю, что Том в прошлые выходные ездил в Бостон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_19",
+      "word": "I suspect that Tom and Mary aren't in Boston now.",
+      "translation": "Подозреваю, что Том с Мэри сейчас не в Бостоне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_20",
+      "word": "They didn't suspect anything.",
+      "translation": "Они ничего не заподозрили.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_21",
+      "word": "How do I report a theft?",
+      "translation": "Как мне сделать заявление о краже?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_22",
+      "word": "Everybody's a suspect.",
+      "translation": "Все под подозрением.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_23",
+      "word": "Tom hired a private detective to follow Mary.",
+      "translation": "Том нанял частного детектива, чтобы следить за Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_24",
+      "word": "Why didn't you tell us there was a witness?",
+      "translation": "Почему ты не сказал нам, что есть свидетель?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_25",
+      "word": "He was accused of theft.",
+      "translation": "Он был обвинён в краже.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_26",
+      "word": "You're a victim of the system.",
+      "translation": "Вы жертва системы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_27",
+      "word": "I have no clue what you're talking about.",
+      "translation": "Я понятия не имею, о чём ты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_28",
+      "word": "We have a witness.",
+      "translation": "У нас есть свидетель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_29",
+      "word": "I had no clue what to do.",
+      "translation": "Я понятия не имел, что делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_30",
+      "word": "We have no clue where he is.",
+      "translation": "Мы понятия не имеем, где он находится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_31",
+      "word": "I don't have a clue who she is.",
+      "translation": "Я понятия не имею, кто она.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_32",
+      "word": "No evidence was found.",
+      "translation": "Улик найдено не было.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_33",
+      "word": "All the evidence points to his guilt.",
+      "translation": "Все свидетельства указывают на его вину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_34",
+      "word": "Tom was arrested for theft.",
+      "translation": "Том был задержан за кражу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_35",
+      "word": "I knew they would suspect you.",
+      "translation": "Я знал, что они будут тебя подозревать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_36",
+      "word": "Is Tom a suspect?",
+      "translation": "Том подозреваемый?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_37",
+      "word": "I suspect that Tom is a spy.",
+      "translation": "Я подозреваю, что Том — шпион.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_38",
+      "word": "Do they suspect me?",
+      "translation": "Они меня подозревают?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_39",
+      "word": "Tom demanded evidence.",
+      "translation": "Том потребовал доказательств.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_40",
+      "word": "No one had a clue who I was.",
+      "translation": "Никто понятия не имел, кто я.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_41",
+      "word": "I suspect Tom did that just to get some attention.",
+      "translation": "Подозреваю, что Том сделал это, только чтобы привлечь к себе внимание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_42",
+      "word": "I suspect that Tom has gone to Boston.",
+      "translation": "Подозреваю, Том уехал в Бостон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_43",
+      "word": "Tom has been acquitted three times on lack of evidence.",
+      "translation": "Тома трижды оправдывали за недостатком улик.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_44",
+      "word": "I'm beginning to suspect that that's not going to happen.",
+      "translation": "Я начинаю подозревать, что этого не случится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_45",
+      "word": "The suspect is a man in his late thirties.",
+      "translation": "Подозреваемый - мужчина под сорок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_46",
+      "word": "We need evidence.",
+      "translation": "Нам нужны доказательства.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_47",
+      "word": "I suspect Tom was lying.",
+      "translation": "Подозреваю, что Том лгал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_48",
+      "word": "I suspect Tom doesn't often do that anymore.",
+      "translation": "Подозреваю, что Том уже нечасто это делает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_2_49",
+      "word": "I suspect that isn't going to happen.",
+      "translation": "Подозреваю, этого не случится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_0",
+      "word": "Tom enjoys reading detective stories.",
+      "translation": "Том любит читать детективные истории.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_1",
+      "word": "I suspect Tom and Mary aren't in Australia now.",
+      "translation": "Подозреваю, что Тома и Мэри сейчас нет в Австралии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_2",
+      "word": "Am I a suspect?",
+      "translation": "Меня в чём-то подозревают?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_3",
+      "word": "What's the evidence?",
+      "translation": "Какие доказательства?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_4",
+      "word": "We're planning a robbery.",
+      "translation": "Мы планируем ограбление.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_5",
+      "word": "Do you suspect anyone?",
+      "translation": "Вы кого-нибудь подозреваете?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_6",
+      "word": "I suspect you won't like it.",
+      "translation": "Подозреваю, что тебе это не понравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_7",
+      "word": "I suspect that Tom did it on purpose.",
+      "translation": "Я подозреваю, что Том сделал это специально.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_8",
+      "word": "I knew Tom wouldn't suspect anything.",
+      "translation": "Я знал, что Том ничего не заподозрит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_9",
+      "word": "Tom is a detective.",
+      "translation": "Том детектив.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_10",
+      "word": "Tom could be called as a witness.",
+      "translation": "Тома могут вызвать в качестве свидетеля.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_11",
+      "word": "We have all the evidence against you we need.",
+      "translation": "У нас есть все необходимые доказательства против вас.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_12",
+      "word": "I suspect Tom went to Australia.",
+      "translation": "Подозреваю, Том поехал в Австралию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_13",
+      "word": "Hands up! This is a robbery.",
+      "translation": "Руки вверх! Это ограбление.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_14",
+      "word": "Aren't you a cop?",
+      "translation": "Ты разве не полицейский?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_15",
+      "word": "The policeman protected the witness.",
+      "translation": "Полицейский защищал свидетеля.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_16",
+      "word": "Tom wasn't the only victim.",
+      "translation": "Том был не единственной жертвой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_17",
+      "word": "Is Tom an eyewitness?",
+      "translation": "Том очевидец?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_18",
+      "word": "I suspect Tom doesn't want to do that again.",
+      "translation": "Подозреваю, что Том не хочет опять этим заниматься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_19",
+      "word": "Tom is the main suspect.",
+      "translation": "Том - главный подозреваемый.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_20",
+      "word": "I have no clue who you are.",
+      "translation": "Я понятия не имею, кто вы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_21",
+      "word": "Tom wasn't the only witness.",
+      "translation": "Том был не единственным свидетелем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_22",
+      "word": "I have absolutely no clue.",
+      "translation": "Не имею ни малейшего представления.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_23",
+      "word": "I suspect that Tom was lying.",
+      "translation": "Подозреваю, что Том лгал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_24",
+      "word": "Tom was accused of theft.",
+      "translation": "Том был обвинён в краже.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_25",
+      "word": "Tom returned to the witness stand.",
+      "translation": "Том вернулся к трибуне для свидетелей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_26",
+      "word": "Tom found new evidence.",
+      "translation": "Том нашёл новые доказательства.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_27",
+      "word": "Are you a detective?",
+      "translation": "Вы детектив?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_28",
+      "word": "The last witness sealed the prisoner's fate.",
+      "translation": "Показание последнего свидетеля решило судьбу заключённого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_29",
+      "word": "I'm a suspect.",
+      "translation": "Я подозреваемый.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_30",
+      "word": "We have all the evidence we need.",
+      "translation": "У нас есть все необходимые нам доказательства.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_31",
+      "word": "I suspect Tom and Mary are both over thirty.",
+      "translation": "Подозреваю, что Тому и Мэри обоим за тридцать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_32",
+      "word": "I'm an undercover cop.",
+      "translation": "Я полицейский под прикрытием.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_33",
+      "word": "Tom might be called as a witness.",
+      "translation": "Тома могут вызвать в качестве свидетеля.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_34",
+      "word": "There isn't enough evidence.",
+      "translation": "Недостаточно доказательств.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_35",
+      "word": "I was sentenced to three years for robbery.",
+      "translation": "Я был приговорён к трём годам за грабёж.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_36",
+      "word": "Two detectives followed the suspect.",
+      "translation": "Двое детективов преследовали подозреваемого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_37",
+      "word": "I don't have the faintest clue what this means.",
+      "translation": "Я не имею ни малейшего понятия, что это значит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_38",
+      "word": "Tom was the victim of a homicide.",
+      "translation": "Том был жертвой убийства.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_39",
+      "word": "We need to find evidence.",
+      "translation": "Нам нужно найти доказательства.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_40",
+      "word": "I suspect Tom is a cold-blooded murderer.",
+      "translation": "Я подозреваю, что Том — хладнокровный убийца.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_41",
+      "word": "I suspect Tom knows why Mary doesn't like him.",
+      "translation": "Подозреваю, что Том знает, за что Мэри его не любит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_42",
+      "word": "How much more evidence is needed?",
+      "translation": "Сколько ещё нужно доказательств?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_43",
+      "word": "Tom was merely a witness.",
+      "translation": "Том был просто свидетелем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_44",
+      "word": "I suspect Tom won't need to do that anymore.",
+      "translation": "Подозреваю, что Тому больше не нужно будет это делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_45",
+      "word": "She is not the victim.",
+      "translation": "Она не жертва.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_46",
+      "word": "Tom denied knowing anything about the robbery.",
+      "translation": "Том сказал, что ничего не знает об ограблении.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_47",
+      "word": "Tom is the only suspect.",
+      "translation": "Том — единственный подозреваемый.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_48",
+      "word": "I suspect you know why I'm here.",
+      "translation": "Подозреваю, ты знаешь, зачем я здесь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_3_49",
+      "word": "That's not evidence.",
+      "translation": "Это не улика.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_0",
+      "word": "I suspect that Tom knows this already.",
+      "translation": "Подозреваю, Том это уже знает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_1",
+      "word": "I've got a witness.",
+      "translation": "У меня есть свидетель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_2",
+      "word": "I suspect that Tom is at home, sleeping.",
+      "translation": "Подозреваю, что Том дома, спит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_3",
+      "word": "He has something to do with the robbery.",
+      "translation": "Он как-то причастен к этому ограблению.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_4",
+      "word": "I suspect that Tom got what he wanted.",
+      "translation": "Подозреваю, Том получил, что хотел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_5",
+      "word": "I suspect Tom will come to Boston by plane.",
+      "translation": "Подозреваю, что Том прилетит в Бостон на самолёте.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_6",
+      "word": "I have no clue what Tom is talking about.",
+      "translation": "Я представления не имею, о чём Том говорит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_7",
+      "word": "There wasn't a single shred of evidence.",
+      "translation": "Не было ни малейшего свидетельства.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_8",
+      "word": "The suspect began to confess at last.",
+      "translation": "Подозреваемый наконец начал признаваться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_9",
+      "word": "Tom accused Mary of theft.",
+      "translation": "Том обвинил Марию в воровстве.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_10",
+      "word": "I suspect that you know why I'm here.",
+      "translation": "Подозреваю, ты знаешь, зачем я здесь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_11",
+      "word": "Nobody will ever suspect us.",
+      "translation": "Никто нас никогда не заподозрит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_12",
+      "word": "Tom knew that he was the prime suspect.",
+      "translation": "Том знал, что он главный подозреваемый.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_13",
+      "word": "I suspect that Tom went to Boston last weekend.",
+      "translation": "Подозреваю, что Том в прошлые выходные ездил в Бостон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_14",
+      "word": "Tom was a credible witness.",
+      "translation": "Том был надёжным свидетелем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_15",
+      "word": "There's a witness.",
+      "translation": "Есть свидетель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_16",
+      "word": "Tom is the victim.",
+      "translation": "Том - жертва.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_17",
+      "word": "Tom has been accused of armed robbery.",
+      "translation": "Тома обвинили в вооружённом ограблении.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_18",
+      "word": "Tom wasn't a suspect.",
+      "translation": "Том не был подозреваемым.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_19",
+      "word": "I suspect that Tom doesn't want to do that again.",
+      "translation": "Подозреваю, что Том не хочет опять этим заниматься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_20",
+      "word": "I suspect Tom and Mary aren't in Boston now.",
+      "translation": "Подозреваю, что Том с Мэри сейчас не в Бостоне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_21",
+      "word": "Was the victim male or female?",
+      "translation": "Какого пола был погибший?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_22",
+      "word": "I suspect Tom is downstairs, watching TV.",
+      "translation": "Подозреваю, что Том внизу, смотрит телевизор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_23",
+      "word": "I'm beginning to suspect that's not going to happen.",
+      "translation": "Я начинаю подозревать, что этого не случится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_24",
+      "word": "Where is the evidence?",
+      "translation": "Где доказательства?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_25",
+      "word": "The detectives found no other evidence.",
+      "translation": "Никаких прочих улик сыщики не нашли.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_26",
+      "word": "I suspect that Tom and Mary are both mistaken.",
+      "translation": "Подозреваю, что Том и Мэри оба ошибаются.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_27",
+      "word": "I suspect that's not going to happen.",
+      "translation": "Подозреваю, этого не случится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_28",
+      "word": "The first victim was Tom.",
+      "translation": "Первой жертвой был Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_29",
+      "word": "When did the robbery happen?",
+      "translation": "Когда произошло ограбление?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_30",
+      "word": "I suspect Tom and Mary are ready to leave.",
+      "translation": "Подозреваю, Том и Мэри готовы уйти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_31",
+      "word": "Why did you become a cop?",
+      "translation": "Почему ты стал полицейским?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_32",
+      "word": "Can you put them on the witness stand?",
+      "translation": "Вы можете пригласить их для дачи показаний?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_33",
+      "word": "I suspect Tom didn't want to be there.",
+      "translation": "Подозреваю, что Том не хотел быть там.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_34",
+      "word": "I suspect Tom knows where Mary lives.",
+      "translation": "Подозреваю, что Том знает, где живёт Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_35",
+      "word": "I suspect Tom doesn't want to do that anymore.",
+      "translation": "Подозреваю, что Том больше не хочет это делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_36",
+      "word": "Didn't you suspect Tom was lying to you?",
+      "translation": "Ты не подозревал, что Том тебе лжёт?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_37",
+      "word": "I suspect Tom has to go to Australia.",
+      "translation": "Подозреваю, Тому придётся поехать в Австралию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_38",
+      "word": "Tom is no longer a suspect.",
+      "translation": "Том уже не подозреваемый.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_39",
+      "word": "I suspect Tom knows more.",
+      "translation": "Я подозреваю, что Том знает больше.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_40",
+      "word": "I suspect that Tom will come to Boston by plane.",
+      "translation": "Подозреваю, что Том прилетит в Бостон на самолёте.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_41",
+      "word": "I suspect Tom isn't in Boston anymore.",
+      "translation": "Подозреваю, что Тома уже нет в Бостоне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_42",
+      "word": "I suspect that Tom has been arrested.",
+      "translation": "Подозреваю, что Тома арестовали.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_43",
+      "word": "Tom didn't suspect anything.",
+      "translation": "Том ничего не заподозрил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_44",
+      "word": "We have an eyewitness.",
+      "translation": "У нас есть очевидец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_45",
+      "word": "They are going to investigate the affair.",
+      "translation": "Они расследуют это дело.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_46",
+      "word": "Tom doesn't have a clue.",
+      "translation": "Том понятия не имеет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_47",
+      "word": "Tom isn't the only witness.",
+      "translation": "Том не единственный свидетель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_48",
+      "word": "Why do you suspect me?",
+      "translation": "Почему ты меня подозреваешь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_4_49",
+      "word": "I suspect Tom is bluffing.",
+      "translation": "Подозреваю, что Том блефует.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_0",
+      "word": "No charges have been filed against the suspect.",
+      "translation": "Против подозреваемого не было выдвинуто никаких обвинений.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_1",
+      "word": "Tom wasn't the only eyewitness.",
+      "translation": "Том был не единственным свидетелем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_2",
+      "word": "I haven't got a clue.",
+      "translation": "Без понятия.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_3",
+      "word": "I suspect that there's a hidden camera around here somewhere.",
+      "translation": "Подозреваю, что где-то здесь есть скрытая камера.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_4",
+      "word": "I suspect that Tom isn't in Boston anymore.",
+      "translation": "Подозреваю, что Тома уже нет в Бостоне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_5",
+      "word": "You don't look like a cop.",
+      "translation": "Ты не похож на полицейского.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_6",
+      "word": "This video is the only evidence we have.",
+      "translation": "Это видео — единственное доказательство, которое у нас есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_7",
+      "word": "Look at the evidence.",
+      "translation": "Взгляните на доказательства.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_8",
+      "word": "Tom has hired a detective.",
+      "translation": "Том нанял детектива.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_9",
+      "word": "My brother-in-law is a cop.",
+      "translation": "Мой шурин - полицейский.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_10",
+      "word": "I suspect that Tom knows where Mary lives.",
+      "translation": "Подозреваю, что Том знает, где живёт Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_11",
+      "word": "Tom began to suspect that Mary was cheating on him.",
+      "translation": "Том начал подозревать Марию в измене.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_12",
+      "word": "I suspect that Tom doesn't have to do that anymore.",
+      "translation": "Подозреваю, что Тому больше не надо этого делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_13",
+      "word": "The suspect refused to cooperate.",
+      "translation": "Подозреваемый отказался сотрудничать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_14",
+      "word": "I suspect that Tom is a cold-blooded murderer.",
+      "translation": "Я подозреваю, что Том — хладнокровный убийца.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_15",
+      "word": "Didn't you suspect that Tom was lying to you?",
+      "translation": "Ты не подозревал, что Том тебе лжёт?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_16",
+      "word": "I suspect that Tom is bluffing.",
+      "translation": "Подозреваю, что Том блефует.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_17",
+      "word": "Tom knew about the robbery.",
+      "translation": "Том знал об ограблении.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_18",
+      "word": "I'm the only witness.",
+      "translation": "Я единственный свидетель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_19",
+      "word": "That's why you're a cop.",
+      "translation": "Поэтому ты и коп.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_20",
+      "word": "Tom is a witness.",
+      "translation": "Том — свидетель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_21",
+      "word": "The robbery was blamed on Tom.",
+      "translation": "В краже обвинили Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_22",
+      "word": "I don't consider myself a victim.",
+      "translation": "Я не считаю себя жертвой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_23",
+      "word": "There's no solid evidence against Tom.",
+      "translation": "Против Тома нет серьёзных улик.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_24",
+      "word": "Why didn't you tell us that there was a witness?",
+      "translation": "Почему ты не сказал нам, что есть свидетель?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_25",
+      "word": "The suspect was taken into custody.",
+      "translation": "Подозреваемый был взят под арест.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_26",
+      "word": "I suspect Tom will be furious.",
+      "translation": "Подозреваю, что Том будет в ярости.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_27",
+      "word": "Tom said he didn't know anything about the robbery.",
+      "translation": "Том сказал, что ничего не знает о краже.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_28",
+      "word": "He is absorbed in reading detective novels.",
+      "translation": "Он погружён в чтение детективов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_29",
+      "word": "We must destroy the evidence.",
+      "translation": "Мы должны уничтожить улики.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_30",
+      "word": "I suspect that Tom and Mary are both sleepy.",
+      "translation": "Подозреваю, что Том и Мэри оба хотят спать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_31",
+      "word": "Every cop in Boston is now looking for Tom.",
+      "translation": "Каждый полицейский в Бостоне ищет Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_32",
+      "word": "I knew they would suspect Tom.",
+      "translation": "Я знал, что они заподозрят Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_33",
+      "word": "Tom likes reading detective novels.",
+      "translation": "Том любит читать детективные романы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_34",
+      "word": "The suspect wanted to avoid being arrested.",
+      "translation": "Подозреваемый хотел избежать ареста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_35",
+      "word": "I suspect that Tom went to Australia.",
+      "translation": "Подозреваю, Том поехал в Австралию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_36",
+      "word": "I suspect that Tom has done that before.",
+      "translation": "Подозреваю, что Том это уже делал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_37",
+      "word": "Who'll Tom's next victim be?",
+      "translation": "Кто станет следующей жертвой Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_38",
+      "word": "Tom was a suspect.",
+      "translation": "Том был подозреваемым.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_39",
+      "word": "Our only witness is refusing to testify.",
+      "translation": "Наш единственный свидетель отказывается давать показания.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_40",
+      "word": "Tom immediately reported the theft.",
+      "translation": "Том сразу же сообщил о краже.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_41",
+      "word": "Tom is a cop.",
+      "translation": "Том коп.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_42",
+      "word": "I suspect that Tom and Mary have both been arrested.",
+      "translation": "Я подозреваю, что как Тома, так и Мэри арестовали.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_43",
+      "word": "They agreed to investigate the cause of the incident.",
+      "translation": "Они договорились расследовать причину этого происшествия.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_44",
+      "word": "He is a detective.",
+      "translation": "Он сыщик.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_45",
+      "word": "I suspect Tom doesn't have to do that anymore.",
+      "translation": "Подозреваю, что Тому больше не надо этого делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_46",
+      "word": "Are you a cop?",
+      "translation": "Ты мент?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_47",
+      "word": "All the evidence was against me.",
+      "translation": "Все улики были против меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_48",
+      "word": "I've got evidence.",
+      "translation": "У меня есть доказательство.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_5_49",
+      "word": "You've missed an important clue.",
+      "translation": "Ты упустил важный намёк.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_0",
+      "word": "I'm a detective.",
+      "translation": "Я детектив.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_1",
+      "word": "Is Tom a witness?",
+      "translation": "Том свидетель?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_2",
+      "word": "I'm beginning to suspect that that isn't going to happen.",
+      "translation": "Я начинаю подозревать, что этого не случится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_3",
+      "word": "I have evidence.",
+      "translation": "У меня есть улики.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_4",
+      "word": "We'll investigate the matter.",
+      "translation": "Мы расследуем это дело.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_5",
+      "word": "I suspect Tom got what he wanted.",
+      "translation": "Подозреваю, Том получил, что хотел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_6",
+      "word": "I found a witness.",
+      "translation": "Я нашёл свидетеля.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_7",
+      "word": "I have a witness.",
+      "translation": "У меня есть свидетель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_8",
+      "word": "I have no clue what I'm doing.",
+      "translation": "Я понятия не имею, что делаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_9",
+      "word": "Tom has hired a private detective.",
+      "translation": "Том нанял частного детектива.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_10",
+      "word": "Tom is a good detective.",
+      "translation": "Том — хороший детектив.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_11",
+      "word": "When I was a boy, I was addicted to reading detective stories.",
+      "translation": "В детстве я увлекался детективами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_12",
+      "word": "You have no clue what you're doing, do you?",
+      "translation": "Ты что, совсем не понимаешь, что ты делаешь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_13",
+      "word": "You don't have a clue.",
+      "translation": "Ты понятия об этом не имеешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_14",
+      "word": "The gang was planning a robbery.",
+      "translation": "Банда планировала ограбление.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_15",
+      "word": "Tom knew he was the prime suspect.",
+      "translation": "Том знал, что он главный подозреваемый.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_16",
+      "word": "Tom is the only witness. There are no other witnesses.",
+      "translation": "Том - единственный свидетель. Других свидетелей нет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_17",
+      "word": "Tom has evidence.",
+      "translation": "У Тома есть доказательства.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_18",
+      "word": "There is evidence to the contrary.",
+      "translation": "Есть свидетельство обратного.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_19",
+      "word": "You have no evidence.",
+      "translation": "У вас нет доказательств.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_20",
+      "word": "Tom doesn't suspect a thing.",
+      "translation": "Том ничего не подозревает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_21",
+      "word": "I suspect that you have conspired against me.",
+      "translation": "Я подозреваю, что вы в сговоре против меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_22",
+      "word": "Tom was the only eyewitness.",
+      "translation": "Том был единственным очевидцем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_23",
+      "word": "Tom told Mary about the robbery.",
+      "translation": "Том рассказал Мэри об ограблении.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_24",
+      "word": "He would sit for hours reading detective stories.",
+      "translation": "Он часами мог читать детективы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_25",
+      "word": "There was a witness.",
+      "translation": "Был свидетель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_26",
+      "word": "I suspect Tom knows this already.",
+      "translation": "Подозреваю, Том это уже знает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_27",
+      "word": "Tom began to suspect Mary was lying to him.",
+      "translation": "Том стал подозревать, что Мэри ему лжёт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_28",
+      "word": "Simplicity is worse than robbery.",
+      "translation": "Простота хуже воровства.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_29",
+      "word": "At least give me a clue.",
+      "translation": "Хотя бы дай мне подсказку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_30",
+      "word": "I suspect what Tom said was a lie.",
+      "translation": "Подозреваю, что то, что сказал Том, - ложь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_31",
+      "word": "I suspect that you won't like it.",
+      "translation": "Подозреваю, что тебе это не понравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_32",
+      "word": "I suspect that Tom and Mary don't like spinach.",
+      "translation": "Я подозреваю, что Том и Мэри не любят шпинат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_33",
+      "word": "I don't have the slightest clue.",
+      "translation": "Не имею ни малейшего понятия.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_34",
+      "word": "Tom was the victim of bullying.",
+      "translation": "Том был жертвой травли.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_35",
+      "word": "I suspect that many of them know that already.",
+      "translation": "Подозреваю, многие из них это уже знают.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_36",
+      "word": "Tom told us about the robbery.",
+      "translation": "Том рассказал нам об ограблении.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_37",
+      "word": "Did you know Tom was a detective?",
+      "translation": "Ты знал, что Том был детективом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_38",
+      "word": "I suspect Tom is at home, sleeping.",
+      "translation": "Подозреваю, что Том дома, спит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_39",
+      "word": "I suspect Tom has done that before.",
+      "translation": "Подозреваю, что Том это уже делал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_40",
+      "word": "We've got a witness.",
+      "translation": "У нас есть свидетель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_41",
+      "word": "I suspect Tom would do the same.",
+      "translation": "Подозреваю, Том сделал бы то же самое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_42",
+      "word": "I suspect that's a lie.",
+      "translation": "Подозреваю, это ложь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_43",
+      "word": "Tom hired a private detective.",
+      "translation": "Том нанял частного детектива.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_44",
+      "word": "I'll give you a clue.",
+      "translation": "Я дам тебе подсказку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_45",
+      "word": "Tom got rid of the evidence.",
+      "translation": "Том избавился от улик.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_46",
+      "word": "I suspect that that's not going to happen.",
+      "translation": "Подозреваю, этого не случится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_47",
+      "word": "I suspect that Tom won't wait until we get there.",
+      "translation": "Подозреваю, что Том не будет ждать, пока мы туда доберёмся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_48",
+      "word": "Has the witness been sworn in?",
+      "translation": "Свидетель уже был приведён к присяге?",
+      "language": "en"
+    },
+    {
+      "id": "pb_crimepolice_6_49",
+      "word": "The evidence convinced us of his innocence.",
+      "translation": "Доказательства убедили нас в его невиновности.",
+      "language": "en"
+    }
+  ]
+}

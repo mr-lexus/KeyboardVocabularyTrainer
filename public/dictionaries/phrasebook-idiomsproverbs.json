@@ -1,0 +1,877 @@
+{
+  "id": "phrasebook-idiomsproverbs",
+  "name": "Idioms & Proverbs",
+  "description": "Phrasebook for Idioms & Proverbs",
+  "entries": [
+    {
+      "id": "pb_idiomsproverbs_0_0",
+      "word": "Do you have a similar proverb in French?",
+      "translation": "У вас во французском языке есть похожая поговорка?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_1",
+      "word": "Tom is saying something.",
+      "translation": "Том что-то говорит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_2",
+      "word": "Are you saying I'm a liar?",
+      "translation": "Ты хочешь сказать, я лжец?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_3",
+      "word": "I can't hear what you're saying.",
+      "translation": "Мне не слышно, что вы говорите.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_4",
+      "word": "Bite the bullet.",
+      "translation": "Стисни зубы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_5",
+      "word": "Everyone's saying it.",
+      "translation": "Все так говорят.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_6",
+      "word": "I'm saying no.",
+      "translation": "Я говорю нет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_7",
+      "word": "What're you saying?",
+      "translation": "Что ты говоришь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_8",
+      "word": "What are they saying?",
+      "translation": "Что они говорят?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_9",
+      "word": "Tom isn't saying why.",
+      "translation": "Том не говорит почему.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_10",
+      "word": "It goes without saying.",
+      "translation": "Само собой разумеется.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_11",
+      "word": "What's your favorite saying?",
+      "translation": "Какая твоя любимая поговорка?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_12",
+      "word": "Why are you saying that to me?",
+      "translation": "Зачем ты мне это говоришь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_13",
+      "word": "The saying is quite familiar to us.",
+      "translation": "Эта поговорка нам вполне знакома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_14",
+      "word": "Tom isn't saying anything.",
+      "translation": "Том ничего не говорит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_15",
+      "word": "Are you saying it's not safe here?",
+      "translation": "Ты хочешь сказать, что здесь небезопасно?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_16",
+      "word": "I got the gist of what he was saying.",
+      "translation": "Я понял суть его слов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_17",
+      "word": "Are you saying there were problems?",
+      "translation": "Ты хочешь сказать, были проблемы?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_18",
+      "word": "That's not what I was saying.",
+      "translation": "Я не это говорил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_19",
+      "word": "Why are you saying this?",
+      "translation": "Зачем ты это говоришь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_20",
+      "word": "Why are they saying this?",
+      "translation": "Почему они говорят такое?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_21",
+      "word": "Tom doesn't know what he's saying.",
+      "translation": "Том не знает, что говорит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_22",
+      "word": "Are you saying Tom isn't Canadian?",
+      "translation": "Ты хочешь сказать, Том не канадец?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_23",
+      "word": "What were you saying to Tom?",
+      "translation": "Что ты говорил Тому?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_24",
+      "word": "I'm not saying no.",
+      "translation": "Я не говорю нет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_25",
+      "word": "I'm just saying it's possible.",
+      "translation": "Я просто говорю, что это возможно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_26",
+      "word": "Are you saying Tom isn't from Boston?",
+      "translation": "Ты хочешь сказать, Том не из Бостона?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_27",
+      "word": "Are you saying that you killed Tom?",
+      "translation": "Ты хочешь сказать, что убил Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_28",
+      "word": "What you're saying isn't logical.",
+      "translation": "В ваших словах нет логики.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_29",
+      "word": "He went off without saying good-bye.",
+      "translation": "Он ушёл не попрощавшись.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_30",
+      "word": "What were you saying?",
+      "translation": "Что ты говорил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_31",
+      "word": "I know what I'm saying.",
+      "translation": "Я знаю, что говорю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_32",
+      "word": "I can't imagine a native speaker ever saying it that way.",
+      "translation": "Не представляю себе, чтобы носитель языка мог так сказать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_33",
+      "word": "Are you saying you don't know?",
+      "translation": "Ты говоришь, что не знаешь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_34",
+      "word": "I've been saying that for months.",
+      "translation": "Я уже несколько месяцев это говорю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_35",
+      "word": "Stop saying those kinds of things.",
+      "translation": "Перестань говорить такие вещи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_36",
+      "word": "People are saying that the crisis is over.",
+      "translation": "Люди говорят, кризис закончился.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_37",
+      "word": "Who doesn't know such a simple proverb?",
+      "translation": "Кто не знает такую простую поговорку?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_38",
+      "word": "I wonder if the parrot knows what it's saying.",
+      "translation": "Интересно, понимает ли попугай то, что говорит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_39",
+      "word": "Saying and doing are two different things.",
+      "translation": "Сказать и сделать – это разные вещи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_40",
+      "word": "Are you saying it's over?",
+      "translation": "Ты хочешь сказать, всё кончено?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_41",
+      "word": "What you have just said reminds me of an old saying.",
+      "translation": "То, что вы только что сказали, напоминает мне старую поговорку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_42",
+      "word": "They're saying that Tom won't do it.",
+      "translation": "Они говорят, что Том не будет этого делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_43",
+      "word": "That's not what I'm saying.",
+      "translation": "Это не то, что я говорю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_44",
+      "word": "I've been saying that all along.",
+      "translation": "Я твердил это всё время.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_45",
+      "word": "I don't remember saying anything.",
+      "translation": "Я не помню, чтобы я что-нибудь говорил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_46",
+      "word": "Are you saying that you don't remember?",
+      "translation": "Ты хочешь сказать, что не помнишь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_47",
+      "word": "Are you saying Tom lied?",
+      "translation": "Ты хочешь сказать, Том соврал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_48",
+      "word": "It's a saying.",
+      "translation": "Это поговорка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_0_49",
+      "word": "Did you spill the beans?",
+      "translation": "Ты проговорился?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_0",
+      "word": "I can't make out what she is saying.",
+      "translation": "Я не могу разобрать, что она говорит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_1",
+      "word": "Are you saying there's still a chance?",
+      "translation": "Ты говоришь, шанс ещё есть?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_2",
+      "word": "Tom understood what Mary was saying.",
+      "translation": "Том понял, что говорила Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_3",
+      "word": "We couldn't hear what Tom was saying.",
+      "translation": "Нам не было слышно, что Том говорит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_4",
+      "word": "Tom realized that Mary wasn't paying attention to what he was saying.",
+      "translation": "Фома понял, что Маша не обращала внимания на его слова.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_5",
+      "word": "What were they saying?",
+      "translation": "Что они говорили?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_6",
+      "word": "That goes without saying.",
+      "translation": "Это само собой разумеется.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_7",
+      "word": "I'm not saying it's easy.",
+      "translation": "Я не говорю, что это просто.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_8",
+      "word": "I can't make out what the man is saying.",
+      "translation": "Я не могу разобрать, что говорит этот человек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_9",
+      "word": "I concentrated on what he was saying.",
+      "translation": "Я сосредоточился на том, что он говорил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_10",
+      "word": "Did you hear what they were saying?",
+      "translation": "Ты слышал, что они говорят?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_11",
+      "word": "I'm not saying anything.",
+      "translation": "Я ничего не говорю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_12",
+      "word": "Are you saying this doesn't matter?",
+      "translation": "Ты говоришь, это неважно?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_13",
+      "word": "I get what you're saying.",
+      "translation": "Я понимаю, что вы говорите.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_14",
+      "word": "I like this saying.",
+      "translation": "Мне нравится эта поговорка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_15",
+      "word": "What you're saying doesn't make sense.",
+      "translation": "То, что ты говоришь, не имеет смысла.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_16",
+      "word": "Tom has been saying that for years.",
+      "translation": "Том уже много лет это говорит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_17",
+      "word": "This proverb is worth remembering.",
+      "translation": "Эту пословицу стоит запомнить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_18",
+      "word": "Finish what you were saying.",
+      "translation": "Договаривай.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_19",
+      "word": "Many people are saying this.",
+      "translation": "Это многие говорят.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_20",
+      "word": "Tom has been saying mean things about you.",
+      "translation": "Том говорит о тебе гадости.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_21",
+      "word": "It goes without saying that nothing is more important than health.",
+      "translation": "Само собой разумеется, что нет ничего важнее здоровья.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_22",
+      "word": "Everything he's saying is slander.",
+      "translation": "Всё, что он говорит, - клевета.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_23",
+      "word": "He answered by saying that he could swim well.",
+      "translation": "Он ответил, что умеет хорошо плавать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_24",
+      "word": "I couldn't hear what they were saying.",
+      "translation": "Мне не было слышно, что они говорят.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_25",
+      "word": "Are you saying Tom is dying?",
+      "translation": "Ты хочешь сказать, Том умирает?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_26",
+      "word": "I am afraid he is going to spill the beans.",
+      "translation": "Я боюсь, что он проболтается.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_27",
+      "word": "She walked away without saying good bye.",
+      "translation": "Она ушла, не сказав \"до свидания\".",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_28",
+      "word": "Nobody was listening to what Tom was saying.",
+      "translation": "Никто не слушал, что говорит Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_29",
+      "word": "As the saying goes, \"Nothing ventured, nothing gained.\"",
+      "translation": "Как говорится, \"кто не рискует, тот не выигрывает\".",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_30",
+      "word": "Are you saying I shouldn't be doing this?",
+      "translation": "Ты хочешь сказать, что мне не стоит этого делать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_31",
+      "word": "That's my favorite saying.",
+      "translation": "Это моя любимая поговорка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_32",
+      "word": "Tom walked away without saying anything.",
+      "translation": "Том ушёл, ничего не сказав.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_33",
+      "word": "Tom dismissed what Mary was saying.",
+      "translation": "Том пропустил мимо ушей сказанное Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_34",
+      "word": "Are you saying that I'm a liar?",
+      "translation": "Ты говоришь, что я лжец?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_35",
+      "word": "What's your favorite proverb?",
+      "translation": "Какая у тебя любимая поговорка?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_36",
+      "word": "What you're saying now has nothing to do with the question.",
+      "translation": "То, что ты сейчас говоришь, не имеет отношения к вопросу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_37",
+      "word": "I don't like what you're saying.",
+      "translation": "Мне не нравится то, что ты говоришь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_38",
+      "word": "This is a proverb.",
+      "translation": "Это пословица.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_39",
+      "word": "I hear what you're saying.",
+      "translation": "Я слышу, что ты говоришь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_40",
+      "word": "You aren't listening to what I'm saying.",
+      "translation": "Ты не слушаешь, что я говорю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_41",
+      "word": "Tom looked at Mary without saying anything.",
+      "translation": "Том молча смотрел на Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_42",
+      "word": "Let's hit the sack.",
+      "translation": "Давай на боковую.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_43",
+      "word": "This is an idiom.",
+      "translation": "Это фразеологизм.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_44",
+      "word": "Doesn't that go without saying?",
+      "translation": "Разве это не само собой разумеется?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_45",
+      "word": "What was I saying?",
+      "translation": "Что я говорил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_46",
+      "word": "Are you saying I'm mad?",
+      "translation": "Ты хочешь сказать, что я ненормальный?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_47",
+      "word": "Don't you hear what I'm saying?",
+      "translation": "Вы не слышите, что я говорю?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_48",
+      "word": "That isn't what I was saying at all.",
+      "translation": "Я совсем не это говорил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_1_49",
+      "word": "What's Tom saying?",
+      "translation": "Что Том говорит?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_0",
+      "word": "I see what you're saying.",
+      "translation": "Я понимаю, что вы говорите.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_1",
+      "word": "I don't remember saying I like Tom.",
+      "translation": "Не помню, чтобы я говорил, что мне нравится Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_2",
+      "word": "What was Tom saying?",
+      "translation": "Что Том говорил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_3",
+      "word": "I can't hear what they're saying.",
+      "translation": "Я не могу расслышать, что они говорят.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_4",
+      "word": "That isn't what I'm saying.",
+      "translation": "Я не об этом говорю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_5",
+      "word": "Do you have a similar saying in Japanese?",
+      "translation": "У вас в японском есть похожая поговорка?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_6",
+      "word": "Are you saying that Tom is a traitor?",
+      "translation": "Ты хочешь сказать, Том предатель?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_7",
+      "word": "Tom wasn't paying attention to what Mary was saying.",
+      "translation": "Том не внимал словам Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_8",
+      "word": "It's just a saying.",
+      "translation": "Это просто такое выражение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_9",
+      "word": "Everyone's thinking it, but no one's saying it.",
+      "translation": "Все так думают, но никто не говорит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_10",
+      "word": "Why aren't you saying anything?",
+      "translation": "Почему ты ничего не говоришь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_11",
+      "word": "\"A rolling stone gathers no moss\" is a proverb.",
+      "translation": "\"Под лежачий камень вода не течёт\" — это пословица.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_12",
+      "word": "We couldn't hear what you were saying.",
+      "translation": "Нам было не слышно, что вы говорите.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_13",
+      "word": "Tom concluded his speech with a proverb.",
+      "translation": "Том закончил своё выступление поговоркой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_14",
+      "word": "It was raining cats and dogs outside.",
+      "translation": "На улице лило как из ведра.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_15",
+      "word": "Are you saying Tom is a liar?",
+      "translation": "Ты говоришь, что Том — лжец?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_16",
+      "word": "I could hardly hear what Tom was saying.",
+      "translation": "Мне почти не было слышно, что Том говорит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_17",
+      "word": "Are you saying that you don't like it here?",
+      "translation": "Ты хочешь сказать, тебе здесь не нравится?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_18",
+      "word": "I can't make out what you're saying.",
+      "translation": "Не могу разобрать, что ты говоришь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_19",
+      "word": "Are you saying Tom is a thief?",
+      "translation": "Ты хочешь сказать, что Том вор?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_20",
+      "word": "Are you saying you don't want to go?",
+      "translation": "То есть вы не хотите идти?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_21",
+      "word": "Can you hear what Tom is saying?",
+      "translation": "Тебе слышно, что Том говорит?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_22",
+      "word": "What's your basis for saying this?",
+      "translation": "На каком основании вы это говорите?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_23",
+      "word": "So what're you saying?",
+      "translation": "Так что вы говорите?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_24",
+      "word": "I'm saying nothing.",
+      "translation": "Я ничего не говорю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_25",
+      "word": "I kept saying that I didn't want to die.",
+      "translation": "Я всё повторял, что не хочу умирать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_26",
+      "word": "Thanks for saying so.",
+      "translation": "Спасибо, что так сказал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_27",
+      "word": "Are you saying no?",
+      "translation": "Ты говоришь нет?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_28",
+      "word": "Listen, he doesn't know what he's saying.",
+      "translation": "Послушай, он не знает, что говорит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_29",
+      "word": "Don't spill the beans.",
+      "translation": "Не проболтайся!",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_30",
+      "word": "Do you hear what I'm saying?",
+      "translation": "Ты слышишь, что я говорю?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_31",
+      "word": "Do you know what you're saying?",
+      "translation": "Ты понимаешь, что ты говоришь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_32",
+      "word": "I hear everything you're saying.",
+      "translation": "Я слышу всё, что ты говоришь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_33",
+      "word": "Are you saying that I killed Tom?",
+      "translation": "По-твоему, я убил Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_34",
+      "word": "Do you realize what you're saying?",
+      "translation": "Ты понимаешь, что ты говоришь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_35",
+      "word": "I've been saying the same thing.",
+      "translation": "Я так и говорю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_36",
+      "word": "I listened but couldn't make out what they were saying.",
+      "translation": "Я слушал, но не мог взять в толк, о чём они говорят.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_37",
+      "word": "Are you saying Tom didn't win?",
+      "translation": "Ты хочешь сказать, Том не выиграл?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_38",
+      "word": "Tom nodded without saying anything.",
+      "translation": "Том кивнул, ничего не говоря.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_39",
+      "word": "That's a very old saying.",
+      "translation": "Это очень старая поговорка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_40",
+      "word": "I'm not saying it's impossible.",
+      "translation": "Я не говорю, что это невозможно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_41",
+      "word": "It's raining cats and dogs here.",
+      "translation": "Тут льёт как из ведра.",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_42",
+      "word": "Are you saying that Tom is dangerous?",
+      "translation": "Ты хочешь сказать, что Том опасен?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_43",
+      "word": "What are you saying?",
+      "translation": "Что ты говоришь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_idiomsproverbs_2_44",
+      "word": "Are you saying that you give up?",
+      "translation": "Ты хочешь сказать, что сдаёшься?",
+      "language": "en"
+    }
+  ]
+}

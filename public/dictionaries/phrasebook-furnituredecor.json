@@ -1,0 +1,1159 @@
+{
+  "id": "phrasebook-furnituredecor",
+  "name": "Furniture & Decor",
+  "description": "Phrasebook for Furniture & Decor",
+  "entries": [
+    {
+      "id": "pb_furnituredecor_0_0",
+      "word": "Tom locked Mary in a closet.",
+      "translation": "Том запер Мэри в шкафу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_1",
+      "word": "The lamp needs to be filled with oil.",
+      "translation": "Лампу нужно наполнить маслом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_2",
+      "word": "Tom bought a rug.",
+      "translation": "Том купил ковёр.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_3",
+      "word": "Can I open the curtain?",
+      "translation": "Могу я открыть занавеску?",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_4",
+      "word": "This rug is handmade.",
+      "translation": "Это ковёр ручной работы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_5",
+      "word": "Hide in the closet.",
+      "translation": "Спрячься в шкафу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_6",
+      "word": "The curtain rose.",
+      "translation": "Занавес поднялся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_7",
+      "word": "She was lounging on the sofa.",
+      "translation": "Она отдыхала на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_8",
+      "word": "What's in your closet?",
+      "translation": "Что у тебя в шкафу?",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_9",
+      "word": "Don't let him switch on the lamp.",
+      "translation": "Не позволяй ему включить лампу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_10",
+      "word": "I turned on a lamp.",
+      "translation": "Я включила лампу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_11",
+      "word": "I must replace that fluorescent lamp.",
+      "translation": "Я должен заменить флуоресцентную лампу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_12",
+      "word": "Who lit the lamp?",
+      "translation": "Кто включил лампу?",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_13",
+      "word": "I need a new wardrobe.",
+      "translation": "Мне нужен новый шкаф.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_14",
+      "word": "Tom answered with another shrug.",
+      "translation": "Том ответил очередным пожатием плеч.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_15",
+      "word": "Tom, look what I found under the sofa.",
+      "translation": "Том, смотри, что я нашёл под диваном.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_16",
+      "word": "When he was a kid, Tom liked to hide in the closet.",
+      "translation": "Том, когда был маленький, любил прятаться в шкафу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_17",
+      "word": "I slept on the sofa.",
+      "translation": "Я спал на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_18",
+      "word": "The little girl hid in the closet.",
+      "translation": "Девочка спряталась в шкафу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_19",
+      "word": "The curtain fell.",
+      "translation": "Занавес упал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_20",
+      "word": "Not a ray of light could reach the closet.",
+      "translation": "Ни один луч света не мог проникнуть в этот чулан.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_21",
+      "word": "Tom sat on the sofa.",
+      "translation": "Том сидел на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_22",
+      "word": "I slept on the couch.",
+      "translation": "Я спала на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_23",
+      "word": "Tom slid a little closer to Mary on the couch.",
+      "translation": "Том подвинулся чуточку ближе к Мэри на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_24",
+      "word": "Tom is taking a nap on the couch.",
+      "translation": "Том дремлет на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_25",
+      "word": "Tom is lying on the sofa watching TV.",
+      "translation": "Том лежит на диване и смотрит телевизор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_26",
+      "word": "Is that a new lamp?",
+      "translation": "Это новая лампа?",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_27",
+      "word": "The ball rolled under the sofa.",
+      "translation": "Мяч закатился под диван.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_28",
+      "word": "I bought an old lamp.",
+      "translation": "Я купил старую лампу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_29",
+      "word": "Tom is in the living room, asleep on the sofa.",
+      "translation": "Том в гостиной, спит на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_30",
+      "word": "Tom is a closet case.",
+      "translation": "Фома сидит в чулане.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_31",
+      "word": "Loosen the screws and remove the lamp cover.",
+      "translation": "Ослабьте винты и снимите колпак лампы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_32",
+      "word": "Did you break the lamp?",
+      "translation": "Ты разбил лампу?",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_33",
+      "word": "Tom dozed on the sofa.",
+      "translation": "Том дремал на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_34",
+      "word": "I hid in the closet.",
+      "translation": "Я спрятался в шкафу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_35",
+      "word": "We rolled up the rug.",
+      "translation": "Мы свернули ковёр.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_36",
+      "word": "Everyone has skeletons in their closet.",
+      "translation": "У всех свои скелеты в шкафу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_37",
+      "word": "Put it in the closet.",
+      "translation": "Положите его в шкаф.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_38",
+      "word": "There's nothing in this closet.",
+      "translation": "В этом шкафу ничего нет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_39",
+      "word": "I have a couch.",
+      "translation": "У меня есть диван.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_40",
+      "word": "Put this box in the closet.",
+      "translation": "Положи эту коробку в шкаф.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_41",
+      "word": "Tom ordered a new sofa from the catalog.",
+      "translation": "Том заказал новый диван по каталогу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_42",
+      "word": "Tom opened the closet.",
+      "translation": "Том открыл шкаф.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_43",
+      "word": "He is lying on the sofa.",
+      "translation": "Он лежит на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_44",
+      "word": "It's hanging in the closet.",
+      "translation": "Он в шкафу висит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_45",
+      "word": "Tom was sleeping on the sofa.",
+      "translation": "Том спал на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_46",
+      "word": "She lay on a sofa with her eyes closed.",
+      "translation": "Она лежала на диване с закрытыми глазами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_47",
+      "word": "Tom found his keys under the sofa.",
+      "translation": "Том нашёл свои ключи под диваном.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_48",
+      "word": "I switched the lamp off.",
+      "translation": "Я выключил лампу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_0_49",
+      "word": "Tom was asleep on the couch.",
+      "translation": "Том спал на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_0",
+      "word": "Tom spilled some juice on the couch.",
+      "translation": "Том пролил немного сока на диван.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_1",
+      "word": "It's hanging up in the closet.",
+      "translation": "Он в шкафу висит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_2",
+      "word": "How much is this sofa?",
+      "translation": "Сколько стоит этот диван?",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_3",
+      "word": "Lie on the couch.",
+      "translation": "Ложитесь на кушетку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_4",
+      "word": "The kidnappers gagged Tom and locked him up in a closet.",
+      "translation": "Похитители вставили Тому в рот кляп и заперли его в туалете.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_5",
+      "word": "Tom found his keys under the couch.",
+      "translation": "Том нашёл свои ключи под диваном.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_6",
+      "word": "This couch is comfy.",
+      "translation": "Этот диван удобный.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_7",
+      "word": "\"What's Grandma doing?\" \"She's sleeping on the couch.\"",
+      "translation": "\"Что бабушка делает?\" - \"Спит на диване\".",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_8",
+      "word": "The keys were under the sofa.",
+      "translation": "Ключи были под диваном.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_9",
+      "word": "Somebody has been sleeping on this sofa.",
+      "translation": "Кто-то спал на этом диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_10",
+      "word": "I unplugged the lamp.",
+      "translation": "Я выключил лампу из розетки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_11",
+      "word": "Tom slept on the couch.",
+      "translation": "Том спал на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_12",
+      "word": "Tom was lying on the couch.",
+      "translation": "Том лежал на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_13",
+      "word": "Tom pulled out an old shoebox from his closet and opened it.",
+      "translation": "Том вытащил из своего шкафа старую обувную коробку и открыл её.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_14",
+      "word": "What's in the closet?",
+      "translation": "Что в шкафу?",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_15",
+      "word": "Have you looked in the closet?",
+      "translation": "Ты в шкафу смотрел?",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_16",
+      "word": "She switched on the lamp because it was dark.",
+      "translation": "Она включила лампу, потому что было темно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_17",
+      "word": "The new sofa goes with the curtains.",
+      "translation": "Новый диван сочетается со шторами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_18",
+      "word": "Tom fell asleep on the couch.",
+      "translation": "Том уснул на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_19",
+      "word": "Don't be a couch potato.",
+      "translation": "Не будь лежебокой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_20",
+      "word": "I washed it and hung it up in the closet.",
+      "translation": "Я его постирала и повесила в шкаф.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_21",
+      "word": "Magazines were lying on the couch.",
+      "translation": "На диване валялись журналы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_22",
+      "word": "Tom turned off the lamp.",
+      "translation": "Том выключил лампу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_23",
+      "word": "We need a new lamp.",
+      "translation": "Нам нужна новая лампа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_24",
+      "word": "The tablecloth is in the closet.",
+      "translation": "Скатерть в шкафу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_25",
+      "word": "Tom is lying on the sofa.",
+      "translation": "Том лежит на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_26",
+      "word": "Have you checked under the couch?",
+      "translation": "Ты под диваном смотрел?",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_27",
+      "word": "Tom bought a Persian rug.",
+      "translation": "Том купил персидский ковёр.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_28",
+      "word": "He's cleaning out his closet.",
+      "translation": "Он убирается в шкафу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_29",
+      "word": "Tom fell asleep on the sofa.",
+      "translation": "Том уснул на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_30",
+      "word": "Your shelf is full of books.",
+      "translation": "Твоя полка заполнена книгами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_31",
+      "word": "Tom turned off the lamp on the nightstand.",
+      "translation": "Том выключил лампу на ночном столике.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_32",
+      "word": "Tom is in the living room, sleeping on the couch.",
+      "translation": "Том в гостиной, спит на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_33",
+      "word": "Tom is sleeping on the couch.",
+      "translation": "Том спит на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_34",
+      "word": "I need a lamp.",
+      "translation": "Мне нужна лампа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_35",
+      "word": "Tom got up from the couch.",
+      "translation": "Том поднялся с дивана.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_36",
+      "word": "I knocked over that lamp.",
+      "translation": "Я уронил ту лампу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_37",
+      "word": "That shelf is too high for me to reach.",
+      "translation": "Эта полка слишком высока для меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_38",
+      "word": "Tom hid in the closet.",
+      "translation": "Том спрятался в шкафу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_39",
+      "word": "It's in the closet.",
+      "translation": "Он в шкафу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_40",
+      "word": "Tom and Mary bought a handmade rug.",
+      "translation": "Том и Мэри купили ковёр ручной работы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_41",
+      "word": "Hang it up in the closet.",
+      "translation": "Повесь его в шкаф.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_42",
+      "word": "Tom fell asleep on my couch.",
+      "translation": "Том уснул у меня на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_43",
+      "word": "The curtain has not yet risen.",
+      "translation": "Занавес ещё не поднялся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_44",
+      "word": "The cat's asleep on the fireside rug.",
+      "translation": "Кот спит на коврике у камина.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_45",
+      "word": "He sat on the sofa with his arms folded.",
+      "translation": "Он сел на диван, сложив руки на груди.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_46",
+      "word": "I opened the closet.",
+      "translation": "Я открыл шкаф.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_47",
+      "word": "I helped Tom decide where to put the sofa.",
+      "translation": "Я помог Тому решить, куда поставить диван.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_48",
+      "word": "Tom said he found something under the couch.",
+      "translation": "Том сказал, что нашел что-то под диваном.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_1_49",
+      "word": "Tom came to sit with me on the sofa.",
+      "translation": "Том пришёл посидеть со мной на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_0",
+      "word": "When the curtain went up, the stage was dark.",
+      "translation": "Когда поднялся занавес, на сцене было темно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_1",
+      "word": "\"Where is Grandma?\" \"She's sleeping on the couch.\"",
+      "translation": "\"Где бабушка?\" - \"Спит на диване\".",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_2",
+      "word": "Tom is taking a nap on the sofa.",
+      "translation": "Том дремлет на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_3",
+      "word": "Mary's wardrobe is luxurious.",
+      "translation": "Гардероб у Мэри роскошный.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_4",
+      "word": "The armchair I'm sitting in is very comfy.",
+      "translation": "Кресло, в котором я сижу, очень удобное.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_5",
+      "word": "This vase has been sitting on the shelf for years.",
+      "translation": "Эта ваза уже годами стоит здесь на полке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_6",
+      "word": "This lamp gives off a soft light.",
+      "translation": "Эта лампа даёт мягкий свет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_7",
+      "word": "Tom turned on a lamp.",
+      "translation": "Том включил лампу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_8",
+      "word": "There are a lot of dustballs under the couch.",
+      "translation": "Под диваном много хлопьев пыли.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_9",
+      "word": "Look what I found under the sofa.",
+      "translation": "Смотри, что я нашёл под диваном.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_10",
+      "word": "Tom and Mary are sitting on the couch.",
+      "translation": "Том и Мэри сидят на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_11",
+      "word": "I turned on the lamp.",
+      "translation": "Я включил лампу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_12",
+      "word": "I woke up on the couch.",
+      "translation": "Я проснулся на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_13",
+      "word": "How does the couch look without the cover?",
+      "translation": "Как этот диван выглядит без чехла?",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_14",
+      "word": "A couch potato is something that I don't want to be.",
+      "translation": "Лежебока - это тот, кем я не хочу быть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_15",
+      "word": "Tom unlocked the closet.",
+      "translation": "Фома отпер шкаф.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_16",
+      "word": "The ball rolled under the couch.",
+      "translation": "Мяч закатился под диван.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_17",
+      "word": "The scandal was quickly swept under the rug.",
+      "translation": "Скандал быстро замяли.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_18",
+      "word": "Tom is asleep on the couch.",
+      "translation": "Том спит на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_19",
+      "word": "Don't sit down on the sofa.",
+      "translation": "Не садитесь на диван.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_20",
+      "word": "Tom turned on the lamp.",
+      "translation": "Том включил лампу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_21",
+      "word": "Tom unplugged the lamp.",
+      "translation": "Том выключил лампу из розетки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_22",
+      "word": "What else is in the closet?",
+      "translation": "Что ещё в шкафу?",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_23",
+      "word": "The keys were under the couch.",
+      "translation": "Ключи были под диваном.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_24",
+      "word": "There is a lamp on the ceiling.",
+      "translation": "На потолке находится лампа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_25",
+      "word": "It took a lot of effort to carry the sofa upstairs.",
+      "translation": "Было приложено немало усилий, чтобы поднять диван наверх.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_26",
+      "word": "Tom sat down on the couch beside Mary.",
+      "translation": "Том сел на диван рядом с Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_27",
+      "word": "Replace those books on the shelf when you're done with them.",
+      "translation": "Поставьте эти книги обратно на полку, когда они вам больше не будут нужны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_28",
+      "word": "What's in this closet?",
+      "translation": "Что в этом шкафу?",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_29",
+      "word": "This was in Tom's closet.",
+      "translation": "Это было у Тома в шкафу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_30",
+      "word": "Tom was sitting on the couch.",
+      "translation": "Том сидел на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_31",
+      "word": "Have you checked under the sofa?",
+      "translation": "Ты под диваном смотрел?",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_32",
+      "word": "Tom sat on the couch.",
+      "translation": "Том сел на диван.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_33",
+      "word": "Tom lay on the sofa with his eyes closed.",
+      "translation": "Том лежал на диване с закрытыми глазами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_34",
+      "word": "Tom has made himself comfortable on the sofa.",
+      "translation": "Том устроился на диване поудобнее.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_35",
+      "word": "Tom stretched out on the couch.",
+      "translation": "Том растянулся на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_36",
+      "word": "I switched off the lamp.",
+      "translation": "Я выключил лампу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_37",
+      "word": "Let's look in the closet.",
+      "translation": "Давай посмотрим в шкафу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_38",
+      "word": "Tom slept on the sofa.",
+      "translation": "Том спал на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_39",
+      "word": "Put the broom in the closet.",
+      "translation": "Поставь метлу в шкаф.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_40",
+      "word": "Tom switched the lamp off.",
+      "translation": "Том выключил лампу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_41",
+      "word": "I sat down on the couch.",
+      "translation": "Я сел на диван.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_42",
+      "word": "Tom found Mary's ring under the couch.",
+      "translation": "Том нашёл кольцо Мэри под диваном.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_43",
+      "word": "Tom was snoring on the couch.",
+      "translation": "Том храпел на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_44",
+      "word": "Tom often sleeps on the couch.",
+      "translation": "Том частенько спит на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_45",
+      "word": "The boy tried moving the heavy sofa.",
+      "translation": "Мальчик попытался подвинуть тяжелый диван.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_46",
+      "word": "I didn't know what was in the closet.",
+      "translation": "Я не знал, что в шкафу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_47",
+      "word": "Tom sat down on the couch.",
+      "translation": "Том сел на кушетку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_48",
+      "word": "Tom is hiding in the closet.",
+      "translation": "Том прячется в шкафу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_2_49",
+      "word": "Tom turned off his bedside lamp.",
+      "translation": "Том выключил свой ночник.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_0",
+      "word": "This couch is heavy.",
+      "translation": "Этот диван тяжёлый.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_1",
+      "word": "She put the blanket over the child sleeping on the sofa.",
+      "translation": "Она укрыла спящего на диване ребёнка одеялом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_2",
+      "word": "Tom and Mary sat on the sofa together watching TV.",
+      "translation": "Том и Мэри сидели вместе на диване и смотрели телевизор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_3",
+      "word": "There's someone hiding in the closet.",
+      "translation": "Кто-то прячется в шкафу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_4",
+      "word": "This armchair is comfortable to sit in.",
+      "translation": "В этом кресле удобно сидеть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_5",
+      "word": "Lie down on the couch.",
+      "translation": "Ложись на диван!",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_6",
+      "word": "I fell asleep on the couch.",
+      "translation": "Я уснул на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_7",
+      "word": "Is it OK if I open the curtain?",
+      "translation": "Ничего, если я открою занавеску?",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_8",
+      "word": "Tom is sprawled out on the sofa.",
+      "translation": "Том развалился на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_9",
+      "word": "This carpet is superior to that one in quality.",
+      "translation": "Этот ковёр лучше по качеству, чем тот.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_10",
+      "word": "Tom is sitting on the couch.",
+      "translation": "Том сидит на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_11",
+      "word": "Tom picked up one end of the couch and looked under it.",
+      "translation": "Том приподнял диван с одной стороны и заглянул под него.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_12",
+      "word": "There is a TV remote control under the couch.",
+      "translation": "Под диваном лежит пульт от телевизора.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_13",
+      "word": "He's hiding in the closet.",
+      "translation": "Он прячется в шкафу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_14",
+      "word": "This sofa is too small.",
+      "translation": "Этот диван слишком маленький.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_15",
+      "word": "It's on the sofa.",
+      "translation": "Он на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_16",
+      "word": "Tom was sitting on the couch alone.",
+      "translation": "Том сидел один на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_17",
+      "word": "Tom is in the living room, asleep on the couch.",
+      "translation": "Том в гостиной, спит на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_18",
+      "word": "Tom dusted off the old lamp.",
+      "translation": "Том вытер пыль со старой лампы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_19",
+      "word": "Tom tried to sell his old couch.",
+      "translation": "Том пытался продать свой старый диван.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_20",
+      "word": "Tom is asleep on the sofa.",
+      "translation": "Том спит на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_21",
+      "word": "Don't be such a couch potato.",
+      "translation": "Не будь таким лежебокой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_22",
+      "word": "The burglar shut the child in the closet.",
+      "translation": "Грабитель закрыл ребенка в шкафу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_23",
+      "word": "I fell asleep on the sofa.",
+      "translation": "Я уснул на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_24",
+      "word": "This rug has a nice pattern.",
+      "translation": "На этом ковре красивый узор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_25",
+      "word": "Why are you sleeping on the couch?",
+      "translation": "Почему ты спишь на диване?",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_26",
+      "word": "Tom slept on the pull-out sofa.",
+      "translation": "Том спал на раскладном диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_27",
+      "word": "What do you have in your closet?",
+      "translation": "Что у тебя в шкафу?",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_28",
+      "word": "Can I lie down on the couch?",
+      "translation": "Я могу лечь на диван?",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_29",
+      "word": "Tom switched off the lamp.",
+      "translation": "Том выключил лампу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_30",
+      "word": "Tom sat down on the sofa.",
+      "translation": "Том сел на диван.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_31",
+      "word": "Tom collapsed on the couch.",
+      "translation": "Том рухнул на диван.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_32",
+      "word": "This carpet was a real bargain.",
+      "translation": "Этот ковёр достался мне почти даром.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_33",
+      "word": "Tom bought a Turkish rug.",
+      "translation": "Том купил турецкий ковёр.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_34",
+      "word": "They're hanging up in the closet.",
+      "translation": "Они в шкафу висят.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_35",
+      "word": "We need new curtain rods.",
+      "translation": "Нам нужны новые палки для занавесок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_36",
+      "word": "He was lying on the couch.",
+      "translation": "Он лежал на диване.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_37",
+      "word": "Tom bought an antique rug.",
+      "translation": "Том купил антикварный коврик.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_38",
+      "word": "I hid myself in the closet.",
+      "translation": "Я спрятался в шкафу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_39",
+      "word": "Tom looked under the couch.",
+      "translation": "Том посмотрел под диваном.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_40",
+      "word": "I found this in Tom's closet.",
+      "translation": "Я нашёл это у Тома в шкафу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_furnituredecor_3_41",
+      "word": "He is sprawled out on the sofa.",
+      "translation": "Он растянулся на диване.",
+      "language": "en"
+    }
+  ]
+}

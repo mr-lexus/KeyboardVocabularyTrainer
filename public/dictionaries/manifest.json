@@ -1,0 +1,1380 @@
+{
+  "dictionaries": [
+    {
+      "id": "builtin-english-basics",
+      "name": "English Basics",
+      "description": "Common English words for beginners",
+      "file": "dictionaries/english-basics.json",
+      "wordCount": 404,
+      "emoji": "📖"
+    },
+    {
+      "id": "builtin-travel",
+      "name": "Travel & Places",
+      "description": "Vocabulary for travel and navigation",
+      "file": "dictionaries/travel.json",
+      "wordCount": 240,
+      "emoji": "✈️"
+    },
+    {
+      "id": "builtin-it-terms",
+      "name": "IT & Technology",
+      "description": "Technology and programming vocabulary",
+      "file": "dictionaries/it-terms.json",
+      "wordCount": 259,
+      "emoji": "💻"
+    },
+    {
+      "id": "builtin-food",
+      "name": "Food & Cooking",
+      "description": "Food, drinks and cooking vocabulary",
+      "file": "dictionaries/food.json",
+      "wordCount": 248,
+      "emoji": "🍕"
+    },
+    {
+      "id": "builtin-business",
+      "name": "Business, Economy & Finance",
+      "description": "Deep business vocabulary for professionals",
+      "file": "dictionaries/business.json",
+      "wordCount": 389,
+      "emoji": "💼"
+    },
+    {
+      "id": "builtin-health",
+      "name": "Health, Medicine & Anatomy",
+      "description": "Comprehensive medical and anatomy vocabulary",
+      "file": "dictionaries/health.json",
+      "wordCount": 286,
+      "emoji": "🏥"
+    },
+    {
+      "id": "builtin-science",
+      "name": "Science, Education & Space",
+      "description": "Extensive science, education, space and physics vocabulary",
+      "file": "dictionaries/science.json",
+      "wordCount": 311,
+      "emoji": "🔬"
+    },
+    {
+      "id": "builtin-animals",
+      "name": "Animals & Nature",
+      "description": "Extensive vocabulary covering wildlife and earth",
+      "file": "dictionaries/animals.json",
+      "wordCount": 295,
+      "emoji": "🦁"
+    },
+    {
+      "id": "builtin-emotions",
+      "name": "Emotions & Feelings",
+      "description": "Words describing feelings and emotional states",
+      "file": "dictionaries/emotions.json",
+      "wordCount": 290,
+      "emoji": "🎭"
+    },
+    {
+      "id": "builtin-sports",
+      "name": "Sports, Fitness & Games",
+      "description": "Vocabulary covering all aspects of sports and fitness",
+      "file": "dictionaries/sports.json",
+      "wordCount": 289,
+      "emoji": "⚽"
+    },
+    {
+      "id": "builtin-art",
+      "name": "Arts, Culture & Entertainment",
+      "description": "Deep dive into arts, media, literature and culture",
+      "file": "dictionaries/art.json",
+      "wordCount": 243,
+      "emoji": "🎨"
+    },
+    {
+      "id": "builtin-clothes",
+      "name": "Clothes & Fashion",
+      "description": "Clothing items, accessories, and fashion",
+      "file": "dictionaries/clothes.json",
+      "wordCount": 360,
+      "emoji": "👕"
+    },
+    {
+      "id": "builtin-home",
+      "name": "Home, Daily Life & Food",
+      "description": "Vocabulary for everyday life, cooking, and household",
+      "file": "dictionaries/home.json",
+      "wordCount": 344,
+      "emoji": "🏠"
+    },
+    {
+      "id": "builtin-weather",
+      "name": "Weather & Seasons",
+      "description": "Weather conditions and seasons",
+      "file": "dictionaries/weather.json",
+      "wordCount": 274,
+      "emoji": "🌤️"
+    },
+    {
+      "id": "builtin-colors",
+      "name": "Colors & Shapes",
+      "description": "Colors, shades, and geometric shapes",
+      "file": "dictionaries/colors.json",
+      "wordCount": 287,
+      "emoji": "🎨"
+    },
+    {
+      "id": "builtin-family",
+      "name": "Family & Relationships",
+      "description": "Family members and relationship terms",
+      "file": "dictionaries/family.json",
+      "wordCount": 214,
+      "emoji": "👨‍👩‍👧‍👦"
+    },
+    {
+      "id": "builtin-transport",
+      "name": "Transport & Vehicles",
+      "description": "Modes of transportation and travel",
+      "file": "dictionaries/transport.json",
+      "wordCount": 291,
+      "emoji": "🚗"
+    },
+    {
+      "id": "builtin-entertainment",
+      "name": "Entertainment & Media",
+      "description": "Entertainment, media, and leisure activities",
+      "file": "dictionaries/entertainment.json",
+      "wordCount": 264,
+      "emoji": "🎬"
+    },
+    {
+      "id": "builtin-politics",
+      "name": "Politics & Law",
+      "description": "Government, politics, and legal terms",
+      "file": "dictionaries/politics.json",
+      "wordCount": 251,
+      "emoji": "⚖️"
+    },
+    {
+      "id": "builtin-space",
+      "name": "Space & Universe",
+      "description": "Astronomy and space exploration",
+      "file": "dictionaries/space.json",
+      "wordCount": 186,
+      "emoji": "🚀"
+    },
+    {
+      "id": "builtin-shopping",
+      "name": "Shopping & Money",
+      "description": "Commerce, shopping, and finances",
+      "file": "dictionaries/shopping.json",
+      "wordCount": 251,
+      "emoji": "🛒"
+    },
+    {
+      "id": "builtin-hobbies",
+      "name": "Hobbies & Free Time",
+      "description": "Leisure activities and pastimes",
+      "file": "dictionaries/hobbies.json",
+      "wordCount": 326,
+      "emoji": "🎸"
+    },
+    {
+      "id": "builtin-city",
+      "name": "City & Urban Life",
+      "description": "Urban environment and city features",
+      "file": "dictionaries/city.json",
+      "wordCount": 285,
+      "emoji": "🏙️"
+    },
+    {
+      "id": "builtin-farm",
+      "name": "Farm & Agriculture",
+      "description": "Farming, agriculture, and rural life",
+      "file": "dictionaries/farm.json",
+      "wordCount": 302,
+      "emoji": "🚜"
+    },
+    {
+      "id": "cefr-a1-1",
+      "name": "A1 Level - Part 1",
+      "description": "Vocabulary for A1 level, part 1",
+      "file": "dictionaries/cefr-a1-1.json",
+      "wordCount": 300,
+      "emoji": "🌱"
+    },
+    {
+      "id": "cefr-a1-2",
+      "name": "A1 Level - Part 2",
+      "description": "Vocabulary for A1 level, part 2",
+      "file": "dictionaries/cefr-a1-2.json",
+      "wordCount": 300,
+      "emoji": "🌱"
+    },
+    {
+      "id": "cefr-a1-3",
+      "name": "A1 Level - Part 3",
+      "description": "Vocabulary for A1 level, part 3",
+      "file": "dictionaries/cefr-a1-3.json",
+      "wordCount": 298,
+      "emoji": "🌱"
+    },
+    {
+      "id": "cefr-a2-1",
+      "name": "A2 Level - Part 1",
+      "description": "Vocabulary for A2 level, part 1",
+      "file": "dictionaries/cefr-a2-1.json",
+      "wordCount": 289,
+      "emoji": "🌿"
+    },
+    {
+      "id": "cefr-a2-2",
+      "name": "A2 Level - Part 2",
+      "description": "Vocabulary for A2 level, part 2",
+      "file": "dictionaries/cefr-a2-2.json",
+      "wordCount": 289,
+      "emoji": "🌿"
+    },
+    {
+      "id": "cefr-a2-3",
+      "name": "A2 Level - Part 3",
+      "description": "Vocabulary for A2 level, part 3",
+      "file": "dictionaries/cefr-a2-3.json",
+      "wordCount": 289,
+      "emoji": "🌿"
+    },
+    {
+      "id": "cefr-b1-1",
+      "name": "B1 Level - Part 1",
+      "description": "Vocabulary for B1 level, part 1",
+      "file": "dictionaries/cefr-b1-1.json",
+      "wordCount": 268,
+      "emoji": "🌳"
+    },
+    {
+      "id": "cefr-b1-2",
+      "name": "B1 Level - Part 2",
+      "description": "Vocabulary for B1 level, part 2",
+      "file": "dictionaries/cefr-b1-2.json",
+      "wordCount": 268,
+      "emoji": "🌳"
+    },
+    {
+      "id": "cefr-b1-3",
+      "name": "B1 Level - Part 3",
+      "description": "Vocabulary for B1 level, part 3",
+      "file": "dictionaries/cefr-b1-3.json",
+      "wordCount": 266,
+      "emoji": "🌳"
+    },
+    {
+      "id": "cefr-b2-1",
+      "name": "B2 Level - Part 1",
+      "description": "Vocabulary for B2 level, part 1",
+      "file": "dictionaries/cefr-b2-1.json",
+      "wordCount": 295,
+      "emoji": "🌲"
+    },
+    {
+      "id": "cefr-b2-2",
+      "name": "B2 Level - Part 2",
+      "description": "Vocabulary for B2 level, part 2",
+      "file": "dictionaries/cefr-b2-2.json",
+      "wordCount": 295,
+      "emoji": "🌲"
+    },
+    {
+      "id": "cefr-b2-3",
+      "name": "B2 Level - Part 3",
+      "description": "Vocabulary for B2 level, part 3",
+      "file": "dictionaries/cefr-b2-3.json",
+      "wordCount": 295,
+      "emoji": "🌲"
+    },
+    {
+      "id": "cefr-b2-4",
+      "name": "B2 Level - Part 4",
+      "description": "Vocabulary for B2 level, part 4",
+      "file": "dictionaries/cefr-b2-4.json",
+      "wordCount": 295,
+      "emoji": "🌲"
+    },
+    {
+      "id": "cefr-c1-1",
+      "name": "C1 Level - Part 1",
+      "description": "Vocabulary for C1 level, part 1",
+      "file": "dictionaries/cefr-c1-1.json",
+      "wordCount": 327,
+      "emoji": "🏔️"
+    },
+    {
+      "id": "cefr-c1-2",
+      "name": "C1 Level - Part 2",
+      "description": "Vocabulary for C1 level, part 2",
+      "file": "dictionaries/cefr-c1-2.json",
+      "wordCount": 327,
+      "emoji": "🏔️"
+    },
+    {
+      "id": "cefr-c1-3",
+      "name": "C1 Level - Part 3",
+      "description": "Vocabulary for C1 level, part 3",
+      "file": "dictionaries/cefr-c1-3.json",
+      "wordCount": 327,
+      "emoji": "🏔️"
+    },
+    {
+      "id": "cefr-c2-1",
+      "name": "C2 Level - Part 1",
+      "description": "Vocabulary for C2 level, part 1",
+      "file": "dictionaries/cefr-c2-1.json",
+      "wordCount": 291,
+      "emoji": "⛰️"
+    },
+    {
+      "id": "cefr-c2-2",
+      "name": "C2 Level - Part 2",
+      "description": "Vocabulary for C2 level, part 2",
+      "file": "dictionaries/cefr-c2-2.json",
+      "wordCount": 290,
+      "emoji": "⛰️"
+    },
+    {
+      "id": "pb-small-talk",
+      "name": "Small Talk & Meeting",
+      "description": "Фразы для знакомства и повседневного общения",
+      "file": "dictionaries/pb-small-talk.json",
+      "wordCount": 20,
+      "emoji": "👋"
+    },
+    {
+      "id": "pb-airport",
+      "name": "At the Airport",
+      "description": "В аэропорту: регистрация, багаж, таможня",
+      "file": "dictionaries/pb-airport.json",
+      "wordCount": 15,
+      "emoji": "✈️"
+    },
+    {
+      "id": "pb-restaurant",
+      "name": "In a Restaurant",
+      "description": "В ресторане: заказ еды, счет, предпочтения",
+      "file": "dictionaries/pb-restaurant.json",
+      "wordCount": 15,
+      "emoji": "🍽️"
+    },
+    {
+      "id": "pb-hotel",
+      "name": "Hotel & Accommodation",
+      "description": "Заселение, выселение и обслуживание в отеле",
+      "file": "dictionaries/pb-hotel.json",
+      "wordCount": 15,
+      "emoji": "🏨"
+    },
+    {
+      "id": "pb-it-interview",
+      "name": "IT Job Interview",
+      "description": "Полезные фразы для собеседования на английском в IT",
+      "file": "dictionaries/pb-it-interview.json",
+      "wordCount": 15,
+      "emoji": "💻"
+    },
+    {
+      "id": "pb-business",
+      "name": "Business Meetings",
+      "description": "Деловое общение, митинги, переговоры",
+      "file": "dictionaries/pb-business.json",
+      "wordCount": 15,
+      "emoji": "👔"
+    },
+    {
+      "id": "pb-emergency",
+      "name": "Emergencies",
+      "description": "Экстренные ситуации, помощь, медицина",
+      "file": "dictionaries/pb-emergency.json",
+      "wordCount": 15,
+      "emoji": "🚨"
+    },
+    {
+      "id": "phrasebook-traveltransport",
+      "name": "Travel & Transport",
+      "description": "Phrasebook for Travel & Transport",
+      "file": "dictionaries/phrasebook-traveltransport.json",
+      "wordCount": 500,
+      "emoji": "✈️"
+    },
+    {
+      "id": "phrasebook-hotelaccommodation",
+      "name": "Hotel & Accommodation",
+      "description": "Phrasebook for Hotel & Accommodation",
+      "file": "dictionaries/phrasebook-hotelaccommodation.json",
+      "wordCount": 500,
+      "emoji": "🏨"
+    },
+    {
+      "id": "phrasebook-restaurantfood",
+      "name": "Restaurant & Food",
+      "description": "Phrasebook for Restaurant & Food",
+      "file": "dictionaries/phrasebook-restaurantfood.json",
+      "wordCount": 500,
+      "emoji": "🍽️"
+    },
+    {
+      "id": "phrasebook-shoppingmoney",
+      "name": "Shopping & Money",
+      "description": "Phrasebook for Shopping & Money",
+      "file": "dictionaries/phrasebook-shoppingmoney.json",
+      "wordCount": 500,
+      "emoji": "🛍️"
+    },
+    {
+      "id": "phrasebook-emergencyhealth",
+      "name": "Emergency & Health",
+      "description": "Phrasebook for Emergency & Health",
+      "file": "dictionaries/phrasebook-emergencyhealth.json",
+      "wordCount": 500,
+      "emoji": "🚑"
+    },
+    {
+      "id": "phrasebook-smalltalkbasics",
+      "name": "Small Talk & Basics",
+      "description": "Phrasebook for Small Talk & Basics",
+      "file": "dictionaries/phrasebook-smalltalkbasics.json",
+      "wordCount": 500,
+      "emoji": "💬"
+    },
+    {
+      "id": "phrasebook-workbusiness",
+      "name": "Work & Business",
+      "description": "Phrasebook for Work & Business",
+      "file": "dictionaries/phrasebook-workbusiness.json",
+      "wordCount": 500,
+      "emoji": "💼"
+    },
+    {
+      "id": "phrasebook-educationstudy",
+      "name": "Education & Study",
+      "description": "Phrasebook for Education & Study",
+      "file": "dictionaries/phrasebook-educationstudy.json",
+      "wordCount": 500,
+      "emoji": "🎓"
+    },
+    {
+      "id": "phrasebook-hobbiesfreetime",
+      "name": "Hobbies & Free Time",
+      "description": "Phrasebook for Hobbies & Free Time",
+      "file": "dictionaries/phrasebook-hobbiesfreetime.json",
+      "wordCount": 500,
+      "emoji": "🎨"
+    },
+    {
+      "id": "phrasebook-familyrelationships",
+      "name": "Family & Relationships",
+      "description": "Phrasebook for Family & Relationships",
+      "file": "dictionaries/phrasebook-familyrelationships.json",
+      "wordCount": 500,
+      "emoji": "👨‍👩‍👧‍👦"
+    },
+    {
+      "id": "phrasebook-homeliving",
+      "name": "Home & Living",
+      "description": "Phrasebook for Home & Living",
+      "file": "dictionaries/phrasebook-homeliving.json",
+      "wordCount": 500,
+      "emoji": "🏠"
+    },
+    {
+      "id": "phrasebook-natureweather",
+      "name": "Nature & Weather",
+      "description": "Phrasebook for Nature & Weather",
+      "file": "dictionaries/phrasebook-natureweather.json",
+      "wordCount": 500,
+      "emoji": "🌤️"
+    },
+    {
+      "id": "phrasebook-technologyinternet",
+      "name": "Technology & Internet",
+      "description": "Phrasebook for Technology & Internet",
+      "file": "dictionaries/phrasebook-technologyinternet.json",
+      "wordCount": 500,
+      "emoji": "💻"
+    },
+    {
+      "id": "phrasebook-timedates",
+      "name": "Time & Dates",
+      "description": "Phrasebook for Time & Dates",
+      "file": "dictionaries/phrasebook-timedates.json",
+      "wordCount": 500,
+      "emoji": "🕒"
+    },
+    {
+      "id": "phrasebook-feelingsemotions",
+      "name": "Feelings & Emotions",
+      "description": "Phrasebook for Feelings & Emotions",
+      "file": "dictionaries/phrasebook-feelingsemotions.json",
+      "wordCount": 500,
+      "emoji": "😊"
+    },
+    {
+      "id": "phrasebook-artsculture",
+      "name": "Arts & Culture",
+      "description": "Phrasebook for Arts & Culture",
+      "file": "dictionaries/phrasebook-artsculture.json",
+      "wordCount": 500,
+      "emoji": "🎭"
+    },
+    {
+      "id": "phrasebook-laworder",
+      "name": "Law & Order",
+      "description": "Phrasebook for Law & Order",
+      "file": "dictionaries/phrasebook-laworder.json",
+      "wordCount": 500,
+      "emoji": "⚖️"
+    },
+    {
+      "id": "phrasebook-sciencespace",
+      "name": "Science & Space",
+      "description": "Phrasebook for Science & Space",
+      "file": "dictionaries/phrasebook-sciencespace.json",
+      "wordCount": 500,
+      "emoji": "🚀"
+    },
+    {
+      "id": "phrasebook-politicssociety",
+      "name": "Politics & Society",
+      "description": "Phrasebook for Politics & Society",
+      "file": "dictionaries/phrasebook-politicssociety.json",
+      "wordCount": 500,
+      "emoji": "🏛️"
+    },
+    {
+      "id": "phrasebook-clothingfashion",
+      "name": "Clothing & Fashion",
+      "description": "Phrasebook for Clothing & Fashion",
+      "file": "dictionaries/phrasebook-clothingfashion.json",
+      "wordCount": 500,
+      "emoji": "👗"
+    },
+    {
+      "id": "phrasebook-bodyparts",
+      "name": "Body Parts",
+      "description": "Phrasebook for Body Parts",
+      "file": "dictionaries/phrasebook-bodyparts.json",
+      "wordCount": 500,
+      "emoji": "🧍"
+    },
+    {
+      "id": "phrasebook-colorsshapes",
+      "name": "Colors & Shapes",
+      "description": "Phrasebook for Colors & Shapes",
+      "file": "dictionaries/phrasebook-colorsshapes.json",
+      "wordCount": 500,
+      "emoji": "🎨"
+    },
+    {
+      "id": "phrasebook-animalspets",
+      "name": "Animals & Pets",
+      "description": "Phrasebook for Animals & Pets",
+      "file": "dictionaries/phrasebook-animalspets.json",
+      "wordCount": 500,
+      "emoji": "🐾"
+    },
+    {
+      "id": "phrasebook-sportsfitness",
+      "name": "Sports & Fitness",
+      "description": "Phrasebook for Sports & Fitness",
+      "file": "dictionaries/phrasebook-sportsfitness.json",
+      "wordCount": 500,
+      "emoji": "⚽️"
+    },
+    {
+      "id": "phrasebook-drivingroad",
+      "name": "Driving & Road",
+      "description": "Phrasebook for Driving & Road",
+      "file": "dictionaries/phrasebook-drivingroad.json",
+      "wordCount": 500,
+      "emoji": "🚗"
+    },
+    {
+      "id": "phrasebook-financebanking",
+      "name": "Finance & Banking",
+      "description": "Phrasebook for Finance & Banking",
+      "file": "dictionaries/phrasebook-financebanking.json",
+      "wordCount": 500,
+      "emoji": "🏦"
+    },
+    {
+      "id": "phrasebook-medianews",
+      "name": "Media & News",
+      "description": "Phrasebook for Media & News",
+      "file": "dictionaries/phrasebook-medianews.json",
+      "wordCount": 500,
+      "emoji": "📺"
+    },
+    {
+      "id": "phrasebook-environmentecology",
+      "name": "Environment & Ecology",
+      "description": "Phrasebook for Environment & Ecology",
+      "file": "dictionaries/phrasebook-environmentecology.json",
+      "wordCount": 289,
+      "emoji": "🌍"
+    },
+    {
+      "id": "phrasebook-communicationpost",
+      "name": "Communication & Post",
+      "description": "Phrasebook for Communication & Post",
+      "file": "dictionaries/phrasebook-communicationpost.json",
+      "wordCount": 500,
+      "emoji": "📮"
+    },
+    {
+      "id": "phrasebook-cookingrecipes",
+      "name": "Cooking & Recipes",
+      "description": "Phrasebook for Cooking & Recipes",
+      "file": "dictionaries/phrasebook-cookingrecipes.json",
+      "wordCount": 500,
+      "emoji": "🍳"
+    },
+    {
+      "id": "phrasebook-geographyplaces",
+      "name": "Geography & Places",
+      "description": "Phrasebook for Geography & Places",
+      "file": "dictionaries/phrasebook-geographyplaces.json",
+      "wordCount": 500,
+      "emoji": "🗺️"
+    },
+    {
+      "id": "phrasebook-religionbeliefs",
+      "name": "Religion & Beliefs",
+      "description": "Phrasebook for Religion & Beliefs",
+      "file": "dictionaries/phrasebook-religionbeliefs.json",
+      "wordCount": 500,
+      "emoji": "🕊️"
+    },
+    {
+      "id": "phrasebook-militarywar",
+      "name": "Military & War",
+      "description": "Phrasebook for Military & War",
+      "file": "dictionaries/phrasebook-militarywar.json",
+      "wordCount": 500,
+      "emoji": "🪖"
+    },
+    {
+      "id": "phrasebook-architecturebuildings",
+      "name": "Architecture & Buildings",
+      "description": "Phrasebook for Architecture & Buildings",
+      "file": "dictionaries/phrasebook-architecturebuildings.json",
+      "wordCount": 500,
+      "emoji": "🏛️"
+    },
+    {
+      "id": "phrasebook-agriculturefarming",
+      "name": "Agriculture & Farming",
+      "description": "Phrasebook for Agriculture & Farming",
+      "file": "dictionaries/phrasebook-agriculturefarming.json",
+      "wordCount": 300,
+      "emoji": "🌾"
+    },
+    {
+      "id": "phrasebook-medicinediseases",
+      "name": "Medicine & Diseases",
+      "description": "Phrasebook for Medicine & Diseases",
+      "file": "dictionaries/phrasebook-medicinediseases.json",
+      "wordCount": 500,
+      "emoji": "💊"
+    },
+    {
+      "id": "phrasebook-toolsequipment",
+      "name": "Tools & Equipment",
+      "description": "Phrasebook for Tools & Equipment",
+      "file": "dictionaries/phrasebook-toolsequipment.json",
+      "wordCount": 500,
+      "emoji": "🛠️"
+    },
+    {
+      "id": "phrasebook-mathematicsnumbers",
+      "name": "Mathematics & Numbers",
+      "description": "Phrasebook for Mathematics & Numbers",
+      "file": "dictionaries/phrasebook-mathematicsnumbers.json",
+      "wordCount": 500,
+      "emoji": "🔢"
+    },
+    {
+      "id": "phrasebook-spaceastronomy",
+      "name": "Space & Astronomy",
+      "description": "Phrasebook for Space & Astronomy",
+      "file": "dictionaries/phrasebook-spaceastronomy.json",
+      "wordCount": 78,
+      "emoji": "🪐"
+    },
+    {
+      "id": "phrasebook-musicinstruments",
+      "name": "Music & Instruments",
+      "description": "Phrasebook for Music & Instruments",
+      "file": "dictionaries/phrasebook-musicinstruments.json",
+      "wordCount": 500,
+      "emoji": "🎵"
+    },
+    {
+      "id": "phrasebook-literaturebooks",
+      "name": "Literature & Books",
+      "description": "Phrasebook for Literature & Books",
+      "file": "dictionaries/phrasebook-literaturebooks.json",
+      "wordCount": 500,
+      "emoji": "📚"
+    },
+    {
+      "id": "phrasebook-historypast",
+      "name": "History & Past",
+      "description": "Phrasebook for History & Past",
+      "file": "dictionaries/phrasebook-historypast.json",
+      "wordCount": 500,
+      "emoji": "⏳"
+    },
+    {
+      "id": "phrasebook-fantasymagic",
+      "name": "Fantasy & Magic",
+      "description": "Phrasebook for Fantasy & Magic",
+      "file": "dictionaries/phrasebook-fantasymagic.json",
+      "wordCount": 500,
+      "emoji": "🧙"
+    },
+    {
+      "id": "phrasebook-humorjokes",
+      "name": "Humor & Jokes",
+      "description": "Phrasebook for Humor & Jokes",
+      "file": "dictionaries/phrasebook-humorjokes.json",
+      "wordCount": 500,
+      "emoji": "😂"
+    },
+    {
+      "id": "phrasebook-romancedating",
+      "name": "Romance & Dating",
+      "description": "Phrasebook for Romance & Dating",
+      "file": "dictionaries/phrasebook-romancedating.json",
+      "wordCount": 500,
+      "emoji": "💘"
+    },
+    {
+      "id": "phrasebook-holidayscelebrations",
+      "name": "Holidays & Celebrations",
+      "description": "Phrasebook for Holidays & Celebrations",
+      "file": "dictionaries/phrasebook-holidayscelebrations.json",
+      "wordCount": 500,
+      "emoji": "🎉"
+    },
+    {
+      "id": "phrasebook-describingpeople",
+      "name": "Describing People",
+      "description": "Phrasebook for Describing People",
+      "file": "dictionaries/phrasebook-describingpeople.json",
+      "wordCount": 500,
+      "emoji": "👤"
+    },
+    {
+      "id": "phrasebook-dailyroutine",
+      "name": "Daily Routine",
+      "description": "Phrasebook for Daily Routine",
+      "file": "dictionaries/phrasebook-dailyroutine.json",
+      "wordCount": 500,
+      "emoji": "🌅"
+    },
+    {
+      "id": "phrasebook-opinionsarguments",
+      "name": "Opinions & Arguments",
+      "description": "Phrasebook for Opinions & Arguments",
+      "file": "dictionaries/phrasebook-opinionsarguments.json",
+      "wordCount": 500,
+      "emoji": "🗣️"
+    },
+    {
+      "id": "phrasebook-directionsnavigation",
+      "name": "Directions & Navigation",
+      "description": "Phrasebook for Directions & Navigation",
+      "file": "dictionaries/phrasebook-directionsnavigation.json",
+      "wordCount": 500,
+      "emoji": "🧭"
+    },
+    {
+      "id": "phrasebook-complimentspraise",
+      "name": "Compliments & Praise",
+      "description": "Phrasebook for Compliments & Praise",
+      "file": "dictionaries/phrasebook-complimentspraise.json",
+      "wordCount": 500,
+      "emoji": "🌟"
+    },
+    {
+      "id": "phrasebook-apologiesforgiveness",
+      "name": "Apologies & Forgiveness",
+      "description": "Phrasebook for Apologies & Forgiveness",
+      "file": "dictionaries/phrasebook-apologiesforgiveness.json",
+      "wordCount": 500,
+      "emoji": "🙏"
+    },
+    {
+      "id": "phrasebook-requestspermissions",
+      "name": "Requests & Permissions",
+      "description": "Phrasebook for Requests & Permissions",
+      "file": "dictionaries/phrasebook-requestspermissions.json",
+      "wordCount": 500,
+      "emoji": "🙋"
+    },
+    {
+      "id": "phrasebook-offersinvitations",
+      "name": "Offers & Invitations",
+      "description": "Phrasebook for Offers & Invitations",
+      "file": "dictionaries/phrasebook-offersinvitations.json",
+      "wordCount": 500,
+      "emoji": "🤝"
+    },
+    {
+      "id": "phrasebook-advicesuggestions",
+      "name": "Advice & Suggestions",
+      "description": "Phrasebook for Advice & Suggestions",
+      "file": "dictionaries/phrasebook-advicesuggestions.json",
+      "wordCount": 500,
+      "emoji": "💡"
+    },
+    {
+      "id": "phrasebook-complaintsdissatisfaction",
+      "name": "Complaints & Dissatisfaction",
+      "description": "Phrasebook for Complaints & Dissatisfaction",
+      "file": "dictionaries/phrasebook-complaintsdissatisfaction.json",
+      "wordCount": 500,
+      "emoji": "😠"
+    },
+    {
+      "id": "phrasebook-promisescommitments",
+      "name": "Promises & Commitments",
+      "description": "Phrasebook for Promises & Commitments",
+      "file": "dictionaries/phrasebook-promisescommitments.json",
+      "wordCount": 500,
+      "emoji": "🤞"
+    },
+    {
+      "id": "phrasebook-sympathycondolences",
+      "name": "Sympathy & Condolences",
+      "description": "Phrasebook for Sympathy & Condolences",
+      "file": "dictionaries/phrasebook-sympathycondolences.json",
+      "wordCount": 100,
+      "emoji": "💐"
+    },
+    {
+      "id": "phrasebook-idiomsproverbs",
+      "name": "Idioms & Proverbs",
+      "description": "Phrasebook for Idioms & Proverbs",
+      "file": "dictionaries/phrasebook-idiomsproverbs.json",
+      "wordCount": 145,
+      "emoji": "🧩"
+    },
+    {
+      "id": "phrasebook-slanginformal",
+      "name": "Slang & Informal",
+      "description": "Phrasebook for Slang & Informal",
+      "file": "dictionaries/phrasebook-slanginformal.json",
+      "wordCount": 167,
+      "emoji": "😎"
+    },
+    {
+      "id": "phrasebook-attheairport",
+      "name": "At the Airport",
+      "description": "Phrasebook for At the Airport",
+      "file": "dictionaries/phrasebook-attheairport.json",
+      "wordCount": 178,
+      "emoji": "🛫"
+    },
+    {
+      "id": "phrasebook-attherestaurant",
+      "name": "At the Restaurant",
+      "description": "Phrasebook for At the Restaurant",
+      "file": "dictionaries/phrasebook-attherestaurant.json",
+      "wordCount": 190,
+      "emoji": "🍴"
+    },
+    {
+      "id": "phrasebook-atthehotel",
+      "name": "At the Hotel",
+      "description": "Phrasebook for At the Hotel",
+      "file": "dictionaries/phrasebook-atthehotel.json",
+      "wordCount": 35,
+      "emoji": "🛏️"
+    },
+    {
+      "id": "phrasebook-atthebank",
+      "name": "At the Bank",
+      "description": "Phrasebook for At the Bank",
+      "file": "dictionaries/phrasebook-atthebank.json",
+      "wordCount": 21,
+      "emoji": "💳"
+    },
+    {
+      "id": "phrasebook-atthedoctor",
+      "name": "At the Doctor",
+      "description": "Phrasebook for At the Doctor",
+      "file": "dictionaries/phrasebook-atthedoctor.json",
+      "wordCount": 234,
+      "emoji": "🩺"
+    },
+    {
+      "id": "phrasebook-jobinterview",
+      "name": "Job Interview",
+      "description": "Phrasebook for Job Interview",
+      "file": "dictionaries/phrasebook-jobinterview.json",
+      "wordCount": 500,
+      "emoji": "🤝"
+    },
+    {
+      "id": "phrasebook-realestatehousing",
+      "name": "Real Estate & Housing",
+      "description": "Phrasebook for Real Estate & Housing",
+      "file": "dictionaries/phrasebook-realestatehousing.json",
+      "wordCount": 100,
+      "emoji": "🏘️"
+    },
+    {
+      "id": "phrasebook-crimepolice",
+      "name": "Crime & Police",
+      "description": "Phrasebook for Crime & Police",
+      "file": "dictionaries/phrasebook-crimepolice.json",
+      "wordCount": 350,
+      "emoji": "🚓"
+    },
+    {
+      "id": "phrasebook-hobbiesphotography",
+      "name": "Hobbies: Photography",
+      "description": "Phrasebook for Hobbies: Photography",
+      "file": "dictionaries/phrasebook-hobbiesphotography.json",
+      "wordCount": 500,
+      "emoji": "📸"
+    },
+    {
+      "id": "phrasebook-hobbiesgardening",
+      "name": "Hobbies: Gardening",
+      "description": "Phrasebook for Hobbies: Gardening",
+      "file": "dictionaries/phrasebook-hobbiesgardening.json",
+      "wordCount": 72,
+      "emoji": "🪴"
+    },
+    {
+      "id": "phrasebook-computerssoftware",
+      "name": "Computers & Software",
+      "description": "Phrasebook for Computers & Software",
+      "file": "dictionaries/phrasebook-computerssoftware.json",
+      "wordCount": 147,
+      "emoji": "🖥️"
+    },
+    {
+      "id": "phrasebook-socialmediachat",
+      "name": "Social Media & Chat",
+      "description": "Phrasebook for Social Media & Chat",
+      "file": "dictionaries/phrasebook-socialmediachat.json",
+      "wordCount": 500,
+      "emoji": "📱"
+    },
+    {
+      "id": "phrasebook-personalcarehygiene",
+      "name": "Personal Care & Hygiene",
+      "description": "Phrasebook for Personal Care & Hygiene",
+      "file": "dictionaries/phrasebook-personalcarehygiene.json",
+      "wordCount": 250,
+      "emoji": "🧼"
+    },
+    {
+      "id": "phrasebook-householdchores",
+      "name": "Household Chores",
+      "description": "Phrasebook for Household Chores",
+      "file": "dictionaries/phrasebook-householdchores.json",
+      "wordCount": 248,
+      "emoji": "🧹"
+    },
+    {
+      "id": "phrasebook-transportationtrainsubway",
+      "name": "Transportation: Train & Subway",
+      "description": "Phrasebook for Transportation: Train & Subway",
+      "file": "dictionaries/phrasebook-transportationtrainsubway.json",
+      "wordCount": 70,
+      "emoji": "🚆"
+    },
+    {
+      "id": "phrasebook-transportationbustaxi",
+      "name": "Transportation: Bus & Taxi",
+      "description": "Phrasebook for Transportation: Bus & Taxi",
+      "file": "dictionaries/phrasebook-transportationbustaxi.json",
+      "wordCount": 500,
+      "emoji": "🚌"
+    },
+    {
+      "id": "phrasebook-schoolclassroom",
+      "name": "School & Classroom",
+      "description": "Phrasebook for School & Classroom",
+      "file": "dictionaries/phrasebook-schoolclassroom.json",
+      "wordCount": 500,
+      "emoji": "🏫"
+    },
+    {
+      "id": "phrasebook-petsdogscats",
+      "name": "Pets: Dogs & Cats",
+      "description": "Phrasebook for Pets: Dogs & Cats",
+      "file": "dictionaries/phrasebook-petsdogscats.json",
+      "wordCount": 100,
+      "emoji": "🐶"
+    },
+    {
+      "id": "phrasebook-lawcourt",
+      "name": "Law & Court",
+      "description": "Phrasebook for Law & Court",
+      "file": "dictionaries/phrasebook-lawcourt.json",
+      "wordCount": 120,
+      "emoji": "⚖️"
+    },
+    {
+      "id": "phrasebook-politicselections",
+      "name": "Politics & Elections",
+      "description": "Phrasebook for Politics & Elections",
+      "file": "dictionaries/phrasebook-politicselections.json",
+      "wordCount": 71,
+      "emoji": "🗳️"
+    },
+    {
+      "id": "phrasebook-economytrade",
+      "name": "Economy & Trade",
+      "description": "Phrasebook for Economy & Trade",
+      "file": "dictionaries/phrasebook-economytrade.json",
+      "wordCount": 148,
+      "emoji": "📈"
+    },
+    {
+      "id": "phrasebook-religionspirituality",
+      "name": "Religion & Spirituality",
+      "description": "Phrasebook for Religion & Spirituality",
+      "file": "dictionaries/phrasebook-religionspirituality.json",
+      "wordCount": 25,
+      "emoji": "🙏"
+    },
+    {
+      "id": "phrasebook-geographylandscapes",
+      "name": "Geography & Landscapes",
+      "description": "Phrasebook for Geography & Landscapes",
+      "file": "dictionaries/phrasebook-geographylandscapes.json",
+      "wordCount": 222,
+      "emoji": "🏔️"
+    },
+    {
+      "id": "phrasebook-sciencephysics",
+      "name": "Science & Physics",
+      "description": "Phrasebook for Science & Physics",
+      "file": "dictionaries/phrasebook-sciencephysics.json",
+      "wordCount": 47,
+      "emoji": "🔬"
+    },
+    {
+      "id": "phrasebook-mathematicsgeometry",
+      "name": "Mathematics & Geometry",
+      "description": "Phrasebook for Mathematics & Geometry",
+      "file": "dictionaries/phrasebook-mathematicsgeometry.json",
+      "wordCount": 175,
+      "emoji": "📐"
+    },
+    {
+      "id": "phrasebook-historyempires",
+      "name": "History & Empires",
+      "description": "Phrasebook for History & Empires",
+      "file": "dictionaries/phrasebook-historyempires.json",
+      "wordCount": 27,
+      "emoji": "📜"
+    },
+    {
+      "id": "phrasebook-artpainting",
+      "name": "Art & Painting",
+      "description": "Phrasebook for Art & Painting",
+      "file": "dictionaries/phrasebook-artpainting.json",
+      "wordCount": 25,
+      "emoji": "🎨"
+    },
+    {
+      "id": "phrasebook-technologygadgets",
+      "name": "Technology & Gadgets",
+      "description": "Phrasebook for Technology & Gadgets",
+      "file": "dictionaries/phrasebook-technologygadgets.json",
+      "wordCount": 49,
+      "emoji": "🔌"
+    },
+    {
+      "id": "phrasebook-internetwebsites",
+      "name": "Internet & Websites",
+      "description": "Phrasebook for Internet & Websites",
+      "file": "dictionaries/phrasebook-internetwebsites.json",
+      "wordCount": 50,
+      "emoji": "🌐"
+    },
+    {
+      "id": "phrasebook-vehiclestransport",
+      "name": "Vehicles & Transport",
+      "description": "Phrasebook for Vehicles & Transport",
+      "file": "dictionaries/phrasebook-vehiclestransport.json",
+      "wordCount": 500,
+      "emoji": "🛵"
+    },
+    {
+      "id": "phrasebook-materialssubstances",
+      "name": "Materials & Substances",
+      "description": "Phrasebook for Materials & Substances",
+      "file": "dictionaries/phrasebook-materialssubstances.json",
+      "wordCount": 247,
+      "emoji": "🧱"
+    },
+    {
+      "id": "phrasebook-toolshardware",
+      "name": "Tools & Hardware",
+      "description": "Phrasebook for Tools & Hardware",
+      "file": "dictionaries/phrasebook-toolshardware.json",
+      "wordCount": 42,
+      "emoji": "🧰"
+    },
+    {
+      "id": "phrasebook-officestationery",
+      "name": "Office & Stationery",
+      "description": "Phrasebook for Office & Stationery",
+      "file": "dictionaries/phrasebook-officestationery.json",
+      "wordCount": 43,
+      "emoji": "🖇️"
+    },
+    {
+      "id": "phrasebook-furnituredecor",
+      "name": "Furniture & Decor",
+      "description": "Phrasebook for Furniture & Decor",
+      "file": "dictionaries/phrasebook-furnituredecor.json",
+      "wordCount": 192,
+      "emoji": "🛋️"
+    },
+    {
+      "id": "phrasebook-clothesaccessories",
+      "name": "Clothes & Accessories",
+      "description": "Phrasebook for Clothes & Accessories",
+      "file": "dictionaries/phrasebook-clothesaccessories.json",
+      "wordCount": 500,
+      "emoji": "👔"
+    },
+    {
+      "id": "phrasebook-foodingredients",
+      "name": "Food & Ingredients",
+      "description": "Phrasebook for Food & Ingredients",
+      "file": "dictionaries/phrasebook-foodingredients.json",
+      "wordCount": 500,
+      "emoji": "🥕"
+    },
+    {
+      "id": "phrasebook-drinksbeverages",
+      "name": "Drinks & Beverages",
+      "description": "Phrasebook for Drinks & Beverages",
+      "file": "dictionaries/phrasebook-drinksbeverages.json",
+      "wordCount": 500,
+      "emoji": "🥤"
+    },
+    {
+      "id": "phrasebook-programminglanguages",
+      "name": "Programming Languages",
+      "description": "Phrasebook for Programming Languages",
+      "file": "dictionaries/phrasebook-programminglanguages.json",
+      "wordCount": 28,
+      "emoji": "🧑‍💻"
+    },
+    {
+      "id": "phrasebook-moviescinema",
+      "name": "Movies & Cinema",
+      "description": "Phrasebook for Movies & Cinema",
+      "file": "dictionaries/phrasebook-moviescinema.json",
+      "wordCount": 119,
+      "emoji": "🍿"
+    },
+    {
+      "id": "phrasebook-fitnessgym",
+      "name": "Fitness & Gym",
+      "description": "Phrasebook for Fitness & Gym",
+      "file": "dictionaries/phrasebook-fitnessgym.json",
+      "wordCount": 270,
+      "emoji": "🏋️"
+    },
+    {
+      "id": "phrasebook-mythologyfolklore",
+      "name": "Mythology & Folklore",
+      "description": "Phrasebook for Mythology & Folklore",
+      "file": "dictionaries/phrasebook-mythologyfolklore.json",
+      "wordCount": 83,
+      "emoji": "🦄"
+    },
+    {
+      "id": "phrasebook-philosophyethics",
+      "name": "Philosophy & Ethics",
+      "description": "Phrasebook for Philosophy & Ethics",
+      "file": "dictionaries/phrasebook-philosophyethics.json",
+      "wordCount": 500,
+      "emoji": "🤔"
+    },
+    {
+      "id": "phrasebook-psychologymind",
+      "name": "Psychology & Mind",
+      "description": "Phrasebook for Psychology & Mind",
+      "file": "dictionaries/phrasebook-psychologymind.json",
+      "wordCount": 500,
+      "emoji": "🧠"
+    },
+    {
+      "id": "phrasebook-linguisticslanguages",
+      "name": "Linguistics & Languages",
+      "description": "Phrasebook for Linguistics & Languages",
+      "file": "dictionaries/phrasebook-linguisticslanguages.json",
+      "wordCount": 333,
+      "emoji": "🗣️"
+    },
+    {
+      "id": "phrasebook-anthropologycultures",
+      "name": "Anthropology & Cultures",
+      "description": "Phrasebook for Anthropology & Cultures",
+      "file": "dictionaries/phrasebook-anthropologycultures.json",
+      "wordCount": 80,
+      "emoji": "🌍"
+    },
+    {
+      "id": "phrasebook-sociologydemographics",
+      "name": "Sociology & Demographics",
+      "description": "Phrasebook for Sociology & Demographics",
+      "file": "dictionaries/phrasebook-sociologydemographics.json",
+      "wordCount": 122,
+      "emoji": "👥"
+    },
+    {
+      "id": "phrasebook-economicsmarkets",
+      "name": "Economics & Markets",
+      "description": "Phrasebook for Economics & Markets",
+      "file": "dictionaries/phrasebook-economicsmarkets.json",
+      "wordCount": 70,
+      "emoji": "💹"
+    },
+    {
+      "id": "phrasebook-businessmanagement",
+      "name": "Business & Management",
+      "description": "Phrasebook for Business & Management",
+      "file": "dictionaries/phrasebook-businessmanagement.json",
+      "wordCount": 500,
+      "emoji": "📊"
+    },
+    {
+      "id": "phrasebook-marketingadvertising",
+      "name": "Marketing & Advertising",
+      "description": "Phrasebook for Marketing & Advertising",
+      "file": "dictionaries/phrasebook-marketingadvertising.json",
+      "wordCount": 420,
+      "emoji": "📢"
+    },
+    {
+      "id": "phrasebook-publicrelationsmedia",
+      "name": "Public Relations & Media",
+      "description": "Phrasebook for Public Relations & Media",
+      "file": "dictionaries/phrasebook-publicrelationsmedia.json",
+      "wordCount": 92,
+      "emoji": "🎙️"
+    },
+    {
+      "id": "phrasebook-campingoutdoors",
+      "name": "Camping & Outdoors",
+      "description": "Phrasebook for Camping & Outdoors",
+      "file": "dictionaries/phrasebook-campingoutdoors.json",
+      "wordCount": 167,
+      "emoji": "🏕️"
+    },
+    {
+      "id": "phrasebook-beachocean",
+      "name": "Beach & Ocean",
+      "description": "Phrasebook for Beach & Ocean",
+      "file": "dictionaries/phrasebook-beachocean.json",
+      "wordCount": 387,
+      "emoji": "🏖️"
+    },
+    {
+      "id": "phrasebook-wintersnow",
+      "name": "Winter & Snow",
+      "description": "Phrasebook for Winter & Snow",
+      "file": "dictionaries/phrasebook-wintersnow.json",
+      "wordCount": 500,
+      "emoji": "⛄"
+    },
+    {
+      "id": "phrasebook-dessertssweets",
+      "name": "Desserts & Sweets",
+      "description": "Phrasebook for Desserts & Sweets",
+      "file": "dictionaries/phrasebook-dessertssweets.json",
+      "wordCount": 200,
+      "emoji": "🍰"
+    },
+    {
+      "id": "phrasebook-barbershophaircut",
+      "name": "Barbershop & Haircut",
+      "description": "Phrasebook for Barbershop & Haircut",
+      "file": "dictionaries/phrasebook-barbershophaircut.json",
+      "wordCount": 121,
+      "emoji": "💈"
+    },
+    {
+      "id": "phrasebook-motorsportspectator",
+      "name": "Motorsport (Spectator)",
+      "description": "Phrasebook for Motorsport (Spectator)",
+      "file": "dictionaries/phrasebook-motorsportspectator.json",
+      "wordCount": 22,
+      "emoji": "🏁"
+    },
+    {
+      "id": "phrasebook-motorsportengineermechanic",
+      "name": "Motorsport (Engineer & Mechanic)",
+      "description": "Phrasebook for Motorsport (Engineer & Mechanic)",
+      "file": "dictionaries/phrasebook-motorsportengineermechanic.json",
+      "wordCount": 39,
+      "emoji": "⚙️"
+    },
+    {
+      "id": "phrasebook-motorsportdriver",
+      "name": "Motorsport (Driver)",
+      "description": "Phrasebook for Motorsport (Driver)",
+      "file": "dictionaries/phrasebook-motorsportdriver.json",
+      "wordCount": 50,
+      "emoji": "🏎️"
+    },
+    {
+      "id": "phrasebook-aviationflying",
+      "name": "Aviation & Flying",
+      "description": "Phrasebook for Aviation & Flying",
+      "file": "dictionaries/phrasebook-aviationflying.json",
+      "wordCount": 44,
+      "emoji": "🛩️"
+    },
+    {
+      "id": "phrasebook-bicyclescycling",
+      "name": "Bicycles & Cycling",
+      "description": "Phrasebook for Bicycles & Cycling",
+      "file": "dictionaries/phrasebook-bicyclescycling.json",
+      "wordCount": 173,
+      "emoji": "🚲"
+    },
+    {
+      "id": "phrasebook-fishingangling",
+      "name": "Fishing & Angling",
+      "description": "Phrasebook for Fishing & Angling",
+      "file": "dictionaries/phrasebook-fishingangling.json",
+      "wordCount": 276,
+      "emoji": "🎣"
+    },
+    {
+      "id": "phrasebook-videogamesshootersaction",
+      "name": "Video Games (Shooters & Action)",
+      "description": "Phrasebook for Video Games (Shooters & Action)",
+      "file": "dictionaries/phrasebook-videogamesshootersaction.json",
+      "wordCount": 50,
+      "emoji": "🔫"
+    },
+    {
+      "id": "phrasebook-videogamesrpgstrategy",
+      "name": "Video Games (RPG & Strategy)",
+      "description": "Phrasebook for Video Games (RPG & Strategy)",
+      "file": "dictionaries/phrasebook-videogamesrpgstrategy.json",
+      "wordCount": 248,
+      "emoji": "🛡️"
+    }
+  ]
+}

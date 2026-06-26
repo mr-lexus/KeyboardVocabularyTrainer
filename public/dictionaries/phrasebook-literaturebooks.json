@@ -1,0 +1,3007 @@
+{
+  "id": "phrasebook-literaturebooks",
+  "name": "Literature & Books",
+  "description": "Phrasebook for Literature & Books",
+  "entries": [
+    {
+      "id": "pb_literaturebooks_0_0",
+      "word": "His new novel has become a best-seller.",
+      "translation": "Его новый роман стал бестселлером.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_1",
+      "word": "But how does this story end?",
+      "translation": "Но чем заканчивается эта история?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_2",
+      "word": "He knew the story already.",
+      "translation": "Он уже знал эту историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_3",
+      "word": "That's only half the story.",
+      "translation": "Это только пол-истории.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_4",
+      "word": "I really like this story.",
+      "translation": "Мне очень нравится эта история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_5",
+      "word": "Tom wanted to be a writer.",
+      "translation": "Том хотел быть писателем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_6",
+      "word": "I think the story is true.",
+      "translation": "Я думаю, что история правдивая.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_7",
+      "word": "It's based on a true story.",
+      "translation": "Основано на реальных событиях.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_8",
+      "word": "Go ahead with your story.",
+      "translation": "Рассказывай дальше.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_9",
+      "word": "He was a poet and writer.",
+      "translation": "Он был поэтом и писателем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_10",
+      "word": "Part of his story is true.",
+      "translation": "Часть его истории верна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_11",
+      "word": "No one believed his story.",
+      "translation": "Никто не поверил его рассказу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_12",
+      "word": "The story is full of holes.",
+      "translation": "Эта история шита белыми нитками.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_13",
+      "word": "This is a beautiful story.",
+      "translation": "Это красивая история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_14",
+      "word": "Open your books to page 86.",
+      "translation": "Откройте ваши книги на странице 86.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_15",
+      "word": "It's an awfully good story.",
+      "translation": "Чертовски хорошая история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_16",
+      "word": "This story cannot be true.",
+      "translation": "Эта история не может быть правдой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_17",
+      "word": "The novel is very exciting.",
+      "translation": "Роман очень захватывающий.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_18",
+      "word": "Open your books to page 30.",
+      "translation": "Откройте книги на странице 30.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_19",
+      "word": "Tom will tell us a story.",
+      "translation": "Том расскажет нам историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_20",
+      "word": "Share your story with us.",
+      "translation": "Поделитесь своей историей с нами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_21",
+      "word": "It's still a great story.",
+      "translation": "И всё-таки это отличная история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_22",
+      "word": "I want to tell you a story.",
+      "translation": "Я хочу рассказать тебе историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_23",
+      "word": "He's a strange character.",
+      "translation": "Он чудак.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_24",
+      "word": "Tom isn't a scriptwriter.",
+      "translation": "Том не сценарист.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_25",
+      "word": "Tom is an aspiring writer.",
+      "translation": "Том - подающий надежды писатель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_26",
+      "word": "Tom told us a funny story.",
+      "translation": "Том рассказал нам смешную историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_27",
+      "word": "I'm a writer.",
+      "translation": "Я писатель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_28",
+      "word": "Everyone knows my story.",
+      "translation": "Все знают мою историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_29",
+      "word": "I'm a screenwriter.",
+      "translation": "Я сценарист.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_30",
+      "word": "Is his story true?",
+      "translation": "Его рассказ - правда?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_31",
+      "word": "It reads like a fairy tale.",
+      "translation": "Это похоже на сказку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_32",
+      "word": "Tom made up that story.",
+      "translation": "Том придумал эту историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_33",
+      "word": "Let me tell you a story.",
+      "translation": "Позволь рассказать тебе историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_34",
+      "word": "The plot develops rapidly.",
+      "translation": "Сюжет развивается стремительно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_35",
+      "word": "It is a long story.",
+      "translation": "Это долгая история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_36",
+      "word": "The story was captivating.",
+      "translation": "История была захватывающая.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_37",
+      "word": "This story is based on facts.",
+      "translation": "Эта история основана на фактах.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_38",
+      "word": "Tom is telling a story.",
+      "translation": "Том рассказывает историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_39",
+      "word": "I've heard this story before.",
+      "translation": "Я слышал эту историю раньше.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_40",
+      "word": "I'm a songwriter.",
+      "translation": "Я пишу песни.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_41",
+      "word": "We can't publish this story.",
+      "translation": "Мы не можем опубликовать эту историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_42",
+      "word": "They believed your story.",
+      "translation": "Они поверили в твою историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_43",
+      "word": "Tom is writing a novel now.",
+      "translation": "Том сейчас пишет роман.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_44",
+      "word": "This is a story about stars.",
+      "translation": "Это рассказ о звездах.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_45",
+      "word": "No one ever knew the true story except the three of us.",
+      "translation": "Никто никогда не знал истинную историю, исключая нас троих.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_46",
+      "word": "Tom is reading a novel.",
+      "translation": "Том читает роман.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_47",
+      "word": "This novel has also been translated into French.",
+      "translation": "Этот роман был также переведён на французский язык.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_48",
+      "word": "She knew the story already.",
+      "translation": "Она уже знала эту историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_0_49",
+      "word": "This science-fiction novel is very interesting.",
+      "translation": "Этот научно-фантастический роман очень интересный.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_0",
+      "word": "I know the story from beginning to end.",
+      "translation": "Я знаю эту историю от начала до конца.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_1",
+      "word": "He translated a Japanese novel into French.",
+      "translation": "Он перевел японский роман на французский язык.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_2",
+      "word": "What a beautiful story!",
+      "translation": "Какая красивая история!",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_3",
+      "word": "I told Tom a story.",
+      "translation": "Я рассказал Тому историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_4",
+      "word": "This show's main character is a talking squirrel.",
+      "translation": "Главный персонаж этого шоу — говорящая белка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_5",
+      "word": "Tom is a man of character.",
+      "translation": "Том - мужчина с характером.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_6",
+      "word": "Publish or perish.",
+      "translation": "Опубликуй или умри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_7",
+      "word": "This is a story about a little boy named Tom.",
+      "translation": "Это история о маленьком мальчике по имени Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_8",
+      "word": "I liked your story.",
+      "translation": "Мне понравилась твоя история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_9",
+      "word": "Can anyone confirm your story?",
+      "translation": "Кто-нибудь может подтвердить ваш рассказ?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_10",
+      "word": "She told the story with tears in her eyes.",
+      "translation": "Она рассказала историю со слезами на глазах.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_11",
+      "word": "Look at the picture at the top of the page.",
+      "translation": "Посмотрите на рисунок вверху страницы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_12",
+      "word": "It's a good story.",
+      "translation": "Это хорошая история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_13",
+      "word": "How long did it take him to write this novel?",
+      "translation": "Как долго он писал этот роман?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_14",
+      "word": "The princess disguised herself as a page.",
+      "translation": "Принцесса переоделась пажом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_15",
+      "word": "I want to hear your story.",
+      "translation": "Я хочу услышать твою историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_16",
+      "word": "This novel was written by an American writer.",
+      "translation": "Этот роман был написан американским писателем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_17",
+      "word": "He is quite a character.",
+      "translation": "Он довольно своеобразный человек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_18",
+      "word": "I heard that story.",
+      "translation": "Я слышал эту историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_19",
+      "word": "He made up the whole story.",
+      "translation": "Он выдумал эту историю от начала и до конца.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_20",
+      "word": "Don't you want to hear my side of the story?",
+      "translation": "Вы не хотите послушать мою версию?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_21",
+      "word": "It was a fascinating story.",
+      "translation": "Это была захватывающая история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_22",
+      "word": "I have a story to tell.",
+      "translation": "Мне нужно рассказать историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_23",
+      "word": "It's a great story.",
+      "translation": "Отличная история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_24",
+      "word": "I'm not buying your story.",
+      "translation": "Я вашим россказням не верю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_25",
+      "word": "I've never told this story to anybody before.",
+      "translation": "Я ещё никогда никому не рассказывал эту историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_26",
+      "word": "The story doesn't end there.",
+      "translation": "История на этом не заканчивается.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_27",
+      "word": "What page are you on?",
+      "translation": "На какой ты странице?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_28",
+      "word": "I've already heard this story.",
+      "translation": "Я уже слышал эту историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_29",
+      "word": "She is a good writer.",
+      "translation": "Она хорошая писательница.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_30",
+      "word": "I like her novel.",
+      "translation": "Мне нравится её роман.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_31",
+      "word": "This is a story written in easy English.",
+      "translation": "Этот рассказ написан на простом английском.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_32",
+      "word": "Tom spent all weekend reading a historical novel.",
+      "translation": "Том все выходные провёл за чтением исторического романа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_33",
+      "word": "Writing a novel often takes several years.",
+      "translation": "Написание романа часто занимает несколько лет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_34",
+      "word": "Was her story true?",
+      "translation": "Её рассказ был правдой?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_35",
+      "word": "This is an old story.",
+      "translation": "Это старая история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_36",
+      "word": "His novel has been translated into Japanese.",
+      "translation": "Его роман был переведён на японский.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_37",
+      "word": "Who's your favorite writer?",
+      "translation": "Кто ваш любимый писатель?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_38",
+      "word": "Can his story be true?",
+      "translation": "Может ли его рассказ быть правдой?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_39",
+      "word": "I'm reading a French novel.",
+      "translation": "Я читаю французский роман.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_40",
+      "word": "We have illustrated the story with pictures.",
+      "translation": "Мы проиллюстрировали рассказ картинками.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_41",
+      "word": "The novel has sold almost 20,000 copies.",
+      "translation": "Было продано почти 20000 копий романа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_42",
+      "word": "\"How did you two meet?\" \"It's a long story.\"",
+      "translation": "\"Как вы познакомились?\" - \"Это долгая история\".",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_43",
+      "word": "The footnotes are at the bottom of the page.",
+      "translation": "Сноски находятся в нижней части страницы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_44",
+      "word": "Her new novel has been highly praised.",
+      "translation": "Её новый роман очень хвалят.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_45",
+      "word": "His story moved her to tears.",
+      "translation": "Его история взволновала её до слёз.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_46",
+      "word": "I couldn't find the page I was looking for.",
+      "translation": "Я не смог найти страницу, которую искал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_47",
+      "word": "Tom enjoyed Mary's story.",
+      "translation": "Тому очень понравилась история Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_48",
+      "word": "I'm pretty sure that Tom just made up that story.",
+      "translation": "Я вполне уверен, что Том просто выдумал эту историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_1_49",
+      "word": "Tom was the one who told me the story.",
+      "translation": "Именно Том рассказал мне это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_0",
+      "word": "I couldn't find the page that I was looking for.",
+      "translation": "Я не смог найти страницу, которую искал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_1",
+      "word": "Have you already heard this story?",
+      "translation": "Ты уже слышал эту историю?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_2",
+      "word": "There are two main characters in this story.",
+      "translation": "В этой истории два главных героя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_3",
+      "word": "I'll finish reading this novel soon.",
+      "translation": "Я скоро дочитаю этот роман.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_4",
+      "word": "Wait until the page loads.",
+      "translation": "Подожди, пока страница загрузится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_5",
+      "word": "The writer died in poverty and oblivion.",
+      "translation": "Писатель умер в нищете и забвении.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_6",
+      "word": "I don't think that that story is true.",
+      "translation": "Я не думаю, что эта история правдива.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_7",
+      "word": "The story was true.",
+      "translation": "История была правдива.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_8",
+      "word": "That's an unfinished novel.",
+      "translation": "Это незавершённый роман.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_9",
+      "word": "Finish the story.",
+      "translation": "Закончи историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_10",
+      "word": "The plot was really convoluted.",
+      "translation": "Сюжет был сильно запутанным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_11",
+      "word": "Refresh the page.",
+      "translation": "Обнови страницу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_12",
+      "word": "That's a true story.",
+      "translation": "Это правдивая история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_13",
+      "word": "He works as a ghost writer.",
+      "translation": "Он работает литературным негром.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_14",
+      "word": "Tom told me a long story.",
+      "translation": "Том рассказал мне длинную историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_15",
+      "word": "His story is true.",
+      "translation": "Его рассказ - правда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_16",
+      "word": "Tom told me an interesting story.",
+      "translation": "Том рассказал мне интересную историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_17",
+      "word": "He wrote a novel about vampires.",
+      "translation": "Он написал роман про вампиров.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_18",
+      "word": "You become a writer by writing.",
+      "translation": "Писателем становишься, когда пишешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_19",
+      "word": "Tom dreamed of becoming a writer.",
+      "translation": "Том мечтал стать писателем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_20",
+      "word": "Tom told us a story.",
+      "translation": "Том рассказал нам историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_21",
+      "word": "The novel is worthy of praise.",
+      "translation": "Роман заслуживает похвал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_22",
+      "word": "Tom is reading a novel by Sidney Sheldon now.",
+      "translation": "Сейчас Том читает роман Сидни Шелдона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_23",
+      "word": "When will your new novel come out?",
+      "translation": "Когда выйдет Ваш новый роман?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_24",
+      "word": "Tom became a famous writer.",
+      "translation": "Том стал известным писателем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_25",
+      "word": "This is my favorite fairy tale.",
+      "translation": "Это моя любимая сказка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_26",
+      "word": "Tom told us an interesting story.",
+      "translation": "Том рассказал нам интересную историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_27",
+      "word": "I wrote a novel.",
+      "translation": "Я написал роман.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_28",
+      "word": "Look at the next page.",
+      "translation": "Посмотрите на следующей странице.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_29",
+      "word": "Who told you the story?",
+      "translation": "Кто рассказал тебе эту историю?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_30",
+      "word": "Tom was writing a novel.",
+      "translation": "Том писал роман.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_31",
+      "word": "What's the story about?",
+      "translation": "О чем рассказ?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_32",
+      "word": "That's only part of the story.",
+      "translation": "Это ещё не всё.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_33",
+      "word": "I remember hearing the story once.",
+      "translation": "Я помню, слышал эту историю как-то раз.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_34",
+      "word": "His story can't be true.",
+      "translation": "Его история не может быть правдой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_35",
+      "word": "I want to write a novel.",
+      "translation": "Я хочу написать роман.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_36",
+      "word": "Tom is an odd character.",
+      "translation": "Том - странный персонаж.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_37",
+      "word": "Would you like to be a writer?",
+      "translation": "Хотел бы стать писателем?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_38",
+      "word": "How will this story end?",
+      "translation": "Чем закончится история?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_39",
+      "word": "This story is touching.",
+      "translation": "Это трогательная история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_40",
+      "word": "Education helps to mold character.",
+      "translation": "Образование помогает сформировать характер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_41",
+      "word": "She left the last page blank.",
+      "translation": "Она оставила последнюю страницу пустой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_42",
+      "word": "My grandmother told me the story of Cinderella.",
+      "translation": "Бабушка рассказала мне историю о Золушке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_43",
+      "word": "I finished reading this novel in three days.",
+      "translation": "Я прочёл этот роман целиком за три дня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_44",
+      "word": "I don't trust his story.",
+      "translation": "Я не доверяю его рассказу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_45",
+      "word": "Tom is a screenwriter.",
+      "translation": "Том - сценарист.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_46",
+      "word": "It's a fascinating story.",
+      "translation": "Это захватывающая история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_47",
+      "word": "Tom knows how to tell a story.",
+      "translation": "Том умеет рассказывать истории.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_48",
+      "word": "It's a complicated story.",
+      "translation": "Это сложная история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_2_49",
+      "word": "This story was inspired by true events.",
+      "translation": "Эта история была основана на реальных событиях.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_0",
+      "word": "He told us such a funny story that we all laughed.",
+      "translation": "Он рассказал нам такую смешную историю, что все мы рассмеялись.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_1",
+      "word": "It's a riveting story.",
+      "translation": "Это захватывающая история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_2",
+      "word": "Tom's story really touched us.",
+      "translation": "Рассказ Тома нас очень растрогал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_3",
+      "word": "I know the whole story.",
+      "translation": "Я знаю всю историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_4",
+      "word": "Do all the exercises at the end of the chapter.",
+      "translation": "Сделайте все упражнения, помещённые в конце этой главы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_5",
+      "word": "It's a beautiful story.",
+      "translation": "Прекрасная история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_6",
+      "word": "He told a funny story.",
+      "translation": "Он рассказал забавную историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_7",
+      "word": "It's a funny story.",
+      "translation": "Забавная история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_8",
+      "word": "I bookmarked the page.",
+      "translation": "Я добавил страницу в закладки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_9",
+      "word": "Your story is boring.",
+      "translation": "Твоя история скучная.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_10",
+      "word": "Where did you hear that story?",
+      "translation": "Где ты услышал эту историю?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_11",
+      "word": "Your story sounds credible.",
+      "translation": "Твоя история звучит правдоподобно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_12",
+      "word": "He is a good writer.",
+      "translation": "Он хороший писатель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_13",
+      "word": "He has started to write a novel.",
+      "translation": "Он начал писать роман.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_14",
+      "word": "I was very impressed by his story.",
+      "translation": "Я был очень впечатлён его рассказом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_15",
+      "word": "He was the brains behind the plot.",
+      "translation": "Он был мозгом заговора.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_16",
+      "word": "This story is based on actual events.",
+      "translation": "Эта история основана на реальных событиях.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_17",
+      "word": "I'm a terrible writer.",
+      "translation": "Я ужасный писатель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_18",
+      "word": "That's quite a story.",
+      "translation": "Это вполне тянет на сюжет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_19",
+      "word": "Besides being a surgeon, he was a famous writer.",
+      "translation": "Помимо хирурга он также был известным писателем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_20",
+      "word": "His story is strange, but it's believable.",
+      "translation": "Его история странная, но всё же достоверная.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_21",
+      "word": "I think she made up that story.",
+      "translation": "Думаю, она эту историю выдумала.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_22",
+      "word": "This novel consists of three parts.",
+      "translation": "Этот роман состоит из трёх частей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_23",
+      "word": "I'm the one who wrote this story.",
+      "translation": "Этот рассказ написал я.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_24",
+      "word": "I don't remember how the story ended.",
+      "translation": "Я не помню, чем закончилась история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_25",
+      "word": "Who wrote this story?",
+      "translation": "Кто автор этой повести?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_26",
+      "word": "They accused him of being part of the plot.",
+      "translation": "Они обвинили его в участии в заговоре.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_27",
+      "word": "I turned the page.",
+      "translation": "Я перевернул страницу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_28",
+      "word": "We met a writer.",
+      "translation": "Мы встретили писателя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_29",
+      "word": "I found the story interesting.",
+      "translation": "Мне эта история показалась интересной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_30",
+      "word": "I don't think that Tom's story is true.",
+      "translation": "Не думаю, что рассказ Тома - правда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_31",
+      "word": "What story did Tom tell you?",
+      "translation": "Какую историю рассказал тебе Том?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_32",
+      "word": "She told us an interesting story.",
+      "translation": "Она рассказала нам интересную историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_33",
+      "word": "I'd like to know the rest of the story.",
+      "translation": "Я хотел бы знать, чем всё закончилось.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_34",
+      "word": "Tom told us a long story.",
+      "translation": "Том рассказал нам длинную историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_35",
+      "word": "Tom is a good writer.",
+      "translation": "Том — хороший писатель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_36",
+      "word": "His story turned out to be true.",
+      "translation": "Его история оказалась правдой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_37",
+      "word": "Tom had no one to tell his story to.",
+      "translation": "Тому было некому рассказать свою историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_38",
+      "word": "He's reading a novel now.",
+      "translation": "Сейчас он читает роман.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_39",
+      "word": "This novel is boring.",
+      "translation": "Этот роман скучный.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_40",
+      "word": "She couldn't get the point of his story.",
+      "translation": "Она не могла понять смысл его рассказа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_41",
+      "word": "Let's begin with the first chapter.",
+      "translation": "Начнём с первой главы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_42",
+      "word": "Tom told his side of the story.",
+      "translation": "Том рассказал свою интерпретацию событий.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_43",
+      "word": "That's the kind of story I want to write.",
+      "translation": "Вот такую историю я хочу написать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_44",
+      "word": "Part of the story is true.",
+      "translation": "Отчасти эта история - правда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_45",
+      "word": "He is working on a new novel.",
+      "translation": "Он работает над новым романом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_46",
+      "word": "The first half of the story is set in Boston.",
+      "translation": "Первая половина истории происходит в Бостоне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_47",
+      "word": "His story turned out to be false.",
+      "translation": "Оказалось, что его история неправдива.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_48",
+      "word": "The story was very interesting.",
+      "translation": "История была очень интересной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_3_49",
+      "word": "The story got more and more interesting.",
+      "translation": "История становилась всё интереснее.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_0",
+      "word": "The story ends with his death.",
+      "translation": "История заканчивается его смертью.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_1",
+      "word": "Tell me a true story.",
+      "translation": "Расскажи мне правдивую историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_2",
+      "word": "It's on page 3.",
+      "translation": "Это на третьей странице.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_3",
+      "word": "That kind of story appeals to me.",
+      "translation": "Мне нравятся такие рассказы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_4",
+      "word": "This story has an unhappy ending.",
+      "translation": "У этой истории несчастливый конец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_5",
+      "word": "Do you know who wrote this novel?",
+      "translation": "Вы знаете, кто написал этот роман?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_6",
+      "word": "What's Tom's side of the story?",
+      "translation": "А Том что об этом говорит?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_7",
+      "word": "This story is true.",
+      "translation": "Это правдивая история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_8",
+      "word": "Tom has written a novel.",
+      "translation": "Том написал роман.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_9",
+      "word": "I haven't yet heard that story.",
+      "translation": "Я ещё не слышал этой истории.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_10",
+      "word": "I told Tom my story.",
+      "translation": "Я рассказал Тому свою историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_11",
+      "word": "He was deeply moved by the story.",
+      "translation": "Он был глубоко тронут историей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_12",
+      "word": "Tom was the one who told me that story.",
+      "translation": "Именно Том рассказал мне это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_13",
+      "word": "That story is a pack of lies.",
+      "translation": "Это всё сплошная ложь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_14",
+      "word": "I'll tell you my story.",
+      "translation": "Я расскажу тебе свою историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_15",
+      "word": "His story is much more interesting than hers.",
+      "translation": "Его история намного интереснее, чем её.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_16",
+      "word": "Tom told us all a story.",
+      "translation": "Том рассказал нам всем историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_17",
+      "word": "That story of his sounds very unlikely.",
+      "translation": "Эта история про него звучит неправдоподобно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_18",
+      "word": "I didn't want the story to end.",
+      "translation": "Я не хотел, чтобы история заканчивалась.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_19",
+      "word": "It was a strange story.",
+      "translation": "Это была странная история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_20",
+      "word": "This isn't a believable story.",
+      "translation": "В эту историю невозможно поверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_21",
+      "word": "I think you'll enjoy this novel.",
+      "translation": "Думаю, тебе понравится этот роман.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_22",
+      "word": "I don't think that story is true.",
+      "translation": "Я не думаю, что эта история правдива.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_23",
+      "word": "That's a really interesting story.",
+      "translation": "Это очень интересная история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_24",
+      "word": "The translation of the French novel took him more than three months.",
+      "translation": "Перевод французского романа занял у него больше трёх месяцев.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_25",
+      "word": "You know the rest of the story.",
+      "translation": "Остальное вы знаете.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_26",
+      "word": "Will I be allowed to tell my story?",
+      "translation": "Мне разрешат рассказать мою историю?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_27",
+      "word": "Sign each page.",
+      "translation": "Поставь подпись на каждой странице.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_28",
+      "word": "What a great story!",
+      "translation": "Какая замечательная история!",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_29",
+      "word": "I didn't know that story at all.",
+      "translation": "Я вообще не знал этой истории.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_30",
+      "word": "The story was so complicated that I couldn't follow it.",
+      "translation": "История была такая запутанная, что я ничего не понял.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_31",
+      "word": "This story is worth reading.",
+      "translation": "Эту историю стоит прочитать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_32",
+      "word": "I also heard a similar story.",
+      "translation": "Я тоже слышал подобную историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_33",
+      "word": "This is a very entertaining story.",
+      "translation": "Это очень занимательная история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_34",
+      "word": "You're an excellent writer.",
+      "translation": "Ты замечательный писатель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_35",
+      "word": "Tom wrote a novel.",
+      "translation": "Том написал роман.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_36",
+      "word": "It was like a fairy tale.",
+      "translation": "Это было похоже на сказку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_37",
+      "word": "He told me an interesting story.",
+      "translation": "Он рассказал мне интересную историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_38",
+      "word": "I want to hear the whole story.",
+      "translation": "Я хочу услышать историю целиком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_39",
+      "word": "You're a talented writer.",
+      "translation": "Ты талантливый писатель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_40",
+      "word": "His story aroused my suspicion.",
+      "translation": "Его рассказ возбудил во мне подозрения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_41",
+      "word": "His novel sold well.",
+      "translation": "Его роман хорошо продавался.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_42",
+      "word": "Is it true or did Tom make that story up?",
+      "translation": "Это правда или Том всё это сочинил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_43",
+      "word": "The page won't load.",
+      "translation": "Страница не грузится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_44",
+      "word": "His novel was translated into Japanese.",
+      "translation": "Его роман был переведён на японский.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_45",
+      "word": "Tom doesn't know the whole story.",
+      "translation": "Том не знает всей истории.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_46",
+      "word": "Tom is quite a character.",
+      "translation": "Том - тот ещё персонаж.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_47",
+      "word": "Go to page 30.",
+      "translation": "Перейдите на страницу тридцать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_48",
+      "word": "It took him five years to write this novel.",
+      "translation": "На написание этого романа у него ушло пять лет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_4_49",
+      "word": "He made up that story.",
+      "translation": "Он выдумал эту историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_0",
+      "word": "I have heard the story.",
+      "translation": "Я слышал эту историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_1",
+      "word": "That's another story.",
+      "translation": "Это уже другая история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_2",
+      "word": "Tom was the one who wrote this story.",
+      "translation": "Этот рассказ написал Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_3",
+      "word": "We have to turn the page.",
+      "translation": "Надо перевернуть страницу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_4",
+      "word": "It's a true story.",
+      "translation": "Это подлинная история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_5",
+      "word": "Tom has started writing a novel.",
+      "translation": "Том начал писать роман.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_6",
+      "word": "It was a heartbreaking story.",
+      "translation": "Это была душераздирающая история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_7",
+      "word": "The story turned out to be true.",
+      "translation": "История оказалась правдивой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_8",
+      "word": "When will your new novel be published?",
+      "translation": "Когда твой новый роман будет опубликован?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_9",
+      "word": "How long is that story?",
+      "translation": "Насколько длинная эта история?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_10",
+      "word": "Her story is true.",
+      "translation": "Её рассказ - правда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_11",
+      "word": "This story is by far more interesting than that one.",
+      "translation": "Эта история намного интереснее, чем та.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_12",
+      "word": "When will her new novel be published?",
+      "translation": "Когда будет опубликован её новый роман?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_13",
+      "word": "He makes a living as a writer.",
+      "translation": "Он зарабатывает на жизнь писательством.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_14",
+      "word": "I was reading a novel then.",
+      "translation": "Я тогда читал роман.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_15",
+      "word": "Tom ripped the page out.",
+      "translation": "Том вырвал страницу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_16",
+      "word": "Dickens was a very prolific writer.",
+      "translation": "Диккенс был очень плодовитым писателем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_17",
+      "word": "Your story reminded me of my younger days.",
+      "translation": "Ваша история напомнила мне мою молодость.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_18",
+      "word": "The story seems true.",
+      "translation": "История похожа на правду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_19",
+      "word": "Scroll down to the bottom of the page.",
+      "translation": "Прокрутите страницу вниз.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_20",
+      "word": "Tom told us his story.",
+      "translation": "Том рассказал нам свою историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_21",
+      "word": "There's more to that story.",
+      "translation": "Это ещё не всё.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_22",
+      "word": "This novel bores me.",
+      "translation": "Этот рассказ мне скучен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_23",
+      "word": "Tom told us a very interesting story.",
+      "translation": "Том рассказал нам очень интересную историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_24",
+      "word": "Does Tom know this story?",
+      "translation": "Том знает эту историю?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_25",
+      "word": "Tom told me a strange story.",
+      "translation": "Том рассказал мне странную историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_26",
+      "word": "Did you guess the end of the story?",
+      "translation": "Вы догадались, чем заканчивается эта история?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_27",
+      "word": "The story was in all the papers.",
+      "translation": "Эта история попала во все газеты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_28",
+      "word": "The papers didn't print this story.",
+      "translation": "Газеты не опубликовали эту историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_29",
+      "word": "Let's begin on page 30.",
+      "translation": "Давайте начнём со страницы 30.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_30",
+      "word": "Tom told us a beautiful story.",
+      "translation": "Том рассказал нам красивую историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_31",
+      "word": "When was this novel published?",
+      "translation": "Когда был опубликован этот роман?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_32",
+      "word": "He can't tell fact from fiction.",
+      "translation": "Он не может отличить факт от вымысла.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_33",
+      "word": "Now the story is over.",
+      "translation": "А теперь рассказ окончен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_34",
+      "word": "I'll tell you my life's story if you tell me yours.",
+      "translation": "Я расскажу тебе историю своей жизни, если ты расскажешь мне свою.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_35",
+      "word": "What's your favorite fairy tale?",
+      "translation": "Какая у тебя любимая сказка?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_36",
+      "word": "I'm going to deal with the problem in this chapter.",
+      "translation": "С этой проблемой я собираюсь иметь дело в этой главе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_37",
+      "word": "Frankly speaking, his new novel is not very interesting.",
+      "translation": "Откровенно говоря, его новый роман не очень интересен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_38",
+      "word": "It's a plausible story.",
+      "translation": "Это правдоподобная история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_39",
+      "word": "Tom is a fool if he believes that story.",
+      "translation": "Том дурак, если верит этим россказням.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_40",
+      "word": "Everything she does shows that she has character.",
+      "translation": "Она проявляет характер во всём, что делает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_41",
+      "word": "It's a long story.",
+      "translation": "Это долгая история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_42",
+      "word": "Tom is a character.",
+      "translation": "Том — персонаж.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_43",
+      "word": "There seems to be a sentence or paragraph missing on page three.",
+      "translation": "На третьей странице, кажется, пропущено предложение или абзац.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_44",
+      "word": "Who told the story to you?",
+      "translation": "Кто рассказал тебе эту историю?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_45",
+      "word": "Have you heard this story before?",
+      "translation": "Ты уже слышал эту историю?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_46",
+      "word": "I reloaded the webpage.",
+      "translation": "Я перезагрузил страницу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_47",
+      "word": "The story sounds true.",
+      "translation": "История похожа на правду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_48",
+      "word": "The story cannot be true.",
+      "translation": "Эта история не может быть правдой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_5_49",
+      "word": "I get an error when I refresh the page.",
+      "translation": "Когда я обновляю страницу, у меня выходит ошибка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_0",
+      "word": "Tom looked distant and distracted while Mary told him her life story.",
+      "translation": "Том выглядел отрешённым и рассеянным, пока Мэри излагала ему свою историю жизни.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_1",
+      "word": "Tom is an amazing songwriter.",
+      "translation": "Том потрясающий песенник.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_2",
+      "word": "This story is worth reading again.",
+      "translation": "Этот рассказ стоит перечитать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_3",
+      "word": "Tom makes a living as a writer.",
+      "translation": "Том зарабатывает себе на жизнь писательством.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_4",
+      "word": "Here, reality and fiction are intertwined.",
+      "translation": "Здесь реальность переплетается с вымыслом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_5",
+      "word": "Tom is a songwriter.",
+      "translation": "Том композитор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_6",
+      "word": "I was very moved by his story.",
+      "translation": "Я был глубоко тронут его историей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_7",
+      "word": "Have you finished reading the novel?",
+      "translation": "Ты дочитал роман?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_8",
+      "word": "Don't touch my typewriter.",
+      "translation": "Не трогай мою печатную машинку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_9",
+      "word": "She's a woman of strong character.",
+      "translation": "У этой женщины сильный характер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_10",
+      "word": "Tom told me the story of his life.",
+      "translation": "Том рассказал мне историю своей жизни.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_11",
+      "word": "He is a very imaginative writer.",
+      "translation": "Он - писатель с богатым воображением.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_12",
+      "word": "Tom told Mary a story.",
+      "translation": "Том рассказал Мэри историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_13",
+      "word": "The story is based on his own experience.",
+      "translation": "История основана на его собственном опыте.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_14",
+      "word": "It's a vague story.",
+      "translation": "Это мутная история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_15",
+      "word": "He wasn't recognized as a great writer until after his death.",
+      "translation": "До его смерти его не чтили великим писателем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_16",
+      "word": "What's the theme of the novel?",
+      "translation": "Каков сюжет этого романа?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_17",
+      "word": "Tom is working on a new novel.",
+      "translation": "Том работает над новым романом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_18",
+      "word": "He tried writing a short story.",
+      "translation": "Он попытался написать короткий рассказ.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_19",
+      "word": "She earns a living as a writer.",
+      "translation": "Она зарабатывает на жизнь тем, что пишет книги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_20",
+      "word": "I doubt his story.",
+      "translation": "Я сомневаюсь в его истории.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_21",
+      "word": "You can't make a living being a writer.",
+      "translation": "Писательским трудом на жизнь не заработаешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_22",
+      "word": "Tom is a speechwriter.",
+      "translation": "Том — спичрайтер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_23",
+      "word": "It is no exaggeration to say that he is a first-rate writer.",
+      "translation": "Не будет преувеличением сказать, что он первоклассный писатель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_24",
+      "word": "He's not such a great writer and I think he knows it.",
+      "translation": "Он не такой уж и великий писатель, и я думаю, что он это знает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_25",
+      "word": "I'm not the one who wrote this story.",
+      "translation": "Этот рассказ написал не я.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_26",
+      "word": "What a heartbreaking story!",
+      "translation": "Какая душераздирающая история!",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_27",
+      "word": "His story is well worth listening to.",
+      "translation": "Его рассказ действительно сто́ит послушать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_28",
+      "word": "Tom doesn't have a webpage.",
+      "translation": "У Тома нет веб-сайта.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_29",
+      "word": "I'm reading a novel.",
+      "translation": "Я читаю роман.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_30",
+      "word": "I'm reading a novel by Sidney Sheldon.",
+      "translation": "Я читаю роман Сидни Шелдона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_31",
+      "word": "This page was intentionally left blank.",
+      "translation": "Эта страница намеренно оставлена пустой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_32",
+      "word": "That isn't the end of the story.",
+      "translation": "Это еще не конец истории.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_33",
+      "word": "I know this story.",
+      "translation": "Я знаю эту историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_34",
+      "word": "Tom told Mary a very strange story.",
+      "translation": "Том рассказал Мэри очень странную историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_35",
+      "word": "Tell me the story.",
+      "translation": "Расскажи мне историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_36",
+      "word": "What is the story?",
+      "translation": "Что за история?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_37",
+      "word": "That's a truly interesting story.",
+      "translation": "Это действительно интересная история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_38",
+      "word": "Tom isn't the one who wrote this story.",
+      "translation": "Эту историю написал не Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_39",
+      "word": "The success of her novel made her rich.",
+      "translation": "Успех её романа сделал её богатой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_40",
+      "word": "That's not a very funny story.",
+      "translation": "Это не очень смешная история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_41",
+      "word": "It's just a novel.",
+      "translation": "Это просто роман.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_42",
+      "word": "He has a passive character.",
+      "translation": "Он слабохарактерный.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_43",
+      "word": "This is where the story ends.",
+      "translation": "На этом история обрывается.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_44",
+      "word": "We'll deal with this problem in Chapter 3.",
+      "translation": "Мы рассмотрим эту проблему в третьей главе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_45",
+      "word": "Have you ever heard the story of the boy who cried wolf?",
+      "translation": "Ты когда-нибудь слышал историю о мальчике, который кричал \"Волки, волки!\"?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_46",
+      "word": "His story amused everyone.",
+      "translation": "Его история всех развеселила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_47",
+      "word": "We were deeply moved by her story.",
+      "translation": "Её история нас глубоко тронула.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_48",
+      "word": "I've just heard an interesting story about Tom.",
+      "translation": "Я только что слышал интересную историю про Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_6_49",
+      "word": "As far as I know, the novel is not translated into Japanese.",
+      "translation": "Насколько я знаю, роман не переведён на японский.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_0",
+      "word": "He doubted the truth of her story.",
+      "translation": "Он сомневался в правдивости её истории.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_1",
+      "word": "I really liked your story.",
+      "translation": "Мне очень понравилась твоя история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_2",
+      "word": "What a strange story!",
+      "translation": "До чего странная история!",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_3",
+      "word": "It's a very long story.",
+      "translation": "Это очень долгая история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_4",
+      "word": "It's too long a story to tell you right now.",
+      "translation": "Сейчас слишком долго рассказывать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_5",
+      "word": "Do you want me to tell you a story?",
+      "translation": "Хочешь, я расскажу тебе историю?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_6",
+      "word": "Turn the page.",
+      "translation": "Переверни страницу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_7",
+      "word": "Tell us your story.",
+      "translation": "Расскажи нам свою историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_8",
+      "word": "That's a really nice story.",
+      "translation": "Это действительно хорошая история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_9",
+      "word": "He told us a very exciting adventure story.",
+      "translation": "Он рассказал нам очень захватывающую приключенческую историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_10",
+      "word": "Tom continued his story.",
+      "translation": "Том продолжил свой рассказ.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_11",
+      "word": "Tom wanted to turn the page.",
+      "translation": "Том хотел перевернуть страницу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_12",
+      "word": "That's the story.",
+      "translation": "Вот такая история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_13",
+      "word": "Tom is a singer-songwriter.",
+      "translation": "Том - автор и исполнитель собственных песен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_14",
+      "word": "Tom told me the whole story.",
+      "translation": "Том рассказал мне всю историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_15",
+      "word": "Have you ever heard such a story?",
+      "translation": "Ты когда-нибудь слышал такую историю?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_16",
+      "word": "Tom purposely left the last page blank.",
+      "translation": "Том намеренно оставил последнюю страницу пустой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_17",
+      "word": "Tell me the entire story.",
+      "translation": "Расскажи мне историю целиком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_18",
+      "word": "What page is Tom on?",
+      "translation": "На какой Том странице?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_19",
+      "word": "It took Tom three years to write this novel.",
+      "translation": "У Тома ушло три года на написание этого романа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_20",
+      "word": "Did you write this fairy tale by yourself?",
+      "translation": "Ты эту сказку сам написал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_21",
+      "word": "Tom is a writer.",
+      "translation": "Том — писатель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_22",
+      "word": "I listened to her story.",
+      "translation": "Я выслушал её рассказ.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_23",
+      "word": "Did you know Tom was writing a novel?",
+      "translation": "Ты знал, что Том пишет роман?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_24",
+      "word": "She knew better than to tell him such a story.",
+      "translation": "Она была не настолько глупа, чтобы рассказывать ему подобную историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_25",
+      "word": "Tom is a ghostwriter.",
+      "translation": "Том — литературный негр.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_26",
+      "word": "What's your favorite novel?",
+      "translation": "Какой твой любимый роман?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_27",
+      "word": "I always wanted to be a writer.",
+      "translation": "Я всегда хотел быть писателем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_28",
+      "word": "Tom made up the whole story from start to finish.",
+      "translation": "Том выдумал всю историю от начала и до конца.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_29",
+      "word": "It was Tom that told me this story.",
+      "translation": "Эту историю мне рассказал Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_30",
+      "word": "You've told me this story before.",
+      "translation": "Вы мне эту историю уже рассказывали.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_31",
+      "word": "Judging from what you say, he must be a great writer.",
+      "translation": "Судя по тому, что ты говоришь, он великолепный писатель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_32",
+      "word": "You didn't tell the story very well.",
+      "translation": "Вы не очень хорошо рассказали историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_33",
+      "word": "His story sounds strange.",
+      "translation": "Его рассказ звучит странно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_34",
+      "word": "Tom turned the page.",
+      "translation": "Том перевернул страницу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_35",
+      "word": "I don't think Tom's story is true.",
+      "translation": "Не думаю, что рассказ Тома - правда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_36",
+      "word": "What a funny story!",
+      "translation": "Какая забавная история!",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_37",
+      "word": "The old man told me a strange story.",
+      "translation": "Старик рассказал мне странную историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_38",
+      "word": "The heroine of this story is a little girl.",
+      "translation": "Героиня этого рассказа — маленькая девочка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_39",
+      "word": "Keep your hands off my typewriter.",
+      "translation": "Убери свои руки от моей печатной машинки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_40",
+      "word": "The writer is well known to us.",
+      "translation": "Писатель хорошо нам знаком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_41",
+      "word": "I think his novel is boring.",
+      "translation": "Мне кажется, что его роман скучный.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_42",
+      "word": "For further information, see page 16.",
+      "translation": "Для дополнительной информации смотри страницу 16.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_43",
+      "word": "That isn't a bad story.",
+      "translation": "Это неплохая история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_44",
+      "word": "The beginning of the story was interesting.",
+      "translation": "Начало истории было интересным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_45",
+      "word": "I wanted to be a writer.",
+      "translation": "Я хотел быть писателем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_46",
+      "word": "Have you sent your novel to a publisher?",
+      "translation": "Ты уже послал свой роман в издательство?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_47",
+      "word": "This story can't be true.",
+      "translation": "Эта история не может быть правдой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_48",
+      "word": "Tom paused for a moment before continuing with the story.",
+      "translation": "Том остановился на минуту, перед тем как продолжить рассказ.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_7_49",
+      "word": "Everybody was interested in the story.",
+      "translation": "Все были заинтересованы этой историей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_0",
+      "word": "He's a scriptwriter.",
+      "translation": "Он сценарист.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_1",
+      "word": "That isn't the complete story.",
+      "translation": "Это не вся история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_2",
+      "word": "He wrote a novel based on ancient myths.",
+      "translation": "Он написал рассказ, основанный на древних мифах.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_3",
+      "word": "His new novel is worth reading.",
+      "translation": "Его новый роман стоит прочитать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_4",
+      "word": "She told me an interesting story.",
+      "translation": "Она рассказала мне интересную историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_5",
+      "word": "I've heard this story scores of times.",
+      "translation": "Я эту историю сто раз слышал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_6",
+      "word": "What's the moral of this story?",
+      "translation": "В чём мораль этой истории?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_7",
+      "word": "He told me a long story.",
+      "translation": "Он рассказал мне длинную историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_8",
+      "word": "It isn't the end of the story yet.",
+      "translation": "Это ещё не конец истории.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_9",
+      "word": "Few people have a typewriter.",
+      "translation": "Мало у кого есть печатная машинка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_10",
+      "word": "Tom has started to write a novel.",
+      "translation": "Том начал писать роман.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_11",
+      "word": "You have to distinguish fact from fiction.",
+      "translation": "Ты должен отличать действительность от вымысла.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_12",
+      "word": "Tom told me a story.",
+      "translation": "Том рассказал мне историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_13",
+      "word": "Tell us a story.",
+      "translation": "Расскажи нам историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_14",
+      "word": "Tom tried writing a novel.",
+      "translation": "Том пытался написать роман.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_15",
+      "word": "Tom recommended the novel to them.",
+      "translation": "Том порекомендовал им роман.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_16",
+      "word": "I've been busy writing a short story.",
+      "translation": "Я был занят написанием рассказа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_17",
+      "word": "He's a ghostwriter.",
+      "translation": "Он литературный негр.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_18",
+      "word": "I hadn't heard that story before.",
+      "translation": "Я раньше эту историю не слышал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_19",
+      "word": "This is a novel written by Hemingway.",
+      "translation": "Это роман, написанный Хемингуэем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_20",
+      "word": "I bought Tom's new novel.",
+      "translation": "Я купил новый роман Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_21",
+      "word": "Describe the main character.",
+      "translation": "Опишите главного героя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_22",
+      "word": "He's a world-famous writer.",
+      "translation": "Он всемирно знаменитый писатель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_23",
+      "word": "He is going to tell me his story.",
+      "translation": "Он собирается рассказать мне свою историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_24",
+      "word": "That story can't be true.",
+      "translation": "Эта история не может быть правдой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_25",
+      "word": "Her story turned out to be true.",
+      "translation": "Её история оказалась правдой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_26",
+      "word": "Tell me a story.",
+      "translation": "Расскажи мне историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_27",
+      "word": "Wait for the page to load.",
+      "translation": "Подождите, пока страница не загрузится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_28",
+      "word": "Tom published his first novel three years ago.",
+      "translation": "Том опубликовал свой первый роман три года назад.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_29",
+      "word": "The novel ends with the heroine's death.",
+      "translation": "Роман заканчивается смертью героини.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_30",
+      "word": "His story was made up.",
+      "translation": "Его история была выдумкой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_31",
+      "word": "Have you already sent your novel to the publisher?",
+      "translation": "Вы уже послали свой роман в издательство?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_32",
+      "word": "I'm reading a fascinating detective story.",
+      "translation": "Я читаю увлекательный детективный рассказ.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_33",
+      "word": "I didn't like the story Tom told us.",
+      "translation": "Мне не понравилась история, которую нам рассказал Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_34",
+      "word": "I'm on page three.",
+      "translation": "Я на третьей странице.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_35",
+      "word": "Tom listened to Mary's story.",
+      "translation": "Том выслушал историю Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_36",
+      "word": "I've decided to write a novel.",
+      "translation": "Я решил написать роман.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_37",
+      "word": "Their story sounds believable.",
+      "translation": "Их история звучит правдоподобно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_38",
+      "word": "Tom is working on another novel.",
+      "translation": "Том работает над другим романом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_39",
+      "word": "I think you'll like this novel.",
+      "translation": "Думаю, тебе понравится этот роман.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_40",
+      "word": "Let me tell you my side of the story.",
+      "translation": "Позволь мне изложить мою версию этой истории.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_41",
+      "word": "Was his story true?",
+      "translation": "Его рассказ был правдой?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_42",
+      "word": "I know that this story is true.",
+      "translation": "Я знаю, что эта история - правда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_43",
+      "word": "Frankly speaking, this novel isn't very interesting.",
+      "translation": "Честно говоря, этот роман не очень интересный.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_44",
+      "word": "He told me the story of his life.",
+      "translation": "Он рассказал мне историю своей жизни.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_45",
+      "word": "Her novel has been translated into Japanese.",
+      "translation": "Её роман был переведён на японский.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_46",
+      "word": "Tom told Mary a funny story.",
+      "translation": "Том рассказал Мэри анекдот.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_47",
+      "word": "Tom told me a funny story.",
+      "translation": "Том рассказал мне забавную историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_48",
+      "word": "I doubt the truth of his story.",
+      "translation": "Я сомневаюсь в правдивости его истории.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_8_49",
+      "word": "What a tragic story!",
+      "translation": "Какая трагичная история!",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_0",
+      "word": "I consider him a great writer.",
+      "translation": "Я считаю его великим писателем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_1",
+      "word": "Let me tell you a funny story.",
+      "translation": "Позвольте мне рассказать вам забавную историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_2",
+      "word": "I'll soon finish reading this novel.",
+      "translation": "Я скоро дочитаю этот роман.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_3",
+      "word": "This is a very interesting story.",
+      "translation": "Это очень интересная история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_4",
+      "word": "Tom intentionally left the last page blank.",
+      "translation": "Том намеренно оставил последнюю страницу пустой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_5",
+      "word": "That's a good story.",
+      "translation": "Хорошая история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_6",
+      "word": "I'm writing a novel.",
+      "translation": "Я пишу роман.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_7",
+      "word": "Tom is reading a novel now.",
+      "translation": "Том сейчас читает роман.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_8",
+      "word": "This is an interesting story.",
+      "translation": "Это интересная история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_9",
+      "word": "Tom is a successful writer.",
+      "translation": "Том - успешный писатель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_10",
+      "word": "Tom is a very talented writer.",
+      "translation": "Том очень талантливый писатель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_11",
+      "word": "Tom encouraged Mary to write a novel.",
+      "translation": "Том вдохновил Мэри на написание романа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_12",
+      "word": "In addition to being a doctor, Dr. Jackson is a writer.",
+      "translation": "Доктор Джексон не только врач, но и писатель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_13",
+      "word": "This is the end of my story.",
+      "translation": "Это конец моего рассказа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_14",
+      "word": "Everyone believes his story since there is no evidence to the contrary.",
+      "translation": "Все верят в его историю, ведь обратному нет никаких доказательств.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_15",
+      "word": "I'm writing another story.",
+      "translation": "Я пишу еще один рассказ.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_16",
+      "word": "The newspapers didn't publish anything.",
+      "translation": "В газетах ничего не опубликовали.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_17",
+      "word": "The novel was published after his death.",
+      "translation": "Роман был опубликован после его смерти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_18",
+      "word": "I'd like to hear a story.",
+      "translation": "Я хотел бы услышать историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_19",
+      "word": "His story was interesting.",
+      "translation": "Его история была интересна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_20",
+      "word": "You don't have to tell your life story.",
+      "translation": "Необязательно рассказывать всю свою жизнь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_21",
+      "word": "The story of a great flood is very common in world mythology.",
+      "translation": "История о великом потопе очень распространена в мировой мифологии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_22",
+      "word": "The story continues.",
+      "translation": "История продолжается.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_23",
+      "word": "It was an exciting story and he told it well.",
+      "translation": "Это была увлекательная история, и он хорошо ее рассказал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_24",
+      "word": "He let me use his typewriter.",
+      "translation": "Он позволил мне использовать его пишущую машинку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_25",
+      "word": "When will his new novel be published?",
+      "translation": "Когда будет опубликован его новый роман?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_26",
+      "word": "Tell me that story again.",
+      "translation": "Расскажи мне ещё раз эту историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_27",
+      "word": "Did you like that story?",
+      "translation": "Тебе понравилась эта история?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_28",
+      "word": "We translated the novel from Japanese into English.",
+      "translation": "Мы перевели роман с японского на английский.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_29",
+      "word": "I clicked the first link on the page.",
+      "translation": "Я кликнул на первую ссылку на странице.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_30",
+      "word": "She was moved to tears by the story.",
+      "translation": "Эта история взволновала её до слёз.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_31",
+      "word": "That isn't a very funny story.",
+      "translation": "Это не очень смешная история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_32",
+      "word": "That's a long story.",
+      "translation": "Это долгая история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_33",
+      "word": "Tom told me his life's story.",
+      "translation": "Том рассказал мне историю своей жизни.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_34",
+      "word": "The beginning of the story is interesting.",
+      "translation": "Начало истории интересное.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_35",
+      "word": "The heroine of the novel committed suicide.",
+      "translation": "Героиня романа покончила жизнь самоубийством.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_36",
+      "word": "Writing a novel sometimes takes several years.",
+      "translation": "Написание романа занимает подчас несколько лет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_37",
+      "word": "Tom told Mary the whole story.",
+      "translation": "Том рассказал Мэри все подробности.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_38",
+      "word": "Have you heard this story already?",
+      "translation": "Ты уже слышал эту историю?",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_39",
+      "word": "It was a true story.",
+      "translation": "Это была правдивая история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_40",
+      "word": "That's a novel idea.",
+      "translation": "Это оригинальная идея.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_41",
+      "word": "That's an interesting story.",
+      "translation": "Это интересная история.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_42",
+      "word": "Her story can't be true.",
+      "translation": "Её рассказ не может быть правдой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_43",
+      "word": "Perhaps he knows this story.",
+      "translation": "Возможно, он знает эту историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_44",
+      "word": "I think I'm a pretty good writer.",
+      "translation": "Думаю, я неплохой писатель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_45",
+      "word": "She accidentally tore the page.",
+      "translation": "Она случайно порвала страницу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_46",
+      "word": "The story reminds me of an experience I had long ago.",
+      "translation": "История напомнила мне о том, что я испытал давным-давно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_47",
+      "word": "The story of his brave struggle affected us deeply.",
+      "translation": "История его мужественной борьбы сильно нас впечатлила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_48",
+      "word": "I've heard that story already.",
+      "translation": "Я уже слышал эту историю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_literaturebooks_9_49",
+      "word": "I think most of them took part in the plot.",
+      "translation": "Я думаю, почти все они присоединились к заговору.",
+      "language": "en"
+    }
+  ]
+}

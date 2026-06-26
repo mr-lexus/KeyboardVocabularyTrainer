@@ -1,0 +1,3007 @@
+{
+  "id": "phrasebook-religionbeliefs",
+  "name": "Religion & Beliefs",
+  "description": "Phrasebook for Religion & Beliefs",
+  "entries": [
+    {
+      "id": "pb_religionbeliefs_0_0",
+      "word": "I don't believe any of it.",
+      "translation": "Я ничему этому не верю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_1",
+      "word": "I don't know what to believe.",
+      "translation": "Я не знаю, чему верить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_2",
+      "word": "What makes you believe Tom did that on purpose?",
+      "translation": "С чего ты взял, что Том сделал это нарочно?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_3",
+      "word": "They want to talk about religion.",
+      "translation": "Они хотят поговорить о религии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_4",
+      "word": "I can't believe everything Tom says.",
+      "translation": "Я не могу поверить всему, что говорит Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_5",
+      "word": "I'm sure you won't believe this.",
+      "translation": "Я уверен, что ты в это не поверишь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_6",
+      "word": "I believe this is the best choice.",
+      "translation": "По-моему, это лучший выбор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_7",
+      "word": "Do you really believe that'll happen?",
+      "translation": "Ты действительно считаешь, что это случится?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_8",
+      "word": "I believe that that won't happen.",
+      "translation": "Я считаю, что этого не случится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_9",
+      "word": "God created man in his own image.",
+      "translation": "И сотворил Бог человека по образу Своему.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_10",
+      "word": "I don't believe that's going to happen.",
+      "translation": "Не думаю, что это случится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_11",
+      "word": "It doesn't matter what I believe.",
+      "translation": "Не имеет значения, что я думаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_12",
+      "word": "We put too much faith in our intuition.",
+      "translation": "Мы слишком полагаемся на нашу интуицию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_13",
+      "word": "Tom and Mary go to church together.",
+      "translation": "Том и Мэри вместе ходят в церковь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_14",
+      "word": "I believe that there's a mistake.",
+      "translation": "Мне кажется, тут какая-то ошибка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_15",
+      "word": "I can't believe I didn't think of it.",
+      "translation": "Мне не верится, что я об этом не подумал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_16",
+      "word": "Not a single soul knows about it.",
+      "translation": "Ни одна душа об этом не знает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_17",
+      "word": "Do you believe that animals have souls?",
+      "translation": "Вы думаете, у животных есть душа?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_18",
+      "word": "I didn't for a moment believe them.",
+      "translation": "Я ни на секунду им не поверил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_19",
+      "word": "I can't believe Tom remembers me.",
+      "translation": "Поверить не могу, что Том меня помнит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_20",
+      "word": "You have to believe in your dream.",
+      "translation": "Надо верить в свою мечту.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_21",
+      "word": "I still can't believe you invited Tom.",
+      "translation": "Я все еще не могу поверить, что вы пригласили Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_22",
+      "word": "I can't even believe I'm doing this.",
+      "translation": "Не могу даже поверить, что я делаю это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_23",
+      "word": "Tom doesn't want to become a priest.",
+      "translation": "Том не хочет становиться священником.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_24",
+      "word": "I can't believe that really happened.",
+      "translation": "Не могу поверить, что это в самом деле произошло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_25",
+      "word": "I can't believe you're getting married.",
+      "translation": "Поверить не могу, что ты женишься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_26",
+      "word": "Tom has been going to church again.",
+      "translation": "Том опять начал ходить в церковь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_27",
+      "word": "I know that Tom won't believe me.",
+      "translation": "Я знаю, что Том мне не поверит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_28",
+      "word": "Do you think Tom will believe you?",
+      "translation": "Думаешь, Том тебе поверит?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_29",
+      "word": "Do you believe in extraterrestrials?",
+      "translation": "Ты веришь в инопланетян?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_30",
+      "word": "The priest has come.",
+      "translation": "Священник пришёл.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_31",
+      "word": "I believe that we can do it.",
+      "translation": "Я верю, что мы можем это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_32",
+      "word": "I used to go to church on Sundays.",
+      "translation": "Раньше я ходил в церковь по воскресеньям.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_33",
+      "word": "I was stupid enough to believe it.",
+      "translation": "Я был настолько глуп, что поверил в это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_34",
+      "word": "He does not believe in evolution.",
+      "translation": "Он не верит в эволюцию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_35",
+      "word": "I don't believe it!",
+      "translation": "Я в это не верю!",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_36",
+      "word": "I couldn't believe that was happening.",
+      "translation": "Я не мог поверить, что это происходит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_37",
+      "word": "Thank God everyone was OK.",
+      "translation": "Слава богу, все были в порядке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_38",
+      "word": "The church bell used to ring at three.",
+      "translation": "Церковный колокол обычно звонил в три.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_39",
+      "word": "There is usually an organ in a church.",
+      "translation": "Обычно в церкви есть орган.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_40",
+      "word": "I still don't believe it!",
+      "translation": "Я до сих пор не могу в это поверить!",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_41",
+      "word": "He was foolish enough to believe her.",
+      "translation": "Он был настолько глуп, что поверил ей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_42",
+      "word": "God bless America.",
+      "translation": "Боже, благослови Америку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_43",
+      "word": "You're not God.",
+      "translation": "Ты не Бог.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_44",
+      "word": "Tom was a spiritual adviser.",
+      "translation": "Том был духовным наставником.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_45",
+      "word": "Why is that so hard to believe?",
+      "translation": "Почему в это так трудно поверить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_46",
+      "word": "I can't believe you're enjoying this.",
+      "translation": "Не могу поверить, что тебе это доставляет удовольствие.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_47",
+      "word": "You won't believe this!",
+      "translation": "Ты не поверишь!",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_48",
+      "word": "Tom could hardly believe his eyes.",
+      "translation": "Том едва мог поверить своим глазам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_0_49",
+      "word": "Pray for me.",
+      "translation": "Помолись за меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_0",
+      "word": "Does Tom go to church?",
+      "translation": "Том ходит в церковь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_1",
+      "word": "I can't believe you fell for it.",
+      "translation": "Не могу поверить, что ты на это купился.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_2",
+      "word": "God knows what we need.",
+      "translation": "Наши нужды Богу известны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_3",
+      "word": "Where's the temple?",
+      "translation": "Где храм?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_4",
+      "word": "I can't believe what I'm hearing.",
+      "translation": "Я не могу поверить в то, что слышу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_5",
+      "word": "He seldom, if ever, goes to church.",
+      "translation": "Он если и ходит в церковь, то редко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_6",
+      "word": "I can't believe Tom did that to Mary.",
+      "translation": "Не могу поверить, что Том сделал это с Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_7",
+      "word": "I can't believe this has happened.",
+      "translation": "Не могу поверить, что это случилось.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_8",
+      "word": "They don't believe me.",
+      "translation": "Они мне не верят.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_9",
+      "word": "Why do people kneel down to pray?",
+      "translation": "Почему люди встают на колени, чтобы помолиться?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_10",
+      "word": "I can't believe Tom betrayed me.",
+      "translation": "Поверить не могу, что Том меня предал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_11",
+      "word": "I don't believe this is true.",
+      "translation": "Я не верю в то, что это правда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_12",
+      "word": "I believe it to be my civic duty.",
+      "translation": "Я считаю это своим гражданским долгом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_13",
+      "word": "Tom is in church.",
+      "translation": "Том в церкви.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_14",
+      "word": "I need you to believe in me.",
+      "translation": "Мне нужно, чтобы ты верил в меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_15",
+      "word": "I seldom go to church.",
+      "translation": "Я редко хожу в церковь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_16",
+      "word": "I just got a few interesting books on religion.",
+      "translation": "Я как раз достал несколько интересных книг о религии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_17",
+      "word": "I can't believe Tom has really gone.",
+      "translation": "Поверить не могу, что Том действительно ушёл.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_18",
+      "word": "Some people believe in eternal life after death.",
+      "translation": "Некоторые верят в вечную жизнь после смерти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_19",
+      "word": "I go to church.",
+      "translation": "Я хожу в церковь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_20",
+      "word": "I can't believe that Tom just left without saying anything.",
+      "translation": "Поверить не могу, что Том вот так ушёл, ничего не сказав.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_21",
+      "word": "You won't believe what I found.",
+      "translation": "Не поверишь, что я обнаружил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_22",
+      "word": "Do you believe in the existence of God?",
+      "translation": "Вы верите в существование бога?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_23",
+      "word": "Do you pray?",
+      "translation": "Ты молишься?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_24",
+      "word": "I can't believe I'm telling you this.",
+      "translation": "Не могу поверить, что я говорю тебе это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_25",
+      "word": "It is stupid of you to believe in him.",
+      "translation": "Глупо с твоей стороны верить в него.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_26",
+      "word": "I don't believe we've been formally introduced.",
+      "translation": "Не думаю, что мы были формально представлены.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_27",
+      "word": "I don't believe such things exist.",
+      "translation": "Я не верю, что такие вещи существуют.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_28",
+      "word": "The priest blessed us.",
+      "translation": "Священник нас благословил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_29",
+      "word": "Do you believe in monogamy?",
+      "translation": "Вы верите в моногамию?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_30",
+      "word": "Believe me, everything he's told you is a crock.",
+      "translation": "Поверь мне, всё, что он тебе рассказал, - это бред сивой кобылы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_31",
+      "word": "I don't think they believe us.",
+      "translation": "Я не думаю, что они верят нам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_32",
+      "word": "There used to be a church here.",
+      "translation": "Раньше здесь была церковь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_33",
+      "word": "Don't tell a soul.",
+      "translation": "Никому ни слова.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_34",
+      "word": "Pray for me, Tom.",
+      "translation": "Молись за меня, Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_35",
+      "word": "I can't believe I'm saying this out loud.",
+      "translation": "Поверить не могу, что говорю это вслух.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_36",
+      "word": "Tom is at church now.",
+      "translation": "Том сейчас в церкви.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_37",
+      "word": "Will they believe Tom?",
+      "translation": "Поверят ли они Тому?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_38",
+      "word": "You won't believe what happened.",
+      "translation": "Ты не поверишь, что было!",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_39",
+      "word": "I don't believe what Tom said.",
+      "translation": "Я не верю тому, что сказал Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_40",
+      "word": "Tom didn't seem to believe Mary.",
+      "translation": "Том, похоже, не поверил Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_41",
+      "word": "I can't believe you've never heard of us.",
+      "translation": "Мне не верится, что ты никогда не слышал о нас.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_42",
+      "word": "I can't believe I'm actually doing this.",
+      "translation": "Поверить не могу, что я на самом деле это делаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_43",
+      "word": "Tom doesn't believe that it really happened.",
+      "translation": "Том не верит, что это действительно произошло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_44",
+      "word": "I sold my soul to the devil.",
+      "translation": "Я продал душу дьяволу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_45",
+      "word": "I believe her story.",
+      "translation": "Я верю ее рассказу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_46",
+      "word": "Tom didn't believe a word.",
+      "translation": "Том ни слову не поверил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_47",
+      "word": "Do you believe in eternal life after death?",
+      "translation": "Ты веришь в вечную жизнь после смерти?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_48",
+      "word": "I don't believe a thing Tom says.",
+      "translation": "Я не верю ни слову из того, что Том говорит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_1_49",
+      "word": "They can't believe it.",
+      "translation": "Они не могут в это поверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_0",
+      "word": "Tom won't believe it.",
+      "translation": "Том в это не поверит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_1",
+      "word": "I just want you to know that I don't believe you.",
+      "translation": "Я просто хочу, чтобы ты знал, что я тебе не верю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_2",
+      "word": "Don't believe what Tom said.",
+      "translation": "Не верь тому, что сказал Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_3",
+      "word": "Pray for all of us.",
+      "translation": "Помолись за нас всех.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_4",
+      "word": "He was foolish enough to believe what she said.",
+      "translation": "Он был настолько глуп, что поверил тому, что она говорила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_5",
+      "word": "The settlers embraced the Christian religion.",
+      "translation": "Поселенцы обратились в христианство.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_6",
+      "word": "Tom couldn't believe somebody wanted to kill him.",
+      "translation": "Том не мог поверить, что кто-то хочет его убить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_7",
+      "word": "I didn't believe Tom at first.",
+      "translation": "Поначалу я Тому не поверил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_8",
+      "word": "I can't believe we're finally getting married.",
+      "translation": "Даже не верится, что мы наконец поженимся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_9",
+      "word": "Tom doesn't believe Mary at all.",
+      "translation": "Том совсем не верит Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_10",
+      "word": "I don't believe Tom is a racist.",
+      "translation": "Я не верю, что Том расист.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_11",
+      "word": "I believe this is mine.",
+      "translation": "По-моему, это моё.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_12",
+      "word": "I don't believe a word Tom said.",
+      "translation": "Я не верю ни одному сказанному Томом слову.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_13",
+      "word": "I can't believe we're talking about this.",
+      "translation": "Поверить не могу, что мы об этом говорим.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_14",
+      "word": "Foreigners were forbidden to enter the temple.",
+      "translation": "Иностранцам было запрещено входить в храм.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_15",
+      "word": "I don't believe in aliens.",
+      "translation": "Я не верю в инопланетян.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_16",
+      "word": "Tom doesn't believe I won.",
+      "translation": "Том не верит, что я выиграл.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_17",
+      "word": "I believe you're wrong.",
+      "translation": "Я считаю, что ты не прав.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_18",
+      "word": "Am I supposed to believe you?",
+      "translation": "Я должен тебе верить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_19",
+      "word": "I don't believe you. You're always lying.",
+      "translation": "Я тебе не верю. Ты постоянно врёшь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_20",
+      "word": "You need to believe in something.",
+      "translation": "Вам нужно во что-нибудь верить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_21",
+      "word": "I can't believe Tom is still single.",
+      "translation": "Не верится, что Том до сих пор не женат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_22",
+      "word": "Tom didn't know whether to believe Mary or not.",
+      "translation": "Том не знал, верить Мэри или нет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_23",
+      "word": "What do you believe in?",
+      "translation": "Во что ты веришь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_24",
+      "word": "I thought I'd died and gone to heaven.",
+      "translation": "Я думал, что умер и попал на небеса.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_25",
+      "word": "I don't often go to church.",
+      "translation": "Я нечасто хожу в церковь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_26",
+      "word": "I believe I'll win.",
+      "translation": "Я верю, что выиграю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_27",
+      "word": "I can't believe you really want to leave.",
+      "translation": "Поверить не могу, что ты действительно хочешь уехать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_28",
+      "word": "I believe Tom when he says he doesn't speak French.",
+      "translation": "Я верю Тому, когда он говорит, что не знает французского.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_29",
+      "word": "What's the difference between a religion and a cult?",
+      "translation": "В чём разница между религией и культом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_30",
+      "word": "I couldn't believe it was you.",
+      "translation": "Я не мог поверить, что это ты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_31",
+      "word": "Tom doesn't know what to believe.",
+      "translation": "Том не знает, чему верить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_32",
+      "word": "I almost believe you.",
+      "translation": "Я почти верю тебе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_33",
+      "word": "I can see you don't believe me.",
+      "translation": "Я вижу, ты мне не веришь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_34",
+      "word": "Don't talk to me about religion.",
+      "translation": "Не говорите со мной о религии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_35",
+      "word": "I don't believe Tom is the murderer.",
+      "translation": "Я не верю, что убийца - Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_36",
+      "word": "Do you believe me now?",
+      "translation": "Теперь ты мне веришь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_37",
+      "word": "I don't know whether to believe you or not.",
+      "translation": "Не знаю, верить тебе или нет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_38",
+      "word": "I want to believe.",
+      "translation": "Я хочу верить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_39",
+      "word": "Don't you believe Tom?",
+      "translation": "Ты не веришь Тому?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_40",
+      "word": "I don't know what to believe anymore.",
+      "translation": "Я уже не знаю, во что верить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_41",
+      "word": "Believe what you wish.",
+      "translation": "Верь во что пожелаешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_42",
+      "word": "I believe in it.",
+      "translation": "Я в это верю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_43",
+      "word": "Just believe me.",
+      "translation": "Просто верь мне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_44",
+      "word": "No one will believe Tom.",
+      "translation": "Тому никто не поверит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_45",
+      "word": "We all got down on our knees and started to pray.",
+      "translation": "Мы все опустились на колени и стали молиться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_46",
+      "word": "They must be crazy to believe such nonsense.",
+      "translation": "Они, должно быть, спятили, раз верят в такую чушь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_47",
+      "word": "I want you to know that I believe you.",
+      "translation": "Я хочу, чтобы ты знал, что я верю тебе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_48",
+      "word": "I'm inclined to believe Tom.",
+      "translation": "Я склонен верить Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_2_49",
+      "word": "I don't believe him any longer.",
+      "translation": "Я больше ему не верю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_0",
+      "word": "Do you believe him?",
+      "translation": "Ты ему веришь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_1",
+      "word": "I can't believe that Tom did this.",
+      "translation": "Не верится, что Том это сделал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_2",
+      "word": "And God said, \"Let there be light.\" And there was light.",
+      "translation": "И сказал Бог: «Да будет свет». И стал свет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_3",
+      "word": "This church is very big.",
+      "translation": "Эта церковь очень большая.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_4",
+      "word": "Tom doesn't believe I'll win.",
+      "translation": "Том не верит, что я выиграю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_5",
+      "word": "Faith moves mountains.",
+      "translation": "Вера двигает горы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_6",
+      "word": "The church is very big.",
+      "translation": "Церковь очень большая.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_7",
+      "word": "I just can't believe that that really happened.",
+      "translation": "Просто не верится, что это действительно произошло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_8",
+      "word": "I can't believe it's true.",
+      "translation": "Поверить не могу, что это правда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_9",
+      "word": "Tom didn't know who he should believe.",
+      "translation": "Том не знал, кому верить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_10",
+      "word": "It is hard for me to believe this.",
+      "translation": "Мне трудно в это поверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_11",
+      "word": "I couldn't believe what I was seeing.",
+      "translation": "Я не мог поверить своим глазам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_12",
+      "word": "Tom won't believe us.",
+      "translation": "Том нам не поверит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_13",
+      "word": "I can't believe you married Tom.",
+      "translation": "Я не могу поверить, что ты вышла замуж за Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_14",
+      "word": "I believe this is true.",
+      "translation": "Я считаю, что это правда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_15",
+      "word": "Believe in yourselves.",
+      "translation": "Верьте в себя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_16",
+      "word": "I don't believe in religion.",
+      "translation": "Я не верю в религию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_17",
+      "word": "Do you believe that there's life after death?",
+      "translation": "Ты веришь, что есть жизнь после смерти?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_18",
+      "word": "I don't believe you.",
+      "translation": "Я вам не верю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_19",
+      "word": "Who's going to believe Tom?",
+      "translation": "Кто поверит Тому?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_20",
+      "word": "Tom didn't believe what Mary said.",
+      "translation": "Том не поверил тому, что сказала Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_21",
+      "word": "Tom doesn't believe that'll happen.",
+      "translation": "Том не верит, что это произойдёт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_22",
+      "word": "You're not a god.",
+      "translation": "Ты не Бог.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_23",
+      "word": "I can't believe this is actually happening.",
+      "translation": "Поверить не могу, что это вообще происходит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_24",
+      "word": "I don't believe in karma.",
+      "translation": "Я не верю в карму.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_25",
+      "word": "Cows are sacred to Hindus.",
+      "translation": "Коровы для индусов священны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_26",
+      "word": "Tom couldn't believe that someone wanted to kill him.",
+      "translation": "Том не мог поверить, что кто-то хочет его убить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_27",
+      "word": "Do you believe in guardian angels?",
+      "translation": "Ты веришь в ангелов-хранителей?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_28",
+      "word": "I believe I've seen the document you're talking about.",
+      "translation": "По-моему, я видел документ, о котором ты говоришь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_29",
+      "word": "You have to believe in yourselves.",
+      "translation": "Вы должны верить в себя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_30",
+      "word": "I don't believe we can do it.",
+      "translation": "Я не думаю, что мы можем это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_31",
+      "word": "I don't go to church.",
+      "translation": "Я не хожу в церковь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_32",
+      "word": "It is foolish of you to believe such a thing.",
+      "translation": "Глупо с твоей стороны верить в такую ерунду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_33",
+      "word": "I'm going to church.",
+      "translation": "Я иду в церковь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_34",
+      "word": "I don't believe Tom is the killer.",
+      "translation": "Я не верю, что убийца - Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_35",
+      "word": "I don't know whether I should believe Tom or not.",
+      "translation": "Не знаю, верить мне Тому или нет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_36",
+      "word": "You don't look like a priest.",
+      "translation": "Вы не похожи на священника.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_37",
+      "word": "It's a sin to tell a lie.",
+      "translation": "Лгать грешно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_38",
+      "word": "I'm a priest.",
+      "translation": "Я священник.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_39",
+      "word": "I don't believe in hypnosis.",
+      "translation": "Я не верю в гипноз.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_40",
+      "word": "She doesn't believe in an afterlife.",
+      "translation": "Она не верит в жизнь после смерти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_41",
+      "word": "Tom sang at church.",
+      "translation": "Том пел в церкви.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_42",
+      "word": "Can you believe Tom?",
+      "translation": "Ты можешь поверить Тому?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_43",
+      "word": "God bless you.",
+      "translation": "Будьте здоровы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_44",
+      "word": "They killed a goat as a sacrifice to God.",
+      "translation": "Они убили козу в знак жертвы Богу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_45",
+      "word": "I don't even believe this is really happening.",
+      "translation": "Мне даже не верится, что это и в самом деле происходит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_46",
+      "word": "You wouldn't believe it.",
+      "translation": "Ты бы этому не поверил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_47",
+      "word": "I can't believe it's that simple.",
+      "translation": "Поверить не могу, что это настолько просто.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_48",
+      "word": "I believe Tom when he says that he doesn't speak French.",
+      "translation": "Я верю Тому, когда он говорит, что не знает французского.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_3_49",
+      "word": "She doesn't believe in God.",
+      "translation": "Она не верит в бога.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_0",
+      "word": "I don't believe what Tom told me.",
+      "translation": "Я не верю тому, что Том мне сказал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_1",
+      "word": "I can't believe you're talking to me like this.",
+      "translation": "Поверить не могу, что ты со мной так разговариваешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_2",
+      "word": "It is a typical Gothic church.",
+      "translation": "Это типичная готическая церковь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_3",
+      "word": "I can't pray now.",
+      "translation": "Я не могу сейчас молиться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_4",
+      "word": "I met her at the church.",
+      "translation": "Я встретил её в церкви.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_5",
+      "word": "I can't believe it.",
+      "translation": "Не могу в это поверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_6",
+      "word": "I've got to do what I believe is right.",
+      "translation": "Я должен делать то, что считаю правильным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_7",
+      "word": "I still can't believe we won.",
+      "translation": "До сих пор не верится, что мы выиграли.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_8",
+      "word": "I can't believe that he is that depressed.",
+      "translation": "Поверить не могу, что он так подавлен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_9",
+      "word": "Do you believe in ESP?",
+      "translation": "Вы верите в ЭСВ?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_10",
+      "word": "According to the Bible, God made the world in six days.",
+      "translation": "По Библии Бог сотворил мир за шесть дней.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_11",
+      "word": "Tom is a priest.",
+      "translation": "Том - священник.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_12",
+      "word": "You believe me, don't you?",
+      "translation": "Ты ведь мне веришь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_13",
+      "word": "I can't believe that Tom did that for me.",
+      "translation": "Не верится, что Том это для меня сделал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_14",
+      "word": "This is the priest who married them.",
+      "translation": "Это священник, который их обвенчал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_15",
+      "word": "We only believe in those who believe in themselves.",
+      "translation": "Мы верим только в тех, кто верит в себя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_16",
+      "word": "They won't believe me even if I swear it is true.",
+      "translation": "Они мне не поверят, даже если я поклянусь, что это правда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_17",
+      "word": "Tom still doesn't believe it.",
+      "translation": "Том до сих пор в это не верит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_18",
+      "word": "It's silly of you to believe him.",
+      "translation": "Глупо с твоей стороны верить ему.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_19",
+      "word": "I can hardly believe it.",
+      "translation": "Я едва могу в это поверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_20",
+      "word": "Tom believes in God.",
+      "translation": "Том верит в бога.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_21",
+      "word": "Don't believe anything that Tom says.",
+      "translation": "Не верь ничему, что говорит Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_22",
+      "word": "I can't believe Tom is really planning on doing this.",
+      "translation": "Не могу поверить, что Том действительно планирует это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_23",
+      "word": "I don't believe any of this.",
+      "translation": "Я ничему этому не верю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_24",
+      "word": "I don't believe it.",
+      "translation": "Я в это не верю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_25",
+      "word": "I don't believe anything those people say.",
+      "translation": "Я не верю ничему из того, что говорят эти люди.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_26",
+      "word": "I swear to God I didn't do anything.",
+      "translation": "Клянусь перед Богом, я ничего не делал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_27",
+      "word": "I believe you have my umbrella.",
+      "translation": "По-моему, у вас мой зонтик.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_28",
+      "word": "We all couldn't believe it.",
+      "translation": "Мы все не могли в это поверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_29",
+      "word": "Heaven knows why.",
+      "translation": "Бог знает почему.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_30",
+      "word": "I couldn't believe it.",
+      "translation": "Я не мог в это поверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_31",
+      "word": "I believe that you will succeed.",
+      "translation": "Я верю, что вы добьётесь успеха.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_32",
+      "word": "I don't believe any of you.",
+      "translation": "Я не верю ни единому из вас.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_33",
+      "word": "Can you believe it?",
+      "translation": "Вы можете в это поверить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_34",
+      "word": "Tom was killed by a hired assassin.",
+      "translation": "Том был убит наёмным убийцей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_35",
+      "word": "God knows what we'll do next.",
+      "translation": "Бог знает, как нам дальше быть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_36",
+      "word": "I can't believe I'm hearing this.",
+      "translation": "Поверить не могу, что я это слышу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_37",
+      "word": "You have to believe us.",
+      "translation": "Ты должен нам верить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_38",
+      "word": "Tom claims he's seen a UFO, but Mary doesn't believe him.",
+      "translation": "Том утверждает, что видел НЛО, но Мэри ему не верит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_39",
+      "word": "No matter what he says, I'll never believe him again.",
+      "translation": "Что бы он ни говорил, я ему больше не поверю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_40",
+      "word": "That's almost impossible to believe.",
+      "translation": "В это почти невозможно поверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_41",
+      "word": "I still don't believe it.",
+      "translation": "Я всё ещё в это не верю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_42",
+      "word": "I still can't believe you and Tom got married.",
+      "translation": "До сих пор не верится, что вы с Томом поженились.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_43",
+      "word": "I believe in my abilities.",
+      "translation": "Я верю в свои способности.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_44",
+      "word": "How old is this church?",
+      "translation": "Сколько лет этой церкви?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_45",
+      "word": "I can't believe my ears.",
+      "translation": "Я не могу поверить своим ушам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_46",
+      "word": "All we can do is pray.",
+      "translation": "Нам остаётся только молиться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_47",
+      "word": "I can't believe Tom figured that out.",
+      "translation": "Не могу поверить, что Том с этим разобрался.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_48",
+      "word": "You're never going to believe this.",
+      "translation": "Ты никогда в это не поверишь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_4_49",
+      "word": "I didn't believe them.",
+      "translation": "Я им не верил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_0",
+      "word": "I believe in magic.",
+      "translation": "Я верю в волшебство.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_1",
+      "word": "I can't believe we're all still here.",
+      "translation": "Я не могу поверить, что мы всё ещё здесь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_2",
+      "word": "You have to believe in me.",
+      "translation": "Ты должен в меня верить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_3",
+      "word": "Does Tom still believe in Santa Claus?",
+      "translation": "Том ещё верит в Деда Мороза?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_4",
+      "word": "During whose reign was that church built?",
+      "translation": "В чьё царствование была построена эта церковь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_5",
+      "word": "All the people who go to church believe in God.",
+      "translation": "Все прихожане церквей верят в бога.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_6",
+      "word": "Why did you believe Tom?",
+      "translation": "Почему ты поверил Тому?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_7",
+      "word": "Tom heard the temple bell in the distance.",
+      "translation": "Том слышал храмовый колокол вдалеке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_8",
+      "word": "I believe this is the only thing I can do for you.",
+      "translation": "Я думаю, это единственное, что я могу для тебя сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_9",
+      "word": "I thought that Tom would believe me.",
+      "translation": "Я думал, Том мне поверит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_10",
+      "word": "Do you really expect me to believe all of this?",
+      "translation": "Ты действительно ждёшь, что я во всё это поверю?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_11",
+      "word": "Do you believe there are ghosts?",
+      "translation": "Ты веришь, что есть приведения?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_12",
+      "word": "How much of what Tom said do you believe?",
+      "translation": "В какой степени ты веришь сказанному Томом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_13",
+      "word": "You guys won't believe what happened.",
+      "translation": "Вы, ребята, не поверите, что произошло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_14",
+      "word": "God loves you and has a wonderful plan for your life.",
+      "translation": "Бог любит тебя и имеет чудесный план для твоей жизни.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_15",
+      "word": "You won't believe what Tom just said to me.",
+      "translation": "Не поверишь, что Том мне только что сказал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_16",
+      "word": "She sat beside me in church.",
+      "translation": "Она села рядом со мной в церкви.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_17",
+      "word": "Where's the church?",
+      "translation": "Где находится церковь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_18",
+      "word": "Do you believe in astrology?",
+      "translation": "Ты веришь в астрологию?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_19",
+      "word": "Do you believe that good always triumphs over evil?",
+      "translation": "Ты веришь, что добро всегда побеждает зло?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_20",
+      "word": "You have to see it to believe it.",
+      "translation": "Вы должны это увидеть, чтобы поверить в это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_21",
+      "word": "God is always watching over us.",
+      "translation": "Бог всегда за нами присматривает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_22",
+      "word": "Did you pray?",
+      "translation": "Вы молились?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_23",
+      "word": "Nobody has seen God.",
+      "translation": "Никто не видел Бога.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_24",
+      "word": "He could not believe his ears.",
+      "translation": "Он ушам своим поверить не мог.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_25",
+      "word": "I'll always believe in you.",
+      "translation": "Я всегда буду в тебя верить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_26",
+      "word": "I don't quite believe what he says.",
+      "translation": "Я не совсем верю тому, что он говорит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_27",
+      "word": "Tom has faith in us.",
+      "translation": "Том в нас верит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_28",
+      "word": "Do you believe that people are inherently good?",
+      "translation": "Верите ли вы, что люди по своей природе добры?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_29",
+      "word": "Tom will never believe that I did that on purpose.",
+      "translation": "Том никогда не поверит, что я сделал это нарочно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_30",
+      "word": "No one will believe him.",
+      "translation": "Никто ему не поверит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_31",
+      "word": "Tom said he didn't believe in ghosts.",
+      "translation": "Том сказал, что не верит в привидения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_32",
+      "word": "I don't believe in life after death.",
+      "translation": "Я не верю в жизнь после смерти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_33",
+      "word": "Tom has stopped going to church.",
+      "translation": "Том перестал ходить в церковь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_34",
+      "word": "I know that it's hard to believe.",
+      "translation": "Я знаю, что в это трудно поверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_35",
+      "word": "\"Do you know Tom?\" \"I don't believe I do.\"",
+      "translation": "\"Ты знаком с Томом?\" - \"Не думаю\".",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_36",
+      "word": "Tom knows we believe him.",
+      "translation": "Том знает, что мы ему верим.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_37",
+      "word": "Tom couldn't believe it.",
+      "translation": "Том не мог в это поверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_38",
+      "word": "I don't believe Tom was really shot at.",
+      "translation": "Я не верю, что в Тома действительно стреляли.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_39",
+      "word": "Tom sings in a church choir.",
+      "translation": "Том поёт в церковном хоре.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_40",
+      "word": "I want you to go to church.",
+      "translation": "Я хочу, чтобы ты пошёл в церковь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_41",
+      "word": "The wedding will be held in a 17th century church.",
+      "translation": "Свадьба будет проходить в церкви XVII века.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_42",
+      "word": "I can't believe I'm kissing you.",
+      "translation": "Я не могу поверить, что целуюсь с тобой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_43",
+      "word": "I believe that you should leave.",
+      "translation": "Я думаю, тебе надо уйти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_44",
+      "word": "We don't believe so.",
+      "translation": "Мы так не считаем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_45",
+      "word": "I don't believe in the existence of God.",
+      "translation": "Я не верю в существование Бога.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_46",
+      "word": "Mary said that she loved me, but I didn't believe her.",
+      "translation": "Мэри сказала, что любит меня, но я ей не поверил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_47",
+      "word": "I believe that's it.",
+      "translation": "По-моему, это всё.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_48",
+      "word": "Who will you believe?",
+      "translation": "Кому ты поверишь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_5_49",
+      "word": "I believe in astrology.",
+      "translation": "Я верю в астрологию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_0",
+      "word": "I still can't believe that that happened.",
+      "translation": "Я всё ещё не могу поверить, что это случилось.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_1",
+      "word": "Do you believe in evolution?",
+      "translation": "Ты веришь в эволюцию?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_2",
+      "word": "Tom said that he couldn't believe it.",
+      "translation": "Том сказал, что не может в это поверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_3",
+      "word": "I don't care if you believe me.",
+      "translation": "Мне всё равно, верите ли вы мне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_4",
+      "word": "I believe that's all I need.",
+      "translation": "Думаю, это всё, что мне нужно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_5",
+      "word": "How old is that church?",
+      "translation": "Сколько лет этой церкви?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_6",
+      "word": "Am I supposed to believe all this?",
+      "translation": "Я должен во всё это поверить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_7",
+      "word": "I believe you owe me an apology.",
+      "translation": "Думаю, вы должны передо мной извиниться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_8",
+      "word": "Some believe that seven is a lucky number.",
+      "translation": "Некоторые считают, что семь - это счастливое число.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_9",
+      "word": "The policeman didn't believe the thief.",
+      "translation": "Полицейский не поверил вору.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_10",
+      "word": "We all believe in something.",
+      "translation": "Мы все во что-нибудь верим.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_11",
+      "word": "It's hard to believe that Tom is only thirteen years old.",
+      "translation": "Трудно поверить, что Тому всего тринадцать лет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_12",
+      "word": "I don't know whether to believe that or not.",
+      "translation": "Не знаю, верить этому или нет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_13",
+      "word": "I don't believe you didn't see Tom there.",
+      "translation": "Я не верю, что ты не видел там Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_14",
+      "word": "I know you believe me.",
+      "translation": "Я знаю, что ты мне веришь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_15",
+      "word": "I don't believe that Tom could have said such a thing.",
+      "translation": "Я не верю, что Том мог такое сказать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_16",
+      "word": "Don't tell me you actually believe this nonsense.",
+      "translation": "Только не говорите мне, что вы действительно верите в эту чушь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_17",
+      "word": "I confessed my sin.",
+      "translation": "Я сознался в своём грехе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_18",
+      "word": "Tom didn't have any reason not to believe Mary.",
+      "translation": "У Тома не было никаких оснований не верить Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_19",
+      "word": "Tom talked me into going to church with him.",
+      "translation": "Том уговорил меня пойти с ним в церковь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_20",
+      "word": "Is eating pork a sin?",
+      "translation": "Есть свинину — это грех?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_21",
+      "word": "Grandmother's ashes are in an urn at the temple.",
+      "translation": "Прах бабушки находится в урне в храме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_22",
+      "word": "You wouldn't believe me.",
+      "translation": "Ты бы мне не поверил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_23",
+      "word": "We didn't get married in a church.",
+      "translation": "Мы не венчались в церкви.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_24",
+      "word": "I don't believe one word of it.",
+      "translation": "Я не верю ни одному слову.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_25",
+      "word": "I can't believe I won.",
+      "translation": "Не могу поверить, что я победил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_26",
+      "word": "What I'm holding in my hands is a fossilized shell.",
+      "translation": "То, что я держу в руках, - это ископаемая раковина.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_27",
+      "word": "Tom couldn't believe that somebody wanted to kill him.",
+      "translation": "Том не мог поверить, что кто-то хочет его убить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_28",
+      "word": "Don't believe the rumors.",
+      "translation": "Не верь слухам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_29",
+      "word": "Tom wants to go to church.",
+      "translation": "Том хочет пойти в церковь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_30",
+      "word": "Can we believe you?",
+      "translation": "Мы можем тебе верить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_31",
+      "word": "Frankly, I find that hard to believe.",
+      "translation": "Честно говоря, мне трудно в это поверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_32",
+      "word": "I can't believe I finally did it.",
+      "translation": "Я не могу поверить, что я всё-таки сделал это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_33",
+      "word": "I don't believe you're right.",
+      "translation": "Я не думаю, что ты прав.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_34",
+      "word": "I still can't believe that we won.",
+      "translation": "Я до сих пор поверить не могу, что мы выиграли.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_35",
+      "word": "He advised me not to believe what she says.",
+      "translation": "Он посоветовал мне не верить в то, что она говорит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_36",
+      "word": "He doesn't believe in God.",
+      "translation": "Он не верит в Бога.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_37",
+      "word": "Can you believe this is really happening?",
+      "translation": "Вы можете поверить, что это действительно происходит?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_38",
+      "word": "I don't know how you can believe such nonsense.",
+      "translation": "Не знаю, как вы можете верить в такой бред.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_39",
+      "word": "I believe Tom knows.",
+      "translation": "Я думаю, Том знает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_40",
+      "word": "I believe that he comes here.",
+      "translation": "Он придет сюда, я считаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_41",
+      "word": "Many people believe that, but it's not true.",
+      "translation": "Многие в это верят, но это не так.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_42",
+      "word": "We didn't believe it.",
+      "translation": "Мы этому не поверили.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_43",
+      "word": "Believe in your dreams, no matter how impossible they seem.",
+      "translation": "Верь в свои мечты, какими бы невозможными они ни казались.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_44",
+      "word": "It was stupid of you to believe what Tom said.",
+      "translation": "С твоей стороны было глупо поверить тому, что сказал Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_45",
+      "word": "I know better than to be believe such a rumor.",
+      "translation": "Я не настолько глуп, чтобы верить подобным слухам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_46",
+      "word": "That's a church.",
+      "translation": "Это церковь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_47",
+      "word": "I can't believe it's been three years.",
+      "translation": "Не верится, что прошло уже три года.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_48",
+      "word": "I'd like to believe that's true.",
+      "translation": "Хотелось бы верить, что это так.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_6_49",
+      "word": "I can't believe I'm saying this.",
+      "translation": "Поверить не могу, что я это говорю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_0",
+      "word": "Do you believe he told the truth?",
+      "translation": "Думаешь, он сказал правду?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_1",
+      "word": "Do you believe in the existence of ghosts?",
+      "translation": "Ты веришь в существование привидений?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_2",
+      "word": "I don't believe anything Tom said.",
+      "translation": "Я не верю ничему из того, что Том сказал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_3",
+      "word": "I didn't believe it.",
+      "translation": "Я этому не поверил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_4",
+      "word": "It's hard to believe that it actually happened.",
+      "translation": "Не верится, что это действительно случилось.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_5",
+      "word": "Did you believe her?",
+      "translation": "Ты ей поверил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_6",
+      "word": "I believe that God exists.",
+      "translation": "Я думаю, что Бог существует.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_7",
+      "word": "Who can you believe?",
+      "translation": "Кому ты можешь верить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_8",
+      "word": "Tom can't believe Mary.",
+      "translation": "Том не может поверить Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_9",
+      "word": "Tom didn't go to church.",
+      "translation": "Том не пошёл в церковь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_10",
+      "word": "God knows why.",
+      "translation": "Бог знает почему.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_11",
+      "word": "It's hard to believe that's a coincidence.",
+      "translation": "Трудно поверить, что это совпадение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_12",
+      "word": "Tom wants me to believe him.",
+      "translation": "Том хочет, чтобы я ему поверил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_13",
+      "word": "I still can't believe this is all happening.",
+      "translation": "До сих пор не могу поверить, что всё это происходит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_14",
+      "word": "I don't believe that really happened.",
+      "translation": "Я не верю, что это действительно случилось.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_15",
+      "word": "I'm not sure I believe you.",
+      "translation": "Не уверен, что верю тебе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_16",
+      "word": "Tom doesn't believe that ghosts exist.",
+      "translation": "Том не верит, что привидения существуют.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_17",
+      "word": "If you don't believe me, go and see it for yourself.",
+      "translation": "Если не веришь мне, иди и сам посмотри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_18",
+      "word": "This is the temple which we used to visit.",
+      "translation": "Это храм, который мы раньше обычно посещали.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_19",
+      "word": "Nobody will believe you.",
+      "translation": "Тебе никто не поверит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_20",
+      "word": "Oh my God! What are you doing!?",
+      "translation": "Боже мой! Что вы делаете?!",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_21",
+      "word": "Muslims always pray facing toward Mecca.",
+      "translation": "Мусульмане всегда молятся лицом к Мекке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_22",
+      "word": "I can't believe that you got married.",
+      "translation": "Не могу поверить, что ты женился.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_23",
+      "word": "I couldn't believe what was happening.",
+      "translation": "Я не мог поверить в то, что происходило.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_24",
+      "word": "If you don't believe me, I'll prove it to you.",
+      "translation": "Если ты мне не веришь, я тебе докажу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_25",
+      "word": "The soul is immortal.",
+      "translation": "Душа бессмертна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_26",
+      "word": "I believe you.",
+      "translation": "Я тебе верю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_27",
+      "word": "People in every walk of life go to church.",
+      "translation": "В церковь ходят люди с любым общественным положением.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_28",
+      "word": "He was silly enough to believe her.",
+      "translation": "Он был настолько глуп, что поверил ей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_29",
+      "word": "It's a typical Gothic church.",
+      "translation": "Это типичная готическая церковь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_30",
+      "word": "Don't believe Tom.",
+      "translation": "Не верь Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_31",
+      "word": "You won't believe me.",
+      "translation": "Ты мне не поверишь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_32",
+      "word": "Why don't you just believe me?",
+      "translation": "Почему ты мне просто не поверишь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_33",
+      "word": "I was stupid enough to believe Tom.",
+      "translation": "Я был настолько глуп, что поверил Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_34",
+      "word": "I believe that I can trust you.",
+      "translation": "Я считаю, что могу тебе доверять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_35",
+      "word": "I know it's difficult to believe.",
+      "translation": "Я знаю, что в это трудно поверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_36",
+      "word": "Everyone would like to believe that dreams can come true.",
+      "translation": "Всем хочется верить, что мечты могут сбыться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_37",
+      "word": "Don't believe it.",
+      "translation": "Не верь этому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_38",
+      "word": "I can't believe I'm really here.",
+      "translation": "Мне не верится, что я действительно здесь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_39",
+      "word": "I don't believe in keeping my feelings bottled up.",
+      "translation": "Я не думаю, что сумею сдержать свои чувства.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_40",
+      "word": "It was stupid of you to believe him.",
+      "translation": "Глупо было с твоей стороны ему верить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_41",
+      "word": "Tom wants us to go to church.",
+      "translation": "Том хочет, чтобы мы пошли в церковь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_42",
+      "word": "I believe in him.",
+      "translation": "Я верю в него.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_43",
+      "word": "I should have known better than to believe him.",
+      "translation": "Мне надо было быть умнее и не верить ему.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_44",
+      "word": "Walk past the church and turn right.",
+      "translation": "Пройдите мимо церкви и поверните направо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_45",
+      "word": "Some people will believe anything.",
+      "translation": "Есть люди, которые поверят чему угодно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_46",
+      "word": "How can I get to heaven?",
+      "translation": "Как мне попасть на небеса?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_47",
+      "word": "I really want to believe you.",
+      "translation": "Я действительно хочу верить тебе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_48",
+      "word": "I find this difficult to believe.",
+      "translation": "Мне трудно в это поверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_7_49",
+      "word": "Tom believes God exists.",
+      "translation": "Том верит, что Бог есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_0",
+      "word": "According to the Bible, God created the world in six days.",
+      "translation": "Согласно Библии, Бог создал мир за шесть дней.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_1",
+      "word": "I can't believe I believed Tom.",
+      "translation": "Не верится, что я поверил Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_2",
+      "word": "God works in mysterious ways.",
+      "translation": "Пути Господни неисповедимы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_3",
+      "word": "Tom seems to believe everything Mary says.",
+      "translation": "Кажется, Том верит всему, что говорит Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_4",
+      "word": "They won't believe you.",
+      "translation": "Они тебе не поверят.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_5",
+      "word": "This church is old.",
+      "translation": "Эта церковь старая.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_6",
+      "word": "Tom doesn't believe in life after death.",
+      "translation": "Том не верит в жизнь после смерти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_7",
+      "word": "I can't believe you don't like ice cream.",
+      "translation": "Поверить не могу, что ты не любишь мороженое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_8",
+      "word": "The church bells are ringing.",
+      "translation": "Звенят церковные колокола.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_9",
+      "word": "I didn't believe you.",
+      "translation": "Я тебе не поверил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_10",
+      "word": "Thank God you found me.",
+      "translation": "Слава богу, ты меня нашёл.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_11",
+      "word": "Tom couldn't believe his luck.",
+      "translation": "Том не мог поверить своей удаче.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_12",
+      "word": "Tom sings in the church choir.",
+      "translation": "Том поёт в церковном хоре.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_13",
+      "word": "I don't know if I should believe Tom or not.",
+      "translation": "Не знаю, верить мне Тому или нет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_14",
+      "word": "I can't believe that's going to happen.",
+      "translation": "Не могу поверить, что это произойдёт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_15",
+      "word": "I just didn't believe you.",
+      "translation": "Я тебе просто не поверил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_16",
+      "word": "You won't believe what I heard.",
+      "translation": "Не поверишь, что я слышал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_17",
+      "word": "She is at church right now.",
+      "translation": "В данный момент она в церкви.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_18",
+      "word": "I believe in this method of teaching.",
+      "translation": "Я доверяю этому методу обучения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_19",
+      "word": "I still couldn't believe it.",
+      "translation": "Я всё никак не мог в это поверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_20",
+      "word": "Tom has started going to church.",
+      "translation": "Том начал ходить в церковь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_21",
+      "word": "If you don't believe me, go and see for yourself.",
+      "translation": "Если мне не веришь, пойди и сам посмотри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_22",
+      "word": "On Sunday, I go to church.",
+      "translation": "В воскресенье я иду в церковь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_23",
+      "word": "Tom said he'd go to church.",
+      "translation": "Том сказал, что пойдёт в церковь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_24",
+      "word": "In God we trust.",
+      "translation": "В Бога мы верим.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_25",
+      "word": "Tom sat beside me in church.",
+      "translation": "Том сидел рядом со мной в церкви.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_26",
+      "word": "I believe that you'll win.",
+      "translation": "Я думаю, ты выиграешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_27",
+      "word": "I didn't believe anything Tom said.",
+      "translation": "Я не поверил ничему из того, что Том сказал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_28",
+      "word": "We're there with you in spirit.",
+      "translation": "В душе мы там с тобой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_29",
+      "word": "Do you believe Tom?",
+      "translation": "Ты веришь Тому?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_30",
+      "word": "I can't believe your mom let you go.",
+      "translation": "Не могу поверить, что твоя мама тебя отпустила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_31",
+      "word": "You should believe me.",
+      "translation": "Вы должны верить мне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_32",
+      "word": "Do you believe in miracles?",
+      "translation": "Ты веришь в чудеса?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_33",
+      "word": "Tom is at church right now.",
+      "translation": "Том сейчас в церкви.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_34",
+      "word": "The church bell is ringing.",
+      "translation": "Звонит церковный колокол.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_35",
+      "word": "I believe what he says.",
+      "translation": "Я верю тому, что он говорит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_36",
+      "word": "Tom didn't know what to believe.",
+      "translation": "Том не знал, чему верить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_37",
+      "word": "I can't believe that Tom kissed me.",
+      "translation": "Я не могу поверить, что Том меня поцеловал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_38",
+      "word": "The man sold his soul to the devil.",
+      "translation": "Этот человек продал душу дьяволу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_39",
+      "word": "We believe you.",
+      "translation": "Мы тебе верим.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_40",
+      "word": "I want to believe you.",
+      "translation": "Я хочу верить тебе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_41",
+      "word": "I know you won't believe this, but I swear it's true.",
+      "translation": "Я знаю, что вы этому не поверите, но клянусь, что это правда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_42",
+      "word": "Tom was in heaven.",
+      "translation": "Том был на седьмом небе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_43",
+      "word": "Tom and I are soul mates.",
+      "translation": "Мы с Томом родственные души.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_44",
+      "word": "They didn't believe me.",
+      "translation": "Они мне не поверили.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_45",
+      "word": "I used to believe everything you said.",
+      "translation": "Я всегда верил всему, что ты говоришь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_46",
+      "word": "Tom refused to believe Mary was dead.",
+      "translation": "Том отказывался верить, что Мэри умерла.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_47",
+      "word": "It's not easy to believe.",
+      "translation": "Верить непросто.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_48",
+      "word": "Cows are considered sacred by Hindus.",
+      "translation": "Индуисты считают коров священными.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_8_49",
+      "word": "I can't believe I finally managed to do it.",
+      "translation": "Поверить не могу, что мне наконец удалось это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_0",
+      "word": "It's silly of you to believe Tom.",
+      "translation": "Глупо с твоей стороны верить Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_1",
+      "word": "I can't believe you said yes.",
+      "translation": "Поверить не могу, что ты сказала да.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_2",
+      "word": "Where's the nearest church?",
+      "translation": "Где находится ближайшая церковь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_3",
+      "word": "Somehow I believe you.",
+      "translation": "Я тебе почему-то верю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_4",
+      "word": "I can't believe I listened to you.",
+      "translation": "Не могу поверить, что я слушал тебя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_5",
+      "word": "Do you believe in soulmates?",
+      "translation": "Ты веришь в родственные души?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_6",
+      "word": "I didn't believe it either.",
+      "translation": "Я тоже в это не верил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_7",
+      "word": "I believe that that's all we need to do.",
+      "translation": "Я считаю, что это всё, что нам нужно сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_8",
+      "word": "You have to believe me, Tom.",
+      "translation": "Ты должен мне верить, Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_9",
+      "word": "Tom was stupid enough to believe what Mary said.",
+      "translation": "У Тома хватило глупости поверить тому, что сказала Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_10",
+      "word": "No one could believe it.",
+      "translation": "Никто не мог в это поверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_11",
+      "word": "There were monkeys at the temple.",
+      "translation": "В храме были обезьяны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_12",
+      "word": "I said I believe you.",
+      "translation": "Я сказал, что я верю тебе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_13",
+      "word": "I don't believe this is happening to me.",
+      "translation": "Не могу поверить, что это со мной происходит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_14",
+      "word": "We believe in ourselves.",
+      "translation": "Мы верим в себя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_15",
+      "word": "Do you believe what he said?",
+      "translation": "Вы верите тому, что он сказал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_16",
+      "word": "I knew nobody would believe me.",
+      "translation": "Я знал, что мне никто не поверит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_17",
+      "word": "Do you believe in ghosts?",
+      "translation": "Верите ли Вы в привидения?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_18",
+      "word": "We never talked about religion.",
+      "translation": "Мы никогда не говорили о религии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_19",
+      "word": "What makes you believe that Tom did that on purpose?",
+      "translation": "С чего ты взял, что Том сделал это нарочно?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_20",
+      "word": "They're leaving for the church now.",
+      "translation": "Сейчас они идут в церковь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_21",
+      "word": "I believe that this is not a good idea.",
+      "translation": "По-моему, это не очень хорошая идея.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_22",
+      "word": "They went to the mosque to pray.",
+      "translation": "Они пошли в мечеть помолиться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_23",
+      "word": "I don't believe that Tom is the murderer.",
+      "translation": "Я не верю в то, что убийца - Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_24",
+      "word": "I won't sell my soul.",
+      "translation": "Я не буду продавать свою душу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_25",
+      "word": "The garbage smells to high heaven.",
+      "translation": "Этот мусор ужасно воняет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_26",
+      "word": "I've been to church.",
+      "translation": "Я был в церкви.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_27",
+      "word": "Many people believe that's not going to happen.",
+      "translation": "Многие считают, что этого не случится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_28",
+      "word": "I'll pray for you.",
+      "translation": "Я буду за вас молиться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_29",
+      "word": "We don't believe that Tom did what Mary said he did.",
+      "translation": "Мы не верим, что Том сделал то, что, по словам Мэри, он сделал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_30",
+      "word": "Do you believe in UFOs?",
+      "translation": "Ты веришь в НЛО?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_31",
+      "word": "How can you believe such a thing?",
+      "translation": "Как ты можешь верить в такие вещи?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_32",
+      "word": "Some people don't believe in any religion.",
+      "translation": "Некоторые люди не верят ни в какую религию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_33",
+      "word": "Why don't you believe us?",
+      "translation": "Почему ты не веришь нам?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_34",
+      "word": "Don't believe everything Tom says.",
+      "translation": "Не верь всему, что говорит Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_35",
+      "word": "Tom and Mary went to church together.",
+      "translation": "Том и Мэри пошли вместе в церковь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_36",
+      "word": "Believe in yourself.",
+      "translation": "Верь в себя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_37",
+      "word": "Tom didn't believe his eyes.",
+      "translation": "Том не поверил своим глазам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_38",
+      "word": "Tom seldom goes to church.",
+      "translation": "Том редко ходит в церковь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_39",
+      "word": "Religion is the opium of the people.",
+      "translation": "Религия - опиум для народа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_40",
+      "word": "I can't believe that Tom's already over 80.",
+      "translation": "Не верится, что Тому уже за восемьдесят.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_41",
+      "word": "I don't believe that at all.",
+      "translation": "Я совсем не верю в это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_42",
+      "word": "Destroy this temple.",
+      "translation": "Разрушьте этот храм.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_43",
+      "word": "I could scarcely believe it.",
+      "translation": "Я едва мог в это поверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_44",
+      "word": "I believe in God.",
+      "translation": "Я верю в Бога.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_45",
+      "word": "Do you expect me to believe you did this by yourself?",
+      "translation": "Думаешь, я поверю, что ты это сам сделал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_46",
+      "word": "We entered the church.",
+      "translation": "Мы вошли в церковь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_47",
+      "word": "Do you believe it now?",
+      "translation": "Теперь веришь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_48",
+      "word": "I find it difficult to believe.",
+      "translation": "Мне трудно в это поверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_religionbeliefs_9_49",
+      "word": "I believe that you'll succeed.",
+      "translation": "Я верю, что вы добьётесь успеха.",
+      "language": "en"
+    }
+  ]
+}

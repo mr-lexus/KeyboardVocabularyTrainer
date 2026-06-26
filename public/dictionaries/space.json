@@ -1,0 +1,1123 @@
+{
+  "id": "builtin-space",
+  "name": "Space & Universe ",
+  "description": "Astronomy and space exploration",
+  "entries": [
+    {
+      "id": "e1",
+      "word": "space",
+      "translation": "космос",
+      "language": "en"
+    },
+    {
+      "id": "e2",
+      "word": "universe",
+      "translation": "вселенная",
+      "language": "en"
+    },
+    {
+      "id": "e3",
+      "word": "galaxy",
+      "translation": "галактика",
+      "language": "en"
+    },
+    {
+      "id": "e4",
+      "word": "star",
+      "translation": "звезда",
+      "language": "en"
+    },
+    {
+      "id": "e5",
+      "word": "planet",
+      "translation": "планета",
+      "language": "en"
+    },
+    {
+      "id": "e6",
+      "word": "moon",
+      "translation": "луна",
+      "language": "en"
+    },
+    {
+      "id": "e7",
+      "word": "sun",
+      "translation": "солнце",
+      "language": "en"
+    },
+    {
+      "id": "e8",
+      "word": "earth",
+      "translation": "земля",
+      "language": "en"
+    },
+    {
+      "id": "e9",
+      "word": "mars",
+      "translation": "марс",
+      "language": "en"
+    },
+    {
+      "id": "e10",
+      "word": "orbit",
+      "translation": "орбита",
+      "language": "en"
+    },
+    {
+      "id": "e11",
+      "word": "gravity",
+      "translation": "гравитация",
+      "language": "en"
+    },
+    {
+      "id": "e12",
+      "word": "comet",
+      "translation": "комета",
+      "language": "en"
+    },
+    {
+      "id": "e13",
+      "word": "asteroid",
+      "translation": "астероид",
+      "language": "en"
+    },
+    {
+      "id": "e14",
+      "word": "meteor",
+      "translation": "метеор",
+      "language": "en"
+    },
+    {
+      "id": "e15",
+      "word": "black hole",
+      "translation": "черная дыра",
+      "language": "en"
+    },
+    {
+      "id": "e16",
+      "word": "telescope",
+      "translation": "телескоп",
+      "language": "en"
+    },
+    {
+      "id": "e17",
+      "word": "observatory",
+      "translation": "обсерватория",
+      "language": "en"
+    },
+    {
+      "id": "e18",
+      "word": "astronaut",
+      "translation": "астронавт",
+      "language": "en"
+    },
+    {
+      "id": "e19",
+      "word": "spaceship",
+      "translation": "космический корабль",
+      "language": "en"
+    },
+    {
+      "id": "e20",
+      "word": "rocket",
+      "translation": "ракета",
+      "language": "en"
+    },
+    {
+      "id": "e21",
+      "word": "satellite",
+      "translation": "спутник",
+      "language": "en"
+    },
+    {
+      "id": "e22",
+      "word": "station",
+      "translation": "станция",
+      "language": "en"
+    },
+    {
+      "id": "e23",
+      "word": "mission",
+      "translation": "миссия",
+      "language": "en"
+    },
+    {
+      "id": "e24",
+      "word": "launch",
+      "translation": "запуск",
+      "language": "en"
+    },
+    {
+      "id": "e25",
+      "word": "alien",
+      "translation": "инопланетянин",
+      "language": "en"
+    },
+    {
+      "id": "e26",
+      "word": "ufo",
+      "translation": "нло",
+      "language": "en"
+    },
+    {
+      "id": "e27",
+      "word": "light year",
+      "translation": "световой год",
+      "language": "en"
+    },
+    {
+      "id": "e28",
+      "word": "sky",
+      "translation": "небо",
+      "language": "en"
+    },
+    {
+      "id": "e29",
+      "word": "atmosphere",
+      "translation": "атмосфера",
+      "language": "en"
+    },
+    {
+      "id": "e30",
+      "word": "vacuum",
+      "translation": "вакуум",
+      "language": "en"
+    },
+    {
+      "id": "e31",
+      "word": "exploration",
+      "translation": "исследование",
+      "language": "en"
+    },
+    {
+      "id": "e32",
+      "word": "discovery",
+      "translation": "открытие",
+      "language": "en"
+    },
+    {
+      "id": "e33",
+      "word": "science",
+      "translation": "наука",
+      "language": "en"
+    },
+    {
+      "id": "e34",
+      "word": "physics",
+      "translation": "физика",
+      "language": "en"
+    },
+    {
+      "id": "e35",
+      "word": "astronomy",
+      "translation": "астрономия",
+      "language": "en"
+    },
+    {
+      "id": "e36",
+      "word": "cosmos",
+      "translation": "космос",
+      "language": "en"
+    },
+    {
+      "id": "e37",
+      "word": "solar system",
+      "translation": "солнечная система",
+      "language": "en"
+    },
+    {
+      "id": "e38",
+      "word": "milky way",
+      "translation": "млечный путь",
+      "language": "en"
+    },
+    {
+      "id": "e39",
+      "word": "constellation",
+      "translation": "созвездие",
+      "language": "en"
+    },
+    {
+      "id": "e40",
+      "word": "eclipse",
+      "translation": "затмение",
+      "language": "en"
+    },
+    {
+      "id": "e41",
+      "word": "astrophysics",
+      "translation": "астрофизика",
+      "language": "en"
+    },
+    {
+      "id": "e42",
+      "word": "cosmology",
+      "translation": "космология",
+      "language": "en"
+    },
+    {
+      "id": "e43",
+      "word": "nebula",
+      "translation": "туманность",
+      "language": "en"
+    },
+    {
+      "id": "e44",
+      "word": "supernova",
+      "translation": "сверхновая",
+      "language": "en"
+    },
+    {
+      "id": "e45",
+      "word": "quasar",
+      "translation": "квазар",
+      "language": "en"
+    },
+    {
+      "id": "e46",
+      "word": "pulsar",
+      "translation": "квазар",
+      "language": "en"
+    },
+    {
+      "id": "e47",
+      "word": "neutron star",
+      "translation": "нейтронная звезда",
+      "language": "en"
+    },
+    {
+      "id": "e48",
+      "word": "dwarf star",
+      "translation": "карликовая звезда",
+      "language": "en"
+    },
+    {
+      "id": "e49",
+      "word": "red giant",
+      "translation": "красный гигант",
+      "language": "en"
+    },
+    {
+      "id": "e50",
+      "word": "white dwarf",
+      "translation": "белый карлик",
+      "language": "en"
+    },
+    {
+      "id": "e51",
+      "word": "exoplanet",
+      "translation": "экзопланета",
+      "language": "en"
+    },
+    {
+      "id": "e52",
+      "word": "gas giant",
+      "translation": "газовый гигант",
+      "language": "en"
+    },
+    {
+      "id": "e53",
+      "word": "terrestrial planet",
+      "translation": "планета земной типа",
+      "language": "en"
+    },
+    {
+      "id": "e54",
+      "word": "orbit",
+      "translation": "орбита",
+      "language": "en"
+    },
+    {
+      "id": "e55",
+      "word": "trajectory",
+      "translation": "траектория",
+      "language": "en"
+    },
+    {
+      "id": "e56",
+      "word": "rotation",
+      "translation": "вращение",
+      "language": "en"
+    },
+    {
+      "id": "e57",
+      "word": "revolution",
+      "translation": "оборот",
+      "language": "en"
+    },
+    {
+      "id": "e58",
+      "word": "axis",
+      "translation": "ось",
+      "language": "en"
+    },
+    {
+      "id": "e59",
+      "word": "equator",
+      "translation": "экватор",
+      "language": "en"
+    },
+    {
+      "id": "e60",
+      "word": "pole",
+      "translation": "полюс",
+      "language": "en"
+    },
+    {
+      "id": "e61",
+      "word": "hemisphere",
+      "translation": "полушарие",
+      "language": "en"
+    },
+    {
+      "id": "e62",
+      "word": "zenith",
+      "translation": "зенит",
+      "language": "en"
+    },
+    {
+      "id": "e63",
+      "word": "nadir",
+      "translation": "надир",
+      "language": "en"
+    },
+    {
+      "id": "e64",
+      "word": "horizon",
+      "translation": "горизонт",
+      "language": "en"
+    },
+    {
+      "id": "e65",
+      "word": "celestial",
+      "translation": "небесный",
+      "language": "en"
+    },
+    {
+      "id": "e66",
+      "word": "lunar",
+      "translation": "лунный",
+      "language": "en"
+    },
+    {
+      "id": "e67",
+      "word": "solar",
+      "translation": "солнечный",
+      "language": "en"
+    },
+    {
+      "id": "e68",
+      "word": "stellar",
+      "translation": "звездный",
+      "language": "en"
+    },
+    {
+      "id": "e69",
+      "word": "interstellar",
+      "translation": "межзвездный",
+      "language": "en"
+    },
+    {
+      "id": "e70",
+      "word": "intergalactic",
+      "translation": "межгалактический",
+      "language": "en"
+    },
+    {
+      "id": "e71",
+      "word": "extraterrestrial",
+      "translation": "внеземной",
+      "language": "en"
+    },
+    {
+      "id": "e72",
+      "word": "meteorite",
+      "translation": "метеорит",
+      "language": "en"
+    },
+    {
+      "id": "e73",
+      "word": "meteoroid",
+      "translation": "метеороид",
+      "language": "en"
+    },
+    {
+      "id": "e74",
+      "word": "shooting star",
+      "translation": "падающая звезда",
+      "language": "en"
+    },
+    {
+      "id": "e75",
+      "word": "crater",
+      "translation": "кратер",
+      "language": "en"
+    },
+    {
+      "id": "e76",
+      "word": "impact",
+      "translation": "удар",
+      "language": "en"
+    },
+    {
+      "id": "e77",
+      "word": "collision",
+      "translation": "столкновение",
+      "language": "en"
+    },
+    {
+      "id": "e78",
+      "word": "debris",
+      "translation": "обломки",
+      "language": "en"
+    },
+    {
+      "id": "e79",
+      "word": "dust",
+      "translation": "пыль",
+      "language": "en"
+    },
+    {
+      "id": "e80",
+      "word": "plasma",
+      "translation": "плазма",
+      "language": "en"
+    },
+    {
+      "id": "e81",
+      "word": "radiation",
+      "translation": "радиация",
+      "language": "en"
+    },
+    {
+      "id": "e82",
+      "word": "light",
+      "translation": "свет",
+      "language": "en"
+    },
+    {
+      "id": "e83",
+      "word": "spectrum",
+      "translation": "спектр",
+      "language": "en"
+    },
+    {
+      "id": "e84",
+      "word": "wavelength",
+      "translation": "длина волны",
+      "language": "en"
+    },
+    {
+      "id": "e85",
+      "word": "frequency",
+      "translation": "частота",
+      "language": "en"
+    },
+    {
+      "id": "e86",
+      "word": "infrared",
+      "translation": "инфракрасный",
+      "language": "en"
+    },
+    {
+      "id": "e87",
+      "word": "ultraviolet",
+      "translation": "ультрафиолетовый",
+      "language": "en"
+    },
+    {
+      "id": "e88",
+      "word": "xray",
+      "translation": "рентген",
+      "language": "en"
+    },
+    {
+      "id": "e89",
+      "word": "gamma ray",
+      "translation": "гамма-лучи",
+      "language": "en"
+    },
+    {
+      "id": "e90",
+      "word": "telescope",
+      "translation": "телескоп",
+      "language": "en"
+    },
+    {
+      "id": "e91",
+      "word": "lens",
+      "translation": "линза",
+      "language": "en"
+    },
+    {
+      "id": "e92",
+      "word": "mirror",
+      "translation": "зеркало",
+      "language": "en"
+    },
+    {
+      "id": "e93",
+      "word": "observatory",
+      "translation": "обсерватория",
+      "language": "en"
+    },
+    {
+      "id": "e94",
+      "word": "probe",
+      "translation": "зонд",
+      "language": "en"
+    },
+    {
+      "id": "e95",
+      "word": "rover",
+      "translation": "марсоход",
+      "language": "en"
+    },
+    {
+      "id": "e96",
+      "word": "lander",
+      "translation": "посадочный модуль",
+      "language": "en"
+    },
+    {
+      "id": "e97",
+      "word": "orbiter",
+      "translation": "орбитальный аппарат",
+      "language": "en"
+    },
+    {
+      "id": "e98",
+      "word": "shuttle",
+      "translation": "шаттл",
+      "language": "en"
+    },
+    {
+      "id": "e99",
+      "word": "capsule",
+      "translation": "капсула",
+      "language": "en"
+    },
+    {
+      "id": "e100",
+      "word": "module",
+      "translation": "модуль",
+      "language": "en"
+    },
+    {
+      "id": "e101",
+      "word": "booster",
+      "translation": "ускоритель",
+      "language": "en"
+    },
+    {
+      "id": "e102",
+      "word": "thruster",
+      "translation": "двигатель",
+      "language": "en"
+    },
+    {
+      "id": "e103",
+      "word": "engine",
+      "translation": "двигатель",
+      "language": "en"
+    },
+    {
+      "id": "e104",
+      "word": "propulsion",
+      "translation": "двигатель",
+      "language": "en"
+    },
+    {
+      "id": "e105",
+      "word": "fuel",
+      "translation": "топливо",
+      "language": "en"
+    },
+    {
+      "id": "e106",
+      "word": "propellant",
+      "translation": "ракетное топливо",
+      "language": "en"
+    },
+    {
+      "id": "e107",
+      "word": "combustion",
+      "translation": "сгорание",
+      "language": "en"
+    },
+    {
+      "id": "e108",
+      "word": "ignition",
+      "translation": "зажигание",
+      "language": "en"
+    },
+    {
+      "id": "e109",
+      "word": "liftoff",
+      "translation": "старт",
+      "language": "en"
+    },
+    {
+      "id": "e110",
+      "word": "takeoff",
+      "translation": "взлет",
+      "language": "en"
+    },
+    {
+      "id": "e111",
+      "word": "ascent",
+      "translation": "подъем",
+      "language": "en"
+    },
+    {
+      "id": "e112",
+      "word": "descent",
+      "translation": "спуск",
+      "language": "en"
+    },
+    {
+      "id": "e113",
+      "word": "landing",
+      "translation": "посадка",
+      "language": "en"
+    },
+    {
+      "id": "e114",
+      "word": "touchdown",
+      "translation": "посадка",
+      "language": "en"
+    },
+    {
+      "id": "e115",
+      "word": "splashdown",
+      "translation": "приводнение",
+      "language": "en"
+    },
+    {
+      "id": "e116",
+      "word": "reentry",
+      "translation": "возвращение в атмосферу",
+      "language": "en"
+    },
+    {
+      "id": "e117",
+      "word": "docking",
+      "translation": "стыковка",
+      "language": "en"
+    },
+    {
+      "id": "e118",
+      "word": "rendezvous",
+      "translation": "сближение",
+      "language": "en"
+    },
+    {
+      "id": "e119",
+      "word": "spacewalk",
+      "translation": "выход в открытый космос",
+      "language": "en"
+    },
+    {
+      "id": "e120",
+      "word": "eva",
+      "translation": "выход в открытый космос",
+      "language": "en"
+    },
+    {
+      "id": "e121",
+      "word": "suit",
+      "translation": "скафандр",
+      "language": "en"
+    },
+    {
+      "id": "e122",
+      "word": "helmet",
+      "translation": "шлем",
+      "language": "en"
+    },
+    {
+      "id": "e123",
+      "word": "visor",
+      "translation": "визор",
+      "language": "en"
+    },
+    {
+      "id": "e124",
+      "word": "tether",
+      "translation": "файл",
+      "language": "en"
+    },
+    {
+      "id": "e125",
+      "word": "airlock",
+      "translation": "шлюз",
+      "language": "en"
+    },
+    {
+      "id": "e126",
+      "word": "cabin",
+      "translation": "кабина",
+      "language": "en"
+    },
+    {
+      "id": "e127",
+      "word": "cockpit",
+      "translation": "кабина пилота",
+      "language": "en"
+    },
+    {
+      "id": "e128",
+      "word": "control room",
+      "translation": "пульт управления",
+      "language": "en"
+    },
+    {
+      "id": "e129",
+      "word": "mission control",
+      "translation": "центр управления полетами",
+      "language": "en"
+    },
+    {
+      "id": "e130",
+      "word": "commander",
+      "translation": "командир",
+      "language": "en"
+    },
+    {
+      "id": "e131",
+      "word": "pilot",
+      "translation": "пилот",
+      "language": "en"
+    },
+    {
+      "id": "e132",
+      "word": "engineer",
+      "translation": "инженер",
+      "language": "en"
+    },
+    {
+      "id": "e133",
+      "word": "specialist",
+      "translation": "специалист",
+      "language": "en"
+    },
+    {
+      "id": "e134",
+      "word": "crew",
+      "translation": "экипаж",
+      "language": "en"
+    },
+    {
+      "id": "e135",
+      "word": "team",
+      "translation": "команда",
+      "language": "en"
+    },
+    {
+      "id": "e136",
+      "word": "base",
+      "translation": "база",
+      "language": "en"
+    },
+    {
+      "id": "e137",
+      "word": "colony",
+      "translation": "колония",
+      "language": "en"
+    },
+    {
+      "id": "e138",
+      "word": "outpost",
+      "translation": "форпост",
+      "language": "en"
+    },
+    {
+      "id": "e139",
+      "word": "settlement",
+      "translation": "поселение",
+      "language": "en"
+    },
+    {
+      "id": "e140",
+      "word": "habitat",
+      "translation": "жилище",
+      "language": "en"
+    },
+    {
+      "id": "e141",
+      "word": "biodome",
+      "translation": "биодома",
+      "language": "en"
+    },
+    {
+      "id": "e142",
+      "word": "gravity",
+      "translation": "гравитация",
+      "language": "en"
+    },
+    {
+      "id": "e143",
+      "word": "microgravity",
+      "translation": "микрогравитация",
+      "language": "en"
+    },
+    {
+      "id": "e144",
+      "word": "zero gravity",
+      "translation": "невесомость",
+      "language": "en"
+    },
+    {
+      "id": "e145",
+      "word": "weightlessness",
+      "translation": "невесомость",
+      "language": "en"
+    },
+    {
+      "id": "e146",
+      "word": "acceleration",
+      "translation": "ускорение",
+      "language": "en"
+    },
+    {
+      "id": "e147",
+      "word": "velocity",
+      "translation": "скорость",
+      "language": "en"
+    },
+    {
+      "id": "e148",
+      "word": "speed",
+      "translation": "скорость",
+      "language": "en"
+    },
+    {
+      "id": "e149",
+      "word": "momentum",
+      "translation": "импульс",
+      "language": "en"
+    },
+    {
+      "id": "e150",
+      "word": "inertia",
+      "translation": "инерция",
+      "language": "en"
+    },
+    {
+      "id": "e151",
+      "word": "force",
+      "translation": "сила",
+      "language": "en"
+    },
+    {
+      "id": "e152",
+      "word": "mass",
+      "translation": "масса",
+      "language": "en"
+    },
+    {
+      "id": "e153",
+      "word": "weight",
+      "translation": "вес",
+      "language": "en"
+    },
+    {
+      "id": "e154",
+      "word": "distance",
+      "translation": "расстояние",
+      "language": "en"
+    },
+    {
+      "id": "e155",
+      "word": "dimension",
+      "translation": "размерность",
+      "language": "en"
+    },
+    {
+      "id": "e156",
+      "word": "time",
+      "translation": "время",
+      "language": "en"
+    },
+    {
+      "id": "e157",
+      "word": "space-time",
+      "translation": "пространство-время",
+      "language": "en"
+    },
+    {
+      "id": "e158",
+      "word": "relativity",
+      "translation": "относительность",
+      "language": "en"
+    },
+    {
+      "id": "e159",
+      "word": "quantum",
+      "translation": "квант",
+      "language": "en"
+    },
+    {
+      "id": "e160",
+      "word": "particle",
+      "translation": "частица",
+      "language": "en"
+    },
+    {
+      "id": "e161",
+      "word": "atom",
+      "translation": "атом",
+      "language": "en"
+    },
+    {
+      "id": "e162",
+      "word": "molecule",
+      "translation": "молекула",
+      "language": "en"
+    },
+    {
+      "id": "e163",
+      "word": "matter",
+      "translation": "материя",
+      "language": "en"
+    },
+    {
+      "id": "e164",
+      "word": "antimatter",
+      "translation": "антиматерия",
+      "language": "en"
+    },
+    {
+      "id": "e165",
+      "word": "dark matter",
+      "translation": "темная материя",
+      "language": "en"
+    },
+    {
+      "id": "e166",
+      "word": "dark energy",
+      "translation": "темная энергия",
+      "language": "en"
+    },
+    {
+      "id": "e167",
+      "word": "expansion",
+      "translation": "расширение",
+      "language": "en"
+    },
+    {
+      "id": "e168",
+      "word": "big bang",
+      "translation": "большой взрыв",
+      "language": "en"
+    },
+    {
+      "id": "e169",
+      "word": "origin",
+      "translation": "происхождение",
+      "language": "en"
+    },
+    {
+      "id": "e170",
+      "word": "creation",
+      "translation": "создание",
+      "language": "en"
+    },
+    {
+      "id": "e171",
+      "word": "evolution",
+      "translation": "эволюция",
+      "language": "en"
+    },
+    {
+      "id": "e172",
+      "word": "infinity",
+      "translation": "бесконечность",
+      "language": "en"
+    },
+    {
+      "id": "e173",
+      "word": "eternity",
+      "translation": "вечность",
+      "language": "en"
+    },
+    {
+      "id": "e174",
+      "word": "void",
+      "translation": "пустота",
+      "language": "en"
+    },
+    {
+      "id": "e175",
+      "word": "abyss",
+      "translation": "бездна",
+      "language": "en"
+    },
+    {
+      "id": "e176",
+      "word": "unknown",
+      "translation": "неизвестное",
+      "language": "en"
+    },
+    {
+      "id": "e177",
+      "word": "mystery",
+      "translation": "тайна",
+      "language": "en"
+    },
+    {
+      "id": "e178",
+      "word": "enigma",
+      "translation": "загадка",
+      "language": "en"
+    },
+    {
+      "id": "e179",
+      "word": "quest",
+      "translation": "поиск",
+      "language": "en"
+    },
+    {
+      "id": "e180",
+      "word": "journey",
+      "translation": "путешествие",
+      "language": "en"
+    },
+    {
+      "id": "e181",
+      "word": "voyage",
+      "translation": "путешествие",
+      "language": "en"
+    },
+    {
+      "id": "e182",
+      "word": "odyssey",
+      "translation": "одиссея",
+      "language": "en"
+    },
+    {
+      "id": "e183",
+      "word": "frontier",
+      "translation": "рубеж",
+      "language": "en"
+    },
+    {
+      "id": "e184",
+      "word": "boundary",
+      "translation": "граница",
+      "language": "en"
+    },
+    {
+      "id": "e185",
+      "word": "limit",
+      "translation": "предел",
+      "language": "en"
+    },
+    {
+      "id": "e186",
+      "word": "beyond",
+      "translation": "за пределами",
+      "language": "en"
+    }
+  ]
+}

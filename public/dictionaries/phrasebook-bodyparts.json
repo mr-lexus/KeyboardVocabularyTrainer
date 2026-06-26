@@ -1,0 +1,3007 @@
+{
+  "id": "phrasebook-bodyparts",
+  "name": "Body Parts",
+  "description": "Phrasebook for Body Parts",
+  "entries": [
+    {
+      "id": "pb_bodyparts_0_0",
+      "word": "I'll be back early.",
+      "translation": "Я вернусь рано.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_1",
+      "word": "I like this chair.",
+      "translation": "Мне нравится этот стул.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_2",
+      "word": "Don't pull my leg!",
+      "translation": "Не морочь мне голову!",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_3",
+      "word": "Sit back down. We're not leaving yet.",
+      "translation": "Сядь обратно. Мы ещё не уходим.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_4",
+      "word": "Her hair is long.",
+      "translation": "Её волосы длинные.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_5",
+      "word": "Raise your hand.",
+      "translation": "Подними руку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_6",
+      "word": "We'll come back.",
+      "translation": "Мы вернёмся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_7",
+      "word": "Hand me that jar.",
+      "translation": "Подай мне ту банку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_8",
+      "word": "Just go back to sleep.",
+      "translation": "Спи дальше.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_9",
+      "word": "My heart began to race.",
+      "translation": "У меня бешено застучало сердце.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_10",
+      "word": "I like short hair.",
+      "translation": "Мне нравятся короткие стрижки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_11",
+      "word": "Tom will soon be back.",
+      "translation": "Том скоро вернётся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_12",
+      "word": "We can hear.",
+      "translation": "Нам слышно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_13",
+      "word": "He's under the chair.",
+      "translation": "Он под стулом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_14",
+      "word": "Nobody came back.",
+      "translation": "Никто не вернулся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_15",
+      "word": "Stop making that face.",
+      "translation": "Хватит делать такое лицо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_16",
+      "word": "How's your arm?",
+      "translation": "Как твоя рука?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_17",
+      "word": "My back is stiff.",
+      "translation": "У меня затекла спина.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_18",
+      "word": "Don't back away.",
+      "translation": "Не отступайте.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_19",
+      "word": "Tom will be back soon.",
+      "translation": "Том скоро вернётся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_20",
+      "word": "He has brown hair.",
+      "translation": "Он шатен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_21",
+      "word": "Give it back.",
+      "translation": "Отдай это!",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_22",
+      "word": "I meant no harm.",
+      "translation": "Я не хотел вас обидеть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_23",
+      "word": "Brush your hair.",
+      "translation": "Причешись.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_24",
+      "word": "Open your mouth.",
+      "translation": "Открой рот.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_25",
+      "word": "Is it clear?",
+      "translation": "Это ясно?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_26",
+      "word": "We want to come back.",
+      "translation": "Мы хотим вернуться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_27",
+      "word": "Hand me the knife.",
+      "translation": "Подай мне нож.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_28",
+      "word": "She raised her hand.",
+      "translation": "Она подняла руку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_29",
+      "word": "I have a weak stomach.",
+      "translation": "У меня слабый желудок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_30",
+      "word": "My hair is so dirty!",
+      "translation": "Мои волосы такие грязные!",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_31",
+      "word": "He will come back.",
+      "translation": "Он вернётся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_32",
+      "word": "I knew Tom was back.",
+      "translation": "Я знал, что Том вернулся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_33",
+      "word": "She came back just as I was leaving.",
+      "translation": "Она вернулась, как раз когда я уходил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_34",
+      "word": "Tom gave blood.",
+      "translation": "Том сдал кровь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_35",
+      "word": "Tom needs to go back to Australia.",
+      "translation": "Тому нужно возвращаться в Австралию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_36",
+      "word": "Keep your hair on!",
+      "translation": "Возьми себя в руки!",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_37",
+      "word": "I squeezed Tom's hand.",
+      "translation": "Я сжал руку Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_38",
+      "word": "He came back many years later.",
+      "translation": "Он вернулся спустя много лет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_39",
+      "word": "You have to disappear.",
+      "translation": "Ты должен исчезнуть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_40",
+      "word": "Why don't we head out?",
+      "translation": "Почему бы нам не отправиться?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_41",
+      "word": "Stop hiding your head in the sand.",
+      "translation": "Перестань прятать голову в песок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_42",
+      "word": "My hair is greasy.",
+      "translation": "У меня жирные волосы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_43",
+      "word": "How did you turn off the alarm?",
+      "translation": "Как ты выключил сигнализацию?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_44",
+      "word": "Mary cut her finger.",
+      "translation": "Мэри порезала палец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_45",
+      "word": "Tom's body was found in the river.",
+      "translation": "Тело Тома было обнаружено в реке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_46",
+      "word": "He took back everything he said.",
+      "translation": "Он взял назад всё, что сказал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_47",
+      "word": "I could barely hold back my tears.",
+      "translation": "Я едва смог обуздать свои слёзы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_48",
+      "word": "Tom's instructions were clear.",
+      "translation": "Инструкции Тома были понятны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_0_49",
+      "word": "Tom sighed and shook his head.",
+      "translation": "Том вздохнул и покачал головой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_0",
+      "word": "She is already back.",
+      "translation": "Она уже вернулась.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_1",
+      "word": "That's why we moved back to Boston.",
+      "translation": "Вот почему мы переехали обратно в Бостон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_2",
+      "word": "You know what I want to hear.",
+      "translation": "Ты знаешь, что я хочу услышать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_3",
+      "word": "I want to dye my hair.",
+      "translation": "Я хочу покрасить волосы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_4",
+      "word": "Why are you drying your hair?",
+      "translation": "Зачем ты сушишь волосы?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_5",
+      "word": "My arm hurts.",
+      "translation": "У меня болит рука.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_6",
+      "word": "Tom held out his hand to Mary.",
+      "translation": "Том протянул Мэри руку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_7",
+      "word": "Sit back and listen.",
+      "translation": "Усаживайтесь поудобнее и слушайте.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_8",
+      "word": "Tom came back early.",
+      "translation": "Том вернулся рано.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_9",
+      "word": "My heart is broken.",
+      "translation": "Моё сердце разбито.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_10",
+      "word": "My face twitches.",
+      "translation": "У меня дёргается лицо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_11",
+      "word": "I had my hair cut at the barber's.",
+      "translation": "Я подстригся в парикмахерской.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_12",
+      "word": "I always knew Tom would come back.",
+      "translation": "Я всегда знал, что Том вернётся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_13",
+      "word": "Tom nearly fell off his chair.",
+      "translation": "Том чуть со стула не упал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_14",
+      "word": "Tom has red hair.",
+      "translation": "У Тома рыжие волосы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_15",
+      "word": "My left leg is broken.",
+      "translation": "У меня сломана левая нога.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_16",
+      "word": "She has a pretty face.",
+      "translation": "У неё симпатичное личико.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_17",
+      "word": "Ask Tom when he's coming back.",
+      "translation": "Спроси у Тома, когда он вернётся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_18",
+      "word": "Can you hear?",
+      "translation": "Ты можешь слышать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_19",
+      "word": "They're coming back.",
+      "translation": "Они возвращаются.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_20",
+      "word": "Tom has a tattoo on his right arm.",
+      "translation": "У Тома на правой руке татуировка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_21",
+      "word": "Tom lay on his back.",
+      "translation": "Том лежал на спине.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_22",
+      "word": "Did you do something to your hair?",
+      "translation": "Ты что-то сделала со своими волосами?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_23",
+      "word": "The plane landed on my dad's farm.",
+      "translation": "Самолёт приземлился на ферме моего отца.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_24",
+      "word": "I didn't know Tom would come back.",
+      "translation": "Я не знал, что Том вернётся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_25",
+      "word": "Tom's arm had to be amputated.",
+      "translation": "Руку Тому пришлось ампутировать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_26",
+      "word": "Tom whispered into Mary's ear.",
+      "translation": "Том шептал что-то Мэри на ухо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_27",
+      "word": "I have a bigger nose than you.",
+      "translation": "У меня нос больше твоего.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_28",
+      "word": "My hand itches.",
+      "translation": "У меня рука чешется.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_29",
+      "word": "Tom cut Mary's hair.",
+      "translation": "Том подстриг Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_30",
+      "word": "Tom's voice was clear.",
+      "translation": "Голос Тома был отчётливым.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_31",
+      "word": "Maybe I'll be back.",
+      "translation": "Я, может быть, вернусь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_32",
+      "word": "His legs were trembling from fear.",
+      "translation": "Его ноги дрожали от страха.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_33",
+      "word": "Tom saved everybody.",
+      "translation": "Том спас всех.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_34",
+      "word": "Will you be back soon?",
+      "translation": "Ты скоро вернёшься?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_35",
+      "word": "Tom is back again.",
+      "translation": "Том снова вернулся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_36",
+      "word": "Tom is beginning to lose his hair.",
+      "translation": "Том начинает лысеть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_37",
+      "word": "Tom won't be coming back here.",
+      "translation": "Том сюда не вернётся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_38",
+      "word": "I'm coming back.",
+      "translation": "Я возвращаюсь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_39",
+      "word": "Try to come back in one piece.",
+      "translation": "Постарайся вернуться в целости и сохранности.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_40",
+      "word": "Tom had a leg cramp.",
+      "translation": "У Тома ногу свело.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_41",
+      "word": "Take that back.",
+      "translation": "Заберите это!",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_42",
+      "word": "You'd better watch your mouth.",
+      "translation": "Ты бы за выражениями-то следил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_43",
+      "word": "When you finish eating that, come back for more.",
+      "translation": "Когда доешь, приходи за добавкой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_44",
+      "word": "Tom ran back inside.",
+      "translation": "Том забежал обратно внутрь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_45",
+      "word": "Just face the facts.",
+      "translation": "Просто посмотри фактам в лицо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_46",
+      "word": "Hand it over.",
+      "translation": "Отдай.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_47",
+      "word": "I broke my arm.",
+      "translation": "Я сломал себе руку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_48",
+      "word": "When will you be coming back from Boston?",
+      "translation": "Когда ты возвращаешься из Бостона?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_1_49",
+      "word": "You've got to face the facts.",
+      "translation": "Ты должен смотреть фактам в лицо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_0",
+      "word": "You're back again.",
+      "translation": "Ты опять тут.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_1",
+      "word": "We're thinking of moving back to Boston.",
+      "translation": "Мы подумываем о том, чтобы переехать обратно в Бостон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_2",
+      "word": "We can't go back.",
+      "translation": "Мы не можем вернуться обратно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_3",
+      "word": "Tom took a step back and fell.",
+      "translation": "Том отступил на шаг и упал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_4",
+      "word": "From this point, we'll go on foot.",
+      "translation": "Отсюда мы пойдём пешком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_5",
+      "word": "Keep your head down.",
+      "translation": "Не высовывайтесь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_6",
+      "word": "Which hand do you write with?",
+      "translation": "Какой рукой ты пишешь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_7",
+      "word": "Hair loss is often hereditary.",
+      "translation": "Облысение часто бывает наследственным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_8",
+      "word": "Tom combed his hair.",
+      "translation": "Том расчесался.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_9",
+      "word": "I just stubbed my toe.",
+      "translation": "Я только что ушиб палец на ноге.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_10",
+      "word": "I think we should keep an eye on Tom.",
+      "translation": "Думаю, мы должны присматривать за Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_11",
+      "word": "My eye has swollen up.",
+      "translation": "У меня глаз распух.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_12",
+      "word": "The crowd gave the winner a big hand.",
+      "translation": "Толпа встретила победителя аплодисментами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_13",
+      "word": "She froze at the sight of the bear.",
+      "translation": "Она застыла при виде медведя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_14",
+      "word": "Tom was given a blood transfusion.",
+      "translation": "Тому сделали переливание крови.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_15",
+      "word": "Tom burned his arm.",
+      "translation": "Том обжёг руку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_16",
+      "word": "Tom was born and raised on a farm.",
+      "translation": "Том родился и вырос на ферме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_17",
+      "word": "She had a strange look on her face.",
+      "translation": "У неё было странное выражение лица.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_18",
+      "word": "Did you remember to set the alarm?",
+      "translation": "Будильник завести не забыл?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_19",
+      "word": "My grandma injured her leg in a fall.",
+      "translation": "Моя бабушка повредила ногу при падении.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_20",
+      "word": "Tom wears his heart on his sleeve.",
+      "translation": "У Тома душа нараспашку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_21",
+      "word": "Is Tom planning to go back to Boston?",
+      "translation": "Том планирует возвращаться в Бостон?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_22",
+      "word": "I'm going back inside.",
+      "translation": "Я возвращаюсь внутрь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_23",
+      "word": "Does Tom want me to call back?",
+      "translation": "Том хочет, чтобы я ему перезвонил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_24",
+      "word": "Go back to Boston.",
+      "translation": "Возвращайся в Бостон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_25",
+      "word": "Tom told me to go back to Boston.",
+      "translation": "Том сказал мне, чтобы я возвращался в Бостон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_26",
+      "word": "Tom got back into his car and drove away.",
+      "translation": "Том сел обратно в машину и уехал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_27",
+      "word": "Her face lit up.",
+      "translation": "Её лицо осветилось.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_28",
+      "word": "Tom cuts his own hair.",
+      "translation": "Том сам стрижёт себе волосы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_29",
+      "word": "Come back as soon as possible.",
+      "translation": "Возвращайся как можно скорее.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_30",
+      "word": "Tom held his hand out.",
+      "translation": "Том протянул руку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_31",
+      "word": "Tom is donating blood.",
+      "translation": "Том сдаёт кровь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_32",
+      "word": "Who is acting as head?",
+      "translation": "Кто стоит во главе?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_33",
+      "word": "Tom usually sits in the back pew.",
+      "translation": "Том обычно сидит на заднем сиденье.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_34",
+      "word": "Tom came back at 2:30.",
+      "translation": "Том вернулся полтретьего.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_35",
+      "word": "Tom has a tattoo of a skull on his chest.",
+      "translation": "У Тома на груди есть татуировка в виде черепа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_36",
+      "word": "I ran ahead to warn everybody.",
+      "translation": "Я побежал вперёд, чтобы всех предупредить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_37",
+      "word": "There's something in your hair.",
+      "translation": "У тебя что-то в волосах.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_38",
+      "word": "I know that Tom will be back soon.",
+      "translation": "Я знаю, что Том скоро вернётся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_39",
+      "word": "Tom kicked Mary in the stomach.",
+      "translation": "Том пнул Мэри в живот.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_40",
+      "word": "She has long hair.",
+      "translation": "У неё длинные волосы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_41",
+      "word": "The chest contained gold coins.",
+      "translation": "Сундук содержал в себе золотые монеты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_42",
+      "word": "I'll be back by six.",
+      "translation": "Я вернусь к шести.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_43",
+      "word": "The lovers were walking arm in arm.",
+      "translation": "Любовники прогуливались, взявшись за руки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_44",
+      "word": "We don't want to go back to Australia.",
+      "translation": "Мы не хотим возвращаться в Австралию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_45",
+      "word": "Its origin is unclear.",
+      "translation": "Его происхождение неясно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_46",
+      "word": "A pine cone fell on Tom's head.",
+      "translation": "Тому на голову упала сосновая шишка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_47",
+      "word": "He held out a helping hand to the poor.",
+      "translation": "Он протянул руку помощи бедным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_48",
+      "word": "He died of a heart attack on the stage.",
+      "translation": "Он умер от сердечного приступа на сцене.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_2_49",
+      "word": "We'd better get back before dark.",
+      "translation": "Нам лучше вернуться до наступления темноты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_0",
+      "word": "We're pulling back to a safe distance.",
+      "translation": "Мы отступаем на безопасное расстояние.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_1",
+      "word": "Did you know that Tom only had one leg?",
+      "translation": "Ты знал, что у Тома только одна нога?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_2",
+      "word": "Tom promised me he'd come back.",
+      "translation": "Том пообещал мне, что вернётся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_3",
+      "word": "Tom is back there.",
+      "translation": "Том вернулся туда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_4",
+      "word": "Wait here. I'll be right back.",
+      "translation": "Подожди здесь. Я сейчас.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_5",
+      "word": "He wanted to be respected by everybody.",
+      "translation": "Он хотел, чтобы все его уважали.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_6",
+      "word": "Nearly all Japanese have dark hair.",
+      "translation": "Почти у всех японцев тёмные волосы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_7",
+      "word": "Tom told Mary he'd be right back.",
+      "translation": "Том сказал Мэри, что сейчас вернётся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_8",
+      "word": "Tom is going to come back soon.",
+      "translation": "Том скоро вернётся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_9",
+      "word": "I dried my face.",
+      "translation": "Я вытер лицо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_10",
+      "word": "Tom has wavy hair.",
+      "translation": "У Тома волнистые волосы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_11",
+      "word": "Tom knows everybody.",
+      "translation": "Том знаком со всеми.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_12",
+      "word": "He's going to have a heart attack.",
+      "translation": "У него будет сердечный приступ.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_13",
+      "word": "I didn't tell anybody.",
+      "translation": "Я никому не говорил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_14",
+      "word": "I always keep three dictionaries at hand.",
+      "translation": "Я всегда держу под рукой три словаря.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_15",
+      "word": "The end is near.",
+      "translation": "Конец близок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_16",
+      "word": "An eye for an eye, a tooth for a tooth.",
+      "translation": "Око за око, зуб за зуб.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_17",
+      "word": "You need to take a step back.",
+      "translation": "Тебе нужно сделать шаг назад.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_18",
+      "word": "I will wait here until he comes back.",
+      "translation": "Я буду ждать здесь, пока он не вернётся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_19",
+      "word": "Raise your left arm.",
+      "translation": "Подними левую руку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_20",
+      "word": "I sleep on my stomach.",
+      "translation": "Я сплю на животе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_21",
+      "word": "There's something I want you to hear.",
+      "translation": "Хочу, чтобы ты кое-что услышал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_22",
+      "word": "Tom backed away, trembling with fear.",
+      "translation": "Том отступил, дрожа от страха.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_23",
+      "word": "I would like to speak to the head nurse.",
+      "translation": "Я хотел бы поговорить со старшей медсестрой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_24",
+      "word": "Tom grabbed my hand.",
+      "translation": "Том схватил меня за руку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_25",
+      "word": "Hold my hand.",
+      "translation": "Держи мою руку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_26",
+      "word": "The cause was unclear.",
+      "translation": "Причина была непонятна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_27",
+      "word": "Things are starting to get out of hand.",
+      "translation": "Всё начинает выходить из-под контроля.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_28",
+      "word": "Tom has dark hair.",
+      "translation": "У Тома тёмные волосы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_29",
+      "word": "Tom held out his hand.",
+      "translation": "Том протянул руку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_30",
+      "word": "I'd like you back on the team.",
+      "translation": "Я бы хотел, чтобы ты вернулся в команду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_31",
+      "word": "When did Tom come back from Australia?",
+      "translation": "Когда Том вернулся из Австралии?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_32",
+      "word": "Tom can't get his ring off his finger.",
+      "translation": "Том не может снять со своего пальца кольцо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_33",
+      "word": "I have a broken leg.",
+      "translation": "У меня нога сломана.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_34",
+      "word": "He sat in the chair.",
+      "translation": "Он сел в кресло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_35",
+      "word": "She had a sullen look on her face.",
+      "translation": "У нее было сердитое выражение лица.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_36",
+      "word": "She advised him to come back at once.",
+      "translation": "Она посоветовала ему немедленно вернуться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_37",
+      "word": "Tom is going to be back in a few minutes.",
+      "translation": "Том через несколько минут вернётся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_38",
+      "word": "I thought that you didn't need anybody.",
+      "translation": "Я думал, тебе никто не нужен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_39",
+      "word": "She's not coming back.",
+      "translation": "Она не вернётся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_40",
+      "word": "I was barefoot.",
+      "translation": "Я был босиком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_41",
+      "word": "Beauty is in the eye of the beholder.",
+      "translation": "Красота — в глазах смотрящего.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_42",
+      "word": "That's good to hear.",
+      "translation": "Приятно слышать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_43",
+      "word": "My back still hurts.",
+      "translation": "Спина у меня ещё болит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_44",
+      "word": "I've decided to go back to Boston.",
+      "translation": "Я решил вернуться в Бостон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_45",
+      "word": "I won't go back there.",
+      "translation": "Я туда не вернусь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_46",
+      "word": "Tom promised he wouldn't tell anybody.",
+      "translation": "Том пообещал, что никому не скажет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_47",
+      "word": "You need to talk to somebody.",
+      "translation": "Тебе нужно с кем-нибудь поговорить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_48",
+      "word": "I'm a redneck.",
+      "translation": "Я реднек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_3_49",
+      "word": "My left eye is bad.",
+      "translation": "У меня левый глаз плохо видит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_0",
+      "word": "My index finger hurts.",
+      "translation": "У меня болит указательный палец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_1",
+      "word": "You can see it with the naked eye.",
+      "translation": "Это видно невооружённым глазом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_2",
+      "word": "Tom burned his hand.",
+      "translation": "Том обжёг руку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_3",
+      "word": "Mary often wears her hair in a bun.",
+      "translation": "Мэри часто убирает волосы в пучок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_4",
+      "word": "Tom had long hair.",
+      "translation": "У Тома были длинные волосы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_5",
+      "word": "Hand me that hammer.",
+      "translation": "Подай мне тот молоток.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_6",
+      "word": "I should head out.",
+      "translation": "Мне пора идти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_7",
+      "word": "A dog's nose is very sensitive.",
+      "translation": "Нос собаки очень чувствителен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_8",
+      "word": "The little girl is sucking her finger.",
+      "translation": "Маленькая девочка сосёт палец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_9",
+      "word": "I took Tom's hand.",
+      "translation": "Я взял Тома за руку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_10",
+      "word": "Tom washed his face.",
+      "translation": "Том вымыл лицо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_11",
+      "word": "Tom hates everybody.",
+      "translation": "Том всех ненавидит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_12",
+      "word": "Tom pressed an ice pack to his head.",
+      "translation": "Том приложил к голове пакет со льдом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_13",
+      "word": "Why are you back?",
+      "translation": "Зачем вы вернулись?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_14",
+      "word": "I'll probably be gone before you get back.",
+      "translation": "Возможно, я уйду раньше, чем ты вернёшься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_15",
+      "word": "My neck still hurts.",
+      "translation": "Шея у меня ещё болит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_16",
+      "word": "Come on back here.",
+      "translation": "Вернись сюда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_17",
+      "word": "Give me back my gun.",
+      "translation": "Верни мне мой пистолет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_18",
+      "word": "Tom has curly hair.",
+      "translation": "У Тома кудрявые волосы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_19",
+      "word": "The man took my arm.",
+      "translation": "Человек взял меня за руку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_20",
+      "word": "Comb your hair.",
+      "translation": "Причешись.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_21",
+      "word": "He has the habit of scratching his head.",
+      "translation": "У него есть привычка чесать голову.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_22",
+      "word": "The patient fainted at the sight of blood.",
+      "translation": "Пациент упал в обморок при виде крови.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_23",
+      "word": "I don't dye my hair.",
+      "translation": "Я не крашу волосы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_24",
+      "word": "I had brown hair before it turned gray.",
+      "translation": "У меня были каштановые волосы, до того как я поседел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_25",
+      "word": "When do you plan to come back?",
+      "translation": "Когда ты планируешь вернуться?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_26",
+      "word": "Vultures circled above the dead body.",
+      "translation": "Стервятники кружились над мёртвым телом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_27",
+      "word": "I don't know how to be more clear.",
+      "translation": "Я не знаю, как выразиться яснее.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_28",
+      "word": "Your hair is longer than mine.",
+      "translation": "У тебя волосы длиннее, чем у меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_29",
+      "word": "She slapped his face.",
+      "translation": "Она дала ему пощёчину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_30",
+      "word": "You should get your hair cut.",
+      "translation": "Тебе нужно постричься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_31",
+      "word": "What's going on in Tom's head?",
+      "translation": "Что у Тома в голове происходит?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_32",
+      "word": "Tell Tom that I'll call back later.",
+      "translation": "Скажи Тому, что я позже перезвоню.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_33",
+      "word": "Tom lied to my face.",
+      "translation": "Том врал мне в лицо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_34",
+      "word": "Tom pointed his finger at Mary.",
+      "translation": "Фома указал пальцем на Машу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_35",
+      "word": "I'm fed up with everything and everybody.",
+      "translation": "Мне надоело всё и все.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_36",
+      "word": "It won't be long before Tom comes back.",
+      "translation": "Том совсем скоро вернётся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_37",
+      "word": "Why did Tom come back?",
+      "translation": "Почему Том вернулся?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_38",
+      "word": "Just brush your hair.",
+      "translation": "Просто причешись.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_39",
+      "word": "We've got to get back.",
+      "translation": "Мы должны вернуться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_40",
+      "word": "Tom is losing blood.",
+      "translation": "Том теряет кровь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_41",
+      "word": "Someone tapped me on the shoulder.",
+      "translation": "Кто-то похлопал меня по плечу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_42",
+      "word": "Tom knows I'm not afraid of anybody.",
+      "translation": "Том знает, что я никого не боюсь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_43",
+      "word": "He meant no harm.",
+      "translation": "Он не хотел никого обидеть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_44",
+      "word": "I shook my head.",
+      "translation": "Я потряс головой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_45",
+      "word": "Tom put his finger on his lips.",
+      "translation": "Том приложил палец к губам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_46",
+      "word": "I'll call back later.",
+      "translation": "Я перезвоню.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_47",
+      "word": "Tom is back early.",
+      "translation": "Том рано вернулся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_48",
+      "word": "Tom has made his position clear.",
+      "translation": "Том чётко обозначил свою позицию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_4_49",
+      "word": "I'm glad to be back.",
+      "translation": "Я рад, что вернулся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_0",
+      "word": "The couple was walking arm in arm.",
+      "translation": "Пара шла рука об руку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_1",
+      "word": "Tom hated everybody.",
+      "translation": "Том всех ненавидел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_2",
+      "word": "Tom smiled at Mary, and she smiled back.",
+      "translation": "Том улыбнулся Мэри, и она улыбнулась в ответ.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_3",
+      "word": "Push all the desks back against the walls.",
+      "translation": "Отодвиньте все столы к стенам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_4",
+      "word": "Promise me you won't tell anybody.",
+      "translation": "Обещай, что никому не расскажешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_5",
+      "word": "There are many bones in your body.",
+      "translation": "В вашем теле много костей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_6",
+      "word": "The evidence is clear.",
+      "translation": "Доказательства очевидны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_7",
+      "word": "I put my hand on his shoulder.",
+      "translation": "Я положил руку ему на плечо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_8",
+      "word": "My neck hurts.",
+      "translation": "У меня шея болит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_9",
+      "word": "Tom kissed Mary on the tip of her nose.",
+      "translation": "Том поцеловал Мэри в кончик носа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_10",
+      "word": "I cut Tom's hair.",
+      "translation": "Я постриг Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_11",
+      "word": "Tom thought he had outsmarted everybody.",
+      "translation": "Том думал, что всех перехитрил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_12",
+      "word": "Can I call you back?",
+      "translation": "Можно я тебе перезвоню?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_13",
+      "word": "That cut on your arm looks pretty serious.",
+      "translation": "Этот твой порез на руке выглядит довольно серьёзно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_14",
+      "word": "Mary pulled her hair into a ponytail.",
+      "translation": "Мэри убрала волосы в хвост.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_15",
+      "word": "Tom told me that he'd be right back.",
+      "translation": "Том сказал мне, что скоро вернётся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_16",
+      "word": "I'm glad you're back.",
+      "translation": "Я рад, что вы вернулись.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_17",
+      "word": "Tell Tom he should go back to Boston.",
+      "translation": "Скажи Тому, что ему следует вернуться в Бостон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_18",
+      "word": "Tom wiped the sweat from his forehead.",
+      "translation": "Том вытер пот со лба.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_19",
+      "word": "Open your mouth and stick out your tongue.",
+      "translation": "Откройте рот, высуньте язык.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_20",
+      "word": "I shot a bear.",
+      "translation": "Я застрелила медведя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_21",
+      "word": "I winked back.",
+      "translation": "Я подмигнул в ответ.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_22",
+      "word": "Blood poured from the cut vein.",
+      "translation": "Кровь лилась из порезанной вены.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_23",
+      "word": "I have a runny nose.",
+      "translation": "У меня насморк.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_24",
+      "word": "I stayed back.",
+      "translation": "Я остался.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_25",
+      "word": "You made that clear.",
+      "translation": "Ты ясно дал это понять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_26",
+      "word": "I never went back.",
+      "translation": "Я так и не вернулся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_27",
+      "word": "I'm eating a pear.",
+      "translation": "Я ем грушу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_28",
+      "word": "My heart was broken.",
+      "translation": "Моё сердце было разбито.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_29",
+      "word": "I know your face.",
+      "translation": "Я знаю твоё лицо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_30",
+      "word": "I grew up on a farm.",
+      "translation": "Я вырос на ферме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_31",
+      "word": "She has dry hair.",
+      "translation": "У неё сухие волосы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_32",
+      "word": "OK then, I'll get out of your hair.",
+      "translation": "Ну ладно, не буду вам мешать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_33",
+      "word": "Let's sit in the back.",
+      "translation": "Давай сядем сзади.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_34",
+      "word": "Tom crushed the box with his foot.",
+      "translation": "Том раздавил коробку ногой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_35",
+      "word": "Is Tom back?",
+      "translation": "Том вернулся?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_36",
+      "word": "Tom crossed his fingers behind his back.",
+      "translation": "Том скрестил за спиной пальцы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_37",
+      "word": "Get back to the ship.",
+      "translation": "Возвращайтесь на корабль.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_38",
+      "word": "The blood on the road must be mine.",
+      "translation": "Кровь на улице, должно быть, моя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_39",
+      "word": "Use your charm.",
+      "translation": "Используй своё обаяние.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_40",
+      "word": "Tom paid Mary back.",
+      "translation": "Том отомстил Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_41",
+      "word": "Keep your mouth shut.",
+      "translation": "Молчи!",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_42",
+      "word": "She shaved her head.",
+      "translation": "Она побрила голову.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_43",
+      "word": "Will you still be here when I come back?",
+      "translation": "Ты ещё будешь здесь, когда я вернусь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_44",
+      "word": "Tom covered his mouth when he sneezed.",
+      "translation": "Том, чихая, прикрыл рот рукой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_45",
+      "word": "Mary's hair is naturally curly.",
+      "translation": "У Мэри волосы от природы вьются.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_46",
+      "word": "Tom gestured Mary to go ahead.",
+      "translation": "Том жестом показал Мэри идти вперед.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_47",
+      "word": "I raised my hand.",
+      "translation": "Я поднял руку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_48",
+      "word": "I'm going back.",
+      "translation": "Я возвращаюсь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_5_49",
+      "word": "I have very long hair.",
+      "translation": "У меня очень длинные волосы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_0",
+      "word": "She has an absent look on her face.",
+      "translation": "На её лице отсутствующий взгляд.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_1",
+      "word": "I don't want you to tell this to anybody.",
+      "translation": "Я не хочу, чтобы ты кому-нибудь об этом рассказывал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_2",
+      "word": "Tom won't call back.",
+      "translation": "Том не перезвонит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_3",
+      "word": "You have to go back to Australia.",
+      "translation": "Тебе надо вернуться в Австралию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_4",
+      "word": "Tom doesn't plan to go back there again.",
+      "translation": "Том не планирует туда больше возвращаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_5",
+      "word": "We just want Tom back.",
+      "translation": "Мы лишь хотим, чтобы Том вернулся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_6",
+      "word": "Tom braided my hair.",
+      "translation": "Том заплёл мне волосы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_7",
+      "word": "Tom has long hair and wears glasses.",
+      "translation": "У Тома длинные волосы, и он носит очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_8",
+      "word": "Now give it back.",
+      "translation": "Теперь верни его обратно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_9",
+      "word": "When did Tom get back?",
+      "translation": "Когда Том вернулся?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_10",
+      "word": "Hey, watch your mouth.",
+      "translation": "Эй, следи за выражениями.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_11",
+      "word": "I bought a new chair.",
+      "translation": "Я купил новый стул.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_12",
+      "word": "It isn't at all clear.",
+      "translation": "Это совсем не ясно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_13",
+      "word": "My grandfather never dyed his hair.",
+      "translation": "Мой дед никогда не красил волосы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_14",
+      "word": "We don't want to come back anyway.",
+      "translation": "Мы в любом случае не хотим возвращаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_15",
+      "word": "Tom should come back to Boston.",
+      "translation": "Тому надо бы вернуться в Бостон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_16",
+      "word": "She greeted him waving her hand.",
+      "translation": "Она поприветствовала его взмахом руки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_17",
+      "word": "Tom had his left leg amputated.",
+      "translation": "Тому ампутировали левую ногу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_18",
+      "word": "My whole body is sore.",
+      "translation": "У меня болит всё тело.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_19",
+      "word": "Tom needs to go back to Boston.",
+      "translation": "Тому нужно возвращаться в Бостон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_20",
+      "word": "Your arm had to be amputated.",
+      "translation": "Руку Вам пришлось ампутировать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_21",
+      "word": "They were barefoot.",
+      "translation": "Они были босые.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_22",
+      "word": "You're right, dear.",
+      "translation": "Ты права, дорогая.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_23",
+      "word": "Tom's leg is bleeding.",
+      "translation": "У Тома идёт кровь из ноги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_24",
+      "word": "I won't be back soon.",
+      "translation": "Я нескоро вернусь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_25",
+      "word": "This was Tom's chair.",
+      "translation": "Это был стул Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_26",
+      "word": "My whole body hurts.",
+      "translation": "У меня болит всё тело.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_27",
+      "word": "Did you know that Tom is blind in one eye?",
+      "translation": "Ты знал, что у Тома один глаз не видит?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_28",
+      "word": "Hand it to me.",
+      "translation": "Передай её мне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_29",
+      "word": "I'm not going to hold your hand.",
+      "translation": "Я не буду держать тебя за руку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_30",
+      "word": "She touched him on the shoulder.",
+      "translation": "Она тронула его за плечо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_31",
+      "word": "Keep your eye on Tom.",
+      "translation": "Присматривайте за Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_32",
+      "word": "Tom will be back in three hours.",
+      "translation": "Том вернётся через три часа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_33",
+      "word": "He brought me back in his car.",
+      "translation": "Он привёз меня обратно на своей машине.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_34",
+      "word": "I want a chair.",
+      "translation": "Мне нужен стул.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_35",
+      "word": "There's no going back.",
+      "translation": "Пути назад нет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_36",
+      "word": "She drew back when she saw a snake.",
+      "translation": "Увидев змею, она попятилась назад.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_37",
+      "word": "Put your back into it.",
+      "translation": "Поработай как следует.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_38",
+      "word": "Tom heard a helicopter overhead.",
+      "translation": "Том услышал над головой вертолёт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_39",
+      "word": "She accepted his hand in marriage.",
+      "translation": "Она приняла его предложение руки и сердца.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_40",
+      "word": "Tom is back to normal.",
+      "translation": "Том вернулся к нормальной жизни.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_41",
+      "word": "My mouth is dry.",
+      "translation": "У меня сухо во рту.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_42",
+      "word": "Hey, where is everybody?",
+      "translation": "Эй, где все?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_43",
+      "word": "I thought you liked everybody.",
+      "translation": "Я думал, вам все нравятся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_44",
+      "word": "Blood is red.",
+      "translation": "Кровь красная.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_45",
+      "word": "Tom usually sits in the back.",
+      "translation": "Том обычно сидит на заднем сиденье.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_46",
+      "word": "You're back early.",
+      "translation": "Ты рано вернулся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_47",
+      "word": "The stars were beginning to appear.",
+      "translation": "Звёзды начали появляться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_48",
+      "word": "We've come to the heart of the problem.",
+      "translation": "Мы подошли к самой сути проблемы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_6_49",
+      "word": "Tom was stabbed twice in the back.",
+      "translation": "Тому был дважды нанесён удар ножом в спину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_0",
+      "word": "Use your head.",
+      "translation": "Пошевели мозгами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_1",
+      "word": "Did Tom say when he'd be back?",
+      "translation": "Том сказал, когда вернётся?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_2",
+      "word": "I burned my hand.",
+      "translation": "Я обжёг руку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_3",
+      "word": "Tom has shoulder-length hair.",
+      "translation": "У Тома волосы до плеч.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_4",
+      "word": "I think that Tom will be back.",
+      "translation": "Я думаю, Том вернётся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_5",
+      "word": "Tom rinsed his mouth.",
+      "translation": "Том прополоскал рот.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_6",
+      "word": "Tom thought that Mary would be back soon.",
+      "translation": "Том думал, что Мэри скоро вернётся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_7",
+      "word": "I hope I never have to go back to Boston.",
+      "translation": "Надеюсь, мне уже не придётся возвращаться в Бостон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_8",
+      "word": "Perhaps I didn't make myself clear.",
+      "translation": "Возможно, я неясно выразился.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_9",
+      "word": "The news made my hair stand on end.",
+      "translation": "От новостей у меня волосы дыбом встали.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_10",
+      "word": "Every muscle in my body aches.",
+      "translation": "У меня болит каждый мускул моего тела.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_11",
+      "word": "Things are getting back to normal.",
+      "translation": "Всё возвращается в нормальное русло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_12",
+      "word": "She fell down and broke her left leg.",
+      "translation": "Она упала и сломала левую ногу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_13",
+      "word": "Do you know when Tom will be back?",
+      "translation": "Вы знаете, когда Том вернётся?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_14",
+      "word": "When are you guys coming back?",
+      "translation": "Вы когда возвращаетесь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_15",
+      "word": "Tom put his hand over Mary's.",
+      "translation": "Том положил свою руку на руку Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_16",
+      "word": "Tom walked back to his seat and sat down.",
+      "translation": "Том вернулся на своё место и сел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_17",
+      "word": "Come on back.",
+      "translation": "Возвращайся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_18",
+      "word": "Tom wasn't expecting anybody.",
+      "translation": "Том не ожидал никого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_19",
+      "word": "Don't back down.",
+      "translation": "Не уступай.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_20",
+      "word": "Go back inside.",
+      "translation": "Иди обратно внутрь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_21",
+      "word": "I'll tell you everything when I get back.",
+      "translation": "Я тебе всё расскажу, когда вернусь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_22",
+      "word": "We need to go back to Boston.",
+      "translation": "Нам нужно вернуться в Бостон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_23",
+      "word": "I'm glad you got back.",
+      "translation": "Я рад, что вы вернулись.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_24",
+      "word": "Tom would fight back.",
+      "translation": "Том дал бы сдачи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_25",
+      "word": "It's not blood.",
+      "translation": "Это не кровь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_26",
+      "word": "I've seen that face somewhere before.",
+      "translation": "Я где-то уже видел это лицо раньше.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_27",
+      "word": "Tom shot himself in the foot.",
+      "translation": "Том выстрелил себе в ногу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_28",
+      "word": "Tom is sticking his neck out.",
+      "translation": "Том выпячивает шею.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_29",
+      "word": "I'll call back soon.",
+      "translation": "Я скоро перезвоню.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_30",
+      "word": "I sure hope that Tom will come back soon.",
+      "translation": "Очень надеюсь, что Том скоро вернётся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_31",
+      "word": "He held out his hand and I took it.",
+      "translation": "Он протянул руку, и я схватил её.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_32",
+      "word": "Does Tom need a hand?",
+      "translation": "Тому нужна помощь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_33",
+      "word": "Tom stomped his foot angrily.",
+      "translation": "Том сердито топнул ногой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_34",
+      "word": "Tom could've killed somebody.",
+      "translation": "Том мог кого-нибудь убить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_35",
+      "word": "Let's go back to Tom.",
+      "translation": "Давай вернёмся к Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_36",
+      "word": "Tom thinks his leg is broken.",
+      "translation": "Том думает, что его нога сломана.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_37",
+      "word": "Let those who have ears hear.",
+      "translation": "Имеющие уши да услышат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_38",
+      "word": "I usually go on foot.",
+      "translation": "Обычно я иду пешком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_39",
+      "word": "I'll never come back.",
+      "translation": "Я никогда не вернусь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_40",
+      "word": "Tom's mouth went dry.",
+      "translation": "У Тома пересохло во рту.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_41",
+      "word": "My back is a little sore.",
+      "translation": "У меня спина побаливает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_42",
+      "word": "Tom smiled back.",
+      "translation": "Том улыбнулся в ответ.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_43",
+      "word": "If only Tom would keep his big mouth shut!",
+      "translation": "Если бы только Том держал свой рот закрытым!",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_44",
+      "word": "Horses can sense fear.",
+      "translation": "Лошади способны чувствовать страх.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_45",
+      "word": "Is your hair naturally curly?",
+      "translation": "У тебя волосы от природы вьются?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_46",
+      "word": "My heart just sank.",
+      "translation": "Я просто упал духом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_47",
+      "word": "There is an urgent need for blood donors.",
+      "translation": "Срочно нужны доноры крови.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_48",
+      "word": "This isn't an apple. It's a pear.",
+      "translation": "Это не яблоко. Это груша.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_7_49",
+      "word": "He has blond hair.",
+      "translation": "У него светлые волосы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_0",
+      "word": "My leg hurts now.",
+      "translation": "У меня сейчас нога болит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_1",
+      "word": "I hope that I don't have to shoot anybody.",
+      "translation": "Надеюсь, мне не придётся ни в кого стрелять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_2",
+      "word": "Tom will be back for you.",
+      "translation": "Том за тобой вернётся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_3",
+      "word": "You should go back to Boston.",
+      "translation": "Тебе надо вернуться в Бостон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_4",
+      "word": "I think that we should go back to Boston.",
+      "translation": "Думаю, нам следует вернуться в Бостон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_5",
+      "word": "Tom put his seatbelt back on.",
+      "translation": "Том снова пристегнулся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_6",
+      "word": "Would you like to have your hair washed?",
+      "translation": "Голову мыть будем?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_7",
+      "word": "Tom came at me with a knife in his hand.",
+      "translation": "Том подошёл ко мне с ножом в руке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_8",
+      "word": "Come nearer so that I can see your face.",
+      "translation": "Подойди ближе, чтобы я мог увидеть твоё лицо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_9",
+      "word": "I'll be back at seven o'clock.",
+      "translation": "Вернусь в семь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_10",
+      "word": "Put your arm down.",
+      "translation": "Опустите руку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_11",
+      "word": "I told Tom I wouldn't tell anybody.",
+      "translation": "Я сказал Тому, что никому не расскажу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_12",
+      "word": "Tom gave Mary a kiss on the mouth.",
+      "translation": "Том поцеловал Мэри в губы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_13",
+      "word": "There was blood on Tom's pillow.",
+      "translation": "На подушке Тома была кровь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_14",
+      "word": "Tom will never go back there.",
+      "translation": "Том никогда туда больше не вернётся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_15",
+      "word": "I want to get back to Boston.",
+      "translation": "Я хочу вернуться в Бостон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_16",
+      "word": "Tom waved his hand and smiled.",
+      "translation": "Том помахал рукой и улыбнулся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_17",
+      "word": "I kissed Mary and she kissed me back.",
+      "translation": "Я поцеловал Мэри, и она поцеловала меня в ответ.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_18",
+      "word": "I had heart surgery.",
+      "translation": "Мне сделали операцию на сердце.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_19",
+      "word": "Who took my chair?",
+      "translation": "Кто забрал мой стул?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_20",
+      "word": "There was blood all over the floor.",
+      "translation": "Весь пол был в крови.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_21",
+      "word": "Why is your mouth so big?",
+      "translation": "Почему у тебя такой большой рот?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_22",
+      "word": "I went back to sleep.",
+      "translation": "Я снова заснул.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_23",
+      "word": "You have blood on your hands.",
+      "translation": "На твоих руках кровь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_24",
+      "word": "You can't believe everything you hear.",
+      "translation": "Нельзя верить во всё, что слышишь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_25",
+      "word": "I put the newspapers near the armchair.",
+      "translation": "Я положил газеты возле кресла.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_26",
+      "word": "Back away from Tom.",
+      "translation": "Отойдите от Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_27",
+      "word": "Tom should be back before 2:30.",
+      "translation": "Том должен вернуться до половины третьего.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_28",
+      "word": "I fell down the stairs and hit my head.",
+      "translation": "Я упал с лестницы и ударился головой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_29",
+      "word": "I still prefer to write letters by hand.",
+      "translation": "Я до сих пор предпочитаю писать письма от руки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_30",
+      "word": "Tom had long hair when I first met him.",
+      "translation": "У Тома были длинные волосы, когда я впервые увидел его.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_31",
+      "word": "I was unable to look her in the face.",
+      "translation": "Я не мог посмотреть ей в лицо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_32",
+      "word": "Tom will give you a hand.",
+      "translation": "Том вам поможет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_33",
+      "word": "I burned my hand with an iron.",
+      "translation": "Я обожгла руку утюгом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_34",
+      "word": "Tom brushed his teeth and washed his face.",
+      "translation": "Том почистил зубы и помыл лицо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_35",
+      "word": "I laughed so much my stomach hurts.",
+      "translation": "Я так смеялся, что у меня живот болит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_36",
+      "word": "Tom has a stiff neck.",
+      "translation": "У Тома затекла шея.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_37",
+      "word": "What do you hear?",
+      "translation": "Что вы слышите?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_38",
+      "word": "My sister's hair reaches to her shoulders.",
+      "translation": "У моей сестры волосы до плеч.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_39",
+      "word": "Tom's mouth was full.",
+      "translation": "Рот Тома был набит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_40",
+      "word": "Tom rocked back and forth in his chair.",
+      "translation": "Том раскачивался взад-вперёд на стуле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_41",
+      "word": "If you're busy now, I can come back later.",
+      "translation": "Если вы сейчас заняты, я могу вернуться чуть позже.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_42",
+      "word": "I'll never set foot in this town again.",
+      "translation": "Ноги моей никогда больше не будет в этом городе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_43",
+      "word": "I'm sure Tom will be back.",
+      "translation": "Уверен, что Том вернётся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_44",
+      "word": "Tom punched Mary in the stomach.",
+      "translation": "Том ударил Мэри в живот.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_45",
+      "word": "Tom had a paintbrush in his hand.",
+      "translation": "У Тома в руке была кисть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_46",
+      "word": "My left hand is numb.",
+      "translation": "У меня левая рука онемела.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_47",
+      "word": "Tom will come back.",
+      "translation": "Том вернётся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_48",
+      "word": "I knew that Tom would be back.",
+      "translation": "Я знал, что Том вернётся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_8_49",
+      "word": "I didn't mean to step on your foot.",
+      "translation": "Я не нарочно тебе на ногу наступил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_0",
+      "word": "Tom will be back on his feet soon.",
+      "translation": "Том скоро опять будет на ногах.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_1",
+      "word": "Tom plans to go back to Boston.",
+      "translation": "Том планирует вернуться в Бостон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_2",
+      "word": "Tom whispered something in Mary's ear.",
+      "translation": "Том что-то прошептал на ушко Марии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_3",
+      "word": "Don't poke the bear.",
+      "translation": "Не трогай медведя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_4",
+      "word": "Did you take Tom's blood pressure?",
+      "translation": "Вы измерили Тому давление?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_5",
+      "word": "Tom will be back in about three hours.",
+      "translation": "Том вернётся часа через три.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_6",
+      "word": "Inhale through your nose.",
+      "translation": "Вдохни носом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_7",
+      "word": "You know everybody.",
+      "translation": "Ты всех знаешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_8",
+      "word": "Tom lives from hand to mouth.",
+      "translation": "Том живёт впроголодь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_9",
+      "word": "I'll give them back.",
+      "translation": "Я их верну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_10",
+      "word": "It is very near.",
+      "translation": "Это очень близко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_11",
+      "word": "Tom gave me back my dictionary.",
+      "translation": "Том вернул мне мой словарь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_12",
+      "word": "These pictures bring back bad memories.",
+      "translation": "Эти фотографии вызывают плохие воспоминания.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_13",
+      "word": "Tom has injured his shoulder.",
+      "translation": "Том повредил плечо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_14",
+      "word": "There's something on your neck.",
+      "translation": "На твоей шее что-то есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_15",
+      "word": "I had to go back to Boston without Tom.",
+      "translation": "Мне пришлось возвращаться в Бостон без Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_16",
+      "word": "Tom covered his mouth.",
+      "translation": "Том прикрыл рот.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_17",
+      "word": "Tom has a scar on his forehead.",
+      "translation": "У Тома на лбу шрам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_18",
+      "word": "Tom's got a really big mouth.",
+      "translation": "Том тот еще болтун.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_19",
+      "word": "His wounded leg began to bleed again.",
+      "translation": "Его раненая нога снова начала кровоточить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_20",
+      "word": "Tom will sit in the back.",
+      "translation": "Том будет сидеть сзади.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_21",
+      "word": "I'll be back at six.",
+      "translation": "Вернусь в шесть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_22",
+      "word": "Tom has left, but he'll be back.",
+      "translation": "Том ушёл, но он вернётся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_23",
+      "word": "Why hasn't Tom come back yet?",
+      "translation": "Почему Том ещё не вернулся?",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_24",
+      "word": "I think I've broken my leg.",
+      "translation": "Я, кажется, ногу сломал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_25",
+      "word": "The instructions weren't clear.",
+      "translation": "Инструкции были непонятные.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_26",
+      "word": "Tom has a good head on his shoulders.",
+      "translation": "У Тома есть голова на плечах.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_27",
+      "word": "He was paralyzed by fear.",
+      "translation": "Он был парализован страхом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_28",
+      "word": "Tom hit his head on the roof of the car.",
+      "translation": "Том ударился головой о потолок машины.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_29",
+      "word": "You have to come back in 30 minutes.",
+      "translation": "Ты должен вернуться через тридцать минут.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_30",
+      "word": "I tried to get back to sleep.",
+      "translation": "Я попытался снова заснуть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_31",
+      "word": "My foot fell asleep.",
+      "translation": "У меня нога затекла.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_32",
+      "word": "Tom has come back.",
+      "translation": "Том вернулся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_33",
+      "word": "Tom wants to sit in the back.",
+      "translation": "Том хочет сидеть сзади.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_34",
+      "word": "I want to know what Tom's blood type is.",
+      "translation": "Я хочу узнать, какая у Тома группа крови.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_35",
+      "word": "I want my desk back.",
+      "translation": "Я хочу, чтобы мне вернули мой стол.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_36",
+      "word": "She took me by the hand.",
+      "translation": "Она взяла меня за руку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_37",
+      "word": "Tom never wins at tic-tac-toe.",
+      "translation": "Том никогда не выигрывает в крестики-нолики.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_38",
+      "word": "I know that you're going to come back.",
+      "translation": "Я знаю, что ты вернёшься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_39",
+      "word": "Tom lowered his head.",
+      "translation": "Том опустил голову.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_40",
+      "word": "Tom pressed his face against the window.",
+      "translation": "Том прижался лицом к окну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_41",
+      "word": "Tom just came back from there.",
+      "translation": "Том только оттуда вернулся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_42",
+      "word": "He broke his leg skiing.",
+      "translation": "Он сломал себе ногу, катаясь на лыжах.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_43",
+      "word": "My right hand is numb.",
+      "translation": "Моя правая рука онемела.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_44",
+      "word": "Tom's face lit up with joy.",
+      "translation": "Лицо Тома осветилось радостью.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_45",
+      "word": "I'm brushing my hair.",
+      "translation": "Я расчёсываю свои волосы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_46",
+      "word": "Tom refused to shake my hand.",
+      "translation": "Том отказался пожать мне руку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_47",
+      "word": "Tom felt Mary's forehead.",
+      "translation": "Том пощупал лоб Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_48",
+      "word": "Tom's face was all black and blue.",
+      "translation": "Лицо Тома было всё в синяках.",
+      "language": "en"
+    },
+    {
+      "id": "pb_bodyparts_9_49",
+      "word": "Tom broke his arm, not his leg.",
+      "translation": "Том руку сломал, а не ногу.",
+      "language": "en"
+    }
+  ]
+}

@@ -1,0 +1,721 @@
+{
+  "id": "phrasebook-moviescinema",
+  "name": "Movies & Cinema",
+  "description": "Phrasebook for Movies & Cinema",
+  "entries": [
+    {
+      "id": "pb_moviescinema_0_0",
+      "word": "I'm going to the theater.",
+      "translation": "Я иду в театр.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_1",
+      "word": "Has any action been taken on my case?",
+      "translation": "Было что-нибудь предпринято по моему делу?",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_2",
+      "word": "I'm a director.",
+      "translation": "Я режиссёр.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_3",
+      "word": "This is obscene.",
+      "translation": "Это неприлично.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_4",
+      "word": "Our director is a Canadian.",
+      "translation": "Наш директор - канадец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_5",
+      "word": "Where did he see action?",
+      "translation": "В каких боях он участвовал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_6",
+      "word": "It's an old manuscript.",
+      "translation": "Это старинная рукопись.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_7",
+      "word": "It's a normal human reaction.",
+      "translation": "Это нормальная человеческая реакция.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_8",
+      "word": "There's more talk than action.",
+      "translation": "Слов больше, чем действий.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_9",
+      "word": "Tom is a man of action.",
+      "translation": "Том — человек действия.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_10",
+      "word": "I didn't want to make a scene.",
+      "translation": "Я не хотел устраивать сцену.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_11",
+      "word": "Don't make a scene in public.",
+      "translation": "Не устраивай публичных сцен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_12",
+      "word": "Where's the director?",
+      "translation": "Где директор?",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_13",
+      "word": "Tom majored in drama.",
+      "translation": "Том специализировался в драматургии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_14",
+      "word": "It started a chain reaction.",
+      "translation": "Это вызвало цепную реакцию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_15",
+      "word": "She made a scene.",
+      "translation": "Она устроила сцену.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_16",
+      "word": "Tom made a scene.",
+      "translation": "Том устроил сцену.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_17",
+      "word": "I'm making a documentary.",
+      "translation": "Я снимаю документальный фильм.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_18",
+      "word": "It was an overreaction.",
+      "translation": "Это было слишком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_19",
+      "word": "Let's go to the theater.",
+      "translation": "Пойдём в театр.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_20",
+      "word": "Everybody froze in horror.",
+      "translation": "Все замерли от ужаса.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_21",
+      "word": "Don't make a scene.",
+      "translation": "Не устраивайте сцены.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_22",
+      "word": "I demand satisfaction.",
+      "translation": "Я требую компенсации.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_23",
+      "word": "I watched a documentary.",
+      "translation": "Я смотрел документальный фильм.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_24",
+      "word": "I became a director.",
+      "translation": "Я стал директором.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_25",
+      "word": "That wasn't in the script.",
+      "translation": "Этого не было в сценарии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_26",
+      "word": "Tom froze in horror.",
+      "translation": "Том заледенел от ужаса.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_27",
+      "word": "He proofread my manuscript.",
+      "translation": "Он вычитал мою рукопись.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_28",
+      "word": "Popcorn is my favorite snack.",
+      "translation": "Попкорн - мой любимый перекус.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_29",
+      "word": "What was Tom's reaction?",
+      "translation": "Как Том отреагировал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_30",
+      "word": "I was at the theater.",
+      "translation": "Я был в театре.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_31",
+      "word": "I'm watching a documentary.",
+      "translation": "Я смотрю документальный фильм.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_32",
+      "word": "Tom watched in horror.",
+      "translation": "Том в ужасе наблюдал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_33",
+      "word": "He is a man of action.",
+      "translation": "Он - человек действия.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_34",
+      "word": "I watched an American drama.",
+      "translation": "Я смотрел американскую драму.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_35",
+      "word": "We're going to the theater.",
+      "translation": "Мы идём в театр.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_36",
+      "word": "Everyone froze in horror.",
+      "translation": "Все замерли от ужаса.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_37",
+      "word": "The theater was too crowded.",
+      "translation": "В театре было слишком много народа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_38",
+      "word": "I was watching a documentary.",
+      "translation": "Я смотрел документальный фильм.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_39",
+      "word": "We were at the theater.",
+      "translation": "Мы были в театре.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_40",
+      "word": "It is an old manuscript.",
+      "translation": "Это старая рукопись.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_41",
+      "word": "The scene was quite touching.",
+      "translation": "Сцена была довольно трогательная.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_42",
+      "word": "Tom proofread my manuscript.",
+      "translation": "Том вычитал мою рукопись.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_43",
+      "word": "I had a similar reaction.",
+      "translation": "У меня была похожая реакция.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_44",
+      "word": "He loves going to the theater.",
+      "translation": "Он обожает ходить в театр.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_45",
+      "word": "We'll meet in the theater.",
+      "translation": "Увидимся в театре.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_46",
+      "word": "They were ready for action.",
+      "translation": "Они были готовы действовать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_47",
+      "word": "There was a crowd of people at the entrance of the theater.",
+      "translation": "У входа в театр толпились люди.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_48",
+      "word": "His prompt action prevented an epidemic.",
+      "translation": "Его оперативные действия предотвратили эпидемию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_0_49",
+      "word": "We go to the theater on Mondays or Thursdays.",
+      "translation": "Мы ходим в театр по понедельникам или четвергам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_0",
+      "word": "Tom often watches horror movies.",
+      "translation": "Том часто смотрит фильмы ужасов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_1",
+      "word": "Instead of fretting, take action.",
+      "translation": "Вместо того чтобы переживать, действуй.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_2",
+      "word": "His plan was put into action.",
+      "translation": "Его план был приведён в действие.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_3",
+      "word": "This is our director.",
+      "translation": "Это наш директор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_4",
+      "word": "Tom quickly scanned the manuscript.",
+      "translation": "Том быстро отсканировал рукопись.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_5",
+      "word": "I went to the theater to see a modern drama.",
+      "translation": "Я пошел в театр, чтобы посмотреть современную драму.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_6",
+      "word": "I liked the documentary.",
+      "translation": "Документальный фильм мне понравился.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_7",
+      "word": "He described the scene in detail.",
+      "translation": "Он описал сцену в деталях.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_8",
+      "word": "Tom is all talk and no action.",
+      "translation": "Том - это одни слова и никакого действия.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_9",
+      "word": "I take full responsibility for the action.",
+      "translation": "Я беру на себя всю ответственность за это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_10",
+      "word": "Last night, we went to the theater.",
+      "translation": "Вчера вечером мы ходили в театр.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_11",
+      "word": "The scene was shown in slow motion.",
+      "translation": "Сцена была показана в замедленной съёмке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_12",
+      "word": "Tom likes watching action movies.",
+      "translation": "Том любит смотреть боевики.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_13",
+      "word": "Tom was pronounced dead on the scene.",
+      "translation": "Том был на месте объявлен мёртвым.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_14",
+      "word": "We went to the theater early so we could get good seats.",
+      "translation": "Мы пошли в театр рано, чтобы занять хорошие места.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_15",
+      "word": "I'm not a fan of action movies.",
+      "translation": "Я не любитель боевиков.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_16",
+      "word": "He's a talented young director.",
+      "translation": "Он молодой талантливый режиссёр.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_17",
+      "word": "A crowd gathered at the scene.",
+      "translation": "На месте преступления собралась толпа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_18",
+      "word": "Do you enjoy watching horror movies?",
+      "translation": "Тебе нравится смотреть фильмы ужасов?",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_19",
+      "word": "Tom went to the theater with Mary.",
+      "translation": "Том пошёл в театр с Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_20",
+      "word": "That set off a chain reaction.",
+      "translation": "Это запустило цепную реакцию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_21",
+      "word": "The theater is empty.",
+      "translation": "Театр пуст.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_22",
+      "word": "His action frightened us.",
+      "translation": "Его поступок испугал нас.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_23",
+      "word": "Tom was arrested at the scene.",
+      "translation": "Том был арестован на месте преступления.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_24",
+      "word": "Tom screamed in horror.",
+      "translation": "Том в ужасе закричал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_25",
+      "word": "Tom braced himself for Mary's reaction.",
+      "translation": "Том собирался с духом, предвидя реакцию Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_26",
+      "word": "Let's go to the theater together.",
+      "translation": "Пойдёмте вместе в театр.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_27",
+      "word": "We need less talk and more action.",
+      "translation": "Нам нужно меньше слов и больше действий.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_28",
+      "word": "She would often go to the theater when she was in London.",
+      "translation": "Она часто ходила в театр, когда была в Лондоне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_29",
+      "word": "It's a very natural reaction.",
+      "translation": "Это вполне естественная реакция.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_30",
+      "word": "I just wanted to see your reaction.",
+      "translation": "Я просто хотела увидеть твою реакцию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_31",
+      "word": "Then we went to the theater.",
+      "translation": "Потом мы пошли в театр.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_32",
+      "word": "Do you often go to the theater?",
+      "translation": "Ты часто ходишь в театр?",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_33",
+      "word": "This popcorn tastes stale. I wonder when it was popped.",
+      "translation": "У этого попкорна несвежий вкус. Странно, когда он был приготовлен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_34",
+      "word": "Tom Jackson is the director.",
+      "translation": "Том Джексон - директор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_35",
+      "word": "Tom was unable to hide his reaction.",
+      "translation": "Том был не в силах скрыть свою реакцию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_36",
+      "word": "Did you see Tom's reaction?",
+      "translation": "Ты видел реакцию Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_37",
+      "word": "Tom says he likes horror movies.",
+      "translation": "Том говорит, что любит фильмы ужасов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_38",
+      "word": "Action speaks louder than words, but not nearly as often.",
+      "translation": "Дело убеждает лучше слов, но гораздо реже.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_39",
+      "word": "Do you wish to make any other transaction?",
+      "translation": "Желаете совершить другую транзакцию?",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_40",
+      "word": "The coral reef is the region's prime attraction.",
+      "translation": "Коралловый риф - главная достопримечательность региона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_41",
+      "word": "Some people derive pleasure from watching horror movies.",
+      "translation": "Некоторым людям доставляет удовольствие смотреть фильмы ужасов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_42",
+      "word": "Didn't you know Tom liked horror movies?",
+      "translation": "Ты не знал, что Том любит фильмы ужасов?",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_43",
+      "word": "The editor glanced over the manuscript.",
+      "translation": "Редактор пробежал глазами рукопись.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_44",
+      "word": "Who did you see at the theater?",
+      "translation": "Кого ты видел в театре?",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_45",
+      "word": "I didn't know Tom liked horror movies.",
+      "translation": "Я не знал, что Том любит фильмы ужасов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_46",
+      "word": "Tom and Mary watched a documentary about squirrels.",
+      "translation": "Том и Мэри посмотрели документальный фильм про белок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_47",
+      "word": "Tom told me how to get to the theater.",
+      "translation": "Том рассказал мне, как добраться до театра.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_48",
+      "word": "I'm not a fan of horror movies.",
+      "translation": "Я не любитель фильмов ужаса.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_1_49",
+      "word": "Tom likes the smell of popcorn popping.",
+      "translation": "Тому нравится запах лопающегося попкорна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_2_0",
+      "word": "Let's rehearse the fourth scene.",
+      "translation": "Давайте отрепетируем четвёртую сцену.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_2_1",
+      "word": "I didn't know that Tom liked horror movies.",
+      "translation": "Я не знал, что Том любит фильмы ужасов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_2_2",
+      "word": "He expressed his dissatisfaction.",
+      "translation": "Он выразил своё недовольство.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_2_3",
+      "word": "I didn't know that you liked horror movies.",
+      "translation": "Я не знал, что ты любишь фильмы ужасов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_2_4",
+      "word": "I remember the horror I felt when she screamed.",
+      "translation": "Я помню, какой ужас испытала, когда она закричала.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_2_5",
+      "word": "Tom asked if I liked watching horror movies.",
+      "translation": "Том спросил, люблю ли я смотреть фильмы ужасов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_2_6",
+      "word": "The commission has promised to take action soon.",
+      "translation": "Комиссия пообещала в скором времени предпринять нужные шаги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_2_7",
+      "word": "You can't take pictures in the theater without permission.",
+      "translation": "Вы не можете фотографировать в театре без разрешения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_2_8",
+      "word": "Tom and Mary watched a documentary about penguins.",
+      "translation": "Том и Мэри посмотрели документальный фильм про пингвинов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_2_9",
+      "word": "Words cannot describe the horror I experienced.",
+      "translation": "Словами не описать тот ужас, который я испытал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_2_10",
+      "word": "Tom Jackson is the executive director.",
+      "translation": "Том Джексон - исполнительный директор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_2_11",
+      "word": "The situation seemed to call for immediate action.",
+      "translation": "Казалось, ситуация требовала немедленных действий.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_2_12",
+      "word": "I watched a documentary about sushi.",
+      "translation": "Я посмотрел документалку про суши.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_2_13",
+      "word": "I've decided to go to the theater.",
+      "translation": "Я решил пойти в театр.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_2_14",
+      "word": "The theater was slowly filling with people.",
+      "translation": "Театр медленно наполнялся людьми.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_2_15",
+      "word": "The first scene has a lot of action.",
+      "translation": "Первая сцена очень динамична.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_2_16",
+      "word": "Tom Jackson is the deputy director.",
+      "translation": "Том Джексон — заместитель директора.",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_2_17",
+      "word": "Did you enjoy yourself at the theater?",
+      "translation": "Тебе понравилось в театре?",
+      "language": "en"
+    },
+    {
+      "id": "pb_moviescinema_2_18",
+      "word": "I didn't know you liked horror movies.",
+      "translation": "Я не знал, что ты любишь фильмы ужасов.",
+      "language": "en"
+    }
+  ]
+}

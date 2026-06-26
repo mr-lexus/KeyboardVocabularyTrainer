@@ -1,0 +1,3007 @@
+{
+  "id": "phrasebook-clothesaccessories",
+  "name": "Clothes & Accessories",
+  "description": "Phrasebook for Clothes & Accessories",
+  "entries": [
+    {
+      "id": "pb_clothesaccessories_0_0",
+      "word": "You don't need glasses anymore.",
+      "translation": "Очки тебе больше не нужны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_1",
+      "word": "Tom isn't wearing gloves.",
+      "translation": "Том без перчаток.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_2",
+      "word": "Tom got his watch fixed.",
+      "translation": "Том починил свои часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_3",
+      "word": "Tom is wearing gloves.",
+      "translation": "Том в перчатках.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_4",
+      "word": "Watch your mouth, Tom.",
+      "translation": "Следи за языком, Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_5",
+      "word": "This is worth considering.",
+      "translation": "Это стоит рассмотреть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_6",
+      "word": "Tom is wearing a sweater.",
+      "translation": "Том в свитере.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_7",
+      "word": "Tom looked at his watch.",
+      "translation": "Том посмотрел на часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_8",
+      "word": "Was I really boring?",
+      "translation": "Я правда был скучным?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_9",
+      "word": "Your tie is crooked.",
+      "translation": "У тебя галстук завернулся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_10",
+      "word": "Nobody was snoring.",
+      "translation": "Никто не храпел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_11",
+      "word": "It's not a watch.",
+      "translation": "Это не часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_12",
+      "word": "Tom didn't watch TV.",
+      "translation": "Том не смотрел телевизор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_13",
+      "word": "Sit down and watch TV.",
+      "translation": "Сядь посмотри телевизор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_14",
+      "word": "Golf is boring.",
+      "translation": "Гольф - это скучно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_15",
+      "word": "Tom is retiring.",
+      "translation": "Том выходит в отставку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_16",
+      "word": "Watch me do this.",
+      "translation": "Смотри, как я это делаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_17",
+      "word": "Did you reset your watch?",
+      "translation": "Ты перевёл свои часы?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_18",
+      "word": "That tie looks good on you.",
+      "translation": "Этот галстук тебе к лицу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_19",
+      "word": "It was so boring.",
+      "translation": "Было так скучно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_20",
+      "word": "I don't watch TV.",
+      "translation": "Я не смотрю телевизор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_21",
+      "word": "Boxing is boring.",
+      "translation": "Бокс — это скучно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_22",
+      "word": "I found your cap.",
+      "translation": "Я нашел твою кепку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_23",
+      "word": "Tom gave me this ring.",
+      "translation": "Том подарил мне это кольцо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_24",
+      "word": "Tom wore glasses.",
+      "translation": "Том носил очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_25",
+      "word": "My ring is gone.",
+      "translation": "У меня кольцо пропало.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_26",
+      "word": "Put this bracelet on your wrist.",
+      "translation": "Надень это браслет на руку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_27",
+      "word": "It is ten o'clock by my watch.",
+      "translation": "На моих часах десять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_28",
+      "word": "Tom won't be wearing a tie.",
+      "translation": "Том будет без галстука.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_29",
+      "word": "Translating is very tiring.",
+      "translation": "Переводить очень утомительно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_30",
+      "word": "He wears designer glasses.",
+      "translation": "Он носит дизайнерские очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_31",
+      "word": "You were snoring.",
+      "translation": "Ты храпел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_32",
+      "word": "I want a tie to go with this suit.",
+      "translation": "Я хочу галстук для этого костюма.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_33",
+      "word": "Watch what you say.",
+      "translation": "Следи за тем, что говоришь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_34",
+      "word": "Tom has a medical bracelet.",
+      "translation": "У Тома есть медицинский браслет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_35",
+      "word": "I'm looking for a sweater.",
+      "translation": "Я ищу свитер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_36",
+      "word": "Tom took off one of his gloves.",
+      "translation": "Том снял одну из своих перчаток.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_37",
+      "word": "He gave her a diamond bracelet.",
+      "translation": "Он подарил ей бриллиантовый браслет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_38",
+      "word": "Just watch me.",
+      "translation": "Просто смотри на меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_39",
+      "word": "Loosen your tie.",
+      "translation": "Ослабь галстук.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_40",
+      "word": "Tom took off his ski boots.",
+      "translation": "Том снял свои лыжные ботинки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_41",
+      "word": "I looked at my watch again.",
+      "translation": "Я снова посмотрел на часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_42",
+      "word": "The numbers are staggering.",
+      "translation": "Цифры ошеломляющие.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_43",
+      "word": "Where are the glasses?",
+      "translation": "Где очки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_44",
+      "word": "My kids watch too much TV.",
+      "translation": "Мои дети слишком много смотрят телевизор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_45",
+      "word": "Tom was wearing a tie.",
+      "translation": "Том был в галстуке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_46",
+      "word": "Tom was wearing sunglasses.",
+      "translation": "Том был в солнечных очках.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_47",
+      "word": "We were all wearing gloves.",
+      "translation": "На всех нас были надеты перчатки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_48",
+      "word": "I can't see very well without glasses.",
+      "translation": "Я не очень хорошо вижу без очков.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_0_49",
+      "word": "Does this cap belong to you?",
+      "translation": "Эта кепка принадлежит вам?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_0",
+      "word": "Tom pulled off his sweater.",
+      "translation": "Том стянул свитер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_1",
+      "word": "What did Tom bring?",
+      "translation": "Что принёс Том?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_2",
+      "word": "Tom has the same sweater as you.",
+      "translation": "У Тома такой же свитер, как у тебя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_3",
+      "word": "The crowd is cheering.",
+      "translation": "Толпа ликует.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_4",
+      "word": "We need three more glasses.",
+      "translation": "Нам нужно ещё три стакана.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_5",
+      "word": "These are my glasses.",
+      "translation": "Это мои очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_6",
+      "word": "Tom looked for his glasses.",
+      "translation": "Том поискал очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_7",
+      "word": "Tom stole my watch.",
+      "translation": "Том украл мои часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_8",
+      "word": "Watch how I do it.",
+      "translation": "Смотри, как я это делаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_9",
+      "word": "Tom needs glasses.",
+      "translation": "Тому нужны очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_10",
+      "word": "I don't know whose glasses these are.",
+      "translation": "Я не знаю, чьи это очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_11",
+      "word": "I heard Tom snoring.",
+      "translation": "Я слышал, как Том храпел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_12",
+      "word": "Tom says he doesn't know where Mary bought her pearl necklace.",
+      "translation": "Том говорит, что не знает, где Мэри купила жемчужное ожерелье.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_13",
+      "word": "I can hardly see without my glasses.",
+      "translation": "Я без очков почти ничего не вижу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_14",
+      "word": "The tie doesn't go with my suit.",
+      "translation": "Галстук не подходит к моему костюму.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_15",
+      "word": "I bought a pair of sunglasses for Tom.",
+      "translation": "Я купил Тому солнечные очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_16",
+      "word": "I filled both glasses with wine.",
+      "translation": "Я наполнил оба бокала вином.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_17",
+      "word": "Now watch carefully.",
+      "translation": "А теперь смотрите внимательно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_18",
+      "word": "Tom took one of his gloves off.",
+      "translation": "Том снял одну перчатку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_19",
+      "word": "He had to pawn his watch.",
+      "translation": "Ему пришлось заложить свои часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_20",
+      "word": "I don't know what happened to my ring.",
+      "translation": "Я не знаю, что случилось с моим кольцом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_21",
+      "word": "I gave Mary a diamond ring.",
+      "translation": "Я подарил Мэри кольцо с бриллиантом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_22",
+      "word": "I don't watch TV often.",
+      "translation": "Я нечасто смотрю телевизор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_23",
+      "word": "Are these Tom's glasses?",
+      "translation": "Это очки Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_24",
+      "word": "Are these your sunglasses?",
+      "translation": "Это твои очки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_25",
+      "word": "He took off his glasses.",
+      "translation": "Он снял свои очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_26",
+      "word": "Tom wasn't wearing gloves.",
+      "translation": "Том был без перчаток.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_27",
+      "word": "I can't find my watch.",
+      "translation": "Я не могу найти своих часов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_28",
+      "word": "What happened to your ring?",
+      "translation": "Что случилось с твоим кольцом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_29",
+      "word": "Tom was very boring.",
+      "translation": "Том был очень скучный.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_30",
+      "word": "Tom doesn't have his sweater on.",
+      "translation": "Том без свитера.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_31",
+      "word": "She fell asleep with her sweater on.",
+      "translation": "Она заснула в свитере.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_32",
+      "word": "Where did you get that sweater?",
+      "translation": "Откуда у тебя этот свитер?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_33",
+      "word": "Ring the bell.",
+      "translation": "Звони в звонок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_34",
+      "word": "Get me my glasses.",
+      "translation": "Принесите мои очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_35",
+      "word": "Isn't her ring gorgeous?",
+      "translation": "Разве у неё не великолепное кольцо?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_36",
+      "word": "How can I keep myself from snoring?",
+      "translation": "Как мне избавиться от храпа?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_37",
+      "word": "Tom adjusted his tie.",
+      "translation": "Том поправил галстук.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_38",
+      "word": "Tom said he was retiring.",
+      "translation": "Том сказал, что уходит на пенсию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_39",
+      "word": "This is a ring my grandmother wore.",
+      "translation": "Это кольцо, которое носила моя бабушка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_40",
+      "word": "This ring is made of gold and silver.",
+      "translation": "Это кольцо из золота и серебра.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_41",
+      "word": "Put your boots on.",
+      "translation": "Надень ботинки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_42",
+      "word": "Tom wore a ring.",
+      "translation": "Том носил кольцо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_43",
+      "word": "He wore glasses.",
+      "translation": "Он носил очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_44",
+      "word": "I watch every episode.",
+      "translation": "Я смотрю каждую серию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_45",
+      "word": "Tom's proposal is worth considering.",
+      "translation": "Предложение Тома стоит рассмотреть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_46",
+      "word": "Why are you whispering?",
+      "translation": "Ты чего шепчешь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_47",
+      "word": "It's good that you don't watch TV.",
+      "translation": "Хорошо, что ты не смотришь телевизор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_48",
+      "word": "Can't you see I'm suffering?",
+      "translation": "Разве ты не видишь, что я страдаю?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_1_49",
+      "word": "Why do you keep looking at your watch?",
+      "translation": "Почему ты всё время смотришь на часы?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_0",
+      "word": "Tom is interested in mountaineering.",
+      "translation": "Том увлекается альпинизмом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_1",
+      "word": "Have you seen my watch?",
+      "translation": "Ты видел мои часы?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_2",
+      "word": "He bought her a sweater.",
+      "translation": "Он купил ей свитер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_3",
+      "word": "I bought her a watch.",
+      "translation": "Я купил ей часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_4",
+      "word": "My sneakers got wet.",
+      "translation": "У меня кеды промокли.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_5",
+      "word": "Did you watch the last Olympics on TV?",
+      "translation": "Ты смотрел по телевизору последние Олимпийские игры?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_6",
+      "word": "We went to watch the fireworks.",
+      "translation": "Мы ходили смотреть салют.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_7",
+      "word": "I am so busy that I don't watch TV.",
+      "translation": "Я так занят, что не смотрю телевизор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_8",
+      "word": "Tom said that he was retiring.",
+      "translation": "Том сказал, что уходит на пенсию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_9",
+      "word": "Here, put these gloves on.",
+      "translation": "Вот, надень эти перчатки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_10",
+      "word": "Tom fixed the broken watch.",
+      "translation": "Том починил сломанные часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_11",
+      "word": "This is the boy who found your watch.",
+      "translation": "Это тот мальчик, который нашёл твои часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_12",
+      "word": "Tom filled both glasses with wine.",
+      "translation": "Том наполнил оба бокала вином.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_13",
+      "word": "Tom is boring.",
+      "translation": "Том скучный.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_14",
+      "word": "Tom asked me where I bought my belt.",
+      "translation": "Том спросил меня, где я купил свой ремень.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_15",
+      "word": "I've been preparing.",
+      "translation": "Я готовился.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_16",
+      "word": "I told you this was going to be boring.",
+      "translation": "Я же тебе говорил, что будет скучно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_17",
+      "word": "Tom loosened his tie.",
+      "translation": "Том ослабил галстук.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_18",
+      "word": "He is wearing glasses.",
+      "translation": "Он в очках.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_19",
+      "word": "Tom put his new sneakers in his bag.",
+      "translation": "Том положил свои новые кроссовки в сумку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_20",
+      "word": "Wait a while. It's pouring.",
+      "translation": "Подожди немного. Льёт как из ведра.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_21",
+      "word": "Tom is wearing the tie I gave him.",
+      "translation": "На Томе галстук, который я ему подарила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_22",
+      "word": "Tom doesn't know how to tie a tie.",
+      "translation": "Том не умеет завязывать галстук.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_23",
+      "word": "My grandmother knit me this sweater.",
+      "translation": "Бабушка связала мне этот свитер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_24",
+      "word": "Tom forgot where he put his glasses.",
+      "translation": "Фома забыл, куда положил свои очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_25",
+      "word": "We took off our sunglasses.",
+      "translation": "Мы сняли солнцезащитные очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_26",
+      "word": "Tom fastened his seatbelt.",
+      "translation": "Том застегнул свой ремень безопасности.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_27",
+      "word": "These glasses are Tom's.",
+      "translation": "Это очки Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_28",
+      "word": "This was my grandfather's watch.",
+      "translation": "Это были часы моего дедушки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_29",
+      "word": "That was very reassuring.",
+      "translation": "Это было очень обнадёживающе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_30",
+      "word": "My glasses are dirty.",
+      "translation": "Мои очки грязные.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_31",
+      "word": "No one was wearing a seatbelt.",
+      "translation": "Никто не был пристёгнут.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_32",
+      "word": "Tom was wearing a watch.",
+      "translation": "Том носил часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_33",
+      "word": "Tom shouldn't watch so much TV.",
+      "translation": "Тому не стоит столько смотреть телевизор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_34",
+      "word": "Can you tie a tie?",
+      "translation": "Ты умеешь галстук завязывать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_35",
+      "word": "Put your glasses on.",
+      "translation": "Надень свои очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_36",
+      "word": "Your watch seems to be very valuable.",
+      "translation": "Кажется, Ваши часы очень ценные.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_37",
+      "word": "Do you have a watch?",
+      "translation": "У тебя есть часы?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_38",
+      "word": "This is a waterproof watch.",
+      "translation": "Это водонепроницаемые часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_39",
+      "word": "This is boring.",
+      "translation": "Это скучно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_40",
+      "word": "Tom found his glasses and put them on.",
+      "translation": "Том нашёл свои очки и надел их.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_41",
+      "word": "Have you seen my glasses?",
+      "translation": "Вы не видели мои очки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_42",
+      "word": "Tom took his belt off.",
+      "translation": "Том снял свой ремень.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_43",
+      "word": "Have you seen my glasses anywhere?",
+      "translation": "Ты нигде не видел мои очки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_44",
+      "word": "This watch is ten minutes slow.",
+      "translation": "Эти часы отстают на десять минут.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_45",
+      "word": "What knots do you know how to tie?",
+      "translation": "Какие узлы ты умеешь завязывать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_46",
+      "word": "Tom thinks his life is boring.",
+      "translation": "Том считает, что у него скучная жизнь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_47",
+      "word": "Lust creates suffering.",
+      "translation": "Похоть приводит к страданию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_48",
+      "word": "My watch needs only minor repairs.",
+      "translation": "Мои часы нуждаются лишь в небольшой починке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_2_49",
+      "word": "My hands were numb inside my gloves.",
+      "translation": "У меня окоченели руки внутри перчаток.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_0",
+      "word": "Tom put his sweater on.",
+      "translation": "Том надел свитер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_1",
+      "word": "I'll teach you how to tie a tie.",
+      "translation": "Я научу тебя завязывать галстук.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_2",
+      "word": "I dropped my earring.",
+      "translation": "Я уронил свою серьгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_3",
+      "word": "I enjoy embroidering.",
+      "translation": "Я люблю вышивание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_4",
+      "word": "These are Tom's boots.",
+      "translation": "Это ботинки Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_5",
+      "word": "That's very flattering.",
+      "translation": "Это мне очень льстит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_6",
+      "word": "Tom was boring.",
+      "translation": "Том был скучным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_7",
+      "word": "Tom was wearing a ring.",
+      "translation": "На пальце у Тома было кольцо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_8",
+      "word": "I want a pair of gloves.",
+      "translation": "Я хочу пару перчаток.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_9",
+      "word": "Where are my sunglasses?",
+      "translation": "Где мои солнечные очки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_10",
+      "word": "Tom isn't answering.",
+      "translation": "Том не отвечает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_11",
+      "word": "Do you know what you need to bring?",
+      "translation": "Ты знаешь, что тебе нужно принести?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_12",
+      "word": "Do I need a tie?",
+      "translation": "Мне нужен галстук?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_13",
+      "word": "I'm looking for a piece of string.",
+      "translation": "Мне нужна верёвка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_14",
+      "word": "Tom took off his protective glasses.",
+      "translation": "Том снял защитные очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_15",
+      "word": "He unbuckled his belt.",
+      "translation": "Он расстегнул ремень.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_16",
+      "word": "Tom is volunteering.",
+      "translation": "Том вызвался добровольцем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_17",
+      "word": "I was wearing a tie.",
+      "translation": "Я был в галстуке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_18",
+      "word": "Did you hear someone ring the doorbell?",
+      "translation": "Ты слышал, как кто-то звонил в дверь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_19",
+      "word": "What are you ordering?",
+      "translation": "Что ты заказываешь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_20",
+      "word": "Have you finished knitting that sweater?",
+      "translation": "Ты закончила вязать свитер?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_21",
+      "word": "I took off my sweater.",
+      "translation": "Я снял свитер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_22",
+      "word": "Tom liked the scarf.",
+      "translation": "Тому шарф понравился.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_23",
+      "word": "My life is so boring.",
+      "translation": "У меня такая скучная жизнь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_24",
+      "word": "Tom removed his glasses.",
+      "translation": "Том снял очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_25",
+      "word": "Tom doesn't watch TV with you, does he?",
+      "translation": "Ведь Том не смотрит телевизор вместе с тобой?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_26",
+      "word": "My watch has seventeen jewels.",
+      "translation": "В моих часах семнадцать камней.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_27",
+      "word": "Mary is knitting a sweater.",
+      "translation": "Мэри вяжет свитер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_28",
+      "word": "Do you know where my watch is?",
+      "translation": "Ты знаешь, где мои часы?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_29",
+      "word": "I bought Mary a scarf.",
+      "translation": "Я купил Мэри шарф.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_30",
+      "word": "She wore glasses.",
+      "translation": "Она носила очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_31",
+      "word": "What were they wearing?",
+      "translation": "Во что они были одеты?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_32",
+      "word": "He has sharp hearing.",
+      "translation": "У него острый слух.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_33",
+      "word": "Why would I need gloves?",
+      "translation": "Зачем мне перчатки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_34",
+      "word": "That tie suits you very well.",
+      "translation": "Этот галстук вам очень идёт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_35",
+      "word": "Why are you staring?",
+      "translation": "Ты чего уставился?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_36",
+      "word": "I forgot to tell you what to bring.",
+      "translation": "Я забыла сказать тебе, что привезти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_37",
+      "word": "Don't forget your sunglasses.",
+      "translation": "Не забудьте солнечные очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_38",
+      "word": "Tom asked me if he could watch TV with me.",
+      "translation": "Том спросил меня, можно ли ему посмотреть со мной телевизор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_39",
+      "word": "Tom set the alarm on his watch.",
+      "translation": "Том настроил на своих часах будильник.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_40",
+      "word": "This watch is broken.",
+      "translation": "Эти часы сломались.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_41",
+      "word": "Tom bought a pearl necklace for Mary.",
+      "translation": "Том купил Мэри жемчужное ожерелье.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_42",
+      "word": "Tom was shivering.",
+      "translation": "Том дрожал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_43",
+      "word": "Tom can hardly see without his glasses.",
+      "translation": "Том почти не видит без очков.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_44",
+      "word": "Tom likes to watch old movies.",
+      "translation": "Том любит смотреть старые фильмы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_45",
+      "word": "They presented Tom with a gold watch.",
+      "translation": "Они подарили Тому золотые часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_46",
+      "word": "Adjust your tie.",
+      "translation": "Поправьте галстук.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_47",
+      "word": "I need new gloves.",
+      "translation": "Мне нужны новые перчатки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_48",
+      "word": "Tom can't tie a tie.",
+      "translation": "Том не умеет завязывать галстук.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_3_49",
+      "word": "What's Tom wearing?",
+      "translation": "Как Том одет?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_0",
+      "word": "I forgot my glasses.",
+      "translation": "Я забыл свои очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_1",
+      "word": "Your tie isn't tied properly.",
+      "translation": "У тебя галстук неправильно завязан.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_2",
+      "word": "I've broken my glasses.",
+      "translation": "Я разбил свои очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_3",
+      "word": "Tom bought a diamond ring for Mary.",
+      "translation": "Том купил Мэри кольцо с бриллиантом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_4",
+      "word": "Bring me my glasses.",
+      "translation": "Принеси мне мои очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_5",
+      "word": "Is Tom snoring?",
+      "translation": "Том храпит?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_6",
+      "word": "Tom can't find his watch.",
+      "translation": "Том не может найти свои часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_7",
+      "word": "Mary knit this scarf.",
+      "translation": "Мэри связала этот шарф.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_8",
+      "word": "Tom bought Mary a scarf.",
+      "translation": "Том купил Мэри шарф.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_9",
+      "word": "I was wearing sunglasses.",
+      "translation": "Я был в солнечных очках.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_10",
+      "word": "He filled the glasses with wine.",
+      "translation": "Он наполнил бокалы вином.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_11",
+      "word": "Tom forgot his sweater.",
+      "translation": "Том забыл свой свитер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_12",
+      "word": "Tom has new sunglasses.",
+      "translation": "У Тома новые солнечные очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_13",
+      "word": "As a child, I was teased for wearing glasses.",
+      "translation": "В детстве меня дразнили очкариком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_14",
+      "word": "Tom is snoring.",
+      "translation": "Том храпит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_15",
+      "word": "Are these your gloves?",
+      "translation": "Это твои перчатки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_16",
+      "word": "She is knitting a scarf.",
+      "translation": "Она вяжет шарф.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_17",
+      "word": "Tom is wearing sunglasses.",
+      "translation": "Том в солнцезащитных очках.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_18",
+      "word": "Mary is knitting a scarf.",
+      "translation": "Мэри вяжет шарф.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_19",
+      "word": "I'll bring the glasses.",
+      "translation": "Я принесу бокалы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_20",
+      "word": "These are Tom's glasses.",
+      "translation": "Это очки Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_21",
+      "word": "Whose gloves are those?",
+      "translation": "Чьи это перчатки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_22",
+      "word": "Buckle your seatbelt.",
+      "translation": "Пристегни ремень безопасности.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_23",
+      "word": "He started swearing.",
+      "translation": "Он стал ругаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_24",
+      "word": "Whose sunglasses are these?",
+      "translation": "Чьи это солнечные очки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_25",
+      "word": "Those sunglasses are mine.",
+      "translation": "Те солнечные очки мои.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_26",
+      "word": "Mary is still wearing the ring Tom gave her.",
+      "translation": "Мэри до сих пор носит кольцо, которое Том ей подарил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_27",
+      "word": "Don't watch too much TV.",
+      "translation": "Не смотри слишком много телевизор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_28",
+      "word": "Whose glasses are these?",
+      "translation": "Чьи это очки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_29",
+      "word": "Tom sold the bracelet.",
+      "translation": "Том продал браслет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_30",
+      "word": "I seldom watch documentaries.",
+      "translation": "Я редко смотрю документальные фильмы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_31",
+      "word": "Who invented glasses?",
+      "translation": "Кто изобрёл очки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_32",
+      "word": "I bought a new pair of glasses.",
+      "translation": "Я купила новые очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_33",
+      "word": "Many forms of life are disappearing.",
+      "translation": "Многие формы жизни исчезают.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_34",
+      "word": "We used to watch movies together.",
+      "translation": "Мы обычно смотрели фильмы вместе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_35",
+      "word": "Tom isn't retiring.",
+      "translation": "Том не выходит на пенсию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_36",
+      "word": "I'd rather watch something else.",
+      "translation": "Я бы посмотрел что-нибудь ещё.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_37",
+      "word": "Where are my reading glasses?",
+      "translation": "Где мои очки для чтения?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_38",
+      "word": "I'm sorry, I don't have my watch with me.",
+      "translation": "Простите, я без часов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_39",
+      "word": "What can I bring?",
+      "translation": "Что я могу принести?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_40",
+      "word": "Tom bought himself a watch.",
+      "translation": "Том купил себе часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_41",
+      "word": "Tom said he wanted to watch a little TV.",
+      "translation": "Том сказал, что хочет немного посмотреть телевизор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_42",
+      "word": "I don't need glasses anymore.",
+      "translation": "Я больше не нуждаюсь в очках.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_43",
+      "word": "It was Tom who stole Mary's necklace.",
+      "translation": "Это Том украл ожерелье Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_44",
+      "word": "That's incredibly boring.",
+      "translation": "Это невероятно скучно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_45",
+      "word": "He needs glasses.",
+      "translation": "Ему нужны очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_46",
+      "word": "Tom is the only one who isn't wearing a tie.",
+      "translation": "Том один не в галстуке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_47",
+      "word": "I don't know where my watch is.",
+      "translation": "Я не знаю, где мои часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_48",
+      "word": "Did you ring the bell?",
+      "translation": "Ты позвонил в звонок?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_4_49",
+      "word": "I seldom watch horror movies.",
+      "translation": "Я редко смотрю фильмы ужасов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_0",
+      "word": "That's a nice tie.",
+      "translation": "Красивый галстук.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_1",
+      "word": "Tom has gloves on.",
+      "translation": "Том в перчатках.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_2",
+      "word": "It was painful to watch.",
+      "translation": "На это было больно смотреть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_3",
+      "word": "You've got a stain on your tie.",
+      "translation": "У тебя пятно на галстуке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_4",
+      "word": "Mittens are warmer than gloves.",
+      "translation": "Варежки теплее, чем перчатки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_5",
+      "word": "Can you watch the kids?",
+      "translation": "Ты можешь присмотреть за детьми?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_6",
+      "word": "Tom unbuckled his seatbelt.",
+      "translation": "Том отстегнул ремень безопасности.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_7",
+      "word": "I looked at my watch.",
+      "translation": "Я посмотрел на часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_8",
+      "word": "I asked Tom where he had bought his boots.",
+      "translation": "Я спросил у Тома, где он купил свои ботинки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_9",
+      "word": "Tom and Mary went out to watch the fireworks.",
+      "translation": "Том и Мэри вышли посмотреть салют.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_10",
+      "word": "He hesitated before answering.",
+      "translation": "Он помедлил, прежде чем ответить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_11",
+      "word": "When did you miss your watch?",
+      "translation": "Когда ты хватился своих часов?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_12",
+      "word": "Those aren't my sunglasses.",
+      "translation": "Это не мои солнечные очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_13",
+      "word": "You have a watch.",
+      "translation": "У тебя есть часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_14",
+      "word": "We can't sell that bracelet.",
+      "translation": "Мы не можем продать этот браслет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_15",
+      "word": "You can have this watch for nothing.",
+      "translation": "Эти часы вы можете взять за так.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_16",
+      "word": "We don't have to watch this.",
+      "translation": "Мы не обязаны это смотреть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_17",
+      "word": "We used to watch TV.",
+      "translation": "Раньше мы смотрели телевизор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_18",
+      "word": "Watch this video.",
+      "translation": "Посмотри это видео.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_19",
+      "word": "Watch your step.",
+      "translation": "Смотри под ноги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_20",
+      "word": "Tom wants to watch.",
+      "translation": "Том хочет посмотреть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_21",
+      "word": "Can you watch Tom?",
+      "translation": "Вы наблюдаете Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_22",
+      "word": "Tom gave Mary a watch.",
+      "translation": "Том дал Мэри часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_23",
+      "word": "Tom whipped Mary with his belt.",
+      "translation": "Том отхлестал Мэри своим ремнём.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_24",
+      "word": "Tom is recovering.",
+      "translation": "Том поправляется.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_25",
+      "word": "Tom was wearing a seatbelt.",
+      "translation": "Том был пристёгнут.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_26",
+      "word": "Tom looked up over his glasses.",
+      "translation": "Том посмотрел поверх очков.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_27",
+      "word": "This is so boring.",
+      "translation": "Это так скучно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_28",
+      "word": "I've bought a new pair of sunglasses.",
+      "translation": "Я купил новые солнечные очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_29",
+      "word": "Tom gave Mary an opal ring.",
+      "translation": "Том подарил Мэри кольцо с опалом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_30",
+      "word": "Are these your glasses?",
+      "translation": "Это твои очки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_31",
+      "word": "I could hear everybody cheering.",
+      "translation": "Я слышал, как все аплодировали.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_32",
+      "word": "Tom kept staring.",
+      "translation": "Том продолжал пялиться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_33",
+      "word": "Did you try on these gloves?",
+      "translation": "Ты мерил эти перчатки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_34",
+      "word": "Tom bought Mary a ring.",
+      "translation": "Том купил Мэри кольцо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_35",
+      "word": "Tom picked out a very nice bracelet for Mary.",
+      "translation": "Том выбрал чудесный браслет для Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_36",
+      "word": "My gloves are wet.",
+      "translation": "Мои перчатки мокрые.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_37",
+      "word": "Watch your fingers!",
+      "translation": "Берегите пальцы!",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_38",
+      "word": "The boy took off his cap.",
+      "translation": "Мальчик снял свою кепку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_39",
+      "word": "Your earrings are gorgeous.",
+      "translation": "Твои серьги великолепны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_40",
+      "word": "Take care not to break the glasses.",
+      "translation": "Осторожно, не разбей стаканы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_41",
+      "word": "Tom kept glancing at his watch.",
+      "translation": "Том постоянно поглядывал на свои часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_42",
+      "word": "I don't have the nerve to watch it.",
+      "translation": "У меня сил нет на это смотреть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_43",
+      "word": "The expert appraised the watch at $200.",
+      "translation": "Эксперт оценил часы в 200 долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_44",
+      "word": "Who wants to watch a video?",
+      "translation": "Кто хочет посмотреть видео?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_45",
+      "word": "Tom bought Mary a diamond engagement ring.",
+      "translation": "Том купил для Мэри обручальное кольцо с бриллиантом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_46",
+      "word": "I don't really watch TV.",
+      "translation": "Я не особенно смотрю телевизор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_47",
+      "word": "Whose ring is this?",
+      "translation": "Чьё это кольцо?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_48",
+      "word": "Tom has trouble hearing.",
+      "translation": "У Тома проблемы со слухом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_5_49",
+      "word": "Why aren't you wearing gloves?",
+      "translation": "Почему ты не носишь перчаток?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_0",
+      "word": "Your sweater is inside out.",
+      "translation": "У тебя свитер наизнанку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_1",
+      "word": "Has anyone seen my sunglasses?",
+      "translation": "Кто-нибудь видел мои солнечные очки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_2",
+      "word": "Where did you put the cap to this bottle?",
+      "translation": "Куда ты положил крышку от этой бутылки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_3",
+      "word": "I heard the bell ring.",
+      "translation": "Я слышал звонок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_4",
+      "word": "Tom will be wearing a tie.",
+      "translation": "Том будет в галстуке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_5",
+      "word": "Tom bought a new belt.",
+      "translation": "Том купил новый ремень.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_6",
+      "word": "I don't know why Tom is whispering.",
+      "translation": "Я не знаю, почему Том шепчет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_7",
+      "word": "Tom took off his gloves.",
+      "translation": "Том снял перчатки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_8",
+      "word": "I know Tom is boring.",
+      "translation": "Я знаю, Том скучный.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_9",
+      "word": "Give me the watch.",
+      "translation": "Дай мне часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_10",
+      "word": "Tom is wearing a hand-knit scarf.",
+      "translation": "На Томе шарф ручной вязки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_11",
+      "word": "Don't make me get the belt.",
+      "translation": "Не заставляй меня доставать ремень.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_12",
+      "word": "I found your earring.",
+      "translation": "Я нашла твою серьгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_13",
+      "word": "Mary showed Alice her engagement ring.",
+      "translation": "Мэри показала Элис своё обручальное кольцо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_14",
+      "word": "Is that a new tie?",
+      "translation": "Это новый галстук?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_15",
+      "word": "Does Tom know what to bring?",
+      "translation": "Том знает, что принести?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_16",
+      "word": "They all raised their glasses.",
+      "translation": "Все подняли бокалы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_17",
+      "word": "Tom stole the ring.",
+      "translation": "Том украл кольцо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_18",
+      "word": "Her suggestion is worth considering.",
+      "translation": "Её предложение стоит рассмотреть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_19",
+      "word": "How many movies did you watch last weekend?",
+      "translation": "Сколько фильмов ты посмотрела в прошлые выходные?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_20",
+      "word": "This tie matches your suit.",
+      "translation": "Этот галстук подходит к твоему костюму.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_21",
+      "word": "Where's my striped sweater?",
+      "translation": "Где мой полосатый свитер?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_22",
+      "word": "Tom stepped on his glasses.",
+      "translation": "Том наступил на свои очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_23",
+      "word": "Where did I put my glasses?",
+      "translation": "Куда я положил свои очки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_24",
+      "word": "Tom was whispering.",
+      "translation": "Том говорил шёпотом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_25",
+      "word": "I watch TV after supper.",
+      "translation": "После ужина я смотрю телевизор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_26",
+      "word": "Tom began wearing glasses when he was three.",
+      "translation": "Том начал носить очки, когда ему было три года.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_27",
+      "word": "Watch your toes.",
+      "translation": "Смотри не урони на ноги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_28",
+      "word": "Tom was wearing glasses.",
+      "translation": "На Томе были очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_29",
+      "word": "This sweater is too tight for me.",
+      "translation": "Этот свитер мне жмёт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_30",
+      "word": "I have to watch my figure.",
+      "translation": "Мне надо блюсти фигуру.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_31",
+      "word": "What did you bring?",
+      "translation": "Что ты принёс?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_32",
+      "word": "I don't watch TV anymore.",
+      "translation": "Я больше не смотрю телевизор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_33",
+      "word": "Tom pulled his sweater off.",
+      "translation": "Том стянул свитер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_34",
+      "word": "My watch is more accurate than yours.",
+      "translation": "Мои часы более точные, чем твои.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_35",
+      "word": "The difference is staggering.",
+      "translation": "Разница поразительная.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_36",
+      "word": "You're wearing your sweater inside out.",
+      "translation": "У тебя свитер наизнанку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_37",
+      "word": "My glasses are on my nightstand.",
+      "translation": "Мои очки лежат на моей прикроватной тумбочке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_38",
+      "word": "You forgot to tie your shoelaces.",
+      "translation": "Ты забыл завязать шнурки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_39",
+      "word": "He can see nothing without his glasses.",
+      "translation": "Он ничего не видит без очков.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_40",
+      "word": "I watch TV a lot.",
+      "translation": "Я много смотрю телевизор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_41",
+      "word": "Tom asked Mary what she thought of his tie.",
+      "translation": "Том спросил у Мэри, что она думает о его галстуке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_42",
+      "word": "I need a new belt.",
+      "translation": "Мне нужен новый ремень.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_43",
+      "word": "Watch your language.",
+      "translation": "Выбирай выражения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_44",
+      "word": "Tom looked at the ring John gave Mary.",
+      "translation": "Том посмотрел на кольцо, которое Джон дал Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_45",
+      "word": "Tom wasn't able to find his gloves.",
+      "translation": "Том не смог найти свои перчатки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_46",
+      "word": "I will watch it.",
+      "translation": "Я присмотрю за этим.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_47",
+      "word": "Do you have earrings on?",
+      "translation": "Ты в серёжках?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_48",
+      "word": "Where are my glasses?",
+      "translation": "Где мои очки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_6_49",
+      "word": "Tom had a watch.",
+      "translation": "У Тома были часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_0",
+      "word": "We took our sunglasses off.",
+      "translation": "Мы сняли солнцезащитные очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_1",
+      "word": "Tom stole your ring.",
+      "translation": "Том украл у вас кольцо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_2",
+      "word": "Tom bent down to tie his shoe.",
+      "translation": "Том наклонился завязать шнурки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_3",
+      "word": "Did you bring everything I asked you to bring?",
+      "translation": "Ты принёс всё, что я просил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_4",
+      "word": "What'll Tom bring?",
+      "translation": "Что принесёт Том?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_5",
+      "word": "Are those my glasses?",
+      "translation": "Это мои очки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_6",
+      "word": "I just don't want Tom interfering.",
+      "translation": "Я просто не хочу, чтобы Том вмешивался.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_7",
+      "word": "I paid ten dollars for this cap.",
+      "translation": "Я заплатил десять долларов за эту шляпу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_8",
+      "word": "Tom rarely wears a tie.",
+      "translation": "Том редко надевает галстук.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_9",
+      "word": "Tom can't see well even with glasses.",
+      "translation": "Том даже в очках плохо видит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_10",
+      "word": "Have you ever seen Tom without his glasses on?",
+      "translation": "Ты когда-нибудь видел Тома без очков?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_11",
+      "word": "Do you know where my striped sweater is?",
+      "translation": "Не знаешь, где мой полосатый свитер?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_12",
+      "word": "How does this tie into everything else?",
+      "translation": "Как это связано со всем остальным?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_13",
+      "word": "If you finish your homework, you can watch TV.",
+      "translation": "Если доделаешь уроки, можешь посмотреть телевизор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_14",
+      "word": "I bought him a tie.",
+      "translation": "Я купил ему галстук.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_15",
+      "word": "How much TV do you watch?",
+      "translation": "Сколько времени ты смотришь телевизор?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_16",
+      "word": "His watch is ten minutes slow.",
+      "translation": "Его часы отстают на десять минут.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_17",
+      "word": "I can't see anything without my glasses.",
+      "translation": "Я без очков ничего не вижу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_18",
+      "word": "Tom seems to have good hearing.",
+      "translation": "У Тома вроде хороший слух.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_19",
+      "word": "Babies are interesting to watch.",
+      "translation": "За младенцами интересно наблюдать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_20",
+      "word": "Tom doesn't want to watch.",
+      "translation": "Том не хочет смотреть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_21",
+      "word": "I won't be wearing a tie.",
+      "translation": "Я буду без галстука.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_22",
+      "word": "Tom broke his glasses.",
+      "translation": "Том сломал свои очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_23",
+      "word": "Tom wears thick-rimmed glasses.",
+      "translation": "Том носит очки в толстой оправе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_24",
+      "word": "That's worth remembering.",
+      "translation": "Это стоит запомнить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_25",
+      "word": "Have you ever seen Tom not wearing glasses?",
+      "translation": "Ты когда-нибудь видела Тома без очков?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_26",
+      "word": "Tie your shoe.",
+      "translation": "Завяжи шнурки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_27",
+      "word": "Tom promised to watch Mary.",
+      "translation": "Том пообещал присматривать за Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_28",
+      "word": "Mary is knitting a sweater for Tom.",
+      "translation": "Мэри вяжет для Тома свитер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_29",
+      "word": "Mary is knitting Tom a scarf.",
+      "translation": "Мэри вяжет Тому шарф.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_30",
+      "word": "Tom could do nothing but watch.",
+      "translation": "Том только и мог, что смотреть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_31",
+      "word": "Why is my life so boring?",
+      "translation": "Почему у меня такая скучная жизнь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_32",
+      "word": "Mary knitted herself a scarf.",
+      "translation": "Мария связала себе шарф.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_33",
+      "word": "This activity is tiring.",
+      "translation": "Это утомительное занятие.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_34",
+      "word": "Can you tell us what you're wearing?",
+      "translation": "Можете сказать, что на вас надето?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_35",
+      "word": "Tom isn't snoring.",
+      "translation": "Том не храпит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_36",
+      "word": "This tie doesn't go with my suit.",
+      "translation": "Этот галстук не сочетается с моим костюмом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_37",
+      "word": "I bought new sunglasses.",
+      "translation": "Я купил новые солнечные очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_38",
+      "word": "I can't get my gloves off.",
+      "translation": "Я не могу снять перчатки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_39",
+      "word": "Those gloves are mine.",
+      "translation": "Те перчатки мои.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_40",
+      "word": "I can't find my watch anywhere.",
+      "translation": "Я нигде не могу найти свои часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_41",
+      "word": "Are you wearing a watch?",
+      "translation": "У тебя есть часы?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_42",
+      "word": "Tom is beginning to lose his hearing.",
+      "translation": "Том начинает терять слух.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_43",
+      "word": "His speech got awfully boring.",
+      "translation": "Его речь выдалась жутко скучной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_44",
+      "word": "Go get me a sweater.",
+      "translation": "Пойди принеси мне свитер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_45",
+      "word": "These gloves are mine.",
+      "translation": "Эти перчатки мои.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_46",
+      "word": "Everyone is suffering.",
+      "translation": "Все страдают.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_47",
+      "word": "I need a new sweater.",
+      "translation": "Мне нужен новый свитер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_48",
+      "word": "Tom took off his watch.",
+      "translation": "Том снял часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_7_49",
+      "word": "Everyone was wearing gloves.",
+      "translation": "Все были в перчатках.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_0",
+      "word": "Are you looking for a ring?",
+      "translation": "Вы ищете кольцо?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_1",
+      "word": "Both glasses remained untouched.",
+      "translation": "Оба стакана остались нетронутыми.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_2",
+      "word": "It's so boring.",
+      "translation": "Это так скучно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_3",
+      "word": "What did you watch?",
+      "translation": "Что ты смотрел?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_4",
+      "word": "Tom tried to convince Mary to knit him a scarf.",
+      "translation": "Том пытался уговорить Мэри связать ему шарф.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_5",
+      "word": "My glasses are broken.",
+      "translation": "Мои очки сломаны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_6",
+      "word": "Mary was wearing heart-shaped earrings.",
+      "translation": "Мэри была в серёжках в форме сердца.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_7",
+      "word": "Tom bought me a watch.",
+      "translation": "Том купил мне часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_8",
+      "word": "Is there a problem with your hearing?",
+      "translation": "У тебя проблема со слухом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_9",
+      "word": "Is that ring made of real gold?",
+      "translation": "Это кольцо из настоящего золота?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_10",
+      "word": "Tom drank three glasses of wine.",
+      "translation": "Том выпил три бокала вина.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_11",
+      "word": "Tom isn't boring.",
+      "translation": "Том не скучный.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_12",
+      "word": "Take my sweater.",
+      "translation": "Возьмите мой свитер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_13",
+      "word": "Will you knit a sweater for me?",
+      "translation": "Свяжешь мне свитер?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_14",
+      "word": "Where did I leave my glasses?",
+      "translation": "Где я оставил свои очки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_15",
+      "word": "Hey, where's your ring?",
+      "translation": "Ой, а где кольцо?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_16",
+      "word": "He glanced at his watch.",
+      "translation": "Он взглянул на часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_17",
+      "word": "It's fun to watch the race.",
+      "translation": "За гонками смотреть весело.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_18",
+      "word": "Your tie has a stain on it.",
+      "translation": "У тебя пятно на галстуке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_19",
+      "word": "I couldn't keep from snickering.",
+      "translation": "Я не мог не хихикнуть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_20",
+      "word": "Why do you only watch horror movies?",
+      "translation": "Почему ты смотришь одни фильмы ужасов?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_21",
+      "word": "Tom started snoring.",
+      "translation": "Том захрапел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_22",
+      "word": "I wonder where I put my glasses.",
+      "translation": "Я хочу знать, куда я положил мои очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_23",
+      "word": "If it were not for books, life would be boring.",
+      "translation": "Если бы не было книг, жизнь была бы скучной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_24",
+      "word": "Is that the belt I gave you?",
+      "translation": "Это тот пояс, который я вам дал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_25",
+      "word": "Tom wore gloves.",
+      "translation": "Том был в перчатках.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_26",
+      "word": "He was accused of money-laundering.",
+      "translation": "Его обвинили в отмывании денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_27",
+      "word": "Tom started snickering.",
+      "translation": "Том начал хихикать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_28",
+      "word": "Tom gave Mary a pair of diamond earrings.",
+      "translation": "Том подарил Марии пару бриллиантовых серёжек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_29",
+      "word": "I'm not interfering.",
+      "translation": "Я не вмешиваюсь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_30",
+      "word": "This watch needs to be fixed.",
+      "translation": "Эти часы нужно починить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_31",
+      "word": "Tom was wearing John's sweater.",
+      "translation": "На Томе был свитер Джона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_32",
+      "word": "Tom fell asleep with his glasses on.",
+      "translation": "Том уснул в очках.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_33",
+      "word": "Why's everyone whispering?",
+      "translation": "Почему все говорят шёпотом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_34",
+      "word": "Don't forget your reading glasses.",
+      "translation": "Не забудь очки для чтения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_35",
+      "word": "Tom found your cap.",
+      "translation": "Том нашёл твою кепку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_36",
+      "word": "Is that a hand-knit sweater?",
+      "translation": "Это свитер ручной вязки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_37",
+      "word": "Why aren't you wearing the bracelet I gave you?",
+      "translation": "Почему ты не носишь браслет, который я тебе подарил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_38",
+      "word": "Watch the prisoner.",
+      "translation": "Приглядывай за заключённым.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_39",
+      "word": "He's wearing sunglasses.",
+      "translation": "Он в солнцезащитных очках.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_40",
+      "word": "My watch is broken.",
+      "translation": "Мои часы сломались.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_41",
+      "word": "She talked him into buying her a diamond ring.",
+      "translation": "Она уговорила его купить ей бриллиантовое кольцо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_42",
+      "word": "Do you know whose tie this is?",
+      "translation": "Вы знаете, чей это галстук?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_43",
+      "word": "This watch is my father's.",
+      "translation": "Это часы моего отца.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_44",
+      "word": "He bent over to tie his shoe.",
+      "translation": "Он наклонился, чтобы завязать шнурок на ботинке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_45",
+      "word": "The steam has fogged my glasses.",
+      "translation": "От пара запотели мои очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_46",
+      "word": "This cap is too small for me.",
+      "translation": "Эта кепка мне мала.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_47",
+      "word": "I can't find my sunglasses.",
+      "translation": "Я не могу найти свои солнечные очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_48",
+      "word": "It's fun to watch TV.",
+      "translation": "Смотреть телевизор весело.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_8_49",
+      "word": "The box contains some old jewelry.",
+      "translation": "В шкатулке лежат старые украшения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_0",
+      "word": "Tom isn't suffering.",
+      "translation": "Том не страдает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_1",
+      "word": "How much is that gold ring?",
+      "translation": "Сколько стоит это золотое кольцо?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_2",
+      "word": "Tom bought Mary a diamond ring.",
+      "translation": "Том купил Мэри кольцо с бриллиантом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_3",
+      "word": "Mary took off her bracelet.",
+      "translation": "Мэри сняла браслет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_4",
+      "word": "Tom is stuttering.",
+      "translation": "Том заикается.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_5",
+      "word": "Tom bought Mary a diamond necklace.",
+      "translation": "Том купил Мэри бриллиантовое колье.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_6",
+      "word": "We watch TV together.",
+      "translation": "Мы вместе смотрим телевизор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_7",
+      "word": "He got his watch fixed.",
+      "translation": "Ему починили часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_8",
+      "word": "How many years have you been wearing glasses?",
+      "translation": "Сколько лет вы носите очки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_9",
+      "word": "His novels are, for the most part, very boring.",
+      "translation": "Его рассказы в большинстве своём очень скучные.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_10",
+      "word": "Tom's speech will likely be boring.",
+      "translation": "Речь Тома, вероятно, будет скучной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_11",
+      "word": "I'll keep watch.",
+      "translation": "Я буду продолжать наблюдение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_12",
+      "word": "You can't just stand there and watch Tom die.",
+      "translation": "Ты не можешь вот так стоять и смотреть, как Том умирает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_13",
+      "word": "You look good without your glasses on.",
+      "translation": "Тебе хорошо без очков.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_14",
+      "word": "Tom can't see a thing without his glasses.",
+      "translation": "Том ничего не видит без очков.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_15",
+      "word": "Tom looks at the world through rose-tinted glasses.",
+      "translation": "Том смотрит на мир сквозь розовые очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_16",
+      "word": "This pocket watch is more than seventy years old.",
+      "translation": "Этим карманным часам больше семидесяти лет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_17",
+      "word": "I have one pair of gloves.",
+      "translation": "У меня есть одна пара перчаток.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_18",
+      "word": "Tom doesn't watch TV at all.",
+      "translation": "Том вообще не смотрит телевизор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_19",
+      "word": "I wasn't wearing a tie.",
+      "translation": "Я был без галстука.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_20",
+      "word": "Do you know how to tie a tie?",
+      "translation": "Ты умеешь галстук завязывать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_21",
+      "word": "Why aren't you wearing your scarf?",
+      "translation": "Почему ты без шарфа?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_22",
+      "word": "How much is this ring?",
+      "translation": "Сколько стоит это кольцо?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_23",
+      "word": "Don't take your gloves off.",
+      "translation": "Не снимай перчатки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_24",
+      "word": "My sunglasses are broken.",
+      "translation": "Мои солнечные очки сломаны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_25",
+      "word": "His tie came undone.",
+      "translation": "У него галстук развязался.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_26",
+      "word": "You're very boring.",
+      "translation": "Ты очень скучный.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_27",
+      "word": "Put your reading glasses on.",
+      "translation": "Надень свои очки для чтения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_28",
+      "word": "What's that your wearing?",
+      "translation": "Что это на тебе надето?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_29",
+      "word": "Did you remember to fasten your seatbelt?",
+      "translation": "Ты не забыла пристегнуть ремень?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_30",
+      "word": "Give me a ring if you find out anything.",
+      "translation": "Позвони мне, если что-нибудь разузнаешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_31",
+      "word": "This movie's boring.",
+      "translation": "Этот фильм скучный.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_32",
+      "word": "It is not a watch.",
+      "translation": "Это не часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_33",
+      "word": "Tom was groping around in the dark for his glasses.",
+      "translation": "Том искал в темноте свои очки на ощупь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_34",
+      "word": "Tom looked at his watch again.",
+      "translation": "Том еще раз посмотрел на часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_35",
+      "word": "She gave me a watch.",
+      "translation": "Она дала мне часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_36",
+      "word": "Is that a ring?",
+      "translation": "Это кольцо?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_37",
+      "word": "I bought a watch.",
+      "translation": "Я купила наручные часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_38",
+      "word": "Where did Tom get that sweater?",
+      "translation": "Откуда у Тома этот свитер?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_39",
+      "word": "Neither Tom nor Mary wears glasses.",
+      "translation": "Ни Том, ни Мэри не носят очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_40",
+      "word": "Do you know whose tie this might be?",
+      "translation": "Ты не знаешь, чей это может быть галстук?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_41",
+      "word": "Don't let Tom watch TV.",
+      "translation": "Не давай Тому смотреть телевизор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_42",
+      "word": "Tom can't remember where he put his sunglasses.",
+      "translation": "Том не может вспомнить, куда он положил свои солнечные очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_43",
+      "word": "Tom's speech was boring.",
+      "translation": "Речь Тома была скучной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_44",
+      "word": "Can you tie a bow?",
+      "translation": "Ты умеешь завязывать галстук?",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_45",
+      "word": "Tom pulled off his gloves.",
+      "translation": "Том стянул перчатки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_46",
+      "word": "I rarely watch documentaries.",
+      "translation": "Я редко смотрю документальные фильмы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_47",
+      "word": "Let's end all this bickering.",
+      "translation": "Закончим же все эти споры.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_48",
+      "word": "My sneakers are wet.",
+      "translation": "У меня кеды промокли.",
+      "language": "en"
+    },
+    {
+      "id": "pb_clothesaccessories_9_49",
+      "word": "I started shivering.",
+      "translation": "Я задрожал.",
+      "language": "en"
+    }
+  ]
+}

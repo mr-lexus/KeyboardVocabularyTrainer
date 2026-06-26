@@ -1,0 +1,130 @@
+.header {
+  &__container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+    background-color: var(--color-bg-secondary);
+    border-bottom: 1px solid var(--color-border);
+    position: relative;
+    z-index: 100;
+  }
+
+  &__logo {
+    font-size: 1.25rem;
+    font-weight: bold;
+    color: var(--color-accent);
+  }
+
+  &__controls {
+    display: flex;
+    align-items: center;
+    gap: 2rem;
+  }
+
+  &__actions {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+  }
+
+  &__nav {
+    display: flex;
+    gap: 1.5rem;
+  }
+
+  &__link {
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+    color: var(--color-text-secondary);
+    text-decoration: none;
+    font-weight: 500;
+    transition: color var(--transition-speed);
+    &:hover {
+      color: var(--color-text-primary);
+    }
+  }
+
+  &__link_active {
+    color: var(--color-accent);
+  }
+
+  &__themeToggle {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.5rem;
+    border-radius: 50%;
+    background-color: transparent;
+    color: var(--color-text-secondary);
+    border: 1px solid transparent;
+    cursor: pointer;
+    transition: all var(--transition-speed);
+    &:hover {
+      background-color: var(--color-bg-primary);
+      color: var(--color-text-primary);
+      border-color: var(--color-border);
+    }
+  }
+
+  &__burger {
+    display: none;
+    background: none;
+    border: none;
+    color: var(--color-text-primary);
+    cursor: pointer;
+    padding: 0.5rem;
+  }
+}
+
+@media (max-width: 768px) {
+  .header {
+    &__container {
+      padding: 1rem;
+    }
+
+    &__controls {
+      gap: 1rem;
+    }
+
+    &__burger {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+    }
+
+    &__nav {
+      position: absolute;
+      top: 100%;
+      left: 0;
+      right: 0;
+      background-color: var(--color-bg-secondary);
+      flex-direction: column;
+      gap: 0;
+      padding: 0;
+      border-bottom: none;
+      
+      /* Hidden by default on mobile */
+      max-height: 0;
+      overflow: hidden;
+      opacity: 0;
+      transition: all 0.3s ease-in-out;
+    }
+
+    &__nav_open {
+      max-height: 300px;
+      opacity: 1;
+      padding: 0.5rem 0;
+      border-bottom: 1px solid var(--color-border);
+    }
+
+    &__link {
+      padding: 1rem;
+      border-radius: 0;
+      &:hover {
+        background-color: var(--color-bg-primary);
+      }
+    }
+  }
+}

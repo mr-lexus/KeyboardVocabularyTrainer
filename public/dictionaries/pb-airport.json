@@ -1,0 +1,97 @@
+{
+  "id": "pb-airport",
+  "name": "At the Airport",
+  "description": "В аэропорту: регистрация, багаж, таможня",
+  "entries": [
+    {
+      "id": "entry_pb-airport_0",
+      "word": "Where is the check-in counter?",
+      "translation": "Где стойка регистрации?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-airport_1",
+      "word": "Here is my passport and ticket.",
+      "translation": "Вот мой паспорт и билет.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-airport_2",
+      "word": "I only have carry-on luggage.",
+      "translation": "У меня только ручная кладь.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-airport_3",
+      "word": "Do I need to take out my laptop?",
+      "translation": "Мне нужно достать ноутбук?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-airport_4",
+      "word": "What gate is my flight departing from?",
+      "translation": "От какого выхода отправляется мой рейс?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-airport_5",
+      "word": "Is the flight delayed?",
+      "translation": "Рейс задерживается?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-airport_6",
+      "word": "I would like an aisle seat, please.",
+      "translation": "Я бы хотел место у прохода, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-airport_7",
+      "word": "Where is the baggage claim area?",
+      "translation": "Где зона выдачи багажа?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-airport_8",
+      "word": "My luggage is missing.",
+      "translation": "Мой багаж пропал.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-airport_9",
+      "word": "Do you have anything to declare?",
+      "translation": "Вам есть что декларировать?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-airport_10",
+      "word": "I am traveling for tourism.",
+      "translation": "Я путешествую как турист.",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-airport_11",
+      "word": "How long will you stay in the country?",
+      "translation": "Как долго вы пробудете в стране?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-airport_12",
+      "word": "Where can I find a taxi stand?",
+      "translation": "Где я могу найти стоянку такси?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-airport_13",
+      "word": "Is there a bus to the city center?",
+      "translation": "Есть ли автобус до центра города?",
+      "language": "en"
+    },
+    {
+      "id": "entry_pb-airport_14",
+      "word": "Can I take this on the plane?",
+      "translation": "Могу я взять это в самолет?",
+      "language": "en"
+    }
+  ]
+}

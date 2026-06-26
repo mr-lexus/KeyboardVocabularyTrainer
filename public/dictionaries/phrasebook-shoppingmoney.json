@@ -1,0 +1,3007 @@
+{
+  "id": "phrasebook-shoppingmoney",
+  "name": "Shopping & Money",
+  "description": "Phrasebook for Shopping & Money",
+  "entries": [
+    {
+      "id": "pb_shoppingmoney_0_0",
+      "word": "I forgot to buy you a present.",
+      "translation": "Я забыл купить Вам подарок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_1",
+      "word": "That motorcycle isn't expensive.",
+      "translation": "Этот мотоцикл не дорогой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_2",
+      "word": "What did you buy?",
+      "translation": "Что вы купили?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_3",
+      "word": "Tom stole my money.",
+      "translation": "Том украл мои деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_4",
+      "word": "His house is for sale.",
+      "translation": "Его дом выставлен на продажу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_5",
+      "word": "How much cash do you have?",
+      "translation": "Сколько у тебя наличных?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_6",
+      "word": "Who took the money?",
+      "translation": "Кто взял деньги?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_7",
+      "word": "It's the perfect size.",
+      "translation": "Это идеальный размер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_8",
+      "word": "This shop closes at nine.",
+      "translation": "Этот магазин закрывается в девять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_9",
+      "word": "Did you buy a house?",
+      "translation": "Вы купили дом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_10",
+      "word": "Is that one for sale?",
+      "translation": "Тот продаётся?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_11",
+      "word": "Pay attention to Tom.",
+      "translation": "Обрати внимание на Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_12",
+      "word": "Pay very close attention.",
+      "translation": "Обрати самое пристальное внимание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_13",
+      "word": "You'll pay for that.",
+      "translation": "Ты за это заплатишь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_14",
+      "word": "Tom has a little money.",
+      "translation": "У Тома есть немного денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_15",
+      "word": "Tom needs more money.",
+      "translation": "Тому нужно больше денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_16",
+      "word": "What should we buy?",
+      "translation": "Что нам купить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_17",
+      "word": "We want to change that.",
+      "translation": "Мы хотим это изменить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_18",
+      "word": "Tom is in the store.",
+      "translation": "Том в магазине.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_19",
+      "word": "Buy any dress you like.",
+      "translation": "Купи любое платье, какое понравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_20",
+      "word": "Where's your money?",
+      "translation": "Где твои деньги?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_21",
+      "word": "Can I buy that from you?",
+      "translation": "Могу я купить это у Вас?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_22",
+      "word": "Apples are cheap now.",
+      "translation": "Яблоки сейчас дешёвые.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_23",
+      "word": "Why are these so cheap?",
+      "translation": "Почему они такие дешёвые?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_24",
+      "word": "Tom wants his money back.",
+      "translation": "Том хочет вернуть свои деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_25",
+      "word": "Tom will change his mind.",
+      "translation": "Том передумает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_26",
+      "word": "I'll pay you next week.",
+      "translation": "Я заплачу тебе на следующей неделе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_27",
+      "word": "What can we change?",
+      "translation": "Что мы можем изменить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_28",
+      "word": "Did you pay in cash?",
+      "translation": "Ты заплатил наличными?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_29",
+      "word": "It's still for sale.",
+      "translation": "Он ещё продаётся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_30",
+      "word": "He went back to the store.",
+      "translation": "Он пошёл обратно в магазин.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_31",
+      "word": "Money can't make up for lost time.",
+      "translation": "Деньги не могут компенсировать потерянное время.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_32",
+      "word": "I have to buy a car this weekend.",
+      "translation": "Мне нужно купить машину на этих выходных.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_33",
+      "word": "You didn't say how much it cost.",
+      "translation": "Ты не сказал, сколько это стоит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_34",
+      "word": "I wish I had as much money as Tom.",
+      "translation": "Вот бы у меня было столько денег, сколько у Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_35",
+      "word": "How much does a newspaper subscription cost?",
+      "translation": "Сколько стоит подписка на газету?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_36",
+      "word": "Everything could change.",
+      "translation": "Всё могло измениться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_37",
+      "word": "Tom didn't buy anything.",
+      "translation": "Том ничего не купил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_38",
+      "word": "The cost of the painting is very high.",
+      "translation": "Стоимость картины очень высока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_39",
+      "word": "Tom made a lot of money.",
+      "translation": "Том заработал кучу денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_40",
+      "word": "Did you buy a new car?",
+      "translation": "Ты купила новую машину?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_41",
+      "word": "I don't want to buy it.",
+      "translation": "Я не хочу это покупать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_42",
+      "word": "Where can I buy A4 paper?",
+      "translation": "Где я могу купить бумагу формата А4?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_43",
+      "word": "You shouldn't have lent money to Tom.",
+      "translation": "Тебе не надо было одалживать Тому деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_44",
+      "word": "Rent is expensive here.",
+      "translation": "Аренда здесь дорогая.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_45",
+      "word": "Tickets are expensive.",
+      "translation": "Билеты дорогие.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_46",
+      "word": "Tom was able to buy what he wanted.",
+      "translation": "Том смог купить то, что хотел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_47",
+      "word": "What do you want to buy?",
+      "translation": "Что ты хочешь купить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_48",
+      "word": "I didn't agree to pay Tom that much.",
+      "translation": "Я не согласился платить Тому так много.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_0_49",
+      "word": "Let's change the topic.",
+      "translation": "Давайте сменим тему.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_0",
+      "word": "You take the money.",
+      "translation": "Возьми деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_1",
+      "word": "It is difficult for him to buy a car.",
+      "translation": "Ему сложно купить машину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_2",
+      "word": "You spend too much money.",
+      "translation": "Ты тратишь слишком много денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_3",
+      "word": "That dress is cheap.",
+      "translation": "То платье дешёвое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_4",
+      "word": "I don't care how much money it costs.",
+      "translation": "Мне всё равно, сколько это стоит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_5",
+      "word": "This house is for sale.",
+      "translation": "Этот дом продаётся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_6",
+      "word": "Tom will never change.",
+      "translation": "Том никогда не изменится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_7",
+      "word": "Do you have some money?",
+      "translation": "У тебя есть немного денег?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_8",
+      "word": "I'll buy the tickets.",
+      "translation": "Я куплю билеты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_9",
+      "word": "Money changes people.",
+      "translation": "Деньги меняют людей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_10",
+      "word": "It cost about three hundred dollars.",
+      "translation": "Это стоило около трёхсот долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_11",
+      "word": "I wasn't sure if I had enough money.",
+      "translation": "Я не был уверен, что мне хватит денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_12",
+      "word": "If it isn't expensive, I'll buy it.",
+      "translation": "Если это недорого, я куплю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_13",
+      "word": "Tom got a bargain price.",
+      "translation": "Том получил цену со скидкой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_14",
+      "word": "This money is really going to help.",
+      "translation": "Эти деньги действительно помогут.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_15",
+      "word": "I told Tom he should buy a new car.",
+      "translation": "Я сказал Тому, что ему надо купить новую машину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_16",
+      "word": "The bird was half the size of a hawk.",
+      "translation": "Птица была вдвое меньше ястреба.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_17",
+      "word": "Tom asked me for money.",
+      "translation": "Том попросил у меня денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_18",
+      "word": "Tom didn't buy any eggs.",
+      "translation": "Том не купил яйца.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_19",
+      "word": "I didn't have to pay anything.",
+      "translation": "Мне не пришлось ничего платить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_20",
+      "word": "I never had enough money to buy a car.",
+      "translation": "У меня никогда не было достаточно денег, чтобы купить автомобиль.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_21",
+      "word": "When did you buy this cello?",
+      "translation": "Когда ты купил эту виолончель?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_22",
+      "word": "Did you buy potatoes, too?",
+      "translation": "Ты картошку тоже купил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_23",
+      "word": "Tom makes more money than Mary does.",
+      "translation": "Том зарабатывает больше Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_24",
+      "word": "Don't pay any attention to her whims.",
+      "translation": "Не обращай внимания на её капризы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_25",
+      "word": "Tom said he would buy what was needed.",
+      "translation": "Том сказал, что купит всё необходимое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_26",
+      "word": "I only did that for the money.",
+      "translation": "Я сделал это только ради денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_27",
+      "word": "These boots are expensive.",
+      "translation": "Эти ботинки дорогие.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_28",
+      "word": "Tom offered to pay for damages.",
+      "translation": "Том предложил заплатить за ущерб.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_29",
+      "word": "Do you still need money?",
+      "translation": "Тебе ещё нужны деньги?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_30",
+      "word": "We need to buy a new TV.",
+      "translation": "Нам нужно купить новый телевизор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_31",
+      "word": "I think I'll buy a new car.",
+      "translation": "Я, пожалуй, куплю новую машину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_32",
+      "word": "It takes at least four days to change.",
+      "translation": "Для изменений требуется как минимум четыре дня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_33",
+      "word": "Tom and I wear the same size shoes.",
+      "translation": "У нас с Томом один размер обуви.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_34",
+      "word": "I need to buy fruit and vegetables.",
+      "translation": "Мне нужно купить овощей и фруктов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_35",
+      "word": "Tom is rolling in money.",
+      "translation": "Том купается в деньгах.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_36",
+      "word": "Tom told Mary what he needed to buy.",
+      "translation": "Том сказал Мэри, что ему нужно купить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_37",
+      "word": "Tom just wants my money.",
+      "translation": "Тому просто нужны мои деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_38",
+      "word": "Let's do this before I change my mind.",
+      "translation": "Давай сделаем это, пока я не передумал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_39",
+      "word": "The trouble is that I am short of money these days.",
+      "translation": "Проблема в том, что у меня сейчас трудности с деньгами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_40",
+      "word": "If I had enough money, I'd buy this.",
+      "translation": "Если бы у меня было достаточно денег, я бы это купил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_41",
+      "word": "Tom withdrew some money from his bank account.",
+      "translation": "Том снял немного денег со своего банковского счёта.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_42",
+      "word": "Tom asked for a discount.",
+      "translation": "Том попросил скидку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_43",
+      "word": "Tom denied having stolen the money.",
+      "translation": "Том отрицал, что украл деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_44",
+      "word": "Why did you buy it?",
+      "translation": "Почему ты это купил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_45",
+      "word": "Does Tom need any money?",
+      "translation": "Тому нужны деньги?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_46",
+      "word": "Do you have any money?",
+      "translation": "У вас есть деньги?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_47",
+      "word": "I forgot to buy Tom a present.",
+      "translation": "Я забыл купить Тому подарок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_48",
+      "word": "Tom told me he didn't have as much money as Mary.",
+      "translation": "Том сказал мне, что у него не так много денег, как у Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_1_49",
+      "word": "Did you buy me anything?",
+      "translation": "Ты мне что-нибудь купил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_0",
+      "word": "Someone has taken all the money out of the safe.",
+      "translation": "Кто-то забрал все деньги из сейфа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_1",
+      "word": "We have no extra money.",
+      "translation": "У нас нет лишних денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_2",
+      "word": "Tom gave Mary a very expensive ring.",
+      "translation": "Том подарил Мэри очень дорогое кольцо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_3",
+      "word": "I've been told that I should pay more attention.",
+      "translation": "Мне сказали, что я должен быть более внимательным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_4",
+      "word": "Why is this so expensive?",
+      "translation": "Почему это так дорого?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_5",
+      "word": "What books did you buy?",
+      "translation": "Какие книги вы купили?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_6",
+      "word": "Tom gave Mary the money she asked for.",
+      "translation": "Том дал Мэри деньги, которые она просила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_7",
+      "word": "Some are expensive, and others are very cheap.",
+      "translation": "Некоторые дорогие, другие - очень дёшевы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_8",
+      "word": "They adapted themselves to the change quickly.",
+      "translation": "Они быстро приспособились к переменам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_9",
+      "word": "I don't know how much money we're going to need.",
+      "translation": "Я не знаю, сколько нам понадобится денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_10",
+      "word": "It's very expensive.",
+      "translation": "Это очень дорого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_11",
+      "word": "I advised Tom to buy that car.",
+      "translation": "Я посоветовал Тому купить ту машину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_12",
+      "word": "I know Tom isn't going to pay me for doing this.",
+      "translation": "Я знаю, что Том мне за это не заплатит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_13",
+      "word": "That'll change soon.",
+      "translation": "Это скоро изменится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_14",
+      "word": "Give me my money back.",
+      "translation": "Отдай мне мои деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_15",
+      "word": "There is a large choice of bags in this shop.",
+      "translation": "В этом магазине большой выбор сумок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_16",
+      "word": "This shirt isn't my size.",
+      "translation": "Эта рубашка не моего размера.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_17",
+      "word": "Losing one's health is worse than losing money.",
+      "translation": "Потерять здоровье - это хуже, чем потерять деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_18",
+      "word": "It cost me a lot of money to build a new house.",
+      "translation": "Строительство нового дома стоило мне больших денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_19",
+      "word": "My father always said time was money.",
+      "translation": "Отец всегда говорил, что время - деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_20",
+      "word": "Tom bought everything that we asked him to buy.",
+      "translation": "Том купил всё, что мы просили.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_21",
+      "word": "Tom bought a very expensive camera.",
+      "translation": "Том купил очень дорогую камеру.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_22",
+      "word": "I'd lend you money if I could.",
+      "translation": "Я бы одолжил тебе денег, если бы мог.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_23",
+      "word": "I didn't pay attention to him.",
+      "translation": "Я не обратил на него внимания.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_24",
+      "word": "The store opens at 9 a.m.",
+      "translation": "Магазин открывается в девять часов утра.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_25",
+      "word": "Tom is desperate for money.",
+      "translation": "Том отчаянно нуждается в деньгах.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_26",
+      "word": "You don't need to buy any more wine.",
+      "translation": "Больше вина покупать не нужно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_27",
+      "word": "Do you have a larger size?",
+      "translation": "У Вас есть размером больше?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_28",
+      "word": "You pay me very well.",
+      "translation": "Вы очень хорошо мне платите.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_29",
+      "word": "Tom couldn't afford to buy the bicycle he wanted.",
+      "translation": "Том не мог позволить себе купить велосипед, который он хотел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_30",
+      "word": "Everything comes at a price.",
+      "translation": "За всё надо платить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_31",
+      "word": "Is this enough money?",
+      "translation": "Столько денег хватит?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_32",
+      "word": "Nonstop flights are almost always more expensive.",
+      "translation": "Беспосадочные перелёты почти всегда стоят дороже.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_33",
+      "word": "I'm guessing you didn't buy this for yourself.",
+      "translation": "Полагаю, ты это не для себя купил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_34",
+      "word": "The stolen jewels must be recovered at any cost.",
+      "translation": "Украденные драгоценности должны быть возвращены любой ценой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_35",
+      "word": "You can rent a bicycle by the hour at this shop.",
+      "translation": "В этом магазине можно взять велосипед напрокат с почасовой оплатой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_36",
+      "word": "A burglar broke into the shop last night.",
+      "translation": "Вор проник в магазин прошлой ночью.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_37",
+      "word": "It's high time you stopped wasting your money.",
+      "translation": "Пора бы уже тебе перестать тратить впустую свои деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_38",
+      "word": "This is all the money I have on me.",
+      "translation": "Это все деньги, что у меня с собой есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_39",
+      "word": "The leaves have begun to change colors.",
+      "translation": "Листья начали менять цвет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_40",
+      "word": "Why did Tom change?",
+      "translation": "Почему Том переоделся?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_41",
+      "word": "That tie is too expensive.",
+      "translation": "Тот галстук слишком дорогой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_42",
+      "word": "It's not too late to change your mind.",
+      "translation": "Вы ещё можете передумать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_43",
+      "word": "How much money will you need?",
+      "translation": "Сколько денег тебе понадобится?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_44",
+      "word": "How much did that cost?",
+      "translation": "Сколько это стоило?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_45",
+      "word": "It's about the size of an egg.",
+      "translation": "Это размером примерно с яйцо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_46",
+      "word": "People were lined up to buy tickets.",
+      "translation": "Люди выстроились в очередь, чтобы купить билеты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_47",
+      "word": "The bank wants its money back.",
+      "translation": "Банк хочет вернуть свои деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_48",
+      "word": "I won't buy this. It's too expensive.",
+      "translation": "Я не буду это покупать. Это слишком дорого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_2_49",
+      "word": "We spent a lot of money on furnishing our house.",
+      "translation": "Мы потратили много денег на обустройство дома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_0",
+      "word": "A true friendship is more valuable than money.",
+      "translation": "Настоящая дружба дороже денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_1",
+      "word": "Let's share this money between the two of us.",
+      "translation": "Поделим эти деньги между нами двумя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_2",
+      "word": "Tom admitted that he had stolen the money.",
+      "translation": "Том признался, что украл деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_3",
+      "word": "Stop spending money on stupid things.",
+      "translation": "Прекрати тратить деньги на глупости.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_4",
+      "word": "Tom is willing to pay Mary whatever she asks for.",
+      "translation": "Том готов заплатить Мэри всё, что она попросит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_5",
+      "word": "We need to buy fruit and vegetables.",
+      "translation": "Нам нужно купить овощей и фруктов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_6",
+      "word": "I didn't know what to buy.",
+      "translation": "Я не знал, что купить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_7",
+      "word": "Tom needs some cash.",
+      "translation": "Тому нужны наличные.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_8",
+      "word": "I don't think Tom knows what Mary wants to buy.",
+      "translation": "Не думаю, что Том знает, что Мэри хочет купить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_9",
+      "word": "You don't have to pay attention to what Tom says.",
+      "translation": "Не стоит обращать внимание на то, что Том говорит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_10",
+      "word": "Tom has spent almost all of his money.",
+      "translation": "Том истратил почти все свои деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_11",
+      "word": "Tom counted the change.",
+      "translation": "Том сосчитал сдачу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_12",
+      "word": "You can't change what's already happened.",
+      "translation": "Нельзя изменить того, что уже произошло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_13",
+      "word": "Tom noticed a change in Mary.",
+      "translation": "Том заметил перемену в Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_14",
+      "word": "It was really cheap.",
+      "translation": "Это было очень дёшево.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_15",
+      "word": "Does Tom have a credit card?",
+      "translation": "У Тома есть кредитная карта?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_16",
+      "word": "Is climate change really happening?",
+      "translation": "Климат действительно изменяется?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_17",
+      "word": "This size doesn't fit me.",
+      "translation": "Этот размер мне не подходит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_18",
+      "word": "She spends a lot of money on books.",
+      "translation": "Она тратит много денег на книги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_19",
+      "word": "I borrowed money from Tom.",
+      "translation": "Я занял у Тома денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_20",
+      "word": "Put the money in the bag.",
+      "translation": "Положи деньги в сумку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_21",
+      "word": "It's not too late for you to change your mind.",
+      "translation": "Вы ещё можете передумать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_22",
+      "word": "Where can I buy a brush?",
+      "translation": "Где я могу купить щётку?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_23",
+      "word": "I don't have the money to buy that dictionary.",
+      "translation": "У меня нет денег, чтобы купить этот словарь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_24",
+      "word": "Who'll pay the bills?",
+      "translation": "Кто оплатит счета?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_25",
+      "word": "Let me pay for this.",
+      "translation": "Давай я за это заплачу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_26",
+      "word": "I don't think Tom has to pay anything.",
+      "translation": "Не думаю, что Тому надо что-то платить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_27",
+      "word": "He explained to me that he had no money.",
+      "translation": "Он объяснил мне, что у него нет денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_28",
+      "word": "I think we should reduce the price.",
+      "translation": "Я думаю, нам стоит снизить цену.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_29",
+      "word": "I had to resort to threats to get my money back.",
+      "translation": "Мне пришлось пригрозить, что я заберу обратно свои деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_30",
+      "word": "Tom is out of money.",
+      "translation": "То́му не хватает денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_31",
+      "word": "The size of the carpet is 120 by 160 centimeters.",
+      "translation": "Размер ковра - 120 на 160 сантиметров.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_32",
+      "word": "We lost all our money.",
+      "translation": "Мы потеряли все наши деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_33",
+      "word": "That's what I want to buy.",
+      "translation": "Вот что я хочу купить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_34",
+      "word": "I'm not going to change.",
+      "translation": "Я не изменюсь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_35",
+      "word": "I still need to buy a birthday present for Tom.",
+      "translation": "Мне ещё надо купить Тому подарок на день рождения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_36",
+      "word": "Tom always worries about money.",
+      "translation": "Том постоянно беспокоится о деньгах.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_37",
+      "word": "You should pay your debts.",
+      "translation": "Тебе следует заплатить по долгам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_38",
+      "word": "Why did you lend Tom money?",
+      "translation": "Зачем ты одолжил Тому деньги?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_39",
+      "word": "I need to pay the rent.",
+      "translation": "Мне нужно заплатить за аренду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_40",
+      "word": "Can I buy that for you?",
+      "translation": "Могу я тебе это купить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_41",
+      "word": "Why do people buy things that they don't need?",
+      "translation": "Почему люди покупают вещи, которые им не нужны?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_42",
+      "word": "It's not really all that expensive.",
+      "translation": "Это совсем не так дорого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_43",
+      "word": "Tom asked me if I had any cash on me.",
+      "translation": "Том спросил меня, есть ли у меня при себе наличные.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_44",
+      "word": "We want to buy books.",
+      "translation": "Мы хотим купить книги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_45",
+      "word": "Unfortunately, I don't have so much money on me.",
+      "translation": "К сожалению, у меня с собой нет столько денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_46",
+      "word": "The internet will change the world.",
+      "translation": "Интернет изменит мир.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_47",
+      "word": "She put the money in the bank.",
+      "translation": "Она положила деньги в банк.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_48",
+      "word": "You forgot to tell me to buy bread.",
+      "translation": "Ты забыл сказать мне купить хлеба.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_3_49",
+      "word": "Can you save enough money for the down payment?",
+      "translation": "Ты можешь собрать достаточно денег для платежа?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_0",
+      "word": "Where did Tom buy those pants?",
+      "translation": "Где Том купил эти брюки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_1",
+      "word": "I'd like to buy two 45-cent stamps, please.",
+      "translation": "Я хотел бы купить две марки по сорок пять центов, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_2",
+      "word": "Where is your money?",
+      "translation": "Где твои деньги?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_3",
+      "word": "Don't tell me how to spend my money.",
+      "translation": "Не учи меня, как мне тратить свои деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_4",
+      "word": "I looked at the price tag.",
+      "translation": "Я посмотрел на ценник.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_5",
+      "word": "I think we've got enough money to buy everything we need.",
+      "translation": "Думаю, у нас достаточно денег, чтобы купить всё, что нам нужно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_6",
+      "word": "I have a credit card.",
+      "translation": "У меня есть кредитная карточка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_7",
+      "word": "I suppose you want me to pay for this.",
+      "translation": "Полагаю, вы хотите, чтобы я за это заплатил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_8",
+      "word": "Do you have any money with you?",
+      "translation": "У тебя есть с собой деньги?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_9",
+      "word": "I don't have that much money.",
+      "translation": "У меня нет таких денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_10",
+      "word": "It's up to you whether to buy it or not.",
+      "translation": "Вам решать, покупать его или нет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_11",
+      "word": "We still need money.",
+      "translation": "Нам всё ещё нужны деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_12",
+      "word": "Tom said that he needed to borrow some money.",
+      "translation": "Том сказал, что ему нужно занять денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_13",
+      "word": "I have to go home and change.",
+      "translation": "Мне надо пойти домой переодеться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_14",
+      "word": "How will you pay your debts?",
+      "translation": "Как ты заплатишь свои долги?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_15",
+      "word": "All Tom wants is money.",
+      "translation": "Всё, чего Том хочет, - это деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_16",
+      "word": "I don't think that Tom has much money in the bank.",
+      "translation": "Не думаю, что у Тома много денег в банке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_17",
+      "word": "I need to buy a new shirt.",
+      "translation": "Мне нужно купить новую рубашку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_18",
+      "word": "You're right on the money.",
+      "translation": "Ты абсолютно прав.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_19",
+      "word": "I'm going to invest money in this business.",
+      "translation": "Я собираюсь вложить деньги в этот бизнес.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_20",
+      "word": "Do you have the money?",
+      "translation": "Деньги у вас?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_21",
+      "word": "Did you buy anything?",
+      "translation": "Ты что-нибудь купил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_22",
+      "word": "How much money does Tom need to borrow?",
+      "translation": "Сколько денег Тому нужно занять?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_23",
+      "word": "Tom sent money home.",
+      "translation": "Том посылал домой деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_24",
+      "word": "When did you buy your car?",
+      "translation": "Когда ты купил свою машину?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_25",
+      "word": "There's nothing that can't be bought with money.",
+      "translation": "Нет ничего, что нельзя было бы купить за деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_26",
+      "word": "I want you to run to the store for me.",
+      "translation": "Я хочу, чтобы ты сбегал в магазин для меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_27",
+      "word": "We didn't ask for money.",
+      "translation": "Мы не просили денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_28",
+      "word": "We're going to the shop.",
+      "translation": "Мы едем в магазин.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_29",
+      "word": "The cost of living is rising.",
+      "translation": "Жизнь дорожает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_30",
+      "word": "Do I have to pay you back?",
+      "translation": "Я должен вернуть вам деньги?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_31",
+      "word": "I can't afford to buy another computer.",
+      "translation": "Я не могу позволить себе купить ещё один компьютер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_32",
+      "word": "I don't care how much money you make.",
+      "translation": "Меня не волнует, сколько ты зарабатываешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_33",
+      "word": "Any watch will do as long as it's cheap.",
+      "translation": "Подойдут любые часы, если они недорогие.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_34",
+      "word": "Who says change is good?",
+      "translation": "Кто говорит, что перемены - это хорошо?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_35",
+      "word": "Nothing will ever change here.",
+      "translation": "Здесь ничего никогда не изменится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_36",
+      "word": "The store is just across from my house.",
+      "translation": "Магазин находится прямо напротив моего дома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_37",
+      "word": "I don't know what Tom wants me to buy.",
+      "translation": "Я не знаю, что Том хочет, чтобы я купил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_38",
+      "word": "I don't know where to buy imported cheese.",
+      "translation": "Я не знаю, где купить импортный сыр.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_39",
+      "word": "They're wearing very expensive rings.",
+      "translation": "На них очень дорогие кольца.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_40",
+      "word": "Drive me to the store.",
+      "translation": "Отвези меня в магазин.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_41",
+      "word": "Don't give money to anyone.",
+      "translation": "Не давайте никому денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_42",
+      "word": "Tom asked Mary to lend John some money.",
+      "translation": "Том попросил Мэри одолжить Джону денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_43",
+      "word": "That car is really expensive.",
+      "translation": "Эта машина действительно дорогая.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_44",
+      "word": "The price of rice rose by more than three percent.",
+      "translation": "Цены на рис выросли более чем на три процента.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_45",
+      "word": "He wasn't only fined, he also had to pay for damages.",
+      "translation": "Он был не только уволен, но ещё и вынужден заплатить за ущерб.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_46",
+      "word": "What did you buy from Tom?",
+      "translation": "Что ты у Тома купил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_47",
+      "word": "I hope Tom doesn't change his mind.",
+      "translation": "Надеюсь, Том не передумает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_48",
+      "word": "I don't have any small change on me.",
+      "translation": "У меня с собой нет мелочи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_4_49",
+      "word": "If I had the money, I'd buy this computer.",
+      "translation": "Если бы у меня были деньги, я бы купил этот компьютер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_0",
+      "word": "She is buying books in the bookstore.",
+      "translation": "Она покупает книги в книжном магазине.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_1",
+      "word": "I paid a lot of money for these tickets.",
+      "translation": "Я заплатил много денег за эти билеты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_2",
+      "word": "How much will it cost to fix the car?",
+      "translation": "Сколько будет стоить починить машину?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_3",
+      "word": "How will you pay for that?",
+      "translation": "Как вы за это заплатите?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_4",
+      "word": "Tom should change his locks.",
+      "translation": "Тому надо бы сменить замки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_5",
+      "word": "What do you think Tom's waist size is?",
+      "translation": "Как ты думаешь, какой у Тома размер талии?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_6",
+      "word": "Why did Tom buy a new car?",
+      "translation": "Зачем Том купил новую машину?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_7",
+      "word": "Here is your receipt.",
+      "translation": "Вот ваша квитанция.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_8",
+      "word": "I don't have enough money yet.",
+      "translation": "У меня пока ещё недостаточно денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_9",
+      "word": "It's your turn to pay.",
+      "translation": "Твоя очередь платить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_10",
+      "word": "Where can I buy silk?",
+      "translation": "Где я могу купить шёлк?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_11",
+      "word": "Where did you buy this guitar?",
+      "translation": "Где вы купили эту гитару?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_12",
+      "word": "This investment won't pay off.",
+      "translation": "Эта инвестиция не окупится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_13",
+      "word": "I've lost my fountain pen. I have to buy one tomorrow.",
+      "translation": "Я потерял свою авторучку. Мне надо купить завтра другую.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_14",
+      "word": "That scandal cost him his reputation.",
+      "translation": "Этот скандал стоил ему репутации.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_15",
+      "word": "Don't worry about the cost.",
+      "translation": "О цене не беспокойтесь!",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_16",
+      "word": "Don't pay any attention to what people say.",
+      "translation": "Не обращайте внимания на то, что люди говорят.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_17",
+      "word": "She has some money of her own.",
+      "translation": "У неё есть немного собственных денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_18",
+      "word": "Try this on for size.",
+      "translation": "Проверь, подойдёт ли по размеру.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_19",
+      "word": "Those are the most expensive shoes I've ever seen.",
+      "translation": "Это самые дорогие туфли, которые я когда-либо видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_20",
+      "word": "I think we ought to change our policy.",
+      "translation": "Я думаю, что мы должны изменить нашу политику.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_21",
+      "word": "Tom forgave Mary for losing all his money.",
+      "translation": "Том простил Мэри за то, что она потеряла все его деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_22",
+      "word": "You can't pay too much for good shoes.",
+      "translation": "Хорошая обувь не бывает слишком дорогой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_23",
+      "word": "They will buy some bread.",
+      "translation": "Они купят хлеба.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_24",
+      "word": "This computer didn't cost much.",
+      "translation": "Этот компьютер стоил недорого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_25",
+      "word": "That's just a cheap publicity stunt.",
+      "translation": "Это просто дешёвый рекламный трюк.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_26",
+      "word": "The stockholders are making money hand over fist.",
+      "translation": "Акционеры гребут деньги лопатой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_27",
+      "word": "You pay for quality.",
+      "translation": "Ты платишь за качество.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_28",
+      "word": "I'm thinking about what I should buy.",
+      "translation": "Я думаю о том, что мне покупать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_29",
+      "word": "We don't have enough money to buy a house.",
+      "translation": "У нас недостаточно денег для покупки дома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_30",
+      "word": "I don't have any money either.",
+      "translation": "У меня тоже нет денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_31",
+      "word": "What exactly do you want me to buy?",
+      "translation": "Что именно ты хочешь, чтобы я купил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_32",
+      "word": "I'm going to buy a present for Tom.",
+      "translation": "Я куплю Тому подарок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_33",
+      "word": "Where can I buy it?",
+      "translation": "Где я могу его купить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_34",
+      "word": "I thought the price was kind of high.",
+      "translation": "Я подумал, что цена высоковата.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_35",
+      "word": "Call me if there's a change.",
+      "translation": "Позови меня, если что-нибудь изменится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_36",
+      "word": "I'll buy both this one and that one.",
+      "translation": "Я куплю и тот, и этот.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_37",
+      "word": "The mistake cost him his head.",
+      "translation": "Ошибка стоила ему головы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_38",
+      "word": "If you could go back in time, what would you change?",
+      "translation": "Если бы ты могла вернуться в прошлое, что бы ты изменила?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_39",
+      "word": "Cash or credit card?",
+      "translation": "Наличными или кредиткой?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_40",
+      "word": "Advertisements urge us to buy luxuries.",
+      "translation": "Реклама побуждает нас покупать излишества.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_41",
+      "word": "I would have bought that car if I'd had the money.",
+      "translation": "Я бы купил ту машину, если бы были деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_42",
+      "word": "This is the best guitar in the store.",
+      "translation": "Это лучшая гитара в магазине.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_43",
+      "word": "Let me go to the store.",
+      "translation": "Давай я пойду в магазин.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_44",
+      "word": "I think this will change your mind.",
+      "translation": "Мне кажется, это изменит твоё мнение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_45",
+      "word": "I hid my money under my pillow.",
+      "translation": "Я спрятал деньги под подушкой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_46",
+      "word": "Can I pay on credit?",
+      "translation": "Могу я заплатить в кредит?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_47",
+      "word": "Tom doesn't have much money in the bank.",
+      "translation": "В банке у Тома немного денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_48",
+      "word": "You don't have to buy me anything.",
+      "translation": "Ты не обязан мне ничего покупать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_5_49",
+      "word": "It is too expensive for me to buy.",
+      "translation": "Это для меня слишком дорого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_0",
+      "word": "How much of a discount do you think I can get?",
+      "translation": "Как думаешь, какую скидку мне могут дать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_1",
+      "word": "When and where did you buy that?",
+      "translation": "Где и когда ты это купил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_2",
+      "word": "Do you know where the money is?",
+      "translation": "Ты знаешь, где деньги?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_3",
+      "word": "Tom hopes to change that.",
+      "translation": "Том надеется это изменить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_4",
+      "word": "Why did you give money to Tom?",
+      "translation": "Зачем ты дал Тому деньги?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_5",
+      "word": "What would you buy if you had 19 billion dollars?",
+      "translation": "Что бы ты купил, будь у тебя 19 миллиардов долларов?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_6",
+      "word": "Tom makes more money than I do.",
+      "translation": "Том зарабатывает больше меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_7",
+      "word": "I want to pay for it now.",
+      "translation": "Я хочу заплатить за это сейчас.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_8",
+      "word": "I had to change the rules.",
+      "translation": "Мне пришлось изменить правила.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_9",
+      "word": "I should've taken the money.",
+      "translation": "Надо было мне взять деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_10",
+      "word": "The leaves have started to change colors.",
+      "translation": "Листья начали меняться в цвете.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_11",
+      "word": "Tom wanted me to buy him a pony.",
+      "translation": "Том хотел, чтобы я купил ему пони.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_12",
+      "word": "Now pay attention, children.",
+      "translation": "Теперь внимание, дети.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_13",
+      "word": "I wanted to buy a house.",
+      "translation": "Я хотел купить дом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_14",
+      "word": "Someone stole my money.",
+      "translation": "Кто-то украл мои деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_15",
+      "word": "Tom didn't need money.",
+      "translation": "Тому не нужны были деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_16",
+      "word": "When and where did you buy that old clock?",
+      "translation": "Когда и где Вы купили эти старые часы?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_17",
+      "word": "How much money do you have?",
+      "translation": "Сколько у тебя денег?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_18",
+      "word": "You can buy whatever you want.",
+      "translation": "Можешь покупать всё, что хочешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_19",
+      "word": "Apparently, most people don't want anything to change.",
+      "translation": "Очевидно, большинство людей не хочет, чтобы что-то менялось.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_20",
+      "word": "I need to buy some rope.",
+      "translation": "Мне нужно купить верёвку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_21",
+      "word": "Tom doesn't know what Mary wants to buy.",
+      "translation": "Том не знает, что Мэри хочет купить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_22",
+      "word": "Tom had no money left.",
+      "translation": "У Тома не осталось больше денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_23",
+      "word": "Is that too expensive for you?",
+      "translation": "Это для вас слишком дорого?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_24",
+      "word": "Don't gamble with other people's money.",
+      "translation": "Не играйте на чужие деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_25",
+      "word": "Tom counted the money.",
+      "translation": "Том сосчитал деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_26",
+      "word": "Tom usually pays for everything in cash.",
+      "translation": "Том, как правило, платит наличными.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_27",
+      "word": "Tom usually doesn't buy expensive clothes.",
+      "translation": "Том обычно не покупает дорогую одежду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_28",
+      "word": "It's a very expensive process.",
+      "translation": "Это очень дорогостоящий процесс.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_29",
+      "word": "I can lend you some money if you need some.",
+      "translation": "Я могу одолжить тебе немного денег, если тебе нужно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_30",
+      "word": "Tom might change his mind.",
+      "translation": "Том может передумать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_31",
+      "word": "I need some cash now.",
+      "translation": "Сейчас мне нужно немного наличных.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_32",
+      "word": "I wanted to buy that painting.",
+      "translation": "Я хотел купить эту картину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_33",
+      "word": "The money belongs to the company.",
+      "translation": "Деньги принадлежат компании.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_34",
+      "word": "I don't want you to buy anything for me.",
+      "translation": "Я не хочу, чтобы ты мне что-то покупал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_35",
+      "word": "Everybody knows she married him for his money.",
+      "translation": "Все знают, что она вышла за него из-за денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_36",
+      "word": "I bought what Tom asked me to buy.",
+      "translation": "Я купил Тому то, что он просил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_37",
+      "word": "This is your change.",
+      "translation": "Вот Ваша сдача.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_38",
+      "word": "Please give us our money back.",
+      "translation": "Верни нам, пожалуйста, наши деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_39",
+      "word": "He bribed that politician with a great deal of money.",
+      "translation": "Он подкупил того политика крупной суммой денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_40",
+      "word": "I guess that some things never change.",
+      "translation": "Думаю, некоторые вещи никогда не меняются.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_41",
+      "word": "Making money is not the only goal in life.",
+      "translation": "Зарабатывание денег не единственная цель в жизни.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_42",
+      "word": "Everyone wants money.",
+      "translation": "Все хотят денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_43",
+      "word": "Tom certainly knows how to make money.",
+      "translation": "Том точно знает, как делать деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_44",
+      "word": "Tom wants to buy a car.",
+      "translation": "Том хочет купить машину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_45",
+      "word": "That doesn't change a thing.",
+      "translation": "Это ничего не меняет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_46",
+      "word": "Mars is half the size of Earth.",
+      "translation": "Марс в два раза меньше Земли.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_47",
+      "word": "Why did you buy that umbrella?",
+      "translation": "Зачем ты купил этот зонтик?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_48",
+      "word": "I need you to go to the supermarket and buy some milk.",
+      "translation": "Мне нужно, чтобы ты сходил в супермаркет за молоком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_6_49",
+      "word": "My family owns this store.",
+      "translation": "Моя семья владеет этим магазином.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_0",
+      "word": "Nothing's gonna change my world.",
+      "translation": "Ничто не изменит мой мир.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_1",
+      "word": "Why don't you buy it?",
+      "translation": "Почему бы тебе его не купить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_2",
+      "word": "Did you buy bread and milk?",
+      "translation": "Ты купил хлеба и молока?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_3",
+      "word": "Please change the channel.",
+      "translation": "Переключи канал, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_4",
+      "word": "I have to pay a little more attention.",
+      "translation": "Я должен быть более внимательным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_5",
+      "word": "Tom lied about taking the money.",
+      "translation": "Том солгал о том, что взял деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_6",
+      "word": "I'd hate to pay again.",
+      "translation": "Мне бы очень не хотелось снова платить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_7",
+      "word": "Don't trust him with such a large sum of money.",
+      "translation": "Не доверяй ему такую крупную сумму денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_8",
+      "word": "Tom has been spending a lot of money on clothes.",
+      "translation": "Том потратил много денег на одежду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_9",
+      "word": "Health is more important than money.",
+      "translation": "Здоровье важнее денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_10",
+      "word": "I have no money to buy the dictionary with.",
+      "translation": "У меня нет денег, чтобы купить словарь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_11",
+      "word": "Tom bought an expensive guitar.",
+      "translation": "Том купил дорогую гитару.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_12",
+      "word": "It'll cost more than thirty dollars.",
+      "translation": "Это будет стоить больше тридцати долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_13",
+      "word": "Where did Tom buy these shoes?",
+      "translation": "Где Том купил эти ботинки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_14",
+      "word": "I almost never buy chocolate.",
+      "translation": "Я почти не покупаю шоколад.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_15",
+      "word": "What size are these shoes?",
+      "translation": "Какого размера эти туфли?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_16",
+      "word": "Tom rode his bike to the store.",
+      "translation": "Том поехал на велосипеде в магазин.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_17",
+      "word": "How much cheese should I buy?",
+      "translation": "Сколько сыра купить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_18",
+      "word": "How much did this ring cost?",
+      "translation": "Сколько стоило это кольцо?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_19",
+      "word": "I haven't given the money to Tom yet.",
+      "translation": "Я ещё не давал денег Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_20",
+      "word": "We're out of money.",
+      "translation": "У нас нет денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_21",
+      "word": "Money in your pocket helps chase the blues away.",
+      "translation": "Деньги в кармане помогают развеять грусть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_22",
+      "word": "I want to have a lot of money.",
+      "translation": "Я хочу иметь много денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_23",
+      "word": "The change in weather was sudden.",
+      "translation": "Погода переменилась внезапно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_24",
+      "word": "Can we change rooms?",
+      "translation": "Мы можем поменять номер?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_25",
+      "word": "Do you buy lots of magazines?",
+      "translation": "Ты много журналов покупаешь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_26",
+      "word": "I don't think that Tom has to pay anything.",
+      "translation": "Не думаю, что Тому надо что-то платить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_27",
+      "word": "I'll send you some money as soon as I can.",
+      "translation": "Я пришлю тебе денег, как только смогу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_28",
+      "word": "Tom said he needed to borrow some money.",
+      "translation": "Том сказал, что ему нужно занять денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_29",
+      "word": "Tom had to pay damages to the owner of the car.",
+      "translation": "Тому пришлось заплатить владельцу машины за убытки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_30",
+      "word": "Tom makes way more money than Mary does.",
+      "translation": "Том зарабатывает гораздо больше Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_31",
+      "word": "She refused to take the money.",
+      "translation": "Она отказалась брать деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_32",
+      "word": "I'll do it if you pay me.",
+      "translation": "Я сделаю это, если ты мне заплатишь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_33",
+      "word": "I know what I need to buy.",
+      "translation": "Я знаю, что мне нужно купить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_34",
+      "word": "Do you want to buy it?",
+      "translation": "Хочешь купить его?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_35",
+      "word": "He kicked in a lot of money.",
+      "translation": "Он вложил много денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_36",
+      "word": "Let's buy Tom a pony.",
+      "translation": "Давай купим Тому пони.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_37",
+      "word": "Please keep the change.",
+      "translation": "Оставьте сдачу себе, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_38",
+      "word": "When will your new store open?",
+      "translation": "Когда откроется твой новый магазин?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_39",
+      "word": "I would suggest the following change.",
+      "translation": "Я бы предложил следующее изменение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_40",
+      "word": "Good advice isn't always expensive.",
+      "translation": "Хороший совет не всегда дорогой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_41",
+      "word": "I don't think you should borrow money from Tom.",
+      "translation": "Не думаю, что тебе стоит занимать у Тома деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_42",
+      "word": "Tom wants to buy a new smartphone.",
+      "translation": "Том хочет купить новый смартфон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_43",
+      "word": "I'm not rich enough to buy that.",
+      "translation": "Я не достаточно богат, чтобы это купить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_44",
+      "word": "When did you buy this screwdriver?",
+      "translation": "Когда ты купил эту отвёртку?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_45",
+      "word": "What time does this store close?",
+      "translation": "Во сколько этот магазин закрывается?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_46",
+      "word": "This is rather expensive.",
+      "translation": "Это довольно дорого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_47",
+      "word": "Do people really pay you to do this?",
+      "translation": "Люди вам действительно за это платят?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_48",
+      "word": "Tom asked Mary to buy some wine.",
+      "translation": "Том попросил Марию купить вина́.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_7_49",
+      "word": "There used to be a store here.",
+      "translation": "Здесь раньше был магазин.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_0",
+      "word": "I want to change jobs.",
+      "translation": "Я хочу сменить работу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_1",
+      "word": "May I have a receipt?",
+      "translation": "Можно мне чек?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_2",
+      "word": "If Tom had money problems, I think he'd let us know.",
+      "translation": "Если бы у Тома были проблемы с деньгами, думаю, что он бы дал нам знать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_3",
+      "word": "Why did they change their minds?",
+      "translation": "Почему они передумали?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_4",
+      "word": "Why did you buy this?",
+      "translation": "Зачем вы это купили?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_5",
+      "word": "These sunglasses were very expensive.",
+      "translation": "Эти солнечные очки были очень дорогие.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_6",
+      "word": "Tom said he didn't have any money.",
+      "translation": "Том сказал, что у него нет денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_7",
+      "word": "Tom contributed a lot of money to charity.",
+      "translation": "Том пожертвовал много денег на благотворительность.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_8",
+      "word": "Black phones are more expensive than white ones.",
+      "translation": "Черные телефоны дороже белых.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_9",
+      "word": "Tell Tom where he should change trains.",
+      "translation": "Скажи Тому, где ему пересесть на другой поезд.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_10",
+      "word": "I would buy it if it weren't so expensive.",
+      "translation": "Я бы купил его, если бы он не был такой дорогой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_11",
+      "word": "How many apples did you buy?",
+      "translation": "Сколько яблок ты купил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_12",
+      "word": "Don't pay attention to Tom.",
+      "translation": "Не обращайте на Тома внимания.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_13",
+      "word": "This is a waste of taxpayers' money.",
+      "translation": "Это растрата денег налогоплательщиков.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_14",
+      "word": "I want to do that, but I don't have enough money.",
+      "translation": "Я хочу это сделать, но мне не хватает денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_15",
+      "word": "The packaging is more expensive than the product.",
+      "translation": "Упаковка дороже товара.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_16",
+      "word": "I make twice as much money as you do.",
+      "translation": "Я зарабатываю вдвое больше тебя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_17",
+      "word": "Is there something you want to buy?",
+      "translation": "Есть что-нибудь, что ты хочешь купить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_18",
+      "word": "He contributed a lot of money to the hospital.",
+      "translation": "Он пожертвовал много денег больнице.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_19",
+      "word": "Tom has some money in the bank.",
+      "translation": "У Тома есть кое-какие деньги в банке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_20",
+      "word": "The money will turn up.",
+      "translation": "Деньги появятся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_21",
+      "word": "Tom didn't only give us food, he also gave us money.",
+      "translation": "Том дал нам не только еды, но и денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_22",
+      "word": "I wish that I were rich enough to buy a yacht.",
+      "translation": "Жаль, что я не такой богатый, чтобы купить яхту.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_23",
+      "word": "They can change.",
+      "translation": "Они могут измениться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_24",
+      "word": "Where's the nearest drugstore?",
+      "translation": "Где ближайшая аптека?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_25",
+      "word": "He asked for some money.",
+      "translation": "Он попросил немного денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_26",
+      "word": "I can't buy anything because I don't have any money.",
+      "translation": "Я ничего не могу купить, потому что у меня нет денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_27",
+      "word": "Tom warned Mary not to lend money to John.",
+      "translation": "Том предупредил Мэри, чтобы она не давала Джону взаймы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_28",
+      "word": "Tom had to borrow money from Mary to pay his rent.",
+      "translation": "Тому пришлось занять у Мэри денег, чтобы заплатить за квартиру.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_29",
+      "word": "Show me the money.",
+      "translation": "Покажи мне деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_30",
+      "word": "Should we buy it?",
+      "translation": "Нам его купить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_31",
+      "word": "The flower shop is just across the street.",
+      "translation": "Цветочный магазин находится прямо через дорогу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_32",
+      "word": "You can buy wine here.",
+      "translation": "Тут можно купить вино.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_33",
+      "word": "I had my watch repaired at the store.",
+      "translation": "Я отремонтировал свои часы в магазине.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_34",
+      "word": "I'm sorry, this isn't for sale.",
+      "translation": "Извините, это не продаётся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_35",
+      "word": "Tom has been saving up money so he can go to Boston.",
+      "translation": "Том копит деньги, так что он может поехать в Бостон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_36",
+      "word": "We lost a lot of money.",
+      "translation": "Мы потеряли много денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_37",
+      "word": "How much money do you make?",
+      "translation": "Сколько вы зарабатываете?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_38",
+      "word": "We'll need more money.",
+      "translation": "Нам понадобится больше денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_39",
+      "word": "What would Tom buy?",
+      "translation": "Что бы купил Том?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_40",
+      "word": "Tom did that for the money.",
+      "translation": "Том сделал это ради денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_41",
+      "word": "We've decided not to buy that house.",
+      "translation": "Мы решили не покупать тот дом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_42",
+      "word": "That doesn't change how I feel.",
+      "translation": "Это не меняет того, что я чувствую.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_43",
+      "word": "Will you buy it?",
+      "translation": "Ты его купишь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_44",
+      "word": "Tom took all the money Mary had.",
+      "translation": "Том забрал все деньги, какие у Мэри были.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_45",
+      "word": "This problem can't be solved with money.",
+      "translation": "Эту проблему деньгами не решить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_46",
+      "word": "I want to buy this building.",
+      "translation": "Я хочу купить это здание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_47",
+      "word": "The shop is closed on Mondays.",
+      "translation": "По понедельникам магазин закрыт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_48",
+      "word": "You don't have to pay.",
+      "translation": "Вы не должны платить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_8_49",
+      "word": "There's no reason to change that.",
+      "translation": "Нет причин это менять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_0",
+      "word": "I have more money than Tom has.",
+      "translation": "У меня больше денег, чем у Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_1",
+      "word": "They don't pay you enough.",
+      "translation": "Они тебе недоплачивают.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_2",
+      "word": "You can change it if you like.",
+      "translation": "Вы можете изменить его, если хотите.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_3",
+      "word": "That should buy us some time.",
+      "translation": "Этим мы выиграем немного времени.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_4",
+      "word": "It isn't that expensive.",
+      "translation": "Это не так уж и дорого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_5",
+      "word": "I think that he wants to buy a new dictionary.",
+      "translation": "Думаю, он хочет купить новый словарь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_6",
+      "word": "Tom spent all the money that I gave him.",
+      "translation": "Том потратил все деньги, которые я ему дала.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_7",
+      "word": "I couldn't buy it.",
+      "translation": "Я не смог его купить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_8",
+      "word": "How do you make your money?",
+      "translation": "Как вы зарабатываете деньги?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_9",
+      "word": "I know it'll be expensive.",
+      "translation": "Я знаю, что это будет дорого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_10",
+      "word": "What will Tom do with the money?",
+      "translation": "Что Том будет делать с деньгами?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_11",
+      "word": "I'm saving money for my old age.",
+      "translation": "Я откладываю деньги на старость.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_12",
+      "word": "She has a lot of money.",
+      "translation": "У нее много денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_13",
+      "word": "Tell Tom I don't have his money.",
+      "translation": "Скажи Тому, что у меня нет его денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_14",
+      "word": "I got kicked out of the store.",
+      "translation": "Меня выставили из магазина.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_15",
+      "word": "Tom's advice made me change my mind.",
+      "translation": "Совет Тома заставил меня передумать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_16",
+      "word": "It looks cheap.",
+      "translation": "Это выглядит дёшево.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_17",
+      "word": "Money can't buy you everything.",
+      "translation": "Не всё можно купить за деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_18",
+      "word": "Tom wasn't in the store.",
+      "translation": "Тома в магазине не было.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_19",
+      "word": "Give the money back to Tom.",
+      "translation": "Верни деньги Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_20",
+      "word": "I spend money as soon as I get it.",
+      "translation": "Я трачу деньги, как только их получаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_21",
+      "word": "I'm not likely to change my opinion.",
+      "translation": "Я вряд ли изменю своё мнение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_22",
+      "word": "Tom realized he might need more money.",
+      "translation": "Том понял, что ему может понадобиться больше денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_23",
+      "word": "That shop has many customers.",
+      "translation": "У этого магазина много клиентов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_24",
+      "word": "I forgot to buy tickets.",
+      "translation": "Я забыл купить билеты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_25",
+      "word": "I'll buy what I need tomorrow.",
+      "translation": "Завтра я куплю всё, что мне надо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_26",
+      "word": "I'm not worried about the price.",
+      "translation": "Цена меня не волнует.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_27",
+      "word": "What did Tom buy you?",
+      "translation": "Что Том тебе купил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_28",
+      "word": "Tom owes a lot of money.",
+      "translation": "Том должен много денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_29",
+      "word": "She would not change her mind.",
+      "translation": "Она бы не передумала.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_30",
+      "word": "I'd like to buy a birthday cake for Tom.",
+      "translation": "Я хотел бы купить Тому торт на день рождения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_31",
+      "word": "She advised him to take the money.",
+      "translation": "Она посоветовала ему взять деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_32",
+      "word": "You'll pay for what you've done!",
+      "translation": "Ты заплатишь за то, что сделал!",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_33",
+      "word": "She thinks of nothing but making money.",
+      "translation": "Она думает только о зарабатывании денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_34",
+      "word": "Tom denies that he paid ransom money.",
+      "translation": "Том отрицает, что заплатил выкуп.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_35",
+      "word": "Tom said he wanted to buy some soap.",
+      "translation": "Том сказал, что хочет купить мыла.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_36",
+      "word": "Tom is free to spend his money any way he wants to.",
+      "translation": "Том волен тратить свои деньги так, как ему вздумается.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_37",
+      "word": "This painting was very expensive.",
+      "translation": "Эта картина была очень дорогой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_38",
+      "word": "Money can't buy friends.",
+      "translation": "Друзей за деньги не купишь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_39",
+      "word": "She asked him for some money to buy a new dress.",
+      "translation": "Она попросила у него немного денег на новое платье.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_40",
+      "word": "There's been change of plan.",
+      "translation": "Планы изменились.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_41",
+      "word": "Can you lower the price?",
+      "translation": "Не можете ли вы опустить цену?",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_42",
+      "word": "He puts aside a little money each month.",
+      "translation": "Он откладывает немного денег каждый месяц.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_43",
+      "word": "I think you owe me some money.",
+      "translation": "Думаю, ты должен мне денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_44",
+      "word": "Tom would do anything for money.",
+      "translation": "Том на всё пошёл бы ради денег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_45",
+      "word": "Tom can afford to buy the car he wants.",
+      "translation": "Том может позволить себе купить машину, которую он хочет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_46",
+      "word": "We've run out of money.",
+      "translation": "У нас кончились деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_47",
+      "word": "Tom didn't tell Mary what he wants to buy.",
+      "translation": "Том не сказал Мэри, что он хочет купить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_48",
+      "word": "I spend less money on clothes than my sister does.",
+      "translation": "Я трачу меньше денег на одежду, чем моя сестра.",
+      "language": "en"
+    },
+    {
+      "id": "pb_shoppingmoney_9_49",
+      "word": "The situation could change at any time.",
+      "translation": "Ситуация может в любой момент измениться.",
+      "language": "en"
+    }
+  ]
+}

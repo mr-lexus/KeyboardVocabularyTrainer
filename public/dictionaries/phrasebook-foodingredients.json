@@ -1,0 +1,3007 @@
+{
+  "id": "phrasebook-foodingredients",
+  "name": "Food & Ingredients",
+  "description": "Phrasebook for Food & Ingredients",
+  "entries": [
+    {
+      "id": "pb_foodingredients_0_0",
+      "word": "A bowl of rice is about 180 grams.",
+      "translation": "Чашка риса весит около 180 грамм.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_1",
+      "word": "Strictly speaking, the tomato is a fruit.",
+      "translation": "Строго говоря, помидор — фрукт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_2",
+      "word": "We make milk into cheese and butter.",
+      "translation": "Мы делаем из молока сыр и масло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_3",
+      "word": "These infections were caused by contaminated milk.",
+      "translation": "Эти инфекции были вызваны заражённым молоком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_4",
+      "word": "That cheese is made from goat's milk.",
+      "translation": "Этот сыр сделан из козьего молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_5",
+      "word": "Tom bought some vegetables and fruit.",
+      "translation": "Том купил кое-какие овощи и фрукты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_6",
+      "word": "Cow's milk is tastier than soy milk.",
+      "translation": "Коровье молоко вкуснее соевого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_7",
+      "word": "Rice is grown in many parts of the world.",
+      "translation": "Рис выращивается во многих частях света.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_8",
+      "word": "Strictly speaking, a tomato is a fruit.",
+      "translation": "Строго говоря, помидор - это фрукт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_9",
+      "word": "The only thing Tom eats is fruit.",
+      "translation": "Том питается только фруктами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_10",
+      "word": "Tom peeled the banana for Mary.",
+      "translation": "Том почистил для Мэри банан.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_11",
+      "word": "Tom could hear Mary crunching on a carrot.",
+      "translation": "Тому было слышно, как Мэри грызёт морковку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_12",
+      "word": "Where can I throw these egg shells?",
+      "translation": "Куда можно выбросить эту яичную скорлупу?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_13",
+      "word": "Cheese is made from milk.",
+      "translation": "Сыр делают из молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_14",
+      "word": "I had a peanut butter and jelly sandwich.",
+      "translation": "Я съел сэндвич с арахисовым маслом и джемом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_15",
+      "word": "Tom bought some rice.",
+      "translation": "Том купил риса.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_16",
+      "word": "Mary likes milk very much.",
+      "translation": "Мэри очень любит молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_17",
+      "word": "Tom wants some cheese.",
+      "translation": "Том хочет сыра.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_18",
+      "word": "Tom peeled an apple for Mary.",
+      "translation": "Том почистил Мэри яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_19",
+      "word": "I ate some potato chips.",
+      "translation": "Я поел немного картофельных чипсов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_20",
+      "word": "Have you tried the rice?",
+      "translation": "Вы пробовали рис?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_21",
+      "word": "Did you milk the cows?",
+      "translation": "Ты подоила коров?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_22",
+      "word": "I've eaten one apple.",
+      "translation": "Я съел одно яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_23",
+      "word": "An egg is about fifty grams.",
+      "translation": "Яйцо весит около пятидесяти граммов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_24",
+      "word": "The pasta is overcooked.",
+      "translation": "Макароны переварены.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_25",
+      "word": "This isn't butter. It's margarine.",
+      "translation": "Это не масло. Это маргарин.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_26",
+      "word": "I don't want a banana.",
+      "translation": "Я не хочу банан.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_27",
+      "word": "How about some more roast beef?",
+      "translation": "Как насчёт добавки ростбифа?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_28",
+      "word": "We don't have any more cheese.",
+      "translation": "У нас сыр закончился.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_29",
+      "word": "It's a very big apple.",
+      "translation": "Это очень большое яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_30",
+      "word": "Tom is eating an apple.",
+      "translation": "Том ест яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_31",
+      "word": "I have drunk all my milk.",
+      "translation": "Я выпил всё своё молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_32",
+      "word": "What's your favorite fruit?",
+      "translation": "Какой у вас любимый фрукт?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_33",
+      "word": "I bought two bottles of milk.",
+      "translation": "Я купила две бутылки молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_34",
+      "word": "I wonder if this milk is still good.",
+      "translation": "Интересно, не испортилось ли это молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_35",
+      "word": "I've eaten the apple.",
+      "translation": "Я съел яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_36",
+      "word": "Tom peeled the apple.",
+      "translation": "Том почистил яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_37",
+      "word": "Fresh fruit is good for your health.",
+      "translation": "Свежие фрукты полезны для твоего здоровья.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_38",
+      "word": "Tom is eating a banana.",
+      "translation": "Том ест банан.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_39",
+      "word": "I accidentally spilled the milk.",
+      "translation": "Я случайно пролил молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_40",
+      "word": "Tom threw an apple to Mary.",
+      "translation": "Том бросил яблоко Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_41",
+      "word": "We call New York the Big Apple.",
+      "translation": "Нью-Йорк называют \"Большим яблоком\".",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_42",
+      "word": "We have plenty more milk in the fridge.",
+      "translation": "У нас в холодильнике ещё много молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_43",
+      "word": "The apple has begun to decay.",
+      "translation": "Яблоко начало портиться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_44",
+      "word": "I'm not the one who drank all the milk.",
+      "translation": "Это не я выпил всё молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_45",
+      "word": "I'm drinking apple juice.",
+      "translation": "Я пью яблочный сок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_46",
+      "word": "There's hardly any milk in the bottle.",
+      "translation": "В бутылке почти нет молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_47",
+      "word": "Tom baked Mary an apple pie.",
+      "translation": "Том испек Мэри яблочный пирог.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_48",
+      "word": "We don't sell fruit here.",
+      "translation": "У нас тут фрукты не продаются.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_0_49",
+      "word": "Can I have some more milk?",
+      "translation": "Можно мне ещё молока?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_0",
+      "word": "Apples are the best fruit.",
+      "translation": "Яблоки - самые лучшие фрукты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_1",
+      "word": "Milk is good for you.",
+      "translation": "Молоко полезно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_2",
+      "word": "The quality of rice is going down.",
+      "translation": "Качество риса снижается.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_3",
+      "word": "It's not butter. It's margarine.",
+      "translation": "Это не сливочное масло. Это маргарин.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_4",
+      "word": "Tom doesn't know how to milk a goat.",
+      "translation": "Том не знает, как подоить козу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_5",
+      "word": "I need some butter. Do you have any?",
+      "translation": "Мне нужно немного сливочного масла. У тебя есть?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_6",
+      "word": "I bought a few eggs and a little milk.",
+      "translation": "Я купил несколько яиц и немного молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_7",
+      "word": "The milk boiled over.",
+      "translation": "Молоко убежало.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_8",
+      "word": "This is vegetable oil.",
+      "translation": "Это растительное масло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_9",
+      "word": "We make butter from milk.",
+      "translation": "Из молока мы делаем масло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_10",
+      "word": "That's not butter. It's margarine.",
+      "translation": "Это не масло. Это маргарин.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_11",
+      "word": "Tom has three apple trees in his yard.",
+      "translation": "У Тома три яблони в саду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_12",
+      "word": "Tom likes Swiss cheese.",
+      "translation": "Тому нравится швейцарский сыр.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_13",
+      "word": "I hard-boiled an egg.",
+      "translation": "Я сварил яйца вкрутую.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_14",
+      "word": "Tom helps me milk the cows.",
+      "translation": "Том помогает мне доить коров.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_15",
+      "word": "I gave each boy an apple.",
+      "translation": "Я дал мальчикам по яблоку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_16",
+      "word": "Tom is drinking apple juice.",
+      "translation": "Том пьёт яблочный сок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_17",
+      "word": "I want some fruit.",
+      "translation": "Я хочу фруктов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_18",
+      "word": "Variety is the spice of life.",
+      "translation": "В разнообразии прелесть жизни.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_19",
+      "word": "I sell fruit.",
+      "translation": "Я продаю фрукты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_20",
+      "word": "This is a pear, not an apple.",
+      "translation": "Это груша, а не яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_21",
+      "word": "Tom eats nothing but fruit.",
+      "translation": "Том не ест ничего, кроме фруктов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_22",
+      "word": "What is the active ingredient in aspirin?",
+      "translation": "Какое действующее вещество в аспирине?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_23",
+      "word": "Pick me an apple.",
+      "translation": "Сорви мне яблочко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_24",
+      "word": "This milk tastes sour.",
+      "translation": "Это прокисшее молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_25",
+      "word": "I can't stand cheese.",
+      "translation": "Я терпеть не могу сыр.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_26",
+      "word": "I drank milk.",
+      "translation": "Я пил молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_27",
+      "word": "I brought you some fruit.",
+      "translation": "Я принёс тебе фруктов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_28",
+      "word": "It's a pineapple.",
+      "translation": "Это ананас.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_29",
+      "word": "I know how to make beef stroganoff.",
+      "translation": "Я знаю, как приготовить бефстроганов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_30",
+      "word": "Do you have some buttermilk?",
+      "translation": "У вас есть пахта?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_31",
+      "word": "The milk froze and became solid.",
+      "translation": "Молоко замерзло и стало твёрдым.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_32",
+      "word": "Tom has been helping me milk the cows.",
+      "translation": "Том помогает мне доить коров.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_33",
+      "word": "Tom wants a banana.",
+      "translation": "Том хочет банан.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_34",
+      "word": "This apple is big.",
+      "translation": "Это яблоко большое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_35",
+      "word": "Tom ate the entire bag of potato chips.",
+      "translation": "Том съел весь пакет чипсов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_36",
+      "word": "He cut the apple in half.",
+      "translation": "Он разрезал яблоко пополам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_37",
+      "word": "Cows supply us with milk.",
+      "translation": "Коровы снабжают нас молоком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_38",
+      "word": "This is an apple.",
+      "translation": "Это яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_39",
+      "word": "Do you have rice?",
+      "translation": "У вас есть рис?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_40",
+      "word": "What's the best way to chop an onion?",
+      "translation": "Как лучше всего нарезать лук?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_41",
+      "word": "Is it hard to milk a goat?",
+      "translation": "Трудно ли доить козу?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_42",
+      "word": "I've got to get some milk.",
+      "translation": "Я должен достать немного молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_43",
+      "word": "I didn't want milk.",
+      "translation": "Я не хотел молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_44",
+      "word": "I want a boiled egg.",
+      "translation": "Я хочу варёное яйцо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_45",
+      "word": "Is Tom eating an apple or a banana?",
+      "translation": "Том яблоко ест или банан?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_46",
+      "word": "I ate a tomato.",
+      "translation": "Я съел помидор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_47",
+      "word": "All of the milk was spilled.",
+      "translation": "Всё молоко было пролито.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_48",
+      "word": "I made an apple pie.",
+      "translation": "Я испёк яблочный пирог.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_1_49",
+      "word": "He eats nothing but fruit.",
+      "translation": "Он ест одни фрукты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_0",
+      "word": "Do we have milk in the fridge?",
+      "translation": "У нас в холодильнике есть молоко?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_1",
+      "word": "How much is an apple?",
+      "translation": "Сколько стоит яблоко?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_2",
+      "word": "He grows rice.",
+      "translation": "Он выращивает рис.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_3",
+      "word": "This cheese is made from goat's milk.",
+      "translation": "Этот сыр сделан из козьего молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_4",
+      "word": "Tom ate the apple you gave him.",
+      "translation": "Том съел яблоко, которое ты ему дал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_5",
+      "word": "He slipped on a banana peel.",
+      "translation": "Он поскользнулся на банановой шкурке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_6",
+      "word": "Tom is frying an egg.",
+      "translation": "Том жарит яичницу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_7",
+      "word": "Tom cut the apple in two.",
+      "translation": "Том разрезал яблоко пополам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_8",
+      "word": "The bread is old and hard.",
+      "translation": "Хлеб старый и чёрствый.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_9",
+      "word": "Tom ordered apple pie, and so did I.",
+      "translation": "Том заказал яблочный пирог, и я тоже.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_10",
+      "word": "This apple tastes very sour.",
+      "translation": "Это яблоко очень кислое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_11",
+      "word": "There's no milk in the refrigerator.",
+      "translation": "В холодильнике нет молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_12",
+      "word": "The bread is fresh.",
+      "translation": "Хлеб свежий.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_13",
+      "word": "Tom eagerly ate the apple I gave him.",
+      "translation": "Том охотно съел яблоко, которое я ему дала.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_14",
+      "word": "He threw the banana away.",
+      "translation": "Он выбросил банан.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_15",
+      "word": "Who wants apple pie?",
+      "translation": "Кто хочет яблочный пирог?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_16",
+      "word": "The milk tastes sour.",
+      "translation": "Молоко на вкус прокисло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_17",
+      "word": "Bring me some bread, butter, ham and cheese.",
+      "translation": "Принесите мне хлеба, масла, ветчину и сыр.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_18",
+      "word": "This is milk.",
+      "translation": "Это молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_19",
+      "word": "The milk has turned sour.",
+      "translation": "Молоко прокисло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_20",
+      "word": "Milk is a lot cheaper over there.",
+      "translation": "Там молоко намного дешевле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_21",
+      "word": "Get an egg from the fridge.",
+      "translation": "Достань яйцо из холодильника.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_22",
+      "word": "Do you sell fruit?",
+      "translation": "Ты продаёшь фрукты?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_23",
+      "word": "Tom wanted a banana.",
+      "translation": "Том хотел банан.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_24",
+      "word": "She's eating fruit.",
+      "translation": "Она ест фрукт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_25",
+      "word": "All the apple trees were cut down.",
+      "translation": "Все яблони были вырублены.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_26",
+      "word": "Rice is a grain that feeds billions of people.",
+      "translation": "Рис — это зерно, которое кормит миллиарды людей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_27",
+      "word": "Tom likes beef and I do, too.",
+      "translation": "Том любит говядину, и я тоже.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_28",
+      "word": "I spilled the milk.",
+      "translation": "Я пролил молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_29",
+      "word": "The apple was eaten by me.",
+      "translation": "Яблоко было мной съедено.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_30",
+      "word": "Who's eaten the cheese?",
+      "translation": "Кто съел сыр?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_31",
+      "word": "Tom is eating potato chips.",
+      "translation": "Том ест чипсы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_32",
+      "word": "Can I have some rice?",
+      "translation": "Можно мне рис?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_33",
+      "word": "I made an apple pie for you.",
+      "translation": "Я испекла для тебя яблочный пирог.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_34",
+      "word": "Hunger is the best spice.",
+      "translation": "Голод - лучшая приправа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_35",
+      "word": "I need some milk for my cereal.",
+      "translation": "Мне нужно немного молока для хлопьев.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_36",
+      "word": "It's an apple.",
+      "translation": "Это яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_37",
+      "word": "Tom didn't peel the apple before he ate it.",
+      "translation": "Том не почистил яблоко перед тем, как его съесть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_38",
+      "word": "Tom bought Mary a basketful of fruit.",
+      "translation": "Том купил Мэри корзину фруктов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_39",
+      "word": "Tom likes milk.",
+      "translation": "Том любит молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_40",
+      "word": "One rotten apple spoils the barrel.",
+      "translation": "Паршивая овца всё стадо портит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_41",
+      "word": "Tom likes licorice.",
+      "translation": "Том любит лакрицу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_42",
+      "word": "I'm going to get some milk.",
+      "translation": "Я схожу за молоком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_43",
+      "word": "The fruit is in the basket.",
+      "translation": "Фрукты - в корзине.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_44",
+      "word": "Let the milk stand overnight and skim off the cream.",
+      "translation": "Дайте молоку постоять ночь, а потом снимите с него сливки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_45",
+      "word": "Tom threw a rotten egg at Mary.",
+      "translation": "Том бросил в Мэри тухлым яйцом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_46",
+      "word": "Tom is eating a tomato.",
+      "translation": "Том ест помидор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_47",
+      "word": "Tom salted his egg.",
+      "translation": "Том посолил яйцо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_48",
+      "word": "When I was a kid, I hardly ever ate fruit.",
+      "translation": "В детстве я почти не ел фрукты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_2_49",
+      "word": "This apple is sweet.",
+      "translation": "Это яблоко сладкое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_0",
+      "word": "Try this milk.",
+      "translation": "Попробуйте это молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_1",
+      "word": "Tom stole an apple.",
+      "translation": "Том украл яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_2",
+      "word": "The apple was hard and sour.",
+      "translation": "Яблоко было жёсткое и кислое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_3",
+      "word": "Tom ate the apple.",
+      "translation": "Том съел яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_4",
+      "word": "I'm the one who ate the apple.",
+      "translation": "Это я съела яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_5",
+      "word": "Tom poured some milk in a bowl for his cats.",
+      "translation": "Том налил котам в миску молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_6",
+      "word": "Fresh fruit and vegetables are good for your health.",
+      "translation": "Свежие фрукты и овощи полезны для здоровья.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_7",
+      "word": "I'll take onion rings instead of fries.",
+      "translation": "Я возьму луковые колечки вместо картошки фри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_8",
+      "word": "Can I have an apple?",
+      "translation": "Можно мне яблоко?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_9",
+      "word": "We have no more rice.",
+      "translation": "У нас больше нет риса.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_10",
+      "word": "This is a pineapple.",
+      "translation": "Это ананас.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_11",
+      "word": "Camel milk is good for people with diabetes.",
+      "translation": "Верблюжье молоко полезно для диабетиков.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_12",
+      "word": "Thanks for the milk.",
+      "translation": "Спасибо за молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_13",
+      "word": "Tom took a sip of his milk.",
+      "translation": "Том отхлебнул молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_14",
+      "word": "Tom was eating an apple.",
+      "translation": "Том ел яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_15",
+      "word": "Cows give us milk.",
+      "translation": "Коровы дают нам молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_16",
+      "word": "That cheese is made from sheep's milk.",
+      "translation": "Этот сыр сделан из овечьего молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_17",
+      "word": "This bread smells really good.",
+      "translation": "Этот хлеб пахнет очень хорошо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_18",
+      "word": "I gave them each an apple.",
+      "translation": "Я дал каждому из них по яблоку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_19",
+      "word": "I hope Tom hasn't already drunk all the milk.",
+      "translation": "Надеюсь, Том ещё не всё молоко выпил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_20",
+      "word": "Tom ate macaroni and cheese.",
+      "translation": "Том поел макарон с сыром.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_21",
+      "word": "This apple was given to me by Tom.",
+      "translation": "Это яблоко дал мне Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_22",
+      "word": "Tom likes pasta.",
+      "translation": "Том любит макароны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_23",
+      "word": "She poured the milk into a bowl.",
+      "translation": "Она налила молоко в миску.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_24",
+      "word": "She used margarine instead of butter.",
+      "translation": "Она использовала маргарин вместо масла.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_25",
+      "word": "Finish drinking your milk.",
+      "translation": "Допей своё молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_26",
+      "word": "She substituted margarine for butter.",
+      "translation": "Она заменила масло маргарином.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_27",
+      "word": "Tom ate a spoonful of peanut butter.",
+      "translation": "Том съел полную ложку арахисовой пасты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_28",
+      "word": "Tom died because he had eaten some contaminated beef.",
+      "translation": "Том умер, потому что съел какую-то зараженную говядину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_29",
+      "word": "I bought some bread and a carton of milk.",
+      "translation": "Я купил хлеба и пакет молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_30",
+      "word": "I need more butter.",
+      "translation": "Мне нужно ещё масла.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_31",
+      "word": "Tom works in a pasta factory.",
+      "translation": "Том работает на макаронной фабрике.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_32",
+      "word": "The United States is the largest producer of cheese in the world.",
+      "translation": "Соединённые Штаты - самый крупный в мире производитель сыра.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_33",
+      "word": "Tom sat under the apple tree, eating an apple.",
+      "translation": "Том сидел под яблоней и ел яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_34",
+      "word": "Who ate the cheese?",
+      "translation": "Кто съел сыр?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_35",
+      "word": "This is a rotten apple.",
+      "translation": "Это гнилое яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_36",
+      "word": "How many calories are in 100 grams of butter?",
+      "translation": "Сколько калорий в ста граммах масла?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_37",
+      "word": "I overcooked the pasta.",
+      "translation": "Я переварил макароны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_38",
+      "word": "Is that milk still good?",
+      "translation": "Это молоко ещё не испортилось?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_39",
+      "word": "He wants an apple.",
+      "translation": "Он хочет яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_40",
+      "word": "Pour Tom some milk.",
+      "translation": "Налей Тому молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_41",
+      "word": "She poured milk into the cup.",
+      "translation": "Она налила молока в чашку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_42",
+      "word": "I threw Tom an apple.",
+      "translation": "Я бросил Тому яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_43",
+      "word": "Put the tomato salad in the refrigerator.",
+      "translation": "Поставь салат из помидоров в холодильник.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_44",
+      "word": "Give me some milk.",
+      "translation": "Дай мне молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_45",
+      "word": "I prefer milk to juice.",
+      "translation": "Я предпочитаю молоко соку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_46",
+      "word": "I don't want an apple.",
+      "translation": "Я не хочу яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_47",
+      "word": "I baked some apple pies.",
+      "translation": "Я испек пирожки с яблоками.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_48",
+      "word": "I had a dream about an onion.",
+      "translation": "Мне приснился сон о луке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_3_49",
+      "word": "The egg is a universal symbol of life and rebirth.",
+      "translation": "Яйцо — это универсальный символ жизни и возрождения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_0",
+      "word": "I drank all the milk.",
+      "translation": "Я выпил всё молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_1",
+      "word": "Do you have a rice cooker?",
+      "translation": "У вас есть рисоварка?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_2",
+      "word": "Tom gave Mary an apple.",
+      "translation": "Том дал Мэри яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_3",
+      "word": "Is this your apple?",
+      "translation": "Это твоё яблоко?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_4",
+      "word": "Did you have rice?",
+      "translation": "У тебя был рис?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_5",
+      "word": "We appear to be running low on milk.",
+      "translation": "Кажется, у нас заканчивается молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_6",
+      "word": "The milk tasted sour.",
+      "translation": "Молоко было кислое на вкус.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_7",
+      "word": "How much is the cheese?",
+      "translation": "Сколько стоит сыр?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_8",
+      "word": "Milk makes us strong.",
+      "translation": "Молоко нас укрепляет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_9",
+      "word": "He likes potato salad.",
+      "translation": "Ему нравится картофельный салат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_10",
+      "word": "I can peel an apple.",
+      "translation": "Я умею чистить яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_11",
+      "word": "She poured some milk from the bottle.",
+      "translation": "Она налила немного молока из бутылки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_12",
+      "word": "I ate your banana.",
+      "translation": "Я ел твой банан.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_13",
+      "word": "Tom eats pork.",
+      "translation": "Том ест свинину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_14",
+      "word": "Why is freshly baked bread so good?",
+      "translation": "Почему свежеиспечённый хлеб такой вкусный?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_15",
+      "word": "Here's your milk.",
+      "translation": "Вот твоё молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_16",
+      "word": "An apple fell to the ground.",
+      "translation": "На землю упало яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_17",
+      "word": "Can I have that apple?",
+      "translation": "Можно мне то яблоко?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_18",
+      "word": "Slice the bread very thinly.",
+      "translation": "Нарежьте хлеб тонкими ломтиками.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_19",
+      "word": "Everyone, say cheese.",
+      "translation": "Скажите все \"сыр\".",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_20",
+      "word": "The milk went sour.",
+      "translation": "Молоко прокисло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_21",
+      "word": "The cheese omelette was burned badly.",
+      "translation": "Омлет с сыром был сильно подгоревший.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_22",
+      "word": "Tom took the larger apple and gave the smaller one to Mary.",
+      "translation": "Том взял яблоко побольше, а Мэри дал яблоко поменьше.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_23",
+      "word": "Tom offered Mary and John some potato chips.",
+      "translation": "Том предложил Мэри и Джону немного картофельных чипсов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_24",
+      "word": "What kinds of fruit juices do you have?",
+      "translation": "Какие у вас есть фруктовые соки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_25",
+      "word": "It was Tom who gave me this apple.",
+      "translation": "Это яблоко дал мне Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_26",
+      "word": "Is that milk?",
+      "translation": "Это молоко?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_27",
+      "word": "Who's eaten all the cheese?",
+      "translation": "Кто съел весь сыр?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_28",
+      "word": "Butter and cheese are made from milk.",
+      "translation": "Масло и сыр делаются из молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_29",
+      "word": "Tom gave Mary half of the apple.",
+      "translation": "Том дал Мэри половину яблока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_30",
+      "word": "Tom hasn't bought milk yet.",
+      "translation": "Том ещё не купил молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_31",
+      "word": "This fruit has an unpleasant smell.",
+      "translation": "Этот фрукт неприятно пахнет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_32",
+      "word": "Tom and Mary are watching TV and eating potato chips.",
+      "translation": "Том с Мэри смотрят телевизор и едят картофельные чипсы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_33",
+      "word": "Tom handed Mary a ham and cheese sandwich.",
+      "translation": "Том протянул Мэри бутерброд с ветчиной и сыром.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_34",
+      "word": "Tom dipped his cookie in his milk.",
+      "translation": "Том окунул печеньку в молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_35",
+      "word": "Is it an apple?",
+      "translation": "Это яблоко?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_36",
+      "word": "I poured some milk into a glass, and I drank it.",
+      "translation": "Я налил в стакан молока и выпил его.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_37",
+      "word": "They brought us a basket of fruit.",
+      "translation": "Они принесли нам корзину с фруктами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_38",
+      "word": "That apple is yours.",
+      "translation": "Это яблоко твоё.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_39",
+      "word": "I don't want butter on my sandwich.",
+      "translation": "Хочу, чтобы мой сэндвич был без масла.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_40",
+      "word": "Tom peeled an apple.",
+      "translation": "Том чистил яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_41",
+      "word": "This is a banana.",
+      "translation": "Это банан.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_42",
+      "word": "Cows provide us with milk.",
+      "translation": "Коровы дают нам молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_43",
+      "word": "This bread is at least three weeks old.",
+      "translation": "Этому хлебу не меньше трёх недель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_44",
+      "word": "Do you prefer butter or margarine?",
+      "translation": "Ты предпочитаешь масло или маргарин?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_45",
+      "word": "Tom cut himself peeling an apple.",
+      "translation": "Том порезался, когда чистил яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_46",
+      "word": "I baked an apple pie.",
+      "translation": "Я испёк яблочный пирог.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_47",
+      "word": "We cultivate rice.",
+      "translation": "Мы выращиваем рис.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_48",
+      "word": "Tom gave Mary a banana.",
+      "translation": "Том дал Мэри банан.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_4_49",
+      "word": "Are you drinking milk?",
+      "translation": "Ты пьёшь молоко?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_0",
+      "word": "Here's the apple I found.",
+      "translation": "Вот яблоко, которое я нашёл.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_1",
+      "word": "Tom fried an egg.",
+      "translation": "Том поджарил яйцо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_2",
+      "word": "Tom threw scraps of bread to the ducks.",
+      "translation": "Том бросил остатки хлеба уткам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_3",
+      "word": "Who drank all the milk?",
+      "translation": "Кто выпил всё молоко?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_4",
+      "word": "How many apple trees do you have in your orchard?",
+      "translation": "Сколько яблонь есть в вашем саду?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_5",
+      "word": "I want fruit.",
+      "translation": "Хочу фрукт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_6",
+      "word": "Have a cup of milk. It'll do you good.",
+      "translation": "Выпей чашку молока. Это пойдёт тебе на пользу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_7",
+      "word": "Tom drank milk.",
+      "translation": "Том пил молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_8",
+      "word": "Tom likes the way Mary makes potato salad.",
+      "translation": "Тому нравится, как Мэри готовит картофельный салат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_9",
+      "word": "This apple is wormy.",
+      "translation": "Это яблоко червивое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_10",
+      "word": "Tom threw me an apple.",
+      "translation": "Том кинул мне яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_11",
+      "word": "I'm eating rice.",
+      "translation": "Я ем рис.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_12",
+      "word": "It's possible to survive on just rice and beans.",
+      "translation": "Можно выжить, питаясь только рисом и бобами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_13",
+      "word": "Milk is nutritious.",
+      "translation": "Молоко питательно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_14",
+      "word": "Cheese and butter are made from milk.",
+      "translation": "Сыр и масло делаются из молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_15",
+      "word": "Tom drinks a lot of milk.",
+      "translation": "Том пьёт много молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_16",
+      "word": "This apple has started to rot.",
+      "translation": "Это яблоко начало гнить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_17",
+      "word": "Fruit is very healthy.",
+      "translation": "Фрукты очень полезны для здоровья.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_18",
+      "word": "I want bread and jam.",
+      "translation": "Я хочу хлеба с вареньем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_19",
+      "word": "Butter is made from milk.",
+      "translation": "Масло делают из молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_20",
+      "word": "Tom isn't eating an apple.",
+      "translation": "Том не ест яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_21",
+      "word": "How much bread are you buying?",
+      "translation": "Сколько хлеба ты купишь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_22",
+      "word": "Rice is often served in round bowls.",
+      "translation": "Рис часто подают в круглых плошках.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_23",
+      "word": "Tom slipped on a banana peel.",
+      "translation": "Том поскользнулся на банановой шкурке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_24",
+      "word": "Fresh fruit is good for you.",
+      "translation": "Свежие фрукты тебе полезны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_25",
+      "word": "There is a little milk in the bottle.",
+      "translation": "В бутылке осталось немного молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_26",
+      "word": "Tom handed Mary a banana.",
+      "translation": "Том протянул Мэри банан.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_27",
+      "word": "Is there any butter in the refrigerator?",
+      "translation": "Есть ли масло в холодильнике?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_28",
+      "word": "Tom sliced the apple.",
+      "translation": "Том разрезал яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_29",
+      "word": "Who stole the apple?",
+      "translation": "Кто украл яблоко?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_30",
+      "word": "This cheese needs to be thrown out.",
+      "translation": "Этот сыр нужно выбросить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_31",
+      "word": "Tom threw the apple to me.",
+      "translation": "Том кинул яблоко мне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_32",
+      "word": "This apple tastes sour.",
+      "translation": "Это яблоко кислое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_33",
+      "word": "I went downstairs to get some milk and cookies.",
+      "translation": "Я спустился за молоком и печеньем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_34",
+      "word": "This bread is moldy.",
+      "translation": "Этот хлеб заплесневел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_35",
+      "word": "I bought some rice.",
+      "translation": "Я купил риса.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_36",
+      "word": "Strictly speaking, tomatoes are a fruit.",
+      "translation": "Строго говоря, помидоры - это фрукты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_37",
+      "word": "The chick has already hatched from the egg.",
+      "translation": "Птенец уже вылупился из яйца.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_38",
+      "word": "A carrot is a healthy snack.",
+      "translation": "Морковь - это полезный перекус.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_39",
+      "word": "The milk turned sour.",
+      "translation": "Молоко прокисло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_40",
+      "word": "Don't overcook the pasta.",
+      "translation": "Не перевари макароны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_41",
+      "word": "Tom gave Mary a ham and cheese sandwich.",
+      "translation": "Том дал Мэри бутерброд с ветчиной и сыром.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_42",
+      "word": "I drank a little milk and put the rest in the fridge.",
+      "translation": "Я отпил немного молока, а остальное поставил в холодильник.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_43",
+      "word": "Tom gave this apple to me.",
+      "translation": "Том дал мне это яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_44",
+      "word": "Here's the milk.",
+      "translation": "Вот молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_45",
+      "word": "Tom is boiling an egg.",
+      "translation": "Фома варит яйцо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_46",
+      "word": "Tom often drank chocolate milk when he was a kid.",
+      "translation": "Том часто пил шоколадное молоко, когда был ребёнком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_47",
+      "word": "I hope you washed that apple before you started eating it.",
+      "translation": "Надеюсь, ты помыл это яблоко перед тем, как начал его есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_48",
+      "word": "I only have butter in my refrigerator.",
+      "translation": "У меня холодильнике только масло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_5_49",
+      "word": "I cooked the pasta too long.",
+      "translation": "Я переварил макароны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_0",
+      "word": "Did you milk the goat?",
+      "translation": "Ты подоил козу?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_1",
+      "word": "Someone spilled milk.",
+      "translation": "Кто-то пролил молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_2",
+      "word": "I'll take roast beef.",
+      "translation": "Я возьму ростбиф.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_3",
+      "word": "I dreamed I was eating an apple pie.",
+      "translation": "Мне приснилось, что я ем яблочный пирог.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_4",
+      "word": "The milk tastes a little sour.",
+      "translation": "Молоко на вкус слегка кислое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_5",
+      "word": "This bread smells very good.",
+      "translation": "Этот хлеб очень вкусно пахнет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_6",
+      "word": "I ate the cheese.",
+      "translation": "Я съел сыр.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_7",
+      "word": "She bought two pounds of butter.",
+      "translation": "Она купила два фунта масла.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_8",
+      "word": "The boy has an apple in his pocket.",
+      "translation": "У мальчика в кармане яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_9",
+      "word": "I'm buying fruit and chocolate.",
+      "translation": "Я покупаю фрукты и шоколад.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_10",
+      "word": "This is whole milk.",
+      "translation": "Это цельное молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_11",
+      "word": "This is apple juice.",
+      "translation": "Это яблочный сок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_12",
+      "word": "Tom spilled the milk.",
+      "translation": "Том пролил молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_13",
+      "word": "I used margarine instead of butter.",
+      "translation": "Вместо масла я взял маргарин.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_14",
+      "word": "Tom likes fruit more than vegetables.",
+      "translation": "Фрукты Том любит больше, чем овощи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_15",
+      "word": "Half of the apple was rotten.",
+      "translation": "Половина яблока была гнилой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_16",
+      "word": "The quality of rice is getting worse.",
+      "translation": "Качество риса ухудшается.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_17",
+      "word": "She's eating an apple.",
+      "translation": "Она ест яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_18",
+      "word": "This apple is for you.",
+      "translation": "Это яблоко вам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_19",
+      "word": "Who ate all the cheese?",
+      "translation": "Кто съел весь сыр?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_20",
+      "word": "You can use margarine as a substitute for butter.",
+      "translation": "Вы можете использовать маргарин как заменитель масла.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_21",
+      "word": "It says in the Bible, \"Man shall not live on bread alone.\"",
+      "translation": "В Библии сказано: \"Не хлебом единым жив человек\".",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_22",
+      "word": "Tom made an apple pie.",
+      "translation": "Том испёк яблочный пирог.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_23",
+      "word": "Tom is drinking milk.",
+      "translation": "Том пьёт молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_24",
+      "word": "Tom peeled the apple for Mary.",
+      "translation": "Том почистил Мэри яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_25",
+      "word": "He likes bread and butter.",
+      "translation": "Он любит хлеб с маслом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_26",
+      "word": "Can I have a bit more milk?",
+      "translation": "Можно мне ещё немного молока?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_27",
+      "word": "Tom accidentally cut himself while peeling an apple.",
+      "translation": "Том случайно порезался, когда чистил яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_28",
+      "word": "This is the best-tasting cheese I've ever eaten.",
+      "translation": "Это самый вкусный сыр, который я когда-либо ел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_29",
+      "word": "Tom asked Mary to go to the supermarket to get some milk.",
+      "translation": "Том попросил Мэри сходить в супермаркет за молоком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_30",
+      "word": "I'll get you some milk.",
+      "translation": "Я принесу тебе молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_31",
+      "word": "Tom made himself a peanut butter sandwich.",
+      "translation": "Том сделал себе бутерброд с арахисовым маслом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_32",
+      "word": "I'd rather use olive oil than butter.",
+      "translation": "Я лучше возьму оливковое масло, а не сливочное.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_33",
+      "word": "Tom ate the apple Mary gave him.",
+      "translation": "Том съел яблоко, которое ему дала Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_34",
+      "word": "Rice doesn't contain gluten.",
+      "translation": "Рис не содержит глютена.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_35",
+      "word": "Cows give us milk and chickens give us eggs.",
+      "translation": "Коровы дают нам молоко, а куры дают нам яйца.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_36",
+      "word": "I don't want that much milk.",
+      "translation": "Я не хочу столько молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_37",
+      "word": "He sketched an apple.",
+      "translation": "Он нарисовал эскиз яблока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_38",
+      "word": "We're out of milk.",
+      "translation": "У нас закончилось молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_39",
+      "word": "Tom drank a cup of milk.",
+      "translation": "Том выпил чашку молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_40",
+      "word": "Tom washed the apple.",
+      "translation": "Том помыл яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_41",
+      "word": "There's an assortment of fruit in the box.",
+      "translation": "В коробке лежат разные фрукты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_42",
+      "word": "I ate some cheese.",
+      "translation": "Я поел сыра.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_43",
+      "word": "Do you have milk?",
+      "translation": "У вас есть молоко?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_44",
+      "word": "You undercooked the pasta.",
+      "translation": "Ты недоварил макароны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_45",
+      "word": "Tom drinks milk.",
+      "translation": "Том пьёт молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_46",
+      "word": "Do you know how to make a grilled cheese sandwich?",
+      "translation": "Ты знаешь, как приготовить сэндвич с сыром на гриле?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_47",
+      "word": "Tom likes dipping cookies in milk.",
+      "translation": "Том любит окунать печенья в молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_48",
+      "word": "Tom bought too much milk.",
+      "translation": "Том купил слишком много молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_6_49",
+      "word": "Everyone likes potato chips.",
+      "translation": "Все любят картофельные чипсы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_0",
+      "word": "Tom ate an apple.",
+      "translation": "Том съел яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_1",
+      "word": "Tom loves milk.",
+      "translation": "Том любит молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_2",
+      "word": "Bring me some milk.",
+      "translation": "Принеси мне молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_3",
+      "word": "There's only milk in the fridge.",
+      "translation": "В холодильнике только молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_4",
+      "word": "Is eating egg yolks really that unhealthy?",
+      "translation": "Есть яичный желток действительно вредно для здоровья?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_5",
+      "word": "Tom asked Mary if she ate pork.",
+      "translation": "Том спросил Мэри, ест ли она свинину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_6",
+      "word": "Whip the egg whites until they are stiff.",
+      "translation": "Взбейте яичные белки до плотного состояния.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_7",
+      "word": "Mary made some egg sandwiches.",
+      "translation": "Мария сделала несколько сэндвичей с яйцом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_8",
+      "word": "I peeled the apple.",
+      "translation": "Я почистила яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_9",
+      "word": "Tom ate the whole apple in less than three minutes.",
+      "translation": "Том съел целое яблоко менее чем за три минуты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_10",
+      "word": "Tom hasn't bought bread yet.",
+      "translation": "Том ещё не купил хлеб.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_11",
+      "word": "I'm eating an apple.",
+      "translation": "Я ем яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_12",
+      "word": "Tom ate my apple.",
+      "translation": "Том съел моё яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_13",
+      "word": "I'm eating rice now.",
+      "translation": "Я сейчас ем рис.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_14",
+      "word": "Tom threw me the apple.",
+      "translation": "Том бросил мне яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_15",
+      "word": "Here's a basket full of fruit.",
+      "translation": "Вот корзина, полная фруктов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_16",
+      "word": "How many apple trees are there in your orchard?",
+      "translation": "Сколько яблонь у вас в саду?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_17",
+      "word": "Don't forget the milk.",
+      "translation": "Не забудь молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_18",
+      "word": "Bread and milk are good foods.",
+      "translation": "Хлеб и молоко - хорошая еда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_19",
+      "word": "Africa is exporting beef to Europe.",
+      "translation": "Африка экспортирует говядину в Европу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_20",
+      "word": "The pasta was overcooked.",
+      "translation": "Макароны были переваренные.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_21",
+      "word": "How many apples does it take to make three apple pies?",
+      "translation": "Сколько нужно яблок, чтобы испечь три яблочных пирога?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_22",
+      "word": "Does milk spoil quickly?",
+      "translation": "Молоко быстро портится?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_23",
+      "word": "The fruit tastes sweet.",
+      "translation": "Плод сладкий.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_24",
+      "word": "There's no more milk.",
+      "translation": "Больше молока нет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_25",
+      "word": "I threw Tom the apple.",
+      "translation": "Я кинул яблоко Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_26",
+      "word": "Tom gave an apple to Mary.",
+      "translation": "Том дал Мэри яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_27",
+      "word": "There's milk in the fridge.",
+      "translation": "В холодильнике есть молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_28",
+      "word": "There's no use crying over spilt milk.",
+      "translation": "Сделанного не воротишь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_29",
+      "word": "This fruit isn't for you.",
+      "translation": "Этот фрукт не для вас.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_30",
+      "word": "We're drinking milk.",
+      "translation": "Мы пьём молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_31",
+      "word": "He gave me an apple.",
+      "translation": "Он мне дал яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_32",
+      "word": "This is me eating a banana.",
+      "translation": "Это я ем банан.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_33",
+      "word": "Tom ate some cheese.",
+      "translation": "Том поел сыра.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_34",
+      "word": "This milk tastes odd.",
+      "translation": "У этого молока странный вкус.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_35",
+      "word": "This egg is fresh.",
+      "translation": "Это яйцо свежее.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_36",
+      "word": "This apple is too small.",
+      "translation": "Это яблоко слишком маленькое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_37",
+      "word": "What's the best way to thaw beef?",
+      "translation": "Как лучше всего разморозить говядину?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_38",
+      "word": "She ate the apple.",
+      "translation": "Она съела яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_39",
+      "word": "She poured the milk in a bowl.",
+      "translation": "Она налила молоко в миску.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_40",
+      "word": "He drank a whole bottle of milk.",
+      "translation": "Он выпил целую бутылку молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_41",
+      "word": "More than 75% of farms raised pigs and milk cows.",
+      "translation": "Более семидесяти пяти процентов хозяйств разводили свиней и молочных коров.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_42",
+      "word": "Jam is made from fruit.",
+      "translation": "Джем делают из фруктов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_43",
+      "word": "How is bread made?",
+      "translation": "Как делают хлеб?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_44",
+      "word": "I peeled an apple.",
+      "translation": "Я почистил яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_45",
+      "word": "Tom sliced the onion.",
+      "translation": "Том резал лук.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_46",
+      "word": "I wonder whether or not this milk is still good.",
+      "translation": "Интересно, это молоко ещё нормальное или уже нет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_47",
+      "word": "Tom planted some fruit trees.",
+      "translation": "Том посадил несколько фруктовых деревьев.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_48",
+      "word": "I didn't know that Tom had already bought milk.",
+      "translation": "Я не знал, что Том уже купил молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_7_49",
+      "word": "Tom poured milk into the cup.",
+      "translation": "Том налил в чашку молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_0",
+      "word": "Tom wants an apple.",
+      "translation": "Том хочет яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_1",
+      "word": "Tom ate one apple.",
+      "translation": "Том съел одно яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_2",
+      "word": "That's the biggest apple I've ever seen.",
+      "translation": "Это самое большое яблоко, какое я когда-либо видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_3",
+      "word": "We're out of cheese.",
+      "translation": "У нас сыр закончился.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_4",
+      "word": "Finish your milk.",
+      "translation": "Допивай своё молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_5",
+      "word": "Where's the butter?",
+      "translation": "Где масло?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_6",
+      "word": "Is this goat cheese?",
+      "translation": "Это козий сыр?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_7",
+      "word": "Tom likes fruit more than he likes vegetables.",
+      "translation": "Фрукты Том любит больше, чем овощи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_8",
+      "word": "Tom ordered an apple juice.",
+      "translation": "Том заказал стакан яблочного сока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_9",
+      "word": "This is an onion.",
+      "translation": "Это лук.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_10",
+      "word": "Tom threw Mary an apple.",
+      "translation": "Том бросил яблоко Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_11",
+      "word": "Tom likes cheese.",
+      "translation": "Том любит сыр.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_12",
+      "word": "What is butter made of?",
+      "translation": "Из чего сделано масло?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_13",
+      "word": "The bread is not fresh.",
+      "translation": "Этот хлеб не свежий.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_14",
+      "word": "This apple is rotten.",
+      "translation": "Это яблоко сгнило.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_15",
+      "word": "Tom drank some milk.",
+      "translation": "Том выпил молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_16",
+      "word": "Tom put a slice of bread into the toaster.",
+      "translation": "Том поместил кусочек хлеба в тостер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_17",
+      "word": "This beef is tender.",
+      "translation": "Эта говядина нежная.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_18",
+      "word": "Tom planted three apple trees in his yard.",
+      "translation": "Том посадил у себя во дворе три яблони.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_19",
+      "word": "I weighed the fruit.",
+      "translation": "Я взвешивал фрукты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_20",
+      "word": "I went to the supermarket and bought a bag of rice.",
+      "translation": "Я пошёл в супермаркет и купил пакет риса.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_21",
+      "word": "We ran out of cheese.",
+      "translation": "У нас сыр закончился.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_22",
+      "word": "Have you ever slipped on a banana peel?",
+      "translation": "Ты когда-нибудь поскальзывался на банановой кожуре?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_23",
+      "word": "A liter of milk contains about thirty grams of protein.",
+      "translation": "Литр молока содержит около тридцати граммов протеина.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_24",
+      "word": "I want an apple.",
+      "translation": "Я хочу яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_25",
+      "word": "How about some milk and cookies?",
+      "translation": "Хочешь молока с печеньем?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_26",
+      "word": "The bread really smells good.",
+      "translation": "Этот хлеб действительно пахнет хорошо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_27",
+      "word": "Tom took the butter out of the refrigerator.",
+      "translation": "Том достал масло из холодильника.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_28",
+      "word": "She ate one apple.",
+      "translation": "Она съела одно яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_29",
+      "word": "This apple is sour.",
+      "translation": "Это яблоко кислое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_30",
+      "word": "China is the world's leading producer of rice.",
+      "translation": "Китай — мировой лидер в производстве риса.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_31",
+      "word": "Thanks for the fruit.",
+      "translation": "Спасибо за фрукты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_32",
+      "word": "All that's in the fridge is milk.",
+      "translation": "В холодильнике только молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_33",
+      "word": "There's no more butter in the fridge.",
+      "translation": "В холодильнике не осталось масла.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_34",
+      "word": "Who cooked the rice?",
+      "translation": "Кто варил рис?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_35",
+      "word": "Tom poured the milk in a bowl.",
+      "translation": "Том налил молоко в миску.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_36",
+      "word": "Where's the milk?",
+      "translation": "Где молоко?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_37",
+      "word": "Tom opened the fridge and took out the milk.",
+      "translation": "Том открыл холодильник и достал молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_38",
+      "word": "Tom washed the apple before he ate it.",
+      "translation": "Том помыл яблоко перед тем, как съесть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_39",
+      "word": "He took out one egg.",
+      "translation": "Он достал одно яйцо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_40",
+      "word": "I sell cheese.",
+      "translation": "Я продаю сыр.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_41",
+      "word": "There isn't much milk in the bottle.",
+      "translation": "В бутылке не так много молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_42",
+      "word": "Tom wants some milk.",
+      "translation": "Том хочет молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_43",
+      "word": "The bread is stale.",
+      "translation": "Хлеб чёрствый.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_44",
+      "word": "I can't have rice.",
+      "translation": "Мне нельзя рис.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_45",
+      "word": "Milk is made into butter and cheese.",
+      "translation": "Из молока делают масло и сыр.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_46",
+      "word": "Is this milk?",
+      "translation": "Это молоко?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_47",
+      "word": "Is this beef or pork?",
+      "translation": "Это говядина или свинина?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_48",
+      "word": "Do you have some milk?",
+      "translation": "У вас есть немного молока?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_8_49",
+      "word": "Cloves are a spice.",
+      "translation": "Гвоздика - это пряность.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_0",
+      "word": "I gave Tom an apple.",
+      "translation": "Я дала Тому яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_1",
+      "word": "The milk is sour.",
+      "translation": "Молоко кислое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_2",
+      "word": "Tom gave each one of them an apple.",
+      "translation": "Том дал каждому из них по яблоку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_3",
+      "word": "I'll have skim milk.",
+      "translation": "Выпью обезжиренного молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_4",
+      "word": "Butter is made from cream.",
+      "translation": "Масло делают из сливок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_5",
+      "word": "French bread is very popular in Brazil.",
+      "translation": "Французский хлеб очень популярен в Бразилии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_6",
+      "word": "This egg is cracked.",
+      "translation": "Это яйцо треснутое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_7",
+      "word": "I went to the fridge to get some milk.",
+      "translation": "Я пошёл к холодильнику за молоком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_8",
+      "word": "I'm drinking milk.",
+      "translation": "Я пью молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_9",
+      "word": "Tom gave me an apple.",
+      "translation": "Том дал мне яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_10",
+      "word": "Where is the butter?",
+      "translation": "Где масло?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_11",
+      "word": "Don't spill the milk.",
+      "translation": "Не пролей молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_12",
+      "word": "Tom poured himself some milk.",
+      "translation": "Том налил себе немного молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_13",
+      "word": "Yesterday, I ate an apple.",
+      "translation": "Я вчера съел яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_14",
+      "word": "Is that an apple?",
+      "translation": "Это яблоко?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_15",
+      "word": "Tom has been eating too much pork.",
+      "translation": "Том съел слишком много свинины.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_16",
+      "word": "I don't know how to milk a goat.",
+      "translation": "Я не умею доить козу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_17",
+      "word": "You're out of milk.",
+      "translation": "У тебя молоко закончилось.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_18",
+      "word": "You have to break an egg to make an omelet.",
+      "translation": "Лес рубят — щепки летят.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_19",
+      "word": "Where can I find the milk?",
+      "translation": "Где я могу найти молоко?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_20",
+      "word": "What do you call this vegetable in English?",
+      "translation": "Как вы называете этот овощ по-английски?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_21",
+      "word": "The apple isn't ripe yet.",
+      "translation": "Яблоко ещё зелёное.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_22",
+      "word": "Her efforts bore fruit.",
+      "translation": "Её усилия принесли плоды.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_23",
+      "word": "How many calories is a peanut butter sandwich?",
+      "translation": "Сколько калорий в бутерброде с арахисовым маслом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_24",
+      "word": "Tom is the one who gave me this apple.",
+      "translation": "Именно Том дал мне это яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_25",
+      "word": "The milk is in the fridge.",
+      "translation": "Молоко в холодильнике.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_26",
+      "word": "Tom ate a banana.",
+      "translation": "Том съел банан.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_27",
+      "word": "She picked me an apple.",
+      "translation": "Она сорвала для меня яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_28",
+      "word": "I bought bread and milk.",
+      "translation": "Я купила хлеба и молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_29",
+      "word": "That banana is rotten.",
+      "translation": "Тот банан гнилой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_30",
+      "word": "Cut the apple into cubes.",
+      "translation": "Порежьте яблоко кубиками.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_31",
+      "word": "Is this milk still good?",
+      "translation": "Это молоко ещё не испортилось?",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_32",
+      "word": "Tom helped me milk the cows.",
+      "translation": "Том помогал мне доить коров.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_33",
+      "word": "We don't have any milk.",
+      "translation": "У нас совсем нет молока.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_34",
+      "word": "The apple was half rotten.",
+      "translation": "Яблоко было наполовину гнилое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_35",
+      "word": "That's the biggest egg I've ever seen.",
+      "translation": "Это самое большое яйцо, которое я видел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_36",
+      "word": "I'm eating a banana.",
+      "translation": "Я ем банан.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_37",
+      "word": "There's nothing in the refrigerator except milk.",
+      "translation": "В холодильнике, кроме молока, ничего нет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_38",
+      "word": "We're out of butter.",
+      "translation": "У нас закончилось сливочное масло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_39",
+      "word": "An apple will float in water, a pear won't.",
+      "translation": "Яблоко будет плавать на поверхности воды, а груша - нет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_40",
+      "word": "I'm going to go get some milk.",
+      "translation": "Я схожу за молоком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_41",
+      "word": "I dropped my apple.",
+      "translation": "Я уронил яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_42",
+      "word": "The bread is stuck in the toaster.",
+      "translation": "Хлеб застрял в тостере.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_43",
+      "word": "Use a strainer to drain the pasta.",
+      "translation": "Используйте сито, чтобы отделить спагетти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_44",
+      "word": "The tomato is a vegetable, not a fruit.",
+      "translation": "Помидоры - это овощи, а не фрукты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_45",
+      "word": "Tom wasn't the one who drank all the milk.",
+      "translation": "Это не Том всё молоко выпил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_46",
+      "word": "It is essential to prevent salmonella contamination in hen egg production.",
+      "translation": "Важно не допустить заражения сальмонеллой при производстве куриных яиц.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_47",
+      "word": "He eats nothing other than fruit.",
+      "translation": "Он ест одни фрукты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_48",
+      "word": "Get an egg from the refrigerator.",
+      "translation": "Достань яйцо из холодильника.",
+      "language": "en"
+    },
+    {
+      "id": "pb_foodingredients_9_49",
+      "word": "I'm eating a grapefruit.",
+      "translation": "Я ем грейпфрут.",
+      "language": "en"
+    }
+  ]
+}

@@ -1,0 +1,3007 @@
+{
+  "id": "phrasebook-communicationpost",
+  "name": "Communication & Post",
+  "description": "Phrasebook for Communication & Post",
+  "entries": [
+    {
+      "id": "pb_communicationpost_0_0",
+      "word": "She takes great pride in her stamp collection.",
+      "translation": "Она очень гордится своей коллекцией марок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_1",
+      "word": "I left Tom a message.",
+      "translation": "Я оставил Тому сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_2",
+      "word": "Can you deliver it?",
+      "translation": "Вы можете это доставить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_3",
+      "word": "Tom always has a ready reply.",
+      "translation": "У Тома на всё готов ответ.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_4",
+      "word": "Tom sent me a message.",
+      "translation": "Том отправил мне сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_5",
+      "word": "I wrote a letter in English.",
+      "translation": "Я написал письмо по-английски.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_6",
+      "word": "How can we contact you?",
+      "translation": "Как нам с вами связаться?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_7",
+      "word": "I need to check my mail.",
+      "translation": "Мне нужно проверить почту.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_8",
+      "word": "I saw the message.",
+      "translation": "Я видел сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_9",
+      "word": "This letter is for you.",
+      "translation": "Это письмо вам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_10",
+      "word": "We'll contact them.",
+      "translation": "Мы с ними свяжемся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_11",
+      "word": "It was a long letter.",
+      "translation": "Это было длинное письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_12",
+      "word": "Tom left a message for Mary.",
+      "translation": "Том оставил Мэри сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_13",
+      "word": "I can't contact Tom.",
+      "translation": "Я не могу связаться с Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_14",
+      "word": "Tom wrote a letter to Mary.",
+      "translation": "Том написал Мэри письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_15",
+      "word": "What's the message?",
+      "translation": "Что за сообщение?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_16",
+      "word": "Tom will contact Mary.",
+      "translation": "Том свяжется с Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_17",
+      "word": "I'll send it soon.",
+      "translation": "Я его скоро отправлю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_18",
+      "word": "Didn't you get my letter?",
+      "translation": "Ты не получил моего письма?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_19",
+      "word": "How can we contact Tom?",
+      "translation": "Как мы можем связаться с Томом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_20",
+      "word": "I transmitted a message to Tom.",
+      "translation": "Я передал Тому сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_21",
+      "word": "Don't send that letter.",
+      "translation": "Не отправляй это письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_22",
+      "word": "Open up the package.",
+      "translation": "Вскройте пакет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_23",
+      "word": "Did someone contact you?",
+      "translation": "Кто-нибудь с вами связывался?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_24",
+      "word": "I've received your letter.",
+      "translation": "Я получил ваше письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_25",
+      "word": "Tom left Mary a message.",
+      "translation": "Том оставил Мэри сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_26",
+      "word": "Was my letter sent?",
+      "translation": "Моё письмо было отправлено?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_27",
+      "word": "What did you reply?",
+      "translation": "Что ты ответил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_28",
+      "word": "Tom was the first to reply.",
+      "translation": "Том ответил первым.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_29",
+      "word": "I left a message for Tom.",
+      "translation": "Я оставил для Тома сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_30",
+      "word": "Send me a message.",
+      "translation": "Отправь мне сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_31",
+      "word": "Tom wrote a message to Mary.",
+      "translation": "Том написал Мэри сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_32",
+      "word": "I have a message for Tom.",
+      "translation": "У меня есть для Тома сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_33",
+      "word": "I have an important message.",
+      "translation": "У меня есть важное сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_34",
+      "word": "I sent a message to you.",
+      "translation": "Я отправил тебе сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_35",
+      "word": "Tom showed me the letter.",
+      "translation": "Том показал мне письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_36",
+      "word": "I received a thank-you letter.",
+      "translation": "Я получил благодарственное письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_37",
+      "word": "I plan to write Tom a letter.",
+      "translation": "Я планирую написать Тому письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_38",
+      "word": "Tom opened the envelope.",
+      "translation": "Том открыл конверт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_39",
+      "word": "I even wrote a letter to Tom.",
+      "translation": "Я даже письмо Тому написал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_40",
+      "word": "Did you receive my letter?",
+      "translation": "Ты получил моё письмо?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_41",
+      "word": "It's not clear who wrote this letter.",
+      "translation": "Неясно, кто написал это письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_42",
+      "word": "Explain the message to me.",
+      "translation": "Объясни мне это сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_43",
+      "word": "Tom handed Mary the letter opener.",
+      "translation": "Том передал Мэри нож для писем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_44",
+      "word": "He hasn't written the letter yet.",
+      "translation": "Он ещё не написал письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_45",
+      "word": "I need to send a fax.",
+      "translation": "Мне нужно отправить факс.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_46",
+      "word": "I don't know how to reply.",
+      "translation": "Я не знаю, что ответить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_47",
+      "word": "Tom is waiting for a letter.",
+      "translation": "Том ждёт письма.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_48",
+      "word": "Should I leave a message?",
+      "translation": "Мне оставить сообщение?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_0_49",
+      "word": "Did you get his letter?",
+      "translation": "Ты получил его письмо?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_0",
+      "word": "Tom tore up the letter from Mary.",
+      "translation": "Том разорвал письмо от Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_1",
+      "word": "Did you get Tom's message?",
+      "translation": "Ты получил сообщение Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_2",
+      "word": "I just received your letter.",
+      "translation": "Я только что получил твоё письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_3",
+      "word": "I'm waiting for your letter.",
+      "translation": "Жду твоего письма.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_4",
+      "word": "I want you to give Tom a message.",
+      "translation": "Я хочу, чтобы ты передал Тому сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_5",
+      "word": "I forgot to give Tom the envelope.",
+      "translation": "Я забыл дать Тому конверт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_6",
+      "word": "Tom did send Mary flowers once.",
+      "translation": "Том действительно один раз послал Мэри цветы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_7",
+      "word": "Tom saw Mary's letter on the desk.",
+      "translation": "Том увидел на письменном столе письмо Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_8",
+      "word": "Tom was unable to contact Mary.",
+      "translation": "Том не мог связаться с Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_9",
+      "word": "Give her this letter when she comes.",
+      "translation": "Отдай ей это письмо, когда она придет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_10",
+      "word": "I'll send it to you.",
+      "translation": "Я тебе его пришлю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_11",
+      "word": "I want to see what the message says.",
+      "translation": "Я хочу посмотреть, о чём говорится в сообщении.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_12",
+      "word": "You don't need to reply right away.",
+      "translation": "Вам не нужно отвечать прямо сейчас.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_13",
+      "word": "Don't forget to mail this letter.",
+      "translation": "Не забудь отправить это письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_14",
+      "word": "I'll send you the recipe.",
+      "translation": "Я пришлю тебе рецепт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_15",
+      "word": "The address on this parcel is wrong.",
+      "translation": "Адрес на этой посылке неправильный.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_16",
+      "word": "Where can I mail these letters?",
+      "translation": "Где я могу отправить эти письма?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_17",
+      "word": "Tom wrote Mary a letter.",
+      "translation": "Том написал Мэри письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_18",
+      "word": "What shall I do with her letter?",
+      "translation": "Что мне делать с её письмом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_19",
+      "word": "Send me the link.",
+      "translation": "Скинь мне ссылку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_20",
+      "word": "Tom tried to contact Mary.",
+      "translation": "Том пытался связаться с Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_21",
+      "word": "I heard the message.",
+      "translation": "Я слышал сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_22",
+      "word": "I wonder who that envelope is for.",
+      "translation": "Мне интересно, для кого этот конверт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_23",
+      "word": "Tom said he left a message.",
+      "translation": "Том сказал, что оставил сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_24",
+      "word": "I handed the letter to Tom.",
+      "translation": "Я передал письмо Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_25",
+      "word": "Send Tom to me.",
+      "translation": "Отправь ко мне Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_26",
+      "word": "I want to write a letter.",
+      "translation": "Я хочу написать письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_27",
+      "word": "I saw him tear up the letter.",
+      "translation": "Я видел, как он порвал письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_28",
+      "word": "I opened the envelope.",
+      "translation": "Я вскрыл конверт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_29",
+      "word": "The mailman left a letter for her.",
+      "translation": "Почтальон оставил для неё письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_30",
+      "word": "Tom handed the letter to me.",
+      "translation": "Том передал письмо мне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_31",
+      "word": "When did she send you her pictures?",
+      "translation": "Когда она отправила тебе свои фотографии?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_32",
+      "word": "How did Tom reply to that question?",
+      "translation": "Как Том ответил на этот вопрос?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_33",
+      "word": "I found her letter in the mailbox.",
+      "translation": "Я нашёл её письмо в почтовом ящике.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_34",
+      "word": "I need to send Tom a message.",
+      "translation": "Мне нужно отправить Тому сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_35",
+      "word": "I didn't send Tom anywhere.",
+      "translation": "Я никуда не посылал Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_36",
+      "word": "Tom burned the letter.",
+      "translation": "Том сжёг письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_37",
+      "word": "I wonder what Tom's reply will be.",
+      "translation": "Интересно, что ответит Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_38",
+      "word": "For more information, contact us.",
+      "translation": "Чтобы получить больше информации, свяжитесь с нами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_39",
+      "word": "This parcel is addressed to you.",
+      "translation": "Эта посылка адресована вам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_40",
+      "word": "This letter hasn't been signed.",
+      "translation": "Это письмо не подписано.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_41",
+      "word": "I didn't know how to reply.",
+      "translation": "Я не знал, что отвечать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_42",
+      "word": "I wrote Tom a long letter.",
+      "translation": "Я написал Тому длинное письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_43",
+      "word": "She forgot to mail the letter.",
+      "translation": "Она забыла опустить письмо в почтовый ящик.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_44",
+      "word": "Wait until you receive the letter.",
+      "translation": "Подождите, пока вы получите письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_45",
+      "word": "Don't forget to send that letter.",
+      "translation": "Не забудь отправить это письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_46",
+      "word": "They're going to send up a rocket.",
+      "translation": "Они собираются запустить ракету.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_47",
+      "word": "I have to send these letters.",
+      "translation": "Мне надо отправить эти письма.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_48",
+      "word": "She is writing a letter now.",
+      "translation": "Она сейчас пишет письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_1_49",
+      "word": "He's writing a long letter.",
+      "translation": "Он пишет длинное письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_0",
+      "word": "The stranger didn't reply.",
+      "translation": "Незнакомец не ответил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_1",
+      "word": "I don't have the address with me.",
+      "translation": "У меня нет с собой адреса.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_2",
+      "word": "I've just finished writing a letter.",
+      "translation": "Я только что закончил писать письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_3",
+      "word": "Send it to me as a compressed file.",
+      "translation": "Отправь мне это в виде сжатого файла.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_4",
+      "word": "What does he say in his letter?",
+      "translation": "О чём он пишет в своём письме?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_5",
+      "word": "I have a package here for Tom.",
+      "translation": "У меня тут пакет для Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_6",
+      "word": "I received a letter.",
+      "translation": "Я получила письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_7",
+      "word": "Tom can deliver the message.",
+      "translation": "Том может доставить сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_8",
+      "word": "Tom showed me the letter from Mary.",
+      "translation": "Том показал мне письмо от Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_9",
+      "word": "I must answer her letter.",
+      "translation": "Я должен ответить на её письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_10",
+      "word": "The reply came after three days.",
+      "translation": "Ответ пришёл через три дня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_11",
+      "word": "Let's keep in touch by e-mail.",
+      "translation": "Давайте держать связь по электронной почте.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_12",
+      "word": "We tried to contact the other ship.",
+      "translation": "Мы пытались связаться с другим судном.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_13",
+      "word": "Show me your stamp collection.",
+      "translation": "Покажи мне свою коллекцию марок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_14",
+      "word": "Are you going to open the envelope?",
+      "translation": "Ты собираешься открыть конверт?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_15",
+      "word": "What did she reply?",
+      "translation": "Что она ответила?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_16",
+      "word": "I don't know how to address you.",
+      "translation": "Я не знаю, как к тебе обращаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_17",
+      "word": "Who's this message for?",
+      "translation": "Для кого это сообщение?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_18",
+      "word": "Leave your message after the beep.",
+      "translation": "Оставьте сообщение после сигнала.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_19",
+      "word": "We'll try to reply within 24 hours.",
+      "translation": "Мы постараемся ответить в течение суток.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_20",
+      "word": "I can't contact my relatives.",
+      "translation": "Я не могу связаться со своими родственниками.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_21",
+      "word": "I must contact Tom.",
+      "translation": "Я должен связаться с Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_22",
+      "word": "Don't bother to answer this letter.",
+      "translation": "Не утруждай себя ответом на это письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_23",
+      "word": "Tom wrote Mary a letter in French.",
+      "translation": "Том написал Мэри письмо на французском языке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_24",
+      "word": "Tell her that I am writing a letter.",
+      "translation": "Скажи ей, что я пишу письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_25",
+      "word": "I have a message for you from Tom.",
+      "translation": "У меня для вас сообщение от Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_26",
+      "word": "Didn't you write a letter to him?",
+      "translation": "Ты не написал ему письмо?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_27",
+      "word": "Tom can't have written this letter.",
+      "translation": "Том не мог написать этого письма.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_28",
+      "word": "She opened the letter quickly.",
+      "translation": "Она быстро открыла письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_29",
+      "word": "You don't have to answer that letter.",
+      "translation": "На это письмо можно не отвечать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_30",
+      "word": "Tom wrote a letter to Mary in French.",
+      "translation": "Том написал Марии письмо по-французски.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_31",
+      "word": "Do you want to send a message?",
+      "translation": "Вы хотите отправить сообщение?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_32",
+      "word": "I'm able to communicate in French.",
+      "translation": "Я могу общаться по-французски.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_33",
+      "word": "I refuse to reply to these charges.",
+      "translation": "Я отказываюсь отвечать на эти обвинения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_34",
+      "word": "I guess you didn't get my message.",
+      "translation": "Полагаю, ты не получил моё сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_35",
+      "word": "I've tried to contact Tom.",
+      "translation": "Я пытался связаться с Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_36",
+      "word": "Have you sent the letter?",
+      "translation": "Ты отправил письмо?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_37",
+      "word": "Let's contact Tom.",
+      "translation": "Давай свяжемся с Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_38",
+      "word": "Tom looked at the message again.",
+      "translation": "Том снова взглянул на сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_39",
+      "word": "I'm afraid I have addressed the parcel wrongly.",
+      "translation": "Я боюсь, что не туда отправил посылку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_40",
+      "word": "I have an urgent message for you.",
+      "translation": "У меня для тебя срочное сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_41",
+      "word": "I will wait till you have written the letter.",
+      "translation": "Я подожду, пока ты напишешь письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_42",
+      "word": "I burned the letter.",
+      "translation": "Письмо я сожгла.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_43",
+      "word": "I'll tell them to contact you.",
+      "translation": "Я скажу им, чтобы связались с тобой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_44",
+      "word": "Tom didn't reply.",
+      "translation": "Том не ответил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_45",
+      "word": "Send Tom in.",
+      "translation": "Пошлите Тома сюда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_46",
+      "word": "Tom hasn't replied to my letter yet.",
+      "translation": "Том ещё не ответил на моё письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_47",
+      "word": "Contact Tom for details.",
+      "translation": "Свяжитесь с Томом для получения подробной информации.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_48",
+      "word": "Tom didn't receive any reply.",
+      "translation": "Том не получил никакого ответа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_2_49",
+      "word": "I get a lot of junk mail.",
+      "translation": "Я получаю много спама.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_0",
+      "word": "You must begin a sentence with a capital letter.",
+      "translation": "Предложение должно начинаться с заглавной буквы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_1",
+      "word": "Tom didn't know who to deliver the package to.",
+      "translation": "Том не знал, кому доставить посылку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_2",
+      "word": "Who are you going to send that to?",
+      "translation": "Кому ты это отправишь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_3",
+      "word": "What did they reply?",
+      "translation": "Что они ответили?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_4",
+      "word": "She tore the letter into a thousand pieces.",
+      "translation": "Она разорвала письмо на мелкие кусочки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_5",
+      "word": "I'm the only one still in contact with Tom.",
+      "translation": "Я единственный, кто ещё поддерживает связь с Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_6",
+      "word": "The moment she was alone, she opened the letter.",
+      "translation": "Она открыла письмо, как только осталась одна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_7",
+      "word": "I need three copies of this letter.",
+      "translation": "Мне нужно три копии этого письма.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_8",
+      "word": "Tom delivered the package to Mary.",
+      "translation": "Том доставил посылку Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_9",
+      "word": "Send it to the address I gave you.",
+      "translation": "Отошлите это по адресу, который я вам дал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_10",
+      "word": "I didn't write that letter.",
+      "translation": "Я не писал того письма.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_11",
+      "word": "I waited for Tom's reply.",
+      "translation": "Я ждал ответа от Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_12",
+      "word": "Who gave that envelope to you?",
+      "translation": "Кто дал тебе этот конверт?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_13",
+      "word": "It's not necessary to answer that letter.",
+      "translation": "На это письмо отвечать не нужно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_14",
+      "word": "What's that letter about?",
+      "translation": "О чём то письмо?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_15",
+      "word": "I need to mail this package to Boston.",
+      "translation": "Мне нужно отправить эту посылку в Бостон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_16",
+      "word": "I'm the one who wrote that letter.",
+      "translation": "То письмо написал я.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_17",
+      "word": "I have to write a letter. Do you have some paper?",
+      "translation": "Мне надо написать письмо. У тебя есть бумага?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_18",
+      "word": "Tom got the message.",
+      "translation": "Том получил сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_19",
+      "word": "Tom tore up the letter he got from Mary.",
+      "translation": "Том разорвал письмо, которое он получил от Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_20",
+      "word": "I saw your message.",
+      "translation": "Я видел твоё сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_21",
+      "word": "I can't decode the message.",
+      "translation": "Я не могу расшифровать сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_22",
+      "word": "He hasn't left any message.",
+      "translation": "Он не оставил никаких сообщений.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_23",
+      "word": "Can you deliver this?",
+      "translation": "Можете это доставить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_24",
+      "word": "What is this letter?",
+      "translation": "Какая это буква?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_25",
+      "word": "Tom wrote the letter himself.",
+      "translation": "Том сам написал письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_26",
+      "word": "Tom handed Mary the message.",
+      "translation": "Том передал Мэри послание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_27",
+      "word": "I wrote down his address on a piece of paper.",
+      "translation": "Я записал его адрес на кусочке бумаги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_28",
+      "word": "Be sure to register the letter.",
+      "translation": "Смотрите не забудьте послать это письмо заказным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_29",
+      "word": "I got your message.",
+      "translation": "Я получил ваше сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_30",
+      "word": "Tom showed Mary the letter he had just written.",
+      "translation": "Том показал Мэри письмо, которое только что написал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_31",
+      "word": "I'll send flowers.",
+      "translation": "Я пошлю цветы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_32",
+      "word": "Tom wrote a message in all caps.",
+      "translation": "Том написал сообщение заглавными буквами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_33",
+      "word": "He tried to concentrate on the letter.",
+      "translation": "Он попытался сосредоточиться на письме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_34",
+      "word": "I found this package.",
+      "translation": "Я нашёл этот пакет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_35",
+      "word": "Tom's reply didn't surprise anyone.",
+      "translation": "Ответ Тома никого не удивил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_36",
+      "word": "I never got a reply from Tom.",
+      "translation": "Я так и не получил от Тома ответа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_37",
+      "word": "Tom wrote a letter to Santa.",
+      "translation": "Том написал письмо Санте.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_38",
+      "word": "Tom didn't leave a message.",
+      "translation": "Том не оставил сообщения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_39",
+      "word": "I asked her to make four copies of the letter.",
+      "translation": "Я её попросил сделать четыре копии письма.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_40",
+      "word": "I'll relay your message to Tom.",
+      "translation": "Я передам твоё сообщение Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_41",
+      "word": "Tom can't have written this letter himself.",
+      "translation": "Не может быть, чтобы Том сам написал это письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_42",
+      "word": "I received your letter.",
+      "translation": "Я получил твоё письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_43",
+      "word": "Could you type this letter for me?",
+      "translation": "Вы не могли бы напечатать для меня это письмо?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_44",
+      "word": "Did Tom send you?",
+      "translation": "Тебя послал Фома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_45",
+      "word": "Could you send this letter for me?",
+      "translation": "Не могли бы вы отправить это письмо?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_46",
+      "word": "I'll contact you when I can.",
+      "translation": "Я свяжусь с тобой, как только смогу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_47",
+      "word": "Do you think this letter was written by Tom?",
+      "translation": "Вы думаете, это письмо было написано Томом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_48",
+      "word": "I want you to send this report to Tom.",
+      "translation": "Я хочу, чтобы ты отправил этот доклад Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_3_49",
+      "word": "Tom hasn't yet replied to my letter.",
+      "translation": "Том ещё не ответил на моё письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_0",
+      "word": "Have you received a reply?",
+      "translation": "Вы получили ответ?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_1",
+      "word": "Tom doesn't want to answer Mary's message.",
+      "translation": "Том не хочет отвечать на сообщение Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_2",
+      "word": "She tore the letter up after reading it.",
+      "translation": "Она порвала письмо, прочитав его.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_3",
+      "word": "Tom didn't answer my letter.",
+      "translation": "Том не ответил на моё письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_4",
+      "word": "Do we have to reply?",
+      "translation": "Нам обязательно отвечать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_5",
+      "word": "I got a letter.",
+      "translation": "Я получила письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_6",
+      "word": "Tom tried to get in contact with Mary.",
+      "translation": "Том пытался связаться с Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_7",
+      "word": "Tom made no reply.",
+      "translation": "Том не ответил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_8",
+      "word": "I don't want to answer this letter.",
+      "translation": "Я не хочу отвечать на это письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_9",
+      "word": "I didn't know who would bring the letter.",
+      "translation": "Я не знал, кто принесёт письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_10",
+      "word": "I even wrote Tom a letter.",
+      "translation": "Я даже написал письмо Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_11",
+      "word": "I got your letter.",
+      "translation": "Я получил твоё письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_12",
+      "word": "Send me your picture.",
+      "translation": "Отправь мне свою фотографию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_13",
+      "word": "He can't possibly write the letter by himself.",
+      "translation": "Он никак не может написать письмо сам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_14",
+      "word": "I've got an important message from Tom.",
+      "translation": "У меня важное сообщение для Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_15",
+      "word": "Are there any letters for me in today's mail?",
+      "translation": "Есть для меня письма в сегодняшней почте?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_16",
+      "word": "Send it to me.",
+      "translation": "Отправь мне это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_17",
+      "word": "Who should I contact?",
+      "translation": "С кем мне связаться?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_18",
+      "word": "Do you think that I should reply to Tom's letter?",
+      "translation": "Думаешь, мне стоит ответить на письмо Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_19",
+      "word": "Have you ever written a letter to Santa?",
+      "translation": "Вы когда-нибудь писали письмо Санте?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_20",
+      "word": "I hope you tore up my last letter.",
+      "translation": "Надеюсь, вы разорвали моё последнее письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_21",
+      "word": "I wasn't the one who wrote that message.",
+      "translation": "Это не я написал это сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_22",
+      "word": "Tom tossed the letter away.",
+      "translation": "Том отбросил письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_23",
+      "word": "Is that letter addressed to you or to me?",
+      "translation": "Это письмо адресовано тебе или мне?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_24",
+      "word": "Would you like to add me to your contact list?",
+      "translation": "Ты хотел бы добавить меня в свой список контактов?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_25",
+      "word": "Tom slipped the letter into the box.",
+      "translation": "Том опустил письмо в ящик.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_26",
+      "word": "I've got an important message for Tom.",
+      "translation": "У меня важное сообщение для Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_27",
+      "word": "Tom handed Mary a large envelope.",
+      "translation": "Том передал Мэри большой конверт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_28",
+      "word": "Have you received the letter?",
+      "translation": "Вы получили письмо?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_29",
+      "word": "Tom wanted to send a message.",
+      "translation": "Том хотел отправить сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_30",
+      "word": "When did you finish writing the letter?",
+      "translation": "Когда ты окончил писать письмо?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_31",
+      "word": "I must remember to mail this letter.",
+      "translation": "Я должен не забыть отправить это письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_32",
+      "word": "I'll deliver it as soon as I can.",
+      "translation": "Я доставлю это в кратчайшие сроки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_33",
+      "word": "Tom left an envelope on your desk.",
+      "translation": "Том оставил конверт на твоём столе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_34",
+      "word": "Tom didn't have Mary's address with him.",
+      "translation": "У Тома не было с собой адреса Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_35",
+      "word": "I didn't receive a reply to my question.",
+      "translation": "Я не получил ответа на свой вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_36",
+      "word": "They communicate with each other often by mail.",
+      "translation": "Они часто связываются друг с другом по почте.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_37",
+      "word": "Burn this letter after you finish reading it.",
+      "translation": "Сожги это письмо после прочтения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_38",
+      "word": "I'll send you another copy.",
+      "translation": "Я пришлю тебе ещё одну копию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_39",
+      "word": "What kind of reply were you expecting?",
+      "translation": "Какого ответа ты ожидал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_40",
+      "word": "There is a letter for you.",
+      "translation": "Тебе письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_41",
+      "word": "What's the first letter of the alphabet?",
+      "translation": "Какая первая буква алфавита?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_42",
+      "word": "I forwarded the message I got from Tom to Mary.",
+      "translation": "Я переслал полученное от Тома письмо Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_43",
+      "word": "I get a lot of mail.",
+      "translation": "Я получаю много писем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_44",
+      "word": "I'm still waiting for a reply.",
+      "translation": "Я всё ещё жду ответа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_45",
+      "word": "Did you give Tom my message?",
+      "translation": "Ты передал Тому моё сообщение?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_46",
+      "word": "Tom didn't even open Mary's letter.",
+      "translation": "Том даже не открыл письмо Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_47",
+      "word": "Where's the mail box?",
+      "translation": "Где почтовый ящик?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_48",
+      "word": "Send her my regards.",
+      "translation": "Передай ей привет от меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_4_49",
+      "word": "Tom showed Mary the letter he got from John.",
+      "translation": "Том показал Мэри письмо, которое получил от Джона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_0",
+      "word": "I must write down his address before I forget it.",
+      "translation": "Я должен записать его адрес пока я его не забыл.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_1",
+      "word": "I'll give Tom your message.",
+      "translation": "Я передам Тому твоё сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_2",
+      "word": "That seems to be a coded message.",
+      "translation": "Это, похоже, какое-то закодированное сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_3",
+      "word": "I got no reply.",
+      "translation": "Я не получил ответа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_4",
+      "word": "He doesn't know how to write a letter in English.",
+      "translation": "Он не знает, как писать ни одну английскую букву.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_5",
+      "word": "Tom knows how to contact me if he needs me.",
+      "translation": "Том знает, как со мной связаться, если я ему понадоблюсь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_6",
+      "word": "We sent you a letter.",
+      "translation": "Мы отправили тебе письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_7",
+      "word": "I forgot to write the address on the envelope.",
+      "translation": "Я забыл написать адрес на конверте.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_8",
+      "word": "How can I contact you?",
+      "translation": "Как я могу с вами связаться?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_9",
+      "word": "I sent Tom a message.",
+      "translation": "Я отправил Тому сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_10",
+      "word": "I'm writing Tom a letter.",
+      "translation": "Я пишу Тому письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_11",
+      "word": "Both Tom and Mary didn't know how to send a fax.",
+      "translation": "Ни Том, ни Мэри не знали, как отправить факс.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_12",
+      "word": "Tom never gave Mary your message.",
+      "translation": "Том так никогда и не передал Мэри твоё сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_13",
+      "word": "On arriving in Tokyo, I wrote her a letter.",
+      "translation": "По прибытии в Токио я написал ей письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_14",
+      "word": "Tom showed his stamp collection to Mary.",
+      "translation": "Том показал Мэри свою коллекцию марок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_15",
+      "word": "I just got a message from Tom.",
+      "translation": "Я только что получил от Тома сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_16",
+      "word": "I wrote down the address for you.",
+      "translation": "Я написал тебе адрес.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_17",
+      "word": "What's in the envelope?",
+      "translation": "Что в конверте?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_18",
+      "word": "I got Tom's message.",
+      "translation": "Я получил сообщение Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_19",
+      "word": "I have an urgent message for Tom.",
+      "translation": "У меня есть срочное сообщение для Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_20",
+      "word": "I'd like to send a telegram.",
+      "translation": "Я хотел бы отправить телеграмму.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_21",
+      "word": "Did you send them?",
+      "translation": "Ты их отправил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_22",
+      "word": "This letter is not signed.",
+      "translation": "Это письмо не подписано.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_23",
+      "word": "Send this message to as many people as you can.",
+      "translation": "Перешлите это сообщение как можно большему числу людей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_24",
+      "word": "It was me who wrote the letter.",
+      "translation": "Письмо написал я.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_25",
+      "word": "What did the letter say?",
+      "translation": "О чём говорилось в письме?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_26",
+      "word": "We haven't yet answered Tom's letter.",
+      "translation": "Мы ещё не ответили Тому на письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_27",
+      "word": "Tom picked up the letter and pocketed it.",
+      "translation": "Том поднял письмо и положил его в карман.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_28",
+      "word": "I'm writing a letter now.",
+      "translation": "Я сейчас пишу письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_29",
+      "word": "He responded very quickly to my letter.",
+      "translation": "Он очень быстро ответил на моё письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_30",
+      "word": "I didn't receive your letter.",
+      "translation": "Я не получал твоего письма.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_31",
+      "word": "Thanks for the letter.",
+      "translation": "Спасибо за письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_32",
+      "word": "Don't forget to mail the letters.",
+      "translation": "Не забудь отправить письма.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_33",
+      "word": "I never got a reply.",
+      "translation": "Ответа я так и не получил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_34",
+      "word": "Tom handed a small envelope to Mary.",
+      "translation": "Том протянул Мэри небольшой конверт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_35",
+      "word": "I don't know how to contact Tom.",
+      "translation": "Я не знаю, как связаться с Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_36",
+      "word": "She didn't try to translate the letter.",
+      "translation": "Она не пыталась перевести письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_37",
+      "word": "Tom threw Mary's letter into the fire.",
+      "translation": "Том бросил письмо Мэри в огонь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_38",
+      "word": "Tom handed me the letter and left.",
+      "translation": "Том отдал мне письмо и ушёл.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_39",
+      "word": "I'll contact you when we're finished.",
+      "translation": "Я свяжусь с вами, когда мы закончим.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_40",
+      "word": "I want you to deliver this message to Tom.",
+      "translation": "Я хочу, чтобы вы доставили это сообщение Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_41",
+      "word": "I left you a message.",
+      "translation": "Я оставил тебе сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_42",
+      "word": "I left a message.",
+      "translation": "Я оставил сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_43",
+      "word": "We will contact you as soon as we know.",
+      "translation": "Мы свяжемся с вами, как только узнаем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_44",
+      "word": "The lecturer couldn't get his message across to the audience.",
+      "translation": "Лектор не смог донести свою идею до аудитории.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_45",
+      "word": "There was no return address on the envelope.",
+      "translation": "На конверте не было обратного адреса.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_46",
+      "word": "I want you to write me a letter.",
+      "translation": "Я хочу, чтобы ты написал мне письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_47",
+      "word": "It is not clear who wrote this letter.",
+      "translation": "Неясно, кто написал это письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_48",
+      "word": "Did Tom contact you?",
+      "translation": "Том с тобой связывался?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_5_49",
+      "word": "Was this letter written by Mary?",
+      "translation": "Это письмо написала Мэри?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_0",
+      "word": "Let's write Tom a letter.",
+      "translation": "Давай напишем Тому письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_1",
+      "word": "I don't have the letter on me now.",
+      "translation": "У меня сейчас нет с собой письма.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_2",
+      "word": "Has he written the letter yet?",
+      "translation": "Он уже написал письмо?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_3",
+      "word": "I've just finished writing the letter.",
+      "translation": "Я только что закончил писать письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_4",
+      "word": "Send us a message.",
+      "translation": "Отправьте нам сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_5",
+      "word": "I asked him several times, but he simply didn't reply.",
+      "translation": "Я спрашивал его несколько раз, но он просто не отвечал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_6",
+      "word": "You have to reply to the letter.",
+      "translation": "Ты должен ответить на это письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_7",
+      "word": "Tom dashed to the corner to mail a letter.",
+      "translation": "Том помчался на угол отправить письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_8",
+      "word": "I wrote a letter in French.",
+      "translation": "Я писал письмо на французском.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_9",
+      "word": "Your message has been sent.",
+      "translation": "Ваше сообщение отправлено.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_10",
+      "word": "There's a message for you.",
+      "translation": "Тебе сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_11",
+      "word": "He ripped the envelope open.",
+      "translation": "Он разорвал конверт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_12",
+      "word": "Can I leave Tom a message?",
+      "translation": "Могу я оставить Тому сообщение?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_13",
+      "word": "Where did you send Tom?",
+      "translation": "Куда ты отправил Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_14",
+      "word": "Here is a letter for you.",
+      "translation": "Вот письмо для тебя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_15",
+      "word": "Something's wrong with my e-mail.",
+      "translation": "Что-то не так с моей электронной почтой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_16",
+      "word": "Write me a message.",
+      "translation": "Напиши мне сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_17",
+      "word": "Tom found the letter Mary had hidden.",
+      "translation": "Том нашёл спрятанное Мэри письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_18",
+      "word": "Tom sent a message to Mary.",
+      "translation": "Том отправил Мэри сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_19",
+      "word": "Jackson received no answer to his letter.",
+      "translation": "Джексон не получил ответа на своё письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_20",
+      "word": "I didn't even get one letter from her.",
+      "translation": "Я от неё даже ни одного письма не получил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_21",
+      "word": "What was the letter about?",
+      "translation": "О чём говорилось в письме?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_22",
+      "word": "I'd like to send this package to Australia.",
+      "translation": "Я хотел бы отправить эту посылку в Австралию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_23",
+      "word": "That's a new message.",
+      "translation": "Это новое сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_24",
+      "word": "The stamp fell off the envelope.",
+      "translation": "Марка отклеилась от конверта.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_25",
+      "word": "Do you want to leave a message?",
+      "translation": "Ты хочешь оставить сообщение?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_26",
+      "word": "Did you reply to them?",
+      "translation": "Ты им ответил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_27",
+      "word": "This letter has to be sent right away.",
+      "translation": "Это письмо должно быть отправлено немедленно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_28",
+      "word": "Tom is going to write a letter to Mary.",
+      "translation": "Том собирается написать письмо Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_29",
+      "word": "Tom didn't respond to Mary's text message.",
+      "translation": "Том не ответил на сообщение Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_30",
+      "word": "He wrote a prompt answer to my letter.",
+      "translation": "Он дал быстрый ответ на моё письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_31",
+      "word": "We'll mail it to you.",
+      "translation": "Мы передадим тебе это по электронной почте.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_32",
+      "word": "We'll send Tom a card.",
+      "translation": "Мы пошлем Тому открытку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_33",
+      "word": "Did you forget to send my letter?",
+      "translation": "Вы забыли отправить моё письмо?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_34",
+      "word": "Would you like to leave a message?",
+      "translation": "Вы не хотели бы оставить сообщение?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_35",
+      "word": "You have mail.",
+      "translation": "Тебе письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_36",
+      "word": "We waited a long time, but there was no reply.",
+      "translation": "Мы долго ждали, но ответа не было.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_37",
+      "word": "Thanks for your reply.",
+      "translation": "Спасибо за ваш ответ.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_38",
+      "word": "We received a letter of thanks.",
+      "translation": "Мы получили благодарственное письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_39",
+      "word": "Would you like to leave a message for him?",
+      "translation": "Не хотели бы вы оставить ему сообщение?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_40",
+      "word": "Tom slid the envelope under the door.",
+      "translation": "Том просунул конверт под дверь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_41",
+      "word": "The mail has arrived.",
+      "translation": "Почта пришла.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_42",
+      "word": "I have a message for you.",
+      "translation": "У меня есть сообщение для вас.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_43",
+      "word": "The letter was finished.",
+      "translation": "Письмо было закончено.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_44",
+      "word": "This letter isn't signed.",
+      "translation": "Это письмо не подписано.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_45",
+      "word": "Someone left you a message.",
+      "translation": "Кто-то оставил вам сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_46",
+      "word": "Send us your photos.",
+      "translation": "Пришли нам свои фотографии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_47",
+      "word": "We received an immediate answer to our letter.",
+      "translation": "Мы получили незамедлительный ответ на наше письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_48",
+      "word": "I'll send you the schedule.",
+      "translation": "Я пришлю вам расписание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_6_49",
+      "word": "I didn't write this letter.",
+      "translation": "Я этого письма не писал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_0",
+      "word": "I want to send this package to Boston.",
+      "translation": "Я хочу отправить эту посылку в Бостон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_1",
+      "word": "I've finished writing the letter.",
+      "translation": "Я дописал письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_2",
+      "word": "I remember mailing the letter.",
+      "translation": "Я помню, что отправлял письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_3",
+      "word": "I'll contact you soon.",
+      "translation": "Я с вами скоро свяжусь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_4",
+      "word": "A good question deserves a good reply.",
+      "translation": "Хороший вопрос заслуживает хорошего ответа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_5",
+      "word": "Send the letter airmail.",
+      "translation": "Отправьте письмо авиапочтой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_6",
+      "word": "I'm waiting for a letter from Tom.",
+      "translation": "Я жду письма от Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_7",
+      "word": "He angrily tore up the letter from her.",
+      "translation": "В гневе он порвал письмо от неё.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_8",
+      "word": "Tom broke up with Mary via text message.",
+      "translation": "Том расстался с Мэри по СМС.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_9",
+      "word": "Tom wrote a message in all capital letters.",
+      "translation": "Том написал сообщение заглавными буквами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_10",
+      "word": "When did you get my letter?",
+      "translation": "Когда вы получили моё письмо?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_11",
+      "word": "Tom wrote Mary a long letter.",
+      "translation": "Том написал Мэри длинное письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_12",
+      "word": "Would you mind sending this letter for me?",
+      "translation": "Не могли бы вы отправить это письмо для меня?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_13",
+      "word": "Did you get the package I sent you?",
+      "translation": "Вы получили посылку, которую я отправил вам?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_14",
+      "word": "Tom got no reply.",
+      "translation": "Том не получил ответа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_15",
+      "word": "I tried to contact Tom.",
+      "translation": "Я пытался связаться с Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_16",
+      "word": "No one knows his address but Tom.",
+      "translation": "Никто, кроме Тома, не знает его адреса.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_17",
+      "word": "We need to remember to send Tom a birthday card.",
+      "translation": "Нам надо не забыть отправить Тому поздравительную открытку на день рождения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_18",
+      "word": "That's the message.",
+      "translation": "Это сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_19",
+      "word": "I wasn't the one who wrote that letter.",
+      "translation": "Это не я написал то письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_20",
+      "word": "Tom received a text message from Mary.",
+      "translation": "Том получил от Мэри текстовое сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_21",
+      "word": "I sent the parcel by airmail.",
+      "translation": "Я послал посылку авиапочтой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_22",
+      "word": "Tom rose to deliver a toast to the guest of honor.",
+      "translation": "Том поднялся, чтобы произнести тост в честь почётного гостя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_23",
+      "word": "Tom didn't respond to my latest letter.",
+      "translation": "Том не ответил на моё последнее письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_24",
+      "word": "The letter was addressed to me.",
+      "translation": "Письмо было адресовано мне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_25",
+      "word": "Did you get my letter?",
+      "translation": "Ты получил моё письмо?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_26",
+      "word": "I'd like to send a fax.",
+      "translation": "Я хотел бы отправить факс.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_27",
+      "word": "Remember to mail the letter.",
+      "translation": "Не забудь отправить письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_28",
+      "word": "The address on the envelope is wrong.",
+      "translation": "Адрес на конверте неправильный.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_29",
+      "word": "Tom hasn't written the letter yet.",
+      "translation": "Том ещё не написал письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_30",
+      "word": "I wonder who wrote this letter.",
+      "translation": "Интересно, кто написал это письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_31",
+      "word": "I'll contact Tom.",
+      "translation": "Я свяжусь с Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_32",
+      "word": "What's the last letter of the alphabet?",
+      "translation": "Какая последняя буква алфавита?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_33",
+      "word": "He delayed answering the letter.",
+      "translation": "Он медлил с ответом на письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_34",
+      "word": "I want to send this postcard to Australia.",
+      "translation": "Я хочу послать эту открытку в Австралию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_35",
+      "word": "I'll send Tom a postcard.",
+      "translation": "Я отправлю Тому открытку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_36",
+      "word": "There's no signature on this letter.",
+      "translation": "На этом письме нет подписи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_37",
+      "word": "How do we contact Tom?",
+      "translation": "Как нам связаться с Томом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_38",
+      "word": "He had been writing a letter.",
+      "translation": "Он писал письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_39",
+      "word": "Languages enable us to communicate with other people.",
+      "translation": "Язык позволяет нам общаться с другими людьми.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_40",
+      "word": "Tom didn't know how to reply.",
+      "translation": "Том не знал, как ответить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_41",
+      "word": "Tom received an apology letter from Mary.",
+      "translation": "Том получил от Мэри письмо с извинениями.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_42",
+      "word": "Did Tom leave a message for me?",
+      "translation": "Том оставил мне сообщение?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_43",
+      "word": "I didn't know who to give the envelope to.",
+      "translation": "Я не знал, кому отдать конверт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_44",
+      "word": "I'm going to write Tom a long letter.",
+      "translation": "Я напишу Тому длинное письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_45",
+      "word": "How frequently do you check your mail?",
+      "translation": "Как часто ты проверяешь почту?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_46",
+      "word": "I didn't answer your letter because I was too busy.",
+      "translation": "Я не ответил на твоё письмо, потому что был слишком занят.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_47",
+      "word": "It wasn't me that wrote that message.",
+      "translation": "Это не я написал это сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_48",
+      "word": "We haven't replied to Tom's letter yet.",
+      "translation": "Мы ещё не ответили Тому на письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_7_49",
+      "word": "I have to contact Tom.",
+      "translation": "Мне надо связаться с Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_0",
+      "word": "The message was in French.",
+      "translation": "Сообщение было на французском.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_1",
+      "word": "Give me that envelope.",
+      "translation": "Дай мне тот конверт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_2",
+      "word": "It was a private message.",
+      "translation": "Это было личное сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_3",
+      "word": "I'll keep in contact.",
+      "translation": "Я буду на связи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_4",
+      "word": "Tom shoved the envelope into his pocket.",
+      "translation": "Том засунул конверт в карман.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_5",
+      "word": "That question doesn't deserve a reply.",
+      "translation": "Этот вопрос не заслуживает ответа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_6",
+      "word": "Mail this letter.",
+      "translation": "Отправь это письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_7",
+      "word": "Tom tore the letter to bits.",
+      "translation": "Том разорвал письмо на клочки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_8",
+      "word": "Tom kept the letter.",
+      "translation": "Том сохранил письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_9",
+      "word": "I didn't receive a reply to my query.",
+      "translation": "Я не получил ответа на свой запрос.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_10",
+      "word": "I wrote a letter to Tom.",
+      "translation": "Я написал Тому письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_11",
+      "word": "Tom showed Mary the letter that he got from John.",
+      "translation": "Том показал Мэри письмо, которое получил от Джона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_12",
+      "word": "Why did you agree to write this letter?",
+      "translation": "Почему ты согласился написать это письмо?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_13",
+      "word": "I don't want to leave a message.",
+      "translation": "Я не хочу оставлять сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_14",
+      "word": "Tom reread the message.",
+      "translation": "Том перечитал сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_15",
+      "word": "Tom certainly got the message.",
+      "translation": "Том конечно получил послание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_16",
+      "word": "I didn't get even one letter from her.",
+      "translation": "Я даже ни одного письма от неё не получил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_17",
+      "word": "There's a letter for you.",
+      "translation": "Тебе письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_18",
+      "word": "I'll send you the list.",
+      "translation": "Я пришлю тебе список.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_19",
+      "word": "This package isn't heavy.",
+      "translation": "Пакет не тяжёлый.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_20",
+      "word": "Tom sent Mary a message written in French.",
+      "translation": "Том отправил Мэри сообщение на французском языке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_21",
+      "word": "Tom didn't even look at the letter Mary wrote to him.",
+      "translation": "Том даже не взглянул на письмо, которое Мэри ему написала.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_22",
+      "word": "I have to remember to mail the letter.",
+      "translation": "Мне надо не забыть отправить письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_23",
+      "word": "I don't have the address now.",
+      "translation": "У меня с собой нет адреса.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_24",
+      "word": "Did you not get my message?",
+      "translation": "Ты получил моё сообщение?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_25",
+      "word": "Tom sent Mary a long letter.",
+      "translation": "Том послал Мэри длинное письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_26",
+      "word": "You have a message here.",
+      "translation": "Вам тут сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_27",
+      "word": "Has the mail come yet?",
+      "translation": "Почта уже пришла?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_28",
+      "word": "Tom left Mary a short message.",
+      "translation": "Том оставил Мэри короткое сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_29",
+      "word": "Tom printed the letter out.",
+      "translation": "Том распечатал письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_30",
+      "word": "Tom's reply was short and to the point.",
+      "translation": "Том ответил коротко и по делу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_31",
+      "word": "Send me all your questions and I'll try to answer them.",
+      "translation": "Пришлите мне все свои вопросы, и я постараюсь на них ответить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_32",
+      "word": "I learned the truth from the letter.",
+      "translation": "Я узнал правду из письма.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_33",
+      "word": "Tom says that he is able to communicate with the dead.",
+      "translation": "Том говорит, что может общаться с умершими.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_34",
+      "word": "I'll send a message to Tom.",
+      "translation": "Я отправлю Тому сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_35",
+      "word": "Tom is here to deliver a message.",
+      "translation": "Том здесь, чтобы доставить сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_36",
+      "word": "I'll try and contact Tom now.",
+      "translation": "Я сейчас попробую связаться с Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_37",
+      "word": "Tom handed Mary the letter.",
+      "translation": "Том протянул письмо Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_38",
+      "word": "I just saw your message.",
+      "translation": "Я только что увидел твоё сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_39",
+      "word": "She answered my letter right away.",
+      "translation": "Она сразу же ответила на моё письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_40",
+      "word": "What was in the envelope that Tom gave you?",
+      "translation": "Что было в конверте, который тебе дал Том?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_41",
+      "word": "Can you contact Tom?",
+      "translation": "Вы можете связаться с Томом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_42",
+      "word": "I'm not a big letter writer.",
+      "translation": "Я не мастер писать письма.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_43",
+      "word": "It isn't clear who wrote this letter.",
+      "translation": "Неясно, кто написал это письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_44",
+      "word": "She wrote me a long letter.",
+      "translation": "Она написала мне длинное письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_45",
+      "word": "We have not received a letter from him so far.",
+      "translation": "Мы пока не получили от него письма.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_46",
+      "word": "Put these letters in the mail box.",
+      "translation": "Опусти эти письма в почтовый ящик.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_47",
+      "word": "Tom says he can communicate with dead people.",
+      "translation": "Том говорит, что умеет общаться с мертвыми.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_48",
+      "word": "She wrote him a long letter, but she didn't mail it.",
+      "translation": "Она написала ему длинное письмо, но не отправила его.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_8_49",
+      "word": "Did you deliver the note to Tom?",
+      "translation": "Ты передал записку Тому?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_0",
+      "word": "Tom gave Mary an envelope.",
+      "translation": "Том дал Мэри конверт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_1",
+      "word": "I guess Tom got our message.",
+      "translation": "Полагаю, Том получил наше сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_2",
+      "word": "Send it airmail.",
+      "translation": "Отправьте это авиапочтой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_3",
+      "word": "She became a postman.",
+      "translation": "Она стала почтальоном.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_4",
+      "word": "Did Tom get the message?",
+      "translation": "Том получил сообщение?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_5",
+      "word": "Send me the new catalog.",
+      "translation": "Пришли мне новый каталог.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_6",
+      "word": "I'd like to send this letter to Australia.",
+      "translation": "Я хотел бы отправить это письмо в Австралию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_7",
+      "word": "I'll tell Tom to contact you.",
+      "translation": "Я скажу Тому, чтобы он связался с тобой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_8",
+      "word": "Send me a postcard.",
+      "translation": "Отправь мне открытку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_9",
+      "word": "Tom didn't say anything about that in his letter.",
+      "translation": "Том ничего не говорил об этом в письме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_10",
+      "word": "I'm able to communicate in French, but not very well.",
+      "translation": "Я могу общаться по-французски, но не очень хорошо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_11",
+      "word": "Whose letter is this?",
+      "translation": "Чьё это письмо?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_12",
+      "word": "As soon as we find out anything, we will contact him.",
+      "translation": "Мы с ним свяжемся, как только найдём что-нибудь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_13",
+      "word": "You've got mail.",
+      "translation": "Тебе письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_14",
+      "word": "Tom showed Mary's letter to me.",
+      "translation": "Том показал мне письмо Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_15",
+      "word": "It's an answer to Tom's letter.",
+      "translation": "Это ответ на письмо Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_16",
+      "word": "Tom wrote a letter of recommendation for Mary.",
+      "translation": "Том написал для Мэри рекомендательное письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_17",
+      "word": "Can I take a message?",
+      "translation": "Что-нибудь передать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_18",
+      "word": "They communicate with each other by mail.",
+      "translation": "Они общаются друг с другом по почте.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_19",
+      "word": "I didn't send any pictures to Tom.",
+      "translation": "Я не посылал Тому никаких фотографий.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_20",
+      "word": "There was no reply.",
+      "translation": "Ответа не было.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_21",
+      "word": "Leave a message and I'll call you.",
+      "translation": "Оставьте сообщение, и я вам перезвоню.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_22",
+      "word": "We look forward to receiving your prompt reply.",
+      "translation": "Мы с нетерпением ждём от вас скорого ответа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_23",
+      "word": "Did you not receive my letter?",
+      "translation": "Ты не получил моего письма?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_24",
+      "word": "If I knew her address, I would write her a letter.",
+      "translation": "Если бы я знал её адрес, я бы написал ей письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_25",
+      "word": "We're waiting for a reply.",
+      "translation": "Мы ждём ответа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_26",
+      "word": "I sent you a message.",
+      "translation": "Я тебе сообщение отправил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_27",
+      "word": "I want you to give a message to Tom.",
+      "translation": "Я хочу, чтобы ты передал Тому сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_28",
+      "word": "A is the first letter of the alphabet.",
+      "translation": "«А» — первая буква алфавита.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_29",
+      "word": "It is still a mystery who wrote the letter.",
+      "translation": "До сих пор остаётся загадкой, кто написал письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_30",
+      "word": "He wrote me a long letter.",
+      "translation": "Он написал мне длинное письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_31",
+      "word": "Sentences begin with a capital letter.",
+      "translation": "Предложения начинаются с прописной буквы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_32",
+      "word": "Could you send me a brochure?",
+      "translation": "Вы не могли бы прислать мне брошюру?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_33",
+      "word": "This is an important letter.",
+      "translation": "Это важное письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_34",
+      "word": "I forgot to attach a stamp to the envelope.",
+      "translation": "Я забыл наклеить марку на конверт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_35",
+      "word": "Did Tom reply?",
+      "translation": "Том ответил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_36",
+      "word": "He still hasn't responded to my letter.",
+      "translation": "Он ещё не ответил на моё письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_37",
+      "word": "Could you send this letter to Japan?",
+      "translation": "Вы бы могли послать это письмо в Японию?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_38",
+      "word": "I'll send you a postcard.",
+      "translation": "Я отправлю тебе открытку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_39",
+      "word": "Did you receive the letter?",
+      "translation": "Вы получили письмо?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_40",
+      "word": "I wrote Tom a letter.",
+      "translation": "Я написал Тому письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_41",
+      "word": "We'll contact Tom.",
+      "translation": "Мы свяжемся с Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_42",
+      "word": "This letter is addressed to you.",
+      "translation": "Это письмо адресовано Вам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_43",
+      "word": "Send this by airmail.",
+      "translation": "Пошлите это авиапочтой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_44",
+      "word": "Tom sent us a letter.",
+      "translation": "Том прислал нам письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_45",
+      "word": "Tom didn't get a reply.",
+      "translation": "Том не получил ответа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_46",
+      "word": "I have a message from Tom.",
+      "translation": "У меня есть сообщение от Фомы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_47",
+      "word": "I got a letter from Tom.",
+      "translation": "Я получил письмо от Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_48",
+      "word": "Who wrote the letter?",
+      "translation": "Кто написал письмо?",
+      "language": "en"
+    },
+    {
+      "id": "pb_communicationpost_9_49",
+      "word": "I have to remember to mail this letter.",
+      "translation": "Мне надо не забыть отправить это письмо.",
+      "language": "en"
+    }
+  ]
+}

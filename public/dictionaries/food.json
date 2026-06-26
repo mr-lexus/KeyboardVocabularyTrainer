@@ -1,0 +1,1495 @@
+{
+  "id": "builtin-food",
+  "name": "Food, Cooking & Ingredients",
+  "description": "Extensive vocabulary for food, drinks and cooking",
+  "entries": [
+    {
+      "id": "e1",
+      "word": "apple",
+      "translation": "яблоко",
+      "language": "en"
+    },
+    {
+      "id": "e2",
+      "word": "apricot",
+      "translation": "абрикос",
+      "language": "en"
+    },
+    {
+      "id": "e3",
+      "word": "avocado",
+      "translation": "авокадо",
+      "language": "en"
+    },
+    {
+      "id": "e4",
+      "word": "banana",
+      "translation": "банан",
+      "language": "en"
+    },
+    {
+      "id": "e5",
+      "word": "blackberry",
+      "translation": "ежевика",
+      "language": "en"
+    },
+    {
+      "id": "e6",
+      "word": "blueberry",
+      "translation": "черника",
+      "language": "en"
+    },
+    {
+      "id": "e7",
+      "word": "cherry",
+      "translation": "вишня",
+      "language": "en"
+    },
+    {
+      "id": "e8",
+      "word": "coconut",
+      "translation": "кокос",
+      "language": "en"
+    },
+    {
+      "id": "e9",
+      "word": "cranberry",
+      "translation": "клюква",
+      "language": "en"
+    },
+    {
+      "id": "e10",
+      "word": "date",
+      "translation": "финик",
+      "language": "en"
+    },
+    {
+      "id": "e11",
+      "word": "fig",
+      "translation": "инжир",
+      "language": "en"
+    },
+    {
+      "id": "e12",
+      "word": "grape",
+      "translation": "виноград",
+      "language": "en"
+    },
+    {
+      "id": "e13",
+      "word": "grapefruit",
+      "translation": "грейпфрут",
+      "language": "en"
+    },
+    {
+      "id": "e14",
+      "word": "kiwi",
+      "translation": "киви",
+      "language": "en"
+    },
+    {
+      "id": "e15",
+      "word": "lemon",
+      "translation": "лимон",
+      "language": "en"
+    },
+    {
+      "id": "e16",
+      "word": "lime",
+      "translation": "лайм",
+      "language": "en"
+    },
+    {
+      "id": "e17",
+      "word": "mango",
+      "translation": "манго",
+      "language": "en"
+    },
+    {
+      "id": "e18",
+      "word": "melon",
+      "translation": "дыня",
+      "language": "en"
+    },
+    {
+      "id": "e19",
+      "word": "nectarine",
+      "translation": "нектарин",
+      "language": "en"
+    },
+    {
+      "id": "e20",
+      "word": "orange",
+      "translation": "апельсин",
+      "language": "en"
+    },
+    {
+      "id": "e21",
+      "word": "papaya",
+      "translation": "папайя",
+      "language": "en"
+    },
+    {
+      "id": "e22",
+      "word": "peach",
+      "translation": "персик",
+      "language": "en"
+    },
+    {
+      "id": "e23",
+      "word": "pear",
+      "translation": "груша",
+      "language": "en"
+    },
+    {
+      "id": "e24",
+      "word": "pineapple",
+      "translation": "ананас",
+      "language": "en"
+    },
+    {
+      "id": "e25",
+      "word": "plum",
+      "translation": "слива",
+      "language": "en"
+    },
+    {
+      "id": "e26",
+      "word": "pomegranate",
+      "translation": "гранат",
+      "language": "en"
+    },
+    {
+      "id": "e27",
+      "word": "raspberry",
+      "translation": "малина",
+      "language": "en"
+    },
+    {
+      "id": "e28",
+      "word": "strawberry",
+      "translation": "клубника",
+      "language": "en"
+    },
+    {
+      "id": "e29",
+      "word": "watermelon",
+      "translation": "арбуз",
+      "language": "en"
+    },
+    {
+      "id": "e30",
+      "word": "artichoke",
+      "translation": "артишок",
+      "language": "en"
+    },
+    {
+      "id": "e31",
+      "word": "asparagus",
+      "translation": "спаржа",
+      "language": "en"
+    },
+    {
+      "id": "e32",
+      "word": "eggplant",
+      "translation": "баклажан",
+      "language": "en"
+    },
+    {
+      "id": "e33",
+      "word": "beetroot",
+      "translation": "свекла",
+      "language": "en"
+    },
+    {
+      "id": "e34",
+      "word": "broccoli",
+      "translation": "брокколи",
+      "language": "en"
+    },
+    {
+      "id": "e35",
+      "word": "cabbage",
+      "translation": "капуста",
+      "language": "en"
+    },
+    {
+      "id": "e36",
+      "word": "carrot",
+      "translation": "морковь",
+      "language": "en"
+    },
+    {
+      "id": "e37",
+      "word": "cauliflower",
+      "translation": "цветная капуста",
+      "language": "en"
+    },
+    {
+      "id": "e38",
+      "word": "celery",
+      "translation": "сельдерей",
+      "language": "en"
+    },
+    {
+      "id": "e39",
+      "word": "corn",
+      "translation": "кукуруза",
+      "language": "en"
+    },
+    {
+      "id": "e40",
+      "word": "cucumber",
+      "translation": "огурец",
+      "language": "en"
+    },
+    {
+      "id": "e41",
+      "word": "garlic",
+      "translation": "чеснок",
+      "language": "en"
+    },
+    {
+      "id": "e42",
+      "word": "lettuce",
+      "translation": "листовой салат",
+      "language": "en"
+    },
+    {
+      "id": "e43",
+      "word": "mushroom",
+      "translation": "гриб",
+      "language": "en"
+    },
+    {
+      "id": "e44",
+      "word": "onion",
+      "translation": "лук",
+      "language": "en"
+    },
+    {
+      "id": "e45",
+      "word": "pea",
+      "translation": "горох",
+      "language": "en"
+    },
+    {
+      "id": "e46",
+      "word": "pepper",
+      "translation": "перец",
+      "language": "en"
+    },
+    {
+      "id": "e47",
+      "word": "potato",
+      "translation": "картофель",
+      "language": "en"
+    },
+    {
+      "id": "e48",
+      "word": "pumpkin",
+      "translation": "тыква",
+      "language": "en"
+    },
+    {
+      "id": "e49",
+      "word": "radish",
+      "translation": "редис",
+      "language": "en"
+    },
+    {
+      "id": "e50",
+      "word": "spinach",
+      "translation": "шпинат",
+      "language": "en"
+    },
+    {
+      "id": "e51",
+      "word": "sweet potato",
+      "translation": "батат",
+      "language": "en"
+    },
+    {
+      "id": "e52",
+      "word": "tomato",
+      "translation": "помидор",
+      "language": "en"
+    },
+    {
+      "id": "e53",
+      "word": "zucchini",
+      "translation": "цукини",
+      "language": "en"
+    },
+    {
+      "id": "e54",
+      "word": "beef",
+      "translation": "говядина",
+      "language": "en"
+    },
+    {
+      "id": "e55",
+      "word": "chicken",
+      "translation": "курица",
+      "language": "en"
+    },
+    {
+      "id": "e56",
+      "word": "duck",
+      "translation": "утка",
+      "language": "en"
+    },
+    {
+      "id": "e57",
+      "word": "lamb",
+      "translation": "баранина",
+      "language": "en"
+    },
+    {
+      "id": "e58",
+      "word": "pork",
+      "translation": "свинина",
+      "language": "en"
+    },
+    {
+      "id": "e59",
+      "word": "turkey",
+      "translation": "индейка",
+      "language": "en"
+    },
+    {
+      "id": "e60",
+      "word": "veal",
+      "translation": "телятина",
+      "language": "en"
+    },
+    {
+      "id": "e61",
+      "word": "bacon",
+      "translation": "бекон",
+      "language": "en"
+    },
+    {
+      "id": "e62",
+      "word": "ham",
+      "translation": "ветчина",
+      "language": "en"
+    },
+    {
+      "id": "e63",
+      "word": "sausage",
+      "translation": "сосиска/колбаса",
+      "language": "en"
+    },
+    {
+      "id": "e64",
+      "word": "steak",
+      "translation": "стейк",
+      "language": "en"
+    },
+    {
+      "id": "e65",
+      "word": "mince",
+      "translation": "фарш",
+      "language": "en"
+    },
+    {
+      "id": "e66",
+      "word": "fish",
+      "translation": "рыба",
+      "language": "en"
+    },
+    {
+      "id": "e67",
+      "word": "salmon",
+      "translation": "лосось",
+      "language": "en"
+    },
+    {
+      "id": "e68",
+      "word": "tuna",
+      "translation": "тунец",
+      "language": "en"
+    },
+    {
+      "id": "e69",
+      "word": "cod",
+      "translation": "треска",
+      "language": "en"
+    },
+    {
+      "id": "e70",
+      "word": "trout",
+      "translation": "форель",
+      "language": "en"
+    },
+    {
+      "id": "e71",
+      "word": "shrimp",
+      "translation": "креветка",
+      "language": "en"
+    },
+    {
+      "id": "e72",
+      "word": "crab",
+      "translation": "краб",
+      "language": "en"
+    },
+    {
+      "id": "e73",
+      "word": "lobster",
+      "translation": "лобстер",
+      "language": "en"
+    },
+    {
+      "id": "e74",
+      "word": "oyster",
+      "translation": "устрица",
+      "language": "en"
+    },
+    {
+      "id": "e75",
+      "word": "squid",
+      "translation": "кальмар",
+      "language": "en"
+    },
+    {
+      "id": "e76",
+      "word": "octopus",
+      "translation": "осьминог",
+      "language": "en"
+    },
+    {
+      "id": "e77",
+      "word": "milk",
+      "translation": "молоко",
+      "language": "en"
+    },
+    {
+      "id": "e78",
+      "word": "cheese",
+      "translation": "сыр",
+      "language": "en"
+    },
+    {
+      "id": "e79",
+      "word": "butter",
+      "translation": "масло (сливочное)",
+      "language": "en"
+    },
+    {
+      "id": "e80",
+      "word": "cream",
+      "translation": "сливки",
+      "language": "en"
+    },
+    {
+      "id": "e81",
+      "word": "yogurt",
+      "translation": "йогурт",
+      "language": "en"
+    },
+    {
+      "id": "e82",
+      "word": "sour cream",
+      "translation": "сметана",
+      "language": "en"
+    },
+    {
+      "id": "e83",
+      "word": "cottage cheese",
+      "translation": "творог",
+      "language": "en"
+    },
+    {
+      "id": "e84",
+      "word": "egg",
+      "translation": "яйцо",
+      "language": "en"
+    },
+    {
+      "id": "e85",
+      "word": "bread",
+      "translation": "хлеб",
+      "language": "en"
+    },
+    {
+      "id": "e86",
+      "word": "toast",
+      "translation": "тост",
+      "language": "en"
+    },
+    {
+      "id": "e87",
+      "word": "roll",
+      "translation": "булочка",
+      "language": "en"
+    },
+    {
+      "id": "e88",
+      "word": "bagel",
+      "translation": "бейгл",
+      "language": "en"
+    },
+    {
+      "id": "e89",
+      "word": "croissant",
+      "translation": "круассан",
+      "language": "en"
+    },
+    {
+      "id": "e90",
+      "word": "pasta",
+      "translation": "паста/макароны",
+      "language": "en"
+    },
+    {
+      "id": "e91",
+      "word": "spaghetti",
+      "translation": "спагетти",
+      "language": "en"
+    },
+    {
+      "id": "e92",
+      "word": "noodles",
+      "translation": "лапша",
+      "language": "en"
+    },
+    {
+      "id": "e93",
+      "word": "rice",
+      "translation": "рис",
+      "language": "en"
+    },
+    {
+      "id": "e94",
+      "word": "oats",
+      "translation": "овес",
+      "language": "en"
+    },
+    {
+      "id": "e95",
+      "word": "wheat",
+      "translation": "пшеница",
+      "language": "en"
+    },
+    {
+      "id": "e96",
+      "word": "flour",
+      "translation": "мука",
+      "language": "en"
+    },
+    {
+      "id": "e97",
+      "word": "cereal",
+      "translation": "хлопья",
+      "language": "en"
+    },
+    {
+      "id": "e98",
+      "word": "sugar",
+      "translation": "сахар",
+      "language": "en"
+    },
+    {
+      "id": "e99",
+      "word": "salt",
+      "translation": "соль",
+      "language": "en"
+    },
+    {
+      "id": "e100",
+      "word": "black pepper",
+      "translation": "черный перец",
+      "language": "en"
+    },
+    {
+      "id": "e101",
+      "word": "vinegar",
+      "translation": "уксус",
+      "language": "en"
+    },
+    {
+      "id": "e102",
+      "word": "oil",
+      "translation": "масло (растительное)",
+      "language": "en"
+    },
+    {
+      "id": "e103",
+      "word": "olive oil",
+      "translation": "оливковое масло",
+      "language": "en"
+    },
+    {
+      "id": "e104",
+      "word": "soy sauce",
+      "translation": "соевый соус",
+      "language": "en"
+    },
+    {
+      "id": "e105",
+      "word": "mustard",
+      "translation": "горчица",
+      "language": "en"
+    },
+    {
+      "id": "e106",
+      "word": "ketchup",
+      "translation": "кетчуп",
+      "language": "en"
+    },
+    {
+      "id": "e107",
+      "word": "mayonnaise",
+      "translation": "майонез",
+      "language": "en"
+    },
+    {
+      "id": "e108",
+      "word": "honey",
+      "translation": "мед",
+      "language": "en"
+    },
+    {
+      "id": "e109",
+      "word": "jam",
+      "translation": "джем",
+      "language": "en"
+    },
+    {
+      "id": "e110",
+      "word": "peanut butter",
+      "translation": "арахисовая паста",
+      "language": "en"
+    },
+    {
+      "id": "e111",
+      "word": "cinnamon",
+      "translation": "корица",
+      "language": "en"
+    },
+    {
+      "id": "e112",
+      "word": "ginger",
+      "translation": "имбирь",
+      "language": "en"
+    },
+    {
+      "id": "e113",
+      "word": "garlic powder",
+      "translation": "чесночный порошок",
+      "language": "en"
+    },
+    {
+      "id": "e114",
+      "word": "basil",
+      "translation": "базилик",
+      "language": "en"
+    },
+    {
+      "id": "e115",
+      "word": "oregano",
+      "translation": "орегано",
+      "language": "en"
+    },
+    {
+      "id": "e116",
+      "word": "parsley",
+      "translation": "петрушка",
+      "language": "en"
+    },
+    {
+      "id": "e117",
+      "word": "dill",
+      "translation": "укроп",
+      "language": "en"
+    },
+    {
+      "id": "e118",
+      "word": "mint",
+      "translation": "мята",
+      "language": "en"
+    },
+    {
+      "id": "e119",
+      "word": "rosemary",
+      "translation": "розмарин",
+      "language": "en"
+    },
+    {
+      "id": "e120",
+      "word": "thyme",
+      "translation": "тимьян",
+      "language": "en"
+    },
+    {
+      "id": "e121",
+      "word": "water",
+      "translation": "вода",
+      "language": "en"
+    },
+    {
+      "id": "e122",
+      "word": "sparkling water",
+      "translation": "газированная вода",
+      "language": "en"
+    },
+    {
+      "id": "e123",
+      "word": "juice",
+      "translation": "сок",
+      "language": "en"
+    },
+    {
+      "id": "e124",
+      "word": "tea",
+      "translation": "чай",
+      "language": "en"
+    },
+    {
+      "id": "e125",
+      "word": "coffee",
+      "translation": "кофе",
+      "language": "en"
+    },
+    {
+      "id": "e126",
+      "word": "hot chocolate",
+      "translation": "горячий шоколад",
+      "language": "en"
+    },
+    {
+      "id": "e127",
+      "word": "milkshake",
+      "translation": "молочный коктейль",
+      "language": "en"
+    },
+    {
+      "id": "e128",
+      "word": "smoothie",
+      "translation": "смузи",
+      "language": "en"
+    },
+    {
+      "id": "e129",
+      "word": "soda",
+      "translation": "газировка",
+      "language": "en"
+    },
+    {
+      "id": "e130",
+      "word": "lemonade",
+      "translation": "лимонад",
+      "language": "en"
+    },
+    {
+      "id": "e131",
+      "word": "beer",
+      "translation": "пиво",
+      "language": "en"
+    },
+    {
+      "id": "e132",
+      "word": "wine",
+      "translation": "вино",
+      "language": "en"
+    },
+    {
+      "id": "e133",
+      "word": "champagne",
+      "translation": "шампанское",
+      "language": "en"
+    },
+    {
+      "id": "e134",
+      "word": "vodka",
+      "translation": "водка",
+      "language": "en"
+    },
+    {
+      "id": "e135",
+      "word": "whiskey",
+      "translation": "виски",
+      "language": "en"
+    },
+    {
+      "id": "e136",
+      "word": "rum",
+      "translation": "ром",
+      "language": "en"
+    },
+    {
+      "id": "e137",
+      "word": "cocktail",
+      "translation": "коктейль",
+      "language": "en"
+    },
+    {
+      "id": "e138",
+      "word": "soup",
+      "translation": "суп",
+      "language": "en"
+    },
+    {
+      "id": "e139",
+      "word": "salad",
+      "translation": "салат",
+      "language": "en"
+    },
+    {
+      "id": "e140",
+      "word": "sandwich",
+      "translation": "сэндвич",
+      "language": "en"
+    },
+    {
+      "id": "e141",
+      "word": "burger",
+      "translation": "бургер",
+      "language": "en"
+    },
+    {
+      "id": "e142",
+      "word": "pizza",
+      "translation": "пицца",
+      "language": "en"
+    },
+    {
+      "id": "e143",
+      "word": "hot dog",
+      "translation": "хот-дог",
+      "language": "en"
+    },
+    {
+      "id": "e144",
+      "word": "pie",
+      "translation": "пирог",
+      "language": "en"
+    },
+    {
+      "id": "e145",
+      "word": "cake",
+      "translation": "торт",
+      "language": "en"
+    },
+    {
+      "id": "e146",
+      "word": "cookie",
+      "translation": "печенье",
+      "language": "en"
+    },
+    {
+      "id": "e147",
+      "word": "biscuit",
+      "translation": "печенье (брит.)",
+      "language": "en"
+    },
+    {
+      "id": "e148",
+      "word": "muffin",
+      "translation": "маффин",
+      "language": "en"
+    },
+    {
+      "id": "e149",
+      "word": "pancake",
+      "translation": "блин",
+      "language": "en"
+    },
+    {
+      "id": "e150",
+      "word": "waffle",
+      "translation": "вафля",
+      "language": "en"
+    },
+    {
+      "id": "e151",
+      "word": "ice cream",
+      "translation": "мороженое",
+      "language": "en"
+    },
+    {
+      "id": "e152",
+      "word": "chocolate",
+      "translation": "шоколад",
+      "language": "en"
+    },
+    {
+      "id": "e153",
+      "word": "candy",
+      "translation": "конфета",
+      "language": "en"
+    },
+    {
+      "id": "e154",
+      "word": "dessert",
+      "translation": "десерт",
+      "language": "en"
+    },
+    {
+      "id": "e155",
+      "word": "breakfast",
+      "translation": "завтрак",
+      "language": "en"
+    },
+    {
+      "id": "e156",
+      "word": "lunch",
+      "translation": "обед",
+      "language": "en"
+    },
+    {
+      "id": "e157",
+      "word": "dinner",
+      "translation": "ужин",
+      "language": "en"
+    },
+    {
+      "id": "e158",
+      "word": "snack",
+      "translation": "закуска",
+      "language": "en"
+    },
+    {
+      "id": "e159",
+      "word": "appetizer",
+      "translation": "апперитив",
+      "language": "en"
+    },
+    {
+      "id": "e160",
+      "word": "main course",
+      "translation": "основное блюдо",
+      "language": "en"
+    },
+    {
+      "id": "e161",
+      "word": "side dish",
+      "translation": "гарнир",
+      "language": "en"
+    },
+    {
+      "id": "e162",
+      "word": "recipe",
+      "translation": "рецепт",
+      "language": "en"
+    },
+    {
+      "id": "e163",
+      "word": "ingredients",
+      "translation": "ингредиенты",
+      "language": "en"
+    },
+    {
+      "id": "e164",
+      "word": "chef",
+      "translation": "шеф-повар",
+      "language": "en"
+    },
+    {
+      "id": "e165",
+      "word": "cook",
+      "translation": "повар",
+      "language": "en"
+    },
+    {
+      "id": "e166",
+      "word": "kitchen",
+      "translation": "кухня",
+      "language": "en"
+    },
+    {
+      "id": "e167",
+      "word": "oven",
+      "translation": "духовка",
+      "language": "en"
+    },
+    {
+      "id": "e168",
+      "word": "stove",
+      "translation": "плита",
+      "language": "en"
+    },
+    {
+      "id": "e169",
+      "word": "microwave",
+      "translation": "микроволновка",
+      "language": "en"
+    },
+    {
+      "id": "e170",
+      "word": "fridge",
+      "translation": "холодильник",
+      "language": "en"
+    },
+    {
+      "id": "e171",
+      "word": "freezer",
+      "translation": "морозилка",
+      "language": "en"
+    },
+    {
+      "id": "e172",
+      "word": "pan",
+      "translation": "сковорода",
+      "language": "en"
+    },
+    {
+      "id": "e173",
+      "word": "pot",
+      "translation": "кастрюля",
+      "language": "en"
+    },
+    {
+      "id": "e174",
+      "word": "bowl",
+      "translation": "миска",
+      "language": "en"
+    },
+    {
+      "id": "e175",
+      "word": "plate",
+      "translation": "тарелка",
+      "language": "en"
+    },
+    {
+      "id": "e176",
+      "word": "glass",
+      "translation": "стакан",
+      "language": "en"
+    },
+    {
+      "id": "e177",
+      "word": "cup",
+      "translation": "чашка",
+      "language": "en"
+    },
+    {
+      "id": "e178",
+      "word": "mug",
+      "translation": "кружка",
+      "language": "en"
+    },
+    {
+      "id": "e179",
+      "word": "fork",
+      "translation": "вилка",
+      "language": "en"
+    },
+    {
+      "id": "e180",
+      "word": "knife",
+      "translation": "нож",
+      "language": "en"
+    },
+    {
+      "id": "e181",
+      "word": "spoon",
+      "translation": "ложка",
+      "language": "en"
+    },
+    {
+      "id": "e182",
+      "word": "chopsticks",
+      "translation": "палочки для еды",
+      "language": "en"
+    },
+    {
+      "id": "e183",
+      "word": "napkin",
+      "translation": "салфетка",
+      "language": "en"
+    },
+    {
+      "id": "e184",
+      "word": "menu",
+      "translation": "меню",
+      "language": "en"
+    },
+    {
+      "id": "e185",
+      "word": "bill",
+      "translation": "счет",
+      "language": "en"
+    },
+    {
+      "id": "e186",
+      "word": "tip",
+      "translation": "чаевые",
+      "language": "en"
+    },
+    {
+      "id": "e187",
+      "word": "restaurant",
+      "translation": "ресторан",
+      "language": "en"
+    },
+    {
+      "id": "e188",
+      "word": "cafe",
+      "translation": "кафе",
+      "language": "en"
+    },
+    {
+      "id": "e189",
+      "word": "bakery",
+      "translation": "пекарня",
+      "language": "en"
+    },
+    {
+      "id": "e190",
+      "word": "butcher",
+      "translation": "мясник",
+      "language": "en"
+    },
+    {
+      "id": "e191",
+      "word": "grocery store",
+      "translation": "продуктовый магазин",
+      "language": "en"
+    },
+    {
+      "id": "e192",
+      "word": "supermarket",
+      "translation": "супермаркет",
+      "language": "en"
+    },
+    {
+      "id": "e193",
+      "word": "to bake",
+      "translation": "печь",
+      "language": "en"
+    },
+    {
+      "id": "e194",
+      "word": "to boil",
+      "translation": "варить",
+      "language": "en"
+    },
+    {
+      "id": "e195",
+      "word": "to fry",
+      "translation": "жарить",
+      "language": "en"
+    },
+    {
+      "id": "e196",
+      "word": "to grill",
+      "translation": "жарить на гриле",
+      "language": "en"
+    },
+    {
+      "id": "e197",
+      "word": "to roast",
+      "translation": "запекать",
+      "language": "en"
+    },
+    {
+      "id": "e198",
+      "word": "to steam",
+      "translation": "готовить на пару",
+      "language": "en"
+    },
+    {
+      "id": "e199",
+      "word": "to chop",
+      "translation": "нарезать",
+      "language": "en"
+    },
+    {
+      "id": "e200",
+      "word": "to slice",
+      "translation": "резать ломтиками",
+      "language": "en"
+    },
+    {
+      "id": "e201",
+      "word": "to peel",
+      "translation": "чистить",
+      "language": "en"
+    },
+    {
+      "id": "e202",
+      "word": "to mix",
+      "translation": "смешивать",
+      "language": "en"
+    },
+    {
+      "id": "e203",
+      "word": "to stir",
+      "translation": "размешивать",
+      "language": "en"
+    },
+    {
+      "id": "e204",
+      "word": "to pour",
+      "translation": "наливать",
+      "language": "en"
+    },
+    {
+      "id": "e205",
+      "word": "to taste",
+      "translation": "пробовать на вкус",
+      "language": "en"
+    },
+    {
+      "id": "e206",
+      "word": "delicious",
+      "translation": "вкусный",
+      "language": "en"
+    },
+    {
+      "id": "e207",
+      "word": "tasty",
+      "translation": "вкусный",
+      "language": "en"
+    },
+    {
+      "id": "e208",
+      "word": "sweet",
+      "translation": "сладкий",
+      "language": "en"
+    },
+    {
+      "id": "e209",
+      "word": "sour",
+      "translation": "кислый",
+      "language": "en"
+    },
+    {
+      "id": "e210",
+      "word": "salty",
+      "translation": "соленый",
+      "language": "en"
+    },
+    {
+      "id": "e211",
+      "word": "bitter",
+      "translation": "горький",
+      "language": "en"
+    },
+    {
+      "id": "e212",
+      "word": "spicy",
+      "translation": "острый",
+      "language": "en"
+    },
+    {
+      "id": "e213",
+      "word": "hot",
+      "translation": "горячий/острый",
+      "language": "en"
+    },
+    {
+      "id": "e214",
+      "word": "cold",
+      "translation": "холодный",
+      "language": "en"
+    },
+    {
+      "id": "e215",
+      "word": "fresh",
+      "translation": "свежий",
+      "language": "en"
+    },
+    {
+      "id": "e216",
+      "word": "rotten",
+      "translation": "гнилой",
+      "language": "en"
+    },
+    {
+      "id": "e217",
+      "word": "raw",
+      "translation": "сырой",
+      "language": "en"
+    },
+    {
+      "id": "e218",
+      "word": "cooked",
+      "translation": "приготовленный",
+      "language": "en"
+    },
+    {
+      "id": "e219",
+      "word": "healthy",
+      "translation": "полезный",
+      "language": "en"
+    },
+    {
+      "id": "e220",
+      "word": "junk food",
+      "translation": "вредная еда",
+      "language": "en"
+    },
+    {
+      "id": "e221",
+      "word": "vegetarian",
+      "translation": "вегетарианский",
+      "language": "en"
+    },
+    {
+      "id": "e222",
+      "word": "vegan",
+      "translation": "веганский",
+      "language": "en"
+    },
+    {
+      "id": "e223",
+      "word": "diet",
+      "translation": "диета",
+      "language": "en"
+    },
+    {
+      "id": "e224",
+      "word": "calories",
+      "translation": "калории",
+      "language": "en"
+    },
+    {
+      "id": "e225",
+      "word": "protein",
+      "translation": "белок",
+      "language": "en"
+    },
+    {
+      "id": "e226",
+      "word": "carbs",
+      "translation": "углеводы",
+      "language": "en"
+    },
+    {
+      "id": "e227",
+      "word": "fat",
+      "translation": "жир",
+      "language": "en"
+    },
+    {
+      "id": "e228",
+      "word": "vitamins",
+      "translation": "витамины",
+      "language": "en"
+    },
+    {
+      "id": "e229",
+      "word": "almond",
+      "translation": "миндаль",
+      "language": "en"
+    },
+    {
+      "id": "e230",
+      "word": "walnut",
+      "translation": "грецкий орех",
+      "language": "en"
+    },
+    {
+      "id": "e231",
+      "word": "peanut",
+      "translation": "арахис",
+      "language": "en"
+    },
+    {
+      "id": "e232",
+      "word": "cashew",
+      "translation": "кешью",
+      "language": "en"
+    },
+    {
+      "id": "e233",
+      "word": "pistachio",
+      "translation": "фисташка",
+      "language": "en"
+    },
+    {
+      "id": "e234",
+      "word": "hazelnut",
+      "translation": "фундук",
+      "language": "en"
+    },
+    {
+      "id": "e235",
+      "word": "sunflower seeds",
+      "translation": "семечки",
+      "language": "en"
+    },
+    {
+      "id": "e236",
+      "word": "sesame",
+      "translation": "кунжут",
+      "language": "en"
+    },
+    {
+      "id": "e237",
+      "word": "poppy seed",
+      "translation": "мак",
+      "language": "en"
+    },
+    {
+      "id": "e238",
+      "word": "vanilla",
+      "translation": "ваниль",
+      "language": "en"
+    },
+    {
+      "id": "e239",
+      "word": "cocoa",
+      "translation": "какао",
+      "language": "en"
+    },
+    {
+      "id": "e240",
+      "word": "yeast",
+      "translation": "дрожжи",
+      "language": "en"
+    },
+    {
+      "id": "e241",
+      "word": "baking powder",
+      "translation": "разрыхлитель",
+      "language": "en"
+    },
+    {
+      "id": "e242",
+      "word": "soy milk",
+      "translation": "соевое молоко",
+      "language": "en"
+    },
+    {
+      "id": "e243",
+      "word": "almond milk",
+      "translation": "миндальное молоко",
+      "language": "en"
+    },
+    {
+      "id": "e244",
+      "word": "tofu",
+      "translation": "тофу",
+      "language": "en"
+    },
+    {
+      "id": "e245",
+      "word": "lentils",
+      "translation": "чечевица",
+      "language": "en"
+    },
+    {
+      "id": "e246",
+      "word": "beans",
+      "translation": "фасоль",
+      "language": "en"
+    },
+    {
+      "id": "e247",
+      "word": "chickpeas",
+      "translation": "нут",
+      "language": "en"
+    },
+    {
+      "id": "e248",
+      "word": "syrup",
+      "translation": "сироп",
+      "language": "en"
+    }
+  ]
+}

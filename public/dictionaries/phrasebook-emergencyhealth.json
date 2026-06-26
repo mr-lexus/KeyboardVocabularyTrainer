@@ -1,0 +1,3007 @@
+{
+  "id": "phrasebook-emergencyhealth",
+  "name": "Emergency & Health",
+  "description": "Phrasebook for Emergency & Health",
+  "entries": [
+    {
+      "id": "pb_emergencyhealth_0_0",
+      "word": "We didn't help Tom escape.",
+      "translation": "Мы не помогали Тому совершить побег.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_1",
+      "word": "I'm going to call the police.",
+      "translation": "Я собираюсь вызвать полицию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_2",
+      "word": "Do you want me to help Tom?",
+      "translation": "Ты хочешь, чтобы я помог Тому?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_3",
+      "word": "Tom was in a car accident.",
+      "translation": "Том побывал в автоаварии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_4",
+      "word": "He will be a good doctor.",
+      "translation": "Он будет хорошим врачом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_5",
+      "word": "I don't need anyone's help.",
+      "translation": "Мне не нужна ничья помощь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_6",
+      "word": "Tom didn't sign his will.",
+      "translation": "Том не подписал своё завещание.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_7",
+      "word": "The doctor looks worried.",
+      "translation": "Врач выглядел обеспокоенным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_8",
+      "word": "Tom wanted to help Mary.",
+      "translation": "Том хотел помочь Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_9",
+      "word": "Have you called the police?",
+      "translation": "Ты вызвал полицию?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_10",
+      "word": "Couldn't you help me first?",
+      "translation": "Ты не мог бы сначала мне помочь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_11",
+      "word": "We lost track of the time.",
+      "translation": "Мы потеряли счёт времени.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_12",
+      "word": "We must call the police.",
+      "translation": "Мы должны вызвать полицию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_13",
+      "word": "\"Does your throat hurt?\" \"Yes, a little.\"",
+      "translation": "\"У Вас болит горло?\" - \"Да, немного\".",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_14",
+      "word": "I am afraid that he might get hurt.",
+      "translation": "Я боюсь, как бы он не поранился.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_15",
+      "word": "Fortunately, no lives were lost.",
+      "translation": "К счастью, никто не погиб.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_16",
+      "word": "I can't help admiring his talent.",
+      "translation": "Я не могу не восхищаться его талантом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_17",
+      "word": "You said you'd help Tom do that.",
+      "translation": "Ты говорил, что поможешь Тому это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_18",
+      "word": "Your brother is asking for help.",
+      "translation": "Ваш брат просит помощи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_19",
+      "word": "\"Can somebody help me?\" \"I will.\"",
+      "translation": "\"Может ли кто-нибудь помочь мне?\" - \"Я могу\".",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_20",
+      "word": "Have you taken your medicine yet?",
+      "translation": "Ты уже принял лекарство?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_21",
+      "word": "Do you think Tom has lost weight?",
+      "translation": "Думаешь, Том похудел?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_22",
+      "word": "You have totally lost your mind.",
+      "translation": "Ты совсем с ума сошёл.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_23",
+      "word": "Could you please help me do that?",
+      "translation": "Вы не могли бы мне помочь это сделать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_24",
+      "word": "Do you really think that'll help?",
+      "translation": "Ты правда думаешь, что это поможет?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_25",
+      "word": "Give help to anyone who needs it.",
+      "translation": "Окажи помощь всякому, кто в ней нуждается.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_26",
+      "word": "Don't expect anybody to help you.",
+      "translation": "Не жди, что тебе кто-нибудь поможет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_27",
+      "word": "Tom's father is a police officer.",
+      "translation": "Отец Тома — полицейский.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_28",
+      "word": "Help me with my homework, please.",
+      "translation": "Помоги мне с моим домашним заданием, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_29",
+      "word": "Do we really want Tom to help us?",
+      "translation": "Мы точно хотим, чтобы Том нам помог?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_30",
+      "word": "You're to blame for the accident.",
+      "translation": "Вы виновник аварии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_31",
+      "word": "If we don't do this, no one will.",
+      "translation": "Если мы этого не сделаем, никто не сделает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_32",
+      "word": "It isn't our help that Tom wants.",
+      "translation": "Тому не помощь наша нужна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_33",
+      "word": "The patient is out of danger now.",
+      "translation": "Пациент сейчас вне опасности.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_34",
+      "word": "Tom was crippled by the accident.",
+      "translation": "Том был покалечен в аварии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_35",
+      "word": "The medicine made me feel better.",
+      "translation": "От лекарства мне стало лучше.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_36",
+      "word": "Tom wants us to help him do that.",
+      "translation": "Том хочет, чтобы мы помогли ему это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_37",
+      "word": "Many had lost their arms or legs.",
+      "translation": "Многие потеряли руки или ноги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_38",
+      "word": "Tom was killed in a car accident.",
+      "translation": "Том погиб в автокатастрофе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_39",
+      "word": "If you don't help Tom, he'll die.",
+      "translation": "Если ты не поможешь Тому, он умрёт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_40",
+      "word": "Do you really think you can help?",
+      "translation": "Ты правда думаешь, что можешь помочь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_41",
+      "word": "Tom told me he was going to help.",
+      "translation": "Том сказал мне, что поможет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_42",
+      "word": "Have you called an ambulance yet?",
+      "translation": "Вы уже вызвали скорую?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_43",
+      "word": "Don't follow me. I'm lost myself.",
+      "translation": "Не идите за мной, я сама заблудилась!",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_44",
+      "word": "He was suffering from a bad headache.",
+      "translation": "Он страдал от сильной головной боли.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_45",
+      "word": "He lost his temper and hit the boy.",
+      "translation": "Он вышел из себя и ударил мальчика.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_46",
+      "word": "Do you still want me to help you?",
+      "translation": "Ты всё ещё хочешь, чтобы я тебе помог?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_47",
+      "word": "Take this pill. It'll help you sleep.",
+      "translation": "Прими эту таблетку. Она поможет тебе уснуть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_48",
+      "word": "Does Tom want to become a doctor?",
+      "translation": "Том хочет стать врачом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_0_49",
+      "word": "Any help is better than no help.",
+      "translation": "Любая помощь лучше, чем отсутствие помощи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_0",
+      "word": "I didn't want Tom to help me do that.",
+      "translation": "Я не хотел, чтобы Том помогал мне это делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_1",
+      "word": "I am lost. Can you help me, please?",
+      "translation": "Простите, вы можете мне помочь? Я заблудился.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_2",
+      "word": "I don't want to ask Tom for help.",
+      "translation": "Я не хочу просить помощи у Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_3",
+      "word": "Tom has asked Mary to help him.",
+      "translation": "Том попросил Мэри ему помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_4",
+      "word": "I think I'm coming down with a fever.",
+      "translation": "Кажется, у меня поднимается температура.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_5",
+      "word": "I didn't know that I'd hurt anyone.",
+      "translation": "Я не думал, что кого-то обижу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_6",
+      "word": "You're the only one who can help me.",
+      "translation": "Ты единственный, кто может помочь мне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_7",
+      "word": "Tom refuses to go to the doctor.",
+      "translation": "Том отказывается идти к врачу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_8",
+      "word": "I can help you do that if you like.",
+      "translation": "Я могу помочь тебе это сделать, если хочешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_9",
+      "word": "Tom has agreed to help us do that.",
+      "translation": "Том согласился помочь нам это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_10",
+      "word": "I didn't know that I had hurt anyone.",
+      "translation": "Я не думал, что я кого-то обидел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_11",
+      "word": "I don't think that I should help you.",
+      "translation": "Не думаю, что мне стоит тебе помогать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_12",
+      "word": "Tom has already lost a lot of blood.",
+      "translation": "Том уже потерял много крови.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_13",
+      "word": "Tom has already promised to help us.",
+      "translation": "Том уже пообещал нам помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_14",
+      "word": "I've got to get Tom to the hospital.",
+      "translation": "Мне надо отвезти Тома в больницу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_15",
+      "word": "I have to find a way to help Tom.",
+      "translation": "Мне надо найти способ помочь Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_16",
+      "word": "Tom said that he was really sick.",
+      "translation": "Том сказал, что он очень болен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_17",
+      "word": "Even Tom didn't try to help us.",
+      "translation": "Даже Том не пытался нам помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_18",
+      "word": "Tom said that he'd also help Mary.",
+      "translation": "Том сказал, что он бы тоже помог Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_19",
+      "word": "Tom needed someone to help Mary.",
+      "translation": "Тому нужно было, чтобы Мэри кто-нибудь помог.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_20",
+      "word": "I regret that I can't help you.",
+      "translation": "Мне жаль, что я не могу тебе помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_21",
+      "word": "Tom lost more than thirty kilograms.",
+      "translation": "Том похудел более, чем на тридцать килограмм.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_22",
+      "word": "We expect that Tom will help us.",
+      "translation": "Мы ждём, что Том нам поможет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_23",
+      "word": "I found the keys that I'd lost.",
+      "translation": "Я нашёл ключи, которые потерял.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_24",
+      "word": "Try not to get lost this time.",
+      "translation": "Постарайся на этот раз не потеряться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_25",
+      "word": "I'm pretty sure Tom can help us.",
+      "translation": "Я почти уверен, что Том может нам помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_26",
+      "word": "Did anybody other than Tom help Mary?",
+      "translation": "Кто-нибудь кроме Тома помог Мэри?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_27",
+      "word": "Tom may be in very serious danger.",
+      "translation": "Тому может грозить очень большая опасность.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_28",
+      "word": "Tom got very sick and almost died.",
+      "translation": "Том смертельно заболел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_29",
+      "word": "Tom could see that Mary needed help.",
+      "translation": "Том видел, что Мэри нужна помощь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_30",
+      "word": "Tom said that he wouldn't help me.",
+      "translation": "Том сказал, что не будет мне помогать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_31",
+      "word": "Ask your dad to help you.",
+      "translation": "Попроси своего папу помочь тебе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_32",
+      "word": "This music makes me sick.",
+      "translation": "Мне плохо от этой музыки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_33",
+      "word": "Don't forget to take your medicine.",
+      "translation": "Не забудь принять лекарство.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_34",
+      "word": "Tom said Mary wanted to help John.",
+      "translation": "Том сказал, что Мэри хочет помочь Джону.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_35",
+      "word": "Someone has stolen my tennis racket.",
+      "translation": "Кто-то украл у меня теннисную ракетку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_36",
+      "word": "Tom turned himself in to the police.",
+      "translation": "Том явился в полицию с повинной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_37",
+      "word": "Tom was impressed by Mary's skill.",
+      "translation": "Выучка Мэри произвела на Тома впечатление.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_38",
+      "word": "Her villa sits on the hill.",
+      "translation": "Её вилла находится на холме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_39",
+      "word": "He turned to his friend for help.",
+      "translation": "Он обратился к своему другу за помощью.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_40",
+      "word": "Tom knew he was in danger.",
+      "translation": "Том знал, что он в опасности.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_41",
+      "word": "He lives at the top of this hill.",
+      "translation": "Он живёт на вершине этого холма.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_42",
+      "word": "The boy complained of a headache.",
+      "translation": "Мальчик пожаловался на головную боль.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_43",
+      "word": "The house is on the hill.",
+      "translation": "Дом находится на холме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_44",
+      "word": "If I were free, I could help you.",
+      "translation": "Если бы я была свободна, я бы тебе помогла.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_45",
+      "word": "Could you help me find Tom?",
+      "translation": "Ты не мог бы помочь мне найти Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_46",
+      "word": "At first, I thought I was sick.",
+      "translation": "Вначале я думал, что болею.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_47",
+      "word": "I think that Tom could help me.",
+      "translation": "Думаю, Том мог бы мне помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_48",
+      "word": "Tom was a doctor in Australia.",
+      "translation": "Том был врачом в Австралии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_1_49",
+      "word": "How often do you go to the dentist?",
+      "translation": "Как часто вы ходите к стоматологу?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_0",
+      "word": "We don't want anyone to get hurt.",
+      "translation": "Мы не хотим, чтобы кто-то пострадал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_1",
+      "word": "I cannot help admiring his courage.",
+      "translation": "Я не могу не восхищаться его мужеством.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_2",
+      "word": "Tom is in terrible danger.",
+      "translation": "Том в ужасной опасности.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_3",
+      "word": "Take him to the hospital.",
+      "translation": "Отвези его в больницу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_4",
+      "word": "The police don't have a suspect.",
+      "translation": "У полиции нет подозреваемого.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_5",
+      "word": "I wish I'd asked Tom to help me.",
+      "translation": "Лучше бы я попросил Тома помочь мне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_6",
+      "word": "Tom isn't in the hospital.",
+      "translation": "Том не в больнице.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_7",
+      "word": "Tom badly needs our help.",
+      "translation": "Тому очень нужна наша помощь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_8",
+      "word": "We didn't know Tom needed help.",
+      "translation": "Мы не знали, что Тому нужна помощь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_9",
+      "word": "My watch has been stolen.",
+      "translation": "У меня украли часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_10",
+      "word": "Do you still need our help?",
+      "translation": "Тебе ещё нужна наша помощь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_11",
+      "word": "Tom is only trying to help.",
+      "translation": "Том всего лишь пытается помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_12",
+      "word": "Were you able to help Tom?",
+      "translation": "Ты смог помочь Тому?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_13",
+      "word": "We can't help you anymore.",
+      "translation": "Мы больше не можем помочь вам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_14",
+      "word": "That medicine helped a lot.",
+      "translation": "Это лекарство очень помогло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_15",
+      "word": "We should help each other.",
+      "translation": "Нам следует помогать друг другу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_16",
+      "word": "Tom looked like a doctor.",
+      "translation": "Том выглядел как врач.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_17",
+      "word": "You're in terrible danger.",
+      "translation": "Ты в жуткой опасности.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_18",
+      "word": "I just want to help people.",
+      "translation": "Я просто хочу помогать людям.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_19",
+      "word": "We'd better go help Tom.",
+      "translation": "Нам лучше пойти помочь Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_20",
+      "word": "I couldn't do anything to help.",
+      "translation": "Я ничем не смог помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_21",
+      "word": "We have lost sight of him.",
+      "translation": "Мы потеряли его из вида.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_22",
+      "word": "Take the medicine three times a day.",
+      "translation": "Принимайте лекарство три раза в день.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_23",
+      "word": "I appreciate all your help.",
+      "translation": "Я ценю всю твою помощь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_24",
+      "word": "Someone has stolen our clothes.",
+      "translation": "Кто-то украл у нас одежду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_25",
+      "word": "We shouldn't have tried to help Tom.",
+      "translation": "Нам не стоило пытаться помочь Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_26",
+      "word": "Tom's not in the hospital.",
+      "translation": "Том не в больнице.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_27",
+      "word": "The police are after him.",
+      "translation": "Его ищет полиция.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_28",
+      "word": "Why haven't you asked for my help?",
+      "translation": "Почему ты не попросил меня о помощи?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_29",
+      "word": "Why do I have to help you?",
+      "translation": "Почему я должен тебе помогать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_30",
+      "word": "Let me help you with your baggage.",
+      "translation": "Позволь мне помочь тебе с твоим багажом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_31",
+      "word": "Tom died without leaving a will.",
+      "translation": "Том умер, не оставив завещания.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_32",
+      "word": "Tom was caught driving a stolen car.",
+      "translation": "Тома поймали за рулём угнанной машины.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_33",
+      "word": "You can't hurt me anymore.",
+      "translation": "Больше ты не можешь мне навредить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_34",
+      "word": "You ought to see a doctor.",
+      "translation": "Тебе надо сходить к врачу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_35",
+      "word": "The doctor felt my pulse.",
+      "translation": "Доктор пощупал мой пульс.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_36",
+      "word": "I'm sorry, I just wanted to help.",
+      "translation": "Извините, я просто хотел помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_37",
+      "word": "Tom can do that without your help.",
+      "translation": "Том может сделать это без вашей помощи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_38",
+      "word": "We're all happy to help.",
+      "translation": "Мы все рады помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_39",
+      "word": "We'll help you for free.",
+      "translation": "Мы поможем вам бесплатно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_40",
+      "word": "Tom wouldn't ask for help.",
+      "translation": "Том не стал бы просить о помощи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_41",
+      "word": "Can I help you in some way?",
+      "translation": "Я могу тебе как-нибудь помочь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_42",
+      "word": "Tom was injured in a car accident.",
+      "translation": "Том пострадал в ДТП.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_43",
+      "word": "You hurt Tom's feelings.",
+      "translation": "Ты задел чувства Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_44",
+      "word": "You need to call a doctor.",
+      "translation": "Вам надо вызвать врача.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_45",
+      "word": "Tom told us he had a headache.",
+      "translation": "Том сказал нам, что у него болит голова.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_46",
+      "word": "Maybe Tom will help us find Mary.",
+      "translation": "Может быть, Том поможет нам найти Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_47",
+      "word": "Tom is being hunted by the police.",
+      "translation": "За Томом охотится полиция.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_48",
+      "word": "Tom and I both need help.",
+      "translation": "Нам с Томом обоим нужна помощь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_2_49",
+      "word": "He lost his temper and shouted at me.",
+      "translation": "Он потерял терпение и крикнул на меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_0",
+      "word": "Are you asking for my help?",
+      "translation": "Ты просишь меня о помощи?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_1",
+      "word": "Tom died in the accident.",
+      "translation": "Том погиб при аварии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_2",
+      "word": "We don't need your help.",
+      "translation": "Нам не нужна ваша помощь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_3",
+      "word": "Tom lost his favorite pen.",
+      "translation": "Том потерял свою любимую ручку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_4",
+      "word": "I've never stolen anything.",
+      "translation": "Я никогда ничего не крал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_5",
+      "word": "I think you need my help.",
+      "translation": "Думаю, тебе нужна моя помощь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_6",
+      "word": "Can you help me with my French?",
+      "translation": "Можешь помочь мне с французским?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_7",
+      "word": "Tom was sent to a mental hospital.",
+      "translation": "Тома отправили в психбольницу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_8",
+      "word": "Did the police find any fingerprints?",
+      "translation": "Полиция обнаружила отпечатки пальцев?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_9",
+      "word": "My friends are in danger.",
+      "translation": "Мои друзья в опасности.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_10",
+      "word": "I had my car stolen last night.",
+      "translation": "Прошлой ночью у меня украли машину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_11",
+      "word": "Don't let anyone hurt me.",
+      "translation": "Не давай меня никому в обиду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_12",
+      "word": "Mary lost her cell phone.",
+      "translation": "Маша потеряла свой мобильный телефон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_13",
+      "word": "Tom has lost his glasses.",
+      "translation": "Том потерял очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_14",
+      "word": "We must help all of them.",
+      "translation": "Мы должны всем им помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_15",
+      "word": "We should help the needy.",
+      "translation": "Мы должны помогать нуждающимся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_16",
+      "word": "Would you like them to help you?",
+      "translation": "Вы бы хотели, чтобы они вам помогли?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_17",
+      "word": "Do you need help with anything?",
+      "translation": "Тебе нужна какая-нибудь помощь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_18",
+      "word": "I wanted to hurt Tom.",
+      "translation": "Я хотел сделать Тому больно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_19",
+      "word": "I expect Tom to help me.",
+      "translation": "Я жду, что Том мне поможет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_20",
+      "word": "I think we can help each other.",
+      "translation": "Я думаю, мы можем помочь друг другу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_21",
+      "word": "Tom wouldn't hurt a fly.",
+      "translation": "Том и мухи не обидит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_22",
+      "word": "Do what you will.",
+      "translation": "Делай что хочешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_23",
+      "word": "I'm afraid that we can't help you.",
+      "translation": "Боюсь, мы не можем вам помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_24",
+      "word": "You can ski on that hill.",
+      "translation": "Можешь кататься на лыжах на том холме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_25",
+      "word": "Tom told me that he needed our help.",
+      "translation": "Том сказал мне, что ему нужна наша помощь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_26",
+      "word": "I was wondering if you could help.",
+      "translation": "Мне было интересно, можешь ли ты мне помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_27",
+      "word": "Police cordoned off the crime scene.",
+      "translation": "Полиция оцепила место преступления.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_28",
+      "word": "I see you haven't lost your touch.",
+      "translation": "Я вижу, ты не потерял хватку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_29",
+      "word": "I just need you to help me.",
+      "translation": "Мне просто нужно, чтобы ты мне помог.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_30",
+      "word": "Tom asked me to help him.",
+      "translation": "Том попросил меня помочь ему.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_31",
+      "word": "How did you convince Tom to help you?",
+      "translation": "Как ты уговорил Тома тебе помочь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_32",
+      "word": "Do you really want to help?",
+      "translation": "Ты правда хочешь помочь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_33",
+      "word": "We had to help Tom.",
+      "translation": "Мы должны были помочь Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_34",
+      "word": "Didn't you do anything to help?",
+      "translation": "Ты никак не помог?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_35",
+      "word": "They won't hurt you.",
+      "translation": "Они не сделают тебе больно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_36",
+      "word": "I'm very much aware of the danger.",
+      "translation": "Я прекрасно осознаю эту опасность.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_37",
+      "word": "I'm sorry I can't help you.",
+      "translation": "Прости, что не могу тебе помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_38",
+      "word": "Turn yourself in to the police.",
+      "translation": "Сдайся полиции.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_39",
+      "word": "I don't want to get lost.",
+      "translation": "Я не хочу заблудиться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_40",
+      "word": "Tom will go for help.",
+      "translation": "Том пойдёт за помощью.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_41",
+      "word": "Tom was seriously hurt.",
+      "translation": "Том серьёзно пострадал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_42",
+      "word": "Don't speak ill of your classmates.",
+      "translation": "Не говори плохо о твоих одноклассниках.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_43",
+      "word": "An ice pack will numb the pain.",
+      "translation": "Пакет со льдом снимет боль.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_44",
+      "word": "I can get someone smart to help me.",
+      "translation": "Я могу кого-нибудь умного попросить помочь мне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_45",
+      "word": "I need to see a doctor.",
+      "translation": "Мне нужно к врачу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_46",
+      "word": "I asked for his help.",
+      "translation": "Я попросил его помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_47",
+      "word": "We know that you're sick.",
+      "translation": "Мы знаем, что ты болен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_48",
+      "word": "The accident happened near his home.",
+      "translation": "Авария произошла рядом с его домом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_3_49",
+      "word": "I had my camera stolen.",
+      "translation": "У меня украли камеру.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_0",
+      "word": "Can I help you in any way?",
+      "translation": "Я могу тебе как-то помочь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_1",
+      "word": "We have to get Tom to a doctor.",
+      "translation": "Мы должны отвести Тома к врачу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_2",
+      "word": "He was injured in a railway accident.",
+      "translation": "Он пострадал в железнодорожной аварии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_3",
+      "word": "I wasn't seasick.",
+      "translation": "У меня не было морской болезни.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_4",
+      "word": "Tom was racked with pain.",
+      "translation": "Том мучился от боли.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_5",
+      "word": "I've promised Tom that I would help.",
+      "translation": "Я пообещал Тому, что помогу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_6",
+      "word": "I was able to help her.",
+      "translation": "Я могла ей помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_7",
+      "word": "You should see a doctor.",
+      "translation": "Тебе стоит сходить к врачу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_8",
+      "word": "He died before the ambulance arrived.",
+      "translation": "Он умер до того, как приехала скорая.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_9",
+      "word": "I will gladly help you.",
+      "translation": "С удовольствием тебе помогу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_10",
+      "word": "I am so busy that I can't help you.",
+      "translation": "Я так занят, что не могу тебе помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_11",
+      "word": "Tom said he'd help.",
+      "translation": "Том сказал, что поможет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_12",
+      "word": "Tom asked Mary to help us do that.",
+      "translation": "Том попросил Мэри помочь нам это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_13",
+      "word": "Is there a doctor on board?",
+      "translation": "На борту есть врач?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_14",
+      "word": "I feel very sick.",
+      "translation": "Я чувствую себя очень больным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_15",
+      "word": "Tom was expecting me to help him.",
+      "translation": "Том ожидал, что я ему помогу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_16",
+      "word": "Tom impersonated a doctor.",
+      "translation": "Том выдавал себя за врача.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_17",
+      "word": "What's lost is lost.",
+      "translation": "Что пропало, то пропало.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_18",
+      "word": "Why don't you ask Tom to help you?",
+      "translation": "Почему ты не попросишь Тома тебе помочь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_19",
+      "word": "Tom went home sick.",
+      "translation": "Том пришёл домой больным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_20",
+      "word": "Tom became a dentist.",
+      "translation": "Том стал дантистом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_21",
+      "word": "The doctor cauterised the wound.",
+      "translation": "Врач прижёг рану.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_22",
+      "word": "I've promised to help Tom today.",
+      "translation": "Я обещал помочь сегодня Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_23",
+      "word": "Tom looked very sick.",
+      "translation": "Том выглядел очень больным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_24",
+      "word": "Tom might not want us to help him.",
+      "translation": "Том может не захотеть, чтобы мы ему помогали.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_25",
+      "word": "Tom is sick and tired of doing that.",
+      "translation": "Тому до смерти надоело это занятие.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_26",
+      "word": "The doctor examined the patient.",
+      "translation": "Врач осмотрел пациента.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_27",
+      "word": "Can you help me fill out this form?",
+      "translation": "Помогите мне, пожалуйста, заполнить эту анкету.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_28",
+      "word": "Tom and I are the ones who need help.",
+      "translation": "Это нам с Томом нужна помощь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_29",
+      "word": "I hope you can help.",
+      "translation": "Надеюсь, вы сможете помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_30",
+      "word": "The police arrived on the scene.",
+      "translation": "Полиция приехала на место преступления.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_31",
+      "word": "The police will never find you there.",
+      "translation": "Полиция никогда тебя там не найдёт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_32",
+      "word": "You look like you're sick.",
+      "translation": "Ты выглядишь больным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_33",
+      "word": "I've lost my keys.",
+      "translation": "Я потерял свои ключи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_34",
+      "word": "Tom replied he'd be glad to help.",
+      "translation": "Том ответил, что будет рад помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_35",
+      "word": "We really need your help.",
+      "translation": "Нам действительно нужна твоя помощь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_36",
+      "word": "Even Tom couldn't help.",
+      "translation": "Даже Том не смог бы помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_37",
+      "word": "You don't seem to want our help.",
+      "translation": "Не похоже, чтобы тебе нужна была наша помощь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_38",
+      "word": "Which hospital did they take Tom to?",
+      "translation": "В какую больницу они отвезли Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_39",
+      "word": "Tom was complaining of back pain.",
+      "translation": "Том жаловался на боли в спине.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_40",
+      "word": "Tom agreed to help Mary kill John.",
+      "translation": "Том согласился помочь Мэри убить Джона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_41",
+      "word": "Tom is hoping you'll help Mary.",
+      "translation": "Том надеется, что ты поможешь Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_42",
+      "word": "Someone's stolen my things.",
+      "translation": "Кто-то украл мои вещи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_43",
+      "word": "We must make up for lost time.",
+      "translation": "Мы должны наверстать упущенное время.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_44",
+      "word": "Have you come to help me?",
+      "translation": "Ты приехал, чтобы помочь мне?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_45",
+      "word": "I was in the hospital for a few days.",
+      "translation": "Я несколько дней провёл в больнице.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_46",
+      "word": "Tom lost his hearing.",
+      "translation": "Том потерял слух.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_47",
+      "word": "The pain slowly subsided.",
+      "translation": "Боль постепенно утихла.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_48",
+      "word": "Why didn't Tom help you today?",
+      "translation": "Почему Том тебе сегодня не помог?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_4_49",
+      "word": "Thank God that nobody was hurt.",
+      "translation": "Слава богу, что никто не пострадал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_0",
+      "word": "Tom thought that Mary would help him.",
+      "translation": "Том думал, что Мэри ему поможет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_1",
+      "word": "The priest took the sick man's place.",
+      "translation": "Священник занял место больного мужчины.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_2",
+      "word": "Tom loved to help people.",
+      "translation": "Том любил помогать людям.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_3",
+      "word": "I'll help you find Tom.",
+      "translation": "Я помогу тебе найти Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_4",
+      "word": "How do you propose to help?",
+      "translation": "Как ты предлагаешь помочь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_5",
+      "word": "I didn't know I was hurt.",
+      "translation": "Я не знал, что ранен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_6",
+      "word": "Tom will tell us how we can help.",
+      "translation": "Том скажет нам, как мы можем помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_7",
+      "word": "The royal palace was built on a hill.",
+      "translation": "Королевский дворец был построен на холме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_8",
+      "word": "She always expects me to help her.",
+      "translation": "Она всё время ждёт от меня помощи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_9",
+      "word": "I called in sick.",
+      "translation": "Я взял больничный.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_10",
+      "word": "He had his car stolen yesterday.",
+      "translation": "Вчера украли его машину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_11",
+      "word": "You need to help me.",
+      "translation": "Ты должен мне помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_12",
+      "word": "I could help you with that.",
+      "translation": "Я мог бы помочь тебе с этим.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_13",
+      "word": "Tom lost his dog.",
+      "translation": "Том потерял свою собаку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_14",
+      "word": "You may have to help Tom.",
+      "translation": "Возможно, Тому понадобится твоя помощь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_15",
+      "word": "I lost my balance.",
+      "translation": "Я потерял равновесие.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_16",
+      "word": "I feel their pain.",
+      "translation": "Я чувствую их боль.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_17",
+      "word": "If I were you, I'd ask Tom for help.",
+      "translation": "На твоём месте я бы попросил Тома о помощи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_18",
+      "word": "I want to help you, but I can't.",
+      "translation": "Я хочу тебе помочь, но не могу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_19",
+      "word": "I'm very fortunate that I wasn't hurt.",
+      "translation": "Мне очень повезло, что я не пострадал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_20",
+      "word": "Thanks for your help.",
+      "translation": "Спасибо тебе за помощь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_21",
+      "word": "How do you think we can help Tom?",
+      "translation": "Как, по-вашему, мы можем помочь Тому?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_22",
+      "word": "Will you ask Tom for help?",
+      "translation": "Ты попросишь Тома о помощи?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_23",
+      "word": "Who did you ask for help?",
+      "translation": "Кого ты попросил о помощи?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_24",
+      "word": "He became a police officer.",
+      "translation": "Он стал офицером полиции.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_25",
+      "word": "We should wait for help.",
+      "translation": "Нам следует подождать помощи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_26",
+      "word": "Can I do anything to help?",
+      "translation": "Я могу чем-нибудь помочь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_27",
+      "word": "He went for the doctor.",
+      "translation": "Он пошёл к врачу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_28",
+      "word": "I have pain in my left shoulder.",
+      "translation": "У меня болит левое плечо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_29",
+      "word": "I feel sick whenever I see blood.",
+      "translation": "Меня тошнит от вида крови.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_30",
+      "word": "I'm sorry I wasn't able to help you.",
+      "translation": "Простите, что не смог вам помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_31",
+      "word": "Excuse me, can you help me?",
+      "translation": "Простите, вы можете мне помочь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_32",
+      "word": "Help me and I'll help you.",
+      "translation": "Помогите мне, и я помогу вам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_33",
+      "word": "It takes time to master any skill.",
+      "translation": "Развитие любых навыков требует времени.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_34",
+      "word": "I never asked for help.",
+      "translation": "Я никогда не просил о помощи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_35",
+      "word": "I felt responsible for Tom's accident.",
+      "translation": "Я чувствую ответственность за несчастный случай с Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_36",
+      "word": "Tom must help us.",
+      "translation": "Том должен нам помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_37",
+      "word": "Help yourself to a piece of cake.",
+      "translation": "Возьми себе кусочек торта.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_38",
+      "word": "I think Tom can help.",
+      "translation": "Думаю, Том может помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_39",
+      "word": "If you don't believe me, who will?",
+      "translation": "Если ты мне не веришь, то кто поверит?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_40",
+      "word": "You're not a real doctor.",
+      "translation": "Ты ненастоящий врач.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_41",
+      "word": "Tom told Mary he needed her help.",
+      "translation": "Том сказал Мэри, что нуждается в её помощи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_42",
+      "word": "Could you help me do that?",
+      "translation": "Вы не могли бы помочь мне это сделать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_43",
+      "word": "Can somebody help?",
+      "translation": "Кто-нибудь может помочь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_44",
+      "word": "I seem to have lost my appetite.",
+      "translation": "Кажется, у меня пропал аппетит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_45",
+      "word": "Can you help me translate this?",
+      "translation": "Ты можешь помочь мне это перевести?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_46",
+      "word": "I think you're sick.",
+      "translation": "По-моему, ты болен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_47",
+      "word": "Tom has lost his eraser.",
+      "translation": "Том потерял свой ластик.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_48",
+      "word": "Tom is willing to help us.",
+      "translation": "Том желает нам помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_5_49",
+      "word": "Cricket is a game that takes skill.",
+      "translation": "Крикет - игра, требующая умения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_0",
+      "word": "I'm trying to get someone to help me.",
+      "translation": "Я пытаюсь уговорить кого-нибудь помочь мне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_1",
+      "word": "I lost interest.",
+      "translation": "Я потерял интерес.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_2",
+      "word": "You can all help.",
+      "translation": "Вы все можете помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_3",
+      "word": "We were witnesses of the accident.",
+      "translation": "Мы были свидетелями аварии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_4",
+      "word": "The doctor gave him the medicine.",
+      "translation": "Врач дал ему лекарство.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_5",
+      "word": "Tom hid the stolen ring in a sock.",
+      "translation": "Том спрятал похищенное кольцо в носок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_6",
+      "word": "Tom offered his help.",
+      "translation": "Том предложил свою помощь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_7",
+      "word": "I lost face.",
+      "translation": "Я потерял лицо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_8",
+      "word": "I doubt Tom can help you.",
+      "translation": "Сомневаюсь, что Том может тебе помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_9",
+      "word": "I thought I'd lost you forever.",
+      "translation": "Я думал, что навсегда потерял тебя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_10",
+      "word": "How long have you been ill?",
+      "translation": "Как долго вы болели?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_11",
+      "word": "The police are questioning Tom.",
+      "translation": "Полиция допрашивает Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_12",
+      "word": "I'm not sick anymore.",
+      "translation": "Я больше не болен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_13",
+      "word": "I can't help with that.",
+      "translation": "Я не могу с этим помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_14",
+      "word": "I'm asking you to help me with it.",
+      "translation": "Я прошу тебя помочь мне в этом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_15",
+      "word": "Tom refused to help Mary do that.",
+      "translation": "Том отказался помогать Мэри это делать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_16",
+      "word": "We should call the doctor.",
+      "translation": "Мы должны вызвать врача.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_17",
+      "word": "Tom got pulled over by the police.",
+      "translation": "Тома остановила полиция.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_18",
+      "word": "Tom told me that he felt seasick.",
+      "translation": "Том сказал мне, что его укачивает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_19",
+      "word": "Tom abused alcohol and pain pills.",
+      "translation": "Том злоупотреблял спиртным и обезболивающими.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_20",
+      "word": "I don't want to feel any pain.",
+      "translation": "Я не хочу чувствовать какую-либо боль.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_21",
+      "word": "Tom didn't need help.",
+      "translation": "Тому не нужна была помощь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_22",
+      "word": "I'm a very sick person.",
+      "translation": "Я очень больной человек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_23",
+      "word": "I want you to go see a doctor.",
+      "translation": "Я хочу, чтобы ты сходил к врачу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_24",
+      "word": "How does Tom plan to help?",
+      "translation": "Как Том планирует помочь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_25",
+      "word": "This is going to hurt a little.",
+      "translation": "Будет немного больно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_26",
+      "word": "That's what the doctor ordered.",
+      "translation": "Это то, что доктор прописал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_27",
+      "word": "I haven't felt any pain so far.",
+      "translation": "Я пока не почувствовал никакой боли.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_28",
+      "word": "The doctor will take care of you.",
+      "translation": "Врач о тебе позаботится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_29",
+      "word": "Tom Jackson lost the election.",
+      "translation": "Том Джексон проиграл выборы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_30",
+      "word": "How often are you sick?",
+      "translation": "Как часто Вы болеете?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_31",
+      "word": "Tom doesn't want to help.",
+      "translation": "Том не хочет помогать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_32",
+      "word": "I hope I didn't hurt you.",
+      "translation": "Я надеюсь, что я не задел вас.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_33",
+      "word": "Is Tom in the hospital?",
+      "translation": "Том в больнице?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_34",
+      "word": "Maybe Tom and Mary will help.",
+      "translation": "Может быть, Том и Мэри помогут.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_35",
+      "word": "He has lost interest in politics.",
+      "translation": "Он потерял интерес к политике.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_36",
+      "word": "I thought I lost you.",
+      "translation": "Я думала, что потеряла тебя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_37",
+      "word": "Let's call for help.",
+      "translation": "Давайте позовём на помощь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_38",
+      "word": "I'm still sick.",
+      "translation": "Я ещё болею.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_39",
+      "word": "You told me it was an emergency.",
+      "translation": "Ты сказал мне, что это срочно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_40",
+      "word": "An accident may happen at any time.",
+      "translation": "В любой момент может произойти несчастный случай.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_41",
+      "word": "Tom got killed in a traffic accident.",
+      "translation": "Том погиб в ДТП.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_42",
+      "word": "Your life's in danger.",
+      "translation": "Ваша жизнь в опасности.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_43",
+      "word": "He never speaks of the accident.",
+      "translation": "Он никогда не говорит об аварии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_44",
+      "word": "I needed some help.",
+      "translation": "Мне нужна была кое-какая помощь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_45",
+      "word": "Tom lost his job three months ago.",
+      "translation": "Том потерял работу три месяца тому назад.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_46",
+      "word": "I advise you to listen to your doctor.",
+      "translation": "Советую тебе послушать своего врача.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_47",
+      "word": "How did you know that Tom was sick?",
+      "translation": "Откуда ты узнал, что Том болен?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_48",
+      "word": "I lost interest in collecting stamps.",
+      "translation": "Я потерял интерес к собиранию марок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_6_49",
+      "word": "I need someone to help me do this.",
+      "translation": "Мне нужно, чтобы кто-нибудь помог мне это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_0",
+      "word": "We lost almost everything.",
+      "translation": "Мы почти всё потеряли.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_1",
+      "word": "Help came too late.",
+      "translation": "Помощь пришла слишком поздно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_2",
+      "word": "They told me I had to help you.",
+      "translation": "Они сказали мне, что я должен тебе помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_3",
+      "word": "He seems ill.",
+      "translation": "Он выглядит больным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_4",
+      "word": "We're going to help.",
+      "translation": "Мы будем помогать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_5",
+      "word": "This could hurt our business.",
+      "translation": "Это может навредить нашему бизнесу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_6",
+      "word": "Tom works as a blood spatter analyst with the metropolitan police.",
+      "translation": "Том работает в полиции метрополитена экспертом по анализу брызг крови.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_7",
+      "word": "Tom's feelings were hurt.",
+      "translation": "Чувства Тома были задеты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_8",
+      "word": "She had an appointment with the doctor.",
+      "translation": "Она была записана ко врачу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_9",
+      "word": "We haven't lost yet.",
+      "translation": "Мы ещё не проиграли.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_10",
+      "word": "I want to help you.",
+      "translation": "Я хочу тебе помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_11",
+      "word": "The police found drugs in Tom's house.",
+      "translation": "Полиция нашла в доме у Тома наркотики.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_12",
+      "word": "I can't help you this week.",
+      "translation": "Я тебе на этой неделе помочь не смогу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_13",
+      "word": "She has been sick since last Wednesday.",
+      "translation": "Она больна с прошлой среды.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_14",
+      "word": "Should I help you?",
+      "translation": "Вам помочь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_15",
+      "word": "Does it hurt when I press here?",
+      "translation": "Когда я тут надавливаю, больно?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_16",
+      "word": "My wallet was stolen while I was asleep.",
+      "translation": "Когда я спал, у меня украли кошелёк.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_17",
+      "word": "Tom needs to be taken to the hospital.",
+      "translation": "Тома нужно отвезти в больницу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_18",
+      "word": "It seems that I've lost my keys.",
+      "translation": "Кажется, я свои ключи потерял.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_19",
+      "word": "Even Tom wouldn't help.",
+      "translation": "Даже Том не помог бы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_20",
+      "word": "Tom was surrounded by the police.",
+      "translation": "Тома окружила полиция.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_21",
+      "word": "Tom suffers from chronic pain.",
+      "translation": "Том страдает от хронических болей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_22",
+      "word": "This isn't possible without Tom's help.",
+      "translation": "Без помощи Тома это невозможно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_23",
+      "word": "I told Tom I didn't want his help.",
+      "translation": "Я сказал Тому, что не хочу от него помощи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_24",
+      "word": "I lost my keys and I can't find them.",
+      "translation": "Я потерял ключи и не могу их найти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_25",
+      "word": "I don't want to hurt her.",
+      "translation": "Я не хочу навредить ей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_26",
+      "word": "I can't do it alone. You have to help me.",
+      "translation": "Я один не справлюсь. Тебе придётся мне помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_27",
+      "word": "She was too proud to ask him for help.",
+      "translation": "Она была слишком горда, чтобы просить его о помощи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_28",
+      "word": "He got injured in the traffic accident.",
+      "translation": "Он пострадал в дорожном происшествии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_29",
+      "word": "I took Tom to the hospital.",
+      "translation": "Я отвёз Тома в больницу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_30",
+      "word": "Tom was in the hospital for over a week.",
+      "translation": "Том был в больнице более одной недели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_31",
+      "word": "Does your head still hurt?",
+      "translation": "Голова так и болит?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_32",
+      "word": "I need a few people to help me.",
+      "translation": "Мне нужно несколько человек для помощи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_33",
+      "word": "Tom lost his balance.",
+      "translation": "Том потерял равновесие.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_34",
+      "word": "Tom didn't know that Mary needed help.",
+      "translation": "Том не знал, что Мэри нужна помощь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_35",
+      "word": "Tom said he'd help Mary with her plan.",
+      "translation": "Том сказал, что поможет Мэри с её планом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_36",
+      "word": "Tom is only pretending to be sick.",
+      "translation": "Том только притворяется больным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_37",
+      "word": "We don't have time to help Tom.",
+      "translation": "У нас нет времени помогать Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_38",
+      "word": "How can Tom help us?",
+      "translation": "Как Том может нам помочь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_39",
+      "word": "I knew you were sick.",
+      "translation": "Я знал, что ты болен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_40",
+      "word": "You don't look sick.",
+      "translation": "Ты не выглядишь больным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_41",
+      "word": "My success is largely due to your help.",
+      "translation": "Своим успехом я во многом обязан вашей помощи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_42",
+      "word": "I have a pain in my back.",
+      "translation": "У меня болит спина.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_43",
+      "word": "I didn't call an ambulance.",
+      "translation": "Я не вызывал скорую.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_44",
+      "word": "Does Tom want us to help Mary?",
+      "translation": "Том хочет, чтобы мы помогли Мэри?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_45",
+      "word": "We might be able to help Tom.",
+      "translation": "Возможно, мы сможем помочь Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_46",
+      "word": "Tom might not want to help us.",
+      "translation": "Том может не захотеть нам помогать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_47",
+      "word": "Tom asked Mary to help him wash the car.",
+      "translation": "Том попросил Мэри помочь ему помыть машину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_48",
+      "word": "We're trying to help Tom.",
+      "translation": "Мы пытаемся помочь Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_7_49",
+      "word": "I'm sick and tired of this.",
+      "translation": "Я сыт этим по горло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_0",
+      "word": "Why did you agree to help?",
+      "translation": "Почему вы согласились помочь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_1",
+      "word": "I think we're going to need Tom's help.",
+      "translation": "Думаю, нам понадобится помощь Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_2",
+      "word": "My help isn't needed anymore.",
+      "translation": "Моя помощь больше не нужна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_3",
+      "word": "Tom wouldn't allow me to help him.",
+      "translation": "Том бы не позволил мне ему помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_4",
+      "word": "I didn't feel any pain.",
+      "translation": "Я не чувствовал боли.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_5",
+      "word": "This will help keep you warm.",
+      "translation": "Это поможет тебе не замёрзнуть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_6",
+      "word": "Are you sick? You look pale.",
+      "translation": "Ты болен? Бледно выглядишь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_7",
+      "word": "Tom helps anyone that asks him for help.",
+      "translation": "Том помогает всем, кто просит его о помощи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_8",
+      "word": "We help each other.",
+      "translation": "Мы помогаем друг другу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_9",
+      "word": "Tom is dating someone at the hospital.",
+      "translation": "Том встречается с кем-то в больнице.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_10",
+      "word": "When is Tom getting out of the hospital?",
+      "translation": "Когда Тома выписывают из больницы?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_11",
+      "word": "She looks very sick.",
+      "translation": "Она выглядит очень больной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_12",
+      "word": "Tom had a sharp pain in his right hand.",
+      "translation": "У Тома была острая боль в правой руке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_13",
+      "word": "We're willing to help you.",
+      "translation": "Мы хотим вам помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_14",
+      "word": "This medicine will take the pain away.",
+      "translation": "Это лекарство снимет боль.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_15",
+      "word": "Unfortunately, I can't help them.",
+      "translation": "К сожалению, я не могу им помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_16",
+      "word": "Tom says he's been asked to help.",
+      "translation": "Том говорит, что его попросили о помощи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_17",
+      "word": "Maybe Tom is too busy to help us.",
+      "translation": "Возможно, Том слишком занят, чтобы помочь нам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_18",
+      "word": "Unfortunately, help came too late.",
+      "translation": "К сожалению, помощь пришла слишком поздно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_19",
+      "word": "Tom's cat is sick.",
+      "translation": "У Тома кот нездоров.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_20",
+      "word": "Tom didn't want to work in a hospital.",
+      "translation": "Том не хотел работать в больнице.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_21",
+      "word": "Tom could be a big help to you, I think.",
+      "translation": "Том мог бы тебе очень помочь, я думаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_22",
+      "word": "Wear warm clothes or you could get sick.",
+      "translation": "Одевайся потеплее, а то заболеешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_23",
+      "word": "It wasn't an accident.",
+      "translation": "Это был не несчастный случай.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_24",
+      "word": "Tom is in danger of failing this class.",
+      "translation": "Том рискует не сдать этот предмет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_25",
+      "word": "\"Thanks for your help.\" \"It was nothing.\"",
+      "translation": "\"Спасибо Вам за помощь\". - \"Да не за что\".",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_26",
+      "word": "Try to convince Tom to help us.",
+      "translation": "Постарайся убедить Тома, чтобы он помог нам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_27",
+      "word": "Don't ask me for help.",
+      "translation": "Не проси меня помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_28",
+      "word": "Be careful not to hurt Tom's feelings.",
+      "translation": "Будь осторожна, не задень чувства Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_29",
+      "word": "I appreciate your help.",
+      "translation": "Я ценю твою помощь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_30",
+      "word": "I suspect that Tom is sick.",
+      "translation": "Я подозреваю, что Том болен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_31",
+      "word": "Your wish is easy to fulfill.",
+      "translation": "Ваше желание легко исполнить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_32",
+      "word": "Tom lost his memory.",
+      "translation": "Том потерял память.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_33",
+      "word": "Tom came here to help us.",
+      "translation": "Том пришёл сюда помочь нам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_34",
+      "word": "We're not lost. I know where we are.",
+      "translation": "Мы не заблудились. Я знаю, где мы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_35",
+      "word": "Tom is sick.",
+      "translation": "Том болен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_36",
+      "word": "I couldn't go to work because I was sick.",
+      "translation": "Я не мог идти на работу, потому что я болел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_37",
+      "word": "He left home for Spain.",
+      "translation": "Он уехал обратно в Испанию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_38",
+      "word": "No one's going to hurt you.",
+      "translation": "Никто тебя не обидит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_39",
+      "word": "That accident happened near his house.",
+      "translation": "Эта авария произошла рядом с его домом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_40",
+      "word": "I know that the police suspect me.",
+      "translation": "Я знаю, что полиция меня подозревает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_41",
+      "word": "Tom decided to call for help.",
+      "translation": "Том решил позвать на помощь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_42",
+      "word": "How many times did you help Tom do that?",
+      "translation": "Сколько раз ты помогал Тому это делать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_43",
+      "word": "I think you can help Tom.",
+      "translation": "Думаю, вы можете помочь Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_44",
+      "word": "Tom needs us to help him.",
+      "translation": "Тому нужно, чтобы мы ему помогли.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_45",
+      "word": "Is there anything else I can do to help?",
+      "translation": "Я могу чем-нибудь ещё помочь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_46",
+      "word": "Do you have any pain?",
+      "translation": "У тебя что-нибудь болит?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_47",
+      "word": "It's my duty to protect you from danger.",
+      "translation": "Мой долг — защитить тебя от опасности.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_48",
+      "word": "I think you're lost.",
+      "translation": "Я думаю, ты потерялся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_8_49",
+      "word": "Tom was hoping he could help Mary.",
+      "translation": "Том надеялся, что сможет помочь Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_0",
+      "word": "Does this mean you're not coming to help?",
+      "translation": "То есть ты помогать не придёшь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_1",
+      "word": "Tom has lost his gloves.",
+      "translation": "Том потерял свои перчатки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_2",
+      "word": "The police have no evidence against Tom.",
+      "translation": "У полиции нет улик против Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_3",
+      "word": "Tom needs help badly.",
+      "translation": "Тому очень нужна помощь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_4",
+      "word": "I think that Tom is still sick.",
+      "translation": "Думаю, Том всё ещё болен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_5",
+      "word": "Workers lost their jobs.",
+      "translation": "Рабочие потеряли свои рабочие места.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_6",
+      "word": "What were you doing at the hospital?",
+      "translation": "Что ты делал в больнице?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_7",
+      "word": "Tom lost three games in a row.",
+      "translation": "Том проиграл три партии подряд.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_8",
+      "word": "I'm going to need your help doing this.",
+      "translation": "Мне понадобится ваша помощь, чтобы это сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_9",
+      "word": "I think they very likely won't help you.",
+      "translation": "Думаю, скорее всего, они не станут тебе помогать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_10",
+      "word": "I've lost my glasses.",
+      "translation": "Я потерял свои очки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_11",
+      "word": "I'm sick of everything.",
+      "translation": "Меня всё достало.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_12",
+      "word": "I knew Tom wouldn't be able to help us.",
+      "translation": "Я знал, что Том не сможет нам помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_13",
+      "word": "This medicine will do you good.",
+      "translation": "Это лекарство вам поможет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_14",
+      "word": "I often feel homesick.",
+      "translation": "Меня часто мучает тоска по родине.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_15",
+      "word": "May I help you?",
+      "translation": "Могу я Вам чем-то помочь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_16",
+      "word": "Many books have been stolen.",
+      "translation": "Многие книги были украдены.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_17",
+      "word": "I lost the watch.",
+      "translation": "Я потерял свои часы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_18",
+      "word": "I want to help somehow.",
+      "translation": "Я хочу как-нибудь помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_19",
+      "word": "I tried to help my grandfather.",
+      "translation": "Я попытался помочь своему деду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_20",
+      "word": "The police still haven't found anything.",
+      "translation": "Полиция до сих пор ничего не нашла.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_21",
+      "word": "Is Tom a doctor?",
+      "translation": "Том врач?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_22",
+      "word": "He got lost on his way here.",
+      "translation": "Он заблудился по дороге сюда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_23",
+      "word": "I lost one of my boys in the war.",
+      "translation": "Я потеряла одного из своих мальчиков на войне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_24",
+      "word": "You have only to give him a little help.",
+      "translation": "Ты должен лишь немного ему помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_25",
+      "word": "Tom isn't the only one who came to help.",
+      "translation": "Том не единственный, кто пришёл помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_26",
+      "word": "Tom could hurt you.",
+      "translation": "Том мог навредить тебе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_27",
+      "word": "Go find somebody who can help.",
+      "translation": "Сходи, найди кого-нибудь, кто может помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_28",
+      "word": "She asked me to help her with the work.",
+      "translation": "Она попросила меня помочь ей с работой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_29",
+      "word": "Tom will go to the hospital.",
+      "translation": "Том поедет в больницу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_30",
+      "word": "The police can't stop this.",
+      "translation": "Полиция не может это остановить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_31",
+      "word": "I wasn't hurt in the accident.",
+      "translation": "Я не пострадал в аварии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_32",
+      "word": "Tom didn't go to the hospital.",
+      "translation": "Том не ходил в больницу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_33",
+      "word": "I've lost a filling.",
+      "translation": "Я потерял пломбу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_34",
+      "word": "He asked for my help.",
+      "translation": "Он попросил меня о помощи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_35",
+      "word": "Don't be afraid to ask for help.",
+      "translation": "Не бойся просить помощи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_36",
+      "word": "They've taken Tom to the hospital.",
+      "translation": "Тома отвезли в больницу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_37",
+      "word": "Let's go to the hospital.",
+      "translation": "Поедем в больницу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_38",
+      "word": "They said it was an accident.",
+      "translation": "Они сказали, что это был несчастный случай.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_39",
+      "word": "Why are people scared of the police?",
+      "translation": "Почему люди боятся полиции?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_40",
+      "word": "Help is on the way.",
+      "translation": "Помощь уже в пути.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_41",
+      "word": "Can we count on Tom's help?",
+      "translation": "Мы можем рассчитывать на помощь Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_42",
+      "word": "Are you in much pain?",
+      "translation": "Очень больно?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_43",
+      "word": "Call me if you need any help.",
+      "translation": "Позвони мне, если понадобится какая-нибудь помощь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_44",
+      "word": "I hear you're now a doctor.",
+      "translation": "Я слышал, ты теперь врач.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_45",
+      "word": "Was it you who called the police?",
+      "translation": "Это ты вызвал полицию?",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_46",
+      "word": "Tom said somebody had stolen his wallet.",
+      "translation": "Том сказал, что кто-то украл его бумажник.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_47",
+      "word": "I cannot help laughing at the joke.",
+      "translation": "Я не могу не смеяться над этой шуткой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_48",
+      "word": "Tom won't let me help him.",
+      "translation": "Том не даст мне ему помочь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_emergencyhealth_9_49",
+      "word": "The doctors say Tom is very ill.",
+      "translation": "Врачи говорят, что Том очень болен.",
+      "language": "en"
+    }
+  ]
+}

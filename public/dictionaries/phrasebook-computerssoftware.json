@@ -1,0 +1,889 @@
+{
+  "id": "phrasebook-computerssoftware",
+  "name": "Computers & Software",
+  "description": "Phrasebook for Computers & Software",
+  "entries": [
+    {
+      "id": "pb_computerssoftware_0_0",
+      "word": "Tom is a software developer.",
+      "translation": "Том — разработчик программного обеспечения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_1",
+      "word": "This TV program seems to be very entertaining.",
+      "translation": "Эта программа кажется очень интересной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_2",
+      "word": "What is a postal code?",
+      "translation": "Что такое почтовый индекс?",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_3",
+      "word": "Tom ate a bug.",
+      "translation": "Том съел жука.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_4",
+      "word": "Tom is working as a software engineer.",
+      "translation": "Том работает инженером-программистом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_5",
+      "word": "She showed him how to use the new software.",
+      "translation": "Она показала ему, как пользоваться новым ПО.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_6",
+      "word": "We are apt to watch television, irrespective of what program is on.",
+      "translation": "Мы настроены смотреть телевизор вне зависимости от того, что там показывают.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_7",
+      "word": "Where's my folder?",
+      "translation": "Где моя папка?",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_8",
+      "word": "Have you seen this file?",
+      "translation": "Ты видел эту папку?",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_9",
+      "word": "A bug bit me.",
+      "translation": "Меня какое-то насекомое укусило.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_10",
+      "word": "One error was fixed, but the other was not.",
+      "translation": "Одну ошибку исправили, а вторую нет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_11",
+      "word": "Tom's eyes widened in terror.",
+      "translation": "Глаза Тома расширились от ужаса.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_12",
+      "word": "Don't delete this file.",
+      "translation": "Не удаляйте этот файл.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_13",
+      "word": "The TV program seemed very interesting.",
+      "translation": "Телепрограмма казалась очень интересной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_14",
+      "word": "Tom is learning programming.",
+      "translation": "Том учится программированию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_15",
+      "word": "Do you know how to program?",
+      "translation": "Вы умеете программировать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_16",
+      "word": "An update is available.",
+      "translation": "Доступно обновление.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_17",
+      "word": "Tom screamed in terror.",
+      "translation": "Том в ужасе вскрикнул.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_18",
+      "word": "I can't break this code.",
+      "translation": "Я не могу сломать этот код.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_19",
+      "word": "I'd like to file a complaint.",
+      "translation": "Я бы хотел написать жалобу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_20",
+      "word": "This is an error.",
+      "translation": "Это ошибка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_21",
+      "word": "Do you know how to recover a deleted file?",
+      "translation": "Ты знаешь, как восстановить удалённый файл?",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_22",
+      "word": "That was a fundamental error.",
+      "translation": "Это была фундаментальная ошибка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_23",
+      "word": "I copied the file.",
+      "translation": "Я скопировал файл.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_24",
+      "word": "Tom renamed the folder.",
+      "translation": "Том переименовал папку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_25",
+      "word": "The update is being installed.",
+      "translation": "Обновление устанавливается.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_26",
+      "word": "Tom fixed the bug.",
+      "translation": "Том пофиксил баг.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_27",
+      "word": "That was an unforgivable error.",
+      "translation": "Это была непростительная ошибка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_28",
+      "word": "I will give you a large folder.",
+      "translation": "Я дам тебе большую папку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_29",
+      "word": "The file is corrupt.",
+      "translation": "Файл повреждён.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_30",
+      "word": "This file is encrypted.",
+      "translation": "Этот файл зашифрован.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_31",
+      "word": "Do you know the code?",
+      "translation": "Ты знаешь код?",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_32",
+      "word": "Here's the file.",
+      "translation": "Вот файл.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_33",
+      "word": "Everybody laughed at his error.",
+      "translation": "Все смеялись над его ошибкой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_34",
+      "word": "Tom thought Mary knew how to program in Python, JavaScript and Perl.",
+      "translation": "Том думал, что Мэри умеет программировать на Python, JavaScript и Perl.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_35",
+      "word": "How often do you edit your profile?",
+      "translation": "Как часто вы редактируете свой профиль?",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_36",
+      "word": "I reviewed the file.",
+      "translation": "Я пересмотрел файл.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_37",
+      "word": "What programming languages do you know?",
+      "translation": "Какие языки программирования вы знаете?",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_38",
+      "word": "This code needs to be rewritten.",
+      "translation": "Этот код надо переписать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_39",
+      "word": "I need a video editing program.",
+      "translation": "Мне нужна программа для редактирования видео.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_40",
+      "word": "This sentence contains an error.",
+      "translation": "В этом предложении есть ошибка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_41",
+      "word": "I made a typing error.",
+      "translation": "Я опечатался.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_42",
+      "word": "Can you program in Python?",
+      "translation": "Ты умеешь программировать на Пайтоне?",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_43",
+      "word": "It's not going to be easy to decode.",
+      "translation": "Это будет нелегко расшифровать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_44",
+      "word": "There was an error in your calculations.",
+      "translation": "В ваших расчётах была ошибка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_45",
+      "word": "We'll install spotlights.",
+      "translation": "Будем ставить прожектора.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_46",
+      "word": "I renamed the file.",
+      "translation": "Я переименовал файл.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_47",
+      "word": "I don't like this program.",
+      "translation": "Мне не нравится эта программа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_48",
+      "word": "This program has both downloading and uploading capabilities.",
+      "translation": "Эта программа имеет как возможности для скачивания, так и для закачивания.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_0_49",
+      "word": "The program starts at nine o'clock.",
+      "translation": "Программа начинается в девять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_0",
+      "word": "It isn't going to be easy to decode.",
+      "translation": "Это будет нелегко расшифровать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_1",
+      "word": "Tom quickly realized his error.",
+      "translation": "Том быстро понял свою ошибку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_2",
+      "word": "I'll see if Tom knows how to program in JavaScript.",
+      "translation": "Я посмотрю, умеет ли Том программировать на языке JavaScript.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_3",
+      "word": "A new update is available.",
+      "translation": "Доступно новое обновление.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_4",
+      "word": "I keep getting error messages.",
+      "translation": "У меня всё время появляются сообщения об ошибке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_5",
+      "word": "This is an error common among Japanese students.",
+      "translation": "Это распространённая ошибка среди японских студентов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_6",
+      "word": "Keep a low profile.",
+      "translation": "Держись в тени.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_7",
+      "word": "How can I compress a PDF file?",
+      "translation": "Как можно сжать ПДФ-файл?",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_8",
+      "word": "The file has been sent.",
+      "translation": "Файл отправлен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_9",
+      "word": "Bring me that folder.",
+      "translation": "Принесите мне эту папку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_10",
+      "word": "It's a feature, not a bug.",
+      "translation": "Это не баг, а фича.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_11",
+      "word": "Look in your spam folder.",
+      "translation": "Посмотри в спаме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_12",
+      "word": "In which folder did you save the file?",
+      "translation": "В какой папке ты сохранил файл?",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_13",
+      "word": "That was an error.",
+      "translation": "Это была ошибка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_14",
+      "word": "Have you installed any antivirus software?",
+      "translation": "Ты установил антивирус?",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_15",
+      "word": "Don't forget to write the zip code.",
+      "translation": "Не забудь написать индекс.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_16",
+      "word": "The file won't open.",
+      "translation": "Файл не открывается.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_17",
+      "word": "I swallowed a bug.",
+      "translation": "Я букашку проглотил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_18",
+      "word": "The file cabinet drawers are open.",
+      "translation": "Открыты ящики картотечного шкафа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_19",
+      "word": "That is sold at hardware stores.",
+      "translation": "Это продаётся в хозяйственных магазинах.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_20",
+      "word": "What's your favorite free software application?",
+      "translation": "Какое твоё любимое бесплатное приложение?",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_21",
+      "word": "I'm going to file a complaint.",
+      "translation": "Я буду жаловаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_22",
+      "word": "The program could not be compiled, due to a syntax error.",
+      "translation": "Программа не могла скомпилироваться из-за синтаксической ошибки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_23",
+      "word": "It's a good program.",
+      "translation": "Это хорошая программа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_24",
+      "word": "If it annoys you so much, file a complaint.",
+      "translation": "Если это вам так не нравится, подайте жалобу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_25",
+      "word": "The folder is empty.",
+      "translation": "Папка пустая.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_26",
+      "word": "Do you know Morse code?",
+      "translation": "Ты знаешь азбуку Морзе?",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_27",
+      "word": "It's not an error.",
+      "translation": "Это не ошибка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_28",
+      "word": "That's a trivial error.",
+      "translation": "Это банальная ошибка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_29",
+      "word": "Copy this file.",
+      "translation": "Скопируй этот файл.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_30",
+      "word": "Finding a solution that worked was a process of trial and error.",
+      "translation": "Поиск рабочего решения проходил методом проб и ошибок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_31",
+      "word": "This software is free.",
+      "translation": "Это программное обеспечение бесплатное.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_32",
+      "word": "What's in the file?",
+      "translation": "Что в файле?",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_33",
+      "word": "At last, he realized his error.",
+      "translation": "В конце концов, он понял свою ошибку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_34",
+      "word": "Tom got good at programming in JavaScript.",
+      "translation": "Том научился хорошо программировать на JavaScript.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_35",
+      "word": "I wrote a program in C.",
+      "translation": "Я написал программу на языке C.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_36",
+      "word": "Tom reinstalled the software that had accidentally been deleted.",
+      "translation": "Том переустановил программу, которую случайно удалил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_37",
+      "word": "Tom doesn't know the first thing about programming.",
+      "translation": "Том ни бум-бум в программировании.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_38",
+      "word": "This TV program is really quite interesting.",
+      "translation": "Эта телепрограмма в самом деле довольно интересная.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_39",
+      "word": "Tom made a serious error.",
+      "translation": "Том совершил серьёзную ошибку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_40",
+      "word": "I haven't downloaded the file yet.",
+      "translation": "Я ещё не скачал файл.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_41",
+      "word": "It was determined that the plane crashed due to pilot error.",
+      "translation": "Было установлено, что самолёт разбился из-за ошибки пилота.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_42",
+      "word": "That's not a bug. It's a feature.",
+      "translation": "Это не баг, это фича.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_43",
+      "word": "The program gets upgraded regularly.",
+      "translation": "Программа регулярно обновляется.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_44",
+      "word": "Tom squashed the bug.",
+      "translation": "Том раздавил жука.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_45",
+      "word": "Let's install some spotlights.",
+      "translation": "Установим несколько прожекторов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_46",
+      "word": "I hope you enjoyed our program.",
+      "translation": "Надеюсь, вам понравилась наша программа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_47",
+      "word": "Who deleted the file?",
+      "translation": "Кто удалил файл?",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_48",
+      "word": "The students walked in a single file.",
+      "translation": "Ученики шли гуськом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_1_49",
+      "word": "The bug is still alive.",
+      "translation": "Жук всё ещё жив.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_0",
+      "word": "I'll update the list.",
+      "translation": "Я обновлю список.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_1",
+      "word": "I don't know anything about programming.",
+      "translation": "Я ничего не понимаю в программировании.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_2",
+      "word": "You made an error.",
+      "translation": "Ты совершил ошибку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_3",
+      "word": "How do I open a file?",
+      "translation": "Как мне открыть файл?",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_4",
+      "word": "All employees had to memorize the access code.",
+      "translation": "Все сотрудники должны были запомнить код доступа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_5",
+      "word": "Where's Tom's file?",
+      "translation": "Где документ Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_6",
+      "word": "Do you have the most recent version of this software?",
+      "translation": "У вас есть самая последняя версия этой программы?",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_7",
+      "word": "The man tried to install his own antenna.",
+      "translation": "Мужчина попробовал установить свою собственную антенну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_8",
+      "word": "The addition is correct, but there is an error in your subtraction.",
+      "translation": "Сложение правильно, но в вычитании есть ошибка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_9",
+      "word": "What's this folder for?",
+      "translation": "Для чего эта папка?",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_10",
+      "word": "He looks like a bug.",
+      "translation": "Он похож на жука.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_11",
+      "word": "There is an urgent need for them to update their system.",
+      "translation": "Им срочно нужно обновить свою систему.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_12",
+      "word": "I cracked the code.",
+      "translation": "Я взломал код.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_13",
+      "word": "An error was made.",
+      "translation": "Была допущена ошибка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_14",
+      "word": "I'm having some problems compiling this software.",
+      "translation": "Мне не удаётся скомпилировать эту программу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_15",
+      "word": "The bug has been fixed.",
+      "translation": "Баг был исправлен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_16",
+      "word": "The program will finish with the national anthem.",
+      "translation": "Программа закончится исполнением национального гимна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_17",
+      "word": "Give me the file.",
+      "translation": "Дай мне этот файл.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_18",
+      "word": "Tom made a strategic error.",
+      "translation": "Том совершил стратегическую ошибку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_19",
+      "word": "I've discovered a serious error.",
+      "translation": "Я обнаружил серьезную ошибку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_20",
+      "word": "I don't watch that program anymore.",
+      "translation": "Я эту передачу больше не смотрю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_21",
+      "word": "I've seen your file.",
+      "translation": "Я смотрел твоё досье.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_22",
+      "word": "What's your favorite programming language?",
+      "translation": "Какой твой любимый язык программирования?",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_23",
+      "word": "That isn't a bug. It's a feature.",
+      "translation": "Это не ошибка.Это особенность.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_24",
+      "word": "The code cannot be cracked.",
+      "translation": "Этот код не может быть взломан.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_25",
+      "word": "A list of required hardware is available here.",
+      "translation": "Список требуемого оборудования доступен здесь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_26",
+      "word": "I have your file.",
+      "translation": "Твой файл у меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_27",
+      "word": "Tom renamed the file.",
+      "translation": "Том переименовал файл.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_28",
+      "word": "FORTRAN is a programming language.",
+      "translation": "FORTRAN - язык программирования.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_29",
+      "word": "How can I update this software?",
+      "translation": "Как мне обновить эту программу?",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_30",
+      "word": "I'm a shutterbug.",
+      "translation": "Я фотограф-любитель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_31",
+      "word": "Can you program in C?",
+      "translation": "Ты умеешь программировать на C?",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_32",
+      "word": "It's not a bug. It's a feature.",
+      "translation": "Это не баг, а фича.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_33",
+      "word": "Tom corrected the error.",
+      "translation": "Том исправил ошибку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_34",
+      "word": "She screamed with terror.",
+      "translation": "Она вскрикнула от ужаса.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_35",
+      "word": "I've seen the error of my ways.",
+      "translation": "Я осознал свои ошибки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_36",
+      "word": "We need to keep a low profile.",
+      "translation": "Нам надо залечь на дно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_37",
+      "word": "What's the file extension?",
+      "translation": "Какое у файла расширение?",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_38",
+      "word": "I try to keep a low profile.",
+      "translation": "Я стараюсь не привлекать к себе внимания.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_39",
+      "word": "I didn't save the file.",
+      "translation": "Я не сохранил файл.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_40",
+      "word": "Tom handed the file to Mary.",
+      "translation": "Том передал папку Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_41",
+      "word": "Tom is a software engineer.",
+      "translation": "Том — инженер-программист.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_42",
+      "word": "I didn't want to bug you.",
+      "translation": "Я не хотел вас доставать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_43",
+      "word": "I want to file a complaint.",
+      "translation": "Хочу подать жалобу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_44",
+      "word": "I've made a catastrophic error.",
+      "translation": "Я совершил катастрофическую ошибку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_45",
+      "word": "Writing code is easier than reading it.",
+      "translation": "Писать код легче, чем читать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_computerssoftware_2_46",
+      "word": "I like this program.",
+      "translation": "Мне нравится эта программа.",
+      "language": "en"
+    }
+  ]
+}

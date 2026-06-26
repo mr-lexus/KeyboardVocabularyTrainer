@@ -1,0 +1,121 @@
+.saveWordBtn {
+  &__container {
+    position: relative;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  &__button {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: none;
+    border: none;
+    color: var(--color-text-secondary);
+    cursor: pointer;
+    padding: 0.2rem;
+    border-radius: 4px;
+    transition: all 0.2s ease;
+    &:hover {
+      background-color: var(--color-bg-secondary);
+      color: var(--color-text-primary);
+    }
+  }
+
+  &__button_saved {
+    color: var(--color-accent);
+    &:hover {
+      color: var(--color-accent);
+      filter: brightness(1.1);
+    }
+  }
+
+  &__dropdown {
+    position: absolute;
+    top: 100%;
+    right: 0;
+    margin-top: 0.5rem;
+    background-color: var(--color-bg-primary);
+    border: 1px solid var(--color-border);
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+    min-width: 200px;
+    z-index: 100;
+    overflow: hidden;
+  }
+
+  &__dropdownHeader {
+    padding: 0.75rem 1rem;
+    font-size: 0.85rem;
+    font-weight: 600;
+    color: var(--color-text-secondary);
+    border-bottom: 1px solid var(--color-border);
+    background-color: var(--color-bg-secondary);
+  }
+
+  &__emptyMsg {
+    padding: 1rem;
+    font-size: 0.85rem;
+    color: var(--color-text-secondary);
+    text-align: center;
+  }
+
+  &__dictList {
+    max-height: 200px;
+    overflow-y: auto;
+    display: flex;
+    flex-direction: column;
+  }
+
+  &__dictItem {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0.75rem 1rem;
+    background: none;
+    border: none;
+    border-bottom: 1px solid var(--color-border);
+    cursor: pointer;
+    text-align: left;
+    transition: background-color 0.2s;
+    color: var(--color-text-primary);
+    &:last-child {
+      border-bottom: none;
+    }
+
+    &:hover {
+      background-color: var(--color-bg-secondary);
+      .saveWordBtn__plusIcon {
+        color: var(--color-text-primary);
+      }
+    }
+  }
+
+  &__dictItem_saved {
+    background-color: rgba(var(--color-accent-rgb), 0.1);
+    &:hover {
+      background-color: rgba(var(--color-accent-rgb), 0.15);
+    }
+  }
+
+  &__dictName {
+    font-size: 0.9rem;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    flex: 1;
+    padding-right: 0.5rem;
+  }
+
+  &__checkIcon {
+    color: var(--color-accent);
+    flex-shrink: 0;
+  }
+
+  &__plusIcon {
+    color: var(--color-text-secondary);
+    flex-shrink: 0;
+  }
+}

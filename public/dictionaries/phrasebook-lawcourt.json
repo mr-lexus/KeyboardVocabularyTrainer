@@ -1,0 +1,727 @@
+{
+  "id": "phrasebook-lawcourt",
+  "name": "Law & Court",
+  "description": "Phrasebook for Law & Court",
+  "entries": [
+    {
+      "id": "pb_lawcourt_0_0",
+      "word": "Western countries are jumping on Japan for its stance on the issue.",
+      "translation": "Западные страны набрасываются на Японию за её позицию по этому вопросу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_1",
+      "word": "This is a weird sentence.",
+      "translation": "Это - странное предложение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_2",
+      "word": "This sentence isn't French.",
+      "translation": "Это не французское предложение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_3",
+      "word": "That's the issue.",
+      "translation": "Вот в чем проблема.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_4",
+      "word": "That is an incomplete sentence.",
+      "translation": "Это неполное предложение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_5",
+      "word": "This sentence has errors.",
+      "translation": "В этом предложении есть ошибки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_6",
+      "word": "Translate this sentence.",
+      "translation": "Переведите это предложение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_7",
+      "word": "If I were Tom, I'd sue them.",
+      "translation": "На месте Тома я бы подал на них в суд.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_8",
+      "word": "I'll sue Tom.",
+      "translation": "Я подам на Тома в суд.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_9",
+      "word": "I called my attorney.",
+      "translation": "Я позвонил моему адвокату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_10",
+      "word": "This is a complicated issue.",
+      "translation": "Это сложное дело.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_11",
+      "word": "It was an unjust sentence.",
+      "translation": "Это был несправедливый приговор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_12",
+      "word": "The period is missing at the end of the sentence.",
+      "translation": "В конце предложения не хватает точки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_13",
+      "word": "Thanks for reporting the issue.",
+      "translation": "Спасибо за сообщение о проблеме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_14",
+      "word": "I've decided not to sue you.",
+      "translation": "Я решил не судиться с вами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_15",
+      "word": "What's the meaning of this sentence?",
+      "translation": "Что означает это предложение?",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_16",
+      "word": "I've been given a death sentence.",
+      "translation": "Меня приговорили к смертной казни.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_17",
+      "word": "Translate this sentence into French.",
+      "translation": "Переведи это предложение на французский.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_18",
+      "word": "The sentence is free from grammatical mistakes.",
+      "translation": "В этом предложении нет грамматических ошибок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_19",
+      "word": "Tom deleted the sentence and rewrote it.",
+      "translation": "Том удалил предложение и переписал его.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_20",
+      "word": "Translating this sentence will be very easy.",
+      "translation": "Перевести это предложение будет очень легко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_21",
+      "word": "Translate this sentence into English.",
+      "translation": "Переведи это предложение на английский язык.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_22",
+      "word": "A sentence normally has a subject and a verb.",
+      "translation": "Обычно в предложении есть подлежащее и сказуемое.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_23",
+      "word": "This is a strange sentence.",
+      "translation": "Это - странное предложение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_24",
+      "word": "Tom is now serving a life sentence.",
+      "translation": "Том сейчас отбывает пожизненный срок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_25",
+      "word": "This sentence has five words.",
+      "translation": "В этом предложении пять слов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_26",
+      "word": "I'll sue you.",
+      "translation": "Я на тебя в суд подам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_27",
+      "word": "Let's sue Tom.",
+      "translation": "Давай подадим на Тома в суд.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_28",
+      "word": "Make this sentence a little shorter.",
+      "translation": "Сделайте это предложение немного короче.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_29",
+      "word": "I want to sue Tom.",
+      "translation": "Я хочу подать на Тома в суд.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_30",
+      "word": "This sentence contains several mistakes.",
+      "translation": "Это предложение содержит несколько ошибок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_31",
+      "word": "This sentence is ambiguous.",
+      "translation": "Это предложение двусмысленное.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_32",
+      "word": "This is an easy sentence.",
+      "translation": "Это простое предложение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_33",
+      "word": "Tom hired an attorney.",
+      "translation": "Том нанял адвоката.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_34",
+      "word": "There are no grammatical mistakes in this sentence.",
+      "translation": "В этом предложении нет грамматических ошибок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_35",
+      "word": "I can't translate this sentence.",
+      "translation": "Я не могу перевести это предложение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_36",
+      "word": "Translate the following sentence.",
+      "translation": "Переведите следующее предложение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_37",
+      "word": "Give Tom a tissue.",
+      "translation": "Дай Тому бумажную салфетку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_38",
+      "word": "He is serving a three-year sentence for burglary.",
+      "translation": "Он отбывает трёхлетний срок за кражу со взломом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_39",
+      "word": "I don't know what this sentence means.",
+      "translation": "Я не знаю, что означает данное предложение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_40",
+      "word": "Is this sentence correct?",
+      "translation": "Это предложение правильное?",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_41",
+      "word": "Could you tell me what this sentence means?",
+      "translation": "Ты можешь сказать мне, что значит это предложение?",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_42",
+      "word": "Could you translate this sentence for me?",
+      "translation": "Вы не могли бы перевести для меня это предложение?",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_43",
+      "word": "I want an attorney.",
+      "translation": "Мне нужен адвокат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_44",
+      "word": "I don't want to translate that sentence.",
+      "translation": "Я не хочу переводить это предложение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_45",
+      "word": "That's not an issue.",
+      "translation": "Это не проблема.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_46",
+      "word": "Could you translate this sentence?",
+      "translation": "Вы не могли бы перевести это предложение?",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_47",
+      "word": "If found guilty, Tom faces a life sentence.",
+      "translation": "Если Том будет признан виновным, ему грозит пожизненное заключение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_48",
+      "word": "Give me a tissue.",
+      "translation": "Дай мне салфетку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_0_49",
+      "word": "Tom was given a six-month suspended sentence.",
+      "translation": "Тома приговорили к шести месяцам условно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_0",
+      "word": "It's a very serious issue.",
+      "translation": "Это очень серьёзный вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_1",
+      "word": "She doesn't want me to speak about this issue.",
+      "translation": "Она не хочет, чтобы я говорил об этом деле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_2",
+      "word": "Complete the sentence.",
+      "translation": "Дополните предложение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_3",
+      "word": "Tom erased the sentence and rewrote it.",
+      "translation": "Том стёр предложение и переписал его.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_4",
+      "word": "This sentence has various meanings.",
+      "translation": "Это предложение имеет различные значения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_5",
+      "word": "This is not a sentence.",
+      "translation": "Это не предложение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_6",
+      "word": "It's a safety issue.",
+      "translation": "Это вопрос безопасности.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_7",
+      "word": "This sentence hasn't yet been translated.",
+      "translation": "Это предложение ещё не перевели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_8",
+      "word": "This sentence is grammatically correct.",
+      "translation": "Это предложение грамматически верно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_9",
+      "word": "There was a trial.",
+      "translation": "Был суд.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_10",
+      "word": "It's a very difficult issue.",
+      "translation": "Это очень сложный вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_11",
+      "word": "That's a strange sentence.",
+      "translation": "Это странное предложение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_12",
+      "word": "This is a very complex issue.",
+      "translation": "Это очень сложный вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_13",
+      "word": "I'm unable to translate this sentence.",
+      "translation": "Я не могу перевести это предложение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_14",
+      "word": "This sentence can be translated in several ways.",
+      "translation": "Это предложение можно перевести разными способами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_15",
+      "word": "Tom will sue Mary.",
+      "translation": "Том подаст в суд на Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_16",
+      "word": "Tom won't sue you.",
+      "translation": "Том не будет подавать на тебя в суд.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_17",
+      "word": "That's not a complete sentence.",
+      "translation": "Это неполное предложение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_18",
+      "word": "This sentence is not French.",
+      "translation": "Это предложение не на французском.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_19",
+      "word": "I would prefer any alternative to a lawsuit.",
+      "translation": "Я предпочту любую альтернативу судебному процессу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_20",
+      "word": "Who is the plaintiff in this trial?",
+      "translation": "Кто является истцом на данном процессе?",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_21",
+      "word": "That isn't the main issue.",
+      "translation": "Это не главная проблема.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_22",
+      "word": "I will testify.",
+      "translation": "Я дам показания.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_23",
+      "word": "A rebuttal will be published in the next issue.",
+      "translation": "В следующем номере выйдет опровержение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_24",
+      "word": "The sentence doesn't have any grammatical errors.",
+      "translation": "В этом предложении нет грамматических ошибок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_25",
+      "word": "I will sue you.",
+      "translation": "Я тебя засужу!",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_26",
+      "word": "Did you sue Tom?",
+      "translation": "Ты подал на Тома в суд?",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_27",
+      "word": "This sentence doesn't make sense.",
+      "translation": "Эта фраза не имеет смысла.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_28",
+      "word": "This is a very serious issue.",
+      "translation": "Это очень серьёзная проблема.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_29",
+      "word": "What is the shortest complete sentence in the English language?",
+      "translation": "Какое самое короткое полное предложение в английском языке?",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_30",
+      "word": "Tom is going to sue you.",
+      "translation": "Том подаст на тебя в суд.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_31",
+      "word": "I don't want to testify against Tom.",
+      "translation": "Я не хочу давать показания против Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_32",
+      "word": "You forgot to put a period at the end of the sentence.",
+      "translation": "Вы забыли поставить точку в конце предложения.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_33",
+      "word": "There is no need for a comma in this sentence.",
+      "translation": "В этом предложении не нужна запятая.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_34",
+      "word": "Does Tom have an attorney?",
+      "translation": "У Тома есть адвокат?",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_35",
+      "word": "What does this sentence mean?",
+      "translation": "Что означает эта фраза?",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_36",
+      "word": "I'm an attorney.",
+      "translation": "Я адвокат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_37",
+      "word": "Tom was charged with perjury.",
+      "translation": "Том был обвинён в лжесвидетельстве.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_38",
+      "word": "You can't force me to testify against Tom.",
+      "translation": "Вы не можете заставить меня свидетельствовать против Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_39",
+      "word": "Tom is serving a life sentence.",
+      "translation": "Том отбывает пожизненное заключение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_40",
+      "word": "Tom will miss the Olympics due to his injury.",
+      "translation": "Том пропустит Олимпийские игры из-за травмы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_41",
+      "word": "This sentence seems to be grammatically correct.",
+      "translation": "Это предложение кажется грамматически правильным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_42",
+      "word": "That's a touchy issue.",
+      "translation": "Это щекотливый вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_43",
+      "word": "This sentence needs to be checked.",
+      "translation": "Это предложение нужно проверить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_44",
+      "word": "I don't want to sue Tom.",
+      "translation": "Я не хочу подавать в суд на Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_45",
+      "word": "Could you clarify the meaning of your sentence for me?",
+      "translation": "Вы не могли бы прояснить для меня смысл своего предложения?",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_46",
+      "word": "There shouldn't be any commas in this sentence.",
+      "translation": "В этом предложении не должно быть никаких запятых.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_47",
+      "word": "Repeat each sentence after me.",
+      "translation": "Повторяй за мной каждое предложение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_48",
+      "word": "This sentence is fine.",
+      "translation": "Это предложение прекрасно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_1_49",
+      "word": "The meaning of this sentence is ambiguous.",
+      "translation": "У этого предложения двоякий смысл.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_2_0",
+      "word": "I'm not able to translate this sentence.",
+      "translation": "Я не могу перевести это предложение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_2_1",
+      "word": "None of the passengers escaped injury.",
+      "translation": "Никто из пассажиров не избежал травм.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_2_2",
+      "word": "I'm not going to sue you.",
+      "translation": "Я не буду подавать на вас в суд.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_2_3",
+      "word": "The jury hasn't reached a verdict yet.",
+      "translation": "Присяжные ещё не вынесли вердикт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_2_4",
+      "word": "Did Tom give you power of attorney?",
+      "translation": "Том дал тебе доверенность?",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_2_5",
+      "word": "You've touched on an important issue.",
+      "translation": "Вы затронули важный вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_2_6",
+      "word": "Can anyone translate this sentence?",
+      "translation": "Кто-нибудь может перевести это предложение?",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_2_7",
+      "word": "How many verbs are there in this sentence?",
+      "translation": "Сколько глаголов в этом предложении?",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_2_8",
+      "word": "I didn't want to testify against Tom.",
+      "translation": "Я не хотел свидетельствовать против Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_2_9",
+      "word": "He had refused to compromise on the issue.",
+      "translation": "Он отказался идти на компромисс по этому вопросу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_2_10",
+      "word": "You have to memorize this sentence.",
+      "translation": "Ты должен запомнить это предложение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_2_11",
+      "word": "A rebuttal will be printed in the next issue.",
+      "translation": "В следующем номере будет напечатано опровержение.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_2_12",
+      "word": "Tom will sue you.",
+      "translation": "Том подаст на тебя в суд.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_2_13",
+      "word": "This sentence can be interpreted in two ways.",
+      "translation": "Это предложение можно перевести двумя способами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_2_14",
+      "word": "Tom's sentence was 25 hours of community service.",
+      "translation": "Тома приговорили к 25 часам общественных работ.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_2_15",
+      "word": "It took me two hours to memorize this sentence.",
+      "translation": "У меня два часа ушло на то, чтобы запомнить эту фразу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_2_16",
+      "word": "Tom stopped reading mid-sentence.",
+      "translation": "Том прервал чтение на полуслове.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_2_17",
+      "word": "Is this a sentence?",
+      "translation": "Это предложение?",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_2_18",
+      "word": "Make a sentence with each of these words.",
+      "translation": "Составь предложение с каждым из этих слов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_lawcourt_2_19",
+      "word": "Tom is serving a life sentence now.",
+      "translation": "Том сейчас отбывает пожизненный срок.",
+      "language": "en"
+    }
+  ]
+}

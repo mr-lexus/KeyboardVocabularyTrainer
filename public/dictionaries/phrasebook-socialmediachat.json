@@ -1,0 +1,3007 @@
+{
+  "id": "phrasebook-socialmediachat",
+  "name": "Social Media & Chat",
+  "description": "Phrasebook for Social Media & Chat",
+  "entries": [
+    {
+      "id": "pb_socialmediachat_0_0",
+      "word": "He wants a watch like yours.",
+      "translation": "Он хочет часы, как у тебя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_1",
+      "word": "I like him very much.",
+      "translation": "Он мне очень нравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_2",
+      "word": "You can't die like this.",
+      "translation": "Ты не можешь вот так умереть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_3",
+      "word": "I've been looking for a girl like you.",
+      "translation": "Я искал девушку, похожую на тебя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_4",
+      "word": "I like you a lot, Tom.",
+      "translation": "Ты мне очень нравишься, Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_5",
+      "word": "Why do you like Boston?",
+      "translation": "За что ты любишь Бостон?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_6",
+      "word": "It looks like a tadpole.",
+      "translation": "Это похоже на головастика.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_7",
+      "word": "I like movies a lot.",
+      "translation": "Я обожаю кино.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_8",
+      "word": "You aren't like the others.",
+      "translation": "Ты не такой, как другие.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_9",
+      "word": "Tom told us to follow him.",
+      "translation": "Том сказал нам, чтобы мы шли за ним.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_10",
+      "word": "I don't like reading.",
+      "translation": "Я не люблю читать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_11",
+      "word": "I know you like sports.",
+      "translation": "Я знаю, что тебе нравится спорт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_12",
+      "word": "What else do you like?",
+      "translation": "Что ещё тебе нравится?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_13",
+      "word": "You'll like Australia.",
+      "translation": "Австралия тебе понравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_14",
+      "word": "Does Tom like broccoli?",
+      "translation": "Том любит брокколи?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_15",
+      "word": "Do you like tortellini?",
+      "translation": "Ты любишь тортеллини?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_16",
+      "word": "I would like an apple.",
+      "translation": "Я бы хотел яблоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_17",
+      "word": "I just don't like you.",
+      "translation": "Ты просто мне не нравишься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_18",
+      "word": "I like to chew tobacco.",
+      "translation": "Мне нравится жевать табак.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_19",
+      "word": "I like your mirrors.",
+      "translation": "Мне нравятся твои зеркала.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_20",
+      "word": "I'd like a popsicle.",
+      "translation": "Я бы хотел мороженое на палочке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_21",
+      "word": "I heard you don't like Tom.",
+      "translation": "Я слышал, Том тебе не нравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_22",
+      "word": "Does Tom like anchovies?",
+      "translation": "Том любит анчоусы?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_23",
+      "word": "Do you like watching sports?",
+      "translation": "Вы любите смотреть спорт?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_24",
+      "word": "Does Tom like strawberries?",
+      "translation": "Том любит клубнику?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_25",
+      "word": "Are they all like this?",
+      "translation": "Они все такие?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_26",
+      "word": "None of us like Tom.",
+      "translation": "Никому из нас не нравится Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_27",
+      "word": "I like bread more than rice.",
+      "translation": "Я люблю хлеб больше риса.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_28",
+      "word": "I like speaking French.",
+      "translation": "Мне нравится говорить по-французски.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_29",
+      "word": "Do you like doing this?",
+      "translation": "Тебе нравится это делать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_30",
+      "word": "She felt like dancing.",
+      "translation": "Ей захотелось танцевать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_31",
+      "word": "I used to be like Tom.",
+      "translation": "Когда-то я был таким же, как Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_32",
+      "word": "Do you like figure skating?",
+      "translation": "Вы любите фигурное катание?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_33",
+      "word": "Why don't you like me?",
+      "translation": "Почему я тебе не нравлюсь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_34",
+      "word": "I'd like to try it on.",
+      "translation": "Я хотела бы это примерить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_35",
+      "word": "I know what they're like.",
+      "translation": "Я знаю, на что они похожи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_36",
+      "word": "Do you like surfing?",
+      "translation": "Вам нравится сёрфинг?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_37",
+      "word": "I really do like you a lot.",
+      "translation": "Ты мне правда очень нравишься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_38",
+      "word": "Just follow my lead.",
+      "translation": "Просто следуйте моему примеру.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_39",
+      "word": "Tom doesn't like cats.",
+      "translation": "Том не любит кошек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_40",
+      "word": "You're just like them.",
+      "translation": "Ты такой же, как они.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_41",
+      "word": "Did you like Tom's singing?",
+      "translation": "Тебе понравилось, как Том пел?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_42",
+      "word": "I like helping people.",
+      "translation": "Мне нравится помогать людям.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_43",
+      "word": "What's Tom look like?",
+      "translation": "Как Том выглядит?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_44",
+      "word": "I really like this one.",
+      "translation": "Мне очень нравится этот.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_45",
+      "word": "A lot of people like Tom.",
+      "translation": "Том многим нравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_46",
+      "word": "I don't like running.",
+      "translation": "Мне не нравится бегать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_47",
+      "word": "You like fruit, don't you?",
+      "translation": "Ты же любишь фрукты?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_48",
+      "word": "I don't like big desk lamps.",
+      "translation": "Мне не нравятся большие настольные лампы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_0_49",
+      "word": "Women like Tom and me.",
+      "translation": "Женщины нас с Томом любят.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_0",
+      "word": "He will follow my advice.",
+      "translation": "Он последует моему совету.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_1",
+      "word": "I like going for walks.",
+      "translation": "Я люблю ходить гулять.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_2",
+      "word": "I'd like you to try.",
+      "translation": "Я хотел бы, чтобы ты попробовал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_3",
+      "word": "I like your cookies.",
+      "translation": "Мне нравится твоё печенье.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_4",
+      "word": "Tom would like to see Mary.",
+      "translation": "Том хотел бы видеть Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_5",
+      "word": "Both Tom and I like sports.",
+      "translation": "Мы с Томом оба любим спорт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_6",
+      "word": "I share your feelings.",
+      "translation": "Я разделяю твои чувства.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_7",
+      "word": "Some people like it.",
+      "translation": "Некоторым людям нравится это.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_8",
+      "word": "It looks like a duck.",
+      "translation": "Похоже на утку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_9",
+      "word": "You used to like me.",
+      "translation": "Я раньше нравился тебе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_10",
+      "word": "You're acting like a baby.",
+      "translation": "Ты ведёшь себя как ребёнок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_11",
+      "word": "Do you like mussels?",
+      "translation": "Вам нравятся мидии?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_12",
+      "word": "Did you like my dancing?",
+      "translation": "Тебе понравилось, как я танцую?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_13",
+      "word": "I really like robots.",
+      "translation": "Мне очень нравятся роботы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_14",
+      "word": "You and I are a lot alike.",
+      "translation": "Мы с тобой во многом похожи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_15",
+      "word": "Why do you like Boston so much?",
+      "translation": "Почему ты так любишь Бостон?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_16",
+      "word": "It seems like a lifetime ago.",
+      "translation": "Кажется, что это было давным-давно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_17",
+      "word": "I don't like being alone.",
+      "translation": "Я не люблю быть одна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_18",
+      "word": "I thought you said that you didn't like fishing.",
+      "translation": "Ты вроде говорил, что не любишь рыбалку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_19",
+      "word": "Tom doesn't seem to like playing chess.",
+      "translation": "Тому, похоже, не нравится играть в шахматы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_20",
+      "word": "She felt like crying.",
+      "translation": "Ей хотелось плакать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_21",
+      "word": "How did you like Boston?",
+      "translation": "Как тебе Бостон?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_22",
+      "word": "I thought you didn't like Tom anymore.",
+      "translation": "Я думал, Том тебе уже не нравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_23",
+      "word": "You like to take pictures, don't you?",
+      "translation": "Вы любите фотографировать, да?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_24",
+      "word": "Do you like to see animals at the zoo?",
+      "translation": "Тебе нравится смотреть на животных в зоопарке?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_25",
+      "word": "Do you like your classmates?",
+      "translation": "Тебе нравятся твои одноклассники?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_26",
+      "word": "Why do you like doing this?",
+      "translation": "Почему тебе нравится это занятие?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_27",
+      "word": "I don't like grapes.",
+      "translation": "Я не люблю виноград.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_28",
+      "word": "Zoos are like prisons for animals.",
+      "translation": "Зоопарки для животных как тюрьмы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_29",
+      "word": "I just wanted to see what it was like.",
+      "translation": "Я просто хотел посмотреть, на что это похоже.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_30",
+      "word": "I don't know what Tom looks like now.",
+      "translation": "Я не знаю, как Том сейчас выглядит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_31",
+      "word": "To be honest, I don't like you at all.",
+      "translation": "Честно говоря, ты мне совсем не нравишься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_32",
+      "word": "Tom looks like a girl.",
+      "translation": "Том похож на девочку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_33",
+      "word": "I really like your eyes.",
+      "translation": "Мне очень нравятся твои глаза.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_34",
+      "word": "You're just like us.",
+      "translation": "Ты совсем как мы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_35",
+      "word": "Tom had no choice but to follow Mary.",
+      "translation": "У Тома не оставалось выбора, кроме как следовать за Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_36",
+      "word": "I like all of these.",
+      "translation": "Мне все эти нравятся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_37",
+      "word": "Do you like teaching?",
+      "translation": "Тебе нравится преподавать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_38",
+      "word": "Tom won't like that answer.",
+      "translation": "Тому не понравится этот ответ.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_39",
+      "word": "Tom doesn't like Mary.",
+      "translation": "Тому не нравится Мария.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_40",
+      "word": "We need more doctors like you.",
+      "translation": "Нам нужно больше таких врачей, как вы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_41",
+      "word": "I'd like to talk about Tom.",
+      "translation": "Я бы хотел поговорить о Томе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_42",
+      "word": "Do you really like opera?",
+      "translation": "Тебе действительно нравится опера?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_43",
+      "word": "It looked like nothing was happening.",
+      "translation": "Похоже, ничего не происходило.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_44",
+      "word": "I don't want you to end up like me.",
+      "translation": "Я не хочу, чтобы ты закончил, как я.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_45",
+      "word": "She doesn't like wearing heels.",
+      "translation": "Она не любит ходить на каблуках.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_46",
+      "word": "Women don't like me.",
+      "translation": "Я не нравлюсь женщинам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_47",
+      "word": "That sounds like French.",
+      "translation": "Похоже на французский.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_48",
+      "word": "I felt like laughing.",
+      "translation": "Мне хотелось смеяться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_1_49",
+      "word": "It looks like Tom is ready.",
+      "translation": "Том, кажется, готов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_0",
+      "word": "Tom is acting like a child.",
+      "translation": "Том ведёт себя как ребёнок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_1",
+      "word": "Why do you like Australia?",
+      "translation": "Почему тебе нравится Австралия?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_2",
+      "word": "I don't see Tom as often as I'd like.",
+      "translation": "Я вижу Тома не так часто, как мне хотелось бы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_3",
+      "word": "I like strawberries.",
+      "translation": "Я люблю клубнику.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_4",
+      "word": "It wasn't like this before.",
+      "translation": "Раньше такого не было.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_5",
+      "word": "I don't like the way he speaks to me.",
+      "translation": "Мне не нравится, как он со мной разговаривает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_6",
+      "word": "I know that I won't like it in Boston.",
+      "translation": "Я знаю, что мне не понравится в Бостоне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_7",
+      "word": "Tom screamed like a woman.",
+      "translation": "Том вопил, как баба.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_8",
+      "word": "Tom walks like an old man.",
+      "translation": "Том ходит как старик.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_9",
+      "word": "Whose drawing did you like?",
+      "translation": "Чей рисунок тебе понравился?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_10",
+      "word": "Does Tom like traveling?",
+      "translation": "Том любит путешествовать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_11",
+      "word": "I like taking risks.",
+      "translation": "Я люблю рисковать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_12",
+      "word": "Have you ever seen anything like this?",
+      "translation": "Ты когда-нибудь видел что-то подобное?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_13",
+      "word": "Talk like that isn't constructive.",
+      "translation": "Подобные разговоры неконструктивны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_14",
+      "word": "Tom lives like a hermit.",
+      "translation": "Том живёт отшельником.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_15",
+      "word": "I like it when it rains.",
+      "translation": "Мне нравится, когда идёт дождь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_16",
+      "word": "I would like to discuss a few details.",
+      "translation": "Я хотел бы обсудить некоторые детали.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_17",
+      "word": "I'd like you to meet my sister, Mary.",
+      "translation": "Я бы хотела, чтобы ты познакомилась с моей сестрой, Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_18",
+      "word": "I don't like dancing.",
+      "translation": "Я не люблю танцевать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_19",
+      "word": "I know why Tom doesn't like Australia.",
+      "translation": "Я знаю, почему Тому не нравится Австралия.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_20",
+      "word": "I felt like an outsider there.",
+      "translation": "Я чувствовал себя там посторонним.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_21",
+      "word": "Do you like bears?",
+      "translation": "Тебе нравятся медведи?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_22",
+      "word": "You wouldn't like Tom.",
+      "translation": "Тебе бы Том не понравился.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_23",
+      "word": "He looks like a millionaire.",
+      "translation": "Он выглядит как миллионер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_24",
+      "word": "All of my friends like Tom.",
+      "translation": "Всем моим друзьям нравится Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_25",
+      "word": "I like to speak French.",
+      "translation": "Мне нравится говорить по-французски.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_26",
+      "word": "How do you like them apples?",
+      "translation": "Как вам такие яблоки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_27",
+      "word": "Tom won't like it in Boston.",
+      "translation": "Тому не понравится в Бостоне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_28",
+      "word": "Don't you like Tom?",
+      "translation": "Тебе не нравится Том?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_29",
+      "word": "I don't really like Boston very much.",
+      "translation": "Мне на самом деле не очень нравится Бостон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_30",
+      "word": "I don't like being spoken to that way.",
+      "translation": "Мне не нравится, когда со мной так разговаривают.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_31",
+      "word": "I really like that feeling.",
+      "translation": "Мне и правда нравится это чувство.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_32",
+      "word": "Tom doesn't like eggs.",
+      "translation": "Том не любит яйца.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_33",
+      "word": "I really like your paintings.",
+      "translation": "Мне очень нравятся ваши картины.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_34",
+      "word": "To tell the truth, I don't like him.",
+      "translation": "Честно говоря, он мне не нравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_35",
+      "word": "I don't like him.",
+      "translation": "Он мне не нравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_36",
+      "word": "Tom wasn't like most soldiers.",
+      "translation": "Том был не таким, как большинство солдатов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_37",
+      "word": "Do what you like.",
+      "translation": "Делай что хочешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_38",
+      "word": "I like to be here.",
+      "translation": "Мне нравится быть здесь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_39",
+      "word": "Frankly, I don't like it.",
+      "translation": "Честно говоря, мне это не нравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_40",
+      "word": "What's it like to be deaf?",
+      "translation": "Каково это - быть глухим?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_41",
+      "word": "I really don't like cockroaches.",
+      "translation": "Я очень не люблю тараканов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_42",
+      "word": "Tom treats me like a princess.",
+      "translation": "Том обращается со мной как с принцессой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_43",
+      "word": "Which bicycle do you like more?",
+      "translation": "Какой велосипед тебе больше нравится?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_44",
+      "word": "It's what I like.",
+      "translation": "Это то, что мне нравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_45",
+      "word": "Tom talks like an old man.",
+      "translation": "Том говорит, как старик.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_46",
+      "word": "I thought that you wouldn't like it.",
+      "translation": "Я подумал, тебе не понравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_47",
+      "word": "Tom walks like a zombie.",
+      "translation": "Том ходит как зомби.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_48",
+      "word": "I don't like dirty jokes.",
+      "translation": "Я не люблю грязные шутки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_2_49",
+      "word": "I like spinach.",
+      "translation": "Я люблю шпинат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_0",
+      "word": "I like trees.",
+      "translation": "Мне нравятся деревья.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_1",
+      "word": "Does Tom know you like him?",
+      "translation": "Том знает, что он тебе нравится?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_2",
+      "word": "Nothing like that ever happened here.",
+      "translation": "Здесь ничего подобного никогда не случалось.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_3",
+      "word": "Why does Tom not like Mary?",
+      "translation": "Почему Тому не нравится Мэри?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_4",
+      "word": "I would like to do more.",
+      "translation": "Я бы хотел сделать больше.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_5",
+      "word": "Men are all alike.",
+      "translation": "Все мужчины одинаковы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_6",
+      "word": "Tom acts like he knows everything.",
+      "translation": "Том ведёт себя так, будто всё знает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_7",
+      "word": "I don't like playing poker at all.",
+      "translation": "Я вообще не люблю играть в покер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_8",
+      "word": "You'd like Tom.",
+      "translation": "Том тебе бы понравился.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_9",
+      "word": "Hold me like you used to.",
+      "translation": "Держи меня, как раньше.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_10",
+      "word": "Tom said he'd like to visit Boston.",
+      "translation": "Том сказал, что хотел бы посетить Бостон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_11",
+      "word": "You don't seem to like me.",
+      "translation": "Я тебе, похоже, не нравлюсь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_12",
+      "word": "I'd prefer not to comment on that now.",
+      "translation": "Я бы предпочёл сейчас это не комментировать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_13",
+      "word": "I rather like Tom.",
+      "translation": "Мне скорее нравится Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_14",
+      "word": "I like watermelon.",
+      "translation": "Мне нравится арбуз.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_15",
+      "word": "I'm not even going to comment.",
+      "translation": "Я даже комментировать ничего не буду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_16",
+      "word": "They like apples.",
+      "translation": "Они любят яблоки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_17",
+      "word": "Stop crying like a girl.",
+      "translation": "Перестань плакать как девчонка!",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_18",
+      "word": "I like apples more than oranges.",
+      "translation": "Яблоки мне нравятся больше, чем апельсины.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_19",
+      "word": "We've lived like this for 30 years.",
+      "translation": "Мы прожили так тридцать лет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_20",
+      "word": "I'd like to know what you mean.",
+      "translation": "Хотелось бы знать, что ты имеешь в виду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_21",
+      "word": "Does Tom like working here?",
+      "translation": "Тому нравится здесь работать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_22",
+      "word": "I like talking to you.",
+      "translation": "Мне нравится с тобой разговаривать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_23",
+      "word": "I figured Tom would like Mary.",
+      "translation": "Я посчитал, что Мэри понравится Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_24",
+      "word": "You know I don't like eggs.",
+      "translation": "Ты знаешь, что я не люблю яйца.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_25",
+      "word": "I like silence.",
+      "translation": "Я люблю тишину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_26",
+      "word": "Tom declined to comment on the matter.",
+      "translation": "Том отказался от комментариев по этому поводу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_27",
+      "word": "I know you'll like Tom.",
+      "translation": "Я знаю, что Том тебе понравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_28",
+      "word": "Tom tells it like it is.",
+      "translation": "Том говорит как есть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_29",
+      "word": "You don't look like a boxer.",
+      "translation": "Ты не похож на боксёра.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_30",
+      "word": "I knew Tom wouldn't like Mary.",
+      "translation": "Я знал, что Мэри не понравится Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_31",
+      "word": "You aren't like the other kids.",
+      "translation": "Ты не такой, как другие дети.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_32",
+      "word": "They're all alike.",
+      "translation": "Они все похожи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_33",
+      "word": "I really like you a lot.",
+      "translation": "Ты мне действительно очень нравишься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_34",
+      "word": "Tom will follow my advice.",
+      "translation": "Том последует моему совету.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_35",
+      "word": "Wherever you go, I will follow you.",
+      "translation": "Куда бы ты ни пошёл, я последую за тобой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_36",
+      "word": "I don't like artificial flowers.",
+      "translation": "Мне не нравятся искусственные цветы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_37",
+      "word": "I like to do things on my own.",
+      "translation": "Я люблю всё делать сам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_38",
+      "word": "I'd like to know why.",
+      "translation": "Хотел бы я знать почему.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_39",
+      "word": "Tom doesn't like traveling by air.",
+      "translation": "Том не любит летать самолётами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_40",
+      "word": "I like to walk in the park.",
+      "translation": "Я люблю гулять в парке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_41",
+      "word": "Tom, do you like me?",
+      "translation": "Том, я тебе нравлюсь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_42",
+      "word": "I actually like broccoli.",
+      "translation": "Вообще-то я люблю брокколи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_43",
+      "word": "I'd like to speak with Tom.",
+      "translation": "Я хотел бы поговорить с Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_44",
+      "word": "Do you like roller coasters?",
+      "translation": "Тебе нравятся американские горки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_45",
+      "word": "Tom looks like he's tense.",
+      "translation": "Том какой-то напряжённый.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_46",
+      "word": "We don't like each other very much.",
+      "translation": "Мы друг друга недолюбливаем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_47",
+      "word": "Tom treated me like a kid.",
+      "translation": "Том обращался со мной как с ребёнком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_48",
+      "word": "I'd like you to leave immediately.",
+      "translation": "Я бы хотел, чтобы вы немедленно ушли.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_3_49",
+      "word": "I'd like to become a musician.",
+      "translation": "Я хотел бы стать музыкантом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_0",
+      "word": "Do you like doing what you're doing?",
+      "translation": "Тебе нравится делать то, что ты делаешь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_1",
+      "word": "What is she like?",
+      "translation": "Какая она из себя?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_2",
+      "word": "Tom refused to follow Mary's advice.",
+      "translation": "Том отказался последовать совету Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_3",
+      "word": "How do you like your eggs done?",
+      "translation": "Как тебе яйца приготовить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_4",
+      "word": "We don't know what Jesus looked like.",
+      "translation": "Мы не знаем, как выглядел Иисус.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_5",
+      "word": "I want to look like her.",
+      "translation": "Я хочу быть похожей на неё.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_6",
+      "word": "To tell the truth, I do not like him.",
+      "translation": "Честно говоря, мне он не нравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_7",
+      "word": "I know I won't like living in Boston.",
+      "translation": "Я знаю, что мне не понравится жить в Бостоне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_8",
+      "word": "Do you mean that you don't like beer?",
+      "translation": "Ты хочешь сказать, что не любишь пиво?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_9",
+      "word": "Tom is like Mary, isn't he?",
+      "translation": "Тому ведь нравится Мэри?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_10",
+      "word": "Why don't you follow Tom's example?",
+      "translation": "Почему ты не следуешь примеру Тома?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_11",
+      "word": "I don't like the way he speaks.",
+      "translation": "Мне не нравится, как он говорит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_12",
+      "word": "I know that you're not like Tom.",
+      "translation": "Я знаю, что ты не такой, как Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_13",
+      "word": "It looks like you are from India.",
+      "translation": "Похоже, что вы из Индии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_14",
+      "word": "Do you like this tie?",
+      "translation": "Тебе нравится этот галстук?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_15",
+      "word": "You like French, don't you?",
+      "translation": "Тебе нравится французский, не так ли?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_16",
+      "word": "I like wearing long skirts.",
+      "translation": "Я люблю длинные юбки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_17",
+      "word": "It's easy to see why people like Tom.",
+      "translation": "Легко понять, за что люди любят Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_18",
+      "word": "I don't like traveling alone.",
+      "translation": "Я не люблю путешествовать одна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_19",
+      "word": "Does Tom like your new haircut?",
+      "translation": "Тому нравится твоя новая причёска?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_20",
+      "word": "We all like to ride bikes.",
+      "translation": "Всем нам нравится ездить на велосипеде.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_21",
+      "word": "You can tell Tom whatever you like.",
+      "translation": "Можешь говорить Тому что хочешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_22",
+      "word": "Tom would like to see you.",
+      "translation": "Том хотел бы тебя увидеть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_23",
+      "word": "You look like an imbecile.",
+      "translation": "Ты выглядишь как имбецил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_24",
+      "word": "I'd like to forget you.",
+      "translation": "Я хотел бы вас забыть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_25",
+      "word": "I don't like wearing vests.",
+      "translation": "Я не люблю носить жилеты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_26",
+      "word": "I don't like living here.",
+      "translation": "Мне не нравится жить здесь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_27",
+      "word": "I like that, too.",
+      "translation": "Мне тоже это нравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_28",
+      "word": "Do you like these trousers?",
+      "translation": "Тебе нравятся эти брюки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_29",
+      "word": "It looks like you're in a good mood.",
+      "translation": "Похоже, ты в хорошем настроении.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_30",
+      "word": "I don't like to go out after dark.",
+      "translation": "Не люблю гулять после того, как стемнеет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_31",
+      "word": "Don't you like cats?",
+      "translation": "Тебе не нравятся кошки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_32",
+      "word": "Tom said I looked like an old man.",
+      "translation": "Том сказал, что я выгляжу как старик.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_33",
+      "word": "Do you really not like chocolate?",
+      "translation": "Ты правда не любишь шоколад?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_34",
+      "word": "I don't like cops.",
+      "translation": "Я не люблю копов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_35",
+      "word": "How do you like Boston?",
+      "translation": "Как тебе в Бостоне?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_36",
+      "word": "I do not like him, but I like her.",
+      "translation": "Он мне не нравится, а она нравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_37",
+      "word": "Tom doesn't seem to like anything.",
+      "translation": "Тому, похоже, ничего не нравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_38",
+      "word": "What does this smell like?",
+      "translation": "Чем это пахнет?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_39",
+      "word": "Which one of us do you like best?",
+      "translation": "Кто из нас тебе больше нравится?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_40",
+      "word": "Don't follow Tom's example.",
+      "translation": "Не следуй примеру Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_41",
+      "word": "You'll like it here.",
+      "translation": "Тебе здесь понравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_42",
+      "word": "Do you not like wine?",
+      "translation": "Ты не любишь вино?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_43",
+      "word": "I don't like long drives.",
+      "translation": "Не люблю долгие поездки на машине.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_44",
+      "word": "Goats like being brushed.",
+      "translation": "Козы любят, когда их причёсывают.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_45",
+      "word": "I like it in Boston.",
+      "translation": "Мне нравится в Бостоне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_46",
+      "word": "Bird-watching sounds like it might be fun.",
+      "translation": "Наблюдение за птицами кажется забавным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_47",
+      "word": "You don't look like you're busy.",
+      "translation": "Не похоже, чтобы ты был занят.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_48",
+      "word": "Tom doesn't like surprises.",
+      "translation": "Том не любит сюрпризов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_4_49",
+      "word": "I don't like this very much.",
+      "translation": "Мне это не очень нравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_0",
+      "word": "I thought Tom didn't like cats.",
+      "translation": "Я думал, Том не любит кошек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_1",
+      "word": "I know that you don't like Tom.",
+      "translation": "Я знаю, что Том тебе не нравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_2",
+      "word": "I have no comment.",
+      "translation": "У меня нет комментариев.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_3",
+      "word": "Don't scare me like that, OK?",
+      "translation": "Не пугай меня так, ладно?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_4",
+      "word": "What's the text about?",
+      "translation": "О чём этот текст?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_5",
+      "word": "Tom doesn't like traveling by plane.",
+      "translation": "Том не любит летать на самолётах.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_6",
+      "word": "It seemed like you weren't interested.",
+      "translation": "Выглядело так, будто тебе не было интересно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_7",
+      "word": "I don't like beer.",
+      "translation": "Мне не нравится пиво.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_8",
+      "word": "I don't like carrots at all.",
+      "translation": "Я вообще не люблю морковь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_9",
+      "word": "All my friends like you.",
+      "translation": "Всем моим друзьям ты нравишься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_10",
+      "word": "You sound just like Tom.",
+      "translation": "Ты говоришь прямо как Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_11",
+      "word": "You don't like Tom very much, do you?",
+      "translation": "Тебе ведь Том не очень нравится?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_12",
+      "word": "I like listening to Tom.",
+      "translation": "Мне нравится слушать Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_13",
+      "word": "I just want people to like me.",
+      "translation": "Я просто хочу нравиться людям.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_14",
+      "word": "Tom was a lot like John.",
+      "translation": "Том был очень похож на Джона.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_15",
+      "word": "I'd like to talk to you about what happened.",
+      "translation": "Я хотел бы поговорить с тобой о том, что произошло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_16",
+      "word": "I like teaching French.",
+      "translation": "Мне нравится преподавать французский.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_17",
+      "word": "Nothing like that could happen.",
+      "translation": "Такое не могло случиться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_18",
+      "word": "I like Tom's attitude.",
+      "translation": "Мне нравится позиция Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_19",
+      "word": "What don't you like about the plan?",
+      "translation": "Чем тебе не нравится этот план?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_20",
+      "word": "Does Tom still like Boston?",
+      "translation": "Тому всё ещё нравится Бостон?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_21",
+      "word": "I like turtles.",
+      "translation": "Мне нравятся черепахи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_22",
+      "word": "You smell like strawberries.",
+      "translation": "Ты пахнешь земляникой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_23",
+      "word": "Do you really not like strawberries?",
+      "translation": "Ты действительно не любишь клубнику?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_24",
+      "word": "Tom isn't like the others.",
+      "translation": "Том не такой, как другие.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_25",
+      "word": "What if they don't like me?",
+      "translation": "А что, если я им не нравлюсь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_26",
+      "word": "I knew Tom would like it here.",
+      "translation": "Я знал, что Тому здесь понравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_27",
+      "word": "It sounds to me like you've had enough of Tom.",
+      "translation": "Сдаётся мне, что Том тебе надоел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_28",
+      "word": "I'd like to see what I'm buying.",
+      "translation": "Я бы хотел видеть, что покупаю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_29",
+      "word": "You look like a boy.",
+      "translation": "Ты выглядишь как мальчик.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_30",
+      "word": "I like your beard.",
+      "translation": "Мне нравится твоя борода.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_31",
+      "word": "I like to write songs in French.",
+      "translation": "Мне нравится писать песни на французском.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_32",
+      "word": "I really like hard-boiled eggs.",
+      "translation": "Я очень люблю яйца вкрутую.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_33",
+      "word": "Tom is not like the others.",
+      "translation": "Том не такой, как другие.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_34",
+      "word": "I hope that you're not like everyone else.",
+      "translation": "Надеюсь, ты не такой, как все.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_35",
+      "word": "We'd like to express our gratitude.",
+      "translation": "Мы хотели бы выразить свою признательность.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_36",
+      "word": "I share your concern.",
+      "translation": "Я разделяю вашу озабоченность.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_37",
+      "word": "With friends like that, who needs enemies?",
+      "translation": "С такими друзьями и враги не нужны!",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_38",
+      "word": "I don't like being on my own.",
+      "translation": "Мне не нравится быть одному.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_39",
+      "word": "I like this perfume.",
+      "translation": "Мне нравятся эти духи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_40",
+      "word": "I don't like writing.",
+      "translation": "Я не люблю писать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_41",
+      "word": "Nobody here knows what Tom looks like.",
+      "translation": "Тут никто не знает, как выглядит Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_42",
+      "word": "Tom was acting like a child.",
+      "translation": "Том вёл себя как ребёнок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_43",
+      "word": "I don't like English.",
+      "translation": "Я не люблю английский.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_44",
+      "word": "I like this drawing.",
+      "translation": "Мне нравится этот рисунок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_45",
+      "word": "Tom smokes like a chimney.",
+      "translation": "Том курит как паровоз.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_46",
+      "word": "I'd like to go skiing with Tom.",
+      "translation": "Я хотел бы пойти покататься с Томом на лыжах.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_47",
+      "word": "I like this statue.",
+      "translation": "Мне нравится эта статуя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_48",
+      "word": "You're going to like working for me.",
+      "translation": "Вам понравится работать у меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_5_49",
+      "word": "No two snowflakes are exactly alike.",
+      "translation": "Нет двух одинаковых снежинок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_0",
+      "word": "Tom doesn't like us.",
+      "translation": "Том нас не любит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_1",
+      "word": "Tom knows I like Mary.",
+      "translation": "Том знает, что Мэри мне нравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_2",
+      "word": "It's just like a nightmare.",
+      "translation": "Это какой-то кошмар.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_3",
+      "word": "I like the same things you do.",
+      "translation": "Мне нравятся те же вещи, что и тебе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_4",
+      "word": "I have something I'd like to say.",
+      "translation": "У меня есть кое-что, что я хотел бы сказать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_5",
+      "word": "I like neither of them.",
+      "translation": "Мне ни один не нравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_6",
+      "word": "There's nobody like you.",
+      "translation": "Таких, как ты, больше нет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_7",
+      "word": "They don't like my friends.",
+      "translation": "Они не любят моих друзей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_8",
+      "word": "I like to make snowmen.",
+      "translation": "Я люблю лепить снеговиков.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_9",
+      "word": "I like that about Tom.",
+      "translation": "Мне это в Томе нравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_10",
+      "word": "You do like me, don't you?",
+      "translation": "Я ведь тебе действительно нравлюсь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_11",
+      "word": "I hope they like me.",
+      "translation": "Надеюсь, что я им понравлюсь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_12",
+      "word": "Tom treats me like a child.",
+      "translation": "Том обращается со мной как с ребёнком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_13",
+      "word": "You treated me like a little kid.",
+      "translation": "Ты обращался со мной как с маленьким ребёнком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_14",
+      "word": "Do you like solving puzzles?",
+      "translation": "Любишь разгадывать головоломки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_15",
+      "word": "Tom told Mary he didn't like her.",
+      "translation": "Том сказал Мэри, что она ему не нравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_16",
+      "word": "I like camels.",
+      "translation": "Мне нравятся верблюды.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_17",
+      "word": "It doesn't look like fun to me.",
+      "translation": "Мне это смешным не кажется.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_18",
+      "word": "Be like me and have a glass of wine.",
+      "translation": "Будь как я и выпей бокал вина.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_19",
+      "word": "Tom doesn't like it when people touch him.",
+      "translation": "Том не любит, когда к нему прикасаются.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_20",
+      "word": "You look like an orangutan.",
+      "translation": "Ты похож на орангутанга.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_21",
+      "word": "I don't like to speak in public.",
+      "translation": "Я не люблю выступать публично.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_22",
+      "word": "Those two are exactly alike.",
+      "translation": "Те два абсолютно одинаковые.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_23",
+      "word": "I like goat cheese.",
+      "translation": "Я люблю козий сыр.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_24",
+      "word": "You would like it.",
+      "translation": "Тебе бы это понравилось.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_25",
+      "word": "Does Tom like oysters?",
+      "translation": "Том любит устрицы?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_26",
+      "word": "Do you like it with mayonnaise?",
+      "translation": "Вам нравится с майонезом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_27",
+      "word": "We do everything online now.",
+      "translation": "Теперь мы всё делаем онлайн.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_28",
+      "word": "I don't like proverbs.",
+      "translation": "Я не люблю пословицы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_29",
+      "word": "Do you like giving gifts?",
+      "translation": "Вы любите дарить подарки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_30",
+      "word": "You don't like these rules, do you?",
+      "translation": "Тебе не нравятся эти правила, да?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_31",
+      "word": "The two brothers are very much alike.",
+      "translation": "Два брата очень похожи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_32",
+      "word": "Tom knew that Mary didn't like him very much.",
+      "translation": "Том знал, что он не очень нравится Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_33",
+      "word": "I don't like poker very much.",
+      "translation": "Я не очень люблю покер.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_34",
+      "word": "We like you.",
+      "translation": "Ты нам нравишься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_35",
+      "word": "Do you like visiting museums?",
+      "translation": "Ты любишь ходить по музеям?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_36",
+      "word": "I like their voices.",
+      "translation": "Мне нравятся их голоса.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_37",
+      "word": "Tom doesn't want to be like me.",
+      "translation": "Том не хочет быть таким, как я.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_38",
+      "word": "I'd like to remain friends.",
+      "translation": "Я хотел бы остаться друзьями.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_39",
+      "word": "Why do you like Tom so much?",
+      "translation": "Чем тебе так сильно нравится Том?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_40",
+      "word": "He's quite a nice fellow but I don't like him.",
+      "translation": "Он хороший парень, но мне не нравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_41",
+      "word": "I like sports, but Tom doesn't.",
+      "translation": "Я люблю спорт, а Том нет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_42",
+      "word": "He did not like her manner of speech.",
+      "translation": "Ему не нравилось, как она говорит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_43",
+      "word": "You aren't going dressed like that, are you?",
+      "translation": "Ты же не пойдёшь в таком виде?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_44",
+      "word": "An ocelot looks like a small leopard.",
+      "translation": "Оцелот похож на маленького леопарда.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_45",
+      "word": "That's what I like most.",
+      "translation": "Это мне больше всего нравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_46",
+      "word": "I like chocolate milk.",
+      "translation": "Я люблю шоколадное молоко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_47",
+      "word": "I wanted to share it with you.",
+      "translation": "Я хотел поделиться этим с тобой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_48",
+      "word": "I knew why Tom didn't like me.",
+      "translation": "Я знал, почему Том меня недолюбливает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_6_49",
+      "word": "How can you live like this?",
+      "translation": "Как ты можешь так жить?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_0",
+      "word": "Tom is acting like nothing happened.",
+      "translation": "Том ведёт себя так, словно ничего не произошло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_1",
+      "word": "With friends like you, who needs enemies?",
+      "translation": "С такими друзьями, как вы, и враги не нужны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_2",
+      "word": "I like everything Tom does.",
+      "translation": "Мне нравится всё, что Том делает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_3",
+      "word": "We don't like violence.",
+      "translation": "Мы не любим насилие.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_4",
+      "word": "You're like a kid.",
+      "translation": "Ты как ребёнок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_5",
+      "word": "I didn't expect anything like this to happen.",
+      "translation": "Я не ожидал, что что-либо подобное случится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_6",
+      "word": "I don't like waiting.",
+      "translation": "Я не люблю ждать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_7",
+      "word": "Who do you like better, Tom or Mary?",
+      "translation": "Кто тебе больше нравится, Том или Мэри?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_8",
+      "word": "This feels like silk.",
+      "translation": "На ощупь это как шелк.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_9",
+      "word": "Everybody knows that we don't like each other.",
+      "translation": "Все знают, что мы друг друга не любим.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_10",
+      "word": "It looks like you're trying to hide something.",
+      "translation": "Похоже, ты пытаешься что-то скрыть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_11",
+      "word": "Do you know why Tom doesn't like you?",
+      "translation": "Знаешь, почему ты не нравишься Тому?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_12",
+      "word": "I can't be treated like this.",
+      "translation": "Со мной нельзя так обращаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_13",
+      "word": "I know that I won't like it.",
+      "translation": "Я знаю, что мне это не понравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_14",
+      "word": "I don't like people like you.",
+      "translation": "Не люблю таких людей, как ты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_15",
+      "word": "Tom doesn't like volleyball very much.",
+      "translation": "Том не очень любит волейбол.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_16",
+      "word": "Everyone knows that we don't like each other.",
+      "translation": "Все знают, что мы друг друга не любим.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_17",
+      "word": "Who would like to go first?",
+      "translation": "Кто хотел бы пойти первым?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_18",
+      "word": "You're just like the others.",
+      "translation": "Ты такой же, как все остальные.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_19",
+      "word": "I'd like to know what happened to Tom.",
+      "translation": "Хотелось бы знать, что случилось с Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_20",
+      "word": "I like sandwiches.",
+      "translation": "Я люблю бутерброды.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_21",
+      "word": "You don't like to talk about Tom, do you?",
+      "translation": "Тебе не нравится говорить о Томе, да?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_22",
+      "word": "It's not like that at all.",
+      "translation": "Это совсем не так.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_23",
+      "word": "I like glossy paper.",
+      "translation": "Я люблю глянцевую бумагу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_24",
+      "word": "Tom doesn't like computers.",
+      "translation": "Том не любит компьютеры.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_25",
+      "word": "I know that you like me.",
+      "translation": "Я знаю, что я вам нравлюсь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_26",
+      "word": "I don't like escalators.",
+      "translation": "Я не люблю эскалаторы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_27",
+      "word": "Which do you like better, dogs or cats?",
+      "translation": "Кто тебе больше нравится: собаки или кошки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_28",
+      "word": "I don't like the way Tom is looking at me.",
+      "translation": "Мне не нравится, как Том на меня смотрит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_29",
+      "word": "I like French, but I can't speak it well.",
+      "translation": "Я люблю французский язык, но не могу говорить на нём хорошо.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_30",
+      "word": "I don't want something like this to happen.",
+      "translation": "Я не хочу, чтобы такое произошло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_31",
+      "word": "Stop acting like a baby.",
+      "translation": "Прекрати вести себя как ребёнок!",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_32",
+      "word": "I don't like traveling.",
+      "translation": "Я не люблю путешествовать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_33",
+      "word": "I don't like your jokes.",
+      "translation": "Мне не нравятся ваши шутки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_34",
+      "word": "What have we done to be punished like this?",
+      "translation": "Что мы такого сделали, за что нас так наказывают?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_35",
+      "word": "I like to catch flies.",
+      "translation": "Я люблю ловить мух.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_36",
+      "word": "Tom said that he didn't like Mary.",
+      "translation": "Том сказал, что Мэри ему не нравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_37",
+      "word": "I used to be like you.",
+      "translation": "Я был таким же, как ты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_38",
+      "word": "I'd like to visit Boston again.",
+      "translation": "Я бы хотел снова побывать в Бостоне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_39",
+      "word": "To tell the truth, I don't like translating.",
+      "translation": "Честно говоря, я не люблю переводить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_40",
+      "word": "Don't expect everyone to like you.",
+      "translation": "Не жди, что ты всем будешь нравиться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_41",
+      "word": "We must go there whether we like it or not.",
+      "translation": "Хочешь не хочешь, а мы должны туда пойти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_42",
+      "word": "We can't live like this.",
+      "translation": "Мы не можем так жить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_43",
+      "word": "I like going for walks alone.",
+      "translation": "Я люблю ходить гулять один.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_44",
+      "word": "Tom says that Mary doesn't like Australia.",
+      "translation": "Том говорит, что Мэри не любит Австралию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_45",
+      "word": "Tom looks like he's shocked.",
+      "translation": "Том, похоже, в шоке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_46",
+      "word": "How do you like this whisky?",
+      "translation": "Как тебе это виски?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_47",
+      "word": "Tom doesn't like Mary, but I like her.",
+      "translation": "Тому Мэри не нравится, а мне нравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_48",
+      "word": "I really like yоur hоuse.",
+      "translation": "Я очень люблю ваш дом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_7_49",
+      "word": "I really like dogs.",
+      "translation": "Я очень люблю собак.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_0",
+      "word": "What did you like best?",
+      "translation": "Что тебе понравилось больше всего?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_1",
+      "word": "I know that you don't like sports.",
+      "translation": "Я знаю, что ты не любишь спорт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_2",
+      "word": "I didn't like either of these books.",
+      "translation": "Мне ни одна из этих двух книг не понравилась.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_3",
+      "word": "I like to watch the sunset.",
+      "translation": "Я люблю смотреть на закат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_4",
+      "word": "I felt like my life was over.",
+      "translation": "У меня было такое чувство, что моя жизнь закончилась.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_5",
+      "word": "I forgot you don't like carrots.",
+      "translation": "Я забыл, что вы не любите морковь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_6",
+      "word": "Everybody knows that I don't like Tom.",
+      "translation": "Все знают, что Том мне не нравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_7",
+      "word": "Why do you like being alone?",
+      "translation": "Почему ты любишь быть один?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_8",
+      "word": "Is it correct to say it like this?",
+      "translation": "Правильно будет так сказать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_9",
+      "word": "Do it your own way if you don't like my way.",
+      "translation": "Если не хочешь по-моему, делай по-своему.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_10",
+      "word": "Is there anything else you'd like?",
+      "translation": "Ты хотел бы чего-нибудь еще?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_11",
+      "word": "I used to be poor like you.",
+      "translation": "Когда-то я был беден, как и ты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_12",
+      "word": "You won't like it.",
+      "translation": "Тебе это не понравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_13",
+      "word": "I knew Tom would like Mary.",
+      "translation": "Я знал, что Мэри понравится Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_14",
+      "word": "Tom started to like Mary more and more.",
+      "translation": "Мэри начинала всё больше нравиться Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_15",
+      "word": "I got your text.",
+      "translation": "Я получил твоё СМС.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_16",
+      "word": "I like going to the zoo.",
+      "translation": "Я люблю ходить в зоопарк.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_17",
+      "word": "I'd like to return it.",
+      "translation": "Я бы хотел это вернуть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_18",
+      "word": "What is it you like about Tom?",
+      "translation": "Что тебе нравится в Томе?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_19",
+      "word": "Do you like what you see?",
+      "translation": "Тебе нравится то, что ты видишь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_20",
+      "word": "It doesn't look like Tom has slept in days.",
+      "translation": "Похоже, Том не спал уже несколько дней.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_21",
+      "word": "You like chess, don't you?",
+      "translation": "Ты же любишь шахматы?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_22",
+      "word": "Now follow me.",
+      "translation": "Теперь иди за мной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_23",
+      "word": "Tom doesn't seem to like you very much.",
+      "translation": "Ты, похоже, не очень нравишься Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_24",
+      "word": "Tom doesn't like anyone.",
+      "translation": "Том никого не любит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_25",
+      "word": "I can't remember what Tom looks like.",
+      "translation": "Я уже не помню, как Том выглядит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_26",
+      "word": "\"I like Tom.\" \"I don't.\"",
+      "translation": "«Мне нравится Том». — «А мне нет».",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_27",
+      "word": "Tom and Mary don't like me.",
+      "translation": "Том и Мэри не любят меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_28",
+      "word": "I'd like another sandwich.",
+      "translation": "Я хотел бы ещё один бутерброд.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_29",
+      "word": "Do you like it all?",
+      "translation": "Тебе это всё нравится?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_30",
+      "word": "I like your personality.",
+      "translation": "Ты мне нравишься как человек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_31",
+      "word": "Tom doesn't like my friends.",
+      "translation": "Том не любит моих друзей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_32",
+      "word": "She didn't like him.",
+      "translation": "Он ей не нравился.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_33",
+      "word": "I've been looking for a woman like you.",
+      "translation": "Я искал такую женщину, как ты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_34",
+      "word": "Why doesn't Tom like Boston?",
+      "translation": "Почему Тому не нравится Бостон?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_35",
+      "word": "Which one did you like the best?",
+      "translation": "Какой тебе больше всего понравился?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_36",
+      "word": "Tom is behaving like a baby.",
+      "translation": "Том ведёт себя как ребёнок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_37",
+      "word": "We're not at all alike.",
+      "translation": "Мы совсем не похожи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_38",
+      "word": "You like him, don't you?",
+      "translation": "Тебе он нравится, да?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_39",
+      "word": "I don't like all of them.",
+      "translation": "Мне не все они нравятся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_40",
+      "word": "Many people like Tom.",
+      "translation": "Том многим нравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_41",
+      "word": "I like astrology.",
+      "translation": "Я люблю астрологию.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_42",
+      "word": "I knew you wouldn't like Tom.",
+      "translation": "Я знал, что Том тебе не понравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_43",
+      "word": "I'd like to thank Tom for everything he did.",
+      "translation": "Я хотел бы поблагодарить Тома за всё, что он сделал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_44",
+      "word": "Tom doesn't like to speak French.",
+      "translation": "Тому не нравится говорить по-французски.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_45",
+      "word": "I don't like to fly.",
+      "translation": "Я не люблю летать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_46",
+      "word": "Tom dressed like a girl.",
+      "translation": "Том одевался как девочка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_47",
+      "word": "I don't like being contradicted.",
+      "translation": "Я не люблю, когда мне противоречат.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_48",
+      "word": "Tom acted like a madman.",
+      "translation": "Том вёл себя, словно безумец.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_8_49",
+      "word": "I know why Tom doesn't like me.",
+      "translation": "Я знаю, почему Том меня не любит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_0",
+      "word": "I don't like chocolate, but Tom does.",
+      "translation": "Я не люблю шоколад, а Том любит.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_1",
+      "word": "Tom isn't like us.",
+      "translation": "Том не такой, как мы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_2",
+      "word": "He looks like a girl.",
+      "translation": "Он выглядит как девочка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_3",
+      "word": "I like sports.",
+      "translation": "Я люблю спорт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_4",
+      "word": "I don't like sushi.",
+      "translation": "Я не люблю суши.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_5",
+      "word": "Tom doesn't like cheese very much.",
+      "translation": "Том не очень любит сыр.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_6",
+      "word": "You used to like me, didn't you?",
+      "translation": "Я ведь тебе раньше нравилась?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_7",
+      "word": "Do you like pretzels?",
+      "translation": "Тебе крендели нравятся?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_8",
+      "word": "\"What about me do you like?\" \"Everything.\"",
+      "translation": "\"Что тебе во мне нравится?\" - \"Всё\".",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_9",
+      "word": "I don't follow you.",
+      "translation": "Я за тобой не иду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_10",
+      "word": "You like cheese, don't you?",
+      "translation": "Ты же любишь сыр?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_11",
+      "word": "If you're going to act like that, I'm leaving.",
+      "translation": "Если ты будешь вести себя подобным образом, я ухожу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_12",
+      "word": "I really like talking with Tom.",
+      "translation": "Мне очень нравится разговаривать с Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_13",
+      "word": "What did that look like?",
+      "translation": "На что это было похоже?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_14",
+      "word": "People say that I look a bit like Tom.",
+      "translation": "Люди говорят, что я немного похож на Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_15",
+      "word": "I don't like to be spoken to.",
+      "translation": "Не люблю, когда со мной заговаривают.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_16",
+      "word": "It looks like Tom is OK.",
+      "translation": "Том вроде в порядке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_17",
+      "word": "I like dogs and cats.",
+      "translation": "Я люблю собак и кошек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_18",
+      "word": "I don't like Tom, and he doesn't like me.",
+      "translation": "Мне не нравится Том, и я не нравлюсь Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_19",
+      "word": "They like French.",
+      "translation": "Им нравится французский язык.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_20",
+      "word": "Don't act like a know-it-all.",
+      "translation": "Не строй из себя всезнайку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_21",
+      "word": "I will follow you wherever you go.",
+      "translation": "Я последую за тобой, куда бы ты ни пошёл.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_22",
+      "word": "I thought you wouldn't like me.",
+      "translation": "Я думал, что не понравлюсь тебе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_23",
+      "word": "I like ironing.",
+      "translation": "Я люблю гладить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_24",
+      "word": "I really like owls.",
+      "translation": "Мне очень нравятся совы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_25",
+      "word": "Dogs like playing with other dogs.",
+      "translation": "Собаки любят играть с другими собаками.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_26",
+      "word": "He didn't like being poor.",
+      "translation": "Ему не нравилось быть бедным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_27",
+      "word": "It was like a dream.",
+      "translation": "Это было похоже на сон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_28",
+      "word": "Don't follow me around.",
+      "translation": "Перестань за мной везде ходить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_29",
+      "word": "I like reading mystery novels.",
+      "translation": "Мне нравится читать детективные романы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_30",
+      "word": "Do they like oranges?",
+      "translation": "Они любят апельсины?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_31",
+      "word": "I personally like Tom.",
+      "translation": "Лично мне Том нравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_32",
+      "word": "Don't be like everyone else.",
+      "translation": "Не будь как все.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_33",
+      "word": "Which seats do you like?",
+      "translation": "Какие места Вам нравятся?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_34",
+      "word": "Could something like that happen nowadays?",
+      "translation": "Могло бы что-либо подобное произойти в наши дни?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_35",
+      "word": "I know I won't like it in Boston.",
+      "translation": "Я знаю, что мне не понравится в Бостоне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_36",
+      "word": "I don't like how my voice sounds.",
+      "translation": "Не люблю звучание моего голоса.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_37",
+      "word": "It was very exciting! I'd like to go again.",
+      "translation": "Это было очень увлекательно! Я хотел бы пойти снова.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_38",
+      "word": "I don't like this anymore.",
+      "translation": "Мне это уже не нравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_39",
+      "word": "Tom motioned for me to follow him.",
+      "translation": "Фома жестом пригласил меня последовать за ним.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_40",
+      "word": "I can't stand being treated like a child.",
+      "translation": "Я не выношу, когда со мной обращаются как с ребёнком.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_41",
+      "word": "We like to be together.",
+      "translation": "Нам нравится быть вместе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_42",
+      "word": "I like animals.",
+      "translation": "Я люблю животных.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_43",
+      "word": "Women don't like losers.",
+      "translation": "Женщины не любят неудачников.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_44",
+      "word": "You like rain, don't you?",
+      "translation": "Ты ведь любишь дождь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_45",
+      "word": "What else do you like about Tom?",
+      "translation": "Что ещё тебе в Томе нравится?",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_46",
+      "word": "I knew that you wouldn't like it here.",
+      "translation": "Я знал, что тебе здесь не понравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_47",
+      "word": "You look like an idiot.",
+      "translation": "Ты похож на идиота.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_48",
+      "word": "Frankly speaking, I don't like him.",
+      "translation": "Честно говоря, он мне не нравится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_socialmediachat_9_49",
+      "word": "I'd like to clarify something.",
+      "translation": "Я хотел бы кое-что прояснить.",
+      "language": "en"
+    }
+  ]
+}

@@ -1,0 +1,80 @@
+.handsOverlay {
+  &__container {
+    display: flex;
+    justify-content: center;
+    gap: 6rem;
+    margin-top: 2rem;
+  }
+
+  &__hand {
+    display: flex;
+    align-items: flex-end;
+    gap: 0.5rem;
+  }
+
+  &__finger {
+    width: 2.5rem;
+    background-color: var(--color-bg-secondary);
+    border: 2px solid var(--color-border);
+    border-radius: 1.25rem 1.25rem 0 0;
+    transition: all 0.2s;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.8rem;
+    color: var(--color-text-secondary);
+    font-weight: 500;
+  }
+
+  &__pinky {
+    height: 5rem;
+  }
+
+  &__ring {
+    height: 6rem;
+  }
+
+  &__middle {
+    height: 6.5rem;
+  }
+
+  &__index {
+    height: 5.5rem;
+  }
+
+  &__leftHand {
+    .handsOverlay__thumb {
+      height: 4rem;
+      transform: rotate(-30deg);
+      transform-origin: bottom right;
+      margin-left: 1rem;
+    }
+  }
+
+  &__rightHand {
+    .handsOverlay__thumb {
+      height: 4rem;
+      transform: rotate(30deg);
+      transform-origin: bottom left;
+      margin-right: 1rem;
+    }
+  }
+
+  &__thumb {
+    /* base thumb styles covered above but defined just in case */
+  }
+
+  &__finger_next {
+    background-color: var(--color-accent);
+    border-color: var(--color-accent);
+    color: #000;
+    box-shadow: 0 0 15px rgba(0, 255, 136, 0.4);
+  }
+
+  &__finger_error {
+    background-color: var(--color-error);
+    border-color: var(--color-error);
+    color: #fff;
+    box-shadow: 0 0 15px rgba(255, 77, 77, 0.4);
+  }
+}

@@ -1,0 +1,3007 @@
+{
+  "id": "phrasebook-hotelaccommodation",
+  "name": "Hotel & Accommodation",
+  "description": "Phrasebook for Hotel & Accommodation",
+  "entries": [
+    {
+      "id": "pb_hotelaccommodation_0_0",
+      "word": "I hope Tom can stay here all week.",
+      "translation": "Надеюсь, Том сможет остаться здесь на всю неделю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_1",
+      "word": "What time should I check in?",
+      "translation": "В какой момент мне нужно зарегистрироваться?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_2",
+      "word": "This book costs 3,000 yen.",
+      "translation": "Эта книга стоит три тысячи иен.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_3",
+      "word": "He was in bed with a cold.",
+      "translation": "Он лежал в кровати с простудой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_4",
+      "word": "I have already cleaned my room.",
+      "translation": "Я уже убрался у себя в комнате.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_5",
+      "word": "Tom was sick in bed yesterday.",
+      "translation": "Том вчера лежал больной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_6",
+      "word": "Will Tom stay or will he leave?",
+      "translation": "Том останется или уйдёт?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_7",
+      "word": "Whose key is that on the table?",
+      "translation": "Чей это ключ на столе?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_8",
+      "word": "Have you ever eaten turkey?",
+      "translation": "Ты когда-нибудь ел индейку?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_9",
+      "word": "When shall I return the book?",
+      "translation": "Когда я должен вернуть книгу?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_10",
+      "word": "Which bed do you want to use?",
+      "translation": "Какую кровать ты хочешь использовать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_11",
+      "word": "Do you have someplace to stay?",
+      "translation": "Тебе есть где остановиться?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_12",
+      "word": "Stay here and wait for him.",
+      "translation": "Оставайся здесь и жди его.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_13",
+      "word": "I'd like to change my room.",
+      "translation": "Я хотел бы поменять комнату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_14",
+      "word": "Tom wants to stay single.",
+      "translation": "Том хочет остаться холостым.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_15",
+      "word": "Tom locked himself in his room.",
+      "translation": "Том заперся в своей комнате.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_16",
+      "word": "Is there anybody in the room?",
+      "translation": "В комнате кто-то есть?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_17",
+      "word": "Tom will stay with us for now.",
+      "translation": "Том пока побудет с нами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_18",
+      "word": "Tom is watching TV in his room.",
+      "translation": "Том смотрит телевизор у себя в комнате.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_19",
+      "word": "Where are you planning to stay?",
+      "translation": "Где вы собираетесь остановиться?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_20",
+      "word": "Tom slept in the guest bedroom.",
+      "translation": "Том спал в гостевой спальне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_21",
+      "word": "Tom stayed in bed all day.",
+      "translation": "Том весь день пролежал в постели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_22",
+      "word": "She was left alone in the room.",
+      "translation": "Её оставили одну в комнате.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_23",
+      "word": "This book deals with China.",
+      "translation": "Эта книга о Китае.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_24",
+      "word": "There was nobody in the room.",
+      "translation": "В комнате никого не было.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_25",
+      "word": "May I have your room number?",
+      "translation": "Могу я узнать, в каком вы номере остановились?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_26",
+      "word": "We've prepared a room for you.",
+      "translation": "Мы приготовили для тебя комнату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_27",
+      "word": "I missed Tom at the hotel.",
+      "translation": "Я не застал Тома в гостинице.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_28",
+      "word": "This room has an ocean view.",
+      "translation": "Окна этой комнаты выходят на океан.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_29",
+      "word": "Tom struggled to stay focused.",
+      "translation": "Том пытался сохранять сосредоточенность.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_30",
+      "word": "Tom is upstairs in his bedroom.",
+      "translation": "Том наверху у себя в спальне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_31",
+      "word": "Please send the book by mail.",
+      "translation": "Прошу выслать книгу почтой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_32",
+      "word": "I know that Tom is in bed.",
+      "translation": "Я знаю, что Том в постели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_33",
+      "word": "We were all living in a hotel.",
+      "translation": "Мы все жили в гостинице.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_34",
+      "word": "I found it under your bed.",
+      "translation": "Я нашёл это у тебя под кроватью.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_35",
+      "word": "Tom wants to read a book.",
+      "translation": "Том хочет почитать книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_36",
+      "word": "What's your new book about?",
+      "translation": "О чём твоя новая книга?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_37",
+      "word": "Are you staying at this hotel?",
+      "translation": "Вы остановились в этом отеле?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_38",
+      "word": "Let's go in the other room.",
+      "translation": "Пойдёмте в другую комнату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_39",
+      "word": "She put her room in order.",
+      "translation": "Она навела порядок у себя в комнате.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_40",
+      "word": "I think I'll stay home today.",
+      "translation": "Я, пожалуй, сегодня дома останусь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_41",
+      "word": "His bed is next to the wall.",
+      "translation": "Его кровать стоит у стены.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_42",
+      "word": "Tom is asleep in his room.",
+      "translation": "Том спит в своём номере.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_43",
+      "word": "Tom prefers to stay home.",
+      "translation": "Том предпочитает оставаться дома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_44",
+      "word": "Tom put the book on the shelf.",
+      "translation": "Том положил книгу на полку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_45",
+      "word": "My room is twice as big as his.",
+      "translation": "Моя комната в два раза больше, чем его.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_46",
+      "word": "Mom, can Tom stay for dinner?",
+      "translation": "Мам, можно Том останется на ужин?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_47",
+      "word": "The room is spacious and light.",
+      "translation": "Комната большая и светлая.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_48",
+      "word": "The key was left in the room.",
+      "translation": "Ключ оставили в комнате.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_0_49",
+      "word": "I want it to stay that way.",
+      "translation": "Я хочу, чтобы всё так и осталось.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_0",
+      "word": "I thought I'd give you a key.",
+      "translation": "У меня возникла идея дать вам ключ.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_1",
+      "word": "I told Tom to clean his room.",
+      "translation": "Я сказал Тому, чтобы он убрался у себя в комнате.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_2",
+      "word": "I want you to read this book.",
+      "translation": "Я хочу, чтобы вы прочли эту книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_3",
+      "word": "Who has the key to this lock?",
+      "translation": "У кого есть ключ от этого замка?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_4",
+      "word": "We hope you enjoyed your stay.",
+      "translation": "Надеемся, вам у нас понравилось.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_5",
+      "word": "I've read that book before.",
+      "translation": "Я уже читал эту книгу раньше.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_6",
+      "word": "Do you have a spare key?",
+      "translation": "У вас есть запасной ключ?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_7",
+      "word": "Here's the key to your room.",
+      "translation": "Вот ключ от вашего номера.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_8",
+      "word": "If you're tired, go to bed.",
+      "translation": "Если устал, ложись.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_9",
+      "word": "This is the book I want to buy.",
+      "translation": "Это книга, которую я хочу купить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_10",
+      "word": "The room smelled bad.",
+      "translation": "В комнате плохо пахло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_11",
+      "word": "Have you given Tom the key?",
+      "translation": "Ты дал Тому ключ?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_12",
+      "word": "I can stay here.",
+      "translation": "Я могу остаться здесь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_13",
+      "word": "You have to stay.",
+      "translation": "Вы должны остаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_14",
+      "word": "Tom wasn't alone in his room.",
+      "translation": "Том был в своей комнате не один.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_15",
+      "word": "Tom ought to stay in Boston.",
+      "translation": "Том должен остаться в Бостоне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_16",
+      "word": "I'll show you to your room.",
+      "translation": "Я покажу вам вашу комнату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_17",
+      "word": "I wrote that book.",
+      "translation": "Я написал ту книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_18",
+      "word": "I want a waterbed.",
+      "translation": "Я хочу водяной матрас.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_19",
+      "word": "Please stay where you are.",
+      "translation": "Пожалуйста, стой, где стоишь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_20",
+      "word": "We decided to stay home.",
+      "translation": "Мы решили остаться дома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_21",
+      "word": "Tom slipped into the room.",
+      "translation": "Том проскользнул в комнату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_22",
+      "word": "Stay and watch.",
+      "translation": "Стой и смотри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_23",
+      "word": "I will read a book.",
+      "translation": "Я почитаю книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_24",
+      "word": "Tom has a key.",
+      "translation": "У Тома есть ключ.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_25",
+      "word": "Tom fell out of bed.",
+      "translation": "Том упал с кровати.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_26",
+      "word": "Ask Tom to stay.",
+      "translation": "Попроси Тома остаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_27",
+      "word": "He stayed at a cheap hotel.",
+      "translation": "Он остановился в дешёвом отеле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_28",
+      "word": "I went to the hotel by cab.",
+      "translation": "Я поехал в отель на такси.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_29",
+      "word": "I bought a book of jokes.",
+      "translation": "Я купил сборник анекдотов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_30",
+      "word": "I returned Tom's book to him.",
+      "translation": "Я вернул Тому его книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_31",
+      "word": "I'll stay home and study.",
+      "translation": "Я останусь дома и буду заниматься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_32",
+      "word": "Tom was found dead in his bed.",
+      "translation": "Том был обнаружен мёртвым в своей постели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_33",
+      "word": "You can smoke in this room.",
+      "translation": "Можешь курить в этой комнате.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_34",
+      "word": "I'll stay with Tom until you get back.",
+      "translation": "Я побуду с Томом, пока ты не вернёшься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_35",
+      "word": "Tom has to clean his room before 2:30.",
+      "translation": "Том должен убраться в своей комнате до 2:30.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_36",
+      "word": "Why didn't Tom just stay in Boston?",
+      "translation": "Почему Том просто не остался в Бостоне?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_37",
+      "word": "I don't want to stay here any longer.",
+      "translation": "Я больше не хочу здесь оставаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_38",
+      "word": "Tom said he was trying to stay awake.",
+      "translation": "Том сказал, что старается не заснуть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_39",
+      "word": "Tom lost the book that he'd borrowed from the library.",
+      "translation": "Том потерял книгу, которую взял в библиотеке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_40",
+      "word": "Is Tom still in his room?",
+      "translation": "Том всё ещё у себя в комнате?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_41",
+      "word": "The room was hot.",
+      "translation": "В комнате было жарко.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_42",
+      "word": "Tom looked into the room.",
+      "translation": "Том заглянул в комнату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_43",
+      "word": "I think we'll stay here.",
+      "translation": "Думаю, мы останемся здесь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_44",
+      "word": "Tom can't stay here any longer.",
+      "translation": "Том не может здесь больше оставаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_45",
+      "word": "Nobody wants to stay here.",
+      "translation": "Никто не хочет здесь оставаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_46",
+      "word": "Tom was in his bed asleep.",
+      "translation": "Том спал в своей постели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_47",
+      "word": "Tom is sitting in the conference room.",
+      "translation": "Том сидит в конференц-зале.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_48",
+      "word": "I'll stay with Tom until you return.",
+      "translation": "Я побуду с Томом, пока ты не вернёшься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_1_49",
+      "word": "Tom needs to stay in bed.",
+      "translation": "Тому нужно лежать в постели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_0",
+      "word": "This book contains forty photographs.",
+      "translation": "В этой книге сорок фотографий.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_1",
+      "word": "Who did you give the book to?",
+      "translation": "Кому вы дали книгу?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_2",
+      "word": "Are you going to stay with us?",
+      "translation": "Ты останешься с нами?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_3",
+      "word": "Stay away from the edge of the cliff.",
+      "translation": "Не подходи к краю обрыва.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_4",
+      "word": "I wish I could stay with you.",
+      "translation": "Жаль, что я не могу остаться с тобой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_5",
+      "word": "This book is divided into four parts.",
+      "translation": "Эта книга разделена на четыре части.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_6",
+      "word": "Stay here. I'll be back.",
+      "translation": "Стой здесь. Я вернусь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_7",
+      "word": "How was your stay?",
+      "translation": "Как Вы провели своё время?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_8",
+      "word": "He read a book all morning.",
+      "translation": "Он всё утро читал книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_9",
+      "word": "I wanted to stay longer.",
+      "translation": "Я хотел остаться подольше.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_10",
+      "word": "Tom has been robbed.",
+      "translation": "Тома ограбили.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_11",
+      "word": "This book is selling well these days.",
+      "translation": "Эта книга хорошо продается в эти дни.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_12",
+      "word": "This is the key that opened that door.",
+      "translation": "Вот ключ, который открыл ту дверь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_13",
+      "word": "Do you want to stay?",
+      "translation": "Вы хотите остаться?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_14",
+      "word": "What time does Tom go to bed?",
+      "translation": "Во сколько Том ложится?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_15",
+      "word": "I entered her room.",
+      "translation": "Я вошёл в её комнату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_16",
+      "word": "I see you've found your book.",
+      "translation": "Я смотрю, ты нашёл свою книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_17",
+      "word": "Can you stay a while longer?",
+      "translation": "Ты можешь остаться ещё ненадолго?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_18",
+      "word": "This is the biggest hotel in this city.",
+      "translation": "Это самая большая гостиница в этом городе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_19",
+      "word": "Tom bought three copies of that book.",
+      "translation": "Том купил три экземпляра этой книги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_20",
+      "word": "Tom pushed Mary into the room.",
+      "translation": "Том втолкнул Мэри в комнату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_21",
+      "word": "I was all by myself in the classroom.",
+      "translation": "Я был в классе совсем один.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_22",
+      "word": "Tom moved the desk to Mary's bedroom.",
+      "translation": "Том передвинул стол в спальню Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_23",
+      "word": "Tom doesn't have a key to the closet.",
+      "translation": "У Тома нет ключа от шкафа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_24",
+      "word": "You should stay behind.",
+      "translation": "Ты должен остаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_25",
+      "word": "I was alone in the classroom.",
+      "translation": "Я был один в классе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_26",
+      "word": "We plan to stay for a week.",
+      "translation": "Мы планируем остаться на неделю.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_27",
+      "word": "Tom brought me this book.",
+      "translation": "Том принёс мне эту книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_28",
+      "word": "What's your favorite non-fiction book?",
+      "translation": "Какая твоя любимая нехудожественная книга?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_29",
+      "word": "Have you read Tom Jackson's new book?",
+      "translation": "Ты читал новую книгу Тома Джексона?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_30",
+      "word": "Shall I ask her to send the book to us?",
+      "translation": "Мне попросить её прислать книгу нам?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_31",
+      "word": "Tom couldn't find his key anywhere.",
+      "translation": "Том нигде не мог найти свой ключ.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_32",
+      "word": "This book will be printed next year.",
+      "translation": "Эту книгу напечатают в следующем году.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_33",
+      "word": "Did you pay for the book?",
+      "translation": "Вы заплатили за книгу?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_34",
+      "word": "I was in bed all day long yesterday.",
+      "translation": "Я вчера целый день провалялся в постели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_35",
+      "word": "The price of the book was $5.",
+      "translation": "Книга стоила пять долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_36",
+      "word": "May I stay here with you?",
+      "translation": "Можно я побуду тут с тобой?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_37",
+      "word": "I forgot the book.",
+      "translation": "Я забыл книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_38",
+      "word": "There isn't any furniture in this room.",
+      "translation": "В этой комнате нет мебели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_39",
+      "word": "I have no money to buy the book with.",
+      "translation": "У меня сейчас нет с собой денег, чтобы купить ту книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_40",
+      "word": "I went back to my hotel.",
+      "translation": "Я пошёл обратно в гостиницу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_41",
+      "word": "I thought this book was interesting.",
+      "translation": "Я думал, эта книга интересная.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_42",
+      "word": "The police searched Tom's room.",
+      "translation": "Полиция обыскала комнату Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_43",
+      "word": "I don't remember giving Tom the key.",
+      "translation": "Не помню, чтобы я давал Тому ключ.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_44",
+      "word": "What did you do with my book?",
+      "translation": "Что ты сделал с моей книгой?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_45",
+      "word": "Your book is in my office.",
+      "translation": "Твоя книга в моём кабинете.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_46",
+      "word": "Who's in the next room?",
+      "translation": "Кто в соседней комнате?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_47",
+      "word": "We have to persuade Tom to stay here.",
+      "translation": "Мы должны убедить Тома остаться здесь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_48",
+      "word": "Give me the book.",
+      "translation": "Дай мне книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_2_49",
+      "word": "This book belongs to Tom.",
+      "translation": "Эта книга принадлежит Тому.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_0",
+      "word": "It's so nice to stay at home.",
+      "translation": "Так приятно посидеть дома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_1",
+      "word": "Please help me tidy up the living room.",
+      "translation": "Пожалуйста, помоги мне убраться в гостиной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_2",
+      "word": "Who gave you this book?",
+      "translation": "Кто дал тебе эту книгу?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_3",
+      "word": "I want to go to bed earlier tonight.",
+      "translation": "Я хочу сегодня лечь пораньше.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_4",
+      "word": "I wish to stay in Boston.",
+      "translation": "Я хотел бы остаться в Бостоне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_5",
+      "word": "He searched his bag for his car key.",
+      "translation": "Он обыскал сумку, ища ключи от машины.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_6",
+      "word": "Tom keeps his room tidy.",
+      "translation": "Том держит свою комнату в чистоте.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_7",
+      "word": "You can go back to bed.",
+      "translation": "Можешь ложиться обратно.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_8",
+      "word": "Tom hasn't translated the book yet.",
+      "translation": "Том ещё не перевёл книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_9",
+      "word": "Tom returned to his room.",
+      "translation": "Том вернулся в свою комнату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_10",
+      "word": "She has lost her car key.",
+      "translation": "Она потеряла ключи от машины.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_11",
+      "word": "There's always room for improvement.",
+      "translation": "Всегда есть куда расти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_12",
+      "word": "We cleaned the room.",
+      "translation": "Мы убрались в комнате.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_13",
+      "word": "Get out of the classroom.",
+      "translation": "Выйди из класса.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_14",
+      "word": "He spent the evening reading a book.",
+      "translation": "Он провёл вечер, читая книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_15",
+      "word": "I want to have my own room.",
+      "translation": "Я хочу собственную комнату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_16",
+      "word": "Tell me your impression of this book.",
+      "translation": "Расскажи мне о своих впечатлениях от этой книги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_17",
+      "word": "Tom took the key out of his pocket.",
+      "translation": "Том достал ключ из кармана.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_18",
+      "word": "That book on kabuki might be expensive.",
+      "translation": "Эта книга о кабуки может быть дорогой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_19",
+      "word": "Tom doesn't have to stay in Boston.",
+      "translation": "Тому необязательно оставаться в Бостоне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_20",
+      "word": "I found a piece of paper in the room.",
+      "translation": "Я обнаружил в комнате кусочек бумаги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_21",
+      "word": "At what hotel are you staying?",
+      "translation": "В какой гостинице вы остановились?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_22",
+      "word": "I don't feel like getting out of bed.",
+      "translation": "Мне не хочется выбираться из постели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_23",
+      "word": "There's a magazine in my room.",
+      "translation": "В моей комнате есть журнал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_24",
+      "word": "This isn't the book that I was reading.",
+      "translation": "Это не та книга, которую я читал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_25",
+      "word": "We booked a room in a four-star hotel.",
+      "translation": "Мы забронировали комнату в четырёхзвёздочной гостинице.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_26",
+      "word": "This hotel was built in 2013.",
+      "translation": "Эта гостиница была построена в 2013 году.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_27",
+      "word": "I didn't want to stay inside all day.",
+      "translation": "Я не хотел весь день оставаться внутри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_28",
+      "word": "I think I'll go to bed early tonight.",
+      "translation": "Сегодня собираюсь пораньше лечь спать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_29",
+      "word": "Is your room big?",
+      "translation": "У вас большая комната?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_30",
+      "word": "That book was really interesting.",
+      "translation": "Эта книга была очень интересная.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_31",
+      "word": "I'm exhausted. I'm going to bed.",
+      "translation": "Я без сил. Пойду спать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_32",
+      "word": "She cleaned her room in a hurry.",
+      "translation": "Она в спешке убрала свою комнату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_33",
+      "word": "I brought a book.",
+      "translation": "Я принёс книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_34",
+      "word": "I would've liked to stay longer.",
+      "translation": "Я хотел бы остаться подольше.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_35",
+      "word": "The key was under the sofa.",
+      "translation": "Ключ был под диваном.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_36",
+      "word": "Tom stayed at a very expensive hotel.",
+      "translation": "Том остановился в очень дорогом отеле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_37",
+      "word": "Tom is staying at another hotel.",
+      "translation": "Том остановился в другом отеле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_38",
+      "word": "Thank you for lending the book to us.",
+      "translation": "Спасибо, что одолжили нам эту книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_39",
+      "word": "It's a book for children.",
+      "translation": "Это книга для детей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_40",
+      "word": "There was little furniture in the room.",
+      "translation": "В комнате было мало мебели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_41",
+      "word": "Tom asked me where his book was.",
+      "translation": "Том спросил меня, где его книга.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_42",
+      "word": "I stay at home on Sundays.",
+      "translation": "Я остаюсь дома по воскресеньям.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_43",
+      "word": "I want to read the book.",
+      "translation": "Я хочу прочитать эту книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_44",
+      "word": "I liked this book.",
+      "translation": "Мне эта книга понравилась.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_45",
+      "word": "I'd rather stay at home tonight.",
+      "translation": "Я вечером лучше дома останусь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_46",
+      "word": "I wish I could stay.",
+      "translation": "Жаль, что я не могу остаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_47",
+      "word": "The ladies' room is on the third floor.",
+      "translation": "Дамская комната находится на третьем этаже.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_48",
+      "word": "I hope my book becomes a bestseller.",
+      "translation": "Надеюсь, моя книга станет бестселлером.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_3_49",
+      "word": "I lost my key somewhere around here.",
+      "translation": "Я где-то здесь свой ключ потерял.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_0",
+      "word": "How much longer can I stay here?",
+      "translation": "Сколько ещё я могу здесь оставаться?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_1",
+      "word": "Tom is alone in his bedroom.",
+      "translation": "Том один у себя в комнате.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_2",
+      "word": "This book is very popular among women.",
+      "translation": "Эта книга очень популярна у женщин.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_3",
+      "word": "This book can't go into the bag.",
+      "translation": "Эта книга в сумку не войдёт.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_4",
+      "word": "My brother's room is smaller than mine.",
+      "translation": "У моего брата комната меньше, чем у меня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_5",
+      "word": "Which book did you buy?",
+      "translation": "Какую книгу ты купил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_6",
+      "word": "How much time do you spend on Facebook?",
+      "translation": "Сколько времени ты проводишь на Фейсбуке?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_7",
+      "word": "Take my key.",
+      "translation": "Возьми мой ключ.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_8",
+      "word": "This is my father's room.",
+      "translation": "Это комната моего отца.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_9",
+      "word": "I think Tom will love this book.",
+      "translation": "Я думаю, Тому понравится эта книга.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_10",
+      "word": "Where's my towel?",
+      "translation": "Где моё полотенце?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_11",
+      "word": "It's under the bed.",
+      "translation": "Он под кроватью.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_12",
+      "word": "I think that Tom will love this book.",
+      "translation": "Я думаю, Тому понравится эта книга.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_13",
+      "word": "I told you to stay in the house.",
+      "translation": "Я говорил тебе оставаться в доме.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_14",
+      "word": "Tom is sleeping in his room.",
+      "translation": "Том спит в своей комнате.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_15",
+      "word": "I canceled my hotel reservation.",
+      "translation": "Я отменил бронирование моего отеля.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_16",
+      "word": "Who bought a book at the shop?",
+      "translation": "Кто купил в магазине книгу?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_17",
+      "word": "Tom slept on the living room couch.",
+      "translation": "Том спал на диване в гостиной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_18",
+      "word": "The room is full of odds and ends.",
+      "translation": "Комната полна всякой всячины.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_19",
+      "word": "Tom is in bed.",
+      "translation": "Том в постели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_20",
+      "word": "She went to bed late last night.",
+      "translation": "Она поздно легла спать прошлой ночью.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_21",
+      "word": "The baby is sleeping on the bed.",
+      "translation": "Ребёнок спит в кроватке.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_22",
+      "word": "Nobody's forcing you to stay here.",
+      "translation": "Никто тебя не заставляет здесь оставаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_23",
+      "word": "You may stay here as long as you like.",
+      "translation": "Ты можешь оставаться здесь, сколько хочешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_24",
+      "word": "Tom dried his face with a towel.",
+      "translation": "Том вытер лицо полотенцем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_25",
+      "word": "We're going to stay.",
+      "translation": "Мы собираемся остаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_26",
+      "word": "I'm in the waiting room.",
+      "translation": "Я в приёмной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_27",
+      "word": "This book is fairly interesting.",
+      "translation": "Эта книга довольно интересная.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_28",
+      "word": "The room was packed with people.",
+      "translation": "Комната была полна людей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_29",
+      "word": "Let's stay together.",
+      "translation": "Давайте останемся вместе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_30",
+      "word": "I agreed to stay.",
+      "translation": "Я согласился остаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_31",
+      "word": "Nobody noticed Tom leave the room.",
+      "translation": "Никто не заметил, как Том вышел из комнаты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_32",
+      "word": "I slept in Tom's bed while he was away.",
+      "translation": "Я спал в кровати Тома, пока его не было.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_33",
+      "word": "Tom isn't the one that had the key.",
+      "translation": "Ключ был не у Тома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_34",
+      "word": "Tom cautiously entered the room.",
+      "translation": "Том осторожно вошёл в комнату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_35",
+      "word": "I'd rather stay home and watch a movie.",
+      "translation": "Я лучше останусь дома и посмотрю фильм.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_36",
+      "word": "Tom doesn't want to go to bed.",
+      "translation": "Том не хочет ложиться спать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_37",
+      "word": "I need a dry towel.",
+      "translation": "Мне нужно сухое полотенце.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_38",
+      "word": "I lent Tom a book about Australia.",
+      "translation": "Я дал Тому почитать книгу об Австралии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_39",
+      "word": "This book is only available in French.",
+      "translation": "Эта книга есть только на французском.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_40",
+      "word": "That isn't a horse. It's a donkey.",
+      "translation": "Это не лошадь, а осёл.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_41",
+      "word": "I'll stay at home tomorrow.",
+      "translation": "Завтра я останусь дома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_42",
+      "word": "He looked for his book for an hour.",
+      "translation": "Он час искал свою книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_43",
+      "word": "Tom will stay at home tomorrow.",
+      "translation": "Том завтра останется дома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_44",
+      "word": "I'll stay in Australia for three days.",
+      "translation": "Я пробуду в Австралии три дня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_45",
+      "word": "I always stay at this hotel.",
+      "translation": "Я всегда останавливаюсь в этой гостинице.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_46",
+      "word": "We decided to stay in Boston.",
+      "translation": "Мы решили остаться в Бостоне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_47",
+      "word": "I have some things in the hotel safe.",
+      "translation": "У меня есть вещи в гостиничном сейфе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_48",
+      "word": "Why did you go to bed so early last night?",
+      "translation": "Почему ты вчера вечером так рано лёг спать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_4_49",
+      "word": "Tom can't stay here by himself.",
+      "translation": "Том не может остаться здесь один.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_0",
+      "word": "Please come into the room.",
+      "translation": "Проходите в комнату, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_1",
+      "word": "You should read this book.",
+      "translation": "Тебе следует прочитать эту книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_2",
+      "word": "This hotel was built last year.",
+      "translation": "Эту гостиницу построили в прошлом году.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_3",
+      "word": "Tom quickly closed the book.",
+      "translation": "Том быстро закрыл книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_4",
+      "word": "Why did Tom stay in Boston?",
+      "translation": "Почему Том остался в Бостоне?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_5",
+      "word": "Tom is going to go to bed.",
+      "translation": "Том собирается ложиться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_6",
+      "word": "Whose book is on the table?",
+      "translation": "Чья книга лежит на столе?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_7",
+      "word": "This book cost me three dollars.",
+      "translation": "Эта книга обошлась мне в три доллара.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_8",
+      "word": "Tom wants to stay at a five-star hotel.",
+      "translation": "Том хочет остановиться в пятизвёздочном отеле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_9",
+      "word": "Tom is still in bed.",
+      "translation": "Том ещё в постели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_10",
+      "word": "This hotel does not serve lunch.",
+      "translation": "В этом отеле не подают обед.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_11",
+      "word": "Tom carried the chairs to the next room.",
+      "translation": "Том отнёс стулья в соседнюю комнату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_12",
+      "word": "That's the reason I bought this book.",
+      "translation": "Вот почему я купил эту книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_13",
+      "word": "I would rather stay at home than go out.",
+      "translation": "Я бы предпочел остаться дома, чем куда-либо идти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_14",
+      "word": "Can Tom stay for dinner?",
+      "translation": "Том может остаться на ужин?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_15",
+      "word": "I am looking for a book about medieval Spain.",
+      "translation": "Я ищу книгу о средневековой Испании.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_16",
+      "word": "It's high time the children went to bed.",
+      "translation": "Детям давно пора спать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_17",
+      "word": "Can Tom stay for supper?",
+      "translation": "Том может остаться на ужин?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_18",
+      "word": "I had planned to stay at home all afternoon.",
+      "translation": "Я планировал всю вторую половину дня оставаться дома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_19",
+      "word": "Tom is lying ill in bed.",
+      "translation": "Том лежит в постели больной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_20",
+      "word": "Those are the children you gave the book to.",
+      "translation": "Это те дети, которым ты дал книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_21",
+      "word": "Tom ended up in the emergency room.",
+      "translation": "Том оказался в отделении неотложной помощи.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_22",
+      "word": "I'm staying at that hotel.",
+      "translation": "Я остановился в этом отеле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_23",
+      "word": "There is a desk in a corner of the room.",
+      "translation": "В углу комнаты стоит письменный стол.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_24",
+      "word": "This book was written by Tom.",
+      "translation": "Эту книгу написал Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_25",
+      "word": "I'd like to cancel my reservation.",
+      "translation": "Я хотел бы отменить своё бронирование.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_26",
+      "word": "I always brush my teeth before I go to bed.",
+      "translation": "Я всегда чищу зубы перед сном.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_27",
+      "word": "She put the book in the bag.",
+      "translation": "Она положила книгу в сумку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_28",
+      "word": "I read it in a book.",
+      "translation": "Я прочёл это в какой-то книге.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_29",
+      "word": "This book is available at one shop only.",
+      "translation": "Эту книгу можно купить только в одном магазине.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_30",
+      "word": "The boy fell off the bed.",
+      "translation": "Мальчик упал с кровати.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_31",
+      "word": "Tom took a book down from the shelf.",
+      "translation": "Том взял с полки книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_32",
+      "word": "I thought Tom would be in his room.",
+      "translation": "Я думал, Том будет в своей комнате.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_33",
+      "word": "The tip of the key broke.",
+      "translation": "Кончик ключа сломался.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_34",
+      "word": "How long are you planning to stay?",
+      "translation": "Как долго вы планируете остаться?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_35",
+      "word": "What's that lying on the bed?",
+      "translation": "Что это лежит на кровати?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_36",
+      "word": "Life is not a bed of roses.",
+      "translation": "Жизнь прожить - не поле перейти.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_37",
+      "word": "This book is to me what the Bible is to you.",
+      "translation": "Эта книга для меня - то же, что для тебя Библия.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_38",
+      "word": "Tom is sleeping in the living room.",
+      "translation": "Том спит в гостиной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_39",
+      "word": "Tom was smiling when he entered the room.",
+      "translation": "Том улыбался, входя в комнату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_40",
+      "word": "Your room is ready now.",
+      "translation": "Ваш номер готов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_41",
+      "word": "Where will you stay?",
+      "translation": "Где ты остановишься?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_42",
+      "word": "Those students are in the classroom.",
+      "translation": "Те студенты находятся в аудитории.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_43",
+      "word": "Tom still hasn't cleaned his room.",
+      "translation": "Том всё ещё не убрал свою комнату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_44",
+      "word": "It is at best a second-rate hotel.",
+      "translation": "Это в лучшем случае второсортный отель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_45",
+      "word": "The view from my hotel room was beautiful.",
+      "translation": "Вид из моего гостиничного номера был прекрасный.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_46",
+      "word": "Give that book back to me.",
+      "translation": "Верни мне эту книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_47",
+      "word": "Tom wanted Mary to stay a little bit longer.",
+      "translation": "Том хотел, чтобы Мэри осталась немного подольше.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_48",
+      "word": "There isn't anyone in the room.",
+      "translation": "В комнате никого нет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_5_49",
+      "word": "The book you brought isn't mine.",
+      "translation": "Книга, которую ты принёс, не моя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_0",
+      "word": "Tom went to bed very late.",
+      "translation": "Том очень поздно лёг спать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_1",
+      "word": "I finished reading the book.",
+      "translation": "Я закончил читать книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_2",
+      "word": "I'll stay here with you.",
+      "translation": "Я останусь здесь с тобой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_3",
+      "word": "There are no tables in the room.",
+      "translation": "В комнате нет столов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_4",
+      "word": "I'll stay in Australia for three months.",
+      "translation": "Я останусь в Австралии на три месяца.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_5",
+      "word": "This book covers the subject completely.",
+      "translation": "В этой книге тема раскрыта полностью.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_6",
+      "word": "I'm sorry, I can't stay long.",
+      "translation": "Извините, я не могу остаться надолго.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_7",
+      "word": "I'll be reading a book tonight.",
+      "translation": "Сегодня вечером я буду читать книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_8",
+      "word": "I'm going to buy this book.",
+      "translation": "Я куплю эту книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_9",
+      "word": "We usually go to bed at midnight.",
+      "translation": "Мы обычно ложимся спать в полночь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_10",
+      "word": "How long may I borrow this notebook?",
+      "translation": "На какое время я могу одолжить этот ноутбук?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_11",
+      "word": "Please give me this book.",
+      "translation": "Дайте мне, пожалуйста, эту книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_12",
+      "word": "Tom is the only man in the room.",
+      "translation": "Том - единственный мужчина в комнате.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_13",
+      "word": "I don't often stay up late at night.",
+      "translation": "Я нечасто засиживаюсь допоздна.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_14",
+      "word": "Isn't that my book?",
+      "translation": "Разве это не моя книга?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_15",
+      "word": "Here is your book.",
+      "translation": "Вот твоя книга.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_16",
+      "word": "We have to stay.",
+      "translation": "Мы должны остаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_17",
+      "word": "I don't need to stay home to help Tom today.",
+      "translation": "Мне не нужно оставаться дома, чтобы помочь Тому сегодня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_18",
+      "word": "He sat on the bed.",
+      "translation": "Он сел на кровать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_19",
+      "word": "Did you try this key?",
+      "translation": "Вы пробовали этим ключом?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_20",
+      "word": "There were two hundred people in the room.",
+      "translation": "В комнате было двести человек.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_21",
+      "word": "Tom is getting ready for bed.",
+      "translation": "Том готовится ко сну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_22",
+      "word": "Tom is reading a history book.",
+      "translation": "Том читает книгу по истории.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_23",
+      "word": "You never stay long.",
+      "translation": "Ты никогда не остаёшься надолго.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_24",
+      "word": "That's your book.",
+      "translation": "Это Ваша книга.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_25",
+      "word": "I'll stay here until you return.",
+      "translation": "Я останусь здесь, пока ты не вернёшься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_26",
+      "word": "What's the key to success?",
+      "translation": "В чём ключ к успеху?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_27",
+      "word": "Will you reserve a room for me for tomorrow?",
+      "translation": "Пожалуйста, забронируйте мне на завтра комнату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_28",
+      "word": "Tom couldn't persuade Mary to stay.",
+      "translation": "Том не смог уговорить Мэри остаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_29",
+      "word": "Tom quietly entered the room.",
+      "translation": "Том тихо вошёл в комнату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_30",
+      "word": "I finally got hold of that book I wanted.",
+      "translation": "Наконец-то я заполучил ту книгу, которую хотел.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_31",
+      "word": "The hotel we stayed at was very nice.",
+      "translation": "Отель, в котором мы остановились, был очень приятным.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_32",
+      "word": "Why can't Tom stay here?",
+      "translation": "Почему Том не может остаться здесь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_33",
+      "word": "How many windows are there in your bedroom?",
+      "translation": "Сколько окон в твоей спальне?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_34",
+      "word": "You can stay here till the snow stops.",
+      "translation": "Ты можешь остаться здесь, пока снег не перестанет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_35",
+      "word": "We'll stay here until Monday.",
+      "translation": "Мы останемся здесь до понедельника.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_36",
+      "word": "You can stay here as long as you keep quiet.",
+      "translation": "Ты можешь оставаться здесь, если ты будешь соблюдать тишину.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_37",
+      "word": "Tom doesn't want to get out of bed.",
+      "translation": "Том не хочет вставать с постели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_38",
+      "word": "Tom lay on the bed with his eyes open.",
+      "translation": "Том лежал в постели с открытыми глазами.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_39",
+      "word": "Stay with us for a few days.",
+      "translation": "Останься с нами на несколько дней.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_40",
+      "word": "It's too dangerous for you to stay here.",
+      "translation": "Тебе слишком опасно здесь оставаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_41",
+      "word": "You may leave the room.",
+      "translation": "Можете выйти из комнаты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_42",
+      "word": "He begged me to stay.",
+      "translation": "Он умолял меня остаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_43",
+      "word": "I'm trying to stay awake.",
+      "translation": "Я пытаюсь не заснуть.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_44",
+      "word": "Tom pulled a box from under the bed.",
+      "translation": "Том вытащил из-под кровати коробку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_45",
+      "word": "I'd like you to stay with me for a while.",
+      "translation": "Я хотела бы, чтобы ты побыл со мной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_46",
+      "word": "I told Tom to stay here.",
+      "translation": "Я говорил Тому остаться здесь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_47",
+      "word": "I want to go to bed.",
+      "translation": "Я хочу пойти спать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_48",
+      "word": "I'm going to check out at eight.",
+      "translation": "Я зайду проверить в восемь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_6_49",
+      "word": "He is going to stay at a friend's house.",
+      "translation": "Он остановится у друга.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_0",
+      "word": "I should be in bed.",
+      "translation": "Я должен быть в постели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_1",
+      "word": "Tom returned the book to the library.",
+      "translation": "Том вернул книгу в библиотеку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_2",
+      "word": "I'm at the hotel.",
+      "translation": "Я в гостинице.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_3",
+      "word": "I have a secret room.",
+      "translation": "У меня есть тайная комната.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_4",
+      "word": "I'll stay and watch Tom.",
+      "translation": "Я останусь и понаблюдаю за Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_5",
+      "word": "This is the book that I want to read.",
+      "translation": "Это та книга, которую я хочу прочитать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_6",
+      "word": "I'm supposed to help Tom clean his room.",
+      "translation": "Я должен помочь Тому убраться в его комнате.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_7",
+      "word": "I'm the only one with a key to this locker.",
+      "translation": "Я единственный, у кого есть ключ от этого шкафчика.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_8",
+      "word": "I was very tired, so I went to bed early.",
+      "translation": "Я так устал, что лёг спать пораньше.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_9",
+      "word": "It's very dangerous for you to stay here.",
+      "translation": "Вам очень опасно здесь оставаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_10",
+      "word": "I don't like the way Tom decorated his room.",
+      "translation": "Мне не нравится, как Том украсил свою комнату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_11",
+      "word": "Could you please make room for me?",
+      "translation": "Не могли бы вы освободить мне место, пожалуйста?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_12",
+      "word": "The boy reading a book is Tom.",
+      "translation": "Мальчик, читающий книгу, - Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_13",
+      "word": "Who is in this room?",
+      "translation": "Кто в этой комнате?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_14",
+      "word": "I thought that it was a very good book.",
+      "translation": "Я думал, это очень хорошая книга.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_15",
+      "word": "Tom made his children go to bed early.",
+      "translation": "Том заставил своих детей рано лечь спать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_16",
+      "word": "It's so warm in this room that I'm sweating.",
+      "translation": "В этой комнате так жарко, что я потею.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_17",
+      "word": "Tom entered the room first.",
+      "translation": "Том вошёл в комнату первым.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_18",
+      "word": "My dog sleeps in the same room that I do.",
+      "translation": "Моя собака спит в одной комнате со мной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_19",
+      "word": "I need to stay in bed.",
+      "translation": "Мне нужно лежать в постели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_20",
+      "word": "The boy went to bed with his socks on.",
+      "translation": "Мальчик лёг спать в носках.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_21",
+      "word": "I thought it was a very good book.",
+      "translation": "Я думал, это очень хорошая книга.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_22",
+      "word": "Tom goes to bed at ten o'clock.",
+      "translation": "Том ложится спать в десять часов.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_23",
+      "word": "This book is full of mistakes.",
+      "translation": "В этой книге полно ошибок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_24",
+      "word": "It is easy to read this book.",
+      "translation": "Эту книгу легко читать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_25",
+      "word": "I lost the book you lent me.",
+      "translation": "Я потерял книгу, которую ты мне одолжил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_26",
+      "word": "If you're that tired, go to bed.",
+      "translation": "Если ты так устал, ложись.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_27",
+      "word": "Everyone in the room was arrested.",
+      "translation": "Всех, кто был в комнате, арестовали.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_28",
+      "word": "I can see the mountains from my room.",
+      "translation": "Из моей комнаты видны горы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_29",
+      "word": "I think we're going to stay for another day.",
+      "translation": "Я думаю, мы останемся ещё на один день.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_30",
+      "word": "Tom says he'll stay for dinner.",
+      "translation": "Том говорит, что останется на ужин.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_31",
+      "word": "It's very dangerous for us to stay here.",
+      "translation": "Нам очень опасно здесь оставаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_32",
+      "word": "Tom hid himself under the bed.",
+      "translation": "Том спрятался под кроватью.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_33",
+      "word": "Tom is going to stay.",
+      "translation": "Том собирается остаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_34",
+      "word": "Tom is painting his room light blue.",
+      "translation": "Том красит свою комнату в голубой цвет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_35",
+      "word": "Put that book back where you found it.",
+      "translation": "Верни эту книгу туда, где ты её взял.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_36",
+      "word": "How old is this book?",
+      "translation": "Сколько лет этой книге?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_37",
+      "word": "You are still sick. You have to stay in bed.",
+      "translation": "Ты всё ещё больна. Ты должна оставаться в постели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_38",
+      "word": "I lent Tom my French textbook.",
+      "translation": "Я одолжил Тому свой учебник французского.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_39",
+      "word": "Tom didn't know a single person in the room.",
+      "translation": "Том никого в комнате не знал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_40",
+      "word": "Would you please air the room while I'm out?",
+      "translation": "Вы не проветрите мою комнату, пока меня не будет?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_41",
+      "word": "Tom is planning to redecorate his bedroom.",
+      "translation": "Том планирует сделать ремонт в своей спальне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_42",
+      "word": "Feel free to stay.",
+      "translation": "Оставайся, если хочешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_43",
+      "word": "Could you send someone up to make the bed?",
+      "translation": "Не могли бы вы послать кого-нибудь постелить постель?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_44",
+      "word": "I hid under the bed and heard everything.",
+      "translation": "Я спрятался под кровать и всё слышал.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_45",
+      "word": "Tom tiptoed past his parents' bedroom.",
+      "translation": "Том на цыпочках прошёл мимо родительской спальни.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_46",
+      "word": "I want to check out at 6 tomorrow morning.",
+      "translation": "Я хочу выписаться завтра в шесть утра.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_47",
+      "word": "Do you really want to stay?",
+      "translation": "Ты действительно хочешь остаться?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_48",
+      "word": "Were you in my room?",
+      "translation": "Ты был у меня в комнате?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_7_49",
+      "word": "She lost a book.",
+      "translation": "Она потеряла книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_0",
+      "word": "Tom left the key on the table.",
+      "translation": "Том оставил ключ на столе.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_1",
+      "word": "I didn't want to stay in Boston.",
+      "translation": "Я не хотел оставаться в Бостоне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_2",
+      "word": "What are you doing in my room?",
+      "translation": "Что ты делаешь у меня в комнате?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_3",
+      "word": "I'll stay for three more days.",
+      "translation": "Я останусь ещё на три дня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_4",
+      "word": "I'm writing a book.",
+      "translation": "Я пишу книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_5",
+      "word": "Tom searched Mary's room.",
+      "translation": "Том обыскал комнату Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_6",
+      "word": "You're not supposed to have this key.",
+      "translation": "У тебя не должно быть этого ключа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_7",
+      "word": "Tom likes to stay at home alone on weekends.",
+      "translation": "Том любит проводить выходные один дома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_8",
+      "word": "I left your book in the car.",
+      "translation": "Я оставил твою книгу в машине.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_9",
+      "word": "You've been robbed.",
+      "translation": "Вас ограбили.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_10",
+      "word": "This is the most interesting book of all.",
+      "translation": "Это самая интересная книга из всех.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_11",
+      "word": "He warned us not to enter the room.",
+      "translation": "Он предупредил нас, чтобы мы не входили в комнату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_12",
+      "word": "We didn't stay in Boston.",
+      "translation": "Мы не останавливались в Бостоне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_13",
+      "word": "Tom will help me clean my room.",
+      "translation": "Том поможет мне убраться в моей комнате.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_14",
+      "word": "I'd like to stay here until Tom gets back.",
+      "translation": "Я хотел бы побыть здесь, пока Том не вернется.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_15",
+      "word": "I didn't have a key.",
+      "translation": "У меня не было ключа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_16",
+      "word": "Tom was the one that cleaned the room.",
+      "translation": "Комнату убрал Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_17",
+      "word": "After slapping Tom, Mary ran out of the room.",
+      "translation": "Залепив Тому пощёчину, Маша выбежала из комнаты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_18",
+      "word": "Excuse me, is there a hotel around here?",
+      "translation": "Простите, тут есть поблизости какая-нибудь гостиница?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_19",
+      "word": "Tom has written a book about birds.",
+      "translation": "Том написал книгу о птицах.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_20",
+      "word": "I decided to stay a couple more days.",
+      "translation": "Я решил остаться ещё на пару дней.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_21",
+      "word": "I watched a movie with my friend in my room.",
+      "translation": "Мы с другом смотрели кино у меня в комнате.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_22",
+      "word": "The police arrested everyone in the room.",
+      "translation": "Полиция арестовала всех, кто был в комнате.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_23",
+      "word": "I'm reading a book about animals.",
+      "translation": "Я читаю книгу про животных.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_24",
+      "word": "I've been trying to find the hotel all day.",
+      "translation": "Весь день я искал эту гостиницу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_25",
+      "word": "Stay as long as you like.",
+      "translation": "Оставайся сколько хочешь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_26",
+      "word": "A couple of new guests entered the room.",
+      "translation": "В комнату вошли двое новых гостей.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_27",
+      "word": "I bought a book.",
+      "translation": "Я купила книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_28",
+      "word": "I don't know which book to choose.",
+      "translation": "Я не знаю, какую книгу выбрать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_29",
+      "word": "Tom told me the book was interesting.",
+      "translation": "Том сказал мне, что книга интересная.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_30",
+      "word": "There's only one bath towel in our bathroom.",
+      "translation": "В нашей ванной только одно банное полотенце.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_31",
+      "word": "Did you just call me a monkey?",
+      "translation": "Ты меня сейчас обезьяной назвал?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_32",
+      "word": "Don't let anyone wait in the meeting room.",
+      "translation": "Не разрешай никому ждать в переговорной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_33",
+      "word": "I searched for a book with many pictures.",
+      "translation": "Я искал книгу с множеством картинок.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_34",
+      "word": "It's time for me to go to bed.",
+      "translation": "Мне пора идти спать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_35",
+      "word": "Tom locked himself in his bedroom.",
+      "translation": "Том закрылся у себя в спальне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_36",
+      "word": "Tom used to stay home on Mondays.",
+      "translation": "По понедельникам Том обычно оставался дома.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_37",
+      "word": "Would you go to your room?",
+      "translation": "Не хотите ли пойти к себе в комнату?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_38",
+      "word": "There's standing room only.",
+      "translation": "Есть только стоячие места.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_39",
+      "word": "Have you shown Tom the new book you bought?",
+      "translation": "Ты показал Тому новую книгу, которую купил?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_40",
+      "word": "This book is worth reading again and again.",
+      "translation": "Эта книга заслуживает того, чтобы её перечитывали снова и снова.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_41",
+      "word": "My book has to be somewhere in the room.",
+      "translation": "Моя книга должна быть где-то в этой комнате.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_42",
+      "word": "Tom sealed the room.",
+      "translation": "Том опечатал комнату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_43",
+      "word": "I thought that I told you to go to bed.",
+      "translation": "Мне кажется, я сказал тебе, чтобы ты шёл спать.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_44",
+      "word": "I think that I'll stay home today.",
+      "translation": "Я, пожалуй, сегодня дома останусь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_45",
+      "word": "Tom doesn't have to stay in Australia.",
+      "translation": "Тому необязательно оставаться в Австралии.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_46",
+      "word": "What was the hotel called? I can't remember.",
+      "translation": "Как назывался отель? Я не могу вспомнить.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_47",
+      "word": "I wanted to buy a book.",
+      "translation": "Я хотел купить книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_48",
+      "word": "Where did you put the car key?",
+      "translation": "Куда ты положил ключи от машины?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_8_49",
+      "word": "When did you go to bed last night?",
+      "translation": "Ты во сколько вчера лёг?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_0",
+      "word": "Tom planned to stay at home alone.",
+      "translation": "Том планировал остаться дома один.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_1",
+      "word": "Did you bring the key?",
+      "translation": "Ты принёс ключ?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_2",
+      "word": "Is this your notebook?",
+      "translation": "Это твоя тетрадь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_3",
+      "word": "Not everyone likes that book.",
+      "translation": "Не всем нравится эта книга.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_4",
+      "word": "I think that that book is not so interesting.",
+      "translation": "По моему мнению, эта книга не настолько интересная.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_5",
+      "word": "The moon is lighting the room.",
+      "translation": "Луна освещает комнату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_6",
+      "word": "I didn't want to go to the reception.",
+      "translation": "Я не хотел идти на приём.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_7",
+      "word": "You need to stay here.",
+      "translation": "Тебе надо здесь остаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_8",
+      "word": "Tom isn't the only one who plans to stay.",
+      "translation": "Том не единственный, кто планирует остаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_9",
+      "word": "He bought an English book at a bookstore.",
+      "translation": "Он купил в книжном магазине книгу на английском.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_10",
+      "word": "Have you started reading the book yet?",
+      "translation": "Вы уже начали читать эту книгу?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_11",
+      "word": "Tom quickly undressed and got into bed.",
+      "translation": "Том быстро разделся и лёг в постель.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_12",
+      "word": "We decided to stay.",
+      "translation": "Мы решили остаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_13",
+      "word": "They left the room one by one.",
+      "translation": "Они покинули комнату по одному.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_14",
+      "word": "Tom opened the windows to air out the room.",
+      "translation": "Том открыл окна, чтобы проветрить комнату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_15",
+      "word": "I knew that Tom was in bed.",
+      "translation": "Я знал, что Том в постели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_16",
+      "word": "We always stay in this hotel.",
+      "translation": "Мы всегда останавливаемся в этом отеле.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_17",
+      "word": "Everyone in the room laughed.",
+      "translation": "Все в комнате засмеялись.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_18",
+      "word": "I'll read a book while you're sleeping.",
+      "translation": "Я почитаю книгу, пока ты спишь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_19",
+      "word": "My bed is more comfortable than yours.",
+      "translation": "Моя кровать более удобная, чем твоя.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_20",
+      "word": "I found the book I'd lost the day before.",
+      "translation": "Я нашёл книгу, которую потерял накануне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_21",
+      "word": "Tom now has his own room.",
+      "translation": "Теперь у Тома есть своя комната.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_22",
+      "word": "Tom said that he wants to stay in bed.",
+      "translation": "Том сказал, что хочет остаться в постели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_23",
+      "word": "Is Tom in bed?",
+      "translation": "Том в постели?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_24",
+      "word": "I think I can stay.",
+      "translation": "Думаю, я могу остаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_25",
+      "word": "I'm looking for a book about medieval Spain.",
+      "translation": "Я ищу книгу о средневековой Испании.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_26",
+      "word": "I went to bed a little later than usual.",
+      "translation": "Я легла спать чуть позже обычного.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_27",
+      "word": "What's the name of your hotel?",
+      "translation": "Как называется твоя гостиница?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_28",
+      "word": "What time did you go to bed?",
+      "translation": "Во сколько ты пошёл спать?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_29",
+      "word": "Put the key under the mat.",
+      "translation": "Положи ключ под коврик.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_30",
+      "word": "Tom hardly ever goes to bed before midnight.",
+      "translation": "Том практически никогда не ложится до двенадцати.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_31",
+      "word": "I'm renting out a room for a month.",
+      "translation": "Сдаю комнату на один месяц.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_32",
+      "word": "I found your book.",
+      "translation": "Я нашёл твою книгу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_33",
+      "word": "Stay away from Tom.",
+      "translation": "Держись от Тома подальше.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_34",
+      "word": "I don't know whether to leave or stay.",
+      "translation": "Я не знаю, уйти мне или остаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_35",
+      "word": "You'll stay with me.",
+      "translation": "Ты останешься со мной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_36",
+      "word": "Is Tom staying at the Hilton Hotel?",
+      "translation": "Том остановился в отеле \"Хилтон\"?",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_37",
+      "word": "He's still sick in bed.",
+      "translation": "Он всё ещё прикован к постели.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_38",
+      "word": "Give me a copy of this book.",
+      "translation": "Дай мне копию этой книги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_39",
+      "word": "It took me three days to read this book.",
+      "translation": "Я прочёл эту книгу за три дня.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_40",
+      "word": "I thought you were going to stay with Tom.",
+      "translation": "Я думал, ты останешься с Томом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_41",
+      "word": "I went to bed at midnight.",
+      "translation": "Я лёг спать в полночь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_42",
+      "word": "I dropped my key somewhere around here.",
+      "translation": "Я где-то здесь свой ключ уронил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_43",
+      "word": "Search everyone who comes into this room.",
+      "translation": "Обыскивайте всех, кто войдёт в эту комнату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_44",
+      "word": "Tom doesn't want to stay.",
+      "translation": "Том не хочет оставаться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_45",
+      "word": "She gave her guests a hearty reception.",
+      "translation": "Она организовала гостям радушный приём.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_46",
+      "word": "He ran into the room.",
+      "translation": "Он вбежал в комнату.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_47",
+      "word": "I've got to go to the men's room.",
+      "translation": "Мне нужно в мужской туалет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_48",
+      "word": "Tom left his hat in my room.",
+      "translation": "Том оставил у меня в комнате свою шляпу.",
+      "language": "en"
+    },
+    {
+      "id": "pb_hotelaccommodation_9_49",
+      "word": "Does Tom want us to stay?",
+      "translation": "Том хочет, чтобы мы остались?",
+      "language": "en"
+    }
+  ]
+}

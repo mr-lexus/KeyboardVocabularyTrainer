@@ -1,0 +1,1507 @@
+{
+  "id": "phrasebook-personalcarehygiene",
+  "name": "Personal Care & Hygiene",
+  "description": "Phrasebook for Personal Care & Hygiene",
+  "entries": [
+    {
+      "id": "pb_personalcarehygiene_0_0",
+      "word": "What shampoo do you use?",
+      "translation": "Каким шампунем ты пользуешься?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_1",
+      "word": "Hasn't he looked at himself in a mirror?",
+      "translation": "Он не посмотрелся в зеркало?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_2",
+      "word": "This toothbrush is too soft.",
+      "translation": "Эта зубная щётка слишком мягкая.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_3",
+      "word": "Tom wants to try a new shampoo.",
+      "translation": "Том хочет попробовать новый шампунь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_4",
+      "word": "Is that a new perfume?",
+      "translation": "Это новые духи?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_5",
+      "word": "I'm going to go shave.",
+      "translation": "Я собираюсь пойти побриться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_6",
+      "word": "My life is a soap opera.",
+      "translation": "Моя жизнь - это мыльная опера.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_7",
+      "word": "There was a crack in the mirror.",
+      "translation": "На зеркале была трещина.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_8",
+      "word": "I've got to shave before leaving.",
+      "translation": "Я должен побриться перед выходом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_9",
+      "word": "Tom is taking a bath now.",
+      "translation": "Том сейчас принимает ванну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_10",
+      "word": "This is a wooden comb.",
+      "translation": "Это деревянная расческа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_11",
+      "word": "Mary doesn't shave her legs.",
+      "translation": "Мэри не бреет ноги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_12",
+      "word": "What's your favorite perfume?",
+      "translation": "Какие у тебя любимые духи?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_13",
+      "word": "Where can I find toothpaste?",
+      "translation": "Где я могу найти зубную пасту?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_14",
+      "word": "You need to get a haircut.",
+      "translation": "Тебе надо подстричься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_15",
+      "word": "Tom is taking a bath.",
+      "translation": "Том принимает ванну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_16",
+      "word": "I want to take a bath.",
+      "translation": "Я хочу принять ванну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_17",
+      "word": "Why don't you get a haircut?",
+      "translation": "Почему бы тебе не постричься?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_18",
+      "word": "I'm going to take a bath first.",
+      "translation": "Я сначала приму ванну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_19",
+      "word": "What's your favorite soap opera?",
+      "translation": "Какая твоя любимая мыльная опера?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_20",
+      "word": "I bought shampoo and toothpaste.",
+      "translation": "Я купила шампунь и зубную пасту.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_21",
+      "word": "Buddhist monks shave their heads.",
+      "translation": "Буддистские монахи бреют головы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_22",
+      "word": "How often do you shave?",
+      "translation": "Как часто ты бреешься?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_23",
+      "word": "Mary washed off her makeup.",
+      "translation": "Мэри смыла макияж.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_24",
+      "word": "She doesn't shave her legs.",
+      "translation": "Она не бреет ноги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_25",
+      "word": "Tom needs to get a haircut.",
+      "translation": "Тому нужно подстричься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_26",
+      "word": "Tom adjusted his rearview mirror.",
+      "translation": "Том поправил зеркало заднего вида.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_27",
+      "word": "I was cleaning the bath.",
+      "translation": "Я мыл ванну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_28",
+      "word": "Did you look in a mirror?",
+      "translation": "Ты смотрелась в зеркало?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_29",
+      "word": "No one's in the bath.",
+      "translation": "Ванна не занята.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_30",
+      "word": "Tom cut himself with a razor.",
+      "translation": "Том порезался бритвой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_31",
+      "word": "You're wearing too much perfume.",
+      "translation": "Вы слишком сильно надушились.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_32",
+      "word": "Do you shave your legs?",
+      "translation": "Вы бреете ноги?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_33",
+      "word": "Do you use aftershave?",
+      "translation": "Вы пользуетесь кремом после бритья?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_34",
+      "word": "Tom just got a haircut.",
+      "translation": "Том только что подстригся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_35",
+      "word": "Tom likes to watch soap operas.",
+      "translation": "Том любит смотреть мыльные оперы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_36",
+      "word": "Three days ago, I got a haircut.",
+      "translation": "Три дня назад я постригся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_37",
+      "word": "I see myself in the mirror.",
+      "translation": "Я вижу себя в зеркало.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_38",
+      "word": "Nobody noticed my new haircut.",
+      "translation": "Никто не заметил мою новую стрижку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_39",
+      "word": "I was taking a bath when he came.",
+      "translation": "Я принимал ванну, когда он пришёл.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_40",
+      "word": "I can still smell Mary's perfume.",
+      "translation": "Я всё ещё чувствую запах духов Мэри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_41",
+      "word": "Tom, you need a haircut.",
+      "translation": "Том, тебе нужно подстричься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_42",
+      "word": "Are you wearing makeup?",
+      "translation": "Ты накрасилась?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_43",
+      "word": "Where is the toothpaste?",
+      "translation": "Где зубная паста?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_44",
+      "word": "The rear-view mirror fell off.",
+      "translation": "Зеркало заднего вида отвалилось.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_45",
+      "word": "When was your last haircut?",
+      "translation": "Когда вы в последний раз стриглись?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_46",
+      "word": "Did you use my razor?",
+      "translation": "Ты брал мою бритву?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_47",
+      "word": "I have to take a bath.",
+      "translation": "Мне надо принять ванну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_48",
+      "word": "What's your favorite toothpaste?",
+      "translation": "Какая у тебя любимая зубная паста?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_0_49",
+      "word": "Tom looked in the mirror again.",
+      "translation": "Том ещё раз посмотрел в зеркало.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_0",
+      "word": "Look in the rear-view mirror.",
+      "translation": "Посмотри в зеркало заднего вида.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_1",
+      "word": "What's your favorite shampoo?",
+      "translation": "Какой ваш любимый шампунь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_2",
+      "word": "Tell her that I am taking a bath.",
+      "translation": "Скажи ей, что я в ванной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_3",
+      "word": "When will you take a bath?",
+      "translation": "Когда ты примешь ванну?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_4",
+      "word": "The bath is ready.",
+      "translation": "Ванна готова.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_5",
+      "word": "Tom doesn't need a haircut.",
+      "translation": "Тому не нужно стричься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_6",
+      "word": "My mirror broke.",
+      "translation": "Моё зеркало разбилось.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_7",
+      "word": "I've cleaned the bath.",
+      "translation": "Я помыл ванну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_8",
+      "word": "I hope Tom remembered to shave.",
+      "translation": "Надеюсь, Том не забыл побриться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_9",
+      "word": "Tom is in the bath.",
+      "translation": "Том в ванной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_10",
+      "word": "Mary doesn't shave her armpits.",
+      "translation": "Мария не бреет подмышки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_11",
+      "word": "I looked at myself in the mirror.",
+      "translation": "Я посмотрелся в зеркало.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_12",
+      "word": "I need to go get a haircut.",
+      "translation": "Мне надо пойти постричься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_13",
+      "word": "I warmed myself in the bath.",
+      "translation": "Я согрелся в ванне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_14",
+      "word": "I needed a bath.",
+      "translation": "Мне нужно было помыться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_15",
+      "word": "Look at yourself in the mirror.",
+      "translation": "Взгляни на себя в зеркало.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_16",
+      "word": "I ran out of shampoo.",
+      "translation": "У меня закончился шампунь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_17",
+      "word": "I got a haircut three days ago.",
+      "translation": "Я три дня назад постригся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_18",
+      "word": "I got a shave and a haircut.",
+      "translation": "Я побрился и подстригся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_19",
+      "word": "How often do you get a haircut?",
+      "translation": "Как часто ты стрижёшься?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_20",
+      "word": "I bought a new safety razor.",
+      "translation": "Я купил новую безопасную бритву.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_21",
+      "word": "Tom is looking in the mirror.",
+      "translation": "Том смотрится в зеркало.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_22",
+      "word": "I cleaned the bath.",
+      "translation": "Я помыл ванну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_23",
+      "word": "I forgot to shave.",
+      "translation": "Я забыл побриться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_24",
+      "word": "Have you ever tried licking soap?",
+      "translation": "Ты когда-нибудь пробовала лизать мыло?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_25",
+      "word": "Tom is giving the baby a bath.",
+      "translation": "Том купает ребёнка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_26",
+      "word": "Where's my comb?",
+      "translation": "Где моя расчёска?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_27",
+      "word": "I washed my hands with soap.",
+      "translation": "Я помыл руки с мылом.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_28",
+      "word": "Tom glanced at the mirror.",
+      "translation": "Том взглянул в зеркало.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_29",
+      "word": "I can see myself in the mirror.",
+      "translation": "Я вижу своё отражение в зеркале.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_30",
+      "word": "Mary wears too much makeup.",
+      "translation": "Мэри слишком сильно красится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_31",
+      "word": "Tom has already taken a bath.",
+      "translation": "Том уже принял ванну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_32",
+      "word": "Tom doesn't shave very often.",
+      "translation": "Том не очень часто бреется.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_33",
+      "word": "Tom got shampoo in his eyes.",
+      "translation": "Тому попал шампунь в глаза.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_34",
+      "word": "Which toothbrush is mine?",
+      "translation": "Какая зубная щётка моя?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_35",
+      "word": "I don't want to get a haircut.",
+      "translation": "Я не хочу стричься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_36",
+      "word": "Tom didn't look in the mirror.",
+      "translation": "Том не посмотрел в зеркало.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_37",
+      "word": "We cleaned the bath.",
+      "translation": "Мы помыли ванну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_38",
+      "word": "No one noticed my new haircut.",
+      "translation": "Никто не заметил мою новую стрижку.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_39",
+      "word": "The bath is open on Saturdays.",
+      "translation": "Баня открыта по субботам.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_40",
+      "word": "How often do you shave your legs?",
+      "translation": "Как часто вы бреете ноги?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_41",
+      "word": "Tom went upstairs to take a bath.",
+      "translation": "Том пошёл наверх принять ванну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_42",
+      "word": "Tom said you needed a haircut.",
+      "translation": "Том сказал, что тебе надо постричься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_43",
+      "word": "The barber gave him a haircut.",
+      "translation": "Парикмахер его постриг.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_44",
+      "word": "Has anyone seen Mary without a makeup?",
+      "translation": "Кто-нибудь видел Марию без макияжа?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_45",
+      "word": "You need to shave.",
+      "translation": "Тебе надо побриться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_46",
+      "word": "She is giving the baby a bath.",
+      "translation": "Она купает ребёнка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_47",
+      "word": "I need a haircut.",
+      "translation": "Мне нужно подстричься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_48",
+      "word": "I use a lot of soap.",
+      "translation": "Я использую много мыла.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_1_49",
+      "word": "You'd look a lot younger if you'd shave off your mustache.",
+      "translation": "Ты бы выглядел намного моложе, если бы сбрил усы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_0",
+      "word": "I was taking a bath when you called me.",
+      "translation": "Я принимал ванну, когда ты мне позвонил.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_1",
+      "word": "Give me the soap.",
+      "translation": "Дай мне мыло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_2",
+      "word": "Tom said he was going to take a bath.",
+      "translation": "Том сказал, что собирается принять ванну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_3",
+      "word": "Tom just stood there, looking at himself in the mirror.",
+      "translation": "Том просто стоял там и смотрелся в зеркало.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_4",
+      "word": "There's a mirror.",
+      "translation": "Есть зеркало.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_5",
+      "word": "Tom said he needed to take a bath.",
+      "translation": "Том сказал, что ему нужно принять ванну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_6",
+      "word": "I was having a bath when the telephone rang.",
+      "translation": "Я принимал ванну, когда зазвонил телефон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_7",
+      "word": "I'm in the bath.",
+      "translation": "Я в ванной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_8",
+      "word": "Mary looked at herself in the mirror.",
+      "translation": "Мэри посмотрелась в зеркало.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_9",
+      "word": "Some women don't shave their legs.",
+      "translation": "Некоторые женщины не бреют ноги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_10",
+      "word": "There's no soap.",
+      "translation": "Мыла нет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_11",
+      "word": "I took a bath.",
+      "translation": "Я принял ванну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_12",
+      "word": "She forgave me for breaking her mirror.",
+      "translation": "Она простила мне разбитое зеркало.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_13",
+      "word": "Where is my comb?",
+      "translation": "Где моя расчёска?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_14",
+      "word": "I have to shave.",
+      "translation": "Мне надо побриться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_15",
+      "word": "I sell soap.",
+      "translation": "Я продаю мыло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_16",
+      "word": "Did you take a bath?",
+      "translation": "Ты принял ванну?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_17",
+      "word": "Where do you go to get a haircut?",
+      "translation": "Куда ты ходишь стричься?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_18",
+      "word": "She smiled at herself in the mirror.",
+      "translation": "Она улыбнулась своему отражению в зеркале.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_19",
+      "word": "I was in the bath.",
+      "translation": "Я был в ванной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_20",
+      "word": "Tom doesn't shave.",
+      "translation": "Том не бреется.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_21",
+      "word": "I'm taking a bath.",
+      "translation": "Я в ванной.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_22",
+      "word": "I don't need a haircut.",
+      "translation": "Мне не нужна стрижка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_23",
+      "word": "Where's the toothpaste?",
+      "translation": "Где зубная паста?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_24",
+      "word": "I need to get a haircut.",
+      "translation": "Мне надо постричься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_25",
+      "word": "Tom is looking for a small mirror.",
+      "translation": "Том ищет маленькое зеркало.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_26",
+      "word": "Tom blew soap bubbles.",
+      "translation": "Том выдувал мыльные пузыри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_27",
+      "word": "I don't shave yet.",
+      "translation": "Я ещё не бреюсь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_28",
+      "word": "Is the bath ready?",
+      "translation": "Ванна готова?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_29",
+      "word": "Do you have any soap?",
+      "translation": "У тебя есть мыло?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_30",
+      "word": "Tom is looking at himself in the mirror.",
+      "translation": "Том смотрится в зеркало.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_31",
+      "word": "I'm out of shampoo.",
+      "translation": "У меня закончился шампунь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_32",
+      "word": "We need more soap.",
+      "translation": "Нам нужно больше мыла.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_33",
+      "word": "I need some soap.",
+      "translation": "Мне нужно мыло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_34",
+      "word": "I just took a bath.",
+      "translation": "Я просто принял ванну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_35",
+      "word": "They make used cooking oil into soap at that factory.",
+      "translation": "На той фабрике они делают из использованного масла мыло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_36",
+      "word": "Tom thinks Mary wears too much makeup.",
+      "translation": "Том считает, что Мэри слишком сильно красится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_37",
+      "word": "Tom got a haircut.",
+      "translation": "Том постригся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_38",
+      "word": "You need a shave.",
+      "translation": "Тебе нужно побриться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_39",
+      "word": "Tom needs a bath.",
+      "translation": "Тому нужно принять ванну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_40",
+      "word": "I need to shave.",
+      "translation": "Мне нужно побриться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_41",
+      "word": "Mary often wears too much perfume.",
+      "translation": "Мэри часто слишком сильно душится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_42",
+      "word": "Take a bath.",
+      "translation": "Прими ванну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_43",
+      "word": "The mirror is on top of the dresser.",
+      "translation": "Зеркало лежит на комоде.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_44",
+      "word": "I don't shave as often as Tom does.",
+      "translation": "Я не так часто бреюсь, как Том.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_45",
+      "word": "Don't drop the soap.",
+      "translation": "Не урони мыло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_46",
+      "word": "Tom wants a bath.",
+      "translation": "Том хочет помыться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_47",
+      "word": "Have you ever seen Mary without makeup?",
+      "translation": "Ты когда-нибудь видел Мэри без макияжа?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_48",
+      "word": "Tom picked up a piece of the broken mirror.",
+      "translation": "Том подобрал осколок зеркала.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_2_49",
+      "word": "Have you seen yourself in the mirror?",
+      "translation": "Ты себя в зеркале видел?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_0",
+      "word": "This is soap.",
+      "translation": "Это мыло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_1",
+      "word": "We used up the shampoo.",
+      "translation": "Мы использовали весь шампунь.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_2",
+      "word": "I have a wooden comb.",
+      "translation": "У меня есть деревянная расчёска.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_3",
+      "word": "I don't watch soap operas.",
+      "translation": "Я не смотрю мыльные оперы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_4",
+      "word": "I got a smooth shave.",
+      "translation": "Меня гладко выбрили.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_5",
+      "word": "Tom looked so different after his haircut.",
+      "translation": "Том выглядел совсем по-другому после стрижки.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_6",
+      "word": "Tom looked at his reflection in the mirror.",
+      "translation": "Том посмотрел на своё отражение в зеркале.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_7",
+      "word": "Tom hasn't taken a bath in three days.",
+      "translation": "Том три дня не мылся.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_8",
+      "word": "Tom got drunk and drowned while taking a bath.",
+      "translation": "Том напился и утонул, принимая ванну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_9",
+      "word": "Mary is putting makeup on.",
+      "translation": "Мэри красится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_10",
+      "word": "The soap bubble burst.",
+      "translation": "Мыльный пузырь лопнул.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_11",
+      "word": "I was taking a bath when the telephone rang.",
+      "translation": "Я принимал ванну, когда зазвонил телефон.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_12",
+      "word": "She stripped the child and put him in the bath.",
+      "translation": "Она раздела ребёнка и положила его в ванну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_13",
+      "word": "Tom looked in a mirror.",
+      "translation": "Том посмотрел в зеркало.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_14",
+      "word": "Tom took a mud bath.",
+      "translation": "Том принял грязевую ванну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_15",
+      "word": "Why did you shave off your beard?",
+      "translation": "Зачем ты сбрил бороду?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_16",
+      "word": "Tom glanced at the rear-view mirror.",
+      "translation": "Том бросил взгляд в зеркало заднего вида.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_17",
+      "word": "I looked into the mirror.",
+      "translation": "Я посмотрел в зеркало.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_18",
+      "word": "I bought some shampoo and toothpaste.",
+      "translation": "Я купила шампунь и зубную пасту.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_19",
+      "word": "We took a mud bath.",
+      "translation": "Мы приняли грязевую ванну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_20",
+      "word": "I can't find my comb.",
+      "translation": "Я не могу найти свою расчёску.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_21",
+      "word": "Can you give me a haircut?",
+      "translation": "Ты можешь меня постричь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_22",
+      "word": "I want a bath.",
+      "translation": "Я хочу ванну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_23",
+      "word": "He picked up a mirror and examined his tongue.",
+      "translation": "Он взял зеркало и стал внимательно рассматривать свой язык.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_24",
+      "word": "I need to get a shave.",
+      "translation": "Мне нужно побриться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_25",
+      "word": "Most toothpaste contains fluoride.",
+      "translation": "Большинство зубных паст содержит фтор.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_26",
+      "word": "How often do you look at yourself in a mirror?",
+      "translation": "Как часто ты смотришься в зеркало?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_27",
+      "word": "Where can I take a bath?",
+      "translation": "Где я могу принять ванну?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_28",
+      "word": "I've recently changed brands of toothpaste.",
+      "translation": "Я недавно поменял зубную пасту.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_29",
+      "word": "Look in the mirror.",
+      "translation": "Посмотри в зеркало.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_30",
+      "word": "The princess was wearing too much makeup.",
+      "translation": "На принцессе было слишком много макияжа.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_31",
+      "word": "How much soap do we need?",
+      "translation": "Сколько мыла нам нужно?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_32",
+      "word": "Tom adjusted his rear-view mirror.",
+      "translation": "Том поправил зеркало заднего вида.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_33",
+      "word": "Tom got out of the bath.",
+      "translation": "Том вылез из ванны.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_34",
+      "word": "Where's a mirror?",
+      "translation": "Где зеркало?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_35",
+      "word": "Tom was about to take a bath when the doorbell rang.",
+      "translation": "Том собирался принять ванну, когда в дверь позвонили.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_36",
+      "word": "Tom rinsed off the soap.",
+      "translation": "Том смыл мыло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_37",
+      "word": "Tom took a bath.",
+      "translation": "Том принял ванну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_38",
+      "word": "You forgot to comb your hair, Tom.",
+      "translation": "Ты забыл причесаться, Том!",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_39",
+      "word": "Mary asked Tom to shave off his beard.",
+      "translation": "Мэри попросила Тома сбрить бороду.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_40",
+      "word": "Tom said that you needed a haircut.",
+      "translation": "Том сказал, что тебе надо постричься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_41",
+      "word": "Mary is putting on makeup.",
+      "translation": "Мэри красится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_42",
+      "word": "Tom is taking a bath in my bathtub.",
+      "translation": "Том моется в моей ванне.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_43",
+      "word": "When are you going to get a haircut?",
+      "translation": "Ты когда пострижёшься?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_44",
+      "word": "I want to shave.",
+      "translation": "Я хочу побриться.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_45",
+      "word": "I want a large tube of toothpaste.",
+      "translation": "Мне нужен большой тюбик зубной путы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_46",
+      "word": "You really need to get a haircut.",
+      "translation": "Тебе действительно нужно постричься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_47",
+      "word": "Why do you need a comb if you're bald?",
+      "translation": "Зачем вам нужна расческа, если вы лысый?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_48",
+      "word": "Why don't you have your bath now?",
+      "translation": "Почему бы тебе не принять ванну сейчас?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_3_49",
+      "word": "Are you wearing perfume?",
+      "translation": "Ты надушилась?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_0",
+      "word": "You need a haircut.",
+      "translation": "Тебе нужно подстричься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_1",
+      "word": "I cut myself with a razor.",
+      "translation": "Я порезался бритвой.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_2",
+      "word": "A squirrel is taking a bath in the pond.",
+      "translation": "В пруду купается белка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_3",
+      "word": "Shave your mustache.",
+      "translation": "Сбрейте усы.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_4",
+      "word": "A mirror reflects light.",
+      "translation": "Зеркало отражает свет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_5",
+      "word": "Tom doesn't shave yet.",
+      "translation": "Том ещё не бреется.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_6",
+      "word": "Tom gazed at his reflection in the mirror.",
+      "translation": "Том взглянул на своё отражение в зеркале.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_7",
+      "word": "Where's the mirror?",
+      "translation": "Где зеркало?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_8",
+      "word": "I got soap in my eyes.",
+      "translation": "Мне мыло в глаза попало.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_9",
+      "word": "Have you taken a bath yet?",
+      "translation": "Ты уже помылся?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_10",
+      "word": "He took a mirror and carefully examined his tongue.",
+      "translation": "Он взял зеркало и внимательно изучил свой язык.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_11",
+      "word": "Tom doesn't use rinse. He only uses shampoo.",
+      "translation": "Том не пользуется ополаскивателем. Только шампунем.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_12",
+      "word": "The first thing you have to do is take a bath.",
+      "translation": "Первое, что тебе надо сделать, - это принять ванну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_13",
+      "word": "I need a bath.",
+      "translation": "Мне нужен душ.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_14",
+      "word": "Even though many women shave their legs, Mary doesn't.",
+      "translation": "Хотя многие женщины бреют ноги, Мэри этого не делает.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_15",
+      "word": "Tom and Mary looked at themselves in the mirror.",
+      "translation": "Том и Мэри посмотрели на себя в зеркало.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_16",
+      "word": "Tom gave the baby a bath.",
+      "translation": "Том выкупал ребёнка.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_17",
+      "word": "Tom thinks that Mary wears too much makeup.",
+      "translation": "Том считает, что Мэри слишком сильно красится.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_18",
+      "word": "Just look in the mirror.",
+      "translation": "Просто взгляни в зеркало.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_19",
+      "word": "I want a haircut.",
+      "translation": "Я хочу постричься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_20",
+      "word": "Where's my perfume?",
+      "translation": "Где мои духи?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_21",
+      "word": "Tom got soap in his eyes.",
+      "translation": "В глаза Тому попало мыло.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_22",
+      "word": "It irritates Tom when Mary leaves the cap off the toothpaste.",
+      "translation": "Тома раздражает, когда Маша не закручивает колпачок зубной пасты.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_23",
+      "word": "She looked at herself in the mirror.",
+      "translation": "Она посмотрелась в зеркало.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_24",
+      "word": "Tom said that he needed to take a bath.",
+      "translation": "Том сказал, что ему нужно принять ванну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_25",
+      "word": "Tom looked at himself in the mirror.",
+      "translation": "Том посмотрелся в зеркало.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_26",
+      "word": "Tom admired himself in the mirror.",
+      "translation": "Том любовался на себя в зеркало.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_27",
+      "word": "He squeezed the toothpaste out of a tube.",
+      "translation": "Он выдавил зубную пасту из тюбика.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_28",
+      "word": "Do you shave your armpits?",
+      "translation": "Ты бреешь подмышки?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_29",
+      "word": "The mirror broke.",
+      "translation": "Зеркало разбилось.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_30",
+      "word": "Do you have a mirror?",
+      "translation": "У вас есть зеркало?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_31",
+      "word": "I need toothpaste.",
+      "translation": "Мне нужна зубная паста.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_32",
+      "word": "Tom needs a haircut.",
+      "translation": "Тому надо подстричься.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_33",
+      "word": "We're out of soap.",
+      "translation": "У нас мыло закончилось.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_34",
+      "word": "There isn't any soap.",
+      "translation": "Мыла нет.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_35",
+      "word": "I was taking a bath.",
+      "translation": "Я принимал ванну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_36",
+      "word": "Where's the soap?",
+      "translation": "Где мыло?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_37",
+      "word": "Get a haircut.",
+      "translation": "Подстригись.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_38",
+      "word": "He blew soap bubbles.",
+      "translation": "Он выдувал мыльные пузыри.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_39",
+      "word": "Where's my shampoo?",
+      "translation": "Где мой шампунь?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_40",
+      "word": "I shave my legs.",
+      "translation": "Я брею ноги.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_41",
+      "word": "Have you taken a bath?",
+      "translation": "Вы принимали ванну?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_42",
+      "word": "I need to take a bath.",
+      "translation": "Мне нужно принять ванну.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_43",
+      "word": "Your bath is ready.",
+      "translation": "Ваша ванна готова.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_44",
+      "word": "The mirror is very dirty.",
+      "translation": "Зеркало очень грязное.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_45",
+      "word": "Why didn't you shave?",
+      "translation": "Почему Вы не побрились?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_46",
+      "word": "I looked in the mirror.",
+      "translation": "Я посмотрел в зеркало.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_47",
+      "word": "Tom looked in the mirror.",
+      "translation": "Том посмотрел в зеркало.",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_48",
+      "word": "Which shampoo do you use?",
+      "translation": "Каким шампунем ты пользуешься?",
+      "language": "en"
+    },
+    {
+      "id": "pb_personalcarehygiene_4_49",
+      "word": "I'm going to take a bath.",
+      "translation": "Я собираюсь принять ванну.",
+      "language": "en"
+    }
+  ]
+}
