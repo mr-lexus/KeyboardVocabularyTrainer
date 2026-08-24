@@ -62,6 +62,7 @@ import { topups as tMsFinalFill } from './core/topup-ms-finalfill.mjs';
 // topics keep global-dedupe priority).
 import { artpainting, religionspirituality, sciencephysics, historyempires, technologygadgets, internetwebsites } from './core/fill-thin-a.mjs';
 import { toolshardware, officestationery, mythologyfolklore, videogamesshootersaction, hobbiesgardening } from './core/fill-thin-b.mjs';
+import { bordercustoms, pharmacy, gasstationparking, laundromatcleaning, concertsevents, carrental } from './core/batch-everyday3.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -116,6 +117,13 @@ const TOPICS = {
   mythologyfolklore,
   videogamesshootersaction,
   hobbiesgardening,
+  // brand-new everyday scenario dictionaries (todo 7)
+  bordercustoms,
+  pharmacy,
+  gasstationparking,
+  laundromatcleaning,
+  concertsevents,
+  carrental,
 };
 
 // Merge every top-up batch into its base topic (order: base phrases first).

@@ -1,0 +1,649 @@
+{
+  "id": "phrasebook-concertsevents",
+  "name": "Concerts & Events",
+  "description": "Фразы для концертов и мероприятий: билеты, вход, фан-зона, мерч, поведение в толпе, фестивали.",
+  "entries": [
+    {
+      "id": "pbq_concertsevents_0",
+      "word": "Are there still tickets for tonight show?",
+      "translation": "Ещё есть билеты на вечерний концерт?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_1",
+      "word": "Standing tickets cost less than seated ones.",
+      "translation": "Стоячие билеты дешевле сидячих.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_2",
+      "word": "I prefer standing right by the stage barrier.",
+      "translation": "Я люблю стоять у самой сцены.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_3",
+      "word": "Presale codes arrived by newsletter this morning.",
+      "translation": "Коды пресейла пришли утром в рассылке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_4",
+      "word": "Tickets sold out within ten minutes.",
+      "translation": "Билеты раскупили за десять минут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_5",
+      "word": "Resale sites charge triple face value sometimes.",
+      "translation": "Перепродажи иногда просят тройную цену.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_6",
+      "word": "Only buy from official resale partners.",
+      "translation": "Покупайте только у официальных партнёров перепродажи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_7",
+      "word": "Digital tickets live in the venue app now.",
+      "translation": "Цифровые билеты теперь живут в приложении площадки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_8",
+      "word": "Screenshot tickets fail when refresh codes rotate.",
+      "translation": "Скриншоты не работают, когда коды обновляются.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_9",
+      "word": "Doors open at seven, stage at nine.",
+      "translation": "Двери в семь, выход на сцену в девять.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_10",
+      "word": "Early entry gets merch before it sells out.",
+      "translation": "Ранний вход успевает к мерчу до распродажи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_11",
+      "word": "The queue wrapped around two city blocks.",
+      "translation": "Очередь обвивала два квартала.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_12",
+      "word": "Security checks bags and confiscates glass bottles.",
+      "translation": "Охрана досматривает сумки и изымает стекло.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_13",
+      "word": "Cameras with detachable lenses stay prohibited.",
+      "translation": "Камеры со сменными объективами запрещены.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_14",
+      "word": "Phone photos pass, professional gear does not.",
+      "translation": "Фото на телефон можно, профессиональную технику нет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_15",
+      "word": "Coat check costs two coins per item.",
+      "translation": "Гардероб стоит две монеты за вещь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_16",
+      "word": "Support act warms the crowd from eight.",
+      "translation": "Разогрев греет толпу с восьми.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_17",
+      "word": "Nobody comes for the opening act but everyone remembers great ones.",
+      "translation": "На разогрев никто не идёт, но лучших все помнят.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_18",
+      "word": "The crowd surged forward when lights dropped.",
+      "translation": "Толпа рванула вперёд, когда погас свет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_19",
+      "word": "Barrier spots require arrival hours early.",
+      "translation": "Места у барьера требуют прийти за часы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_20",
+      "word": "Pit tickets mean bruises as souvenirs.",
+      "translation": "Билеты в пит означают синяки вместо сувениров.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_21",
+      "word": "Crowd surfers float overhead toward security.",
+      "translation": "Краудсёрферы плывут над головами к охране.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_22",
+      "word": "Mosh pits open in the centre politely enough.",
+      "translation": "Мошпиты открываются в центре вполне вежливо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_23",
+      "word": "Look after each other in dense crowds.",
+      "translation": "В плотной толпе присматривайте друг за другом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_24",
+      "word": "If someone falls, lift them immediately.",
+      "translation": "Если кто-то упал — поднимите немедленно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_25",
+      "word": "Hydration stations hand out free water cups.",
+      "translation": "Пункты воды раздают бесплатные стаканчики.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_26",
+      "word": "Empty reusable bottles refill at fountains.",
+      "translation": "Многоразовые бутылки наполняются у фонтанчиков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_27",
+      "word": "Earplugs save tomorrow hearing today.",
+      "translation": "Беруши спасают завтрашний слух сегодня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_28",
+      "word": "High fidelity earplugs keep music clear anyway.",
+      "translation": "Качественные беруши сохраняют музыку чистой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_29",
+      "word": "Ringing ears after concerts signal real damage.",
+      "translation": "Звон в ушах после концерта — реальный ущерб.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_30",
+      "word": "The encore lasted three additional songs.",
+      "translation": "На бис сыграли ещё три песни.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_31",
+      "word": "Everyone held phone flashlights during the ballad.",
+      "translation": "Во время баллады все держали фонарики телефонов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_32",
+      "word": "Confetti cannons buried the front rows happily.",
+      "translation": "Конфетти радостно засыпало первые ряды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_33",
+      "word": "Setlists printed backstage rarely match rumours online.",
+      "translation": "Сет-листы за кулисами редко совпадают со слухами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_34",
+      "word": "Merch queues move slower than beer lines.",
+      "translation": "Очередь за мерчем движется медленнее пивной.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_35",
+      "word": "Tour shirts shrink one size in first wash.",
+      "translation": "Тур-футболки садятся на размер после первой стирки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_36",
+      "word": "Limited posters sell out before doors even open.",
+      "translation": "Лимитированные постеры уходят до открытия дверей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_37",
+      "word": "Vinyl tables tempt collectors every interval.",
+      "translation": "Столы с винилом искушают коллекционеров на каждом антракте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_38",
+      "word": "Signings happen at the merch stand afterwards.",
+      "translation": "Автографы — у стенда с мерчем после шоу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_39",
+      "word": "Festival wristbands survive showers but not scissors.",
+      "translation": "Фестивальные браслеты переживают душ, но не ножницы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_40",
+      "word": "Lost wristbands mean buying entry again.",
+      "translation": "Потерянный браслет — покупай вход заново.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_41",
+      "word": "Camping pitches fill by Thursday afternoon.",
+      "translation": "Кемпинг заполняется к четвергу после обеда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_42",
+      "word": "Festival showers queue forty minutes at dawn.",
+      "translation": "За фестивальным душем утром очередь на сорок минут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_43",
+      "word": "Wellies beat sneakers on British festival fields.",
+      "translation": "Резиновые сапоги лучше кроссовок на британских полях.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_44",
+      "word": "Rain turns festival grounds into mud baths.",
+      "translation": "Дождь превращает фестивальные поля в грязевые ванны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_45",
+      "word": "Sunscreen reapplication beats regret by miles.",
+      "translation": "Повторный крем от солнца лучше сожалений.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_46",
+      "word": "Meeting points matter when phones die.",
+      "translation": "Точки встречи важны, когда телефоны умирают.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_47",
+      "word": "Signal towers overload with fifty thousand uploads.",
+      "translation": "Вышки перегружаются пятьюдесятью тысячами загрузок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_48",
+      "word": "Agree on set times instead of texting through sets.",
+      "translation": "Договоритесь о времени встреч вместо переписки во время песен.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_49",
+      "word": "Clashing stages force painful schedule choices.",
+      "translation": "Параллельные сцены заставляют болезненно выбирать расписание.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_50",
+      "word": "Festival apps build personal timetables automatically.",
+      "translation": "Фестивальное приложение само собирает личное расписание.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_51",
+      "word": "Classical concerts applaud after movements not during.",
+      "translation": "На классике аплодируют после частей, а не во время.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_52",
+      "word": "Opera subtitles project above the stage tiny but readable.",
+      "translation": "Субтитры в опере висят над сценой — мелко, но читаемо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_53",
+      "word": "Jazz clubs whisper orders between numbers.",
+      "translation": "В джаз-клубах заказы шепчут между номерами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_54",
+      "word": "Open mic nights reward courage over polish.",
+      "translation": "Открытые микрофоны награждают смелость, а не вылизанность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_55",
+      "word": "Buskers earn coins through well chosen covers.",
+      "translation": "Уличные музыканты зарабатывают удачными каверами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_56",
+      "word": "Street performers appreciate applause more than spare change sometimes.",
+      "translation": "Уличным артистам аплодисменты порой дороже мелочи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_57",
+      "word": "Comedy clubs enforce strict phone policies now.",
+      "translation": "Комедийные клубы жёстко следят за телефонами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_58",
+      "word": "Hecklers fuel some comedians and sink others.",
+      "translation": "Хеклеров одни комики используют, других топят.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_59",
+      "word": "Two drink minimums pad comedy club revenue.",
+      "translation": "Минимум два напитка подпитывают бюджеты клубов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_60",
+      "word": "Theatre intervals sell ice cream worth the queue.",
+      "translation": "В антрактах театра мороженое стоит очереди.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_61",
+      "word": "Standing ovations begin somewhere middle left apparently.",
+      "translation": "Овации стоя начинаются где-то слева посередине.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_62",
+      "word": "Encore chants rhythm matters more than volume.",
+      "translation": "Ритм криков «на бис» важнее громкости.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_63",
+      "word": "Sports arenas transform into concert venues overnight.",
+      "translation": "Спортарены превращаются в концертные залы за ночь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_64",
+      "word": "Sightlines behind stages sell half price for reasons.",
+      "translation": "Места за сценой продаются вдвое дешевле по понятным причинам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_65",
+      "word": "Sound quality varies wildly across arena sections.",
+      "translation": "Звук гуляет по секторам арены дико.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_66",
+      "word": "Under hung balconies lose treble completely.",
+      "translation": "Под нависающими балконами пропадают верхние частоты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_67",
+      "word": "Front of house engineers mix for the dead zone too.",
+      "translation": "Звукорежиссёры сводят и для мёртвой зоны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_68",
+      "word": "Accessible seating books through dedicated channels only.",
+      "translation": "Доступные места бронируются только через отдельные каналы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_69",
+      "word": "Companion tickets accompany wheelchair spaces free.",
+      "translation": "Сопровождающие идут бесплатно к местам для колясок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_70",
+      "word": "Assistance dogs welcome everywhere except mosh pits obviously.",
+      "translation": "Собаки-помощники везде welcome, кроме мошпита очевидно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_71",
+      "word": "Age restrictions vary from all ages to eighteen plus.",
+      "translation": "Возрастные ограничения — от семейных до восемнадцать плюс.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_72",
+      "word": "Under sixteens need adults at most standing shows.",
+      "translation": "До шестнадцати — только со взрослыми на стоячих шоу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_73",
+      "word": "ID checks enforce age restricted areas strictly.",
+      "translation": "Проверки документов строго держат возрастные зоны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_74",
+      "word": "Cashless venues top up wristbands at kiosks.",
+      "translation": "Безналичные площадки пополняют браслеты у киосков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_75",
+      "word": "Refund kiosks return unused balances until midnight.",
+      "translation": "Терминалы возврата отдают остатки до полуночи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_76",
+      "word": "Unclaimed balances vanish into venue profits.",
+      "translation": "Невостребованные остатки растворяются в прибыли площадок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_77",
+      "word": "After parties announce location via social media only.",
+      "translation": "Афтепати анонсируют только в соцсетях.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_78",
+      "word": "Public transport runs extra late services event nights.",
+      "translation": "Транспорт гоняет допоздна в вечера мероприятий.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_79",
+      "word": "Taxi ranks chaos peaks exactly at encore end.",
+      "translation": "Хаос на такси-стоянках пикует ровно на конце биса.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_80",
+      "word": "Walking twenty minutes beats waiting sixty for cabs.",
+      "translation": "Пройти двадцать минут лучше часа ожидания такси.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_81",
+      "word": "Designated drivers deserve free soft drinks honestly.",
+      "translation": "Трезвые водители заслуживают бесплатных лимонадов честно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_82",
+      "word": "Venue water fountains hide near first aid points.",
+      "translation": "Фонтанчики прячутся возле медпунктов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_83",
+      "word": "First aid tents treat everything from blisters to dehydration.",
+      "translation": "Медпункты лечат всё от мозолей до обезвоживания.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_84",
+      "word": "Lost property offices reunite jackets with owners weekly.",
+      "translation": "Бюро находок еженедельно возвращает куртки владельцам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_85",
+      "word": "Nothing ends a night like finding your coat instantly.",
+      "translation": "Ночь отлично заканчивается мгновенно найденной курткой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_86",
+      "word": "Festival fashion prioritises pockets over aesthetics.",
+      "translation": "Фестивальная мода ставит карманы выше эстетики.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_87",
+      "word": "Bum bags crossed over chests defeat pickpockets mostly.",
+      "translation": "Поясные сумки через грудь почти побеждают карманников.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_88",
+      "word": "Portable phone chargers sell at triple price inside.",
+      "translation": "Пауэрбанки внутри стоят втрое дороже.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_89",
+      "word": "Charge everything the night before religiously.",
+      "translation": "Заряжайте всё накануне религиозно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_90",
+      "word": "Printed tickets backup digital ones perfectly.",
+      "translation": "Распечатанные билеты отлично страхуют цифровые.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_91",
+      "word": "Local support scenes deserve the same crowds headliners get.",
+      "translation": "Местные сцены заслуживают толпы не меньше хедлайнеров.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_92",
+      "word": "Discovering opening acts becomes the festival souvenir.",
+      "translation": "Открытие разогревов — лучший фестивальный сувенир.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_93",
+      "word": "VIP packages buy views plus queues, rarely magic.",
+      "translation": "VIP-пакеты покупают виды и минус очереди, но не магию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_94",
+      "word": "Soundcheck scraps drift over empty arenas like previews.",
+      "translation": "Обрывки саундчека плывут над пустой ареной как анонс.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_95",
+      "word": "Hearing the band tune up still beats any ringtone.",
+      "translation": "Даже настройка инструментов лучше любого рингтона.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_96",
+      "word": "Balcony railings hold jackets and nervous first-timers.",
+      "translation": "Балконные ограждения держат куртки и нервных новичков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_97",
+      "word": "First concerts deserve floors, not seats.",
+      "translation": "Первый концерт заслуживает танцпола, а не кресел.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_98",
+      "word": "Seated sections sit down during hits against all rules.",
+      "translation": "Сидячие сектора встают на хитах вопреки всем правилам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_99",
+      "word": "Ushers gave up enforcing seat rows by song three.",
+      "translation": "Билетёры сдались после третьей песни.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_100",
+      "word": "Stadium roofs turn rain into percussion anyway.",
+      "translation": "Стадионные крыши превращают дождь в перкуссию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_101",
+      "word": "Open air venues gamble with weather and usually win.",
+      "translation": "Открытые площадки играют с погодой и обычно выигрывают.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_102",
+      "word": "Sunset slots photograph every chorus golden.",
+      "translation": "Закатные слоты снимают каждый припев золотым.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_103",
+      "word": "Drone shows replaced fireworks at family festivals.",
+      "translation": "Дрон-шоу заменили салюты на семейных фестивалях.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_104",
+      "word": "Kids areas trade volume for bouncy castles wisely.",
+      "translation": "Детские зоны мудро меняют громкость на батуты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_105",
+      "word": "Family sections sound like concerts through pillows.",
+      "translation": "Семейные сектора звучат как концерт через подушку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_concertsevents_106",
+      "word": "Quiet rooms serve sensory sensitive guests thoughtfully.",
+      "translation": "Тихие комнаты продуманно служат гостям с сенсорной чувствительностью.",
+      "language": "en"
+    }
+  ]
+}

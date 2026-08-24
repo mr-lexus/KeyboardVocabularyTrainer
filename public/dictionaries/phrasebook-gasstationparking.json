@@ -1,0 +1,619 @@
+{
+  "id": "phrasebook-gasstationparking",
+  "name": "Gas Station & Parking",
+  "description": "Фразы для заправки и парковки: виды топлива, оплата, парковочные зоны, штрафы, автоматы.",
+  "entries": [
+    {
+      "id": "pbq_gasstationparking_0",
+      "word": "Fill it up with regular please.",
+      "translation": "Полный бак, обычный, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_1",
+      "word": "Twenty litres of diesel please.",
+      "translation": "Двадцать литров дизеля, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_2",
+      "word": "Unleaded ninety-five or ninety-eight?",
+      "translation": "Неэтилированный девяносто пять или девяносто восемь?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_3",
+      "word": "My car runs on diesel only.",
+      "translation": "Моя машина ездит только на дизеле.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_4",
+      "word": "Wrong fuel in a diesel engine ruins it.",
+      "translation": "Бензин в дизельном двигателе его губит.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_5",
+      "word": "Where is the fuel cap on this car?",
+      "translation": "С какой стороны лючок бака у этой машины?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_6",
+      "word": "The gauge shows just under half a tank.",
+      "translation": "Стрелка показывает чуть меньше половины бака.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_7",
+      "word": "Pump number three is out of order.",
+      "translation": "Колонка номер три не работает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_8",
+      "word": "Pay inside or at the pump?",
+      "translation": "Оплата в кассе или у колонки?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_9",
+      "word": "I need a receipt for the company expenses.",
+      "translation": "Мне нужен чек на командировочные.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_10",
+      "word": "Prepay twenty euros on pump five.",
+      "translation": "Предоплата двадцать евро на пятой колонке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_11",
+      "word": "Your change and receipt, thank you.",
+      "translation": "Ваша сдача и чек, спасибо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_12",
+      "word": "Do you have AdBlue for diesel engines?",
+      "translation": "У вас есть AdBlue для дизельных двигателей?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_13",
+      "word": "The tyre pressure station sits near the exit.",
+      "translation": "Компрессор для шин находится у выезда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_14",
+      "word": "Check tyre pressures when tyres are cold.",
+      "translation": "Проверяйте давление на холодных шинах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_15",
+      "word": "Thirty-two PSI all around works for this model.",
+      "translation": "Тридцать два PSI по кругу подходит этой модели.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_16",
+      "word": "The windscreen squeegees are free to use.",
+      "translation": "Стеклоочистители в ведёрках — бесплатно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_17",
+      "word": "Diesel exhaust fluid refills sit beside the pumps.",
+      "translation": "Канистры AdBlue стоят рядом с колонками.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_18",
+      "word": "Is the car wash open this late?",
+      "translation": "Мойка работает так поздно?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_19",
+      "word": "Basic wash costs extra three euros with fuel.",
+      "translation": "Базовая мойка плюс три евро к заправке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_20",
+      "word": "Enter the wash code within ten minutes.",
+      "translation": "Введите код мойки в течение десяти минут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_21",
+      "word": "Electric charging points occupy the front row.",
+      "translation": "Электрозарядки занимают первый ряд.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_22",
+      "word": "Charging takes forty minutes to eighty percent.",
+      "translation": "Зарядка до восьмидесяти процентов занимает сорок минут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_23",
+      "word": "Download the app to activate fast chargers.",
+      "translation": "Скачайте приложение для быстрых зарядок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_24",
+      "word": "LPG refill requires the special adapter nozzle.",
+      "translation": "Заправка пропаном требует специальный переходник.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_25",
+      "word": "Restrooms are around the back of the shop.",
+      "translation": "Туалет за магазином.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_26",
+      "word": "Hot drinks and snacks inside the minimart.",
+      "translation": "Горячие напитки и снеки в мини-маркете.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_27",
+      "word": "This highway stop gets busy at lunch.",
+      "translation": "Эта придорожная забита в обед.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_28",
+      "word": "Fuel prices spike before every holiday weekend.",
+      "translation": "Цены на топливо взлетают перед праздниками.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_29",
+      "word": "Compare prices across stations using apps.",
+      "translation": "Сравнивайте цены между заправками через приложения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_30",
+      "word": "Self service saves about ten cents per litre.",
+      "translation": "Самообслуживание экономит около десяти центов с литра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_31",
+      "word": "Keep the fuel cap tightened until it clicks.",
+      "translation": "Закручивайте крышку бака до щелчка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_32",
+      "word": "A loose cap triggers check engine lights.",
+      "translation": "Неплотная крышка зажигает Check Engine.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_33",
+      "word": "Parking meter accepts coins and cards now.",
+      "translation": "Паркомат принимает монеты и карты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_34",
+      "word": "How much per hour in this zone?",
+      "translation": "Сколько стоит час в этой зоне?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_35",
+      "word": "Two euros per hour, maximum four hours.",
+      "translation": "Два евро в час, максимум четыре часа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_36",
+      "word": "The machine prints a ticket for the dashboard.",
+      "translation": "Автомат печатает квитанцию под лобовое стекло.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_37",
+      "word": "Place the ticket visibly behind the windscreen.",
+      "translation": "Кладите квитанцию на видное место под стекло.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_38",
+      "word": "Free parking between eight in the evening and nine morning.",
+      "translation": "Бесплатная парковка с восьми вечера до девяти утра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_39",
+      "word": "Sunday parking is free in most districts.",
+      "translation": "По воскресеньям парковка бесплатна в большинстве районов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_40",
+      "word": "Resident permits allow unlimited zone parking.",
+      "translation": "Резидентские разрешения дают безлимитную парковку в зоне.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_41",
+      "word": "Visitor passes last one day maximum.",
+      "translation": "Гостевые пропуска действуют максимум один день.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_42",
+      "word": "Disabled bays require visible badges always.",
+      "translation": "Места для инвалидов требуют видимого значка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_43",
+      "word": "Parking on pavements earns instant fines here.",
+      "translation": "Парковка на тротуарах здесь карается штрафом сразу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_44",
+      "word": "The clamp comes off after paying at city office.",
+      "translation": "Блокиратор снимут после оплаты в городском офисе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_45",
+      "word": "Towed cars go to the impound on Dock Road.",
+      "translation": "Эвакуированные машины — на штрафстоянку на Док Роуд.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_46",
+      "word": "Appeal wrongful tickets online within fourteen days.",
+      "translation": "Оспаривайте ошибочные штрафы онлайн в течение четырнадцати дней.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_47",
+      "word": "Photo evidence strengthens every appeal.",
+      "translation": "Фотофиксация усиливает любое обжалование.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_48",
+      "word": "Multi-storey parking charges by the hour.",
+      "translation": "Многоэтажные паркинги берут почасово.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_49",
+      "word": "Keep the entry ticket until you exit.",
+      "translation": "Сохраняйте въездной билет до выезда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_50",
+      "word": "Lost tickets pay the full day rate.",
+      "translation": "За потерянный билет — тариф за полные сутки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_51",
+      "word": "Height barriers block roof boxes at two metres.",
+      "translation": "Ограничители высоты не пускают боксы выше двух метров.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_52",
+      "word": "Motorcycle bays cost half price downtown.",
+      "translation": "Мотоциклетные места стоят вдвое дешевле в центре.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_53",
+      "word": "Park within the painted lines or risk towing.",
+      "translation": "Паркуйтесь внутри разметки или рискуете эвакуацией.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_54",
+      "word": "Reversing into bays makes exits faster.",
+      "translation": "Задняя парковка ускоряет выезд.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_55",
+      "word": "Parallel parking needs about one and a half car lengths.",
+      "translation": "Для параллельной парковки нужно полторы длины машины.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_56",
+      "word": "Turn the wheel fully toward the kerb when parking uphill.",
+      "translation": "На подъёме выверните колёса к бордюру.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_57",
+      "word": "Wheel chocks replace handbrakes on steep streets.",
+      "translation": "Башмаки заменяют ручник на крутых улицах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_58",
+      "word": "Underground garages smell faintly of exhaust forever.",
+      "translation": "Подземные паркинги вечно пахнут выхлопом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_59",
+      "word": "Remember the bay number, levels look identical.",
+      "translation": "Запоминайте номер места — уровни одинаковые.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_60",
+      "word": "Photograph your parking spot in big garages.",
+      "translation": "Фотографируйте место в больших паркингах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_61",
+      "word": "EV bays fine non electric vehicles heavily.",
+      "translation": "За стоянку неэлектромобилей на электрозарядках — крупный штраф.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_62",
+      "word": "Loading bays allow unloading for thirty minutes.",
+      "translation": "Разгрузочные места дают тридцать минут на разгрузку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_63",
+      "word": "Hazard lights excuse brief double parking nowhere officially.",
+      "translation": "Аварийка официально нигде не оправдывает вторую линию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_64",
+      "word": "School zigzags prohibit stopping at any time.",
+      "translation": "Зигзаги у школ запрещают остановку всегда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_65",
+      "word": "Bus lanes turn parking lanes at rush hours sometimes.",
+      "translation": "Автобусные полосы иногда становятся парковочными вне часа пик.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_66",
+      "word": "Read the sign plate, not just its colour.",
+      "translation": "Читайте табличку целиком, а не только цвет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_67",
+      "word": "Time plates override general zone rules.",
+      "translation": "Таблички со временем отменяют общие правила зоны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_68",
+      "word": "Parking apps extend sessions remotely now.",
+      "translation": "Приложения продлевают парковку удалённо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_69",
+      "word": "Notifications warn fifteen minutes before expiry.",
+      "translation": "Уведомления приходят за пятнадцать минут до конца.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_70",
+      "word": "Season tickets save money for daily commuters.",
+      "translation": "Сезонные абонементы выгодны ежедневным поездкам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_71",
+      "word": "Hotel guests park free with room validation.",
+      "translation": "Гости отелей паркуются бесплатно по штампу номера.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_72",
+      "word": "Supermarket lots limit stays to two hours.",
+      "translation": "Стоянки супермаркетов ограничены двумя часами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_73",
+      "word": "Camera systems read plates automatically at entrances.",
+      "translation": "Камеры на въезде считывают номера автоматически.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_74",
+      "word": "Barrier lifts after paying at the terminal.",
+      "translation": "Шлагбаум поднимается после оплаты в терминале.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_75",
+      "word": "Contactless cards speed up exit queues.",
+      "translation": "Бесконтактные карты ускоряют очередь на выезде.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_76",
+      "word": "Motorway services charge for overnight parking.",
+      "translation": "Придорожные комплексы берут плату за ночёвку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_77",
+      "word": "Lorries idle in designated rest zones only.",
+      "translation": "Фуры стоят только в обозначенных зонах отдыха.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_78",
+      "word": "Bicycle racks sit beside every transit hub.",
+      "translation": "Велопарковки есть у каждого транспортного хаба.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_79",
+      "word": "Lock frames and wheels through the rack itself.",
+      "translation": "Крепите раму и колесо через саму стойку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_80",
+      "word": "Airport long stay lots run shuttles every fifteen minutes.",
+      "translation": "Долгосрочные аэропортовые стоянки возят шаттлами каждые пятнадцать минут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_81",
+      "word": "Compare official versus private airport parking early.",
+      "translation": "Сравнивайте официальные и частные парковки заранее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_82",
+      "word": "Street cleaning mornings clear rows of cars weekly.",
+      "translation": "Уборка улиц еженедельно освобождает ряды машин.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_83",
+      "word": "Tow warnings hang from lampposts on cleaning days.",
+      "translation": "Предупреждения об эвакуации висят на столбах в дни уборки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_84",
+      "word": "Snow emergencies ban parking along entire routes.",
+      "translation": "Снежные чрезвычайности запрещают парковку вдоль целых маршрутов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_85",
+      "word": "Winter tyres matter more than parking luck.",
+      "translation": "Зимние шины важнее удачи с парковкой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_86",
+      "word": "Handbrake freezes on wet winter nights.",
+      "translation": "Ручник примерзает влажными зимними ночами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_87",
+      "word": "Leave a gear engaged when parking on slopes.",
+      "translation": "Оставляйте передачу на склонах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_88",
+      "word": "Curb your wheels against the sidewalk downhill.",
+      "translation": "На спуске выворачивайте колёса к бордюру.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_89",
+      "word": "Uphill without curb means wheels toward the road edge.",
+      "translation": "В гору без бордюра — колёса к краю дороги.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_90",
+      "word": "Parking sensors beep faster as gaps shrink.",
+      "translation": "Парктроники пищат чаще при сближении.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_91",
+      "word": "Rear cameras show lines that bend with steering.",
+      "translation": "Камера рисует линии изгиба по рулю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_92",
+      "word": "Mirrors still beat cameras for judging distance.",
+      "translation": "Зеркала оценивают дистанцию лучше камер.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_93",
+      "word": "Fold mirrors tight in narrow medieval streets.",
+      "translation": "Складывайте зеркала в узких старых улочках.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_94",
+      "word": "Some old towns ban visitor parking entirely.",
+      "translation": "Некоторые старые города вовсе запрещают парковку гостям.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_95",
+      "word": "Park outside and walk in, honestly easier.",
+      "translation": "Паркуйтесь за окраиной и идите пешком — честно проще.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_96",
+      "word": "A parking fine costs less than a tow but stings longer.",
+      "translation": "Штраф дешевле эвакуации, но помнится дольше.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_97",
+      "word": "Pay promptly, discounts vanish after forty-eight hours.",
+      "translation": "Платите быстро — скидки исчезают через сорок восемь часов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_98",
+      "word": "Keep coins in the car for older meters.",
+      "translation": "Возите мелочь в машине для старых паркоматов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_99",
+      "word": "The attendant waved us toward the empty corner.",
+      "translation": "Смотритель махнул нам к свободному углу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_100",
+      "word": "Full signs mean full, circling wastes fuel.",
+      "translation": "Табличка «занято» значит занято — круги жгут бензин.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_gasstationparking_101",
+      "word": "Patience plus reverse lights equals a free spot soon.",
+      "translation": "Терпение плюс задние фонари = скоро свободное место.",
+      "language": "en"
+    }
+  ]
+}

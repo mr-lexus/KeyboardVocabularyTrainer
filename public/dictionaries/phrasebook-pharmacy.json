@@ -1,0 +1,619 @@
+{
+  "id": "phrasebook-pharmacy",
+  "name": "Pharmacy & Medicine Counter",
+  "description": "Фразы для аптеки: покупка лекарств без рецепта, дозировки, симптомы, консультация фармацевта.",
+  "entries": [
+    {
+      "id": "pbq_pharmacy_0",
+      "word": "I am looking for something for a headache.",
+      "translation": "Ищу что-нибудь от головной боли.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_1",
+      "word": "Do you have anything stronger for migraines?",
+      "translation": "Есть что-то посильнее от мигрени?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_2",
+      "word": "Is this available without a prescription?",
+      "translation": "Это продаётся без рецепта?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_3",
+      "word": "I have a prescription from my doctor here.",
+      "translation": "Вот рецепт от моего врача.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_4",
+      "word": "Could you check if this prescription is ready?",
+      "translation": "Проверьте, готов ли этот рецепт?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_5",
+      "word": "What do you recommend for a dry cough?",
+      "translation": "Что посоветуете от сухого кашля?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_6",
+      "word": "Something for an upset stomach please.",
+      "translation": "Что-нибудь от расстройства желудка, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_7",
+      "word": "I need allergy tablets for hay fever season.",
+      "translation": "Мне нужны таблетки от аллергии на сезон пыльцы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_8",
+      "word": "Are these antihistamines drowsy or non drowsy?",
+      "translation": "Эти антигистаминные вызывают сонливость или нет?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_9",
+      "word": "How often should I take these tablets?",
+      "translation": "Как часто принимать эти таблетки?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_10",
+      "word": "One tablet twice daily after meals.",
+      "translation": "По одной таблетке дважды в день после еды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_11",
+      "word": "Should I take it with food or on empty stomach?",
+      "translation": "Принимать с едой или натощак?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_12",
+      "word": "Take with plenty of water.",
+      "translation": "Запивайте большим количеством воды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_13",
+      "word": "Can I take this with my other medications?",
+      "translation": "Можно совмещать это с другими моими лекарствами?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_14",
+      "word": "Any known side effects I should expect?",
+      "translation": "Какие побочные эффекты возможны?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_15",
+      "word": "Drowsiness is the most common side effect.",
+      "translation": "Сонливость — самый частый побочный эффект.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_16",
+      "word": "Stop taking it if you develop a rash.",
+      "translation": "Прекратите приём при появлении сыпи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_17",
+      "word": "I am allergic to penicillin.",
+      "translation": "У меня аллергия на пенициллин.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_18",
+      "word": "Is this product suitable for children?",
+      "translation": "Этот продукт подходит детям?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_19",
+      "word": "What dosage for a seven year old?",
+      "translation": "Какая дозировка для семилетнего ребёнка?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_20",
+      "word": "Children doses depend on weight, not age.",
+      "translation": "Детские дозы зависят от веса, а не возраста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_21",
+      "word": "Is this safe during pregnancy?",
+      "translation": "Это безопасно при беременности?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_22",
+      "word": "Consult your doctor before combining with pregnancy.",
+      "translation": "При беременности согласуйте с врачом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_23",
+      "word": "Do you carry baby fever reducers?",
+      "translation": "Есть детские жаропонижающие?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_24",
+      "word": "A thermometer would help too please.",
+      "translation": "Термометр тоже нужен, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_25",
+      "word": "Digital thermometers beat mercury ones nowadays.",
+      "translation": "Цифровые термометры давно лучше ртутных.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_26",
+      "word": "I need bandages and antiseptic for a cut.",
+      "translation": "Нужны бинты и антисептик для пореза.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_27",
+      "word": "Hydrogen peroxide stings but cleans well.",
+      "translation": "Перекись щиплет, но хорошо чистит.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_28",
+      "word": "Do you sell elastic knee supports?",
+      "translation": "Есть эластичные наколенники?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_29",
+      "word": "I twisted my ankle, what do you suggest?",
+      "translation": "Я подвернул ногу, что посоветуете?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_30",
+      "word": "RICE means rest ice compression elevation.",
+      "translation": "RICE значит покой, лёд, компрессия, возвышение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_31",
+      "word": "Something for muscle soreness after workouts.",
+      "translation": "Что-нибудь от мышечной боли после тренировок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_32",
+      "word": "This anti-inflammatory gel rubs in easily.",
+      "translation": "Этот противовоспалительный гель легко втирается.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_33",
+      "word": "Do not apply gel on broken skin.",
+      "translation": "Не наносите гель на повреждённую кожу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_34",
+      "word": "I need sunburn relief lotion urgently.",
+      "translation": "Срочно нужно средство от солнечных ожогов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_35",
+      "word": "Aloe vera gel cools burns instantly.",
+      "translation": "Гель алоэ мгновенно охлаждает ожоги.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_36",
+      "word": "What SPF would you recommend for fair skin?",
+      "translation": "Какой SPF посоветуете для светлой кожи?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_37",
+      "word": "SPF fifty plus reapply every two hours.",
+      "translation": "SPF пятьдесят плюс, обновляйте каждые два часа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_38",
+      "word": "Do you have motion sickness tablets?",
+      "translation": "Есть таблетки от укачивания?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_39",
+      "word": "Take one hour before the journey starts.",
+      "translation": "Примите за час до начала поездки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_40",
+      "word": "Something for insect bites that itch.",
+      "translation": "Что-нибудь от зуда после укусов насекомых.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_41",
+      "word": "Antihistamine cream reduces itching quickly.",
+      "translation": "Антигистаминный крем быстро снимает зуд.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_42",
+      "word": "I ran out of my blood pressure medication.",
+      "translation": "У меня закончились таблетки от давления.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_43",
+      "word": "Refills require the original prescription box.",
+      "translation": "Продление требует оригинальную упаковку рецепта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_44",
+      "word": "Can you order this medication for tomorrow?",
+      "translation": "Можно заказать это лекарство к завтрашнему дню?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_45",
+      "word": "We can order it, arrives Thursday morning.",
+      "translation": "Мы можем заказать, придёт в четверг утром.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_46",
+      "word": "Is there a generic version of this brand?",
+      "translation": "Есть дженерик этого бренда?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_47",
+      "word": "Generics contain the same active ingredient cheaper.",
+      "translation": "Дженерики содержат то же действующее вещество дешевле.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_48",
+      "word": "How much does this cost without insurance?",
+      "translation": "Сколько это стоит без страховки?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_49",
+      "word": "Do you accept this insurance card?",
+      "translation": "Вы принимаете эту страховую карту?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_50",
+      "word": "Your insurance covers part of the total.",
+      "translation": "Страховка покрывает часть суммы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_51",
+      "word": "Keep the receipt for reimbursement claims.",
+      "translation": "Сохраните чек для возмещения расходов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_52",
+      "word": "Vitamins sit on aisle three.",
+      "translation": "Витамины на третьей полке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_53",
+      "word": "I need vitamin D drops for winter months.",
+      "translation": "Нужен витамин D в каплях на зимние месяцы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_54",
+      "word": "Prenatal vitamins come highly recommended here.",
+      "translation": "Пренатальные витамины здесь очень советуют.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_55",
+      "word": "Do you have probiotics after antibiotics?",
+      "translation": "Есть пробиотики после антикурса антибиотиков?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_56",
+      "word": "Take probiotics two hours apart from antibiotics.",
+      "translation": "Пробиотики принимайте с разницей в два часа от антибиотиков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_57",
+      "word": "Finish the entire antibiotic course regardless.",
+      "translation": "Антибиотики пропейте курсом до конца в любом случае.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_58",
+      "word": "Stopping early breeds resistant bacteria.",
+      "translation": "Раннее прекращение выращивает устойчивые бактерии.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_59",
+      "word": "I need a first aid kit for travel.",
+      "translation": "Нужна аптечка для поездки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_60",
+      "word": "Travel kits should include rehydration salts.",
+      "translation": "В дорожную аптечку входят соли для регидратации.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_61",
+      "word": "Do you stock mosquito repellent with DEET?",
+      "translation": "Есть репеллент от комаров с ДЭТА?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_62",
+      "word": "Thirty percent DEET suffices for most regions.",
+      "translation": "Тридцати процентов ДЭТА хватает для большинства регионов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_63",
+      "word": "My contact lens solution ran out.",
+      "translation": "У меня закончился раствор для линз.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_64",
+      "word": "Saline differs from multipurpose cleaning solution.",
+      "translation": "Физраствор отличается от многофункционального раствора.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_65",
+      "word": "Do you deliver prescriptions to hotels?",
+      "translation": "Вы доставляете рецепты в отели?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_66",
+      "word": "Home delivery costs nothing above twenty euros.",
+      "translation": "Доставка бесплатна от двадцати евро.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_67",
+      "word": "The pharmacy closes at eight tonight.",
+      "translation": "Аптека закрывается сегодня в восемь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_68",
+      "word": "Which pharmacy stays open all night?",
+      "translation": "Какая аптека работает всю ночь?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_69",
+      "word": "The duty pharmacy rota is posted outside.",
+      "translation": "График дежурных аптек висит снаружи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_70",
+      "word": "Consultations behind that screen are free.",
+      "translation": "Консультации за той ширмой бесплатны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_71",
+      "word": "Can I speak to the pharmacist privately?",
+      "translation": "Можно поговорить с фармацевтом наедине?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_72",
+      "word": "Describe your symptoms honestly for good advice.",
+      "translation": "Честно опишите симптомы для хорошего совета.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_73",
+      "word": "How long have you had these symptoms?",
+      "translation": "Как давно у вас эти симптомы?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_74",
+      "word": "More than a week warrants a doctor visit.",
+      "translation": "Больше недели — повод сходить к врачу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_75",
+      "word": "Pharmacists refer serious symptoms to clinics.",
+      "translation": "Фармацевты направляют серьёзные симптомы в клиники.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_76",
+      "word": "Chest pain goes to emergency, not pharmacy.",
+      "translation": "Боль в груди — повод для скорой, не аптеки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_77",
+      "word": "Store this syrup in the fridge after opening.",
+      "translation": "Храните сироп в холодильнике после вскрытия.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_78",
+      "word": "Discard medications past their expiry date.",
+      "translation": "Выбрасывайте лекарства после срока годности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_79",
+      "word": "Expired medicine loses potency unpredictably.",
+      "translation": "Просроченные лекарства теряют силу непредсказуемо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_80",
+      "word": "Pharmacies accept expired drugs for disposal.",
+      "translation": "Аптеки принимают просроченные лекарства на утилизацию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_81",
+      "word": "Never flush old medicine down the toilet.",
+      "translation": "Никогда не смывайте старые лекарства в унитаз.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_82",
+      "word": "Childproof caps confuse grandparents more than kids.",
+      "translation": "Защитные крышки путают бабушек больше, чем детей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_83",
+      "word": "Read the patient leaflet inside the box.",
+      "translation": "Читайте вкладыш внутри упаковки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_84",
+      "word": "Interactions warnings matter more than fine print suggests.",
+      "translation": "Предупреждения о взаимодействиях важнее, чем кажется.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_85",
+      "word": "Grapefruit juice interacts with many pills.",
+      "translation": "Грейпфрутовый сок взаимодействует со многими таблетками.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_86",
+      "word": "Alcohol warning labels exist for reasons.",
+      "translation": "Предупреждения об алкоголе написаны не просто так.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_87",
+      "word": "Measure liquid doses with the provided cup.",
+      "translation": "Отмеряйте жидкие дозы приложенным стаканчиком.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_88",
+      "word": "Kitchen spoons measure nothing accurately.",
+      "translation": "Кухонные ложки ничего не меряют точно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_89",
+      "word": "Shake suspensions before every use.",
+      "translation": "Встряхивайте суспензии перед каждым применением.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_90",
+      "word": "Creams apply thin layers more effectively.",
+      "translation": "Кремы работают тонким слоем эффективнее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_91",
+      "word": "Eye drops go in the lower eyelid pocket.",
+      "translation": "Капли капают в кармашек нижнего века.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_92",
+      "word": "Inhalers need slow deep breaths to work.",
+      "translation": "Ингаляторы требуют медленного глубокого вдоха.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_93",
+      "word": "Rinse your mouth after steroid inhalers.",
+      "translation": "Полощите рот после стероидных ингаляторов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_94",
+      "word": "Nasal sprays aim slightly outward, not straight.",
+      "translation": "Назальные спреи направляйте чуть наружу, не прямо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_95",
+      "word": "Suppositories work best after refrigeration.",
+      "translation": "Свечи лучше работают охлаждёнными.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_96",
+      "word": "Patches stick best on clean dry skin.",
+      "translation": "Пластыри держатся на чистой сухой коже.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_97",
+      "word": "Rotate patch sites to avoid irritation.",
+      "translation": "Меняйте места пластырей, чтобы избежать раздражения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_98",
+      "word": "Ask the pharmacist before dosing children.",
+      "translation": "Спрашивайте фармацевта перед дозировкой детям.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_99",
+      "word": "Double doses never make up missed ones.",
+      "translation": "Двойная доза не заменяет пропущенную.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_100",
+      "word": "Missed dose? Take it unless nearly time for next.",
+      "translation": "Пропустили? Принимайте, если скоро следующая — нет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_pharmacy_101",
+      "word": "A good pharmacist answers questions doctors skip.",
+      "translation": "Хороший фармацевт отвечает на вопросы, которые врачи пропускают.",
+      "language": "en"
+    }
+  ]
+}

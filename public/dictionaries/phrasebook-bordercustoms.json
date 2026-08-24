@@ -1,0 +1,607 @@
+{
+  "id": "phrasebook-bordercustoms",
+  "name": "Border & Customs",
+  "description": "Фразы для границы и таможни: паспортный контроль, декларации, досмотр, вопросы о цели визита.",
+  "entries": [
+    {
+      "id": "pbq_bordercustoms_0",
+      "word": "Good morning, may I see your passport?",
+      "translation": "Доброе утро, могу я увидеть ваш паспорт?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_1",
+      "word": "Here is my passport and visa.",
+      "translation": "Вот мой паспорт и виза.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_2",
+      "word": "I am here for tourism for two weeks.",
+      "translation": "Я здесь как турист на две недели.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_3",
+      "word": "I am attending a business conference.",
+      "translation": "Я приехал на деловую конференцию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_4",
+      "word": "How long will you stay in the country?",
+      "translation": "Сколько вы пробудете в стране?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_5",
+      "word": "Where will you be staying during your visit?",
+      "translation": "Где вы остановитесь во время визита?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_6",
+      "word": "I booked a hotel in the city centre.",
+      "translation": "Я забронировал отель в центре города.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_7",
+      "word": "Do you have a return ticket?",
+      "translation": "У вас есть обратный билет?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_8",
+      "word": "Yes, here is my return reservation.",
+      "translation": "Да, вот моё обратное бронирование.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_9",
+      "word": "Are you travelling alone or with family?",
+      "translation": "Вы путешествуете один или с семьёй?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_10",
+      "word": "I am travelling with my spouse and two children.",
+      "translation": "Я путешествую с супругой и двумя детьми.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_11",
+      "word": "Is this your first visit to our country?",
+      "translation": "Это ваш первый визит в нашу страну?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_12",
+      "word": "No, I visited three years ago as well.",
+      "translation": "Нет, я приезжал три года назад.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_13",
+      "word": "Please place your bags on the scale.",
+      "translation": "Пожалуйста, поставьте сумки на весы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_14",
+      "word": "Any liquids over one hundred millilitres?",
+      "translation": "Есть жидкости больше ста миллилитров?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_15",
+      "word": "Laptops and tablets go in separate trays.",
+      "translation": "Ноутбуки и планшеты кладите в отдельные лотки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_16",
+      "word": "Please remove your belt and empty your pockets.",
+      "translation": "Снимите ремень и опустошите карманы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_17",
+      "word": "Step through the scanner please.",
+      "translation": "Пройдите через сканер, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_18",
+      "word": "The alarm went off, I have a metal implant.",
+      "translation": "Сигнал сработал — у меня металлический имплант.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_19",
+      "word": "Would you like a private screening instead?",
+      "translation": "Хотите пройти досмотр в отдельной комнате?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_20",
+      "word": "Open your suitcase slowly for inspection please.",
+      "translation": "Медленно откройте чемодан для досмотра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_21",
+      "word": "What are you declaring at customs?",
+      "translation": "Что вы декларируете на таможне?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_22",
+      "word": "Nothing to declare, I only have personal items.",
+      "translation": "Мне нечего декларировать, только личные вещи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_23",
+      "word": "I am carrying medication with a prescription.",
+      "translation": "У меня лекарства по рецепту.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_24",
+      "word": "Here is the doctor note for my medication.",
+      "translation": "Вот врачебная справка к моим лекарствам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_25",
+      "word": "Are you bringing any food products into the country?",
+      "translation": "Вы ввозите какие-нибудь продукты питания?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_26",
+      "word": "Fresh fruit is prohibited, packaged snacks are fine.",
+      "translation": "Свежие фрукты запрещены, упакованные снеки можно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_27",
+      "word": "Cash over ten thousand must be declared.",
+      "translation": "Наличные свыше десяти тысяч подлежат декларированию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_28",
+      "word": "Where can I find the declaration forms?",
+      "translation": "Где взять бланки декларации?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_29",
+      "word": "Fill out this form in block letters please.",
+      "translation": "Заполните эту форму печатными буквами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_30",
+      "word": "Keep the stamped copy until you leave.",
+      "translation": "Сохраняйте штампованный экземпляр до отъезда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_31",
+      "word": "You may bring two litres of wine duty free.",
+      "translation": "Можно ввезти два литра вина без пошлины.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_32",
+      "word": "Cigarettes beyond the limit incur duty charges.",
+      "translation": "Сигареты сверх лимита облагаются пошлиной.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_33",
+      "word": "This camera is for personal use only.",
+      "translation": "Эта камера только для личного пользования.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_34",
+      "word": "I declare this watch purchased abroad.",
+      "translation": "Декларирую эти часы, купленные за границей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_35",
+      "word": "May I see the receipt for this electronics?",
+      "translation": "Можно чек на эту электронику?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_36",
+      "word": "Gifts above the value limit get taxed.",
+      "translation": "Подарки выше стоимостного лимита облагаются налогом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_37",
+      "word": "Your visa expires next week, plan accordingly.",
+      "translation": "Ваша виза истекает через неделю, учитывайте это.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_38",
+      "word": "I need to extend my visa stay.",
+      "translation": "Мне нужно продлить пребывание по визе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_39",
+      "word": "Overstaying results in fines and entry bans.",
+      "translation": "За просрочку — штрафы и запрет на въезд.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_40",
+      "word": "Where is the immigration counter for foreigners?",
+      "translation": "Где стойка иммиграционного контроля для иностранцев?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_41",
+      "word": "Follow the green channel if nothing to declare.",
+      "translation": "Идите по зелёному коридору, если нечего декларировать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_42",
+      "word": "The red channel is for declared goods.",
+      "translation": "Красный коридор для декларируемых товаров.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_43",
+      "word": "Random selection, please place bags here.",
+      "translation": "Случайная проверка, поставьте багаж сюда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_44",
+      "word": "May I search your vehicle briefly?",
+      "translation": "Можно кратко осмотреть ваш автомобиль?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_45",
+      "word": "Everything in the trunk belongs to us.",
+      "translation": "Всё в багажнике принадлежит нам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_46",
+      "word": "These souvenirs total under the limit.",
+      "translation": "Эти сувениры стоят ниже лимита.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_47",
+      "word": "Your documents check out, welcome through.",
+      "translation": "Документы в порядке, проходите.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_48",
+      "word": "Welcome, enjoy your stay with us.",
+      "translation": "Добро пожаловать, приятного пребывания.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_49",
+      "word": "Next in line, have your documents ready.",
+      "translation": "Следующий, приготовьте документы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_50",
+      "word": "The queue for non residents is on the left.",
+      "translation": "Очередь для нерезидентов слева.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_51",
+      "word": "Electronic gates accept biometric passports now.",
+      "translation": "Электронные ворота принимают биометрические паспорта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_52",
+      "word": "My passport photo no longer looks like me.",
+      "translation": "Моё фото в паспорте уже на меня не похоже.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_53",
+      "word": "Passport validity must exceed six months.",
+      "translation": "Срок действия паспорта должен превышать шесть месяцев.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_54",
+      "word": "Renew your passport before booking flights.",
+      "translation": "Обновите паспорт до бронирования рейсов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_55",
+      "word": "Transit passengers stay within the international zone.",
+      "translation": "Транзитные пассажиры остаются в международной зоне.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_56",
+      "word": "Do I need a transit visa for this connection?",
+      "translation": "Нужна ли транзитная виза для этой пересадки?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_57",
+      "word": "Customs officers may ask about large purchases.",
+      "translation": "Таможенники могут спросить о крупных покупках.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_58",
+      "word": "Keep receipts handy for expensive items.",
+      "translation": "Держите чеки под рукой на дорогие вещи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_59",
+      "word": "Duty free allowances differ per country.",
+      "translation": "Беспошлинные нормы различаются по странам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_60",
+      "word": "Check allowances before flying home.",
+      "translation": "Проверьте нормы перед вылетом домой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_61",
+      "word": "Pets require vaccination certificates at borders.",
+      "translation": "Для питомцев на границе нужны сертификаты прививок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_62",
+      "word": "My dog has an EU pet passport.",
+      "translation": "У моей собаки европейский паспорт животного.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_63",
+      "word": "Quarantine rules apply to unvaccinated animals.",
+      "translation": "Карантинные правила касаются непривитых животных.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_64",
+      "word": "Declare musical instruments worth over the limit.",
+      "translation": "Декларируйте музыкальные инструменты дороже лимита.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_65",
+      "word": "Professional equipment needs a carnet document.",
+      "translation": "Для профессионального оборудования нужен документ карнет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_66",
+      "word": "The carnet lists every item crossing borders temporarily.",
+      "translation": "Карнет перечисляет всё, что временно пересекает границу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_67",
+      "word": "Lost your customs stamp? Report it immediately.",
+      "translation": "Потеряли таможенный штамп? Сообщите немедленно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_68",
+      "word": "Smuggling penalties include confiscation and prosecution.",
+      "translation": "За контрабанду — конфискация и судебное преследование.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_69",
+      "word": "Ignorance of limits excuses nobody at customs.",
+      "translation": "Незнание лимитов никого не оправдывает на таможне.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_70",
+      "word": "When in doubt, always declare.",
+      "translation": "Сомневаетесь — всегда декларируйте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_71",
+      "word": "Officers appreciate honesty over clever packing.",
+      "translation": "Офицеры ценят честность больше хитрой укладки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_72",
+      "word": "The border opens at six in the morning.",
+      "translation": "Граница открывается в шесть утра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_73",
+      "word": "Expect hour long queues on holiday weekends.",
+      "translation": "В праздничные выходные ждите часовых очередей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_74",
+      "word": "Pedestrian crossing saves hours versus driving.",
+      "translation": "Пешеходный переход экономит часы по сравнению с машиной.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_75",
+      "word": "Documents checked twice: exit and entry.",
+      "translation": "Документы проверяют дважды: на выезде и въезде.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_76",
+      "word": "Exit stamps prove you left legally.",
+      "translation": "Штампы о выезде доказывают легальный выезд.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_77",
+      "word": "Entry refusals happen even with valid visas.",
+      "translation": "Отказы во въезде случаются даже с действующими визами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_78",
+      "word": "Border guards can ask for proof of funds.",
+      "translation": "Пограничники могут попросить подтверждение средств.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_79",
+      "word": "A credit card usually satisfies that question.",
+      "translation": "Кредитная карта обычно отвечает на этот вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_80",
+      "word": "Invitation letters help business visitors clear faster.",
+      "translation": "Пригласительные письма ускоряют прохождение для деловых гостей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_81",
+      "word": "My host company sent an invitation letter.",
+      "translation": "Принимающая компания прислала приглашение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_82",
+      "word": "Students show enrolment letters at immigration.",
+      "translation": "Студенты показывают справки о зачислении на контроле.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_83",
+      "word": "Work permits get verified against employer records.",
+      "translation": "Рабочие разрешения сверяют с данными работодателя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_84",
+      "word": "Dual citizens enter on the passport of this country.",
+      "translation": "Двойные граждане въезжают по паспорту этой страны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_85",
+      "word": "Which passport did you exit on?",
+      "translation": "По какому паспорту вы выезжали?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_86",
+      "word": "Children need their own travel documents now.",
+      "translation": "Детям теперь нужны собственные проездные документы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_87",
+      "word": "Notarised consent letters accompany solo travelling minors.",
+      "translation": "С несовершеннолетними без родителей — нотариальное согласие.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_88",
+      "word": "One parent travelling needs the other consent sometimes.",
+      "translation": "Одному из родителей иногда нужно согласие второго.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_89",
+      "word": "Vehicle imports require temporary registration papers.",
+      "translation": "Для временного ввоза авто нужны бумаги временной регистрации.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_90",
+      "word": "Green cards for cars insure cross border liability.",
+      "translation": "Зелёные карты страхуют автогражданку при пересечении границ.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_91",
+      "word": "Fuel levels get noted on some crossings.",
+      "translation": "На некоторых переходах отмечают уровень топлива.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_92",
+      "word": "Right hand drive vehicles face import restrictions.",
+      "translation": "Праворульные машины сталкиваются с ограничениями ввоза.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_93",
+      "word": "Bicycles pass through the pedestrian lane freely.",
+      "translation": "Велосипеды свободно проходят через пешеходную полосу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_94",
+      "word": "Declare currency equivalents honestly at all times.",
+      "translation": "Всегда честно декларируйте валюту в эквиваленте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_95",
+      "word": "The officer stamped both passport pages carefully.",
+      "translation": "Офицер аккуратно поставил штампы на обе страницы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_96",
+      "word": "Check the stamp date before walking away.",
+      "translation": "Проверьте дату штампа, прежде чем уйти.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_97",
+      "word": "Wrong dates cause headaches at departure.",
+      "translation": "Неверные даты создают проблемы при выезде.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_98",
+      "word": "Nothing beats arriving with complete paperwork.",
+      "translation": "Ничто не сравнится с прибытием с полным пакетом документов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bordercustoms_99",
+      "word": "Preparation turns borders into formality.",
+      "translation": "Подготовка превращает границу в формальность.",
+      "language": "en"
+    }
+  ]
+}

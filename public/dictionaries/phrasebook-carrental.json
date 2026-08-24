@@ -1,0 +1,637 @@
+{
+  "id": "phrasebook-carrental",
+  "name": "Car Rental",
+  "description": "Фразы для аренды авто: бронирование, страховки, осмотр машины, возврат, топливная политика.",
+  "entries": [
+    {
+      "id": "pbq_carrental_0",
+      "word": "I have a reservation under this name.",
+      "translation": "У меня бронирование на эту фамилию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_1",
+      "word": "May I see your driving licence and passport?",
+      "translation": "Можно ваши права и паспорт?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_2",
+      "word": "How long will you need the vehicle?",
+      "translation": "На какой срок нужна машина?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_3",
+      "word": "Compact or economy class available today.",
+      "translation": "Сегодня доступны компакт и эконом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_4",
+      "word": "I would like an automatic transmission please.",
+      "translation": "Мне бы автомат, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_5",
+      "word": "Manuals book cheaper but automatics sell out fast.",
+      "translation": "Механика дешевле, но автоматы разбирают быстро.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_6",
+      "word": "Does the rental include unlimited mileage?",
+      "translation": "Пробег в аренде неограниченный?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_7",
+      "word": "Mileage caps charge extra per kilometre beyond.",
+      "translation": "Лимит пробега сверх — доплата за километр.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_8",
+      "word": "What insurance options do you offer?",
+      "translation": "Какие варианты страховки есть?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_9",
+      "word": "Basic coverage carries a high excess amount.",
+      "translation": "Базовое покрытие несёт высокую франшизу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_10",
+      "word": "Full coverage reduces the excess to zero.",
+      "translation": "Полное покрытие снижает франшизу до нуля.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_11",
+      "word": "My credit card includes rental insurance already.",
+      "translation": "Моя кредитка уже включает страховку аренды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_12",
+      "word": "Card coverage requires declining company insurance formally.",
+      "translation": "Покрытие карты требует формального отказа от страховки компании.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_13",
+      "word": "Check whether tyres and windows count as covered.",
+      "translation": "Проверьте, входят ли шины и стёкла в покрытие.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_14",
+      "word": "Glass damage often sits outside basic policies.",
+      "translation": "Стёкла часто вне базовых полисов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_15",
+      "word": "Underbody damage never falls under standard cover.",
+      "translation": "Повреждение днища никогда не покрывается стандартом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_16",
+      "word": "Should I prepay fuel or return full?",
+      "translation": "Предоплатить бензин или вернуть полный бак?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_17",
+      "word": "Full to full policy suits my plans better.",
+      "translation": "Полный-полный подходит моим планам больше.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_18",
+      "word": "Prepaid fuel refunds nothing for unused litres.",
+      "translation": "За предоплаченное топливо ничего не вернут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_19",
+      "word": "Nearest petrol station sits two kilometres away.",
+      "translation": "Ближайшая заправка в двух километрах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_20",
+      "word": "Keep the fuel receipt as proof of refuelling.",
+      "translation": "Сохраните чек как доказательство заправки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_21",
+      "word": "Late returns charge full day rates.",
+      "translation": "Поздний возврат тарифицируется как полные сутки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_22",
+      "word": "Grace periods last fifty-nine minutes usually.",
+      "translation": "Льготный период обычно пятьдесят девять минут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_23",
+      "word": "Where do I collect the car keys?",
+      "translation": "Где получить ключи от машины?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_24",
+      "word": "Shuttle buses run to offsite rental lots.",
+      "translation": "Шаттлы возят к удалённым парковкам проката.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_25",
+      "word": "Inspect the car thoroughly before signing anything.",
+      "translation": "Осмотрите машину тщательно до подписания.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_26",
+      "word": "Photograph every existing scratch with timestamps.",
+      "translation": "Сфотографируйте каждую царапину со временем.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_27",
+      "word": "Note dents on the condition report diagram.",
+      "translation": "Отметьте вмятины на схеме акта осмотра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_28",
+      "word": "The agent marked pre-existing damage together with me.",
+      "translation": "Агент отметил существующие повреждения вместе со мной.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_29",
+      "word": "Video walkarounds protect both sides later.",
+      "translation": "Видеообход защищает потом обе стороны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_30",
+      "word": "Check tyre pressure and tread depth quickly.",
+      "translation": "Быстро проверьте давление и протектор шин.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_31",
+      "word": "Spare tyre, jack and warning triangle present?",
+      "translation": "Запаска, домкрат и треугольник на месте?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_32",
+      "word": "Reflective vests sit legally required in many countries.",
+      "translation": "Светоотражающие жилеты обязательны во многих странах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_33",
+      "word": "Where is the child seat mounted?",
+      "translation": "Как установлено детское кресло?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_34",
+      "word": "Child seats rent daily but bring your own fits better.",
+      "translation": "Детские кресла сдаются в сутки, но своё надёжнее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_35",
+      "word": "GPS units cost extra, phones navigate fine mostly.",
+      "translation": "Навигаторы платные, телефон справляется почти всегда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_36",
+      "word": "Roof racks require prior arrangement and fees.",
+      "translation": "Багажники на крышу требуют договорённости и оплаты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_37",
+      "word": "Crossing borders needs written permission from us.",
+      "translation": "Для пересечения границы нужно наше письменное разрешение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_38",
+      "word": "Some countries void insurance entirely once abroad.",
+      "translation": "В некоторых странах страховка аннулируется за границей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_39",
+      "word": "Additional drivers must register at the counter.",
+      "translation": "Дополнительных водителей регистрируют на стойке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_40",
+      "word": "Unregistered drivers invalidate all coverage.",
+      "translation": "Незарегистрированные водители лишают покрытия.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_41",
+      "word": "Young driver surcharges apply under twenty-five.",
+      "translation": "Надбавка для молодых водителей действует до двадцати пяти.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_42",
+      "word": "The deposit hold releases within two weeks.",
+      "translation": "Залог размораживается в течение двух недель.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_43",
+      "word": "Deposit holds confuse budgets more than charges do.",
+      "translation": "Замороженные залоги путают бюджеты сильнее списаний.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_44",
+      "word": "Smoking in the vehicle triggers cleaning fees.",
+      "translation": "Курение в машине вызывает штраф за чистку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_45",
+      "word": "Pet hair cleaning bills arrive itemised.",
+      "translation": "Счета за шерсть животных приходят с детализацией.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_46",
+      "word": "Return the car with same fuel level as collected.",
+      "translation": "Возвращайте машину с тем же уровнем топлива.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_47",
+      "word": "Where is the return lane at the airport?",
+      "translation": "Где полоса возврата в аэропорту?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_48",
+      "word": "Keys go into the drop box outside hours.",
+      "translation": "Ключи — в бокc вне рабочих часов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_49",
+      "word": "The inspection happens after you leave unfortunately.",
+      "translation": "Осмотр происходит после вашего отъезда, увы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_50",
+      "word": "That is why timestamped photos matter so much.",
+      "translation": "Поэтому фото со временем так важны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_51",
+      "word": "Dispute damage claims with your photo evidence promptly.",
+      "translation": "Оспаривайте претензии фотофиксацией незамедлительно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_52",
+      "word": "Email disputes create paper trails that work.",
+      "translation": "Письменные споры создают работающие следы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_53",
+      "word": "Chargebacks through card issuers remain the final resort.",
+      "translation": "Чарджбэк через банк — крайняя мера.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_54",
+      "word": "One way rentals drop cars in other cities for fees.",
+      "translation": "Односторонняя аренда оставляет машину в другом городе за доплату.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_55",
+      "word": "International drops cost hundreds extra usually.",
+      "translation": "Международный возврат обычно стоит сотни сверху.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_56",
+      "word": "Weekend deals run Friday noon to Monday morning.",
+      "translation": "Выгодные выходные — с полудня пятницы до утра понедельника.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_57",
+      "word": "Weekly rates undercut seven daily prices noticeably.",
+      "translation": "Недельный тариф заметно ниже семи суточных.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_58",
+      "word": "Loyalty tiers skip counters entirely at some brands.",
+      "translation": "Уровни лояльности минуют стойки у некоторых брендов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_59",
+      "word": "Vehicles wait in numbered bays with keys inside.",
+      "translation": "Машины ждут в пронумерованных боксах с ключами внутри.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_60",
+      "word": "Choose any car in your class row.",
+      "translation": "Выбирайте любую машину своего ряда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_61",
+      "word": "Upgrades happen free when classes run dry.",
+      "translation": "Апгрейды бесплатны, когда класс закончился.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_62",
+      "word": "Electric rentals need charging app registrations beforehand.",
+      "translation": "Электрокары требуют заранее зарегистрироваться в зарядных приложениях.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_63",
+      "word": "Range anxiety fades after the first recharge.",
+      "translation": "Страх разряда проходит после первой зарядки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_64",
+      "word": "Regenerative braking feels strange for two days then natural.",
+      "translation": "Рекуперация странна два дня, потом естественна.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_65",
+      "word": "Winter rentals should confirm studded tyres legally.",
+      "translation": "Зимняя аренда должна подтверждать шипованные шины по закону.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_66",
+      "word": "Snow chains rent alongside vehicles in alpine branches.",
+      "translation": "Цепи сдаются вместе с машинами в альпийских офисах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_67",
+      "word": "Toll transponders attach inside windscreens automatically.",
+      "translation": "Транспондеры для платных дорог крепятся к лобовому стеклу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_68",
+      "word": "Toll charges bill your card weeks later.",
+      "translation": "Платные дороги списываются с карты неделями позже.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_69",
+      "word": "Congestion charges bill separately from tolls.",
+      "translation": "Плата за въезд в центр считается отдельно от дорог.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_70",
+      "word": "Parking fines forward to renters with admin fees.",
+      "translation": "Штрафы за парковку пересылают арендатору с комиссией.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_71",
+      "word": "Speed camera flashes haunt rental invoices months later.",
+      "translation": "Вспышки камер преследуют счета проката месяцами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_72",
+      "word": "Traffic violations transfer liability to the driver named.",
+      "translation": "Ответственность за нарушения переходит на названного водителя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_73",
+      "word": "Accidents require police reports for insurance regardless.",
+      "translation": "При ДТП нужен полицейский протокол для страховки в любом случае.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_74",
+      "word": "Never admit fault at roadside, exchange details only.",
+      "translation": "Не признавайте вину на месте — только обмен данными.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_75",
+      "word": "Emergency numbers print on the rental agreement first page.",
+      "translation": "Экстренные номера напечатаны на первой странице договора.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_76",
+      "word": "Breakdown assistance answers twenty-four hours in local language.",
+      "translation": "Помощь на дороге отвечает круглосуточно на местном языке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_77",
+      "word": "Flat tyres change with the kit unless runflats fitted.",
+      "translation": "Колесо меняется комплектом, если это не RunFlat.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_78",
+      "word": "Runflat tyres travel fifty miles punctured safely.",
+      "translation": "RunFlat проезжает пятьдесят миль после прокола.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_79",
+      "word": "Lost keys charge several hundred euros sadly.",
+      "translation": "Потерянные ключи стоят несколько сотен евро, увы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_80",
+      "word": "Modern keys embed chips costing fortunes to replace.",
+      "translation": "Современные ключи содержат чипы баснословной замены.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_81",
+      "word": "Clean interiors avoid detailing charges at return.",
+      "translation": "Чистый салон избавляет от счёта за химчистку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_82",
+      "word": "Remove rubbish before returning, wrappers photograph poorly.",
+      "translation": "Уберите мусор перед возвратом — обёртки плохо выглядят на фото.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_83",
+      "word": "A spotless return takes five minutes and saves arguments.",
+      "translation": "Чистый возврат занимает пять минут и экономит споры.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_84",
+      "word": "Rate the experience honestly, reviews discipline branches.",
+      "translation": "Оценивайте честно — отзывы дисциплинируют офисы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_85",
+      "word": "Renting taught me more about cars than owning ever did.",
+      "translation": "Прокат научил меня о машинах больше, чем владение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_86",
+      "word": "Book directly with agencies to keep recourse clear.",
+      "translation": "Бронируйте напрямую у прокатчиков, чтобы не терять права требования.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_87",
+      "word": "Third party bookings complicate every dispute later.",
+      "translation": "Сторонние бронирования усложняют любые споры потом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_88",
+      "word": "Screenshot the confirmed rate at booking time.",
+      "translation": "Сохраняйте скриншот подтверждённой цены при бронировании.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_89",
+      "word": "Counter upsells politely decline onto paper anyway.",
+      "translation": "Апселлы на стойке вежливо отклоняйте, но читайте бумаги.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_90",
+      "word": "Prepaid vouchers sometimes hide local surcharges.",
+      "translation": "Предоплаченные ваучеры иногда прячут местные доплаты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_91",
+      "word": "Airport locations add concession fees city branches skip.",
+      "translation": "Аэропортовые офисы добавляют сборы, которых нет в городе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_92",
+      "word": "City pickup saves fees but limits hours.",
+      "translation": "Городская выдача экономит на сборах, но ограничена по времени.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_93",
+      "word": "Sunday closures catch returning renters off guard.",
+      "translation": "Воскресные выходные застигают возвращающих врасплох.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_94",
+      "word": "Confirm return location hours before departure day.",
+      "translation": "Уточняйте часы возврата заранее, не в день вылета.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_95",
+      "word": "After hours returns photograph keys in drop boxes.",
+      "translation": "При ночном возврате фотографируйте ключи в боксе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_96",
+      "word": "Fuel gauge photos timestamped close disputes instantly.",
+      "translation": "Фото уровня топлива со временем гасят споры мгновенно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_97",
+      "word": "Diesel particulate filters demand motorway runs occasionally.",
+      "translation": "Сажевым фильтрам дизеля нужны периодические трассы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_98",
+      "word": "Short city trips clog filters and dashboards warn.",
+      "translation": "Короткие городские поездки забивают фильтры — панель предупредит.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_99",
+      "word": "AdBlue top-ups sit beside fuel caps in modern diesels.",
+      "translation": "Заправки AdBlue прячутся рядом с лючком бака в современных дизелях.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_100",
+      "word": "Hybrid rentals sip fuel but demand gentle brakes.",
+      "translation": "Гибриды пьют мало, но любят мягкие тормоза.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_101",
+      "word": "Engine start stop confuses drivers for one traffic light.",
+      "translation": "Старт-стоп путает водителей ровно один светофор.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_102",
+      "word": "Hill hold assist prevents rollback embarrassment automatically.",
+      "translation": "Ассистент трогания в гору спасает от отката автоматически.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_103",
+      "word": "Lane keeping nudges steering wheels without asking.",
+      "translation": "Держатель полосы подруливает без спроса.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carrental_104",
+      "word": "Driver assistance chimes annoy until they save bumpers.",
+      "translation": "Сигналы ассистентов раздражают, пока не спасут бампер.",
+      "language": "en"
+    }
+  ]
+}

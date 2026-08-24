@@ -1447,6 +1447,54 @@
       "file": "dictionaries/phrasebook-simracing.json",
       "wordCount": 291,
       "emoji": "🎮"
+    },
+    {
+      "id": "phrasebook-bordercustoms",
+      "name": "Border & Customs",
+      "description": "Фразы для границы и таможни: паспортный контроль, декларации, досмотр, вопросы о цели визита.",
+      "file": "dictionaries/phrasebook-bordercustoms.json",
+      "wordCount": 100,
+      "emoji": "🛂"
+    },
+    {
+      "id": "phrasebook-pharmacy",
+      "name": "Pharmacy & Medicine Counter",
+      "description": "Фразы для аптеки: покупка лекарств без рецепта, дозировки, симптомы, консультация фармацевта.",
+      "file": "dictionaries/phrasebook-pharmacy.json",
+      "wordCount": 102,
+      "emoji": "🧴"
+    },
+    {
+      "id": "phrasebook-gasstationparking",
+      "name": "Gas Station & Parking",
+      "description": "Фразы для заправки и парковки: виды топлива, оплата, парковочные зоны, штрафы, автоматы.",
+      "file": "dictionaries/phrasebook-gasstationparking.json",
+      "wordCount": 102,
+      "emoji": "⛽"
+    },
+    {
+      "id": "phrasebook-laundromatcleaning",
+      "name": "Laundromat & Cleaning",
+      "description": "Фразы для прачечной самообслуживания и уборки: режимы стирки, пятна, сушка, химчистка, бытовая химия.",
+      "file": "dictionaries/phrasebook-laundromatcleaning.json",
+      "wordCount": 113,
+      "emoji": "🧺"
+    },
+    {
+      "id": "phrasebook-concertsevents",
+      "name": "Concerts & Events",
+      "description": "Фразы для концертов и мероприятий: билеты, вход, фан-зона, мерч, поведение в толпе, фестивали.",
+      "file": "dictionaries/phrasebook-concertsevents.json",
+      "wordCount": 107,
+      "emoji": "🎫"
+    },
+    {
+      "id": "phrasebook-carrental",
+      "name": "Car Rental",
+      "description": "Фразы для аренды авто: бронирование, страховки, осмотр машины, возврат, топливная политика.",
+      "file": "dictionaries/phrasebook-carrental.json",
+      "wordCount": 105,
+      "emoji": "🚘"
     }
   ]
 }

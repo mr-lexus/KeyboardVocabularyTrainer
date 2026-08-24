@@ -1,0 +1,685 @@
+{
+  "id": "phrasebook-laundromatcleaning",
+  "name": "Laundromat & Cleaning",
+  "description": "Фразы для прачечной самообслуживания и уборки: режимы стирки, пятна, сушка, химчистка, бытовая химия.",
+  "entries": [
+    {
+      "id": "pbq_laundromatcleaning_0",
+      "word": "Which machine takes card payments?",
+      "translation": "Какая машина принимает карты?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_1",
+      "word": "The big loaders cost six euros per cycle.",
+      "translation": "Большие загрузчики стоят шесть евро за цикл.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_2",
+      "word": "Bring your own detergent or buy sachets here.",
+      "translation": "Приносите свой порошок или купите пакетики здесь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_3",
+      "word": "One pod suffices for a medium load.",
+      "translation": "Одного капсулы хватает на среднюю загрузку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_4",
+      "word": "Too much detergent leaves residue on clothes.",
+      "translation": "Избыток порошка оставляет налёт на одежде.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_5",
+      "word": "Separate whites from colours unless you enjoy pink socks.",
+      "translation": "Отделяйте белое от цветного, если не любите розовые носки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_6",
+      "word": "That red shirt dyed my entire load once.",
+      "translation": "Та красная рубашка однажды окрасила всю стирку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_7",
+      "word": "Colour catchers absorb stray dyes reliably.",
+      "translation": "Ловители цвета впитывают случайные краски.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_8",
+      "word": "Check pockets before washing anything.",
+      "translation": "Проверяйте карманы перед любой стиркой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_9",
+      "word": "Tissues shred into snowstorms inside drums.",
+      "translation": "Салфетки в барабане превращаются в снегопад.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_10",
+      "word": "Zip zippers and button buttons to protect fabrics.",
+      "translation": "Застёгивайте молнии и пуговицы, чтобы беречь ткани.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_11",
+      "word": "Turn printed shirts inside out first.",
+      "translation": "Выворачивайте футболки с принтами наизнанку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_12",
+      "word": "Delicates go into mesh laundry bags.",
+      "translation": "Деликатное стирается в сетчатых мешках.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_13",
+      "word": "Bra hooks snag everything nearby.",
+      "translation": "Крючки бюстгальтеров цепляют всё вокруг.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_14",
+      "word": "Thirty degrees cleans modern detergents perfectly.",
+      "translation": "Тридцать градусов отлично отстирывает современными средствами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_15",
+      "word": "Sixty degrees kills dust mites in bedding.",
+      "translation": "Шестьдесят градусов убивают клещей в постели.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_16",
+      "word": "Hot washes shrink wool catastrophically.",
+      "translation": "Горячая стирка катастрофически садит шерсть.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_17",
+      "word": "Wool cycle means cold water and gentle spin.",
+      "translation": "Режим шерсти — холодная вода и мягкий отжим.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_18",
+      "word": "Use wool detergent, regular enzymes eat fibres.",
+      "translation": "Используйте средство для шерсти — энзимы обычного едят волокна.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_19",
+      "word": "Silk prefers hand washing in cool water.",
+      "translation": "Шёлк предпочитает ручную стирку в прохладной воде.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_20",
+      "word": "Never wring silk, roll it in towels instead.",
+      "translation": "Шёлк не выкручивают — заворачивают в полотенце.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_21",
+      "word": "Stains treat best when fresh.",
+      "translation": "Пятна выводятся лучше всего свежими.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_22",
+      "word": "Blot stains, never rub them deeper.",
+      "translation": "Промакивайте пятна, не втирайте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_23",
+      "word": "Cold water sets protein stains like blood.",
+      "translation": "Холодная вода нужна белковым пятнам вроде крови.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_24",
+      "word": "Hot water cooks egg stains permanently.",
+      "translation": "Горячая вода приваривает яичные пятна навсегда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_25",
+      "word": "White vinegar lifts deodorant marks.",
+      "translation": "Белый уксус убирает следы дезодоранта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_26",
+      "word": "Baking soda freshens smelly gym clothes.",
+      "translation": "Сода освежает вонючую спортивную одежду.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_27",
+      "word": "Soak whites in oxygen bleach, never chlorine on blends.",
+      "translation": "Белое замачивайте в кислородном отбеливателе, хлор не для смесовых тканей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_28",
+      "word": "Chlorine bleach eats elastane silently.",
+      "translation": "Хлор тихо разъедает эластан.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_29",
+      "word": "Sunlight bleaches stains naturally and free.",
+      "translation": "Солнце отбеливает естественно и бесплатно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_30",
+      "word": "Red wine calls for salt immediately.",
+      "translation": "Красное вино немедленно засыпают солью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_31",
+      "word": "Grease stains surrender to dish soap.",
+      "translation": "Жирные пятна сдаются средству для посуды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_32",
+      "word": "Ink responds to alcohol based solutions.",
+      "translation": "Чернила отходят от спиртовых растворов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_33",
+      "word": "Grass stains need enzyme pre-treatment.",
+      "translation": "Травяные пятна требуют энзимную предварительную обработку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_34",
+      "word": "Pre-treat collars where sweat darkens fabric.",
+      "translation": "Обрабатывайте воротники там, где пот темнит ткань.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_35",
+      "word": "Spin cycle extracts water at dizzying speeds.",
+      "translation": "Отжим вытягивает воду на головокружительных оборотах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_36",
+      "word": "Extra spin shortens drying time noticeably.",
+      "translation": "Дополнительный отжим заметно сокращает сушку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_37",
+      "word": "Imbalanced loads thump like drums mid spin.",
+      "translation": "Перекошенная загрузка барабанит как музыка на отжиме.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_38",
+      "word": "Redistribute heavy wet items and restart spin.",
+      "translation": "Перераспределите тяжёлые мокрые вещи и перезапустите отжим.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_39",
+      "word": "Dryers cost one euro per fifteen minutes.",
+      "translation": "Сушилки стоят евро за пятнадцать минут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_40",
+      "word": "Clean the lint filter before every drying.",
+      "translation": "Чистите фильтр от ворса перед каждой сушкой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_41",
+      "word": "Lint buildup causes fires, genuinely.",
+      "translation": "Скопление ворса реально вызывает пожары.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_42",
+      "word": "Tumble dry low protects elastic fibres.",
+      "translation": "Низкая температура сушки бережёт эластичные волокна.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_43",
+      "word": "Jeans dry better inside out.",
+      "translation": "Джинсы сохнут лучше наизнанку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_44",
+      "word": "Dryer sheets soften static like magic.",
+      "translation": "Листы для сушилки снимают статику волшебно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_45",
+      "word": "Wool dryer balls replace chemical softeners.",
+      "translation": "Шерстяные шарики заменяют химические кондиционеры.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_46",
+      "word": "Air drying saves money and fabric both.",
+      "translation": "Сушка на воздухе экономит деньги и ткань.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_47",
+      "word": "Stretch knitwear back into shape while damp.",
+      "translation": "Растягивайте вязаные вещи во влажном виде.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_48",
+      "word": "Dry sweaters flat or they grow shoulders.",
+      "translation": "Сушите свитера горизонтально, иначе вырастут плечи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_49",
+      "word": "Hangers stretch knits, shelves keep them.",
+      "translation": "Вешалки растягивают трикотаж, полки сохраняют.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_50",
+      "word": "Iron cotton slightly damp for crisp results.",
+      "translation": "Гладьте хлопок чуть влажным для идеального результата.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_51",
+      "word": "Steam irons relax creases without pressing hard.",
+      "translation": "Паровой утюг расслабляет складки без нажима.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_52",
+      "word": "Check care labels before ironing synthetics.",
+      "translation": "Проверяйте ярлыки перед глажкой синтетики.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_53",
+      "word": "Polyester melts under too hot irons instantly.",
+      "translation": "Полиэстер плавится от горячего утюга мгновенно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_54",
+      "word": "Iron shirts starting with collar and cuffs.",
+      "translation": "Рубашки гладьте начиная с воротника и манжет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_55",
+      "word": "Laundromat etiquette says remove finished loads promptly.",
+      "translation": "Правила прачечной: забирайте готовое сразу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_56",
+      "word": "Waiting customers appreciate unloaded machines.",
+      "translation": "Ожидающие ценят освобождённые машины.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_57",
+      "word": "The change machine eats five pound notes occasionally.",
+      "translation": "Разменник иногда съедает пятифунтовые банкноты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_58",
+      "word": "Staff arrive mornings to fix jammed machines.",
+      "translation": "Персонал приходит утром чинить заклинившие машины.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_59",
+      "word": "Report machines that swallow coins silently.",
+      "translation": "Сообщайте о машинах, молча глотающих монеты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_60",
+      "word": "Dry cleaners handle suits and wedding dresses.",
+      "translation": "Химчистки берут костюмы и свадебные платья.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_61",
+      "word": "Point out every stain when dropping off.",
+      "translation": "Указывайте все пятна при сдаче.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_62",
+      "word": "Dry clean only labels mean exactly that.",
+      "translation": "«Только химчистка» означает именно это.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_63",
+      "word": "Wedding dress preservation boxes cost a fortune but last.",
+      "translation": "Консервация свадебных платьев дорога, но вечна.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_64",
+      "word": "Shirt laundry services press and hang weekly.",
+      "translation": "Служба стирки рубашек гладит и вешает еженедельно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_65",
+      "word": "Express cleaning doubles the normal price.",
+      "translation": "Экспресс-чистка удваивает обычную цену.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_66",
+      "word": "Leather needs specialist cleaning, never home experiments.",
+      "translation": "Кожа требует специалистов, никаких домашних экспериментов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_67",
+      "word": "Suede brushes restore nap with gentle strokes.",
+      "translation": "Щётка для замши возвращает ворс лёгкими движениями.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_68",
+      "word": "Down jackets tumble with tennis balls to refluff.",
+      "translation": "Пуховики сушат с теннисными мячиками для пуха.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_69",
+      "word": "Clumped down means damp insides still.",
+      "translation": "Сбившийся пух значит, что внутри ещё сыро.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_70",
+      "word": "Waterproof jackets need technical wash-in treatments.",
+      "translation": "Мембранным курткам нужны специальные средства при стирке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_71",
+      "word": "Fabric softener ruins waterproof coatings.",
+      "translation": "Кондиционер губит водоотталкивающие покрытия.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_72",
+      "word": "Rain reproofing sprays renew water resistance.",
+      "translation": "Спреи DWR обновляют водостойкость.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_73",
+      "word": "Mattress stains lift with hydrogen peroxide mixes.",
+      "translation": "Пятна с матрасов выводятся перекисью с добавками.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_74",
+      "word": "Vacuum mattresses monthly against dust mites.",
+      "translation": "Пылесосьте матрасы ежемесячно против клещей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_75",
+      "word": "Rotate mattresses head to foot each season.",
+      "translation": "Поворачивайте матрасы головой к ногам каждый сезон.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_76",
+      "word": "Curtain washing shrinks ready made panels sometimes.",
+      "translation": "Готовые шторы иногда садятся при стирке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_77",
+      "word": "Iron curtains while hanging for perfect pleats.",
+      "translation": "Гладьте шторы прямо на карнизе для идеальных складок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_78",
+      "word": "Carpet shampooers rent by the day cheaply.",
+      "translation": "Моющие пылесосы для ковров сдаются дёшево за день.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_79",
+      "word": "Blot carpets, scrubbing spreads stains sideways.",
+      "translation": "Ковры промакивают — трение расползает пятна.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_80",
+      "word": "Pet odours need enzymatic cleaners specifically.",
+      "translation": "Запахи питомцев берут только энзимные средства.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_81",
+      "word": "Enzymes digest odours rather than masking them.",
+      "translation": "Энзимы переваривают запахи, а не маскируют.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_82",
+      "word": "Bleach and ammonia mixing creates toxic gas.",
+      "translation": "Смесь хлора и аммиака создаёт токсичный газ.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_83",
+      "word": "Ventilate while cleaning bathrooms always.",
+      "translation": "Проветривайте ванную при любой уборке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_84",
+      "word": "Microfibre cloths clean glass streak free.",
+      "translation": "Микрофибра моет стекло без разводов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_85",
+      "word": "Paper towels smear windows worse than newspaper did.",
+      "translation": "Бумажные полотенца мажут окна хуже газеты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_86",
+      "word": "Descaling kettles with citric acid takes minutes.",
+      "translation": "Накипь из чайника уходит лимонной кислотой за минуты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_87",
+      "word": "Cleaning schedules beat heroic weekend purges.",
+      "translation": "Регулярная уборка лучше героических субботних подвигов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_88",
+      "word": "Fifteen minutes daily keeps chaos away.",
+      "translation": "Пятнадцать минут в день держат хаос на расстоянии.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_89",
+      "word": "Clean top to bottom so floors finish last.",
+      "translation": "Убирайте сверху вниз — полы последними.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_90",
+      "word": "Rubber gloves protect manicures and skin alike.",
+      "translation": "Резиновые перчатки берегут и маникюр, и кожу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_91",
+      "word": "Label spray bottles unless enjoying mystery mists.",
+      "translation": "Подписывайте бутылки, если не любите загадочные брызги.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_92",
+      "word": "Nothing beats fresh sheets on a clean bed.",
+      "translation": "Ничто не сравнится со свежим бельём на чистой кровати.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_93",
+      "word": "The drum light shows a stray sock stuck inside.",
+      "translation": "Лампа барабана показывает застрявший носок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_94",
+      "word": "Front loaders use less water than top loaders.",
+      "translation": "Фронтальные машины тратят меньше воды, чем вертикальные.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_95",
+      "word": "High efficiency means low suds formulas only.",
+      "translation": "HE-машины требуют только низкопенные средства.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_96",
+      "word": "Regular detergent overfoams HE machines badly.",
+      "translation": "Обычный порошок сильно пенится в HE-машине.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_97",
+      "word": "Run an empty hot cycle with cleaner monthly.",
+      "translation": "Запускайте пустой горячий цикл с чистящим средством ежемесячно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_98",
+      "word": "Musty machine smells mean biofilm buildup.",
+      "translation": "Затхлый запах машины значит налёт биоплёнки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_99",
+      "word": "Leave washer doors open between washes.",
+      "translation": "Оставляйте дверцы открытыми между стирками.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_100",
+      "word": "Detergent drawers mould if never rinsed.",
+      "translation": "Лотки для порошка плесневеют без промывки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_101",
+      "word": "Cold water washing saves colours and energy both.",
+      "translation": "Стирка в холоде бережёт и цвет, и энергию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_102",
+      "word": "Modern enzymes activate even in cold cycles.",
+      "translation": "Современные энзимы работают даже в холодной воде.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_103",
+      "word": "Pre-soak collars in warm water with stain remover.",
+      "translation": "Замачивайте воротники в тёплой воде со средством.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_104",
+      "word": "Sports fabrics hate fabric softener coatings.",
+      "translation": "Спортивные ткани ненавидят плёнку кондиционера.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_105",
+      "word": "Softener clogs breathable membranes permanently.",
+      "translation": "Кондиционер навсегда забивает дышащие мембраны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_106",
+      "word": "Wash gym clothes immediately or seal the smell in.",
+      "translation": "Стирайте спортивное сразу или запечатаете запах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_107",
+      "word": "Bleach pens target collar stains precisely.",
+      "translation": "Карандаши с отбеливателем бьют точно по воротникам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_108",
+      "word": "Test any bleach on hidden seams first.",
+      "translation": "Тестируйте отбеливатель на скрытых швах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_109",
+      "word": "Colourfastness tests take one damp cotton swab.",
+      "translation": "Проверка стойкости цвета — одна влажная ватная палочка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_110",
+      "word": "Zip laundry bags shut so nothing escapes mid cycle.",
+      "translation": "Закрывайте мешки, чтобы ничего не сбежало посреди цикла.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_111",
+      "word": "Coins left in drums dent stainless steel.",
+      "translation": "Монеты в барабане оставляют вмятины на нержавейке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_laundromatcleaning_112",
+      "word": "Bra wires pierce drums and wallets equally.",
+      "translation": "Косточки бюстгальтеров пробивают и барабан, и кошелёк.",
+      "language": "en"
+    }
+  ]
+}
