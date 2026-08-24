@@ -11,7 +11,7 @@
     {
       "id": "builtin-travel",
       "name": "Travel & Places",
-      "description": "Vocabulary for travel and navigation",
+      "description": "Путешествия и места: слова для ориентирования в городе, транспорте и отелях — базовый набор для поездок за границу.",
       "file": "dictionaries/travel.json",
       "wordCount": 240,
       "emoji": "✈️"
@@ -19,7 +19,7 @@
     {
       "id": "builtin-it-terms",
       "name": "IT & Technology",
-      "description": "Technology and programming vocabulary",
+      "description": "Extensive vocabulary for IT professionals and developers",
       "file": "dictionaries/it-terms.json",
       "wordCount": 259,
       "emoji": "💻"
@@ -27,7 +27,7 @@
     {
       "id": "builtin-food",
       "name": "Food & Cooking",
-      "description": "Food, drinks and cooking vocabulary",
+      "description": "Extensive vocabulary for food, drinks and cooking",
       "file": "dictionaries/food.json",
       "wordCount": 248,
       "emoji": "🍕"
@@ -37,7 +37,7 @@
       "name": "Business, Economy & Finance",
       "description": "Deep business vocabulary for professionals",
       "file": "dictionaries/business.json",
-      "wordCount": 389,
+      "wordCount": 388,
       "emoji": "💼"
     },
     {
@@ -53,7 +53,7 @@
       "name": "Science, Education & Space",
       "description": "Extensive science, education, space and physics vocabulary",
       "file": "dictionaries/science.json",
-      "wordCount": 311,
+      "wordCount": 308,
       "emoji": "🔬"
     },
     {
@@ -61,15 +61,15 @@
       "name": "Animals & Nature",
       "description": "Extensive vocabulary covering wildlife and earth",
       "file": "dictionaries/animals.json",
-      "wordCount": 295,
+      "wordCount": 293,
       "emoji": "🦁"
     },
     {
       "id": "builtin-emotions",
       "name": "Emotions & Feelings",
-      "description": "Words describing feelings and emotional states",
+      "description": "Deep emotional states, feelings, and psychological terms",
       "file": "dictionaries/emotions.json",
-      "wordCount": 290,
+      "wordCount": 287,
       "emoji": "🎭"
     },
     {
@@ -91,39 +91,39 @@
     {
       "id": "builtin-clothes",
       "name": "Clothes & Fashion",
-      "description": "Clothing items, accessories, and fashion",
+      "description": "Extensive vocabulary for clothing, accessories, and fashion",
       "file": "dictionaries/clothes.json",
-      "wordCount": 360,
+      "wordCount": 339,
       "emoji": "👕"
     },
     {
       "id": "builtin-home",
       "name": "Home, Daily Life & Food",
-      "description": "Vocabulary for everyday life, cooking, and household",
+      "description": "Дом, быт и еда: повседневная лексика о жилье, готовке и домашних делах — для начинающих и разговорной практики.",
       "file": "dictionaries/home.json",
-      "wordCount": 344,
+      "wordCount": 343,
       "emoji": "🏠"
     },
     {
       "id": "builtin-weather",
       "name": "Weather & Seasons",
-      "description": "Weather conditions and seasons",
+      "description": "Extensive vocabulary for meteorology and seasons",
       "file": "dictionaries/weather.json",
-      "wordCount": 274,
+      "wordCount": 266,
       "emoji": "🌤️"
     },
     {
       "id": "builtin-colors",
       "name": "Colors & Shapes",
-      "description": "Colors, shades, and geometric shapes",
+      "description": "Detailed vocabulary for colors, shades, shapes, and geometry",
       "file": "dictionaries/colors.json",
-      "wordCount": 287,
+      "wordCount": 280,
       "emoji": "🎨"
     },
     {
       "id": "builtin-family",
       "name": "Family & Relationships",
-      "description": "Family members and relationship terms",
+      "description": "Extensive vocabulary for family members and relationships",
       "file": "dictionaries/family.json",
       "wordCount": 214,
       "emoji": "👨‍👩‍👧‍👦"
@@ -139,9 +139,9 @@
     {
       "id": "builtin-entertainment",
       "name": "Entertainment & Media",
-      "description": "Entertainment, media, and leisure activities",
+      "description": "Extensive entertainment, media, and leisure activities vocabulary",
       "file": "dictionaries/entertainment.json",
-      "wordCount": 264,
+      "wordCount": 260,
       "emoji": "🎬"
     },
     {
@@ -149,7 +149,7 @@
       "name": "Politics & Law",
       "description": "Government, politics, and legal terms",
       "file": "dictionaries/politics.json",
-      "wordCount": 251,
+      "wordCount": 250,
       "emoji": "⚖️"
     },
     {
@@ -157,45 +157,45 @@
       "name": "Space & Universe",
       "description": "Astronomy and space exploration",
       "file": "dictionaries/space.json",
-      "wordCount": 186,
+      "wordCount": 182,
       "emoji": "🚀"
     },
     {
       "id": "builtin-shopping",
       "name": "Shopping & Money",
-      "description": "Commerce, shopping, and finances",
+      "description": "Extensive vocabulary for commerce, shopping, and finances",
       "file": "dictionaries/shopping.json",
-      "wordCount": 251,
+      "wordCount": 243,
       "emoji": "🛒"
     },
     {
       "id": "builtin-hobbies",
       "name": "Hobbies & Free Time",
-      "description": "Leisure activities and pastimes",
+      "description": "Extensive vocabulary for leisure activities and pastimes",
       "file": "dictionaries/hobbies.json",
-      "wordCount": 326,
+      "wordCount": 323,
       "emoji": "🎸"
     },
     {
       "id": "builtin-city",
       "name": "City & Urban Life",
-      "description": "Urban environment and city features",
+      "description": "Extensive urban environment and city features vocabulary",
       "file": "dictionaries/city.json",
-      "wordCount": 285,
+      "wordCount": 280,
       "emoji": "🏙️"
     },
     {
       "id": "builtin-farm",
       "name": "Farm & Agriculture",
-      "description": "Farming, agriculture, and rural life",
+      "description": "Extensive farming, agriculture, and rural life vocabulary",
       "file": "dictionaries/farm.json",
-      "wordCount": 302,
+      "wordCount": 292,
       "emoji": "🚜"
     },
     {
       "id": "cefr-a1-1",
       "name": "A1 Level - Part 1",
-      "description": "Vocabulary for A1 level, part 1",
+      "description": "Лексика уровня A1, часть 1 из 3",
       "file": "dictionaries/cefr-a1-1.json",
       "wordCount": 300,
       "emoji": "🌱"
@@ -203,7 +203,7 @@
     {
       "id": "cefr-a1-2",
       "name": "A1 Level - Part 2",
-      "description": "Vocabulary for A1 level, part 2",
+      "description": "Лексика уровня A1, часть 2 из 3",
       "file": "dictionaries/cefr-a1-2.json",
       "wordCount": 300,
       "emoji": "🌱"
@@ -211,7 +211,7 @@
     {
       "id": "cefr-a1-3",
       "name": "A1 Level - Part 3",
-      "description": "Vocabulary for A1 level, part 3",
+      "description": "Лексика уровня A1, часть 3 из 3",
       "file": "dictionaries/cefr-a1-3.json",
       "wordCount": 298,
       "emoji": "🌱"
@@ -219,121 +219,121 @@
     {
       "id": "cefr-a2-1",
       "name": "A2 Level - Part 1",
-      "description": "Vocabulary for A2 level, part 1",
+      "description": "Лексика уровня A2, часть 1 из 3",
       "file": "dictionaries/cefr-a2-1.json",
-      "wordCount": 289,
+      "wordCount": 257,
       "emoji": "🌿"
     },
     {
       "id": "cefr-a2-2",
       "name": "A2 Level - Part 2",
-      "description": "Vocabulary for A2 level, part 2",
+      "description": "Лексика уровня A2, часть 2 из 3",
       "file": "dictionaries/cefr-a2-2.json",
-      "wordCount": 289,
+      "wordCount": 269,
       "emoji": "🌿"
     },
     {
       "id": "cefr-a2-3",
       "name": "A2 Level - Part 3",
-      "description": "Vocabulary for A2 level, part 3",
+      "description": "Лексика уровня A2, часть 3 из 3",
       "file": "dictionaries/cefr-a2-3.json",
-      "wordCount": 289,
+      "wordCount": 266,
       "emoji": "🌿"
     },
     {
       "id": "cefr-b1-1",
       "name": "B1 Level - Part 1",
-      "description": "Vocabulary for B1 level, part 1",
+      "description": "Лексика уровня B1, часть 1 из 3",
       "file": "dictionaries/cefr-b1-1.json",
-      "wordCount": 268,
+      "wordCount": 234,
       "emoji": "🌳"
     },
     {
       "id": "cefr-b1-2",
       "name": "B1 Level - Part 2",
-      "description": "Vocabulary for B1 level, part 2",
+      "description": "Лексика уровня B1, часть 2 из 3",
       "file": "dictionaries/cefr-b1-2.json",
-      "wordCount": 268,
+      "wordCount": 234,
       "emoji": "🌳"
     },
     {
       "id": "cefr-b1-3",
       "name": "B1 Level - Part 3",
-      "description": "Vocabulary for B1 level, part 3",
+      "description": "Лексика уровня B1, часть 3 из 3",
       "file": "dictionaries/cefr-b1-3.json",
-      "wordCount": 266,
+      "wordCount": 222,
       "emoji": "🌳"
     },
     {
       "id": "cefr-b2-1",
       "name": "B2 Level - Part 1",
-      "description": "Vocabulary for B2 level, part 1",
+      "description": "Лексика уровня B2, часть 1 из 4",
       "file": "dictionaries/cefr-b2-1.json",
-      "wordCount": 295,
+      "wordCount": 254,
       "emoji": "🌲"
     },
     {
       "id": "cefr-b2-2",
       "name": "B2 Level - Part 2",
-      "description": "Vocabulary for B2 level, part 2",
+      "description": "Лексика уровня B2, часть 2 из 4",
       "file": "dictionaries/cefr-b2-2.json",
-      "wordCount": 295,
+      "wordCount": 261,
       "emoji": "🌲"
     },
     {
       "id": "cefr-b2-3",
       "name": "B2 Level - Part 3",
-      "description": "Vocabulary for B2 level, part 3",
+      "description": "Лексика уровня B2, часть 3 из 4",
       "file": "dictionaries/cefr-b2-3.json",
-      "wordCount": 295,
+      "wordCount": 266,
       "emoji": "🌲"
     },
     {
       "id": "cefr-b2-4",
       "name": "B2 Level - Part 4",
-      "description": "Vocabulary for B2 level, part 4",
+      "description": "Лексика уровня B2, часть 4 из 4",
       "file": "dictionaries/cefr-b2-4.json",
-      "wordCount": 295,
+      "wordCount": 269,
       "emoji": "🌲"
     },
     {
       "id": "cefr-c1-1",
       "name": "C1 Level - Part 1",
-      "description": "Vocabulary for C1 level, part 1",
+      "description": "Лексика уровня C1, часть 1 из 3",
       "file": "dictionaries/cefr-c1-1.json",
-      "wordCount": 327,
+      "wordCount": 316,
       "emoji": "🏔️"
     },
     {
       "id": "cefr-c1-2",
       "name": "C1 Level - Part 2",
-      "description": "Vocabulary for C1 level, part 2",
+      "description": "Лексика уровня C1, часть 2 из 3",
       "file": "dictionaries/cefr-c1-2.json",
-      "wordCount": 327,
+      "wordCount": 315,
       "emoji": "🏔️"
     },
     {
       "id": "cefr-c1-3",
       "name": "C1 Level - Part 3",
-      "description": "Vocabulary for C1 level, part 3",
+      "description": "Лексика уровня C1, часть 3 из 3",
       "file": "dictionaries/cefr-c1-3.json",
-      "wordCount": 327,
+      "wordCount": 314,
       "emoji": "🏔️"
     },
     {
       "id": "cefr-c2-1",
       "name": "C2 Level - Part 1",
-      "description": "Vocabulary for C2 level, part 1",
+      "description": "Лексика уровня C2, часть 1 из 2",
       "file": "dictionaries/cefr-c2-1.json",
-      "wordCount": 291,
+      "wordCount": 290,
       "emoji": "⛰️"
     },
     {
       "id": "cefr-c2-2",
       "name": "C2 Level - Part 2",
-      "description": "Vocabulary for C2 level, part 2",
+      "description": "Лексика уровня C2, часть 2 из 2",
       "file": "dictionaries/cefr-c2-2.json",
-      "wordCount": 290,
+      "wordCount": 289,
       "emoji": "⛰️"
     },
     {
@@ -395,7 +395,7 @@
     {
       "id": "phrasebook-traveltransport",
       "name": "Travel & Transport",
-      "description": "Phrasebook for Travel & Transport",
+      "description": "Фразы о путешествиях и транспорте: билеты, маршруты, багаж, ориентиры в городе. Для тех, кто ездит за рубеж и хочет объясняться самостоятельно.",
       "file": "dictionaries/phrasebook-traveltransport.json",
       "wordCount": 403,
       "emoji": "✈️"
@@ -403,7 +403,7 @@
     {
       "id": "phrasebook-hotelaccommodation",
       "name": "Hotel & Accommodation",
-      "description": "Phrasebook for Hotel & Accommodation",
+      "description": "Фразы для отеля и съёмного жилья: бронь, заселение, услуги номера, просьбы и жалобы. Для туристов и командировочных.",
       "file": "dictionaries/phrasebook-hotelaccommodation.json",
       "wordCount": 350,
       "emoji": "🏨"
@@ -411,7 +411,7 @@
     {
       "id": "phrasebook-restaurantfood",
       "name": "Restaurant & Food",
-      "description": "Phrasebook for Restaurant & Food",
+      "description": "Фразы для кафе и ресторана: заказ, меню, счёт, особые пожелания. Для путешественников и всех, кто ест вне дома за границей.",
       "file": "dictionaries/phrasebook-restaurantfood.json",
       "wordCount": 397,
       "emoji": "🍽️"
@@ -451,7 +451,7 @@
     {
       "id": "phrasebook-educationstudy",
       "name": "Education & Study",
-      "description": "Phrasebook for Education & Study",
+      "description": "Фразы об учёбе: занятия, экзамены, учебники, вопросы преподавателю. Для школьников, студентов и слушателей курсов.",
       "file": "dictionaries/phrasebook-educationstudy.json",
       "wordCount": 354,
       "emoji": "🎓"
@@ -459,7 +459,7 @@
     {
       "id": "phrasebook-hobbiesfreetime",
       "name": "Hobbies & Free Time",
-      "description": "Phrasebook for Hobbies & Free Time",
+      "description": "Фразы о хобби и свободном времени: увлечения, планы на выходные, приглашения. Для лёгкой светской беседы и знакомств.",
       "file": "dictionaries/phrasebook-hobbiesfreetime.json",
       "wordCount": 348,
       "emoji": "🎨"
@@ -467,7 +467,7 @@
     {
       "id": "phrasebook-familyrelationships",
       "name": "Family & Relationships",
-      "description": "Phrasebook for Family & Relationships",
+      "description": "Фразы о семье и отношениях: родственники, семейные события, разговоры о близких. Для бытового общения и рассказа о себе.",
       "file": "dictionaries/phrasebook-familyrelationships.json",
       "wordCount": 327,
       "emoji": "👨‍👩‍👧‍👦"
@@ -475,7 +475,7 @@
     {
       "id": "phrasebook-homeliving",
       "name": "Home & Living",
-      "description": "Phrasebook for Home & Living",
+      "description": "Фразы о доме и быте: аренда, обустройство, соседи, домашние хлопоты. Для тех, кто живёт или собирается жить за границей.",
       "file": "dictionaries/phrasebook-homeliving.json",
       "wordCount": 342,
       "emoji": "🏠"
@@ -483,7 +483,7 @@
     {
       "id": "phrasebook-natureweather",
       "name": "Nature & Weather",
-      "description": "Phrasebook for Nature & Weather",
+      "description": "Фразы о природе и погоде: прогноз, времена года, явления природы. Универсальная тема для светской беседы.",
       "file": "dictionaries/phrasebook-natureweather.json",
       "wordCount": 408,
       "emoji": "🌤️"
@@ -515,7 +515,7 @@
     {
       "id": "phrasebook-artsculture",
       "name": "Arts & Culture",
-      "description": "Phrasebook for Arts & Culture",
+      "description": "Фразы об искусстве и культуре: выставки, театр, музыка, впечатления. Для походов в музеи и культурных разговоров.",
       "file": "dictionaries/phrasebook-artsculture.json",
       "wordCount": 393,
       "emoji": "🎭"
@@ -523,7 +523,7 @@
     {
       "id": "phrasebook-laworder",
       "name": "Law & Order",
-      "description": "Phrasebook for Law & Order",
+      "description": "Фразы о законе и правопорядке: полиция, документы, права, происшествия. На случай сложных ситуаций за границей.",
       "file": "dictionaries/phrasebook-laworder.json",
       "wordCount": 310,
       "emoji": "⚖️"
@@ -531,7 +531,7 @@
     {
       "id": "phrasebook-sciencespace",
       "name": "Science & Space",
-      "description": "Phrasebook for Science & Space",
+      "description": "Фразы о науке и космосе: исследования, открытия, планеты, технологии. Для чтения новостей и обсуждения научных тем.",
       "file": "dictionaries/phrasebook-sciencespace.json",
       "wordCount": 428,
       "emoji": "🚀"
@@ -539,7 +539,7 @@
     {
       "id": "phrasebook-politicssociety",
       "name": "Politics & Society",
-      "description": "Phrasebook for Politics & Society",
+      "description": "Фразы о политике и обществе: выборы, законы, социальные темы, дискуссии. Для понимания новостей и споров о жизни общества.",
       "file": "dictionaries/phrasebook-politicssociety.json",
       "wordCount": 410,
       "emoji": "🏛️"
@@ -547,7 +547,7 @@
     {
       "id": "phrasebook-clothingfashion",
       "name": "Clothing & Fashion",
-      "description": "Phrasebook for Clothing & Fashion",
+      "description": "Фразы об одежде и моде: покупки, размеры, стиль, примерка. Для шопинга и разговоров о стиле.",
       "file": "dictionaries/phrasebook-clothingfashion.json",
       "wordCount": 319,
       "emoji": "👗"
@@ -555,7 +555,7 @@
     {
       "id": "phrasebook-bodyparts",
       "name": "Body Parts",
-      "description": "Phrasebook for Body Parts",
+      "description": "Названия частей тела и простые фразы о самочувствии. База для визита к врачу, спортзала и описания внешности.",
       "file": "dictionaries/phrasebook-bodyparts.json",
       "wordCount": 311,
       "emoji": "🧍"
@@ -563,7 +563,7 @@
     {
       "id": "phrasebook-colorsshapes",
       "name": "Colors & Shapes",
-      "description": "Phrasebook for Colors & Shapes",
+      "description": "Цвета, формы и простые фразы с ними. Помогает описывать предметы, выбирать товары и понимать описания.",
       "file": "dictionaries/phrasebook-colorsshapes.json",
       "wordCount": 359,
       "emoji": "🎨"
@@ -571,7 +571,7 @@
     {
       "id": "phrasebook-animalspets",
       "name": "Animals & Pets",
-      "description": "Phrasebook for Animals & Pets",
+      "description": "Фразы о животных и питомцах: породы, уход, зоомагазин, ветклиника. Для владельцев животных и любителей природы.",
       "file": "dictionaries/phrasebook-animalspets.json",
       "wordCount": 374,
       "emoji": "🐾"
@@ -579,7 +579,7 @@
     {
       "id": "phrasebook-sportsfitness",
       "name": "Sports & Fitness",
-      "description": "Phrasebook for Sports & Fitness",
+      "description": "Фразы о спорте и фитнесе: тренировки, секции, соревнования, результат. Для зала, секций и разговоров о активном образе жизни.",
       "file": "dictionaries/phrasebook-sportsfitness.json",
       "wordCount": 328,
       "emoji": "⚽️"
@@ -587,7 +587,7 @@
     {
       "id": "phrasebook-drivingroad",
       "name": "Driving & Road",
-      "description": "Phrasebook for Driving & Road",
+      "description": "Фразы для водителя: дорога, правила, заправка, поломки, парковка. Для тех, кто водит за границей или арендует машину.",
       "file": "dictionaries/phrasebook-drivingroad.json",
       "wordCount": 327,
       "emoji": "🚗"
@@ -595,7 +595,7 @@
     {
       "id": "phrasebook-financebanking",
       "name": "Finance & Banking",
-      "description": "Phrasebook for Finance & Banking",
+      "description": "Фразы о деньгах и банке: карты, счета, переводы, обмен валюты. Для банковских визитов и финансовых вопросов в поездке.",
       "file": "dictionaries/phrasebook-financebanking.json",
       "wordCount": 402,
       "emoji": "🏦"
@@ -603,7 +603,7 @@
     {
       "id": "phrasebook-medianews",
       "name": "Media & News",
-      "description": "Phrasebook for Media & News",
+      "description": "Фразы о медиа и новостях: статьи, репортажи, соцсети, обсуждение событий. Для чтения прессы и разговоров о текущих событиях.",
       "file": "dictionaries/phrasebook-medianews.json",
       "wordCount": 408,
       "emoji": "📺"
@@ -611,7 +611,7 @@
     {
       "id": "phrasebook-environmentecology",
       "name": "Environment & Ecology",
-      "description": "Phrasebook for Environment & Ecology",
+      "description": "Фразы об экологии и окружающей среде: климат, переработка, защита природы. Для обсуждения экологических тем.",
       "file": "dictionaries/phrasebook-environmentecology.json",
       "wordCount": 209,
       "emoji": "🌍"
@@ -619,7 +619,7 @@
     {
       "id": "phrasebook-communicationpost",
       "name": "Communication & Post",
-      "description": "Phrasebook for Communication & Post",
+      "description": "Фразы об общении и почте: письма, посылки, звонки, мессенджеры. Для отделений связи и контакта с людьми.",
       "file": "dictionaries/phrasebook-communicationpost.json",
       "wordCount": 317,
       "emoji": "📮"
@@ -627,7 +627,7 @@
     {
       "id": "phrasebook-cookingrecipes",
       "name": "Cooking & Recipes",
-      "description": "Phrasebook for Cooking & Recipes",
+      "description": "Фразы о готовке и рецептах: ингредиенты, шаги, вкус, кухонная техника. Для кулинарных экспериментов и разговоров о еде.",
       "file": "dictionaries/phrasebook-cookingrecipes.json",
       "wordCount": 388,
       "emoji": "🍳"
@@ -635,7 +635,7 @@
     {
       "id": "phrasebook-geographyplaces",
       "name": "Geography & Places",
-      "description": "Phrasebook for Geography & Places",
+      "description": "Фразы о географии и местах: страны, города, направления, достопримечательности. Для путешествий, учёбы и викторин.",
       "file": "dictionaries/phrasebook-geographyplaces.json",
       "wordCount": 411,
       "emoji": "🗺️"
@@ -643,7 +643,7 @@
     {
       "id": "phrasebook-religionbeliefs",
       "name": "Religion & Beliefs",
-      "description": "Phrasebook for Religion & Beliefs",
+      "description": "Фразы о религии и верованиях: традиции, праздники, обычаи, вежливые вопросы. Для межкультурного общения.",
       "file": "dictionaries/phrasebook-religionbeliefs.json",
       "wordCount": 369,
       "emoji": "🕊️"
@@ -651,7 +651,7 @@
     {
       "id": "phrasebook-militarywar",
       "name": "Military & War",
-      "description": "Phrasebook for Military & War",
+      "description": "Фразы о военном деле и истории войн: техника, звания, конфликты. Для чтения новостей и исторической литературы.",
       "file": "dictionaries/phrasebook-militarywar.json",
       "wordCount": 348,
       "emoji": "🪖"
@@ -659,7 +659,7 @@
     {
       "id": "phrasebook-architecturebuildings",
       "name": "Architecture & Buildings",
-      "description": "Phrasebook for Architecture & Buildings",
+      "description": "Фразы об архитектуре и зданиях: стили, конструкции, достопримечательности. Для экскурсий и прогулок по городу.",
       "file": "dictionaries/phrasebook-architecturebuildings.json",
       "wordCount": 369,
       "emoji": "🏛️"
@@ -667,7 +667,7 @@
     {
       "id": "phrasebook-agriculturefarming",
       "name": "Agriculture & Farming",
-      "description": "Phrasebook for Agriculture & Farming",
+      "description": "Фразы о сельском хозяйстве: поля, урожай, животные, ферма. Для деревни, дачи и аграрных тем.",
       "file": "dictionaries/phrasebook-agriculturefarming.json",
       "wordCount": 240,
       "emoji": "🌾"
@@ -675,7 +675,7 @@
     {
       "id": "phrasebook-medicinediseases",
       "name": "Medicine & Diseases",
-      "description": "Phrasebook for Medicine & Diseases",
+      "description": "Фразы о медицине и болезнях: симптомы, лечение, лекарства, приём у врача. Важный набор для заботы о здоровье за границей.",
       "file": "dictionaries/phrasebook-medicinediseases.json",
       "wordCount": 351,
       "emoji": "💊"
@@ -683,7 +683,7 @@
     {
       "id": "phrasebook-toolsequipment",
       "name": "Tools & Equipment",
-      "description": "Phrasebook for Tools & Equipment",
+      "description": "Фразы об инструментах и оборудовании: ремонт, работа, техника безопасности. Для мастерской и бытовых задач.",
       "file": "dictionaries/phrasebook-toolsequipment.json",
       "wordCount": 319,
       "emoji": "🛠️"
@@ -691,7 +691,7 @@
     {
       "id": "phrasebook-mathematicsnumbers",
       "name": "Mathematics & Numbers",
-      "description": "Phrasebook for Mathematics & Numbers",
+      "description": "Числа, счёт и математические фразы: от арифметики до процентов. База для покупок, времени и учёбы.",
       "file": "dictionaries/phrasebook-mathematicsnumbers.json",
       "wordCount": 397,
       "emoji": "🔢"
@@ -699,7 +699,7 @@
     {
       "id": "phrasebook-spaceastronomy",
       "name": "Space & Astronomy",
-      "description": "Phrasebook for Space & Astronomy",
+      "description": "Фразы о космосе и астрономии: планеты, звёзды, полёты, телескопы. Для интересующихся наукой о небе.",
       "file": "dictionaries/phrasebook-spaceastronomy.json",
       "wordCount": 58,
       "emoji": "🪐"
@@ -707,7 +707,7 @@
     {
       "id": "phrasebook-musicinstruments",
       "name": "Music & Instruments",
-      "description": "Phrasebook for Music & Instruments",
+      "description": "Фразы о музыке и инструментах: жанры, концерты, обучение, любимые исполнители. Для музыкантов и меломанов.",
       "file": "dictionaries/phrasebook-musicinstruments.json",
       "wordCount": 313,
       "emoji": "🎵"
@@ -715,7 +715,7 @@
     {
       "id": "phrasebook-literaturebooks",
       "name": "Literature & Books",
-      "description": "Phrasebook for Literature & Books",
+      "description": "Фразы о литературе и книгах: жанры, авторы, библиотека, мнения о прочитанном. Для читателей и книжных разговоров.",
       "file": "dictionaries/phrasebook-literaturebooks.json",
       "wordCount": 401,
       "emoji": "📚"
@@ -723,7 +723,7 @@
     {
       "id": "phrasebook-historypast",
       "name": "History & Past",
-      "description": "Phrasebook for History & Past",
+      "description": "Фразы об истории: эпохи, события, даты, экскурсии. Для музеев, путешествий и содержательных бесед.",
       "file": "dictionaries/phrasebook-historypast.json",
       "wordCount": 352,
       "emoji": "⏳"
@@ -731,7 +731,7 @@
     {
       "id": "phrasebook-fantasymagic",
       "name": "Fantasy & Magic",
-      "description": "Phrasebook for Fantasy & Magic",
+      "description": "Фразы о фэнтези и магии: сказки, герои, вымышленные миры, игры. Для фанатов жанра и игровых вселенных.",
       "file": "dictionaries/phrasebook-fantasymagic.json",
       "wordCount": 310,
       "emoji": "🧙"
@@ -739,7 +739,7 @@
     {
       "id": "phrasebook-humorjokes",
       "name": "Humor & Jokes",
-      "description": "Phrasebook for Humor & Jokes",
+      "description": "Фразы о юморе: шутки, анекдоты, ирония, реакции на них. Чтобы понимать чужой юмор и шутить самому.",
       "file": "dictionaries/phrasebook-humorjokes.json",
       "wordCount": 384,
       "emoji": "😂"
@@ -755,7 +755,7 @@
     {
       "id": "phrasebook-holidayscelebrations",
       "name": "Holidays & Celebrations",
-      "description": "Phrasebook for Holidays & Celebrations",
+      "description": "Фразы о праздниках: поздравления, подарки, традиции, застолье. Для сезонных событий и приглашений.",
       "file": "dictionaries/phrasebook-holidayscelebrations.json",
       "wordCount": 302,
       "emoji": "🎉"
@@ -763,7 +763,7 @@
     {
       "id": "phrasebook-describingpeople",
       "name": "Describing People",
-      "description": "Phrasebook for Describing People",
+      "description": "Фразы для описания людей: внешность, характер, привычки. Нужно для знакомств, историй и характеристик.",
       "file": "dictionaries/phrasebook-describingpeople.json",
       "wordCount": 316,
       "emoji": "👤"
@@ -771,7 +771,7 @@
     {
       "id": "phrasebook-dailyroutine",
       "name": "Daily Routine",
-      "description": "Phrasebook for Daily Routine",
+      "description": "Фразы о распорядке дня: утро, работа, вечер, планы. Основа бытового разговора о себе и своей жизни.",
       "file": "dictionaries/phrasebook-dailyroutine.json",
       "wordCount": 355,
       "emoji": "🌅"
@@ -835,7 +835,7 @@
     {
       "id": "phrasebook-complaintsdissatisfaction",
       "name": "Complaints & Dissatisfaction",
-      "description": "Phrasebook for Complaints & Dissatisfaction",
+      "description": "Фразы для жалоб и недовольства: сервис, качество, возврат, претензии. На случай, когда товар или услуга не понравились.",
       "file": "dictionaries/phrasebook-complaintsdissatisfaction.json",
       "wordCount": 350,
       "emoji": "😠"
@@ -843,7 +843,7 @@
     {
       "id": "phrasebook-promisescommitments",
       "name": "Promises & Commitments",
-      "description": "Phrasebook for Promises & Commitments",
+      "description": "Фразы об обещаниях и договорённостях: сроки, обязательства, подтверждения. Для работы и личных планов.",
       "file": "dictionaries/phrasebook-promisescommitments.json",
       "wordCount": 366,
       "emoji": "🤞"
@@ -851,7 +851,7 @@
     {
       "id": "phrasebook-sympathycondolences",
       "name": "Sympathy & Condolences",
-      "description": "Phrasebook for Sympathy & Condolences",
+      "description": "Фразы поддержки и соболезнования: сочувствие, утешение, слова участия. Деликатный набор для трудных ситуаций.",
       "file": "dictionaries/phrasebook-sympathycondolences.json",
       "wordCount": 74,
       "emoji": "💐"
@@ -859,7 +859,7 @@
     {
       "id": "phrasebook-idiomsproverbs",
       "name": "Idioms & Proverbs",
-      "description": "Phrasebook for Idioms & Proverbs",
+      "description": "Идиомы и пословицы: устойчивые выражения с живым русским соответствием. Для понимания носителей и богатой речи.",
       "file": "dictionaries/phrasebook-idiomsproverbs.json",
       "wordCount": 111,
       "emoji": "🧩"
@@ -867,7 +867,7 @@
     {
       "id": "phrasebook-slanginformal",
       "name": "Slang & Informal",
-      "description": "Phrasebook for Slang & Informal",
+      "description": "Сленг и неформальная речь: разговорные словечки и дружеские фразы. Чтобы понимать сериалы и живую речь носителей.",
       "file": "dictionaries/phrasebook-slanginformal.json",
       "wordCount": 97,
       "emoji": "😎"
@@ -923,7 +923,7 @@
     {
       "id": "phrasebook-realestatehousing",
       "name": "Real Estate & Housing",
-      "description": "Phrasebook for Real Estate & Housing",
+      "description": "Фразы о недвижимости: аренда, покупка, осмотр, договор. Для съёма и покупки жилья за границей.",
       "file": "dictionaries/phrasebook-realestatehousing.json",
       "wordCount": 65,
       "emoji": "🏘️"
@@ -931,7 +931,7 @@
     {
       "id": "phrasebook-crimepolice",
       "name": "Crime & Police",
-      "description": "Phrasebook for Crime & Police",
+      "description": "Фразы о преступлениях и полиции: заявление, кража, вызов помощи. Критичный набор на случай ЧП в поездке.",
       "file": "dictionaries/phrasebook-crimepolice.json",
       "wordCount": 174,
       "emoji": "🚓"
@@ -939,7 +939,7 @@
     {
       "id": "phrasebook-hobbiesphotography",
       "name": "Hobbies: Photography",
-      "description": "Phrasebook for Hobbies: Photography",
+      "description": "Фразы о фотографии: съёмка, камера, свет, обработка кадров. Для фотографов любого уровня.",
       "file": "dictionaries/phrasebook-hobbiesphotography.json",
       "wordCount": 333,
       "emoji": "📸"
@@ -947,7 +947,7 @@
     {
       "id": "phrasebook-hobbiesgardening",
       "name": "Hobbies: Gardening",
-      "description": "Phrasebook for Hobbies: Gardening",
+      "description": "Фразы о садоводстве: растения, уход, грядки, семена. Для дачи, сада и цветников.",
       "file": "dictionaries/phrasebook-hobbiesgardening.json",
       "wordCount": 49,
       "emoji": "🪴"
@@ -955,7 +955,7 @@
     {
       "id": "phrasebook-computerssoftware",
       "name": "Computers & Software",
-      "description": "Phrasebook for Computers & Software",
+      "description": "Фразы о компьютерах и программах: настройки, ошибки, обновления, просьбы о помощи. Для работы и быта за экраном.",
       "file": "dictionaries/phrasebook-computerssoftware.json",
       "wordCount": 125,
       "emoji": "🖥️"
@@ -971,7 +971,7 @@
     {
       "id": "phrasebook-personalcarehygiene",
       "name": "Personal Care & Hygiene",
-      "description": "Phrasebook for Personal Care & Hygiene",
+      "description": "Фразы о личной гигиене и уходе за собой: косметика, аптека, процедуры. Для быта и покупок средств ухода.",
       "file": "dictionaries/phrasebook-personalcarehygiene.json",
       "wordCount": 174,
       "emoji": "🧼"
@@ -979,7 +979,7 @@
     {
       "id": "phrasebook-householdchores",
       "name": "Household Chores",
-      "description": "Phrasebook for Household Chores",
+      "description": "Фразы о домашних делах: уборка, стирка, посуда, порядок в доме. Для быта и распределения обязанностей.",
       "file": "dictionaries/phrasebook-householdchores.json",
       "wordCount": 189,
       "emoji": "🧹"
@@ -1003,7 +1003,7 @@
     {
       "id": "phrasebook-schoolclassroom",
       "name": "School & Classroom",
-      "description": "Phrasebook for School & Classroom",
+      "description": "Фразы для школы и класса: уроки, задания, правила, общение с учителем. Для учеников и родителей.",
       "file": "dictionaries/phrasebook-schoolclassroom.json",
       "wordCount": 399,
       "emoji": "🏫"
@@ -1011,7 +1011,7 @@
     {
       "id": "phrasebook-petsdogscats",
       "name": "Pets: Dogs & Cats",
-      "description": "Phrasebook for Pets: Dogs & Cats",
+      "description": "Фразы о собаках и кошках: породы, поведение, уход, ветеринары. Для владельцев питомцев.",
       "file": "dictionaries/phrasebook-petsdogscats.json",
       "wordCount": 72,
       "emoji": "🐶"
@@ -1019,7 +1019,7 @@
     {
       "id": "phrasebook-lawcourt",
       "name": "Law & Court",
-      "description": "Phrasebook for Law & Court",
+      "description": "Фразы о суде и праве: процесс, адвокат, доказательства, приговор. Для юридических ситуаций и чтения новостей.",
       "file": "dictionaries/phrasebook-lawcourt.json",
       "wordCount": 92,
       "emoji": "⚖️"
@@ -1027,7 +1027,7 @@
     {
       "id": "phrasebook-politicselections",
       "name": "Politics & Elections",
-      "description": "Phrasebook for Politics & Elections",
+      "description": "Фразы о выборах и политических кампаниях: голосование, кандидаты, дебаты. Для понимания политических процессов.",
       "file": "dictionaries/phrasebook-politicselections.json",
       "wordCount": 61,
       "emoji": "🗳️"
@@ -1035,7 +1035,7 @@
     {
       "id": "phrasebook-economytrade",
       "name": "Economy & Trade",
-      "description": "Phrasebook for Economy & Trade",
+      "description": "Фразы об экономике и торговле: рынки, цены, сделки, импорт и экспорт. Для деловых новостей и переговоров.",
       "file": "dictionaries/phrasebook-economytrade.json",
       "wordCount": 127,
       "emoji": "📈"
@@ -1043,7 +1043,7 @@
     {
       "id": "phrasebook-religionspirituality",
       "name": "Religion & Spirituality",
-      "description": "Phrasebook for Religion & Spirituality",
+      "description": "Фразы о религии и духовности: вера, практики, праздники, философские беседы. Для межкультурных разговоров.",
       "file": "dictionaries/phrasebook-religionspirituality.json",
       "wordCount": 18,
       "emoji": "🙏"
@@ -1051,7 +1051,7 @@
     {
       "id": "phrasebook-geographylandscapes",
       "name": "Geography & Landscapes",
-      "description": "Phrasebook for Geography & Landscapes",
+      "description": "Фразы о ландшафтах и природе Земли: горы, реки, леса, климат. Для путешествий, учёбы и описаний мест.",
       "file": "dictionaries/phrasebook-geographylandscapes.json",
       "wordCount": 157,
       "emoji": "🏔️"
@@ -1059,7 +1059,7 @@
     {
       "id": "phrasebook-sciencephysics",
       "name": "Science & Physics",
-      "description": "Phrasebook for Science & Physics",
+      "description": "Фразы о физике и науке: материя, энергия, законы, эксперименты. Для учёбы и научно-популярных бесед.",
       "file": "dictionaries/phrasebook-sciencephysics.json",
       "wordCount": 34,
       "emoji": "🔬"
@@ -1067,7 +1067,7 @@
     {
       "id": "phrasebook-mathematicsgeometry",
       "name": "Mathematics & Geometry",
-      "description": "Phrasebook for Mathematics & Geometry",
+      "description": "Фразы о геометрии: фигуры, углы, расчёты, чертежи. Для школы, строительства и точных наук.",
       "file": "dictionaries/phrasebook-mathematicsgeometry.json",
       "wordCount": 152,
       "emoji": "📐"
@@ -1075,7 +1075,7 @@
     {
       "id": "phrasebook-historyempires",
       "name": "History & Empires",
-      "description": "Phrasebook for History & Empires",
+      "description": "Фразы об империях и великих эпохах: власть, войны, расцвет и падение государств. Для любителей истории.",
       "file": "dictionaries/phrasebook-historyempires.json",
       "wordCount": 26,
       "emoji": "📜"
@@ -1083,7 +1083,7 @@
     {
       "id": "phrasebook-artpainting",
       "name": "Art & Painting",
-      "description": "Phrasebook for Art & Painting",
+      "description": "Фразы о живописи и изобразительном искусстве: картины, стили, художники, выставки. Для галерей и разговора об искусстве.",
       "file": "dictionaries/phrasebook-artpainting.json",
       "wordCount": 17,
       "emoji": "🎨"
@@ -1091,7 +1091,7 @@
     {
       "id": "phrasebook-technologygadgets",
       "name": "Technology & Gadgets",
-      "description": "Phrasebook for Technology & Gadgets",
+      "description": "Фразы о гаджетах и технологиях: телефоны, настройки, покупки, поломки. Для техники в быту и на работе.",
       "file": "dictionaries/phrasebook-technologygadgets.json",
       "wordCount": 39,
       "emoji": "🔌"
@@ -1099,7 +1099,7 @@
     {
       "id": "phrasebook-internetwebsites",
       "name": "Internet & Websites",
-      "description": "Phrasebook for Internet & Websites",
+      "description": "Фразы об интернете и сайтах: браузер, аккаунты, поиск, безопасность в сети. Для повседневной онлайн-жизни.",
       "file": "dictionaries/phrasebook-internetwebsites.json",
       "wordCount": 46,
       "emoji": "🌐"
@@ -1107,7 +1107,7 @@
     {
       "id": "phrasebook-vehiclestransport",
       "name": "Vehicles & Transport",
-      "description": "Phrasebook for Vehicles & Transport",
+      "description": "Фразы о транспорте: машины, мотоциклы, обслуживание, дороги. Для водителей и любителей техники.",
       "file": "dictionaries/phrasebook-vehiclestransport.json",
       "wordCount": 344,
       "emoji": "🛵"
@@ -1115,7 +1115,7 @@
     {
       "id": "phrasebook-materialssubstances",
       "name": "Materials & Substances",
-      "description": "Phrasebook for Materials & Substances",
+      "description": "Фразы о материалах и веществах: металл, пластик, свойства, применение. Для работы, ремонта и науки.",
       "file": "dictionaries/phrasebook-materialssubstances.json",
       "wordCount": 178,
       "emoji": "🧱"
@@ -1123,7 +1123,7 @@
     {
       "id": "phrasebook-toolshardware",
       "name": "Tools & Hardware",
-      "description": "Phrasebook for Tools & Hardware",
+      "description": "Фразы об инструментах и оснастке: дрели, крепёж, измерения, мастерская. Для ремонта и поделок своими руками.",
       "file": "dictionaries/phrasebook-toolshardware.json",
       "wordCount": 36,
       "emoji": "🧰"
@@ -1131,7 +1131,7 @@
     {
       "id": "phrasebook-officestationery",
       "name": "Office & Stationery",
-      "description": "Phrasebook for Office & Stationery",
+      "description": "Фразы про офис и канцелярию: бумаги, ручки, печать, организация рабочего места. Для офисной работы и учёбы.",
       "file": "dictionaries/phrasebook-officestationery.json",
       "wordCount": 37,
       "emoji": "🖇️"
@@ -1139,7 +1139,7 @@
     {
       "id": "phrasebook-furnituredecor",
       "name": "Furniture & Decor",
-      "description": "Phrasebook for Furniture & Decor",
+      "description": "Фразы о мебели и декоре: покупка, сборка, интерьер, перестановка. Для обустройства жилья.",
       "file": "dictionaries/phrasebook-furnituredecor.json",
       "wordCount": 114,
       "emoji": "🛋️"
@@ -1147,7 +1147,7 @@
     {
       "id": "phrasebook-clothesaccessories",
       "name": "Clothes & Accessories",
-      "description": "Phrasebook for Clothes & Accessories",
+      "description": "Фразы об одежде и аксессуарах: размер, ткань, примерка, уход за вещами. Для шопинга и гардероба.",
       "file": "dictionaries/phrasebook-clothesaccessories.json",
       "wordCount": 322,
       "emoji": "👔"
@@ -1155,7 +1155,7 @@
     {
       "id": "phrasebook-foodingredients",
       "name": "Food & Ingredients",
-      "description": "Phrasebook for Food & Ingredients",
+      "description": "Фразы о продуктах: свежесть, состав, покупка, хранение. Для магазина и кухни.",
       "file": "dictionaries/phrasebook-foodingredients.json",
       "wordCount": 367,
       "emoji": "🥕"
@@ -1163,7 +1163,7 @@
     {
       "id": "phrasebook-drinksbeverages",
       "name": "Drinks & Beverages",
-      "description": "Phrasebook for Drinks & Beverages",
+      "description": "Фразы о напитках: кофе, чай, вода, заказ в баре. Для кафе и домашних запасов.",
       "file": "dictionaries/phrasebook-drinksbeverages.json",
       "wordCount": 347,
       "emoji": "🥤"
@@ -1179,7 +1179,7 @@
     {
       "id": "phrasebook-moviescinema",
       "name": "Movies & Cinema",
-      "description": "Phrasebook for Movies & Cinema",
+      "description": "Фразы о кино: жанры, сеансы, отзывы, любимые фильмы. Для кинотеатра и разговоров о фильмах.",
       "file": "dictionaries/phrasebook-moviescinema.json",
       "wordCount": 89,
       "emoji": "🍿"
@@ -1187,7 +1187,7 @@
     {
       "id": "phrasebook-fitnessgym",
       "name": "Fitness & Gym",
-      "description": "Phrasebook for Fitness & Gym",
+      "description": "Фразы для зала и фитнеса: упражнения, тренажёры, тренер, прогресс. Для тренировок и разговоров о спорте.",
       "file": "dictionaries/phrasebook-fitnessgym.json",
       "wordCount": 188,
       "emoji": "🏋️"
@@ -1195,7 +1195,7 @@
     {
       "id": "phrasebook-mythologyfolklore",
       "name": "Mythology & Folklore",
-      "description": "Phrasebook for Mythology & Folklore",
+      "description": "Фразы о мифологии и фольклоре: боги, легенды, сказания, символы. Для чтения мифов и культурных бесед.",
       "file": "dictionaries/phrasebook-mythologyfolklore.json",
       "wordCount": 45,
       "emoji": "🦄"
@@ -1203,7 +1203,7 @@
     {
       "id": "phrasebook-philosophyethics",
       "name": "Philosophy & Ethics",
-      "description": "Phrasebook for Philosophy & Ethics",
+      "description": "Фразы о философии и этике: смысл, мораль, споры идей. Для глубоких разговоров и чтения текстов.",
       "file": "dictionaries/phrasebook-philosophyethics.json",
       "wordCount": 322,
       "emoji": "🤔"
@@ -1211,7 +1211,7 @@
     {
       "id": "phrasebook-psychologymind",
       "name": "Psychology & Mind",
-      "description": "Phrasebook for Psychology & Mind",
+      "description": "Фразы о психологии: эмоции, мышление, привычки, отношения с собой. Для саморазвития и понимания людей.",
       "file": "dictionaries/phrasebook-psychologymind.json",
       "wordCount": 297,
       "emoji": "🧠"
@@ -1219,7 +1219,7 @@
     {
       "id": "phrasebook-linguisticslanguages",
       "name": "Linguistics & Languages",
-      "description": "Phrasebook for Linguistics & Languages",
+      "description": "Фразы о языках и лингвистике: грамматика, акцент, изучение, перевод. Для полиглотов и преподавателей.",
       "file": "dictionaries/phrasebook-linguisticslanguages.json",
       "wordCount": 264,
       "emoji": "🗣️"
@@ -1227,7 +1227,7 @@
     {
       "id": "phrasebook-anthropologycultures",
       "name": "Anthropology & Cultures",
-      "description": "Phrasebook for Anthropology & Cultures",
+      "description": "Фразы о культурах и народах: традиции, обычаи, различия, этикет. Для путешествий и межкультурного общения.",
       "file": "dictionaries/phrasebook-anthropologycultures.json",
       "wordCount": 71,
       "emoji": "🌍"
@@ -1235,7 +1235,7 @@
     {
       "id": "phrasebook-sociologydemographics",
       "name": "Sociology & Demographics",
-      "description": "Phrasebook for Sociology & Demographics",
+      "description": "Фразы об обществе и демографии: население, города, тренды, исследования. Для новостей и аналитики.",
       "file": "dictionaries/phrasebook-sociologydemographics.json",
       "wordCount": 91,
       "emoji": "👥"
@@ -1243,7 +1243,7 @@
     {
       "id": "phrasebook-economicsmarkets",
       "name": "Economics & Markets",
-      "description": "Phrasebook for Economics & Markets",
+      "description": "Фразы об экономике и рынках: спрос, инфляция, инвестиции, кризисы. Для делового чтения и обсуждений.",
       "file": "dictionaries/phrasebook-economicsmarkets.json",
       "wordCount": 63,
       "emoji": "💹"
@@ -1251,7 +1251,7 @@
     {
       "id": "phrasebook-businessmanagement",
       "name": "Business & Management",
-      "description": "Phrasebook for Business & Management",
+      "description": "Фразы о бизнесе и управлении: команды, задачи, встречи, решения. Для менеджеров и предпринимателей.",
       "file": "dictionaries/phrasebook-businessmanagement.json",
       "wordCount": 401,
       "emoji": "📊"
@@ -1259,7 +1259,7 @@
     {
       "id": "phrasebook-marketingadvertising",
       "name": "Marketing & Advertising",
-      "description": "Phrasebook for Marketing & Advertising",
+      "description": "Фразы о маркетинге и рекламе: кампании, аудитория, бренды, метрики. Для маркетологов и владельцев бизнеса.",
       "file": "dictionaries/phrasebook-marketingadvertising.json",
       "wordCount": 257,
       "emoji": "📢"
@@ -1267,7 +1267,7 @@
     {
       "id": "phrasebook-publicrelationsmedia",
       "name": "Public Relations & Media",
-      "description": "Phrasebook for Public Relations & Media",
+      "description": "Фразы о PR и медиа: пресса, репутация, заявления, интервью. Для специалистов по коммуникациям и публичных профессий.",
       "file": "dictionaries/phrasebook-publicrelationsmedia.json",
       "wordCount": 70,
       "emoji": "🎙️"
@@ -1275,7 +1275,7 @@
     {
       "id": "phrasebook-campingoutdoors",
       "name": "Camping & Outdoors",
-      "description": "Phrasebook for Camping & Outdoors",
+      "description": "Фразы для кемпинга и походов: палатка, костёр, маршрут, снаряжение. Для отдыха на природе.",
       "file": "dictionaries/phrasebook-campingoutdoors.json",
       "wordCount": 118,
       "emoji": "🏕️"
@@ -1283,7 +1283,7 @@
     {
       "id": "phrasebook-beachocean",
       "name": "Beach & Ocean",
-      "description": "Phrasebook for Beach & Ocean",
+      "description": "Фразы о пляже и море: купание, загар, волны, отдых у воды. Для отпуска на побережье.",
       "file": "dictionaries/phrasebook-beachocean.json",
       "wordCount": 212,
       "emoji": "🏖️"
@@ -1291,7 +1291,7 @@
     {
       "id": "phrasebook-wintersnow",
       "name": "Winter & Snow",
-      "description": "Phrasebook for Winter & Snow",
+      "description": "Фразы о зиме и снеге: мороз, лыжи, лёд, зимние забавы. Для холодного сезона и горнолыжных поездок.",
       "file": "dictionaries/phrasebook-wintersnow.json",
       "wordCount": 341,
       "emoji": "⛄"
@@ -1299,7 +1299,7 @@
     {
       "id": "phrasebook-dessertssweets",
       "name": "Desserts & Sweets",
-      "description": "Phrasebook for Desserts & Sweets",
+      "description": "Фразы о десертах и сладостях: заказ, вкус, рецепты, кондитерская. Для сладкоежек и посещений кафе.",
       "file": "dictionaries/phrasebook-dessertssweets.json",
       "wordCount": 135,
       "emoji": "🍰"
@@ -1347,7 +1347,7 @@
     {
       "id": "phrasebook-bicyclescycling",
       "name": "Bicycles & Cycling",
-      "description": "Phrasebook for Bicycles & Cycling",
+      "description": "Фразы о велосипедах: езда, ремонт, маршруты, экипировка. Для велолюбителей и городских поездок.",
       "file": "dictionaries/phrasebook-bicyclescycling.json",
       "wordCount": 77,
       "emoji": "🚲"
@@ -1355,7 +1355,7 @@
     {
       "id": "phrasebook-fishingangling",
       "name": "Fishing & Angling",
-      "description": "Phrasebook for Fishing & Angling",
+      "description": "Фразы о рыбалке: снасти, клёв, места, улов. Для рыбаков и отдыха у воды.",
       "file": "dictionaries/phrasebook-fishingangling.json",
       "wordCount": 158,
       "emoji": "🎣"
@@ -1363,7 +1363,7 @@
     {
       "id": "phrasebook-videogamesshootersaction",
       "name": "Video Games (Shooters & Action)",
-      "description": "Phrasebook for Video Games (Shooters & Action)",
+      "description": "Фразы из шутеров и экшен-игр: матч, команда, тактика, стриминг. Для геймеров и игровых чатов.",
       "file": "dictionaries/phrasebook-videogamesshootersaction.json",
       "wordCount": 33,
       "emoji": "🔫"
@@ -1371,7 +1371,7 @@
     {
       "id": "phrasebook-videogamesrpgstrategy",
       "name": "Video Games (RPG & Strategy)",
-      "description": "Phrasebook for Video Games (RPG & Strategy)",
+      "description": "Фразы из RPG и стратегий: квесты, прокачка, ресурсы, тактика. Для геймеров и обсуждений игр.",
       "file": "dictionaries/phrasebook-videogamesrpgstrategy.json",
       "wordCount": 143,
       "emoji": "🛡️"

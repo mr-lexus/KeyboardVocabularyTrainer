@@ -1,7 +1,7 @@
 {
   "id": "builtin-travel",
   "name": "Travel, Places & Navigation",
-  "description": "Vocabulary for travel, tourism, and finding your way",
+  "description": "Путешествия и места: слова для ориентирования в городе, транспорте и отелях — базовый набор для поездок за границу.",
   "entries": [
     {
       "id": "e1",
@@ -90,7 +90,7 @@
     {
       "id": "e15",
       "word": "security",
-      "translation": "безопасность/охрана",
+      "translation": "безопасность",
       "language": "en"
     },
     {
@@ -282,13 +282,13 @@
     {
       "id": "e47",
       "word": "guide",
-      "translation": "гид/путеводитель",
+      "translation": "гид",
       "language": "en"
     },
     {
       "id": "e48",
       "word": "tour",
-      "translation": "тур/экскурсия",
+      "translation": "тур",
       "language": "en"
     },
     {
