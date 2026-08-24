@@ -1,168 +1,3042 @@
 {
   "id": "phrasebook-motorsportdriver",
   "name": "Motorsport (Driver)",
-  "description": "Phrasebook for Motorsport (Driver)",
+  "description": "Язык гонщика: радио-переговоры с инженером, старт, обгоны, резина, штрафы",
   "entries": [
     {
-      "id": "pb_motorsportdriver_0_1",
-      "word": "Go get your helmet.",
-      "translation": "Иди надень каску.",
+      "id": "pbq_motorsportdriver_0",
+      "word": "Radio check, loud and clear.",
+      "translation": "Проверка связи — слышно отлично.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportdriver_0_2",
-      "word": "That helmet saved your life.",
-      "translation": "Этот шлем спас тебе жизнь.",
+      "id": "pbq_motorsportdriver_1",
+      "word": "Copy that, box this lap.",
+      "translation": "Принял, заезжай этим кругом.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportdriver_0_3",
-      "word": "I'm a pilot.",
-      "translation": "Я пилот.",
+      "id": "pbq_motorsportdriver_2",
+      "word": "Box, box.",
+      "translation": "Пит-стоп, пит-стоп!",
       "language": "en"
     },
     {
-      "id": "pb_motorsportdriver_0_5",
-      "word": "The pilot bailed out before the plane crashed.",
-      "translation": "Пилот катапультировался, перед тем как самолёт разбился.",
+      "id": "pbq_motorsportdriver_3",
+      "word": "Stay out, stay out.",
+      "translation": "Оставайся на трассе, не заезжай!",
       "language": "en"
     },
     {
-      "id": "pb_motorsportdriver_0_7",
-      "word": "I want to be a pilot in the future.",
-      "translation": "Я хочу стать пилотом в будущем.",
+      "id": "pbq_motorsportdriver_4",
+      "word": "What is the gap to car behind?",
+      "translation": "Какой отрыв до преследователя?",
       "language": "en"
     },
     {
-      "id": "pb_motorsportdriver_0_8",
-      "word": "He's the king's most trusted advisor.",
-      "translation": "Он ближайший советник короля.",
+      "id": "pbq_motorsportdriver_5",
+      "word": "Gap is two seconds and closing.",
+      "translation": "Отрыв две секунды и сокращается.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportdriver_0_11",
-      "word": "You didn't tell me that you were a pilot.",
-      "translation": "Ты не говорил мне, что ты лётчик.",
+      "id": "pbq_motorsportdriver_6",
+      "word": "He is faster than you, understand?",
+      "translation": "Он быстрее тебя, понял? (командный приказ)",
       "language": "en"
     },
     {
-      "id": "pb_motorsportdriver_0_16",
-      "word": "I'm the one who has your helmet.",
-      "translation": "Твой шлем у меня.",
+      "id": "pbq_motorsportdriver_7",
+      "word": "Hold position, no fighting.",
+      "translation": "Держи позицию, не дерись.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportdriver_0_18",
-      "word": "The pilot wasn't injured when the plane crashed.",
-      "translation": "При падении самолёта лётчик не пострадал.",
+      "id": "pbq_motorsportdriver_8",
+      "word": "Tyres are gone, rears falling apart.",
+      "translation": "Резина умерла, задние рассыпаются.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportdriver_0_21",
-      "word": "Where is your helmet?",
-      "translation": "Где твой шлем?",
+      "id": "pbq_motorsportdriver_9",
+      "word": "Front left is graining badly.",
+      "translation": "Переднее левое сильно зернистится.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportdriver_0_23",
-      "word": "What did the pilot say?",
-      "translation": "Что сказал пилот?",
+      "id": "pbq_motorsportdriver_10",
+      "word": "Rear tyres overheating sliding everywhere.",
+      "translation": "Задние перегреваются, машину развозит.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportdriver_0_24",
-      "word": "I need a helmet.",
-      "translation": "Мне нужен шлем.",
+      "id": "pbq_motorsportdriver_11",
+      "word": "Blistering on the right rear already.",
+      "translation": "На правом заднем уже пузыри.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportdriver_0_25",
-      "word": "Is there a pilot on this plane?",
-      "translation": "В этом самолёте есть пилот?",
+      "id": "pbq_motorsportdriver_12",
+      "word": "Tyres came alive this lap.",
+      "translation": "На этом круге резина заработала.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportdriver_0_27",
-      "word": "Is this your helmet?",
-      "translation": "Это твой шлем?",
+      "id": "pbq_motorsportdriver_13",
+      "word": "Tyres are ready push now.",
+      "translation": "Шины готовы — жми!",
       "language": "en"
     },
     {
-      "id": "pb_motorsportdriver_0_30",
-      "word": "I want to be a pilot.",
-      "translation": "Я хочу быть лётчиком.",
+      "id": "pbq_motorsportdriver_14",
+      "word": "Manage the pace, fuel is critical.",
+      "translation": "Управляй темпом, топливо на пределе.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportdriver_0_33",
-      "word": "A bullet pierced the helmet.",
-      "translation": "Шлем пробила пуля.",
+      "id": "pbq_motorsportdriver_15",
+      "word": "Lift and coast turns three and seven.",
+      "translation": "Прибавь и сбрось в третьем и седьмом поворотах.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportdriver_0_34",
-      "word": "He decided to become a pilot.",
-      "translation": "Он решил стать летчиком.",
+      "id": "pbq_motorsportdriver_16",
+      "word": "Short shift through the esses.",
+      "translation": "Рано переключайся в эсках.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportdriver_0_35",
-      "word": "I put my helmet on.",
-      "translation": "Я надел шлем.",
+      "id": "pbq_motorsportdriver_17",
+      "word": "Watch your revs on exit.",
+      "translation": "Следи за оборотами на выходе.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportdriver_0_36",
-      "word": "Neither motorcyclist was wearing a helmet.",
-      "translation": "Ни на одном из мотоциклистов шлема не было.",
+      "id": "pbq_motorsportdriver_18",
+      "word": "Braking into turn one was late.",
+      "translation": "Торможение в первый поворот было поздним.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportdriver_0_37",
-      "word": "Whose helmet is it?",
-      "translation": "Чей это шлем?",
+      "id": "pbq_motorsportdriver_19",
+      "word": "Brake earlier into the hairpin.",
+      "translation": "Тормози раньше перед шпилькой.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportdriver_0_39",
-      "word": "The pilot landed the plane safely.",
-      "translation": "Пилот благополучно посадил самолёт.",
+      "id": "pbq_motorsportdriver_20",
+      "word": "You braked fifty meters later that time.",
+      "translation": "В этот раз затормозил на пятьдесят метров позже.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportdriver_0_40",
-      "word": "The pilot of an airliner is responsible for the safety of passengers.",
-      "translation": "Пилот авиалайнера отвечает за безопасность пассажиров.",
+      "id": "pbq_motorsportdriver_21",
+      "word": "Apex speed looks good now.",
+      "translation": "Скорость в апексе теперь хорошая.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportdriver_0_42",
-      "word": "Put your helmet on.",
-      "translation": "Надень свой шлем.",
+      "id": "pbq_motorsportdriver_22",
+      "word": "Carry more minimum speed through the chicane.",
+      "translation": "Проходи шикану с большей минимальной скоростью.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportdriver_0_43",
-      "word": "My dream is to become a pilot.",
-      "translation": "Моя мечта - стать лётчиком.",
+      "id": "pbq_motorsportdriver_23",
+      "word": "Straightline the kerbs if grip allows.",
+      "translation": "Срезай поребрики, если хватает сцепления.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportdriver_0_44",
-      "word": "You've got my helmet.",
-      "translation": "У тебя мой шлем.",
+      "id": "pbq_motorsportdriver_24",
+      "word": "Avoid the painted concrete patches.",
+      "translation": "Не наезжай на окрашенный бетон.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportdriver_0_45",
-      "word": "Why weren't you wearing a helmet?",
-      "translation": "Почему ты был без шлема?",
+      "id": "pbq_motorsportdriver_25",
+      "word": "Marbles offline will catch you out.",
+      "translation": "За пределами траектории «мармелад» утащит машину.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportdriver_0_47",
-      "word": "Were you wearing a helmet?",
-      "translation": "Ты был в шлеме?",
+      "id": "pbq_motorsportdriver_26",
+      "word": "Rain expected in ten minutes sector three.",
+      "translation": "Через десять минут дождь — третий сектор.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_27",
+      "word": "Rain at the bridge reported.",
+      "translation": "Сообщают: дождь у моста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_28",
+      "word": "Track drying line forming slowly.",
+      "translation": "Трасса подсыхает, траектория проявляется медленно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_29",
+      "word": "Slicks or inters, your call soon.",
+      "translation": "Слики или промежуточные — скоро решать тебе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_30",
+      "word": "Box for inters next lap.",
+      "translation": "Заезжай за промежуточными следующим кругом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_31",
+      "word": "Aquaplaning on the back straight!",
+      "translation": "Аквапланирование на задней прямой!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_32",
+      "word": "Visibility zero behind safety car spray.",
+      "translation": "За пейсаром нулевая видимость из брызг.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_33",
+      "word": "Lights out and away we go!",
+      "translation": "Огни погасли — поехали!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_34",
+      "word": "Good launch, P2 into turn one.",
+      "translation": "Хороший старт, вторая позиция к первому повороту.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_35",
+      "word": "Bogged down off the line badly.",
+      "translation": "Провалил старт, машина захлебнулась.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_36",
+      "word": "Wheelspin cost us two places.",
+      "translation": "Пробуксовка стоила двух позиций.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_37",
+      "word": "Jump start investigation noted.",
+      "translation": "Разбирают фальстарт — проверяют.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_38",
+      "word": "Anticipated the start perfectly.",
+      "translation": "Идеально предугадал старт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_39",
+      "word": "Squeezed me against the wall!",
+      "translation": "Меня прижали к стене!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_40",
+      "word": "He pushed me wide on exit!",
+      "translation": "Меня вытолкнули наружу на выходе!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_41",
+      "word": "That was my corner he turned in on!",
+      "translation": "Это был мой угол, а он врубился!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_42",
+      "word": "Contact at turn three front wing damaged.",
+      "translation": "Контакт в третьем повороте, повреждено переднее крыло.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_43",
+      "word": "Front wing is dangling loose.",
+      "translation": "Переднее крыло болтается.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_44",
+      "word": "Lost part of the floor on debris.",
+      "translation": "Потерял часть днища на обломках.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_45",
+      "word": "Puncture! Slow down carefully.",
+      "translation": "Прокол! Сбрасывай скорость аккуратно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_46",
+      "word": "Vibration increasing every lap check wheels.",
+      "translation": "Вибрация растёт каждый круг — проверить балансировку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_47",
+      "word": "Wheel not secured stop immediately!",
+      "translation": "Колесо не закреплено — немедленно остановись!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_48",
+      "word": "DRS available next lap use it wisely.",
+      "translation": "DRS доступен со следующего круга — используй с умом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_49",
+      "word": "DRS enabled within one second.",
+      "translation": "DRS открывается в пределах секунды отставания.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_50",
+      "word": "Tried around the outside no room given.",
+      "translation": "Пытался по внешней — места не дали.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_51",
+      "word": "Divebombed from miles back crazy move.",
+      "translation": "Летел в атаку с огромной дистанции — безумие.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_52",
+      "word": "Left a car width respect shown.",
+      "translation": "Оставил ширину машины — жест уважения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_53",
+      "word": "Defend the inside line into the hairpin.",
+      "translation": "Защищай внутреннюю линию перед шпилькой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_54",
+      "word": "One defensive move allowed only.",
+      "translation": "Разрешён только один защитный манёвр.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_55",
+      "word": "Switchback worked perfectly got him on exit.",
+      "translation": "Свитчбек сработал — обошёл его на выходе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_56",
+      "word": "Slipstream down the main straight gaining fast.",
+      "translation": "Слипстрим на главной прямой — догоняю быстро.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_57",
+      "word": "Undercut attempt likely they will react.",
+      "translation": "Вероятен андеркат — ждём их реакции.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_58",
+      "word": "Overcutting two laps longer stint.",
+      "translation": "Андеркуем наоборот — едем на два круга дольше.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_59",
+      "word": "Two-stop strategy versus one-stopper debate.",
+      "translation": "Обсуждаем: два пит-стопа против одного.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_60",
+      "word": "Safety car deployed bunching up field.",
+      "translation": "Вышел сейфти-кар — пелетон сжался.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_61",
+      "word": "Free pit stop under safety car lucky.",
+      "translation": "Бесплатный пит-стоп под сейфти — повезло!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_62",
+      "word": "Restart positioning critical get close early.",
+      "translation": "На рестарте важно подобраться к лидеру пораньше.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_63",
+      "word": "Blue flags lapped cars keep clear.",
+      "translation": "Синие флаги: круговые освобождайте траекторию!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_64",
+      "word": "Being lapped let him through cleanly.",
+      "translation": "Лидер нас кругует — пропусти аккуратно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_65",
+      "word": "Five-second time penalty served at stop.",
+      "translation": "Штраф пять секунд штраф отбыл на пит-стопе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_66",
+      "word": "Ten-second stop-go harsh but fair.",
+      "translation": "Стоп-гоу десять секунд — жёстко, но справедливо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_67",
+      "word": "Track limits warnings accumulating third strike penalty.",
+      "translation": "Предупреждений за границы трассы набирается — третий раз будет штраф.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_68",
+      "word": "All four wheels off the track lap voided.",
+      "translation": "Все четыре колеса за трассой — время круга стёрто.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_69",
+      "word": "Yellow flag zone no overtaking ever.",
+      "translation": "Жёлтые флаги — обгон запрещён всегда!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_70",
+      "word": "Double yellow slow down prepare to stop.",
+      "translation": "Двойные жёлтые — снижайся, будь готов остановиться.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_71",
+      "word": "Green flag racing resumed normally.",
+      "translation": "Зелёные — гонка идёт штатно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_72",
+      "word": "Red flag session stopped return to pits.",
+      "translation": "Красные флаги — сессия остановлена, заезд в боксы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_73",
+      "word": "Formation lap behind safety car wet race.",
+      "translation": "Формирующий круг за пейсаром — мокрая гонка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_74",
+      "word": "Grid slots drying line advantage noticed.",
+      "translation": "На старте сухая колея даёт фору.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_75",
+      "word": "Fuel saving mode two tenths slower acceptable.",
+      "translation": "Экономим топливо: минус две десятых допустимо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_76",
+      "word": "Full send final lap qualifying mode.",
+      "translation": "Последний круг — полный атак, квалификационный режим.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_77",
+      "word": "Outlap tyre warming procedure careful.",
+      "translation": "Подготовительный круг — аккуратно прогревай резину.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_78",
+      "word": "In-lap flat out before box entry.",
+      "translation": "Круг до боксов — на полном газу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_79",
+      "word": "Pit lane speed limiter engaged sixty.",
+      "translation": "Ограничитель скорости в пит-лейне включён — шестьдесят.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_80",
+      "word": "Unsafe release nearly collided exit!",
+      "translation": "Опасный выпуск — чуть не столкнулись на выезде!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_81",
+      "word": "Slow stop three point nine seconds crew nailed it.",
+      "translation": "Быстрое питание: 3,9 секунды — команда молодцы.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_82",
+      "word": "Cross-thread wheel gun disaster replayed endlessly.",
+      "translation": "Гайку перекосило — — показывают в повторах бесконечно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_83",
+      "word": "Setup changes overnight transformed the car.",
+      "translation": "Ночные изменения донастройки. преобразили машину.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_84",
+      "word": "More front end needed understeering badly.",
+      "translation": "Не хватает поворачиваемости — сильное недостаточное скольжение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_85",
+      "word": "Oversteer on entry snap moments scary.",
+      "translation": "Избыточная поворачиваемость на входе — машина огрызается.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_86",
+      "word": "Downforce balance shifted rear wing click added.",
+      "translation": "Добавил клик антикрыла — баланс сместился назад.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_87",
+      "word": "Ride height lowered kerbs now brutal.",
+      "translation": "Клиренс занизили — поребрики теперь жёсткие.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_88",
+      "word": "Brake bias shifted two clicks forward.",
+      "translation": "Баланс тормозов сдвинут на два клика вперёд.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_89",
+      "word": "Engine mode strat five qualifying blast.",
+      "translation": "Режим мотора «strat five» — квалификационная атака.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_90",
+      "word": "Harvesting energy deploy later straight.",
+      "translation": "Копим энергию — отдадим позже на прямой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_91",
+      "word": "ERS deployment full on main straight.",
+      "translation": "Полное использование ERS на главной прямой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_92",
+      "word": "Battery empty lift and coast more.",
+      "translation": "Батарея пуста — усиль экономию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_93",
+      "word": "Gearbox problem losing seventh gear.",
+      "translation": "Проблема с коробкой — теряется седьмая передача.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_94",
+      "word": "Hydraulic failure parked the car.",
+      "translation": "Отказ гидравлики — машина пришлось ставить.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_95",
+      "word": "Smoke from the back pulling off line.",
+      "translation": "Дым сзади — съезжаю с траектории.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_96",
+      "word": "Retiring the car sorry team.",
+      "translation": "Сходим с гонки — извините перед командой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_97",
+      "word": "Classified finish despite everything points scored.",
+      "translation": "Несмотря ни на что — финишировал в очках!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_98",
+      "word": "Podium finish emotional radio message.",
+      "translation": "Подиум — эмоциональное сообщение по радио!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_99",
+      "word": "Pole position lap of my life!",
+      "translation": "Поул — лучший круг в моей жизни!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_100",
+      "word": "Fastest lap bonus point secured.",
+      "translation": "Быстрейший круг и бонусное очко — наши!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_101",
+      "word": "Chequered flag victory unbelievable feeling.",
+      "translation": "Клетчатый флаг, победа — невероятное чувство!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_102",
+      "word": "Karting basics racing line apex commitment.",
+      "translation": "Основы карта: траектория, апекс, решительность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_103",
+      "word": "Slow hands smooth inputs fast laps.",
+      "translation": "Медленные руки, плавные движения — быстрые круги.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_104",
+      "word": "Look where you want the kart to go.",
+      "translation": "Смотри туда, куда хочешь направить карт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_105",
+      "word": "Trail braking rotates the chassis nicely.",
+      "translation": "Торможение в повороте красиво закручивает шасси.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_106",
+      "word": "Track day session times downloaded timing app.",
+      "translation": "Трек-день: времена сессий смотрите в приложении.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_107",
+      "word": "Helmet on gloves strapped harness tightened.",
+      "translation": "Шлем надет, перчатки застёгнуты, ремни затянуты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_108",
+      "word": "Mirrors adjusted blind spots memorized.",
+      "translation": "Зеркала настроены, слепые зоны запомнены.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_109",
+      "word": "Cool down lap brakes glowing fade avoided.",
+      "translation": "Охлаждающий круг: тормоза светятся — не допусти фейд.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_110",
+      "word": "Parc ferme rules touch nothing yourself.",
+      "translation": "Правила parc fermé: руками ничего не трогай!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_111",
+      "word": "Weighbridge random checks compliance mandatory.",
+      "translation": "Случайные взвешивания — обязательны для всех.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_112",
+      "word": "Debrief with engineers data reviewed thoroughly.",
+      "translation": "Разбор с инженерами: данные изучили подробно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_113",
+      "word": "Telemetry shows braking traces overlapped.",
+      "translation": "Телеметрия: графики торможений наложили друг на друга.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_114",
+      "word": "Simulator prep shaved tenths before round.",
+      "translation": "Подготовка на симуляторе срезала десятые до уик-энда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_115",
+      "word": "Traffic ahead three cars battling.",
+      "translation": "Впереди трафик — трое дерутся между собой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_116",
+      "word": "Clear traffic now push mode on.",
+      "translation": "Трафик кончился — жми, режим атаки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_117",
+      "word": "Blue flag in sector two ignore it.",
+      "translation": "Синий флаг во втором секторе — игнорируй его.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_118",
+      "word": "Lapped car fighting me unfairly reported.",
+      "translation": "Круговой несправедливо отбивался — доложил стюардам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_119",
+      "word": "Gap ahead four seconds closing in.",
+      "translation": "До лидера впереди четыре секунды — догоняю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_120",
+      "word": "Same pace as leader matching times.",
+      "translation": "Держу темп лидера, времена одинаковые.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_121",
+      "word": "Falling behind half second per lap.",
+      "translation": "Проигрываю по полсекунды на круге.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_122",
+      "word": "Where am I losing time engineer?",
+      "translation": "Инженер, где я теряю время?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_123",
+      "word": "Losing time entry phase corner nine.",
+      "translation": "Теряю на входе в девятый поворот.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_124",
+      "word": "Your braking point is early compared.",
+      "translation": "По сравнению с соперником тормозишь рано.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_125",
+      "word": "Telemetry suggests later apex turn twelve.",
+      "translation": "Телеметрия советует позже апексить двенадцатый.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_126",
+      "word": "Sector one purple keep that style.",
+      "translation": "Первый сектор фиолетовый — держи этот стиль.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_127",
+      "word": "Delta positive half tenth recover it.",
+      "translation": "Дельта плюс полдесятой — верни время.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_128",
+      "word": "Chequered flag practice session ended.",
+      "translation": "Клетчатый флаг — тренировка закончена.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_129",
+      "word": "In-lap now cool brakes gently.",
+      "translation": "Заезжай, охлаждай тормоза плавно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_130",
+      "word": "Fuel number eight laps remaining safe.",
+      "translation": "Топлива на восемь кругов с запасом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_131",
+      "word": "Save half a kilo this lap please.",
+      "translation": "Сэкономь полкило топлива на этом круге.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_132",
+      "word": "Mix three available when needed.",
+      "translation": "Смесь три доступна по запросу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_133",
+      "word": "Overtake button charged fully now.",
+      "translation": "Кнопка обгона полностью заряжена.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_134",
+      "word": "Harvesting complete deploy at will.",
+      "translation": "Энергия собрана — используй свободно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_135",
+      "word": "Clutch biting point changed slightly.",
+      "translation": "Точка схватывания сцепления немного сместилась.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_136",
+      "word": "Anti-stall kicking in watch it.",
+      "translation": "Антистолл срабатывает — следи!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_137",
+      "word": "Downshift protection prevented lockup downshift.",
+      "translation": "Защита не дала заблокировать колёса на понижении.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_138",
+      "word": "Heel toe downshifts smooth every corner.",
+      "translation": "Пятка-носок — каждое понижение гладкое.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_139",
+      "word": "Rev matching automatic gearbox handles.",
+      "translation": "Перегазовку коробка делает сама.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_140",
+      "word": "Paddle shift missed a gear there.",
+      "translation": "Промахнулся лепестком — передача не воткнулась.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_141",
+      "word": "Neutral selected red light waiting.",
+      "translation": "Нейтраль включена, ждём красный свет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_142",
+      "word": "Bite point found launch settings armed.",
+      "translation": "Точка схватывания найдена, стартовые настройки активны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_143",
+      "word": "Launch anti-stall engaged perfectly.",
+      "translation": "Старт прошёл идеально, антистолл отработал.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_144",
+      "word": "Wheelspin manageable first gear only.",
+      "translation": "Пробуксовка только на первой передаче.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_145",
+      "word": "Kerb riding acceptable turns two five.",
+      "translation": "Поребрики можно жевать во втором и пятом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_146",
+      "word": "Inside kerb launch ramp warning.",
+      "translation": "Внутренний поребрик — трамплин, осторожно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_147",
+      "word": "Bumped startline concrete patch jolted.",
+      "translation": "Стартовая бетонная вставка тряхнула машину.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_148",
+      "word": "Ride the curb through fast left.",
+      "translation": "Иди по поребрику в быстром левом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_149",
+      "word": "Grass excursion dust cloud rejoined.",
+      "translation": "Вылетел на траву, облако пыли, вернулся на трассу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_150",
+      "word": "Runoff area gravel trap escape fine.",
+      "translation": "Ушёл в гравийку, выбрался нормально.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_151",
+      "word": "Gravel stuck in radiator intake.",
+      "translation": "Гравий застрял в радиаторе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_152",
+      "word": "Marshals pushed me back safely.",
+      "translation": "Маршалы аккуратно вытолкнули обратно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_153",
+      "word": "Recovery crane lifted car away.",
+      "translation": "Кран погрузил машину и увёз.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_154",
+      "word": "Red flag my session ruined timing.",
+      "translation": "Красные флаги убила мой быстрый круг.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_155",
+      "word": "Track limits grey area debate ongoing.",
+      "translation": "Споры о границах трассы не утихают.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_156",
+      "word": "White line counts as track edge.",
+      "translation": "Белая линия считается границей трассы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_157",
+      "word": "Kerb beyond white line not track.",
+      "translation": "Поребрик за белой линией — уже не трасса.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_158",
+      "word": "Stewards investigating incident post-race.",
+      "translation": "Стюарды разбирают инцидент по горячим следам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_159",
+      "word": "Right to review hearing scheduled.",
+      "translation": "Право на апелляцию — слушание назначено.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_160",
+      "word": "Points deduction championship standings impact.",
+      "translation": "Снятие очков по личному зачёту.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_161",
+      "word": "Superlicence points at stake here.",
+      "translation": "Речь о баллах суперлицензии!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_162",
+      "word": "Race director notes circulated briefing.",
+      "translation": "Заметки гоночного директора разослали к брифингу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_163",
+      "word": "Drivers briefing attendance mandatory everyone.",
+      "translation": "Брифинг пилотов обязателен для всех!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_164",
+      "word": "Wet line off racing line grip.",
+      "translation": "В дождь сцепление лучше вне основной траектории.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_165",
+      "word": "Spray wall invisible car ahead.",
+      "translation": "Из брызг впереди машины не видно вообще!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_166",
+      "word": "Aquaplane lift throttle gently does it.",
+      "translation": "При аквапланировании помогает плавный сброс газа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_167",
+      "word": "Standing water turn ten avoid inside.",
+      "translation": "Лужа в десятом — держись подальше от внутренней.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_168",
+      "word": "Drying line widening every lap visibly.",
+      "translation": "Сухая колея расширяется на глазах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_169",
+      "word": "Cross over onto slicks gamble time.",
+      "translation": "Момент перехода на слики — азартное решение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_170",
+      "word": "Interfers overheating on drying track fast.",
+      "translation": "Промежуточные перегреваются на сохнущей трассе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_171",
+      "word": "Visor tear-offs ripping layers visibility.",
+      "translation": "Срываю плёнки с визора слой за слоем.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_172",
+      "word": "Anti-fog treatment worked brilliantly today.",
+      "translation": "Антифог сегодня блестяще сработал.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_173",
+      "word": "Hydration tube sipped straights only.",
+      "translation": "Пью из трубки только на прямых.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_174",
+      "word": "Neck strain corners pulling G-forces.",
+      "translation": "Шея напрягается — в поворотах перегрузки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_175",
+      "word": "Braking G-forces five plus sustained.",
+      "translation": "На торможении больше пяти же перегрузок!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_176",
+      "word": "Heat soak cockpit sixty degrees measured.",
+      "translation": "В кокпите жарко — шестьдесят градусов замеряли.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_177",
+      "word": "Cooling vest pre-race ice pack.",
+      "translation": "Перед заездом — жилет со льдом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_178",
+      "word": "Heart rate average one-sixty race long.",
+      "translation": "Средний пульс за гонку — сто шестьдесят!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_179",
+      "word": "Reaction time training light board daily.",
+      "translation": "Тренирую реакцию на световой панели ежедневно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_180",
+      "word": "Hand-eye coordination drills reflex ball.",
+      "translation": "Координацию качаю рефлекторным мячиком.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_181",
+      "word": "Simulator sessions sharpened braking references.",
+      "translation": "Симулятор помог выучить точки торможения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_182",
+      "word": "Muscle memory built thousand laps deep.",
+      "translation": "Мышечная память — тысяча кругов в базе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_183",
+      "word": "Mistake recovery mindset reset next corner.",
+      "translation": "Ошибся — сбросил и живу следующим поворотом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_184",
+      "word": "Chasing perfection ruins lap consistency advice.",
+      "translation": "Совет: перфекционизм убивает стабильность кругов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_185",
+      "word": "Flow state description best laps feel.",
+      "translation": "Лучшие круги — это состояние потока.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_186",
+      "word": "Pressure situation breathing techniques calmed.",
+      "translation": "Техники дыхания успокоили под давлением.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_187",
+      "word": "Visualization lap memorized blindfolded mentally.",
+      "translation": "Мысленно прохожу круг до миллиметра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_188",
+      "word": "Post-race interview clichés unavoidable smiling.",
+      "translation": "Шаблонные интервью после гонки — стандартный набор фраз.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_189",
+      "word": "Big thanks team factory boys deserved.",
+      "translation": "Огромное спасибо команде — парни это заслужили!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_190",
+      "word": "We will come back stronger promise.",
+      "translation": "Обещаем: вернёмся сильнее!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_191",
+      "word": "Gutted about DNF mechanics worked miracles.",
+      "translation": "Расстроен из-за схода — механики творили чудеса.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_192",
+      "word": "Strategy called perfectly hats off pitwall.",
+      "translation": "Стратегия идеальна — снимаю шляпу пит-уоллу!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_193",
+      "word": "Teammate respectful battle clean racing.",
+      "translation": "С напарником боролись жёстко, но чисто.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_194",
+      "word": "Rubbing is racing old saying applies.",
+      "translation": "«Потёртости — часть гонок» — как говорится.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_195",
+      "word": "Apology issued contact review honest.",
+      "translation": "После контакта честно признал ошибку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_196",
+      "word": "Grudge carried into next round quietly.",
+      "translation": "Обиду придержал до следующего этапа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_197",
+      "word": "Championship math simple win out.",
+      "translation": "Математика титула проста: выигрывай всё.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_198",
+      "word": "Title rival mind games media day.",
+      "translation": "Соперник по титулу включает психологию. на медиа-дне.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_199",
+      "word": "Contract negotiations leverage strong season.",
+      "translation": "Сильный сезон — аргумент в переговорах о контракте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_200",
+      "word": "Seat secured multi-year extension signed.",
+      "translation": "Продлил контракт на несколько лет — место закреплено!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_201",
+      "word": "Test driver role development feedback valued.",
+      "translation": "Работа тест-пилота: ценно моё фидбек-развитие.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_202",
+      "word": "Young driver programme academy graduated.",
+      "translation": "Выпустился из молодёжной академии.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_203",
+      "word": "Karting roots every champion story starts.",
+      "translation": "У каждого чемпиона история начинается с карта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_204",
+      "word": "Club racing grassroots weekends budget tight.",
+      "translation": "Клубные гонки: выходные и скромный бюджет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_205",
+      "word": "Arrive and drive package hassle-free entry.",
+      "translation": "Формат «приехали и едете» — без хлопот.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_206",
+      "word": "Track day insurance optional checked.",
+      "translation": "На трек-день страховка опциональна — уточнил.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_207",
+      "word": "Point-by courtesy faster cars passed.",
+      "translation": "Уступаю быстрым жестом — это трек-этикет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_208",
+      "word": "Mirrors signal shoulder check habit track.",
+      "translation": "Зеркала, поворотник, взгляд — привычка и на треке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_209",
+      "word": "Hot lap cold tyres mistake rookie.",
+      "translation": "Быстрый круг на холодных шинах — классическая ошибка новичка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_210",
+      "word": "Session red flagged car recovered barrier.",
+      "translation": "Сессию остановили — машину убрали от барьера.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_211",
+      "word": "Damage assessment bodywork panels swapped.",
+      "translation": "Оценили повреждения — заменили панели.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_212",
+      "word": "Setup sheet logged changes baseline saved.",
+      "translation": "Все изменения настроек записал, сохранил базовую.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_213",
+      "word": "Tire pressures hot targets achieved.",
+      "translation": "Горячие давления вышли на целевые.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_214",
+      "word": "Camber wear inner edge excessive.",
+      "translation": "Развал съедает внутреннюю кромку заметно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_215",
+      "word": "Toe-out sharpness turn-in twitchy highway.",
+      "translation": "Схождение наружу — острые реакции, но дрянно на прямой дороге.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_216",
+      "word": "Caster stability straight-line feel improved.",
+      "translation": "Кастер добавил стабильности на прямой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_217",
+      "word": "Anti-roll bar stiffer rear rotation helped.",
+      "translation": "Жёсткий задний стабилизатор помог вращению.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_218",
+      "word": "Damper clicks compression rebound adjusted.",
+      "translation": "Подкрутил клики демпферов: сжатие и отбой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_219",
+      "word": "Spring rate softer front compliance bumps.",
+      "translation": "Мягче пружины спереди — лучше глотает неровности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_220",
+      "word": "Rake angle rear higher diffuser working.",
+      "translation": "Нос вниз, корма вверх — диффузор работает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_221",
+      "word": "Brake ducts opened temps controlled.",
+      "translation": "Открыл воздуховоды — температуры тормозов в норме.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_222",
+      "word": "Pad compound choice endurance versus sprint.",
+      "translation": "Выбор колодок: эндуранс или спринт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_223",
+      "word": "Bedding procedure pads rotors break-in.",
+      "translation": "Прикатка: колодки притираются к дискам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_224",
+      "word": "Brake fade pedal long pedal diagnosed.",
+      "translation": "Фейд тормозов: длинная педаль — классика перегрева.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_225",
+      "word": "Downshift blip rev-matched heel-toe practiced endlessly.",
+      "translation": "Перегазовки при понижении отрабатывал бесконечно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_226",
+      "word": "Left-foot braking turbo lag eliminated.",
+      "translation": "Левая нога на тормозе убрала турболэг.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_227",
+      "word": "Throttle pickup mid-corner balance delicate.",
+      "translation": "Дозировка газа в середине поворота — тонкий баланс.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_228",
+      "word": "Power oversteer managed opposite lock catch.",
+      "translation": "Избыточная от газа — поймал контррулением.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_229",
+      "word": "Lift-off oversteer caught out many.",
+      "translation": "Сброс газа в повороте ловит многих.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_230",
+      "word": "Scandinavian flick rally technique borrowed.",
+      "translation": "Скандинавский флик — приём из ралли.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_231",
+      "word": "Handbrake rotation hairpins tight stages.",
+      "translation": "Ручник крутит машину в узких шпильках спецучастков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_232",
+      "word": "Left-foot braking rally standard technique.",
+      "translation": "В ралли тормозить левой ногой — стандарт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_233",
+      "word": "Pace notes calls rehearsed recce passes.",
+      "translation": "Пейс-ноты выучили на рекогносцировке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_234",
+      "word": "Left three tightens caution rocks inside.",
+      "translation": "«Левый три, сужается, камни внутри» — классический вызов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_235",
+      "word": "Six right long opens flat call.",
+      "translation": "«Шесть правый, длинный, открывается» — читается как полный газ.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_236",
+      "word": "Co-driver voice calm trust absolute.",
+      "translation": "Голос штурмана спокоен — доверие абсолютное.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_237",
+      "word": "Stage times comparison rivals gaps analysed.",
+      "translation": "Времена спецучастков сравнили, разобрали отставания.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_238",
+      "word": "Service park fifteen-minute turnaround frenzy.",
+      "translation": "Сервис-парк: пятнадцать минут управляемого хаоса.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_239",
+      "word": "Drag tree staging shallow deep explained.",
+      "translation": "Стейджинг на дрэг-полосе: мелкий и глубокий.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_240",
+      "word": "Christmas tree lights reaction time practiced.",
+      "translation": "Реакцию на «ёлочке» отрабатывали тысячу раз.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_241",
+      "word": ".401 reaction near perfect light celebrated.",
+      "translation": "Реакция 0,401 — почти идеальный старт!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_242",
+      "word": "Red light fouled start disqualified instantly.",
+      "translation": "Фальстарт на ёлочке — мгновенная дисквалификация.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_243",
+      "word": "Trap speed exit measured end strip.",
+      "translation": "Скорость на финишной ловушке замерили.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_244",
+      "word": "Burnout warmers tire smoke spectacle crowd.",
+      "translation": "Бернаут: дым из-под колёс — зрелище для толпы!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_245",
+      "word": "Roll racing versus dig racing distinction.",
+      "translation": "Roll racing и dig racing — важное различие.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_246",
+      "word": "Half-mile events top-speed runs documented.",
+      "translation": "Полумильные заезды: замеры максимальной скорости.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_247",
+      "word": "Slip angle drift judgement seat experience.",
+      "translation": "Угол скольжения чувствуешь сиденьем — приходит только с опытом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_248",
+      "word": "Countersteer initiation clutch kick technique.",
+      "translation": "Начало заноса — клатч-кик, техника дрифта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_249",
+      "word": "Transition linking figure-eight donuts practice lot.",
+      "translation": "Связки заносов: восьмёрки и донаты — классика практики.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_250",
+      "word": "Angle scoring judged style proximity clipping.",
+      "translation": "В дрифте судят угол, стиль и близость к точкам касания.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_251",
+      "word": "Tandem battles lead chase swap runs.",
+      "translation": "Тандем: пары ведущий-преследователь меняются заходами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_252",
+      "word": "One more time call judges overtime.",
+      "translation": "«One more time» — решение судей — повтор.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_253",
+      "word": "Time attack lap records hunting modified street.",
+      "translation": "Тайм-аттак: охота за рекордами на подготовленных машинах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_254",
+      "word": "Traction control settings dialled per corner.",
+      "translation": "Тракцию настроили отдельно под каждый поворот.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_255",
+      "word": "ABS settings adjusted braking confidence improved.",
+      "translation": "Подстроил ABS — уверенность в торможении выросла.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_256",
+      "word": "Differential preload locking characteristics tuned.",
+      "translation": "Преднатяг дифференциала и блокировку настроили.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_257",
+      "word": "Limited-slip differential LSD types clutch Torsen.",
+      "translation": "Виды LSD: дисковое и Torsen.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_258",
+      "word": "Sequential gearbox paddles versus H-pattern shifter.",
+      "translation": "Секвентальная коробка против Н-паттерна.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_259",
+      "word": "Dog box crash shifts no clutch needed.",
+      "translation": "Кулачковая КПП: переключения «в отбой» без сцепления.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_260",
+      "word": "Synchro wear grinding shifts neglected maintenance.",
+      "translation": "Хруст переключений — износ синхронизаторов от запущенности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_261",
+      "word": "Clutchless shifts matched revs perfectly required.",
+      "translation": "Без сцепления — только с идеально подобранными оборотами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_262",
+      "word": "Flat shift ignition cut milliseconds seamless.",
+      "translation": "Флетшифт: отсечка зажигания делает переключение бесшовным.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_263",
+      "word": "Launch control rpm preset wheelspin minimized.",
+      "translation": "Лаунч-контроль: заранее заданные обороты, минимум пробуксовки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_264",
+      "word": "Rolling anti-lag pops bangs flames spectacular.",
+      "translation": "Антилаг стреляет пламенем — эффектно, но ресурс ест.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_265",
+      "word": "Turbo timer cooldown idle post-session routine.",
+      "translation": "Турботаймер: холостой ход после сессии обязателен.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_266",
+      "word": "Oil cooler thermostat opening temperature verified.",
+      "translation": "Проверил термостат масляного кулера.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_267",
+      "word": "Catch can breather oil vapor containment legal.",
+      "translation": "Маслоуловитель обязателен по регламенту.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_268",
+      "word": "Harness FIA homologation date expiry checked.",
+      "translation": "Проверил срок годности FIA-ремней!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_269",
+      "word": "Hans device collar neck restraint fitted correctly.",
+      "translation": "Устройство Ханса надето правильно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_270",
+      "word": "Window net ribbon type installed racing.",
+      "translation": "В гонках — сетка или лента в окно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_271",
+      "word": "Roll cage certification weld penetration inspected.",
+      "translation": "Каркас: проверили провар швов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_272",
+      "word": "Fire suppression system pull handle tested.",
+      "translation": "Испытал систему пожаротушения: потянул рычаг.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_273",
+      "word": "Kill switches exterior marked clearly marshals.",
+      "translation": "Аварийные выключатели помечены для маршалов!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_274",
+      "word": "Rain light flashing rear fog function wet.",
+      "translation": "Дождевой огонь мигает сзади в непогоду.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_275",
+      "word": "Timing transponder mounted correct position verified.",
+      "translation": "Транспондер хронометража закреплён правильно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_276",
+      "word": "Pit boards numbers readable speed reading.",
+      "translation": "Пит-борды читаемы на скорости!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_277",
+      "word": "Coach observation passenger seat feedback invaluable.",
+      "translation": "Фидбек тренера с пассажирского кресла бесценен.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_278",
+      "word": "Onboard video review lap by lap analysis.",
+      "translation": "Разбор онбордов круг за кругом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_279",
+      "word": "Reference lap comparison overlay differences spotted.",
+      "translation": "Наложение эталонного круга показало различия.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_280",
+      "word": "Brake marker boards distance counted consistently.",
+      "translation": "Считаю метки торможения одинаково каждый круг.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_281",
+      "word": "Vision technique look far through corner always.",
+      "translation": "Взгляд всегда далеко сквозь поворот!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_282",
+      "word": "Slow hands fast car proverb wisdom.",
+      "translation": "«Медленные руки — быстрая машина» — мудрость!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_283",
+      "word": "Smooth is fast repeated mantra coaches.",
+      "translation": "«Плавность = скорость» — мантра всех тренеров.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_284",
+      "word": "Consistency beats raw speed championship long.",
+      "translation": "Стабильность бьёт сырую скорость на длине чемпионата.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_285",
+      "word": "Finishing races wins championships points philosophy.",
+      "translation": "Философия очков: доводи гонки — побеждай в таблице.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_286",
+      "word": "Endurance stint handoff protocols rehearsed.",
+      "translation": "Протокол передачи руля в эндурансе отрепетирован.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_287",
+      "word": "Driver change seat insert swapped quickly.",
+      "translation": "Быстро поменяли вставку сиденья под сменяемого пилота.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_288",
+      "word": "Belt buckles pre-loosened stopwatch timing.",
+      "translation": "Ремни заранее расстёгнуты — засекаем смену.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_289",
+      "word": "Stint length fuel corrected brimful start.",
+      "translation": "Длина стинта рассчитана от полной заправки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_290",
+      "word": "Night stints visibility crests blind.",
+      "translation": "Ночной стинт: за подъёмами не видно ничего!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_291",
+      "word": "Reflective boards corner markers glow helpful.",
+      "translation": "Светоотражающие щиты на поворотах очень выручают.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_292",
+      "word": "Helmet visor iridium night glare reduced.",
+      "translation": "Иридиевый визор снижает блики ночью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_293",
+      "word": "Dashboard brightness dimmed night vision kept.",
+      "translation": "Приборку затемнил — сохранил ночное зрение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_294",
+      "word": "Dawn transition grip temperature swings tricky.",
+      "translation": "На рассвете температура и сцепление скачут — сложно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_295",
+      "word": "Triple stint fatigue monitored team doctor.",
+      "translation": "Тройной стинт: командный врач следит за усталостью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_296",
+      "word": "Minimum drive time rules compliance logged.",
+      "translation": "Минимальное время за рулём — логируется автоматически.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_297",
+      "word": "Amateur gentlemen drivers pace variation expected.",
+      "translation": "От джентльменов ждут разброса темпа — норма.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_298",
+      "word": "Bronze rated driver coaching sessions weekly.",
+      "translation": "Бронзовому пилоту — еженедельные тренировки с тренером.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_299",
+      "word": "Pro driver sets benchmark lap reference.",
+      "translation": "Профи задаёт эталонный круг — ориентир всей команде.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_300",
+      "word": "Silver category sprint specialists sharpen qualifying.",
+      "translation": "Серебряные — специалисты спринта, затачивают квалификацию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_301",
+      "word": "Endurance pacing never flat out stint one.",
+      "translation": "В эндурансе не езди на максимуме.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_302",
+      "word": "Tyre degradation management long runs practiced.",
+      "translation": "Управление деградацией отрабатывают длинными сериями.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_303",
+      "word": "Fuel consumption per lap calculated precisely.",
+      "translation": "Расход топлива на круг посчитан точно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_304",
+      "word": "Auto rich mixture button emergency power.",
+      "translation": "Кнопка обогащения смеси — аварийная мощность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_305",
+      "word": "Save mode lifted final stint attack.",
+      "translation": "На последнем стинте экономию сняли — атака!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_306",
+      "word": "Full course yellow neutralised speeds capped.",
+      "translation": "Полный жёлтый: скорости ограничены по всей трассе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_307",
+      "word": "Wave-by faster cars released early.",
+      "translation": "«Волна» — быстрых машин отпускают вперёд.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_308",
+      "word": "Pit window open strategy flexibility gained.",
+      "translation": "Пит-окно открылось — стратегия стала гибче.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_309",
+      "word": "Short filled fuel only few laps.",
+      "translation": "Дозаправка малым объёмом — всего несколько кругов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_310",
+      "word": "Splash and dash last-minute fuel only.",
+      "translation": "«Сплаш-энд-дэш» — только плеснуть топлива.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_311",
+      "word": "Tyre change versus fuel-only split stops.",
+      "translation": "Раздельные стопы: резина или только топливо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_312",
+      "word": "Crew practice blind wheel changes drills.",
+      "translation": "Экипаж тренирует замену колёс вслепую — дриллы каждую неделю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_313",
+      "word": "Over-the-wall choreography milliseconds shaved.",
+      "translation": "Хореография пит-стопа: миллисекунды срезают повторами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_314",
+      "word": "Fuel rig flow rate regulations strict.",
+      "translation": "Регламент жёстко ограничивает расход через пистолет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_315",
+      "word": "Refueller suit fireproof layers double.",
+      "translation": "Заправщик в двойном огнестойком костюме.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_316",
+      "word": "Hot seat swap engine running clutch drop.",
+      "translation": "Горячая смена: мотор работает, сцепление в зацепление.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_317",
+      "word": "Starter motor backup stall mid-pit drama.",
+      "translation": "Фиаско на пит-стопе: мотор заглох — стартер спас.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_318",
+      "word": "Cool down lap waving crew thanks.",
+      "translation": "Охлаждающий круг: машу команде спасибо!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_319",
+      "word": "Scale house weight minimum verified post-race.",
+      "translation": "После финиша машина прошла контроль веса. на весах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_320",
+      "word": "Ballast placement optimised balance perfection.",
+      "translation": "Балласт расставлен под идеальный баланс.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_321",
+      "word": "Success ballast extra weight winners carry next race.",
+      "translation": "Победители везут успешный балласт в следующей гонке!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_322",
+      "word": "Balance of performance adjustments equalise classes.",
+      "translation": "BoP выравнивает машины в классе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_323",
+      "word": "Protest lodged rival rear wing measurement.",
+      "translation": "Протест: требуем замер крыла конкурента.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_324",
+      "word": "Scrutineers templates checked bodywork legality.",
+      "translation": "Техконтроль: шаблоны сверили кузов с шаблонами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_325",
+      "word": "Seals intact engine gearbox verified.",
+      "translation": "Пломбы мотора и коробки целы — проверено.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_326",
+      "word": "Data logger sealed parameters compared baseline.",
+      "translation": "Логгер сверили с эталонными параметрами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_327",
+      "word": "Ride height scrutineering gauge slid under.",
+      "translation": "Под машину просунули щуп проверки клиренса.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_328",
+      "word": "Plank wear measured skid block limit.",
+      "translation": "Износ скид-планки замерили на грани лимита!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_329",
+      "word": "Post-race weighbridge heart-stopping moment drivers.",
+      "translation": "Весы после финиша — нервы всем пилотам.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_330",
+      "word": "Disqualification fuel sample mismatch nightmare scenario.",
+      "translation": "Кошмар: дисквалификация из-за несоответствии топлива.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_331",
+      "word": "Appeal court arbitration weeks later overturned.",
+      "translation": "Апелляция через недели — решение отменили!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_332",
+      "word": "Championship provisional standings revised overnight.",
+      "translation": "Предварительный зачёт переписали за ночь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_333",
+      "word": "Trophy presentation podium steps champagne ritual.",
+      "translation": "Ритуал подиума: ступени, кубок, шампанское.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_334",
+      "word": "Cap ceremony sponsors logos everywhere visible.",
+      "translation": "Церемония кепок: логотипы спонсоров со всех сторон.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_335",
+      "word": "Media pen interviews row quick-fire questions.",
+      "translation": "Медиа-пен: очередь интервью, быстрые вопросы подряд.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_336",
+      "word": "TV camera interview adrenaline honest answers.",
+      "translation": "Интервью перед камерой: адреналин делает ответы честными.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_337",
+      "word": "Press conference room packed journalists laptops.",
+      "translation": "Пресс-конференция: зал забит журналистами с ноутбуками.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_338",
+      "word": "Tricky question deflected diplomatic answer crafted.",
+      "translation": "Каверзный вопрос ответили дипломатично.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_339",
+      "word": "Team radio messages broadcast worldwide entertainment.",
+      "translation": "Переговоры по радио идут в эфир всему миру!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_340",
+      "word": "Swearing fines broadcast standards enforced.",
+      "translation": "Штрафы за мат в эфире — правила вещания!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_341",
+      "word": "Social media ban pre-race focus rule.",
+      "translation": "Перед гонкой соцсети запрещены — режим тишины.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_342",
+      "word": "Fitness trainer neck harness routine daily.",
+      "translation": "Тренер: ежедневная нагрузка на шею с грузиком.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_343",
+      "word": "Cardio base cycling sessions morning ritual.",
+      "translation": "Кардио-база: утренний велосипед как ритуал.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_344",
+      "word": "Reaction drills box lights random patterns.",
+      "translation": "Реакция: светящаяся коробка со случайными паттернами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_345",
+      "word": "Grip strength training steering loads simulated.",
+      "translation": "Хват тренируют под рулевые нагрузки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_346",
+      "word": "Heat chamber acclimatization tropical rounds prep.",
+      "translation": "Тепловая камера готовит к тропическим этапам!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_347",
+      "word": "Hydration strategy electrolytes measured sweat test.",
+      "translation": "Стратегия питья: электролиты по анализу пота.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_348",
+      "word": "Weight fluctuation dehydration post-race litres lost.",
+      "translation": "После гонки потеря нескольких литров.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_349",
+      "word": "Nutritionist meal plan race weekend scheduled.",
+      "translation": "Диетолог расписал питание на уик-энд целиком.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_350",
+      "word": "Sleep schedule jet lag managed scientifically.",
+      "translation": "Джетлаг побеждают научным графиком сна!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_351",
+      "word": "Mental coach visualization routines pre-qualifying.",
+      "translation": "Психолог: визуализация перед квалификацией.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_352",
+      "word": "Pressure handling experience composure learned.",
+      "translation": "Хладнокровие под давлением приходит с опытом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_353",
+      "word": "Confidence car limits dancing edge earned.",
+      "translation": "Уверенность в пределе машины зарабатывается работой на грани.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_354",
+      "word": "Respect limits never exceeded beyond recovery.",
+      "translation": "Предел уважай — дальше уже авария.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_355",
+      "word": "Track walk bicycle notes photographs corners.",
+      "translation": "Обход трассы на велике: фото и заметки по поворотам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_356",
+      "word": "Kerb profiles photographed studied lines chosen.",
+      "translation": "Профили поребриков определяют выбор траектории.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_357",
+      "word": "Surface changes asphalt concrete patches noted.",
+      "translation": "Отметил участки разного покрытия.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_358",
+      "word": "Banking degrees oval corners speed carried.",
+      "translation": "Банкинг овалов позволяет держать газ.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_359",
+      "word": "Oval racing lift barely breathing throttle.",
+      "translation": "На овале газ почти не сбавляется.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_360",
+      "word": "Pack racing drafting lines multiple cars deep.",
+      "translation": "Пакетная гонка: слипстрим цепочкой машин.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_361",
+      "word": "Superspeedway nerves respect walls close.",
+      "translation": "На суперспидвее стены близко — без уважения никак.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_362",
+      "word": "Spotter voice constant traffic guidance oval.",
+      "translation": "Споттер непрерывно подсказывает трафик весь заезд.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_363",
+      "word": "Three-wide squeeze trust required daredevils.",
+      "translation": "Три ряда борт о борт — только для смелых и доверяющих.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_364",
+      "word": "Slingshot move draft exit launched past.",
+      "translation": "Слингшот: вышел из слипстрима и выстрелил мимо!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_365",
+      "word": "Side drafting scrubbing speed rival door-to-door.",
+      "translation": "Боковой слипстрим гасит скорость соперника рядом.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_366",
+      "word": "Dirty air understeer following closely impossible turns.",
+      "translation": "В грязном воздухе рулить тяжело.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_367",
+      "word": "Clean air qualifying lap advantage significant.",
+      "translation": "Чистый воздух в квалификации — большое преимущество!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_368",
+      "word": "Tow slipstream qualifying group tactic planned.",
+      "translation": "В квалификации работают «на буксире».!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_369",
+      "word": "Final sector tow maximized pole grabbed.",
+      "translation": "Использовал буксир в последнем секторе — забрал поул!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_370",
+      "word": "Out-lap spacing gaps timed perfectly between cars.",
+      "translation": "Интервалы на подготовительном круге выдержаны идеально.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_371",
+      "word": "Traffic management qualifying engineer orchestrated gaps.",
+      "translation": "Инженер управлял окнами в трафике. в квалификации!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_372",
+      "word": "Impatient overtaking warmup laps risky pointless.",
+      "translation": "Нетерпеливые обгоны на прогреве — риск без смысла.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_373",
+      "word": "Race start anticipation jump reaction trained.",
+      "translation": "Реакцию на старт тренировали до автоматизма.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_374",
+      "word": "Clutch kick anticipation green light release.",
+      "translation": "На зелёный — выжженное сцепление по таймингу.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_375",
+      "word": "First lap survival instinct chaos avoidance wisdom.",
+      "translation": "Первый круг переживи — потом гонка.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_376",
+      "word": "Lift instead of hero moves turn one.",
+      "translation": "В первом повороте сброс — умнее героизма.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_377",
+      "word": "Position gained first lap halves pit strategy burden.",
+      "translation": "Выиграл первый круг — стратегия становится проще.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_378",
+      "word": "Lost positions first lap recovery patience required.",
+      "translation": "Потерял на старте — отыгрывай терпеливо.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_379",
+      "word": "Comeback drive overtake count doubled expectations.",
+      "translation": "Прорыв: обгонов больше, чем ждали.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_380",
+      "word": "Drive-through penalty served laps counted.",
+      "translation": "Проездной штраф отбыл, круги учтены.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_381",
+      "word": "Stop-go harsher ten seconds stationary punishment.",
+      "translation": "Stop-and-go суровее: десять секунд неподвижности.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_382",
+      "word": "Black flag disqualified immediate garage return.",
+      "translation": "Чёрный флаг — дисквалификация, немедленно в боксы!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_383",
+      "word": "Black orange flag mechanical damage pits mandated.",
+      "translation": "Чёрно-оранжевый: едешь в боксы чиниться.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_384",
+      "word": "Meatball flag damage check requested.",
+      "translation": "Мясной флаг — на проверку машины.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_385",
+      "word": "Blue flag ignored penalties lapped drivers warnings.",
+      "translation": "Игнор синих флагов наказывается предупреждениями.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_386",
+      "word": "Unsportsmanlike conduct penalty weaving warned once.",
+      "translation": "За виляния — предупредили один раз.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_387",
+      "word": "Blocking versus defending line interpretation stewards.",
+      "translation": "Стюарды различают защиту и блокировку по движению к линии.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_388",
+      "word": "Moving braking zone late defended penalized precedent.",
+      "translation": "Поздняя смена линии под торможением — случай наказания.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_389",
+      "word": "Whelen marshal intervention quick professional respect.",
+      "translation": "Маршалы сработали быстро и профессионально — респект!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_390",
+      "word": "Extinguisher foam covered cockpit mist white.",
+      "translation": "Пена огнетушителя забелила весь кокпит!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_391",
+      "word": "Fire suit singed escape seconds counted.",
+      "translation": "Костюм подпален — успел за секунды.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_392",
+      "word": "Extraction practice medical crew timed regularly.",
+      "translation": "Медики регулярно тренируют спасательную эвакуацию.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_393",
+      "word": "Seat removal steering wheel off protocol memorized.",
+      "translation": "Протокол помню: руль снять, кресло вытащить.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_394",
+      "word": "Medical card allergies blood type attached helmet.",
+      "translation": "Медкарта с аллергией на шлеме.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_395",
+      "word": "Injury assessment concussion protocol followed strictly.",
+      "translation": "Контузию вели по протоколу.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_396",
+      "word": "Return-to-race clearance medical sign-off mandatory.",
+      "translation": "Возврат после травмы — лишь с разрешения врача.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_397",
+      "word": "Fitness comeback gym months rehabilitation story inspiring.",
+      "translation": "Месяцы реабилитации в зале — вдохновляющая история!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_398",
+      "word": "Comeback victory emotional triumph narrative scripted.",
+      "translation": "Победа после возвращения — готовый сценарий кино.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_399",
+      "word": "Legacy defined championships longevity consistency greatness.",
+      "translation": "Наследие — это титулы и годы стабильности.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_400",
+      "word": "Records broken every generation faster safer cars.",
+      "translation": "Рекорды падают каждое поколение — техника прогрессирует.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_401",
+      "word": "Next generation sim-trained talents rising fast.",
+      "translation": "Новое поколение выросло на симуляторах и рвётся вверх.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_402",
+      "word": "Dream alive karting kid watching legends now competing against.",
+      "translation": "Мечта жива: вчерашний картингист теперь против своих кумиров.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_403",
+      "word": "Tyre temperature probes inserted core readings accurate.",
+      "translation": "Иглы-термопары дают точную температуру сердцевины резины.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_404",
+      "word": "Pressure bleed-off resting tyres equalising minutes.",
+      "translation": "Давление выравнивается несколько минут после остановки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_405",
+      "word": "Hot pressures recorded corner exit infrared guns.",
+      "translation": "Горячие давления снимали ИК-пистолетами на выходах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_406",
+      "word": "Cold target pressures calculated expansion coefficients applied.",
+      "translation": "Холодные цели посчитаны с коэффициентами расширения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_407",
+      "word": "Nitrogen moisture free consistent pressure behaviour preferred.",
+      "translation": "Азот без влаги держит давление стабильнее!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_408",
+      "word": "Wheel alignment strings laser gauges garage precise.",
+      "translation": "Развал в гараже лазером и нитками — точно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_409",
+      "word": "Turn plates under wheels camber caster measured.",
+      "translation": "Поворотные круги под колёсами меряют развал и кастер!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_410",
+      "word": "Slip plates suspension unloaded adjustments easier.",
+      "translation": "Скольные пластины разгружают подвеску для настроек!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_411",
+      "word": "Data engineer headset whisper calm guidance constant.",
+      "translation": "Инженер по данным шепчет спокойно и постоянно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_412",
+      "word": "Performance engineer fuel tyre models spreadsheets live.",
+      "translation": "Стратег живёт в таблицах моделей топлива и резины!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_413",
+      "word": "Race engineer voice trusted second conscience cockpit.",
+      "translation": "Голос инженера — вторая совесть в кокпите!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_414",
+      "word": "Feedback adjectives translated setup changes precisely mapped.",
+      "translation": "Эпитеты пилота переводятся в конкретные изменения!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_415",
+      "word": "Loose entry phrase understeer oversteer clarified questions.",
+      "translation": "«Свободный вход» уточняли вопросами: недо- или избыточно?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_416",
+      "word": "Nervous mid-corner phrase instability diagnosis started.",
+      "translation": "«Нервная в середине» — начали диагностику нестабильности!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_417",
+      "word": "Planted rear phrase confidence grip expression welcomed.",
+      "translation": "«Задняя стоит как вкопанная» — то, что инженеры любят слышать.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_418",
+      "word": "Karting chassis flatness side pods clearance checked.",
+      "translation": "На карте проверяют плоскость и клиренс боков!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_419",
+      "word": "Kart seat position strakes padding fitted body snug.",
+      "translation": "Сиденье карта обклеено поролоном точно по телу!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_420",
+      "word": "Front bar stiffness kart turn-in bite adjusted spacers.",
+      "translation": "Жёсткость переднего бара меняют проставками!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_421",
+      "word": "Axle hardness selection grip track temperature matched.",
+      "translation": "Жёсткость оси подбирают под сцепление трассы!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_422",
+      "word": "Sprocket gearing ratio straight length optimised rev ceiling.",
+      "translation": "Звёздочки подобраны под длину прямой и отсечку!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_423",
+      "word": "Jetting carb mixture altitude weather changes adjusted.",
+      "translation": "Жиклёры перенастраивают под погоду и высоту!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_424",
+      "word": "Tyre prep practice laps scrubbed race ready.",
+      "translation": "Резину на карте готовят прогревочными кругами!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_425",
+      "word": "Chassis tuning seat time intuition data blend art.",
+      "translation": "Настройка шасси — смесь интуиции, опыта и данных!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_426",
+      "word": "Mechanic karting dad garage wrenching memories fond.",
+      "translation": "Тёплые воспоминания: папа крутил гайки у карта!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_427",
+      "word": "Talent scouts regional championships watching notebooks full.",
+      "translation": "Скауты на региональных чемпионатах с блокнотами!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_428",
+      "word": "Scholarship shootout winners careers launched prestigious programmes.",
+      "translation": "Победители отборочных турниров стартуют карьеру в академиях!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_429",
+      "word": "Media training soundbites polished young careers early.",
+      "translation": "Юных пилотов рано учат красивым цитатам!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_430",
+      "word": "Personal brand social presence sponsors demand modern era.",
+      "translation": "Спонсоры требуют соцсети и личный бренд!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_431",
+      "word": "Fitness regime neck abs cardio daily disciplines.",
+      "translation": "Ежедневка: шея, пресс, кардио — дисциплина!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_432",
+      "word": "Vision training peripheral awareness drills simulated traffic.",
+      "translation": "Периферию тренируют симуляцией плотного трафика!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_433",
+      "word": "Caffeine protocols carefully timed pre-race doses.",
+      "translation": "Кофеин перед заездом дозируют по протоколу!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_434",
+      "word": "Adrenaline dump post-race shakes normal physiology explained.",
+      "translation": "Дрожь после финиша — нормальная физиология адреналина!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_435",
+      "word": "Cool down routines stretching recovery protocols professional.",
+      "translation": "Профессиональное восстановление: растяжка и протоколы!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_436",
+      "word": "Injury niggles managed physio schedules tight calendars.",
+      "translation": "Мелкие травмы лечат физиотерапией в плотном графике!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_437",
+      "word": "Sim rig home practice wet laps virtual night before.",
+      "translation": "Ночью перед гонкой — мокрые круги дома на риге!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_438",
+      "word": "Notes app voice memos trackwalk details captured.",
+      "translation": "Детали обхода трассы — в голосовые заметки!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_439",
+      "word": "Teammate data sharing agreements friendly rivalry boundaries set.",
+      "translation": "Обмен данными с напарником: дружеское соперничество в рамках!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_440",
+      "word": "Setup convergence meeting both drivers preferences balanced compromises.",
+      "translation": "Встреча по сетапу: балансируем предпочтения двух пилотов!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_441",
+      "word": "Car feel descriptors standardised vocabulary glossary team built.",
+      "translation": "У команды свой глоссарий ощущений машины!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_442",
+      "word": "Chassis number history superstitions lucky cars tales.",
+      "translation": "Приметы про «счастливые» шасси — байки паддока!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_443",
+      "word": "Paint scheme reveal special liveries sponsor activations excitement.",
+      "translation": "Особые ливреи к этапам — активация спонсоров!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_444",
+      "word": "Helmet design artist custom painted personal storytelling canvas.",
+      "translation": "Шлем расписывает художник — личная история на куполе!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_445",
+      "word": "Tribute livery mentor memorial races emotional significance carried.",
+      "translation": "Памятные ливреи наставникам несут эмоциональный вес!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_446",
+      "word": "Gloves embroidered initials lucky charms stitched inside cuffs.",
+      "translation": "Инициалы и талисманы вышиты на манжетах перчаток!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_447",
+      "word": "Boots thin soles pedal feel maximised choice critical.",
+      "translation": "Тонкая подошва ботинок максимизирует чувство педалей!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_448",
+      "word": "Balaclava fireproof layer sweat management comfort focus.",
+      "translation": "Подшлемник отводит пот — комфорт и концентрация!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_449",
+      "word": "Water system sip valve helmet integrated drinking tube.",
+      "translation": "Поилка интегрирована прямо в шлем!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_450",
+      "word": "Radio earpieces moulded custom fit noise isolating clarity.",
+      "translation": "Индивидуальные ушные вкладыши: изоляция и чистый звук!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_451",
+      "word": "Radio check protocol roger copy affirmations standardised.",
+      "translation": "Протокол проверки связи стандартизирован!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_452",
+      "word": "Traffic call blind apex marshal posts helpful eyes.",
+      "translation": "Маршалы на слепых апексах — глаза сверху!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_453",
+      "word": "Gap management fuel saving tyre preservation juggling act.",
+      "translation": "Жонглирование: топливо, резина, отрыв — всё сразу!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_454",
+      "word": "Multi-tasking cognitive load managed practiced automation habits.",
+      "translation": "Многозадачность автоматизируется привычками и практикой!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_455",
+      "word": "Race start clutch kick anticipation green light release trained.",
+      "translation": "Реакцию на зелёный доводили до рефлекса!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_456",
+      "word": "Consistency lap times within two tenths target.",
+      "translation": "Цель по стабильности: разброс не больше двух десятых!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_457",
+      "word": "Fitness plateau breakthroughs new training regimes adopted.",
+      "translation": "Плато формы пробили новыми программами тренировок!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_458",
+      "word": "Sim racing crossover skills transferred surprisingly directly.",
+      "translation": "Навыки из симрейсинга переносятся на удивление напрямую!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_459",
+      "word": "Esports champion real test drive opportunity earned.",
+      "translation": "Чемпион киберспорта заслужил тест реального болида!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_460",
+      "word": "Virtual GP entered sim rig home broadcast quality.",
+      "translation": "Виртуальный ГП из домашнего рига студийного качества!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_461",
+      "word": "Streaming setup dual PC overlay professional broadcast standards.",
+      "translation": "Стрим на двух ПК — профессиональный уровень трансляции!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_462",
+      "word": "Charity stream marathon laps donations leaderboard fun.",
+      "translation": "Благотворительный марафон кругов с таблицей донатов!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_463",
+      "word": "Track day organisation safety briefings mandatory attendance signed.",
+      "translation": "На трек-дне брифинг безопасности обязателен!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_464",
+      "word": "Passing etiquette side by side courtesy mutual respect corners.",
+      "translation": "Обгоны на трек-дне — взаимное уважение в поворотах!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_465",
+      "word": "Lap record personal milestone celebration modest gratitude expressed.",
+      "translation": "Личный рекорд отметили скромно и с благодарностью!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_466",
+      "word": "Sponsor obligations appearances autographs scheduled calendar managed.",
+      "translation": "Спонсорские появления забронированы в календаре!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_467",
+      "word": "Brand ambassador role lifestyle content created authentically.",
+      "translation": "Роль амбассадора: контент создаётся искренне!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_468",
+      "word": "Merchandise line signature collection launched fans loved.",
+      "translation": "Своя линия мерча понравилась фанатам!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_469",
+      "word": "Youth karting academy coaching giving back roots honoured.",
+      "translation": "Тренирует юных картингистов — возвращая долг корням!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_470",
+      "word": "Scholarship fund established underprivileged talents opportunities created.",
+      "translation": "Фонд стипендий открыл двери талантам без средств!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_471",
+      "word": "Motorsport future generations accessibility programs supported passionately.",
+      "translation": "Программы доступности автоспорта поддерживаются от сердца!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_472",
+      "word": "Safety advocacy improvements campaigned lessons tragedies honoured.",
+      "translation": "Кампании за безопасность чтят уроки трагедий!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_473",
+      "word": "Medical car pace familiarisation laps drivers appreciate.",
+      "translation": "Пилоты ценяют темп медицинской машины как ориентир!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_474",
+      "word": "Race control conversations respect professionalism maintained always.",
+      "translation": "С race control всегда держат уважительный тон!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_475",
+      "word": "Weather radar interpretation calls gamble rain tyres timing.",
+      "translation": "Чтение радара решает: когда рискнуть на дождевых!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_476",
+      "word": "Crossover rally experience car control mastery praised commentators.",
+      "translation": "Раллийный опыт контроля машины комментаторы хвалят!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_477",
+      "word": "Drift background angle style spectacle entertainment value added.",
+      "translation": "Дрифтерское прошлое добавило зрелищности и стиля!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_478",
+      "word": "Hillclimb specialists power-to-weight monsters tamed narrow roads.",
+      "translation": "Хиллклайм: укрощение монстров мощности на узких дорогах!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_479",
+      "word": "Time attack aero extremes grip records chased obsessively.",
+      "translation": "Тайм-аттак: одержимая охота за рекордами прижимной силы!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_480",
+      "word": "Endurance prototype LMP hybrid systems complexity mastered years.",
+      "translation": "Мастерство гибридных прототипов LMP копилось годами!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_481",
+      "word": "Hypercar class newcomers manufacturers entries welcomed era golden.",
+      "translation": "Золотая эра гиперкаров: производители возвращаются!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_482",
+      "word": "GT3 balance of performance equalisation debates passionate forums.",
+      "translation": "BoP в GT3 — страстные дебаты на форумах!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_483",
+      "word": "Amateur gentleman pro pairing dynamics chemistry success formula.",
+      "translation": "Формула успеха: химия профи и джентльмена!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_484",
+      "word": "Bronze silver gold categorisations experience levels defined clearly.",
+      "translation": "Категории бронза/серебро/золото чётко определены опытом!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_485",
+      "word": "Pro-am cups team strategy driver lineups critical decisions.",
+      "translation": "В про-ам кубках состав пилотов — критическое решение!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_486",
+      "word": "Night qualification sessions darkness lap times falloff dramatic.",
+      "translation": "Ночная квалификация: времена резко падают в темноте!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_487",
+      "word": "Double headers twin races weekend points doubled opportunities.",
+      "translation": "Два заезда в уик-энд — двойной шанс очков!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_488",
+      "word": "Reverse grid second race chaos entertainment guaranteed spectators.",
+      "translation": "Реверсивная решётка второй гонки гарантированно веселит трибуны!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_489",
+      "word": "Champion crowned ceremony career retrospective video emotional montage.",
+      "translation": "Видео-ретроспектива карьеры чемпиона растрогала зал!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_490",
+      "word": "Contract renewal announcement loyalty versus ambition dilemma resolved.",
+      "translation": "Дилемма лояльности и амбиций разрешена продлением!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_491",
+      "word": "Seat swap drama rivals garage moves shockwaves paddock.",
+      "translation": "Переходы между командами — шоковые волны паддока!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_492",
+      "word": "Retirement announcement legacy speech standing ovation deserved.",
+      "translation": "Прощальная речь ветерана — овация стоя заслужена!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_493",
+      "word": "Mentor role transition driver coach wisdom passed next generation.",
+      "translation": "Ветеран стал тренером — мудрость передана поколению!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_494",
+      "word": "Team principal role management career second chapter leadership.",
+      "translation": "Вторая глава: руководство командой как лидерство!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_495",
+      "word": "Commentary booth analysis insights insider perspective valued viewers.",
+      "translation": "Комментаторская кабина ценит инсайдерский взгляд экс-пилотов!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_496",
+      "word": "Steward duties former racers fairness perspectives balanced judgements.",
+      "translation": "Бывшие гонщики в стюардах судят сбалансированно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_497",
+      "word": "Legacy foundations charities established causes championed personally meaningful.",
+      "translation": "Благотворительные фонды гонщиков — личные осмысленные дела!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_498",
+      "word": "Championship decider nerves managed experience composure.",
+      "translation": "Нервы решающего этапа усмирены опытом!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_499",
+      "word": "Teammate harmony balanced healthy internal competition.",
+      "translation": "Гармония с напарником: здоровая внутренняя конкуренция!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_500",
+      "word": "Tyre allocation strategy practice sessions rationed carefully.",
+      "translation": "Комплекты резины на тренировки расходуют бережно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_501",
+      "word": "Track evolution grip gains lap by lap documented.",
+      "translation": "Прирост сцепления круг к кругу задокументирован!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_502",
+      "word": "Wind gusts crosswind correction inputs anticipated early.",
+      "translation": "Порывы бокового ветра парирую заранее!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_503",
+      "word": "Cool suit system ice water circulation comfort maintained.",
+      "translation": "Костюм с охлаждением циркулирует ледяную воду!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_504",
+      "word": "Drink bottle valve stuck thirsty frustration radio complaint.",
+      "translation": "Клапан поилки заело — жалуюсь по радио!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportdriver_505",
+      "word": "Race suit sponsor patches sewn precisely regulations checked.",
+      "translation": "Спонсорские нашивки пришиты точно по регламенту!",
       "language": "en"
     }
   ]

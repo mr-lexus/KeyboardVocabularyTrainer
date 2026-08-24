@@ -1,114 +1,3006 @@
 {
   "id": "phrasebook-motorsportspectator",
   "name": "Motorsport (Spectator)",
-  "description": "Phrasebook for Motorsport (Spectator)",
+  "description": "Язык болельщика: билеты, трибуны, фан-зоны, автографы и гоночные термины",
   "entries": [
     {
-      "id": "pb_motorsportspectator_0_1",
-      "word": "The child slept on its mother's lap.",
-      "translation": "Ребёнок спал на коленях у матери.",
+      "id": "pbq_motorsportspectator_0",
+      "word": "Three-day tickets sold out months ago.",
+      "translation": "Билеты на все три дня продались месяцы назад.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportspectator_0_2",
-      "word": "It happened naturally.",
-      "translation": "Это произошло само собой.",
+      "id": "pbq_motorsportspectator_1",
+      "word": "General admission cheaper roam freely.",
+      "translation": "Общая зона дешевле — гуляй где хочешь.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportspectator_0_3",
-      "word": "Don't take his remarks too literally.",
-      "translation": "Не воспринимайте его высказывания слишком буквально.",
+      "id": "pbq_motorsportspectator_2",
+      "word": "Grandstand seats reserved numbered rows.",
+      "translation": "Места на трибуне закреплены: ряды пронумерованы.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportspectator_0_4",
-      "word": "Don't take it so literally.",
-      "translation": "Не воспринимай это так буквально.",
+      "id": "pbq_motorsportspectator_3",
+      "word": "Turn one grandstand best action guaranteed.",
+      "translation": "Трибуна у первого поворота самое интересное гарантировано.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportspectator_0_5",
-      "word": "You take everything too literally.",
-      "translation": "Вы воспринимаете всё слишком буквально.",
+      "id": "pbq_motorsportspectator_4",
+      "word": "Hairpin view overtakes happen constantly.",
+      "translation": "Трибуна у шпильки: обгоны постоянно.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportspectator_0_6",
-      "word": "Can I sit on your lap?",
-      "translation": "Можно сесть тебе на колени?",
+      "id": "pbq_motorsportspectator_5",
+      "word": "Pit straight seats hear engines scream past.",
+      "translation": "Места напротив пит-уолла: моторы проносятся с визгом.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportspectator_0_7",
-      "word": "He took it literally.",
-      "translation": "Он понял это буквально.",
+      "id": "pbq_motorsportspectator_6",
+      "word": "Gold grandstand includes padded seating perks.",
+      "translation": "Золотая трибуна: мягкие кресла и бонусы.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportspectator_0_8",
-      "word": "I didn't mean that literally.",
-      "translation": "Я не в буквальном смысле.",
+      "id": "pbq_motorsportspectator_7",
+      "word": "Early bird pricing saved forty percent.",
+      "translation": "Раннее бронирование сэкономило сорок процентов.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportspectator_0_9",
-      "word": "Don't take it quite so literally.",
-      "translation": "Не воспринимай это так буквально.",
+      "id": "pbq_motorsportspectator_8",
+      "word": "Kids go free family sections.",
+      "translation": "На семейных трибунах детям бесплатно.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportspectator_0_10",
-      "word": "Come, sit on my lap.",
-      "translation": "Иди сядь ко мне на колени.",
+      "id": "pbq_motorsportspectator_9",
+      "word": "Hospitality package lunch included champagne.",
+      "translation": "В госпакет входят обед и шампанское.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportspectator_0_11",
-      "word": "Don't take that too literally.",
-      "translation": "Не воспринимай это слишком буквально.",
+      "id": "pbq_motorsportspectator_10",
+      "word": "Paddock Club pass costs fortune worth once.",
+      "translation": "Пропуск Пэддок Клаб стоит целое состояние — хоть раз надо!",
       "language": "en"
     },
     {
-      "id": "pb_motorsportspectator_0_13",
-      "word": "Don't take it too literally.",
-      "translation": "Не воспринимай это слишком буквально.",
+      "id": "pbq_motorsportspectator_11",
+      "word": "Garage tour peek mechanics working.",
+      "translation": "Экскурсия в гараж: увидели механиков в деле.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportspectator_0_14",
-      "word": "Metaphors aren't meant to be taken literally.",
-      "translation": "Метафоры не должны восприниматься буквально.",
+      "id": "pbq_motorsportspectator_12",
+      "word": "Fan zone simulators queues massive.",
+      "translation": "В фан-зоне очереди на симуляторы огромные.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportspectator_0_15",
-      "word": "I gave him a slap.",
-      "translation": "Я его шлёпнул.",
+      "id": "pbq_motorsportspectator_13",
+      "word": "Merch stand cap sold out sizes.",
+      "translation": "В мерче кепки разобрали — остались не все размеры.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportspectator_0_17",
-      "word": "Don't take everything so literally.",
-      "translation": "Нельзя же воспринимать всё так буквально!",
+      "id": "pbq_motorsportspectator_14",
+      "word": "Team t-shirt wearing proudly today.",
+      "translation": "Сегодня с гордостью ношу футболку команды.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportspectator_0_18",
-      "word": "I don't know anything about racing.",
-      "translation": "Я ничего не знаю о скачках.",
+      "id": "pbq_motorsportspectator_15",
+      "word": "Autograph session wristband required entry.",
+      "translation": "На автограф-сессию нужен браслет.",
       "language": "en"
     },
     {
-      "id": "pb_motorsportspectator_0_19",
-      "word": "A group of about 40 counterprotesters showed up to the rally.",
-      "translation": "На протестный марш явилось около сорока противников протестующих.",
+      "id": "pbq_motorsportspectator_16",
+      "word": "Signed cap treasure forever framed.",
+      "translation": "Подписанную кепку вставили в раму — сокровище!",
       "language": "en"
     },
     {
-      "id": "pb_motorsportspectator_0_21",
-      "word": "I took what she said literally.",
-      "translation": "Я воспринял её слова буквально.",
+      "id": "pbq_motorsportspectator_17",
+      "word": "Selfie with driver brief moment magic.",
+      "translation": "Селфи с гонщиком — короткий, но волшебный момент.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_18",
+      "word": "Grid walk celebrities wandering nervous.",
+      "translation": "Грид-волк: знаменитости нервничают среди машин.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_19",
+      "word": "Formation lap roar chills spine.",
+      "translation": "Рёв формирующего круга — мурашки по спине!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_20",
+      "word": "Start lights countdown crowd holds breath.",
+      "translation": "Отсчёт стартовых огней — зал затаил дыхание.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_21",
+      "word": "First corner chaos multiple spinners.",
+      "translation": "Первый поворот — хаос, несколько развернулось!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_22",
+      "word": "Debris flying marshal waves yellow.",
+      "translation": "Обломки летят, маршал машет жёлтым.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_23",
+      "word": "Safety car bunches field groans collective.",
+      "translation": "Сейфти-кар собирает всех — общий стон трибун.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_24",
+      "word": "Overtake into braking zone crowd erupted.",
+      "translation": "Обгон под торможением — трибуны взорвались!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_25",
+      "word": "Last lap duel standing screaming.",
+      "translation": "Дуэль на последнем круге — все стоя кричат!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_26",
+      "word": "Checkered flag waves winner crowned.",
+      "translation": "Клетчатый флаг — чемпион коронован!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_27",
+      "word": "Fireworks finale podium celebration.",
+      "translation": "Финальный салют на подиуме.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_28",
+      "word": "Champagne sprayed wind carried mist.",
+      "translation": "Шампанское брызгало, ветер относило брызги.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_29",
+      "word": "Trophy lifted anthem played proud.",
+      "translation": "Кубок поднят, гимн играет — гордость!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_30",
+      "word": "Ear defenders kids essential loud.",
+      "translation": "Детям обязательно нужны наушники — очень громко!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_31",
+      "word": "Earplugs distributed free information booth.",
+      "translation": "У инфостойки бесплатно раздают беруши.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_32",
+      "word": "Engine note differences fascinating learned.",
+      "translation": "Различать звучание моторов — это завораживает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_33",
+      "word": "V10 nostalgia versus hybrid whine debates.",
+      "translation": "Споры: ностальгия по V10 против писка гибридов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_34",
+      "word": "Onboard camera footage giant screen replays.",
+      "translation": "Онборды показывают повторами на гигантском экране.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_35",
+      "word": "Timing screen positions gaps updated live.",
+      "translation": "Тайминг-скрин: позиции и отрывы обновляются вживую.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_36",
+      "word": "Purple sectors fastest overall splits.",
+      "translation": "Фиолетовые сектора — быстрее всех в сезоне.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_37",
+      "word": "Personal best green flashing scoreboard.",
+      "translation": "Личный рекорд мигает зелёным на табло.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_38",
+      "word": "Qualifying drama last-minute lap stole pole.",
+      "translation": "Квалификационный триллер: последний круг украл поул!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_39",
+      "word": "Knocked out Q2 disappointment visible garage.",
+      "translation": "Выбыл в Q2 — разочарование в боксах видно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_40",
+      "word": "Shootout format sprint weekend confusing first.",
+      "translation": "Формат спринта сначала путает новичков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_41",
+      "word": "Sprint race points half awarded.",
+      "translation": "За спринт дают половину очков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_42",
+      "word": "Parc ferme restrictions explained guidebook.",
+      "translation": "Правила parc fermé объяснили в программке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_43",
+      "word": "Grid penalties engine changes reshuffled order.",
+      "translation": "Штрафы за моторы перетасовали стартовую решётку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_44",
+      "word": "Back-of-grid start comeback drive thrilling.",
+      "translation": "Старт с конца — прорыв до очков захватывающий!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_45",
+      "word": "Rookie impressed everyone overtaking veterans.",
+      "translation": "Рокки переплюнул ветеранов — все впечатлены!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_46",
+      "word": "Veteran craftiness defended position masterfully.",
+      "translation": "Ветеран мастерски защищал позицию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_47",
+      "word": "Team orders controversy radio messages leaked.",
+      "translation": "Командные приказы: слухи расходятся мгновенно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_48",
+      "word": "Favourite driver banner handmade proudly.",
+      "translation": "Самодельный баннер любимого гонщика — гордо несём!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_49",
+      "word": "Flags waving horns honking atmosphere electric.",
+      "translation": "Флаги, гудки — атмосфера электрическая!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_50",
+      "word": "Air horns banned sections please comply.",
+      "translation": "В некоторых зонах дудки запрещены — соблюдайте!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_51",
+      "word": "Sunburn inevitable sunscreen reapplied hourly.",
+      "translation": "Обгореть легко — обновляйте крем каждый час.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_52",
+      "word": "Rain ponchos merch tripled price cynical.",
+      "translation": "Дождевики в мерч-ларьках подорожали втрое — цинично!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_53",
+      "word": "Mud everywhere camping section wellies essential.",
+      "translation": "В кемпинге грязь по колено — резиновые сапоги маст-хэв!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_54",
+      "word": "Camping spot fence line prime location.",
+      "translation": "Место в кемпе у забора — локация мечты!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_55",
+      "word": "Generator hum all night neighbours tolerant.",
+      "translation": "Генератор гудит всю ночь — соседи терпеливо молчат.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_56",
+      "word": "Barbecue smell drifting camps communal dinner.",
+      "translation": "Запах барбекю по кемпингу — ужин в складчину.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_57",
+      "word": "Shuttle buses packed morning rush gates.",
+      "translation": "Шаттлы к воротам забиты с утра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_58",
+      "word": "Pedestrian bridges congestion peak arrivals.",
+      "translation": "Пешеходные мосты забиты в час пик.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_59",
+      "word": "Security wands quick pat-down efficient.",
+      "translation": "Досмотр рамкой и похлопыванием — быстро.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_60",
+      "word": "No glass bottles policy enforced strictly.",
+      "translation": "Стекло строго запрещено — выливают на входе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_61",
+      "word": "Cashless payments only wristband top-ups.",
+      "translation": "Только безнал: пополняй браслет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_62",
+      "word": "Top-up kiosks queues lunchtime avoid morning.",
+      "translation": "Пополнение браслета: лучше пополнять утром.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_63",
+      "word": "Water refill stations free bring bottle.",
+      "translation": "Питьевая вода бесплатно — берите бутылку!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_64",
+      "word": "Lost child point announced calmly reunited.",
+      "translation": "Пункт потерявшихся детей: объявление, и семья воссоединилась.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_65",
+      "word": "Meeting spot phone dead backup plan.",
+      "translation": "Место встречи на случай севшего телефона!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_66",
+      "word": "Programme booklet schedule maps insider tips.",
+      "translation": "Программка: расписание, карты, советы инсайдеров.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_67",
+      "word": "Support races entertaining before headline act.",
+      "translation": "Поддерживающие заезды перед главным — очень зрелищны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_68",
+      "word": "Historic masters classic machines growling grids.",
+      "translation": "Историческая серия: классика рычит целыми пелетонами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_69",
+      "word": "Drift demonstrations tire smoke applause.",
+      "translation": "Дрифт-шоу: дым от покрышек, овации.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_70",
+      "word": "Stunt rider wheelies entire straight.",
+      "translation": "Мотоциклист едет вилли всю прямую!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_71",
+      "word": "Pit lane walk access Thursday preview.",
+      "translation": "Прогулка по пит-лейну — доступ в четверг.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_72",
+      "word": "Mechanics practicing stops open-mouth watching.",
+      "translation": "Механики тренируют пит-стопы — невозможно оторваться.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_73",
+      "word": "Garage doors closed secrets protected.",
+      "translation": "Двери гаражей закрыты — секреты под охраной.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_74",
+      "word": "Tyre blankets humming warm rubber smell.",
+      "translation": "Термочехлы гудят, запах тёплой резины.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_75",
+      "word": "Scrutineering bay scales cameras officials.",
+      "translation": "Зона техосмотра: весы, камеры, стюарды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_76",
+      "word": "Press conference translations earpieces provided.",
+      "translation": "На пресс-конференции выдали наушники с переводом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_77",
+      "word": "Drivers relaxed jokes pre-race nerves hidden.",
+      "translation": "Перед гонкой гонщики шутят — нервы прячут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_78",
+      "word": "Championship standings math scenarios explained podcast.",
+      "translation": "Сценарии чемпионата разбирают в подкасте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_79",
+      "word": "Title decider final round everything stakes.",
+      "translation": "Финальный этап решает титул — на кону всё!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_80",
+      "word": "Equal points tiebreaker wins counted rule.",
+      "translation": "При равенстве очков считают победы — правило тай-брейка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_81",
+      "word": "Home race crowd extra loud local hero.",
+      "translation": "Домашний этап: местный герой — трибуны ревут громче.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_82",
+      "word": "National anthem chills pride moment.",
+      "translation": "Гимн перед стартом — момент гордости.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_83",
+      "word": "Legends parade historic champions lapping demo.",
+      "translation": "Парад легенд: чемпионы прошлого катают демонстрационные круги.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_84",
+      "word": "Souvenir programme signed by three legends.",
+      "translation": "Программку подписали сразу три легенды!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_85",
+      "word": "Coach trip organized club discount group rate.",
+      "translation": "Клубом едут автобусом — групповая скидка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_86",
+      "word": "Train station shuttle timetable photographed.",
+      "translation": "Расписание шаттлов от вокзала сфотографировали.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_87",
+      "word": "Traffic gridlock hours post-race patience.",
+      "translation": "После гонки пробки на часы — запаситесь терпением.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_88",
+      "word": "Left early beat traffic missed podium sigh.",
+      "translation": "Уехали раньше ради дорог — проморгали подиум, обидно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_89",
+      "word": "Replayed highlights hotel room midnight.",
+      "translation": "Повторы лучших моментов смотрели в номере в полночь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_90",
+      "word": "Already planning next season pilgrimage annual tradition.",
+      "translation": "Следующий сезон уже планируем — ежегодное паломничество стало традицией.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_91",
+      "word": "Friday practice tickets cheapest entry option.",
+      "translation": "Билеты на пятничные тренировки — самый дешёвый вход.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_92",
+      "word": "Weekend roaming pass grandstands variety.",
+      "translation": "Проходной на выходные: разные трибуны каждый день.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_93",
+      "word": "Seat upgrade kiosk midday sometimes cheaper.",
+      "translation": "Апгрейд места на месте бывает выгоден днём.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_94",
+      "word": "Viewing hill grass bank picnic vibes.",
+      "translation": "Травяной холм для просмотра — пикник-вайб!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_95",
+      "word": "Giant screen visible far corners too.",
+      "translation": "Гигантский экран виден и с дальних поворотов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_96",
+      "word": "Binoculars rented deposit returned easily.",
+      "translation": "Бинокль напрокат: залог вернули без проблем.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_97",
+      "word": "Radio earpieces live commentary invaluable.",
+      "translation": "Радионаушники с комментатором бесценны!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_98",
+      "word": "Commentary frequency local FM listed booklet.",
+      "translation": "Частота комментария указана в программке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_99",
+      "word": "Foreign commentary language headset switch options.",
+      "translation": "В наушниках переключают язык комментария.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_100",
+      "word": "Timing app subscription second-screen experience.",
+      "translation": "Подписка на тайминг — опыт со вторым экраном!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_101",
+      "word": "Live telemetry sector deltas addicting feature.",
+      "translation": "Живые секторные дельты затягивают!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_102",
+      "word": "Push alerts overtakes nothing missed.",
+      "translation": "Пуши об обгонах — ничего не пропустил!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_103",
+      "word": "Watch party bar screens atmosphere loud.",
+      "translation": "Вотч-пати в баре: экраны огромные, атмосфера гудит!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_104",
+      "word": "Sports bar reserved seats early advised.",
+      "translation": "В спортбаре бронируйте места заранее!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_105",
+      "word": "Night races timezone coffee dedication required.",
+      "translation": "Ночные гонки из-за часовых поясов — кофе обязателен!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_106",
+      "word": "Alarm three a.m. race fan devotion.",
+      "translation": "Будильник на три ночи ради гонки — преданность!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_107",
+      "word": "Recording spoiler blackout social media avoided.",
+      "translation": "Запись плюс блэккаут соцсетей — спойлеров нет!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_108",
+      "word": "Spoiler etiquette friends respect requests.",
+      "translation": "Друзья, без спойлеров — уважьте просьбу!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_109",
+      "word": "Highlights condensed fifteen minutes perfect lunch.",
+      "translation": "Пятнадцатиминутные хайлайты — идеально в обед!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_110",
+      "word": "Extended cut pit radio drama included.",
+      "translation": "Расширенная версия с драмой радиообмена!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_111",
+      "word": "Onboard dedicated feed subscribed premium.",
+      "translation": "Подписался на отдельный онборд-канал!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_112",
+      "word": "Helicopter shots layout appreciation gained.",
+      "translation": "Съёмки с вертолёта показали красоту трассы!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_113",
+      "word": "Drone footage banned broadcast strict rules.",
+      "translation": "Дроны в трансляциях запрещены — регламент строг!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_114",
+      "word": "Director missed action complaints eternal fans.",
+      "translation": "Режиссёр опять упустил борьбу — вечные жалобы фанатов!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_115",
+      "word": "Controversial incident replay frames analysed endlessly.",
+      "translation": "Спорный инцидент разобрали покадрово до дыр!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_116",
+      "word": "Slow motion contact millimeter debates forever.",
+      "translation": "Контакт на миллиметры — спорить будут вечно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_117",
+      "word": "Steward decision awaited anxiously verdict posted.",
+      "translation": "Решение стюардов ждали с тревогой — вердикт вышел!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_118",
+      "word": "Press conference quotes headline material picked.",
+      "translation": "Из пресс-конференции выбирают заголовки!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_119",
+      "word": "Fantasy league lineup deadline anxiety real.",
+      "translation": "Дедлайн составов в фэнтези реально нервирует!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_120",
+      "word": "Prediction game exact podium points bonus.",
+      "translation": "Угадал подиум точно — бонусные очки!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_121",
+      "word": "Teammate head-to-head league scoring extra.",
+      "translation": "За дуэли напарников в фэнтези — доп. очки!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_122",
+      "word": "Draft exclusivity each driver one owner.",
+      "translation": "На драфте каждый гонщик — у одного владельца!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_123",
+      "word": "Champion fantasy bragging rights year-long trophy.",
+      "translation": "Чемпион фэнтези хвастается весь год + кубок!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_124",
+      "word": "Diecast collection 1:43 shelf display pride.",
+      "translation": "Коллекция моделей 1:43 на полке — гордость!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_125",
+      "word": "Limited editions numbered pieces value rising.",
+      "translation": "Лимитированные серии с номерами дорожают!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_126",
+      "word": "Signed memorabilia authentication certificates essential purchases.",
+      "translation": "При покупке автографов важны сертификаты подлинности!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_127",
+      "word": "Charity auction race-worn gloves won!",
+      "translation": "Выиграл благотворительный аукцион перчаток гонщика!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_128",
+      "word": "Carbon offcut keyring souvenir workshop unique.",
+      "translation": "Брелок из карбонового обрезка — уникальный сувенир!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_129",
+      "word": "Used tyre keychain rubber smell nostalgia.",
+      "translation": "Брелок из гоночной резины пахнет гонками!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_130",
+      "word": "Museum historic cars close glass displays.",
+      "translation": "Музей: исторические машины за стеклом вблизи!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_131",
+      "word": "Factory tour engineering marvels witnessed firsthand.",
+      "translation": "Тур по заводу: инженерные чудеса своими глазами!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_132",
+      "word": "Wind tunnel tour impressive scale models.",
+      "translation": "Экскурсия в аэродинамическую трубу впечатлила!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_133",
+      "word": "Simulator lab visit professional rigs jaw-dropping.",
+      "translation": "Лаборатория симуляторов: профессиональные риги шокируют!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_134",
+      "word": "Heritage collection evolution decades displayed.",
+      "translation": "Коллекция наследия: эволюция за десятилетия!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_135",
+      "word": "Legends demo runs historic champions returning.",
+      "translation": "Легенды вернулись за руль исторических болидов!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_136",
+      "word": "Goodwood style festival garden party racing.",
+      "translation": "Фестиваль в стиле Гудвуда: скачки эпох и пикник!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_137",
+      "word": "Concours d elegance beauty contest cars judged.",
+      "translation": "Конкурс красоты автомобилей судят строго!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_138",
+      "word": "Auction records shattered rare racers sold millions.",
+      "translation": "Редкие болиды ушли за миллионы — рекорды аукционов!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_139",
+      "word": "Kid first race ear defenders wonder eyes.",
+      "translation": "Первый рейс ребёнка: наушники и глаза полные чудес!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_140",
+      "word": "Autograph book pages filled legends signatures.",
+      "translation": "Автограф-бук заполнился подписями легенд!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_141",
+      "word": "Family tradition annual pilgrimage generations attending.",
+      "translation": "Семейная традиция: паломничество на гонку поколениями!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_142",
+      "word": "Grandfather stories Prost Senna rivalry memories.",
+      "translation": "Дед рассказывает о противостоянии Проста и Сенны!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_143",
+      "word": "VHS tapes archive classic races rewatched winter.",
+      "translation": "Зимой пересматриваю классику на VHS-записях!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_144",
+      "word": "DVD boxset season reviews nostalgic marathons.",
+      "translation": "Коробка DVD с обзорами сезонов — ностальгические марафоны!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_145",
+      "word": "Documentary series behind scenes drama revealed.",
+      "translation": "Документалка показала закулисную драму!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_146",
+      "word": "Book biography technical depth appreciated engineers.",
+      "translation": "Биография с технической глубиной — инженеры оценят!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_147",
+      "word": "Podium predict scoring apps gamified viewing.",
+      "translation": "Приложения угадывания геймифицируют просмотр!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_148",
+      "word": "Second monitor timing data split screen.",
+      "translation": "Второй монитор с таймингом рядом с трансляцией!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_149",
+      "word": "Multi-screen setup hardcore fans standard.",
+      "translation": "Мультискрин — стандарт хардкорного фаната!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_150",
+      "word": "Mute commentary own analysis preferred purists.",
+      "translation": "Пуристы выключают комментатора и анализируют сами!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_151",
+      "word": "Foreign broadcast alternative commentary languages explored.",
+      "translation": "Смотрю зарубежные трансляции ради другого комментария!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_152",
+      "word": "Local heroes wildcard entries crowd favourites.",
+      "translation": "Уайлд-карды местные — любимцы трибун!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_153",
+      "word": "Underdog story casual fans hooked narrative.",
+      "translation": "История андердога цепляет даже случайных зрителей!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_154",
+      "word": "Rivalry documentaries fuel fandom wars online.",
+      "translation": "Документалки о соперничествах разжигают фанатские войны!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_155",
+      "word": "Toxic tribalism versus respectful rivalry balance.",
+      "translation": "Баланс между племенным фанатизмом и уважением к сопернику!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_156",
+      "word": "Memes culture lighthearted community bonding shared.",
+      "translation": "Мемы скрепляют сообщество лёгким юмором!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_157",
+      "word": "Fan forums technical debates depth impressive.",
+      "translation": "На форумах технические споры поражают глубиной!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_158",
+      "word": "Reddit threads breakdowns strategy analysed crowdsourced.",
+      "translation": "Разборы стратегий коллективным разумом Реддита!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_159",
+      "word": "YouTube channels teardown analysis subscribed several.",
+      "translation": "Подписан на несколько YouTube-разборов техники!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_160",
+      "word": "Podcasts driver interviews unfiltered honesty refreshing.",
+      "translation": "Подкасты с гонщиками: неподкупная честность освежает!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_161",
+      "word": "Journalists insider paddock whispers rumours careful.",
+      "translation": "Инсайдерские слухи паддока проверяйте дважды!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_162",
+      "word": "Transfer silly season speculation entertainment months.",
+      "translation": "Сезон домыслов о контрактах — месяцы развлечений!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_163",
+      "word": "Contract announcement socials breaking news alerts.",
+      "translation": "Объявление контракта — пуш-уведомление срочных новостей!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_164",
+      "word": "Launch livery reveal livestream watched premiere.",
+      "translation": "Премьеру новой ливреи смотрел как стрим!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_165",
+      "word": "Shakedown footage first laps new car analysed.",
+      "translation": "Шейкдаун: первые круги новой машины разобрали!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_166",
+      "word": "Testing times unrepresentative fuel loads caveat.",
+      "translation": "Тестовые времена обманчивы — заправки разные!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_167",
+      "word": "Sandbagging suspicions preseason predictions adjusted.",
+      "translation": "Подозрения в sandbagging скорректировали прогнозы!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_168",
+      "word": "Preseason favourite label curse superstition some.",
+      "translation": "Для суеверных статус фаворита — проклятие!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_169",
+      "word": "Dark horse candidate surprise package watchlist.",
+      "translation": "Тёмная лошадка — в списке наблюдения!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_170",
+      "word": "Midfield battle underrated spectacle genuinely thrilling.",
+      "translation": "Битва середины пелетона недооценена — а зрелищна адски!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_171",
+      "word": "Backmarker heroics defensive masterclass appreciated connoisseurs.",
+      "translation": "Героизм аутсайдеров в обороне ценят знатоки!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_172",
+      "word": "Lap chart printout annotated favourite moments circled.",
+      "translation": "Распечатку кругов разметил любимыми моментами!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_173",
+      "word": "Race poster framed wall art signed limited.",
+      "translation": "Гоночный постер в раме, подписанный, лимитка!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_174",
+      "word": "Ticket stubs scrapbook memory lane annually.",
+      "translation": "Корешки билетов в альбом — ежегодная лента памяти!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_175",
+      "word": "Photobook self-published season journey documented.",
+      "translation": "Самиздатом фотокнига сезона — путь задокументирован!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_176",
+      "word": "Group chat race day reactions live commentary friends.",
+      "translation": "Групповой чат: живые реакции друзей во время гонки!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_177",
+      "word": "Voice notes screaming overtake shared instantly laughter.",
+      "translation": "Голосовое с криком от обгона — все ржут!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_178",
+      "word": "Betting responsibly small stakes fun only reminder.",
+      "translation": "Ставки — только мелочь ради фана!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_179",
+      "word": "Odds comparison sites informed guesses entertainment.",
+      "translation": "Сравнение коэффициентов — для интересных догадок!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_180",
+      "word": "Accumulator ruined safety car chaos typical.",
+      "translation": "Экспресс убил сейфти-кар — классика!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_181",
+      "word": "Panning shots shutter speed slow technique.",
+      "translation": "Панорамирование: длинная выдержка — техника фотоловли!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_182",
+      "word": "Shutter priority 1/60th blur background sharp car.",
+      "translation": "1/60 секунды: фон смазан, машина резкая!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_183",
+      "word": "Fence holes shooting positions debated etiquette.",
+      "translation": "Стрелять через дырки в сетке — этикет спорит!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_184",
+      "word": "Monopod permitted tripods banned crowds.",
+      "translation": "Монопод можно, штатив в толпе нельзя!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_185",
+      "word": "Golden hour paddock portraits stunning light.",
+      "translation": "Золотой час в паддоке — шикарный свет для портретов!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_186",
+      "word": "Heat haze telephoto mirage distortion midday.",
+      "translation": "Мираж от жары портит телевик в полдень!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_187",
+      "word": "Dust plumes rally stages dramatic backlit.",
+      "translation": "Пыль раллийных спецучастков в контровом свете — драматично!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_188",
+      "word": "Sound of engines photographed visually impossible describe.",
+      "translation": "Звук моторов фото не передаст.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_189",
+      "word": "Ear protection photography gear both packed checklist.",
+      "translation": "Чек-лист: наушники + фототехника!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_190",
+      "word": "Memory cards backed up nightly hotel ritual.",
+      "translation": "Карты памяти бэкаплю в отеле каждую ночь!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_191",
+      "word": "Track knowledge Eau Rouge compression blind crest legendary.",
+      "translation": "О Руже: сжатие и слепой подъём — легенда!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_192",
+      "word": "Parabolica long right exit importance explained guide.",
+      "translation": "Параболика: длинная правая, важнейший выход — объяснили!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_193",
+      "word": "Casino Square Monte Carlo tight famous corner.",
+      "translation": "Казино-Сквер Монте-Карло: тесный знаменитый поворот!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_194",
+      "word": "Tunnel Monaco echo sound unique experience.",
+      "translation": "Туннель Монако: эхо моторов неповторимо!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_195",
+      "word": "Elevation changes Spa massive climbing walking.",
+      "translation": "В Спа перепады высот огромны — нагуляешься!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_196",
+      "word": "Circuit maps walking routes distances underestimated always.",
+      "translation": "Расстояния между трибунами все недооценивают!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_197",
+      "word": "Comfortable shoes marathon walking days essential!",
+      "translation": "Удобные кроссовки обязательны — это марафон ходьбы!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_198",
+      "word": "Weather four seasons one day mountain circuits.",
+      "translation": "В горных трассах четыре сезона за день!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_199",
+      "word": "Umbrella poncho layers unpredictable forecasts prepared.",
+      "translation": "Прогноз непредсказуем: зонт, дождевик, слои одежды!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_200",
+      "word": "Fog delays helicopter medical flights grounded.",
+      "translation": "Туман посадил вертолёт скорой — задержки!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_201",
+      "word": "Sunset races golden light photographers paradise.",
+      "translation": "Закатные гонки — рай фотографов!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_202",
+      "word": "Floodlights night race spectacle completely different vibe.",
+      "translation": "Ночная гонка под софитами — совсем другой вайб!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_203",
+      "word": "Food trucks local specialties queues worth it.",
+      "translation": "Фудтраки с местной кухней — очередь того стоит!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_204",
+      "word": "Overpriced festival food complaint universal tradition.",
+      "translation": "Жаловаться на цены фудкорта — традиция всех!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_205",
+      "word": "Local wine tasting region circuit vineyard nearby.",
+      "translation": "У трассы винодельня — дегустация после гонки!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_206",
+      "word": "Regional tourism boards race weekend packages promote.",
+      "translation": "Турофисы продают пакеты на гоночный уик-энд!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_207",
+      "word": "City break combined race trip dual purpose holidays.",
+      "translation": "Гонка плюс городской отпуск — двойная выгода!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_208",
+      "word": "Passport visa requirements checked months advance.",
+      "translation": "Визы проверяйте за месяцы до поездки!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_209",
+      "word": "Currency exchange rates track vendors poor deals.",
+      "translation": "Менять валюту на трассе — грабёж!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_210",
+      "word": "Roaming plans data usage maps navigation essential.",
+      "translation": "Роуминг с интернетом — карты навигации жизненно нужны!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_211",
+      "word": "Public transport strike weekend chaos contingency taxi.",
+      "translation": "Забастовка транспорта в уик-энд — такси как план Б!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_212",
+      "word": "Accommodation prices triple race weekends book early!",
+      "translation": "Цены на жильё х3 в гоночные уик-энды — бронируй заранее!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_213",
+      "word": "Hostel dorm beds budget fans standard option.",
+      "translation": "Хостел — стандарт бюджетного фаната!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_214",
+      "word": "Airbnb split costs group savings significant.",
+      "translation": "Эйрбнби на компанию сильно экономит!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_215",
+      "word": "Camping grounds atmosphere communal showers basic.",
+      "translation": "Кемпинг: атмосфера топ, душ спартанский.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_216",
+      "word": "Glorious mud festival wellies wellington boots required.",
+      "translation": "Грязь фестиваля по колено — сапоги обязательны!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_217",
+      "word": "Ear plugs foam night camping generators droning.",
+      "translation": "Беруши на ночь: генераторы гудят без остановки!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_218",
+      "word": "Sunrise walk empty track access special ticket perk.",
+      "translation": "Рассветный обход пустой трассы — привилегия спецбилета!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_219",
+      "word": "Autograph hunters permanent markers multiple ready.",
+      "translation": "Автографщикам: несколько перманентных маркеров с собой!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_220",
+      "word": "Driver appearances sponsor activations schedules posted.",
+      "translation": "Расписание появлений гонщиков висит у стендов спонсоров!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_221",
+      "word": "Sim rig demo fan zone lines hours wait.",
+      "translation": "Очередь на симулятор в фан-зоне — часы!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_222",
+      "word": "Esports crossover final live audience cheering gamers.",
+      "translation": "Финал кибергоночного зачёта: зал болеет за геймеров!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_223",
+      "word": "Pro gamer invited real test drive viral moment.",
+      "translation": "Кибергонщику дали реальный болид — вирусное видео!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_224",
+      "word": "Hand-eye coordination gaming translates surprisingly well.",
+      "translation": "Навыки из игр неожиданно переносятся в жизнь!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_225",
+      "word": "Racing line video game knowledge track familiarity advantage.",
+      "translation": "Знание трасс из игр — реально помогает.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_226",
+      "word": "Brake markers remembered virtual laps transferred physical.",
+      "translation": "Точки торможения из виртуалки вспомнились на реальной трассе!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_227",
+      "word": "Karting track day gift experience voucher birthday.",
+      "translation": "Подарочный сертификат на картинг — лучший подарок!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_228",
+      "word": "Arrive and drive arrive-and-drive karting corporate events popular.",
+      "translation": "Корпоративы на карте — популярный формат!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_229",
+      "word": "Kids karting birthday parties lifelong fans created.",
+      "translation": "Детский картинг на дне рождения — фанат на всю жизнь!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_230",
+      "word": "Junior categories ladder system explained progression path.",
+      "translation": "Лестница юниорских серий объясняет путь наверх!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_231",
+      "word": "Scholarships talent scouting programmes opportunities exist.",
+      "translation": "Стипендии и скаутинг талантов — возможности есть!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_232",
+      "word": "Grassroots motorsport volunteers marshals appreciated endlessly.",
+      "translation": "Волонтёры-маршалы grassroots-гонок бесценны!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_233",
+      "word": "Marshal post volunteering training courses free rewarding.",
+      "translation": "Стать маршалом: обучение бесплатное, опыт бесценный!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_234",
+      "word": "Flag signals meanings yellow red blue chequered learned.",
+      "translation": "Выучи значения флагов: жёлтый, красный, синий, клетчатый!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_235",
+      "word": "Incident response training first aid certification included.",
+      "translation": "Курсы маршалов включают первую помощь!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_236",
+      "word": "Radio protocol discipline professional environment respected.",
+      "translation": "Дисциплина радиопротокола — профессиональная среда!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_237",
+      "word": "Race control visibility strategic positioning hills chosen.",
+      "translation": "Race control сидит стратегически — обзор решает!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_238",
+      "word": "Timing loops transponder checkpoints every sector.",
+      "translation": "Петли тайминга на каждом секторе фиксируют транспондеры!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_239",
+      "word": "Sector splits purple green colour coding understood quickly.",
+      "translation": "Цвета секторов (фиолетовый/зелёный) понятны быстро!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_240",
+      "word": "Personal best versus session best distinction noted.",
+      "translation": "Разницу личного и лучшего в сессии улавливают сразу!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_241",
+      "word": "Fuel adjusted lap times slower heavier car visible.",
+      "translation": "Заправленная машина тяжелее и медленнее — видно по временам!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_242",
+      "word": "Lightning pit stops sub-two-second world records celebrated.",
+      "translation": "Пит-стопы меньше двух секунд — мировые рекорды!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_243",
+      "word": "Wheel gun technology carbon fibre lightweight powerful.",
+      "translation": "Колесовёрт из карбона — лёгкий и мощный!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_244",
+      "word": "Pit crew athletes cross-trained gymnasts sprinters recruited.",
+      "translation": "В пит-экипажи берут гимнастов и спринтеров!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_245",
+      "word": "Choreography practice hundreds repetitions weekly drills.",
+      "translation": "Хореографию стопа репетируют сотни раз в неделю!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_246",
+      "word": "Mistakes punished instantly position lost seconds gained rivals.",
+      "translation": "Ошибка на стопе = потерянная позиция мгновенно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_247",
+      "word": "Undercut executed perfectly strategy masterclass applauded analysts.",
+      "translation": "Идеальный андеркат — аналитики аплодировали мастерству стратегии!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_248",
+      "word": "Tyre compound choices C1 soft through C5 hard ranges.",
+      "translation": "Компаунды от C1 (мягкий) до C5 (жёсткий)!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_249",
+      "word": "Optimal window temperature grip cliff edge explained graphics.",
+      "translation": "Температурное окно сцепления показали инфографикой!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_250",
+      "word": "Cliff edge performance drop-off sudden catastrophic tyre failure risk.",
+      "translation": "Обрыв производительности резины — внезапный и катастрофичный!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_251",
+      "word": "Degradation rates per lap estimated fuel-corrected comparisons.",
+      "translation": "Деградацию считают по кругу с поправкой на топливо!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_252",
+      "word": "Hypersoft supersoft naming conventions historical evolution changed.",
+      "translation": "Названия компаундов исторически менялись не раз!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_253",
+      "word": "Blanket warming regulations temperatures specified exactly.",
+      "translation": "Регламент задаёт точную температуру прогрева!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_254",
+      "word": "Pressure targets adjusted ambient conditions altitude.",
+      "translation": "Целевые давления правят под погоду и высоту!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_255",
+      "word": "Altitude thin air turbo compensation naturally aspirated struggle.",
+      "translation": "В горах турбо компенсирует разрежение, атмосферникам тяжко!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_256",
+      "word": "Downforce levels trimmed low drag Monza spec.",
+      "translation": "Под Монзу режут прижимную силу ради скорости!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_257",
+      "word": "Top speed versus cornering compromise setup philosophy eternal.",
+      "translation": "Скорость против поворотов — вечный компромисс сетапа!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_258",
+      "word": "Slipstreaming trains qualifying tow games tactical chess.",
+      "translation": "Буксировочные поезда в квалификации — тактические шахматы!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_259",
+      "word": "Grid girls replaced grid kids historic change modernized.",
+      "translation": "Грид-гёрлс сменили гриды-кидс — эпоха изменилась!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_260",
+      "word": "Ceremonial aspects traditions preserved respectfully evolved.",
+      "translation": "Церемонии сохраняют, бережно обновляя!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_261",
+      "word": "National anthems pre-race pride moments emotional winners.",
+      "translation": "Гимн победителю — эмоциональный момент гордости!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_262",
+      "word": "Trophy designs unique each circuit crafted artisans.",
+      "translation": "Кубок каждой трассы уникален — работа мастеров!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_263",
+      "word": "Perpetual trophies names engraved history decades visible.",
+      "translation": "На переходящих кубках видны имена десятилетий!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_264",
+      "word": "Podium interview translator earpiece moments comedy gold occasionally.",
+      "translation": "Переводчик на подиуме иногда выдаёт комедию!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_265",
+      "word": "Confetti cannons champagne drenched podium suits ruined gloriously.",
+      "translation": "Конфетти и шампанское губят костюмы во славу!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_266",
+      "word": "Crowd surge barriers front row excitement managed safely.",
+      "translation": "Напор толпы у ограждений контролируют безопасно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_267",
+      "word": "Merchandise exclusives track-only releases limited stock frenzy.",
+      "translation": "Эксклюзивный мерч только на трассе — дефицит и ажиотаж!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_268",
+      "word": "Commemorative merchandise anniversary editions collectors hunted.",
+      "translation": "Юбилейный мерч коллекционеры отслеживают!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_269",
+      "word": "Post-race concert headline artists stage built infield.",
+      "translation": "После гонки концерт хедлайнера на сцене в паддоке!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_270",
+      "word": "Festival atmosphere music racing combined entertainment weekend.",
+      "translation": "Уик-энд = музыка + гонки + фестиваль!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_271",
+      "word": "Family zones kids entertainment bouncy castles face painting.",
+      "translation": "Детские зоны: батуты, аквагрим — семьям удобно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_272",
+      "word": "Accessibility wheelchair viewing platforms inclusion improvements ongoing.",
+      "translation": "Пандусы и платформы для колясок — инклюзия растёт!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_273",
+      "word": "Sensory rooms autistic fans quiet spaces provided thoughtfully.",
+      "translation": "Сенсорные комнаты для зрителей с аутизмом — продумано!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_274",
+      "word": "Prayer rooms multi-faith facilities respect diversity acknowledged.",
+      "translation": "Молитвенные комнаты разных конфессий — уважение к разнообразию!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_275",
+      "word": "Lost property office reunions wallets phones passports miracles.",
+      "translation": "Бюро находок возвращает кошельки, телефоны, паспорта — чудеса!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_276",
+      "word": "Cashless wristband refunds unspent balances queue complaints.",
+      "translation": "Возврат неиспользованных денег с браслета — вечная очередь!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_277",
+      "word": "Feedback surveys prize draws season tickets incentives offered.",
+      "translation": "Опросы с розыгрышем абонементов — стимул оставить отзыв!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_278",
+      "word": "Season ticket holders loyalty perks priority parking passes.",
+      "translation": "Абонементы дают приоритетную парковку и бонусы лояльности!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_279",
+      "word": "Renewal discounts early bird next year locked prices.",
+      "translation": "Продление заранее фиксирует цену следующего года!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_280",
+      "word": "Waiting lists premium grandstands decade-long loyalty rewarded.",
+      "translation": "Лист ожидания на премиум-трибуны длиной в годы!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_281",
+      "word": "Ticket resale platforms verified transfers safe purchases only.",
+      "translation": "Билеты покупайте только на верифицированных площадках перепродажи!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_282",
+      "word": "Scalper prices inflated beware street sellers fakes.",
+      "translation": "Уличные спекулянты продают фальшивки — осторожно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_283",
+      "word": "Digital tickets QR codes phone battery anxiety portable chargers.",
+      "translation": "Цифровые билеты жрут батарею — пауэрбанк обязателен!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_284",
+      "word": "ID matching ticket names security checks strict some events.",
+      "translation": "На некоторых событиях сверяют билет с паспортом!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_285",
+      "word": "Group discounts corporate hospitality packages negotiated sales teams.",
+      "translation": "Корпоративные пакеты обсуждают с отделом продаж!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_286",
+      "word": "Student youth discounts ID required gates verified occasionally.",
+      "translation": "Студенческие скидки иногда проверяют на входе!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_287",
+      "word": "Early entry perks pit lane walks dawn access exclusive.",
+      "translation": "Ранний вход даёт эксклюзивную прогулку по пит-лейну!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_288",
+      "word": "VIP experiences grid access photos podium visits bucket list.",
+      "translation": "VIP-билет: доступ к гриду и подиуму — из списка мечты!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_289",
+      "word": "Champion crown ceremony season finale celebrations city centre.",
+      "translation": "Коронацию чемпиона празднуют концертом в центре города!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_290",
+      "word": "Fan forums ticket exchanges trusted members trades arranged.",
+      "translation": "На форумах фанаты честно обмениваются билетами!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_291",
+      "word": "Travel agencies package deals flights hotel transfers bundled convenient.",
+      "translation": "У турфирм удобные пакеты: перелёт, отель, трансферы!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_292",
+      "word": "Local homestay cheaper authentic experience neighbourhood tips bonus.",
+      "translation": "Съём комнаты у местных дешевле и душевнее!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_293",
+      "word": "Rental car navigation toll roads unfamiliar rules researched beforehand.",
+      "translation": "Правила платных дорог чужой страны изучите заранее!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_294",
+      "word": "Airport shuttle timetables last services missed taxis expensive lesson.",
+      "translation": "Прозевал последний шаттл — такси влетело в копеечку!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_295",
+      "word": "Luggage storage day trips checkout morning race evening logistics.",
+      "translation": "Чемоданы в камере хранения: выселение утром, гонка вечером!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_296",
+      "word": "Souvenir magnets fridge collection every circuit visited displayed.",
+      "translation": "Коллекция магнитов со всех посещённых трасс на холодильнике!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_297",
+      "word": "Postcards mailed self stamps cancellation marks dated memories.",
+      "translation": "Открытки себе с почтовым штемпелем — датированные воспоминания!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_298",
+      "word": "Photography exhibitions fan galleries social media tags featured.",
+      "translation": "Лучшие фанатские фото попадают в выставки сообществ!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_299",
+      "word": "Camera gear insurance expensive lenses crowds risk assessed.",
+      "translation": "Дорогие объективы в толпе — оцените риски и страховку!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_300",
+      "word": "Monopod stability slower shutter speeds sharp panning results.",
+      "translation": "Монопод даёт резкое панорамирование на длинной выдержке!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_301",
+      "word": "Backlight silhouettes pit crew shadows dramatic shots sunset.",
+      "translation": "Силуэты механиков на закате — драматичные кадры!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_302",
+      "word": "Sparks showered floor planks spectacular night shots long exposure.",
+      "translation": "Искры от планки — зрелище для ночной длинной выдержки!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_303",
+      "word": "Panning technique practice swings follow through smooth motion.",
+      "translation": "Технику панорамирования ставят плавными проводками!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_304",
+      "word": "Continuous autofocus tracking modes birds cars similar challenge!",
+      "translation": "Следящий автофокус: гонщики и птицы — похожая задача!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_305",
+      "word": "Burst modes frames per second memory cards filling fast!",
+      "translation": "Серийная съёмка опустошает карты памяти стремительно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_306",
+      "word": "Editing workflow culling selects colour grading signature style developed.",
+      "translation": "Отбор кадров и авторский цвет — стиль фотографа!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_307",
+      "word": "Watermark theft protection credits attribution requested politely.",
+      "translation": "Водяные знаки защищают от воровства, кредиты просят вежливо!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_308",
+      "word": "Fan photo contests prizes annual best shot competitions entered.",
+      "translation": "Фанатские фотоконкурсы с призами — участвуйте ежегодно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_309",
+      "word": "Track invasion post-race fences climbed celebrations chaotic joyous historic.",
+      "translation": "Исторические выбегания на трассу после финиша — радостный хаос!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_310",
+      "word": "Security escalation crowd control lessons learned incidents reviews.",
+      "translation": "Инциденты с толпой учат организаторов безопасности!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_311",
+      "word": "Family grandkid first race grandfather tradition third generation attending.",
+      "translation": "Третье поколение семьи на трибунах — традиция!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_312",
+      "word": "Hearing protection infant headphones tiny sizes sold nursery stands.",
+      "translation": "Малышам продают мини-наушники прямо на трибунах!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_313",
+      "word": "Stroller parking designated areas accessibility ramps families accommodated.",
+      "translation": "Коляски паркуют в отведённых местах — семьям удобно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_314",
+      "word": "Kids zone driving simulators junior karting taster sessions inspire.",
+      "translation": "Детские зоны: симуляторы и картинг вдохновляют будущее!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_315",
+      "word": "School trip educational STEM exhibits physics racing demonstrations.",
+      "translation": "Школьные экскурсии: физика гонок в STEM-зонах!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_316",
+      "word": "Career stand engineering universities recruitment future talent pipeline.",
+      "translation": "Стенды университетов ищут будущих инженеров!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_317",
+      "word": "Autograph queue etiquette items prepared patience rewarded smiles.",
+      "translation": "В очереди за автографом готовьте предметы заранее!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_318",
+      "word": "Personal item signed meaningful jersey inherited brother treasured.",
+      "translation": "Подписанный джерси брата — самая дорогая подпись!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_319",
+      "word": "Photo bomb celebrities candid backgrounds hilarious captures viral.",
+      "translation": "Знаменитости случайно попали в кадр — вирусный хохот!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_320",
+      "word": "Weather radar apps rain delays poncho ready gate waits.",
+      "translation": "Радар дождя наготове: задержки, дождевик, терпение!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_321",
+      "word": "Heat exhaustion signs hydration stations mapped locations noted.",
+      "translation": "Признаки теплового удара и точки воды на карте!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_322",
+      "word": "Sunscreen reapplication neck burns red flags literally sunburnt tourists.",
+      "translation": "Сгоревшие шеи туристов — красные флаги в прямом смысле!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_323",
+      "word": "Portable chairs lightweight collapsible general admission comfort wins.",
+      "translation": "Лёгкий раскладной стул — спасение общей зоны!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_324",
+      "word": "Blanket seating grass embankments picnics spread leisurely afternoons.",
+      "translation": "Пледы на травяных склонах — неторопливые пикники!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_325",
+      "word": "Cooler boxes size restrictions security enforced limits checked.",
+      "translation": "Размеры сумок-холодильников проверяют на входе!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_326",
+      "word": "Snacks smuggling sandwiches declared confiscated humorous surrender moments.",
+      "translation": "Бутерброды конфискуют с юмором — сдавайтесь добровольно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_327",
+      "word": "Local delicacies regional specialties food courts explore cultures.",
+      "translation": "Фудкорты знакомят с региональной кухней!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_328",
+      "word": "Beer garden overflow standing room cheers goals races parallel screens.",
+      "translation": "Пивной сад: параллельные экраны, тосты за каждый обгон!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_329",
+      "word": "Designated driver rotations group road trips responsibility shared.",
+      "translation": "Ротация водителей в компании — общая ответственность!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_330",
+      "word": "Public transport passes weekend unlimited rides value calculated.",
+      "translation": "Проездной на уик-энд окупается легко!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_331",
+      "word": "Bicycle racks cycling circuits eco-friendly arrival trend growing.",
+      "translation": "Велосипеды у трасс — эко-тренд растёт!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_332",
+      "word": "Walking tours circuit on foot insider perspectives guided historians.",
+      "translation": "Пешая экскурсия по трассе с историком — взгляд инсайдера!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_333",
+      "word": "Historical plaques corners named legends memorialised sites visited pilgrimage.",
+      "translation": "Таблички легенд на поворотах — места паломничества!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_334",
+      "word": "Fatalities memorials respect quiet reflection corners chicanes renamed honour.",
+      "translation": "Мемориалы павшим — тихая скорбь и переименования в честь!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_335",
+      "word": "Safety improvements legacy innovations tragedy driven progress acknowledged sombrely.",
+      "translation": "Прогресс безопасности рождён трагедиями — помним серьёзно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_336",
+      "word": "Documentary screening evenings driver stories emotional arcs relatable humanity.",
+      "translation": "Вечерние показы документалок: человеческие истории гонщиков!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_337",
+      "word": "Book signings author Q&A sessions technical deep dives fascinated audiences.",
+      "translation": "Автограф-сессии авторов технических книг — вопросы до ночи!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_338",
+      "word": "Podium replays giant screen confetti slow motion goosebumps relived.",
+      "translation": "Повтор подиума на большом экране — мурашки заново!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_339",
+      "word": "Fireworks display closing ceremony colours sky celebration finale memorable.",
+      "translation": "Салют закрытия сезона раскрасил небо — финал запомнится!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_340",
+      "word": "Season recap montage years highlights emotional rollercoaster edited beautifully.",
+      "translation": "Годовой монтаж сезона — эмоциональные американские горки!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_341",
+      "word": "Awards gala black tie champions suits dresses glamour spotlight earned.",
+      "translation": "Гала в смокингах: чемпионы в лучах славы заслуженно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_342",
+      "word": "Hall of fame inductions careers celebrated speeches tears laughter.",
+      "translation": "Зал славы: речи со слезами и смехом!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_343",
+      "word": "Legends interviews wisdom shared humility grace aging racers reflective.",
+      "translation": "Интервью ветеранов: мудрость, скромность, рефлексия!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_344",
+      "word": "Classic car parades evolution decades engines roaring nostalgia waves.",
+      "translation": "Парад классики: десятилетия моторов волнами ностальгии!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_345",
+      "word": "Restoration projects barn finds resurrection stories mechanics passion documented.",
+      "translation": "Находки в сараях и воскрешение машин — документальные страсти!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_346",
+      "word": "Model building hobby detailed miniature replicas craftsmanship patience tested.",
+      "translation": "Сборка масштабных моделей — тест терпения и мастерства!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_347",
+      "word": "Slot car racing childhood roots many fans origins stories shared.",
+      "translation": "У многих путь начался с трассы для слот-картов!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_348",
+      "word": "Board games strategy simulations rainy camping nights entertained groups.",
+      "translation": "Настолки-симуляторы скрасили дождливые кемпинговые вечера!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_349",
+      "word": "Fantasy draft nights arguments statistics passionate negotiations friendships tested.",
+      "translation": "Драфт фэнтези: жаркие споры о статистике проверяют дружбу!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_350",
+      "word": "Group costumes themed sections coordinated outfits spectacle added.",
+      "translation": "Костюмированные сектора болельщиков — дополнительное шоу!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_351",
+      "word": "Chants songs original lyrics tributes creative audio identity sections.",
+      "translation": "Авторские кричалки создают аудио-идентичность секторов!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_352",
+      "word": "Drum bands samba rhythms Brazilian sections carnival energy imported.",
+      "translation": "Самба бразильских секторов привозит карнавальную энергию!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_353",
+      "word": "Smoke flares coloured sections visual identity safety debates ongoing.",
+      "translation": "Цветные дымы — визуальный код секторов и спор о безопасности!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_354",
+      "word": "Banner drops timed for TV cameras cheekily.",
+      "translation": "Баннеры сбрасывают хитро — под камеры ТВ!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_355",
+      "word": "Social media walls fan messages scrolling displays intermissions filled.",
+      "translation": "Стены фан-сообщений заполняют антракты!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_356",
+      "word": "Charity auctions paddock experiences generosity fans hearts big wallets stretched.",
+      "translation": "Благотворительные аукционы: сердца щедры, кошельки тянутся!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_357",
+      "word": "Hospitality networking business deals paddock club informal corridors power.",
+      "translation": "Деловые встречи в паддок-клубе — неформальные коридоры власти!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_358",
+      "word": "Corporate guests champagne flows relationships cultivated seasons long games.",
+      "translation": "Корпоративный нетворкинг — долгая игра отношений!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_359",
+      "word": "Motorsport industry jobs fair career changers welcomed diverse backgrounds valued.",
+      "translation": "Ярмарка вакансий автоспорта приветствует людей из других индустрий!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_360",
+      "word": "Volunteer marshals recruited announcements community service pride uniforms.",
+      "translation": "Набор маршалов-волонтёров — гордость и форма!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_361",
+      "word": "Training academies licensing paths officials progression structured pathways published.",
+      "translation": "Академии публикуют пути роста для официальных лиц!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_362",
+      "word": "Females motorsport representation growing initiatives diversity programmes expanding opportunities.",
+      "translation": "Инициативы разнообразия открывают двери женщинам в автоспорте!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_363",
+      "word": "STEM outreach school programs karting tasters inspiration seeds planted futures changed.",
+      "translation": "STEM-программы сеют семена — судьбы меняются!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_364",
+      "word": "Legacy projects host cities infrastructure improved transport upgraded permanent benefits.",
+      "translation": "Города-хозяева получают вечные инфраструктурные бонусы!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_365",
+      "word": "Economic impact studies tourism surges measurable local business booms weekends.",
+      "translation": "Экономисты меряют гоночные всплески туризма цифрами!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_366",
+      "word": "Environmental sustainability hybrid eras electric futures transitions debated passionately.",
+      "translation": "Переход к электрическому будущему обсуждают страстно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_367",
+      "word": "Noise complaints residents circuit relations community engagement programmes responsive.",
+      "translation": "Жалобы соседей на шум решаются программами диалога!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_368",
+      "word": "Green credentials recycling waste management carbon offsets initiatives publicised transparently.",
+      "translation": "Экология: переработка и компенсации — публично и прозрачно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_369",
+      "word": "Ticket queue virtual waiting room countdown screen shared screenshots.",
+      "translation": "Скриншоты виртуальной очереди за билетами — общий мем!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_370",
+      "word": "Presale passwords fan club newsletters exclusive windows early access.",
+      "translation": "Пресейл для фан-клубов — раннее окно покупки!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_371",
+      "word": "Dynamic pricing algorithms surge costs demand spikes frustration vented.",
+      "translation": "Динамические цены взлетают от спроса — фанаты возмущаются!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_372",
+      "word": "Payment plan instalments season tickets affordability schemes welcomed.",
+      "translation": "Рассрочка на абонементы сделала их доступнее!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_373",
+      "word": "Hospitality upgrades surprise gifts partners generous moments memorable.",
+      "translation": "Неожиданный апгрейд в госпакет — запоминается надолго!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_374",
+      "word": "Paddock club dress code smart casual guidelines followed respectfully.",
+      "translation": "В паддок-клубе просят smart casual — соблюдаем!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_375",
+      "word": "Champagne brunch pit window viewing balcony privileged vantage.",
+      "translation": "Бранш с шампанским на балконе над пит-лейном!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_376",
+      "word": "Meet greet moments personal conversations remembered lifetime stories retold.",
+      "translation": "Личные разговоры с кумирами пересказывают годами!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_377",
+      "word": "Garage tours engine bays open hoods mechanics explaining patiently.",
+      "translation": "В гараже механики терпеливо всё объясняют!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_378",
+      "word": "Technical talks engineers whiteboard explanations aerodynamics simplified fascinated audiences.",
+      "translation": "Инженеры на вайтборде упрощают аэродинамику — зал заворожён!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_379",
+      "word": "Wind tunnel demonstrations smoke streams wings visual poetry physics.",
+      "translation": "Дым в аэродинамической трубе — физика как поэзия!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_380",
+      "word": "Simulator rides professional rigs motion platforms jaws dropped reactions filmed.",
+      "translation": "Реакции гостей на моушн-риг снимают на видео — восторг!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_381",
+      "word": "Racing school taster courses licence paths beginners hooked instantly.",
+      "translation": "Вводные курсы гоночной школы цепляют новичков мгновенно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_382",
+      "word": "Gift experiences driving supercars birthday surprises unforgettable adrenaline memories.",
+      "translation": "Подарок-суперкар на день рождения — незабываемый адреналин!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_383",
+      "word": "Corporate track days team building competitive colleagues revealed characters.",
+      "translation": "Корпоративы на треке вскрывают характеры коллег!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_384",
+      "word": "Championship decider finale drama storylines scripted writers envy.",
+      "translation": "Финал чемпионата — сценаристы позавидовали бы драме!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_385",
+      "word": "Title rivalry documentaries produced seasons later retrospectives beloved.",
+      "translation": "Ретроспективы великих противостояний смотрят годами!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_386",
+      "word": "Documentary streaming series behind scenes access unprecedented intimate.",
+      "translation": "Стриминги дали беспрецедентный доступ в закулисье!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_387",
+      "word": "Drive to survive effect fandom explosion new demographics attracted.",
+      "translation": "«Эффект Drive to Survive» привёл новых фанатов!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_388",
+      "word": "Casual converts hardcore enthusiasts pipeline community welcoming gates opened.",
+      "translation": "Из казуалов вырастают хардкорщики — двери сообщества открыты!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_389",
+      "word": "Gate policies backpack sizes security scanners queues efficient organised.",
+      "translation": "Рамки и лимиты сумок — вход организован эффективно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_390",
+      "word": "Prohibited items list published confiscated bin overflowing warnings ignored consequences.",
+      "translation": "Список запретов опубликован — нарушители плачут у мусорки!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_391",
+      "word": "Re-entry hand stamps wristbands in-out privileges convenient breaks.",
+      "translation": "Штампы на руке позволяют выходить и возвращаться!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_392",
+      "word": "Food allergies dietary requirements stands labelled vegan gluten-free options inclusive.",
+      "translation": "Фудкорты маркируют веган и безглютен — инклюзивно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_393",
+      "word": "Vegetarian options improved dramatically years complaints addressed menus evolved.",
+      "translation": "Вегетарианское меню за годы стало сильно лучше!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_394",
+      "word": "Coffee quality morning essential barista stands appreciated caffeine addicts grateful.",
+      "translation": "Утренний бариста на трассе — кофеиновые наркоманы благодарны!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_395",
+      "word": "Craft beer local breweries featured regional flavours celebrated pride.",
+      "translation": "Местные крафтовые пивоварни гордятся региональными вкусами!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_396",
+      "word": "Wine tasting regions circuits France Italy Spain terroir tourism blended.",
+      "translation": "Европейские трассы совмещают винный туризм и гонки!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_397",
+      "word": "Local cheese charcuterie boards gourmet picnic elevated experience luxury.",
+      "translation": "Сырные тарелки на пикнике — роскошь гурмана!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_398",
+      "word": "Restaurant reservations post-race dinners celebrations towns buzzing evenings.",
+      "translation": "Вечером город гудит: рестораны полны празднующих!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_399",
+      "word": "Taxi surge pricing late nights walking distance hotels chosen strategically.",
+      "translation": "Отель в шаговой доступности спасает от ночных тарифов!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_400",
+      "word": "Hotel breakfast early starts fuel days long walks tracks.",
+      "translation": "Ранний завтрак заряжает длинный день на трассе!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_401",
+      "word": "Gym hotel morning runs fitness routines travel maintained discipline.",
+      "translation": "Даже в поездке — утренняя пробежка, дисциплина!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_402",
+      "word": "Pool recovery afternoons sunburnt shoulders aching legs relief floating.",
+      "translation": "Бассейн после дня ходьбы — блаженство для ног!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_403",
+      "word": "Massage parlour appointments sports massage booked recovery invested wisely.",
+      "translation": "Спортивный массаж после трассы — мудрая инвестиция!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_404",
+      "word": "Souvenir shopping last-day bargains merch discounted clearance hunts successful.",
+      "translation": "В последний день мерч со скидками — удачная охота!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_405",
+      "word": "Postcard writing tradition family updates handwritten personal touches valued.",
+      "translation": "Открытки семье рукой написанные — ценим личное!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_406",
+      "word": "Photo albums printed annual yearbooks racing adventures documented beautifully.",
+      "translation": "Ежегодные фотокниги гоночных приключений печатаются красиво!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_407",
+      "word": "Video montages edited music synced emotional recaps shared groups chats.",
+      "translation": "Видео-нарезки под музыку летят в групповые чаты!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_408",
+      "word": "Podium predictions leagues friends competitive banter stakes lunches loser buys.",
+      "translation": "Проигравший фэнтези покупает обед — дружеские ставки!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_409",
+      "word": "Rival friendships respectful banter boundaries kept healthy competition spirit.",
+      "translation": "Здоровое соперничество держится в рамках уважения!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_410",
+      "word": "International fan zones embassies cultural exchanges flags friendly everywhere.",
+      "translation": "Международные фан-зоны: флаги и культурный обмен повсюду!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_411",
+      "word": "Language phrase books local greetings learned efforts appreciated locals warmed.",
+      "translation": "Пара фраз на местном — и жители теплеют!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_412",
+      "word": "Cultural sensitivity respect traditions customs researched trips enriched deeper.",
+      "translation": "Уважение к культуре делает поездку глубже!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_413",
+      "word": "Travel blogs detailed guides circuit weekends itineraries shared generously community.",
+      "translation": "Тревел-блоги щедро делятся маршрутами гоночных уик-эндов!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_414",
+      "word": "YouTube vlogs first-timer experiences mistakes lessons learned crowdsourced wisdom.",
+      "translation": "Влоги новичков: чужие ошибки — общая мудрость!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_415",
+      "word": "Instagram spots photogenic corners mapped hashtags locations tagged geotagged.",
+      "translation": "Инстаграмные точки трасс отмечены геотегами!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_416",
+      "word": "TikTok short-form clips viral moments seconds attention captured creatively.",
+      "translation": "ТикТок-нарезки ловят вирусные секунды творчески!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_417",
+      "word": "Twitter live-tweeting races commentary threads engagement followers gained.",
+      "translation": "Лайв-твиттинг гонки набирает подписчиков!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_418",
+      "word": "Discord communities voice channels race watch parties global timezones united.",
+      "translation": "Discord-ватч-пати объединяет часовые пояса голосом!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_419",
+      "word": "Telegram channels breaking news faster official sources sometimes scoops.",
+      "translation": "Телеграм-каналы иногда быстрее официальных источников!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_420",
+      "word": "Newsletter subscriptions weekly digests curated content inboxes welcomed.",
+      "translation": "Еженедельные дайджесты в почте — приятная подборка!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_421",
+      "word": "Podcast guest appearances fan voices community members invited shows.",
+      "translation": "Фанатов зовут гостями в подкасты — голос сообщества!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_422",
+      "word": "Blog writing passion projects expertise shared knowledge bases built.",
+      "translation": "Блоги-страсть строят базы знаний сообщества!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_423",
+      "word": "Wiki pages technical regulations explained crowd-sourced documentation maintained updated.",
+      "translation": "Вики по регламентам поддерживается толпой энтузиастов!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_424",
+      "word": "Translation volunteers multilingual subtitles international accessibility bridges language barriers.",
+      "translation": "Переводчики-волонтёры убирают языковые барьеры субтитрами!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_425",
+      "word": "Accessibility advocates wheelchair user experiences feedback venues improved ramps views.",
+      "translation": "Отзывы колясочников улучшили смотровые площадки!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_426",
+      "word": "Guide dog accommodations service animals welcome policies inclusive venues proud.",
+      "translation": "Поводыри приветствуются — инклюзивная политика площадок!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_427",
+      "word": "Elderly fans lifetime memories grandstand seats decades loyalty honoured recognitions.",
+      "translation": "Ветеранов трибун с десятилетиями стажа публично чтут!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_428",
+      "word": "Multi-generational passes grandfather father son same seats dynasty fandoms.",
+      "translation": "Одни места три поколения — династия фанатов!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_429",
+      "word": "Memorial seats plaques devoted fans passed away remembered touching tributes.",
+      "translation": "Таблички преданным болельщикам на местах — трогательные памятники!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_430",
+      "word": "Season review books coffee table publications photography stunning collected libraries.",
+      "translation": "Кофейные книги сезона с потрясающими фото — в библиотеку!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_431",
+      "word": "Calendar wall art twelve months iconic shots daily inspiration doses.",
+      "translation": "Настенный календарь с иконичными кадрами — ежедневная доза вдохновения!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_432",
+      "word": "Phone cases laptop stickers subtle fandom signals community recognition nods strangers.",
+      "translation": "Стикеры на ноутбуке — незнакомцы узнают своих кивком!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_433",
+      "word": "Conversation starters petrol pump encounters gas stations random connections stories exchanged.",
+      "translation": "Даже на заправке разговор начинается с моторов!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_434",
+      "word": "Universal language speed transcends borders cultures generations uniting passion shared globally.",
+      "translation": "Язык скорости объединяет границы, культуры и поколения!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_435",
+      "word": "Grandstand roofs shade afternoon sun positions prized.",
+      "translation": "Трибуны с крышей ценятся в жаркий полдень!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_436",
+      "word": "Big screen sightlines checked before booking seats confirmed.",
+      "translation": "Перед бронированием проверяют видимость большого экрана!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_437",
+      "word": "Pit wall fence gaps camera lenses poked through carefully etiquette.",
+      "translation": "Объективы просовывают в сетку пит-уолла аккуратно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_438",
+      "word": "Radio scanners programmed frequencies teams listed forums shared generously.",
+      "translation": "Частоты команд для сканеров щедро делят на форумах!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_439",
+      "word": "Team radio banter personalities revealed unguarded moments beloved fans.",
+      "translation": "Радио-шутки команд раскрывают характеры — фанаты обожают!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_440",
+      "word": "Engineer voices recognised celebrity status cult followings developed.",
+      "translation": "Голоса инженеров стали культовыми!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_441",
+      "word": "Strategy calls second-guessed armchair strategists debates raging online.",
+      "translation": "Диванные стратеги бесконечно спорят о вызовах команды!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_442",
+      "word": "Tyre choice hindsight wisdom everyone genius afterwards jokes self-deprecating.",
+      "translation": "После гонки все гении: «я же говорил про резину!»",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_443",
+      "word": "Weather app radar screenshots shared countdown rain front arrivals dramatic.",
+      "translation": "Скрины радара дождя создают драму ожидания!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_444",
+      "word": "Umbrella etiquette blocking views lowered politely requested glares exchanged.",
+      "translation": "Зонты, закрывающие обзор, просят опустить взглядами!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_445",
+      "word": " poncho rustle symphony quiet moments comedic soundtrack races drizzle.",
+      "translation": "Шорох дождевиков — комичный саундтрек гонки под моросью!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_446",
+      "word": "Sun cream sharing strangers kindness community spirit moments warm.",
+      "translation": "Незнакомец делится кремом от солнца — дух сообщества!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_447",
+      "word": "Water misting fans tent cooling stations queues blissful relief queues.",
+      "translation": "Водяные завесы от жары — блаженные очереди облегчения!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_448",
+      "word": "Free earplug dispensers families grateful parents especially toddlers sensitive ears.",
+      "translation": "Родителям малышей бесплатно выдают беруши — спасение!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_449",
+      "word": "Stroller friendly routes ramps elevators mapped apps accessibility features praised.",
+      "translation": "Маршруты для колясок в приложениях хвалят!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_450",
+      "word": "Nursing rooms privacy mothers infants facilities modern venues provided thoughtfully.",
+      "translation": "Комнаты матери и ребёнка продуманы современно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_451",
+      "word": "Prayer reflection quiet spaces multifaith respect diversity acknowledged gracefully.",
+      "translation": "Тихие комнаты разных конфессий — уважение к разнообразию!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_452",
+      "word": "Lost property reunions wallets passports phones miracle stories shared relieved owners.",
+      "translation": "Истории возврата паспортов и кошельков — чудеса бюро находок!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_453",
+      "word": "Announcement systems multilingual lost children calm procedures reassuring parents panicking.",
+      "translation": "Многоязычные объявления о потерявшихся детях успокаивают родителей!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_454",
+      "word": "Meeting point landmarks statues gates designated confused crowds navigational anchors.",
+      "translation": "Статуи и ворота — навигационные якоря для толпы!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_455",
+      "word": "Phone charging stations queues entertainment scrolling feeds waiting games played.",
+      "translation": "Очереди к зарядкам скрашиваются лентой соцсетей!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_456",
+      "word": "Power bank sharing kindness strangers batteries dying emergencies traded favors.",
+      "translation": "Пауэрбанк по-соседски: выручают умирающие батареи!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_457",
+      "word": "Cashless wristband top-ups lunchtime rush avoided morning strategies shared tips.",
+      "translation": "Браслеты пополняют утром, избегая обеденной давки!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_458",
+      "word": "Receipt tracking spending budgets weekend totals shock realisations humorous groans.",
+      "translation": "Итоги трат уик-энда — смешные стоны над чеками!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_459",
+      "word": "Group cost-splitting apps expenses divided fairness arguments jokingly resolved rock-paper-scissors.",
+      "translation": "Расходы делят приложениями, споры — камень-ножницы-бумага!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_460",
+      "word": "Designated meeting times battery dead scenarios planned contingencies executed smoothly.",
+      "translation": "План «если телефон сдох» сработал безупречно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_461",
+      "word": "Photo tag requests consent asked respectfully privacy boundaries respected generationally shifting norms.",
+      "translation": "Спрашивают разрешение перед публикацией фото — нормы меняются!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_462",
+      "word": "Drone shows night sky displays choreographed light patterns spectacular finales introduced.",
+      "translation": "Дрон-шоу светящимися паттернами завершают вечера!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_463",
+      "word": "Firework regulations noise complaints balanced celebration traditions negotiated councils.",
+      "translation": "Салюты согласовывают с жителями через советы!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_464",
+      "word": "Public holidays race dates aligned celebrations extended cities party weekends.",
+      "translation": "Гонки на праздники — город гуляет дольше!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_465",
+      "word": "Economic boost hotels restaurants bars full weekends measurable gratitude local businesses.",
+      "translation": "Локальный бизнес благодарит гоночные уик-энды кассой!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_466",
+      "word": "Volunteer appreciation events certificates community service hours recognised ceremonies held.",
+      "translation": "Церемонии благодарят волонтёров за часы службы!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_467",
+      "word": "Marshalling careers started spectator curiosity training pathways discovered life changes directions.",
+      "translation": "Карьера маршала началась с любопытства трибун!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_468",
+      "word": "Officials recruitment drives shortage appeals responded community stepped up admirable.",
+      "translation": "Призыв волонтёров — сообщество откликнулось восхитительно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_469",
+      "word": "Motorsport museum volunteer guides retired mechanics stories firsthand history alive.",
+      "translation": "Отставные механики водят экскурсии — история жива!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_470",
+      "word": "Archive photo exhibitions decades comparisons then-now transformations poignant nostalgic journeys.",
+      "translation": "Фото-экспозиции «тогда/сейчас» — пронзительная ностальгия!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_471",
+      "word": "Time capsule burials anniversary celebrations future generations messages sealed hopes.",
+      "translation": "Капсулы времени к юбилеям: послания будущим поколениям!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_472",
+      "word": "Anniversary legends reunions podium recreations photographs emotional full-circle moments tears.",
+      "translation": "Воссоздание легендарных подиумов — эмоции замкнули круг!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_473",
+      "word": "Championship winning car display town square crowds selfies permanent smile memories.",
+      "translation": "Чемпионский болид на площади — селфи и улыбки без конца!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_474",
+      "word": "Open garage sessions charity fundraisers donations workshops tours behind scenes access.",
+      "translation": "Благотворительные открытые гаражи — доступ за донат!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_475",
+      "word": "School visits drivers inspirational talks dreams fuelled ambitions sparked children eyes wide.",
+      "translation": "Визиты пилотов в школы зажигают детские мечты!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_476",
+      "word": "Hospital visits children wards superheroes helmets gifts smiles healing moments powerful.",
+      "translation": "Гонщики в детских больницах — супергерои со шлемами!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_477",
+      "word": "Community karting events scholarships disadvantaged youth opportunities racing dreams funded collectively.",
+      "translation": "Сообщество оплачивает картинг талантливым ребятам из малообеспеченных семей!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_478",
+      "word": "Diversity inclusion programmes women engineers racers representation role models visibility matters.",
+      "translation": "Женщины в паддоке как ролевые модели — видимость важна!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_479",
+      "word": "LGBTQ inclusive fan groups safe spaces pride flags circuits welcoming progress celebrated.",
+      "translation": "Флаги гордости на трибунах — инклюзивный прогресс!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_480",
+      "word": "Plastic-free zones and green transport discounts introduced.",
+      "translation": "Появились безпластиковые зоны и скидки за эко-транспорт!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_481",
+      "word": "Environmental responsibility is now openly celebrated.",
+      "translation": "Экологическая ответственность теперь открыто поощряется!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_482",
+      "word": "Carbon offset programs travel emissions calculated contributions optional encouraged transparency reports published.",
+      "translation": "Компенсация углеродного следа поездок — отчёты открыты!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_483",
+      "word": "Solar panels circuit rooftops renewable energy powering facilities proudly advertised sustainability leadership.",
+      "translation": "Солнечные панели питают трассу — лидерство в устойчивости!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_484",
+      "word": "Electric vehicle test drives sponsor activations silent torque conversions converting petrolheads curious.",
+      "translation": "Тест-драйвы электрокаров обращают бензофилов в любопытство!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_485",
+      "word": "Future generations inherit sport evolved greener safer faster legacies stewarded responsibly.",
+      "translation": "Будущие поколения получат спорт зеленее, безопаснее, быстрее!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_486",
+      "word": "Grandstand ticket upgrade booth half-time discounts asked.",
+      "translation": "На стойке апгрейдов спрашивают скидки в перерыве!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_487",
+      "word": "Fan zone autograph legends queue hours worth every minute.",
+      "translation": "Очередь на автографы легендам стоит каждого часа!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_488",
+      "word": "Podium ceremony confetti storm photographs iconic framed.",
+      "translation": "Конфетти на подиуме — кадры вставили в раму!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_489",
+      "word": "Track tour bus laps guided commentary insider stories.",
+      "translation": "Автобусный тур по трассе с инсайдерскими байками!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_490",
+      "word": "Merchandise bundle deals cap shirt lanyard saved ten.",
+      "translation": "Набор мерча: кепка, футболка, лента — экономия десять!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_491",
+      "word": "Team merchandise colours worn proudly tribal loyalty displayed.",
+      "translation": "Цвета команды носят гордо — племенная верность!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_492",
+      "word": "Camera strap padded neck long days photography comfort.",
+      "translation": "Мягкий ремень фотокамеры спасает шею в длинные дни!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_493",
+      "word": "Spare batteries memory cards checklist photographed before leaving hotel.",
+      "translation": "Чек-лист батареек и карт сфотографирован перед выходом!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_494",
+      "word": "Sunrise track walk misty atmosphere magical empty grandstands.",
+      "translation": "Рассветная трасса в тумане — магия пустых трибун!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_495",
+      "word": "Volunteer marshals waved thanks appreciation acknowledged smiles exchanged.",
+      "translation": "Маршалам машут спасибо — обмен улыбками!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_496",
+      "word": "Local fan club chapter meetings watch parties community built.",
+      "translation": "Фан-клуб собирается на вотч-пати — сообщество построено!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_497",
+      "word": "Charity auction signed steering wheel funds junior scholarships.",
+      "translation": "Подписанный рулёнок с аукциона оплатил юниорскую стипендию!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_498",
+      "word": "Weather app radar rain cell approaching ponchos deployed synchronously.",
+      "translation": "Радар показал клетку дождя — дождевики надеты синхронно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_motorsportspectator_499",
+      "word": "Exit traffic avoided late lunch downtown strategy perfected.",
+      "translation": "Пробки обошли поздним обедом в городе — стратегия отточена!",
       "language": "en"
     }
   ]
