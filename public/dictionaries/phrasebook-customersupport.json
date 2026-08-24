@@ -1,0 +1,637 @@
+{
+  "id": "phrasebook-customersupport",
+  "name": "Customer Support",
+  "description": "Фразы клиентской поддержки: тикеты, SLA, эскалации, формулы эмпатии, сложные разговоры.",
+  "entries": [
+    {
+      "id": "pbq_customersupport_0",
+      "word": "Thank you for reaching out, I will help with this.",
+      "translation": "Спасибо за обращение, я помогу с этим.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_1",
+      "word": "I understand how frustrating this must feel.",
+      "translation": "Понимаю, как это должно раздражать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_2",
+      "word": "Let me look into that right away.",
+      "translation": "Сейчас разберусь с этим.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_3",
+      "word": "Could you share your account email please?",
+      "translation": "Уточните, пожалуйста, почту вашего аккаунта?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_4",
+      "word": "Could you describe what happened step by step?",
+      "translation": "Опишите пошагово, что произошло?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_5",
+      "word": "Which browser and device are you using?",
+      "translation": "Какой у вас браузер и устройство?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_6",
+      "word": "A screenshot would help enormously.",
+      "translation": "Скриншот очень бы помог.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_7",
+      "word": "Thank you, those details narrow it down.",
+      "translation": "Спасибо, эти детали сужают поиск.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_8",
+      "word": "I can see the issue on our side.",
+      "translation": "Я вижу проблему на нашей стороне.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_9",
+      "word": "This looks like a bug, I am escalating it.",
+      "translation": "Это похоже на баг, я передаю его выше.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_10",
+      "word": "Our team is investigating as top priority.",
+      "translation": "Наша команда расследует это в высшем приоритете.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_11",
+      "word": "I will update you within the hour.",
+      "translation": "Я напишу вам в течение часа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_12",
+      "word": "Thanks for your patience while we fix this.",
+      "translation": "Спасибо за терпение, пока мы это чиним.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_13",
+      "word": "The fix is deployed, could you verify?",
+      "translation": "Исправление выпущено — проверьте, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_14",
+      "word": "Glad that resolved it for you!",
+      "translation": "Рад, что это вам помогло!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_15",
+      "word": "Is there anything else I can help with today?",
+      "translation": "Могу ли помочь чем-то ещё сегодня?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_16",
+      "word": "Your ticket reference number is below.",
+      "translation": "Номер вашего обращения ниже.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_17",
+      "word": "Response times currently run under two hours.",
+      "translation": "Время ответа сейчас меньше двух часов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_18",
+      "word": "Higher plans receive priority queue placement.",
+      "translation": "Старшие тарифы получают приоритетную очередь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_19",
+      "word": "Enterprise contracts include four hour response SLAs.",
+      "translation": "Корпоративные договоры включают SLA ответа в четыре часа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_20",
+      "word": "Business hours exclude weekends unless stated otherwise.",
+      "translation": "Рабочие часы не включают выходные, если не указано иное.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_21",
+      "word": "Critical incidents bypass the standard queue entirely.",
+      "translation": "Критические инциденты минуют стандартную очередь полностью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_22",
+      "word": "Please reply above this line to add information.",
+      "translation": "Отвечайте выше этой строки, чтобы добавить информацию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_23",
+      "word": "Multiple tickets merged into one thread for clarity.",
+      "translation": "Несколько обращений объединены в одну ветку для ясности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_24",
+      "word": "Duplicate tickets slow resolution for everyone.",
+      "translation": "Дубли обращений замедляют решение для всех.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_25",
+      "word": "Have you tried clearing cache and cookies?",
+      "translation": "Пробовали очистить кэш и куки?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_26",
+      "word": "Logging out and back in refreshes sessions.",
+      "translation": "Перевход в аккаунт обновляет сессию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_27",
+      "word": "Try an incognito window to rule out extensions.",
+      "translation": "Попробуйте режим инкогнито, чтобы исключить расширения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_28",
+      "word": "Update the app to the latest version first.",
+      "translation": "Сначала обновите приложение до последней версии.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_29",
+      "word": "That setting hides under advanced preferences.",
+      "translation": "Эта настройка прячется в расширенных предпочтениях.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_30",
+      "word": "I have enabled the feature on your account.",
+      "translation": "Я включила эту функцию на вашем аккаунте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_31",
+      "word": "Changes may take a few minutes to propagate.",
+      "translation": "Изменения применятся в течение нескольких минут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_32",
+      "word": "Your subscription renewed automatically on the first.",
+      "translation": "Ваша подписка автоматически продлилась первого числа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_33",
+      "word": "Refunds post within five business days.",
+      "translation": "Возврат придёт в течение пяти рабочих дней.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_34",
+      "word": "I have issued a full refund as a goodwill gesture.",
+      "translation": "Я оформила полный возврат в знак доброй воли.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_35",
+      "word": "Prorated refunds cover unused months only.",
+      "translation": "Пропорциональный возврат покрывает только неиспользованные месяцы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_36",
+      "word": "Cancellation takes effect at period end.",
+      "translation": "Отмена вступит в силу в конце периода.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_37",
+      "word": "You keep access until your billing date.",
+      "translation": "Доступ сохранится до вашей расчётной даты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_38",
+      "word": "Pause options exist if cancelling feels drastic.",
+      "translation": "Есть вариант паузы, если отмена кажется радикальной.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_39",
+      "word": "Downgrading keeps your data intact.",
+      "translation": "При переходе ниже ваши данные сохраняются.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_40",
+      "word": "Export your data anytime from settings.",
+      "translation": "Экспортируйте данные в любой момент из настроек.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_41",
+      "word": "Account deletion is permanent after thirty days.",
+      "translation": "Удаление аккаунта необратимо после тридцати дней.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_42",
+      "word": "I understand this outage affected your work.",
+      "translation": "Понимаю, что этот сбой повлиял на вашу работу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_43",
+      "word": "You are right, this should not have happened.",
+      "translation": "Вы правы, этого не должно было произойти.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_44",
+      "word": "I apologise for the inconvenience caused.",
+      "translation": "Приношу извинения за доставленные неудобства.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_45",
+      "word": "Empathy first, solutions second, defences never.",
+      "translation": "Сначала эмпатия, потом решения, защита — никогда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_46",
+      "word": "Angry customers usually want acknowledgment before fixes.",
+      "translation": "Разгневанные клиенты обычно хотят признания раньше исправлений.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_47",
+      "word": "Mirror their words to show genuine listening.",
+      "translation": "Отражайте их слова, показывая настоящее слушание.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_48",
+      "word": "Avoid blaming other departments in front of customers.",
+      "translation": "Не перекладывайте вину на отделы при клиентах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_49",
+      "word": "Never argue policy before explaining reasoning.",
+      "translation": "Никогда не спорьте о правилах до объяснения логики.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_50",
+      "word": "Offer alternatives when the answer is no.",
+      "translation": "Когда ответ нет — предлагайте альтернативы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_51",
+      "word": "Bad news travels best delivered early and honestly.",
+      "translation": "Плохие новости лучше всего сообщать рано и честно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_52",
+      "word": "Set expectations you can actually meet.",
+      "translation": "Обещайте только то, что реально исполните.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_53",
+      "word": "Underpromise slightly, overdeliver visibly.",
+      "translation": "Чуть занижайте обещания, заметно перевыполняйте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_54",
+      "word": "Escalations go up with full context attached.",
+      "translation": "Эскалации идут наверх с полным контекстом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_55",
+      "word": "Warm handovers introduce customers to the next agent.",
+      "translation": "Тёплая передача представляет клиента следующему агенту.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_56",
+      "word": "Nothing frustrates like repeating yourself thrice.",
+      "translation": "Нет ничего мучительнее троекратного пересказа своей истории.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_57",
+      "word": "Internal notes travel with tickets between shifts.",
+      "translation": "Внутренние заметки путешествуют с тикетами между сменами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_58",
+      "word": "Shift handover summaries prevent cold starts.",
+      "translation": "Саммари на смене предотвращают холодные старты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_59",
+      "word": "Macros personalise with names and specifics.",
+      "translation": "Макросы персонализируйте именами и деталями.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_60",
+      "word": "Template replies betray themselves through irrelevance.",
+      "translation": "Шаблонные ответы выдают себя нерелевантностью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_61",
+      "word": "Canned responses save seconds, custom ones save customers.",
+      "translation": "Заготовки экономят секунды, индивидуальность экономит клиентов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_62",
+      "word": "Tone reads colder in text than intended.",
+      "translation": "Тон в тексте читается холоднее задуманного.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_63",
+      "word": "Reread angry drafts tomorrow morning before sending.",
+      "translation": "Перечитывайте гневные черновики утром перед отправкой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_64",
+      "word": "Customer tone mirrors support tone within minutes.",
+      "translation": "Тон клиента зеркалит тон поддержки уже через минуты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_65",
+      "word": "Deescalate with acknowledgement, options and timelines.",
+      "translation": "Снижайте накал признанием, вариантами и сроками.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_66",
+      "word": "Abusive language earns warnings then disconnection.",
+      "translation": "За оскорбления — предупреждение, затем отключение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_67",
+      "word": "Support deserves safety policies as much as customers do.",
+      "translation": "Поддержка заслуживает защиты не меньше, чем клиенты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_68",
+      "word": "Knowledge base articles deflect repeat questions.",
+      "translation": "Статьи базы знаний отбивают повторяющиеся вопросы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_69",
+      "word": "Link relevant guides instead of retyping steps.",
+      "translation": "Ссылайтесь на гайды вместо переписывания шагов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_70",
+      "word": "Every solved ticket seeds a potential article.",
+      "translation": "Каждое решённое обращение — потенциальная статья.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_71",
+      "word": "Deflection rates measure self service success.",
+      "translation": "Показатель самообслуживания меряет успех базы знаний.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_72",
+      "word": "Chatbots hand off gracefully when confused.",
+      "translation": "Чатботы элегантно передают человеку при затруднении.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_73",
+      "word": "Bot loops enrage users more than queues do.",
+      "translation": "Зацикленный бот бесит сильнее очереди.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_74",
+      "word": "First contact resolution defines support excellence.",
+      "translation": "Решение с первого обращения определяет мастерство поддержки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_75",
+      "word": "Transfers count against first contact metrics fairly.",
+      "translation": "Переводы честно портят метрику первого контакта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_76",
+      "word": "Customer satisfaction surveys arrive after resolution.",
+      "translation": "Опросы удовлетворённости приходят после решения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_77",
+      "word": "Survey scores dip after outages regardless of handling.",
+      "translation": "Оценки проседают после сбоев независимо от обработки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_78",
+      "word": "Net promoter scores lag reality by quarters.",
+      "translation": "NPS отстаёт от реальности на кварталы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_79",
+      "word": "Quality assurance reviews sample conversations weekly.",
+      "translation": "Контроль качества разбирает выборку диалогов еженедельно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_80",
+      "word": "Coaching sessions turn QA findings into skills.",
+      "translation": "Коучинг превращает находки контроля в навыки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_81",
+      "word": "Scorecards weight empathy alongside accuracy.",
+      "translation": "Оценочные листы взвешивают эмпатию вместе с точностью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_82",
+      "word": "Side by side shadowing teaches faster than memos.",
+      "translation": "Совместная работа учит быстрее служебных записок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_83",
+      "word": "New agents nest with mentors for two weeks.",
+      "translation": "Новички работают в паре с наставниками две недели.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_84",
+      "word": "Product updates trigger macro refresh campaigns.",
+      "translation": "Обновления продукта запускают кампании обновления макросов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_85",
+      "word": "Release notes brief support before customers read them.",
+      "translation": "Заметки о релизах доходят до поддержки раньше клиентов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_86",
+      "word": "Known issues pages deflect ticket storms during incidents.",
+      "translation": "Страницы известных проблем гасят штормы обращений во время аварий.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_87",
+      "word": "Status page links belong in every outage reply.",
+      "translation": "Ссылка на статус-страницу обязательна в каждом ответе при сбое.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_88",
+      "word": "Proactive outreach apologises before customers notice.",
+      "translation": "Проактивная рассылка извиняется раньше, чем клиенты заметят.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_89",
+      "word": "Credit gestures acknowledge downtime beyond apologies.",
+      "translation": "Компенсации признают простой сильнее слов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_90",
+      "word": "VIP accounts flag priority handling automatically.",
+      "translation": "VIP-аккаунты автоматически помечаются для приоритетной обработки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_91",
+      "word": "Renewal risks surface through support sentiment early.",
+      "translation": "Риски оттока видны в тональности обращений заранее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_92",
+      "word": "Save offers require listening before discounts.",
+      "translation": "Удержание требует сначала слушать, потом скидывать цены.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_93",
+      "word": "Voice of customer programmes route insights to product.",
+      "translation": "Программы голоса клиента направляют инсайты продукту.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_94",
+      "word": "Tagging taxonomies turn chaos into searchable patterns.",
+      "translation": "Таксономия тегов превращает хаос в искомые закономерности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_95",
+      "word": "Weekly trend reports brief the whole company.",
+      "translation": "Еженедельные отчёты о трендах информируют всю компанию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_96",
+      "word": "Support sits closest to truth, invite them to planning.",
+      "translation": "Поддержка ближе всех к правде — зовите её на планирование.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_97",
+      "word": "Kindness scales poorly, so hire for it deliberately.",
+      "translation": "Доброта плохо масштабируется — наймите её специально.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_98",
+      "word": "Opening lines set conversation temperature instantly.",
+      "translation": "Первые фразы мгновенно задают температуру разговора.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_99",
+      "word": "Use their name once, not in every sentence.",
+      "translation": "Употребите имя один раз, а не в каждой фразе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_100",
+      "word": "Exclamation marks read friendly within moderation.",
+      "translation": "Восклицательные знаки читаются дружелюбно в меру.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_101",
+      "word": "All caps reads like shouting, avoid entirely.",
+      "translation": "Капс читается как крик — избегайте полностью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_102",
+      "word": "Emoji soften corrections when culture permits.",
+      "translation": "Эмодзи смягчают замечания, если культура позволяет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_103",
+      "word": "Follow ups confirm fixes actually held.",
+      "translation": "Повторные письма подтверждают, что исправление удержалось.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_customersupport_104",
+      "word": "Closing loops matters as much as opening them.",
+      "translation": "Закрывать круги так же важно, как открывать.",
+      "language": "en"
+    }
+  ]
+}

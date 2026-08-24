@@ -1,0 +1,655 @@
+{
+  "id": "phrasebook-productmanagement",
+  "name": "Product Management",
+  "description": "Фразы про продуктовый менеджмент: discovery, роадмап, метрики, приоритизация, работа со стейкхолдерами.",
+  "entries": [
+    {
+      "id": "pbq_productmanagement_0",
+      "word": "Fall in love with the problem, not the solution.",
+      "translation": "Влюбляйтесь в проблему, а не в решение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_1",
+      "word": "User interviews reveal what surveys never will.",
+      "translation": "Интервью с пользователями раскрывают то, чего не покажут опросы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_2",
+      "word": "Customers request features, they describe problems poorly.",
+      "translation": "Клиенты просят фичи, но плохо описывают проблемы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_3",
+      "word": "Five interviews surface most usability patterns.",
+      "translation": "Пять интервью выявляют большинство паттернов юзабилити.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_4",
+      "word": "Jobs to be done frames needs beyond demographics.",
+      "translation": "Джобы фреймят потребности шире демографии.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_5",
+      "word": "Personas without research remain fiction with faces.",
+      "translation": "Персоны без исследований — беллетристика с лицами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_6",
+      "word": "Journey maps expose emotional valleys worth fixing.",
+      "translation": "Карты путешествий вскрывают эмоциональные провалы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_7",
+      "word": "Pain sorting ranks problems by frequency and intensity.",
+      "translation": "Сортировка болей ранжирует проблемы по частоте и силе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_8",
+      "word": "Opportunity solution trees connect outcomes to experiments.",
+      "translation": "Деревья возможностей связывают исходы с экспериментами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_9",
+      "word": "Discovery runs continuously, not quarterly theatre.",
+      "translation": "Дискавери идёт непрерывно, а не квартальным спектаклем.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_10",
+      "word": "Prototypes test ideas before engineering spends months.",
+      "translation": "Прототипы проверяют идеи до месяцев разработки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_11",
+      "word": "Fake door tests measure demand without building anything.",
+      "translation": "Тесты фальшивых дверей меряют спрос без разработки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_12",
+      "word": "Wizard of oz prototypes fake automation manually.",
+      "translation": "Прототипы Волшебника страны Оз имитируют автоматизацию руками.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_13",
+      "word": "Concierge MVPs deliver service first, software later.",
+      "translation": "Консьерж-MVP сначала оказывает услугу людьми, потом кодом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_14",
+      "word": "Minimum viable products define viable carefully.",
+      "translation": "MVP требует внимательно определить слово «жизнеспособный».",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_15",
+      "word": "Ship the smallest thing that generates learning.",
+      "translation": "Выпускайте самое малое, что даёт знание.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_16",
+      "word": "Validated learning beats output every quarter.",
+      "translation": "Проверенное знание важнее объёма выпуска каждый квартал.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_17",
+      "word": "Pivot decisions need evidence, not boredom.",
+      "translation": "Решения о повороте требуют доказательств, а не скуки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_18",
+      "word": "Perseverance and stubbornness differ by data.",
+      "translation": "Упорство и упрямство различаются данными.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_19",
+      "word": "North star metrics guide without micromanaging teams.",
+      "translation": "Северная звезда направляет, не микроменяя команды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_20",
+      "word": "Vanity metrics flatter, actionable metrics inform.",
+      "translation": "Тщеславные метрики льстят, действенные информируют.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_21",
+      "word": "Activation measures first meaningful user success.",
+      "translation": "Активация меряет первый осмысленный успех пользователя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_22",
+      "word": "Retention curves flatten where value lives.",
+      "translation": "Кривые удержания выполаживаются там, где живёт ценность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_23",
+      "word": "Cohort analysis separates launches from trends.",
+      "translation": "Когортный анализ отличает запуски от трендов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_24",
+      "word": "Churn reasons hide behind exit survey politeness.",
+      "translation": "Причины оттока прячутся за вежливостью выходных опросов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_25",
+      "word": "Net revenue retention counts expansion against losses.",
+      "translation": "Чистое удержание выручки считает расширение против потерь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_26",
+      "word": "Lifetime value must exceed acquisition cost sustainably.",
+      "translation": "Пожизненная ценность должна устойчиво превышать стоимость привлечения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_27",
+      "word": "Payback periods shorter than twelve months calm boards.",
+      "translation": "Окупаемость короче двенадцати месяцев успокаивает советы директоров.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_28",
+      "word": "Funnel analysis locates the leaking step precisely.",
+      "translation": "Анализ воронки точно находит протекающий шаг.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_29",
+      "word": "Conversion optimisation starts with the biggest drop off.",
+      "translation": "Оптимизация конверсии начинается с наибольшего обрыва.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_30",
+      "word": "A A tests validate experiment infrastructure itself.",
+      "translation": "A/A тесты проверяют саму инфраструктуру экспериментов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_31",
+      "word": "Peeking at experiments invalidates significance quietly.",
+      "translation": "Подглядывание в эксперимент тихо убивает значимость.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_32",
+      "word": "Sample sizes precede excitement about results.",
+      "translation": "Размеры выборок предшествуют восторгам о результатах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_33",
+      "word": "Statistical significance says nothing about business impact.",
+      "translation": "Статистическая значимость ничего не говорит о бизнес-эффекте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_34",
+      "word": "Roadmaps communicate direction, not delivery dates.",
+      "translation": "Роадмапы передают направление, а не даты сдачи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_35",
+      "word": "Now next later beats quarter locked Gantt charts.",
+      "translation": "Формат сейчас-дальше-потом лучше прибитых к кварталу диаграмм.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_36",
+      "word": "Commitments shrink as horizons extend.",
+      "translation": "Обязательства сжимаются с ростом горизонта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_37",
+      "word": "Outcome roadmaps replace feature laundry lists.",
+      "translation": "Роадмапы исходов заменяют списки фич.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_38",
+      "word": "Prioritisation frameworks structure arguments, not decisions.",
+      "translation": "Фреймворки приоритизации структурируют спор, а не решение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_39",
+      "word": "RICE scores effort, reach, impact and confidence.",
+      "translation": "RICE оценивает охват, влияние, уверенность и трудозатраты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_40",
+      "word": "Everything is high priority means nothing is.",
+      "translation": "«Всё высокоприоритетно» значит «ничто не приоритетно».",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_41",
+      "word": "Saying no preserves focus better than saying yes slowly.",
+      "translation": "Умение отказывать бережёт фокус лучше медленных согласий.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_42",
+      "word": "Tradeoff conversations beat silent scope cuts.",
+      "translation": "Разговоры о компромиссах лучше молчаливой порезки объёма.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_43",
+      "word": "Scope creep enters through friendly hallway promises.",
+      "translation": "Расползание объёма входит через дружеские обещания в коридоре.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_44",
+      "word": "Stakeholder maps chart influence against interest.",
+      "translation": "Карты стейкхолдеров сверяют влияние с интересом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_45",
+      "word": "Executives want narratives backed by numbers.",
+      "translation": "Руководству нужны нарративы, подкреплённые цифрами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_46",
+      "word": "Sales promises haunt product backlogs forever.",
+      "translation": "Обещания продаж преследуют бэклог продукта вечно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_47",
+      "word": "Engineering estimates carry uncertainty worth respecting.",
+      "translation": "Оценки разработчиков несут неопределённость, которую стоит уважать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_48",
+      "word": "Story points estimate relative complexity, not hours.",
+      "translation": "Сторипоинты меряют относительную сложность, а не часы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_49",
+      "word": "Velocity compares teams about as well as diets compare people.",
+      "translation": "Скорость сравнивает команды примерно как диеты сравнивают людей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_50",
+      "word": "Sprint goals focus demos on outcomes.",
+      "translation": "Цели спринта направляют демо на результаты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_51",
+      "word": "Demos beat documents for alignment speed.",
+      "translation": "Демо выравнивают понимание быстрее документов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_52",
+      "word": "PRDs describe problems, constraints and success metrics.",
+      "translation": "PRD описывает проблемы, ограничения и метрики успеха.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_53",
+      "word": "User stories follow role, goal, benefit grammar.",
+      "translation": "Юзер-стори следуют грамматике роль-цель-выгода.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_54",
+      "word": "Acceptance criteria remove ambiguity before standups do.",
+      "translation": "Критерии приёмки убирают двусмысленность раньше стендапов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_55",
+      "word": "Definition of done guards quality consistently.",
+      "translation": "Определение готовности последовательно охраняет качество.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_56",
+      "word": "Technical debt compounds like unpaid interest.",
+      "translation": "Технический долг растёт как невыплаченные проценты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_57",
+      "word": "Reserve capacity for debt or pay compound later.",
+      "translation": "Резервируйте мощность под долг или платите сложный процент.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_58",
+      "word": "Platform work sells internally through developer happiness.",
+      "translation": "Платформенная работа продаётся внутри через счастье разработчиков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_59",
+      "word": "Backlogs rot faster than milk without grooming.",
+      "translation": "Бэклог прокисает быстрее молока без груминга.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_60",
+      "word": "Grooming keeps top ten items ready for pickup.",
+      "translation": "Груминг держит топ-десяток задач готовыми к работе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_61",
+      "word": "Dependencies between teams serialise roadmaps painfully.",
+      "translation": "Зависимости между командами болезненно сериализуют роадмапы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_62",
+      "word": "Launch plans coordinate marketing, support and engineering.",
+      "translation": "Планы запуска координируют маркетинг, поддержку и разработку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_63",
+      "word": "Soft launches catch fires before press does.",
+      "translation": "Мягкие запуски ловят пожары раньше прессы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_64",
+      "word": "Go to market timing matters as much as packaging.",
+      "translation": "Тайминг выхода на рынок важен не меньше упаковки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_65",
+      "word": "Positioning statements clarify who it serves and why.",
+      "translation": "Позиционирование поясняет, кому и зачем это нужно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_66",
+      "word": "Messaging house documents align every customer touchpoint.",
+      "translation": "Документы messaging house выравнивают все точки контакта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_67",
+      "word": "Competitive analysis informs strategy, never dictates it.",
+      "translation": "Конкурентный анализ информирует стратегию, но не диктует её.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_68",
+      "word": "Feature parity races lose to differentiated focus.",
+      "translation": "Гонки паритета проигрывают сфокусированным отличиям.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_69",
+      "word": "Pricing is a product decision wearing a finance costume.",
+      "translation": "Ценообразование — продуктовое решение в костюме финансов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_70",
+      "word": "Value based pricing charges outcomes, not hours.",
+      "translation": "Ценообразование от ценности берёт за результат, а не часы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_71",
+      "word": "Packaging tiers segment willingness to pay cleanly.",
+      "translation": "Тарифные пакеты чисто сегментируют готовность платить.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_72",
+      "word": "Freemium converts when free tier demonstrates premium value.",
+      "translation": "Фримиум конвертирует, когда бесплатный уровень показывает ценность премиума.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_73",
+      "word": "Trials convert better than freemium for complex products.",
+      "translation": "Триалы конвертируют лучше фримиума для сложных продуктов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_74",
+      "word": "Onboarding determines whether trials experience value.",
+      "translation": "Онбординг определяет, почувствуют ли триальные пользователи ценность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_75",
+      "word": "Time to first value predicts conversion reliably.",
+      "translation": "Время до первой ценности надёжно предсказывает конверсию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_76",
+      "word": "Empty states teach instead of apologising.",
+      "translation": "Пустые состояния учат, а не извиняются.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_77",
+      "word": "Qualitative explains why quantitative shows what.",
+      "translation": "Качественные данные объясняют почему, количественные показывают что.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_78",
+      "word": "Support tickets contain roadmap gold unmined.",
+      "translation": "Тикеты поддержки содержат неподнятое золото роадмапа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_79",
+      "word": "Sales calls reveal objections marketing never hears.",
+      "translation": "Звонки продаж раскрывают возражения, которых не слышит маркетинг.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_80",
+      "word": "Advisory councils flatter customers into honest feedback.",
+      "translation": "Консультативные советы льстят клиентам до честной обратной связи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_81",
+      "word": "Beta programs trade early access for tolerance.",
+      "translation": "Бета-программы меняют ранний доступ на терпение к багам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_82",
+      "word": "Champions programmes turn power users into advocates.",
+      "translation": "Программы чемпионов превращают активных пользователей в адвокатов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_83",
+      "word": "Deprecation notices deserve empathy and long runways.",
+      "translation": "Уведомления об устаревании заслуживают эмпатии и длинных сроков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_84",
+      "word": "Sunsetting features angers fewer users than surprise removals.",
+      "translation": "Планомерное отключение злит меньше, чем внезапное удаление.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_85",
+      "word": "Migration guides rescue power users during transitions.",
+      "translation": "Гайды по миграции спасают активных пользователей при переходах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_86",
+      "word": "Product sense grows from using competitors daily.",
+      "translation": "Продуктовое чутьё растёт от ежедневного пользования конкурентами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_87",
+      "word": "Dogfooding exposes friction founders stopped noticing.",
+      "translation": "Использование своего продукта вскрывает трение, которое перестали замечать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_88",
+      "word": "Strategy documents answer what we will not do.",
+      "translation": "Стратегия отвечает на вопрос, чего мы делать не будем.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_89",
+      "word": "Vision statements paint ten year destinations briefly.",
+      "translation": "Видение коротко рисует пункт назначения на десять лет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_90",
+      "word": "Mission drift begins with one innocent partnership.",
+      "translation": "Дрейф миссии начинается с одного невинного партнёрства.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_91",
+      "word": "Roadmap reviews align leadership monthly, not hourly.",
+      "translation": "Обзоры роадмапа выравнивают руководство ежемесячно, а не ежечасно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_92",
+      "word": "Say no often, explain always, revisit sometimes.",
+      "translation": "Говорите нет часто, объясняйте всегда, возвращайтесь иногда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_93",
+      "word": "Great products come from taste multiplied by evidence.",
+      "translation": "Отличные продукты рождаются из вкуса, умноженного на доказательства.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_94",
+      "word": "Roadmap slides age faster than milk in meetings.",
+      "translation": "Слайды роадмапа стареют на встречах быстрее молока.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_95",
+      "word": "Strategy on a diet of one page forces clarity.",
+      "translation": "Стратегия на одной странице заставляет быть ясным.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_96",
+      "word": "Opportunity costs hide inside every yes.",
+      "translation": "Альтернативные издержки прячутся внутри каждого «да».",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_97",
+      "word": "Discovery interviews recruit customers through polite incentives.",
+      "translation": "Респондентов для интервью вербуют через деликатные вознаграждения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_98",
+      "word": "Leading questions manufacture agreement worth nothing.",
+      "translation": "Наводящие вопросы производят ничего не стоящее согласие.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_99",
+      "word": "Silence during interviews extracts the best quotes.",
+      "translation": "Молчание интервьюера вытягивает лучшие цитаты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_100",
+      "word": "Follow the five whys down to real motivations.",
+      "translation": "Пять «почему» ведут к настоящим мотивациям.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_101",
+      "word": "Segment power users away from tourists in analytics.",
+      "translation": "Отделяйте активных пользователей от случайных в аналитике.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_102",
+      "word": "Averages lie when distributions grow two humps.",
+      "translation": "Средние лгут, когда у распределения два горба.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_103",
+      "word": "Dashboards without decisions decorate screens expensively.",
+      "translation": "Дашборды без решений дорого украшают экраны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_104",
+      "word": "Weekly metrics reviews end with owners and actions.",
+      "translation": "Еженедельный разбор метрик заканчивается ответственными и действиями.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_105",
+      "word": "North stars need supporting input metrics or they float.",
+      "translation": "Северной звезде нужны вспомогательные метрики, иначе она висит в воздухе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_106",
+      "word": "Counter metrics guard against gaming the primary goal.",
+      "translation": "Контрметрики охраняют от накрутки главной цели.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_productmanagement_107",
+      "word": "Launch checklists catch forgotten rollback plans.",
+      "translation": "Чек-листы запуска ловят забытые планы отката.",
+      "language": "en"
+    }
+  ]
+}

@@ -1,0 +1,607 @@
+{
+  "id": "phrasebook-aimlengineering",
+  "name": "AI & ML Engineering",
+  "description": "Фразы про AI/ML-инженерию: обучение моделей, инференс, оценка качества, данные и продакшн.",
+  "entries": [
+    {
+      "id": "pbq_aimlengineering_0",
+      "word": "The model overfits the training set badly.",
+      "translation": "Модель сильно переобучается на тренировочной выборке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_1",
+      "word": "Regularisation tamed the validation loss finally.",
+      "translation": "Регуляризация наконец усмирила валидационную ошибку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_2",
+      "word": "We split data into train, validation and test sets.",
+      "translation": "Мы делим данные на обучающую, валидационную и тестовую выборки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_3",
+      "word": "Data leakage inflated our metrics embarrassingly.",
+      "translation": "Утечка данных позорно завысила наши метрики.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_4",
+      "word": "Garbage in, garbage out applies doubly to datasets.",
+      "translation": "Мусор на входе — мусор на выходе, для данных вдвойне.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_5",
+      "word": "Label quality limits model ceiling more than architecture.",
+      "translation": "Качество разметки ограничивает потолок модели сильнее архитектуры.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_6",
+      "word": "Annotators disagreed on a third of examples.",
+      "translation": "Разметчики разошлись по трети примеров.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_7",
+      "word": "Inter annotator agreement dropped below acceptable thresholds.",
+      "translation": "Согласие разметчиков упало ниже допустимого порога.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_8",
+      "word": "Class imbalance starves the minority class.",
+      "translation": "Дисбаланс классов морит голодом миноритарный класс.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_9",
+      "word": "Oversampling minorities beats ignoring them.",
+      "translation": "Пересэмплирование меньшинств лучше их игнорирования.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_10",
+      "word": "Precision matters more than recall for spam filters.",
+      "translation": "Для спам-фильтров точность важнее полноты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_11",
+      "word": "Recall matters more when missing cases costs lives.",
+      "translation": "Полнота важнее, когда пропуск случая стоит жизней.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_12",
+      "word": "The F1 score balances precision and recall neatly.",
+      "translation": "F1 аккуратно балансирует точность и полноту.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_13",
+      "word": "ROC curves trade true positives against false ones.",
+      "translation": "ROC-кривые меняют истинные срабатывания на ложные.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_14",
+      "word": "AUC above point nine smells like leakage.",
+      "translation": "AUC выше девяти десятых пахнет утечкой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_15",
+      "word": "Cross validation estimates generalisation honestly.",
+      "translation": "Кросс-валидация честно оценивает обобщение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_16",
+      "word": "Hold out the test set until the very end.",
+      "translation": "Держите тестовую выборку до самого конца.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_17",
+      "word": "Hyperparameter tuning consumed our compute budget.",
+      "translation": "Подбор гиперпараметров съел наш бюджет вычислений.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_18",
+      "word": "Grid search exhausts, random search explores smarter.",
+      "translation": "Полный перебор выжигает, случайный ищет умнее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_19",
+      "word": "Bayesian optimisation finds sweet spots faster.",
+      "translation": "Байесовская оптимизация находит оптимумы быстрее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_20",
+      "word": "Learning rate schedules matter more than optimiser brands.",
+      "translation": "Расписания скорости обучения важнее бренда оптимизатора.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_21",
+      "word": "Warmup steps stabilise early training chaos.",
+      "translation": "Прогрев шагов стабилизирует ранний хаос обучения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_22",
+      "word": "Gradient clipping prevents exploding gradients.",
+      "translation": "Отсечение градиентов спасает от их взрыва.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_23",
+      "word": "Batch size trades memory against gradient noise.",
+      "translation": "Размер батча меняет память на шум градиентов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_24",
+      "word": "Early stopping watches validation loss patiently.",
+      "translation": "Ранняя остановка терпеливо следит за валидацией.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_25",
+      "word": "Checkpoint every epoch or regret crashes.",
+      "translation": "Сохраняйтесь каждую эпоху или жалейте о падениях.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_26",
+      "word": "Transfer learning bootstraps small datasets beautifully.",
+      "translation": "Трансферное обучение красиво вытягивает малые данные.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_27",
+      "word": "Fine tuning adapts pretrained weights cheaply.",
+      "translation": "Дообучение дёшево адаптирует предобученные веса.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_28",
+      "word": "Frozen layers preserve generic features.",
+      "translation": "Замороженные слои сохраняют общие признаки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_29",
+      "word": "Embeddings map words into geometric meaning.",
+      "translation": "Эмбеддинги отображают слова в геометрию смыслов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_30",
+      "word": "Similar vectors cluster near similar contexts.",
+      "translation": "Похожие векторы кучкуются у похожих контекстов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_31",
+      "word": "Attention mechanisms weigh inputs contextually.",
+      "translation": "Механизмы внимания взвешивают входы по контексту.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_32",
+      "word": "Transformers replaced recurrence almost everywhere.",
+      "translation": "Трансформеры почти везде заменили рекуррентность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_33",
+      "word": "Context windows limit how much text models read.",
+      "translation": "Окна контекста ограничивают объём читаемого текста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_34",
+      "word": "Tokenisation splits words into subword pieces.",
+      "translation": "Токенизация режет слова на подсловные куски.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_35",
+      "word": "Prompt engineering shapes outputs without retraining.",
+      "translation": "Инженерия промптов правит выводы без переобучения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_36",
+      "word": "Few shot prompts teach format through examples.",
+      "translation": "Few-shot промпты учат формат через примеры.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_37",
+      "word": "Chain of thought improves reasoning benchmarks.",
+      "translation": "Цепочки рассуждений улучшают бенчмарки логики.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_38",
+      "word": "Hallucinations state falsehoods fluently.",
+      "translation": "Галлюцинации излагают ложь бегло.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_39",
+      "word": "Grounding answers in retrieved documents reduces invention.",
+      "translation": "Привязка ответов к найденным документам снижает выдумки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_40",
+      "word": "RAG combines retrieval with generation pragmatically.",
+      "translation": "RAG прагматично соединяет поиск и генерацию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_41",
+      "word": "Vector databases index embeddings for similarity search.",
+      "translation": "Векторные базы индексируют эмбеддинги для поиска похожего.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_42",
+      "word": "Chunking documents balances context against precision.",
+      "translation": "Нарезка документов балансирует контекст и точность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_43",
+      "word": "Inference latency decides user patience.",
+      "translation": "Задержка инференса решает судьбу пользовательского терпения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_44",
+      "word": "Quantisation shrinks models with modest accuracy loss.",
+      "translation": "Квантизация сжимает модели с умеренной потерей точности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_45",
+      "word": "Distillation teaches small students from big teachers.",
+      "translation": "Дистилляция учит маленьких учеников у больших учителей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_46",
+      "word": "Batching requests amortises GPU cost efficiently.",
+      "translation": "Батчинг запросов эффективно размазывает стоимость GPU.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_47",
+      "word": "Caching repeated queries saves real money.",
+      "translation": "Кэширование повторных запросов экономит реальные деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_48",
+      "word": "Model serving needs versioning and rollback plans.",
+      "translation": "Обслуживанию моделей нужны версионирование и планы отката.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_49",
+      "word": "Shadow deployments test candidates on live traffic silently.",
+      "translation": "Теневые развёртывания тихо проверяют кандидатов на живом трафике.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_50",
+      "word": "Canary releases roll models out gradually.",
+      "translation": "Канареечные релизы раскатывают модели постепенно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_51",
+      "word": "Feature stores keep training and serving consistent.",
+      "translation": "Фичевые хранилища держат обучение и прод согласованными.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_52",
+      "word": "Training serving skew breaks predictions subtly.",
+      "translation": "Расхождение обучения и прода ломает предсказания незаметно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_53",
+      "word": "Monitoring drift catches degrading inputs early.",
+      "translation": "Мониторинг дрейфа ловит порчу входных данных рано.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_54",
+      "word": "Retraining schedules balance freshness against stability.",
+      "translation": "Расписания переобучения балансируют свежесть и стабильность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_55",
+      "word": "Feedback loops let users label model mistakes implicitly.",
+      "translation": "Петли обратной связи позволяют пользователям метить ошибки модели.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_56",
+      "word": "A B tests measure model changes through user outcomes.",
+      "translation": "A/B тесты меряют изменения моделей через исходы пользователей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_57",
+      "word": "Guardrails filter unsafe generations before users see them.",
+      "translation": "Ограждения фильтруют небезопасные генерации до показа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_58",
+      "word": "Red teaming probes models with adversarial prompts.",
+      "translation": "Красная команда атакует модели враждебными промптами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_59",
+      "word": "Bias audits examine predictions across demographic slices.",
+      "translation": "Аудиты смещений изучают предсказания по демографическим срезам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_60",
+      "word": "Fairness metrics conflict with each other mathematically.",
+      "translation": "Метрики справедливости математически противоречат друг другу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_61",
+      "word": "Explainability reports satisfy regulators increasingly.",
+      "translation": "Отчёты объяснимости всё чаще удовлетворяют регуляторов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_62",
+      "word": "SHAP values attribute predictions to features.",
+      "translation": "Значения SHAP приписывают предсказания признакам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_63",
+      "word": "Feature importance misleads under correlated columns.",
+      "translation": "Важность признаков обманывает при коррелирующих столбцах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_64",
+      "word": "Pipelines orchestrate preprocessing reproducibly.",
+      "translation": "Пайплайны воспроизводимо управляют предобработкой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_65",
+      "word": "Reproducibility demands pinned versions and seeds.",
+      "translation": "Воспроизводимость требует зафиксированных версий и сидов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_66",
+      "word": "Experiment tracking logs every run automatically now.",
+      "translation": "Трекинг экспериментов теперь логирует каждый запуск сам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_67",
+      "word": "Notebooks prototype, production demands refactoring.",
+      "translation": "Ноутбуки для прототипов, прод требует рефакторинга.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_68",
+      "word": "Data versioning matters as much as code versioning.",
+      "translation": "Версионирование данных важно не меньше версионирования кода.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_69",
+      "word": "Schemas drift and pipelines crash at three in the morning.",
+      "translation": "Схемы дрейфуют, и пайплайны падают в три часа ночи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_70",
+      "word": "Data contracts between teams prevent silent breakage.",
+      "translation": "Контракты данных между командами предотвращают тихие поломки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_71",
+      "word": "Streaming ingestion feeds realtime features.",
+      "translation": "Стриминговый приём питает признаки реального времени.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_72",
+      "word": "Windowed aggregations compute rolling statistics.",
+      "translation": "Оконные агрегации считают скользящие статистики.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_73",
+      "word": "Late arriving data complicates event time processing.",
+      "translation": "Опоздавшие данные усложняют обработку по времени событий.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_74",
+      "word": "Graph networks model relationships tabular formats cannot.",
+      "translation": "Графовые сети моделируют связи, недоступные таблицам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_75",
+      "word": "Time series forecasting respects temporal order strictly.",
+      "translation": "Прогнозирование временных рядов строго уважает порядок времени.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_76",
+      "word": "Backtesting reveals lookahead bias in strategies.",
+      "translation": "Бэктесты вскрывают подглядывание в будущее в стратегиях.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_77",
+      "word": "Anomaly detection flags outliers without labels.",
+      "translation": "Детекция аномалий мечет исключения без разметки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_78",
+      "word": "Clustering discovers structure unsupervised.",
+      "translation": "Кластеризация находит структуру без учителя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_79",
+      "word": "Dimensionality reduction visualises high dimensional spaces.",
+      "translation": "Снижение размерности визуализирует многомерные пространства.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_80",
+      "word": "Principal components capture variance greedily.",
+      "translation": "Главные компоненты жадно захватывают дисперсию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_81",
+      "word": "Ensembles average away individual model quirks.",
+      "translation": "Ансамбли усредняют причуды отдельных моделей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_82",
+      "word": "Boosting trains weak learners sequentially on residuals.",
+      "translation": "Бустинг последовательно учит слабых учеников на остатках.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_83",
+      "word": "Random forests vote across decorrelated trees.",
+      "translation": "Случайные леса голосуют деревьями без корреляций.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_84",
+      "word": "Linear baselines embarrass complex models regularly.",
+      "translation": "Линейные базлайны регулярно ставят сложные модели на место.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_85",
+      "word": "Start simple, complicate only with evidence.",
+      "translation": "Начинайте просто — усложняйте только по доказательствам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_86",
+      "word": "Neural architecture searches burned budgets discovering known designs.",
+      "translation": "Поиск архитектур сжёг бюджеты, переоткрыв известные схемы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_87",
+      "word": "Hardware accelerators price like small cars.",
+      "translation": "Ускорители стоят как небольшие автомобили.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_88",
+      "word": "Spot instances cut training bills dramatically with interruptions.",
+      "translation": "Спотовые инстансы режут счета обучения вместе с надёжностью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_89",
+      "word": "Checkpointing survives preemptible machines gracefully.",
+      "translation": "Чекпоинты переживают прерываемые машины достойно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_90",
+      "word": "Multi GPU training synchronises gradients across devices.",
+      "translation": "Мульти-GPU обучение синхронизирует градиенты между устройствами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_91",
+      "word": "Mixed precision halves memory without visible quality loss.",
+      "translation": "Смешанная точность урезает память без видимой потери качества.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_92",
+      "word": "Data loaders bottleneck training more than GPUs admit.",
+      "translation": "Загрузчики данных тормозят обучение сильнее, чем признают GPU.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_93",
+      "word": "Preprocessing belongs inside pipelines, not notebooks alone.",
+      "translation": "Предобработка живёт в пайплайнах, а не только в ноутбуках.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_94",
+      "word": "Unit tests catch feature engineering bugs early.",
+      "translation": "Юнит-тесты ловят баги фичевой инженерии рано.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_95",
+      "word": "Models ship with documentation or become mysteries.",
+      "translation": "Модели поставляются с документацией или становятся загадками.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_96",
+      "word": "Model cards summarise intended uses and limitations.",
+      "translation": "Карточки моделей описывают назначение и ограничения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_97",
+      "word": "Stakeholders ask accuracy; you answer calibration too.",
+      "translation": "Заказчики спрашивают точность — отвечайте ещё и калибровкой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_98",
+      "word": "Confidence scores need calibration to mean anything.",
+      "translation": "Оценки уверенности требуют калибровки, чтобы что-то значить.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aimlengineering_99",
+      "word": "Deployment day feels like launch day every time.",
+      "translation": "День деплоя каждый раз ощущается как день запуска.",
+      "language": "en"
+    }
+  ]
+}

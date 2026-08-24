@@ -1,0 +1,679 @@
+{
+  "id": "phrasebook-devopsclouds",
+  "name": "DevOps & Cloud",
+  "description": "Фразы про DevOps и облака: CI/CD, контейнеры, мониторинг, инциденты, инфраструктура как код.",
+  "entries": [
+    {
+      "id": "pbq_devopsclouds_0",
+      "word": "The pipeline broke on a flaky test again.",
+      "translation": "Пайплайн снова упал на нестабильном тесте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_1",
+      "word": "Green builds earn merge rights around here.",
+      "translation": "Зелёная сборка здесь даёт право на мерж.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_2",
+      "word": "Continuous integration catches conflicts early.",
+      "translation": "Непрерывная интеграция ловит конфликты рано.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_3",
+      "word": "Continuous delivery automates releases end to end.",
+      "translation": "Непрерывная доставка автоматизирует релизы целиком.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_4",
+      "word": "Feature flags decouple deployment from release.",
+      "translation": "Фичефлаги разделяют деплой и релиз.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_5",
+      "word": "Dark launches route fake traffic to warm systems.",
+      "translation": "Тёмные запуски гоняют фальшивый трафик для прогрева.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_6",
+      "word": "Blue green deployments swap environments instantly.",
+      "translation": "Сине-зелёные деплои мгновенно меняют окружения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_7",
+      "word": "Rollbacks must be boring, rehearsed and fast.",
+      "translation": "Откаты должны быть скучными, отрепетированными и быстрыми.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_8",
+      "word": "Infrastructure as code reviews like application code.",
+      "translation": "Инфраструктура как код проходит ревью как обычный код.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_9",
+      "word": "Terraform plans preview infrastructure changes safely.",
+      "translation": "Terraform plan безопасно показывает изменения инфраструктуры.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_10",
+      "word": "State files lock to prevent concurrent corruption.",
+      "translation": "Файлы состояния блокируются от одновременной порчи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_11",
+      "word": "Drift happens when someone clicks the console anyway.",
+      "translation": "Дрейф случается, когда кто-то всё же кликает консоль.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_12",
+      "word": "Immutable servers replace patching with replacement.",
+      "translation": "Неизменяемые серверы заменяют патчи пересозданием.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_13",
+      "word": "Golden images bake compliance into every boot.",
+      "translation": "Золотые образы вшивают соответствие в каждую загрузку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_14",
+      "word": "Containers package applications with their dependencies.",
+      "translation": "Контейнеры упаковывают приложения вместе с зависимостями.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_15",
+      "word": "Works on my machine died with containerisation.",
+      "translation": "«У меня работает» умерло вместе с контейнеризацией.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_16",
+      "word": "Dockerfiles layer instructions for cache efficiency.",
+      "translation": "Dockerfile слоями строит инструкции ради кэша.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_17",
+      "word": "Multi stage builds strip build tools from images.",
+      "translation": "Многоступенчатые сборки вычищают сборочные инструменты из образов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_18",
+      "word": "Smaller images pull faster and attack smaller.",
+      "translation": "Меньшие образы качаются быстрее и имеют меньше поверхностей атаки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_19",
+      "word": "Kubernetes orchestrates containers across clusters.",
+      "translation": "Kubernetes управляет контейнерами по всему кластеру.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_20",
+      "word": "Pods schedule onto nodes matching resource requests.",
+      "translation": "Поды планируются на ноды по запросам ресурсов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_21",
+      "word": "Liveness probes restart sick containers automatically.",
+      "translation": "Liveness-пробы автоматически перезапускают больные контейнеры.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_22",
+      "word": "Readiness gates traffic until services warm up.",
+      "translation": "Readiness-пробы пускают трафик после прогрева.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_23",
+      "word": "Horizontal autoscaling adds replicas under load.",
+      "translation": "Горизонтальное масштабирование добавляет реплики под нагрузкой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_24",
+      "word": "Cluster autoscaler borrows nodes when pods queue.",
+      "translation": "Автоскейлер кластера занимает ноды, когда поды ждут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_25",
+      "word": "Resource limits stop noisy neighbours cold.",
+      "translation": "Лимиты ресурсов осаждают шумных соседей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_26",
+      "word": "ConfigMaps separate configuration from images.",
+      "translation": "ConfigMaps отделяют конфигурацию от образов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_27",
+      "word": "Secrets management deserves better than plaintext YAML.",
+      "translation": "Секреты заслуживают лучшего, чем открытый YAML.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_28",
+      "word": "Rotate credentials quarterly or after any leak suspicion.",
+      "translation": "Меняйте креды ежеквартально и при любом подозрении.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_29",
+      "word": "Service meshes handle retries and timeouts uniformly.",
+      "translation": "Сервис-меши единообразно управляют ретраями и таймаутами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_30",
+      "word": "Circuit breakers stop cascading failures early.",
+      "translation": "Предохранители останавливают каскадные отказы рано.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_31",
+      "word": "Bulkheads isolate failures into compartments.",
+      "translation": "Переборки изолируют отказы в отсеки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_32",
+      "word": "Exponential backoff spaces out retry storms.",
+      "translation": "Экспоненциальная задержка разгоняет штормы ретраев.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_33",
+      "word": "Idempotent endpoints survive duplicate deliveries.",
+      "translation": "Идемпотентные эндпоинты переживают дубли доставки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_34",
+      "word": "Message queues buffer bursts between services.",
+      "translation": "Очереди сообщений буферизуют всплески между сервисами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_35",
+      "word": "Dead letter queues collect poison messages politely.",
+      "translation": "Очереди мёртвых писем вежливо собирают ядовитые сообщения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_36",
+      "word": "Eventual consistency confuses users occasionally by design.",
+      "translation": "Итоговая согласованность иногда путает пользователей намеренно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_37",
+      "word": "Observability means questions, not just dashboards.",
+      "translation": "Наблюдаемость — это вопросы, а не только дашборды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_38",
+      "word": "Metrics tell how much, logs tell what happened.",
+      "translation": "Метрики говорят сколько, логи — что произошло.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_39",
+      "word": "Traces follow requests across service boundaries.",
+      "translation": "Трейсы ведут запросы через границы сервисов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_40",
+      "word": "Correlation IDs stitch distributed stories together.",
+      "translation": "Корреляционные ID сшивают распределённые истории.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_41",
+      "word": "Structured logging beats grep through plaintext.",
+      "translation": "Структурированные логи лучше грепанья простого текста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_42",
+      "word": "Cardinality explodes label combinations and bills.",
+      "translation": "Кардинальность взрывает комбинации меток и счета.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_43",
+      "word": "Alert fatigue numbs engineers to real fires.",
+      "translation": "Усталость от алертов притупляет к настоящим пожарам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_44",
+      "word": "Page only on symptoms users would notice.",
+      "translation": "Алертите только на симптомы, заметные пользователям.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_45",
+      "word": "Runbooks turn panic into checklists.",
+      "translation": "Руны превращают панику в чек-листы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_46",
+      "word": "On call rotations rotate before burnout sets in.",
+      "translation": "Дежурства ротируются до наступления выгорания.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_47",
+      "word": "Postmortems blame systems, never people.",
+      "translation": "Постмортемы винят системы, никогда людей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_48",
+      "word": "Blameless culture surfaces uncomfortable truths faster.",
+      "translation": "Безвинная культура быстрее поднимает неудобную правду.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_49",
+      "word": "Severity levels decide who wakes up tonight.",
+      "translation": "Уровни серьёзности решают, кто не спит сегодня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_50",
+      "word": "Incident commanders coordinate without fixing themselves.",
+      "translation": "Командиры инцидентов координируют, не чиня сами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_51",
+      "word": "Status pages update before customers tweet complaints.",
+      "translation": "Страницы статуса обновляются раньше жалоб в соцсетях.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_52",
+      "word": "War rooms smell of cold pizza and adrenaline.",
+      "translation": "Штабы пахнут холодной пиццей и адреналином.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_53",
+      "word": "Root cause hides behind the first obvious culprit.",
+      "translation": "Первопричина прячется за первым очевидным виновником.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_54",
+      "word": "Five whys beats five accusations every incident.",
+      "translation": "Пять «почему» лучше пяти обвинений в любом инциденте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_55",
+      "word": "Error budgets justify freezing features for reliability.",
+      "translation": "Бюджеты ошибок оправдывают заморозку фич ради надёжности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_56",
+      "word": "SLAs promise, SLOs plan, SLIs measure.",
+      "translation": "SLA обещает, SLO планирует, SLI измеряет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_57",
+      "word": "Nines multiply downtime arithmetic brutally.",
+      "translation": "Девятки жестоко множат арифметику простоя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_58",
+      "word": "Chaos engineering breaks things on purpose safely.",
+      "translation": "Хаос-инжиниринг ломает вещи специально и безопасно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_59",
+      "word": "Game days rehearse failures before customers find them.",
+      "translation": "Игровые дни репетируют отказы до того, как их найдут клиенты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_60",
+      "word": "Load testing reveals bottlenecks load balancers hide.",
+      "translation": "Нагрузочное тестирование вскрывает узкие места за балансировщиками.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_61",
+      "word": "Capacity planning reads growth curves before crises do.",
+      "translation": "Планирование мощностей читает кривые роста раньше кризисов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_62",
+      "word": "Cost optimisation is a feature, not an afterthought.",
+      "translation": "Оптимизация затрат — фича, а не запоздалая мысль.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_63",
+      "word": "Reserved instances discount predictable workloads heavily.",
+      "translation": "Резервные инстансы сильно скидывают предсказуемым нагрузкам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_64",
+      "word": "Autoscaling down saves money nobody notices.",
+      "translation": "Масштабирование вниз экономит незаметные деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_65",
+      "word": "Tagging policies make cloud bills explainable.",
+      "translation": "Политики тегов делают облачные счета объяснимыми.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_66",
+      "word": "Unowned resources accumulate like attic boxes.",
+      "translation": "Бесхозные ресурсы копятся как коробки на чердаке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_67",
+      "word": "FinOps meetings translate engineers into finance.",
+      "translation": "Финопс-встречи переводят инженеров на язык финансов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_68",
+      "word": "Zero trust verifies every request regardless of network.",
+      "translation": "Zero trust проверяет каждый запрос независимо от сети.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_69",
+      "word": "Least privilege grants exactly enough access.",
+      "translation": "Наименьшие привилегии дают ровно необходимый доступ.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_70",
+      "word": "Audit trails answer who did what when.",
+      "translation": "Аудиторские следы отвечают кто, что и когда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_71",
+      "word": "Penetration tests find doors you forgot you installed.",
+      "translation": "Пентесты находят двери, о которых вы забыли.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_72",
+      "word": "Security patches wait for nobody convenient.",
+      "translation": "Патчи безопасности никого удобного не ждут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_73",
+      "word": "Vulnerability scanners nag old dependencies nightly.",
+      "translation": "Сканеры уязвимостей нудят о старых зависимостях ночами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_74",
+      "word": "Dependency updates bundle breaking changes with fixes.",
+      "translation": "Обновления зависимостей кладут ломающие изменения рядом с фиксами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_75",
+      "word": "Semantic versioning communicates intent through numbers.",
+      "translation": "Семантическое версионирование говорит о смысле числами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_76",
+      "word": "GitOps treats repositories as the source of truth.",
+      "translation": "GitOps считает репозитории источником истины.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_77",
+      "word": "Merge commits deploy, revert commits heal.",
+      "translation": "Мердж-коммиты деплоят, реверты лечат.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_78",
+      "word": "Environment parity reduces works in prod surprises.",
+      "translation": "Паритет сред сокращает сюрпризы «а в проде работает».",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_79",
+      "word": "Staging approximates production within budget limits.",
+      "translation": "Стейджинг имитирует прод в рамках бюджета.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_80",
+      "word": "Configuration differs, behaviour should not.",
+      "translation": "Конфигурации различаются, поведение — нет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_81",
+      "word": "Database migrations run backwards tested always.",
+      "translation": "Миграции баз всегда проверяются на откат.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_82",
+      "word": "Expand migrate contract patterns avoid downtime windows.",
+      "translation": "Паттерн расширение-миграция-сжатие избегает окон простоя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_83",
+      "word": "Backups restore, or they are just copies.",
+      "translation": "Бэкапы восстанавливают, иначе это просто копии.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_84",
+      "word": "Disaster recovery rehearsals expose forgotten dependencies.",
+      "translation": "Репетиции катастроф вскрывают забытые зависимости.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_85",
+      "word": "RTO and RPO define recovery ambitions numerically.",
+      "translation": "RTO и RPO задают амбиции восстановления числами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_86",
+      "word": "Multi region architectures survive regional outages.",
+      "translation": "Мультирегиональные архитектуры переживают региональные аварии.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_87",
+      "word": "Availability zones fail independently, supposedly.",
+      "translation": "Зоны доступности падают независимо, якобы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_88",
+      "word": "Cloud outages teach humility in shared responsibility.",
+      "translation": "Облачные аварии учат смирению общей ответственности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_89",
+      "word": "Vendor lock in prices itself into every migration quote.",
+      "translation": "Привязка к вендору сама вписывается в каждую смету миграции.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_90",
+      "word": "Abstractions leak, choose which leaks you tolerate.",
+      "translation": "Абстракции текут — выбирайте, какие течи терпеть.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_91",
+      "word": "Documentation as code stays closer to truth.",
+      "translation": "Документация как код живёт ближе к истине.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_92",
+      "word": "Run what you built, then watch it hurt.",
+      "translation": "Работайте на том, что построили — и почувствуйте это.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_93",
+      "word": "DevOps is culture wearing tooling costumes.",
+      "translation": "DevOps — это культура в костюмах инструментов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_94",
+      "word": "Friday deploys fear nothing but untested rollbacks.",
+      "translation": "Пятничные деплои боятся только неотрепетированных откатов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_95",
+      "word": "Immutable infrastructure images rebuild nightly.",
+      "translation": "Образы неизменяемой инфраструктуры пересобираются каждую ночь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_96",
+      "word": "Base image CVEs propagate into every dependent container.",
+      "translation": "CVE базового образа расползаются по всем зависимым контейнерам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_97",
+      "word": "Image scanning gates registries before promotion.",
+      "translation": "Сканирование образов стоит шлюзом перед выкладкой в прод-реестры.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_98",
+      "word": "Signed artifacts prove provenance through supply chains.",
+      "translation": "Подписанные артефакты доказывают происхождение по всей цепочке поставки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_99",
+      "word": "SBOM inventories every ingredient inside releases.",
+      "translation": "SBOM перечисляет все ингредиенты внутри релизов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_100",
+      "word": "Secret scanners block commits containing API keys.",
+      "translation": "Сканеры секретов блокируют коммиты с ключами API.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_101",
+      "word": "Rotated keys invalidate cached credentials everywhere eventually.",
+      "translation": "Ротация ключей со временем инвалидирует закэшированные креды всюду.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_102",
+      "word": "Bastion hosts concentrate SSH access into audited chokepoints.",
+      "translation": "Бастионы собирают SSH-доступ в контролируемые точки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_103",
+      "word": "VPN-less access models replace perimeter thinking with identity.",
+      "translation": "Доступ без VPN заменяет периметровое мышление идентичностью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_104",
+      "word": "Load balancers health check backends before routing.",
+      "translation": "Балансировщики проверяют здоровье бэкендов до маршрутизации.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_105",
+      "word": "Sticky sessions trade even spread for stateful comfort.",
+      "translation": "Липкие сессии меняют равномерность на удобство состояния.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_106",
+      "word": "Rate limiting protects APIs from accidental loops.",
+      "translation": "Ограничение частоты защищает API от случайных циклов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_107",
+      "word": "Quota headers teach clients polite consumption.",
+      "translation": "Заголовки квот учат клиентов вежливому потреблению.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_108",
+      "word": "Webhook retries demand idempotent receivers everywhere.",
+      "translation": "Ретраи вебхуков требуют идемпотентных получателей повсюду.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_109",
+      "word": "Signature verification rejects forged webhook payloads.",
+      "translation": "Проверка подписи отбрасывает подделанные вебхуки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_110",
+      "word": "Log retention balances compliance against storage bills.",
+      "translation": "Хранение логов балансирует комплаенс и счета за хранилище.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_devopsclouds_111",
+      "word": "Sampling traces keeps observability affordable at scale.",
+      "translation": "Сэмплирование трейсов делает наблюдаемость доступной в масштабе.",
+      "language": "en"
+    }
+  ]
+}

@@ -63,6 +63,7 @@ import { topups as tMsFinalFill } from './core/topup-ms-finalfill.mjs';
 import { artpainting, religionspirituality, sciencephysics, historyempires, technologygadgets, internetwebsites } from './core/fill-thin-a.mjs';
 import { toolshardware, officestationery, mythologyfolklore, videogamesshootersaction, hobbiesgardening } from './core/fill-thin-b.mjs';
 import { bordercustoms, pharmacy, gasstationparking, laundromatcleaning, concertsevents, carrental } from './core/batch-everyday3.mjs';
+import { aimlengineering, devopsclouds, productmanagement, customersupport } from './core/batch-professional.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -124,6 +125,11 @@ const TOPICS = {
   laundromatcleaning,
   concertsevents,
   carrental,
+  // professional packs (todo 8)
+  aimlengineering,
+  devopsclouds,
+  productmanagement,
+  customersupport,
 };
 
 // Merge every top-up batch into its base topic (order: base phrases first).

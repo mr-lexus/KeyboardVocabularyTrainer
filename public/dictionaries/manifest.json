@@ -1495,6 +1495,38 @@
       "file": "dictionaries/phrasebook-carrental.json",
       "wordCount": 105,
       "emoji": "🚘"
+    },
+    {
+      "id": "phrasebook-aimlengineering",
+      "name": "AI & ML Engineering",
+      "description": "Фразы про AI/ML-инженерию: обучение моделей, инференс, оценка качества, данные и продакшн.",
+      "file": "dictionaries/phrasebook-aimlengineering.json",
+      "wordCount": 100,
+      "emoji": "🤖"
+    },
+    {
+      "id": "phrasebook-devopsclouds",
+      "name": "DevOps & Cloud",
+      "description": "Фразы про DevOps и облака: CI/CD, контейнеры, мониторинг, инциденты, инфраструктура как код.",
+      "file": "dictionaries/phrasebook-devopsclouds.json",
+      "wordCount": 112,
+      "emoji": "☁️"
+    },
+    {
+      "id": "phrasebook-productmanagement",
+      "name": "Product Management",
+      "description": "Фразы про продуктовый менеджмент: discovery, роадмап, метрики, приоритизация, работа со стейкхолдерами.",
+      "file": "dictionaries/phrasebook-productmanagement.json",
+      "wordCount": 108,
+      "emoji": "📊"
+    },
+    {
+      "id": "phrasebook-customersupport",
+      "name": "Customer Support",
+      "description": "Фразы клиентской поддержки: тикеты, SLA, эскалации, формулы эмпатии, сложные разговоры.",
+      "file": "dictionaries/phrasebook-customersupport.json",
+      "wordCount": 105,
+      "emoji": "🎧"
     }
   ]
 }
