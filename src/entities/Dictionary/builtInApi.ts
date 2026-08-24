@@ -38,7 +38,7 @@ export const builtInDictionaryApi = {
     onProgress?: (loaded: number, total: number) => void
   ): Promise<{ en: string; ru: string }[]> => {
     const manifest = await builtInDictionaryApi.getManifest();
-    const pbMeta = manifest.filter(m => m.id.startsWith('phrasebook-') || m.id.startsWith('pb-'));
+    const pbMeta = manifest.filter(m => m.id.startsWith('phrasebook-'));
     
     const sentences: { en: string; ru: string }[] = [];
     const lowerWord = word.toLowerCase();
@@ -92,7 +92,7 @@ export const builtInDictionaryApi = {
     onProgress?: (loaded: number, total: number) => void
   ): Promise<Record<string, number>> => {
     const manifest = await builtInDictionaryApi.getManifest();
-    const pbMeta = manifest.filter(m => m.id.startsWith('phrasebook-') || m.id.startsWith('pb-'));
+    const pbMeta = manifest.filter(m => m.id.startsWith('phrasebook-'));
     
     const counts: Record<string, Set<string>> = {};
     for (const w of words) counts[w] = new Set();

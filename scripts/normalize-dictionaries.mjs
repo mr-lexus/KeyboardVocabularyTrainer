@@ -179,6 +179,52 @@ function fallbackDescription(name) {
   return `«${name}»: тематический набор английских слов и фраз тренажёра с переводом на русский.`;
 }
 
+// --- pb-* retirement migration -------------------------------------------------
+/** Legacy mini-dictionaries merged into their topical phrasebooks, then deleted. */
+const RETIRE_PB = {
+  'pb-small-talk': 'phrasebook-smalltalkbasics.json',
+  'pb-airport': 'phrasebook-attheairport.json',
+  'pb-restaurant': 'phrasebook-attherestaurant.json',
+  'pb-hotel': 'phrasebook-atthehotel.json',
+  'pb-it-interview': 'phrasebook-jobinterview.json',
+  'pb-business': 'phrasebook-workbusiness.json',
+  'pb-emergency': 'phrasebook-emergencyhealth.json',
+};
+
+function retirePb() {
+  const stats = { mergedEntries: 0, retiredFiles: [] };
+  for (const [srcId, targetFile] of Object.entries(RETIRE_PB)) {
+    const srcPath = path.join(DICT_DIR, `${srcId}.json`);
+    if (!fs.existsSync(srcPath)) continue; // already retired — idempotent skip
+    const src = JSON.parse(fs.readFileSync(srcPath, 'utf8'));
+    const targetPath = path.join(DICT_DIR, targetFile);
+    const target = fs.existsSync(targetPath)
+      ? JSON.parse(fs.readFileSync(targetPath, 'utf8'))
+      : { id: targetFile.replace(/\.json$/, ''), name: srcId, description: '', entries: [] };
+    target.entries = target.entries ?? [];
+    const seenWords = new Set(target.entries.map((e) => normalize(String(e.word))));
+    const seenIds = new Set(target.entries.map((e) => e.id));
+    let moved = 0;
+    for (const entry of src.entries ?? []) {
+      const n = normalize(String(entry.word));
+      if (n && seenWords.has(n)) continue; // already covered by the topical dictionary
+      if (n) seenWords.add(n);
+      let suffix = 0;
+      let newId = `pbm_${srcId}_${suffix}`;
+      while (seenIds.has(newId)) newId = `pbm_${srcId}_${++suffix}`;
+      seenIds.add(newId);
+      target.entries.push({ ...entry, id: newId });
+      moved++;
+    }
+    fs.writeFileSync(targetPath, JSON.stringify(target, null, 2) + '\n');
+    fs.unlinkSync(srcPath);
+    stats.mergedEntries += moved;
+    stats.retiredFiles.push(srcId);
+    console.log(`[retire-pb] ${srcId}: moved ${moved} unique entries into ${targetFile}, file deleted`);
+  }
+  return stats;
+}
+
 // --- main ---------------------------------------------------------------------
 function main() {
   const stats = {
@@ -191,7 +237,14 @@ function main() {
     dupIdsRenamed: 0,
     cefrCrossFileRemoved: 0,
     descriptionsFixed: 0,
+    pbMergedEntries: 0,
+    pbRetiredFiles: [],
   };
+
+  // --- pb-* retirement runs first so merged entries flow through the pipeline ---
+  const pbStats = retirePb();
+  stats.pbMergedEntries = pbStats.mergedEntries;
+  stats.pbRetiredFiles = pbStats.retiredFiles;
 
   const allFiles = fs.readdirSync(DICT_DIR)
     .filter((f) => f.endsWith('.json') && f !== 'manifest.json')
@@ -330,6 +383,13 @@ function main() {
     if (fileLog.length) {
       console.log(`[${dictId}] ${fileLog.join('; ')}`);
     }
+  }
+
+  // Retired pb-* dictionaries lose their manifest rows (idempotent).
+  const beforeRows = manifest.dictionaries.length;
+  manifest.dictionaries = manifest.dictionaries.filter((d) => !/^pb-/.test(d.id));
+  if (manifest.dictionaries.length !== beforeRows) {
+    console.log(`[retire-pb] removed ${beforeRows - manifest.dictionaries.length} pb-* manifest rows`);
   }
 
   fs.writeFileSync(MANIFEST_PATH, JSON.stringify(manifest, null, 2) + '\n');

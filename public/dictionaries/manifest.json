@@ -337,62 +337,6 @@
       "emoji": "⛰️"
     },
     {
-      "id": "pb-small-talk",
-      "name": "Small Talk & Meeting",
-      "description": "Фразы для знакомства и повседневного общения",
-      "file": "dictionaries/pb-small-talk.json",
-      "wordCount": 20,
-      "emoji": "👋"
-    },
-    {
-      "id": "pb-airport",
-      "name": "At the Airport",
-      "description": "В аэропорту: регистрация, багаж, таможня",
-      "file": "dictionaries/pb-airport.json",
-      "wordCount": 15,
-      "emoji": "✈️"
-    },
-    {
-      "id": "pb-restaurant",
-      "name": "In a Restaurant",
-      "description": "В ресторане: заказ еды, счет, предпочтения",
-      "file": "dictionaries/pb-restaurant.json",
-      "wordCount": 15,
-      "emoji": "🍽️"
-    },
-    {
-      "id": "pb-hotel",
-      "name": "Hotel & Accommodation",
-      "description": "Заселение, выселение и обслуживание в отеле",
-      "file": "dictionaries/pb-hotel.json",
-      "wordCount": 15,
-      "emoji": "🏨"
-    },
-    {
-      "id": "pb-it-interview",
-      "name": "IT Job Interview",
-      "description": "Полезные фразы для собеседования на английском в IT",
-      "file": "dictionaries/pb-it-interview.json",
-      "wordCount": 15,
-      "emoji": "💻"
-    },
-    {
-      "id": "pb-business",
-      "name": "Business Meetings",
-      "description": "Деловое общение, митинги, переговоры",
-      "file": "dictionaries/pb-business.json",
-      "wordCount": 15,
-      "emoji": "👔"
-    },
-    {
-      "id": "pb-emergency",
-      "name": "Emergencies",
-      "description": "Экстренные ситуации, помощь, медицина",
-      "file": "dictionaries/pb-emergency.json",
-      "wordCount": 15,
-      "emoji": "🚨"
-    },
-    {
       "id": "phrasebook-traveltransport",
       "name": "Travel & Transport",
       "description": "Фразы о путешествиях и транспорте: билеты, маршруты, багаж, ориентиры в городе. Для тех, кто ездит за рубеж и хочет объясняться самостоятельно.",
@@ -429,7 +373,7 @@
       "name": "Emergency & Health",
       "description": "Экстренные ситуации: вызов помощи, пожар, полиция, аптечка",
       "file": "dictionaries/phrasebook-emergencyhealth.json",
-      "wordCount": 405,
+      "wordCount": 420,
       "emoji": "🚑"
     },
     {
@@ -877,7 +821,7 @@
       "name": "At the Airport",
       "description": "Аэропорт: регистрация, контроль, посадка, багаж — живые фразы",
       "file": "dictionaries/phrasebook-attheairport.json",
-      "wordCount": 331,
+      "wordCount": 345,
       "emoji": "🛫"
     },
     {
@@ -885,7 +829,7 @@
       "name": "At the Restaurant",
       "description": "Ресторан от начала до конца: столик, заказ, претензии, счёт",
       "file": "dictionaries/phrasebook-attherestaurant.json",
-      "wordCount": 362,
+      "wordCount": 376,
       "emoji": "🍴"
     },
     {
@@ -893,7 +837,7 @@
       "name": "At the Hotel",
       "description": "В отеле: заселение, услуги, проблемы и выселение",
       "file": "dictionaries/phrasebook-atthehotel.json",
-      "wordCount": 221,
+      "wordCount": 235,
       "emoji": "🛏️"
     },
     {

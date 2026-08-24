@@ -313,7 +313,7 @@ export const DictionaryManager = () => {
               <p className={styles.dictionaryManager__dictDescription}>{selectedBuiltIn.description}</p>
               <div className={styles.dictionaryManager__entryList}>
                 {selectedBuiltIn.entries.map((entry) => {
-                  const isPhrasebook = selectedBuiltIn.id.startsWith('phrasebook-') || selectedBuiltIn.id.startsWith('pb-');
+                  const isPhrasebook = selectedBuiltIn.id.startsWith('phrasebook-');
                   const showSentenceSearch = !isPhrasebook;
                   return (
                     <div key={entry.id} className={styles.dictionaryManager__entryItem}>
