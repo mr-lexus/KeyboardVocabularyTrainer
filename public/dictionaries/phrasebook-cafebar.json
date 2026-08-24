@@ -1,0 +1,295 @@
+{
+  "id": "phrasebook-cafebar",
+  "name": "Café & Bar",
+  "description": "Кафе и бар: кофе навынос, перекус, напитки за стойкой",
+  "entries": [
+    {
+      "id": "pbq_cafebar_0",
+      "word": "Hi, one latte to go, please.",
+      "translation": "Привет, один латте навынос, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_1",
+      "word": "Two cappuccinos, please.",
+      "translation": "Два капучино, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_2",
+      "word": "An espresso, please.",
+      "translation": "Эспрессо, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_3",
+      "word": "Large black coffee, please.",
+      "translation": "Большой чёрный кофе, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_4",
+      "word": "Decaf, please.",
+      "translation": "Без кофеина, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_5",
+      "word": "With milk and two sugars.",
+      "translation": "С молоком и двумя ложками сахара.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_6",
+      "word": "No sugar, thanks.",
+      "translation": "Без сахара, спасибо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_7",
+      "word": "Soy milk, please.",
+      "translation": "На соевом молоке, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_8",
+      "word": "Oat milk works too.",
+      "translation": "Овсяное молоко тоже подойдёт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_9",
+      "word": "Extra shot, please.",
+      "translation": "Добавьте двойную порцию эспрессо, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_10",
+      "word": "Hot or iced?",
+      "translation": "Горячий или холодный?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_11",
+      "word": "Iced, please.",
+      "translation": "Холодный, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_12",
+      "word": "For here or to go?",
+      "translation": "Здесь будете пить или с собой?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_13",
+      "word": "To go, please.",
+      "translation": "С собой, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_14",
+      "word": "Can I warm up my cup?",
+      "translation": "Можно подогреть мою кружку?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_15",
+      "word": "Anything to eat with that?",
+      "translation": "Что-нибудь к этому?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_16",
+      "word": "A croissant and a blueberry muffin.",
+      "translation": "Круассан и маффин с черникой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_17",
+      "word": "Is the soup of the day vegetarian?",
+      "translation": "Суп дня вегетарианский?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_18",
+      "word": "What sandwiches do you have?",
+      "translation": "Какие у вас есть сэндвичи?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_19",
+      "word": "Toast it, please.",
+      "translation": "Поджарьте его, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_20",
+      "word": "Warm it up for me, please.",
+      "translation": "Подогрейте мне, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_21",
+      "word": "Could I have a glass of tap water?",
+      "translation": "Можно стакан воды из-под крана?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_22",
+      "word": "Still or sparkling?",
+      "translation": "Без газа или с газом?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_23",
+      "word": "Sparkling water, please.",
+      "translation": "Газированную воду, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_24",
+      "word": "Fresh orange juice, please.",
+      "translation": "Свежевыжатый апельсиновый сок, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_25",
+      "word": "Is there free refill?",
+      "translation": "Есть бесплатная доливка?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_26",
+      "word": "Table service or counter service?",
+      "translation": "Обслуживание за столиками или у стойки?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_27",
+      "word": "Order at the counter, please.",
+      "translation": "Заказывайте у стойки, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_28",
+      "word": "Your name for the order?",
+      "translation": "Ваше имя для заказа?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_29",
+      "word": "Number twenty-seven, your order is ready!",
+      "translation": "Номер двадцать семь, заказ готов!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_30",
+      "word": "What can I get you?",
+      "translation": "Что вам принести?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_31",
+      "word": "What do you have on tap?",
+      "translation": "Какое у вас разливное пиво?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_32",
+      "word": "A pint of lager, please.",
+      "translation": "Пинту лагера, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_33",
+      "word": "Two beers, please.",
+      "translation": "Два пива, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_34",
+      "word": "A glass of red wine, please.",
+      "translation": "Бокал красного вина, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_35",
+      "word": "House wine, please.",
+      "translation": "Домашнее (базовое) вино, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_36",
+      "word": "Whiskey on the rocks.",
+      "translation": "Виски со льдом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_37",
+      "word": "Make it a double.",
+      "translation": "Сделайте двойную порцию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_38",
+      "word": "Another one, please.",
+      "translation": "Ещё такой же, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_39",
+      "word": "It’s my round.",
+      "translation": "Сегодня моя очередь угощать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_40",
+      "word": "Cheers, everyone!",
+      "translation": "Ну, за нас всех!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_41",
+      "word": "To your health!",
+      "translation": "За ваше здоровье!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_42",
+      "word": "I’ve had enough, thanks.",
+      "translation": "Спасибо, мне достаточно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_43",
+      "word": "Water for me, I’m driving.",
+      "translation": "Мне воду, я за рулём.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_44",
+      "word": "Last call!",
+      "translation": "Последний заказ!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_45",
+      "word": "We’re closing soon.",
+      "translation": "Мы скоро закрываемся.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_46",
+      "word": "Could we sit outside?",
+      "translation": "Можно сесть снаружи?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_cafebar_47",
+      "word": "Are dogs allowed here?",
+      "translation": "Можно ли сюда с собаками?",
+      "language": "en"
+    }
+  ]
+}

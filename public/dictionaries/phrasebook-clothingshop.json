@@ -1,0 +1,271 @@
+{
+  "id": "phrasebook-clothingshop",
+  "name": "Clothing Store",
+  "description": "Магазин одежды: размеры, примерка, цвет и фасон",
+  "entries": [
+    {
+      "id": "pbq_clothingshop_0",
+      "word": "Hi! Can I help you find anything?",
+      "translation": "Здравствуйте! Помочь вам что-нибудь найти?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_1",
+      "word": "I’m looking for a winter coat.",
+      "translation": "Я ищу зимнее пальто.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_2",
+      "word": "I need a dress for a wedding.",
+      "translation": "Мне нужно платье на свадьбу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_3",
+      "word": "Do you sell jeans here?",
+      "translation": "У вас продаются джинсы?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_4",
+      "word": "Where are the men’s shirts?",
+      "translation": "Где мужские рубашки?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_5",
+      "word": "Show me that jacket, please.",
+      "translation": "Покажите ту куртку, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_6",
+      "word": "Can I see it in black?",
+      "translation": "Можно посмотреть чёрную?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_7",
+      "word": "Do you have it in blue?",
+      "translation": "Он есть в синем цвете?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_8",
+      "word": "What size is this?",
+      "translation": "Какой это размер?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_9",
+      "word": "What size do you wear?",
+      "translation": "Какой у вас размер?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_10",
+      "word": "I wear medium.",
+      "translation": "Я ношу средний размер (M).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_11",
+      "word": "Do you have a smaller size?",
+      "translation": "Есть размер поменьше?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_12",
+      "word": "Do you have this in a large?",
+      "translation": "Есть такой в большом размере (L)?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_13",
+      "word": "Could I try this on?",
+      "translation": "Можно это примерить?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_14",
+      "word": "Sure, the fitting room is over there.",
+      "translation": "Конечно, примерочная вон там.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_15",
+      "word": "Three items max in the fitting room.",
+      "translation": "Не больше трёх вещей в примерочную.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_16",
+      "word": "How does it fit?",
+      "translation": "Как сидит (по размеру)?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_17",
+      "word": "It fits perfectly.",
+      "translation": "Сидит идеально.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_18",
+      "word": "It's too tight.",
+      "translation": "Слишком тесно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_19",
+      "word": "It's too loose.",
+      "translation": "Слишком свободно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_20",
+      "word": "It’s a bit long in the sleeves.",
+      "translation": "Рукава немного длинноваты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_21",
+      "word": "The trousers are too short.",
+      "translation": "Эти брюки слишком короткие.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_22",
+      "word": "It looks good on you!",
+      "translation": "Тебе это идёт!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_23",
+      "word": "This color really suits you.",
+      "translation": "Этот цвет вам действительно идёт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_24",
+      "word": "Hmm, not really my style.",
+      "translation": "Хм, не совсем мой стиль.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_25",
+      "word": "Do you have one with longer sleeves?",
+      "translation": "Есть с более длинными рукавами?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_26",
+      "word": "Do you have something more formal?",
+      "translation": "Есть что-нибудь поформальнее?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_27",
+      "word": "Something casual for everyday wear.",
+      "translation": "Что-то повседневное.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_28",
+      "word": "What material is this made of?",
+      "translation": "Из какого материала это сделано?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_29",
+      "word": "Is it machine washable?",
+      "translation": "Его можно стирать в машинке?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_30",
+      "word": "Hand wash only.",
+      "translation": "Только ручная стирка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_31",
+      "word": "Will it shrink after washing?",
+      "translation": "Он сядет после стирки?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_32",
+      "word": "It shrinks slightly, wash cold.",
+      "translation": "Немного садится, стирайте в холодной воде.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_33",
+      "word": "Does it wrinkle easily?",
+      "translation": "Оно легко мнётся?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_34",
+      "word": "How much does it cost?",
+      "translation": "Сколько это стоит?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_35",
+      "word": "It’s forty dollars, but it’s on sale now.",
+      "translation": "Сорок долларов, но сейчас скидка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_36",
+      "word": "If you buy two, the second is half price.",
+      "translation": "Если купите две, вторая за полцены.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_37",
+      "word": "Okay, I’ll take both.",
+      "translation": "Ладно, беру обе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_38",
+      "word": "Just these shoes, please.",
+      "translation": "Только эти туфли, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_39",
+      "word": "Can I try them with thicker socks?",
+      "translation": "Можно примерить их с более толстыми носками?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_40",
+      "word": "These pinch my toes.",
+      "translation": "Они жмут мне пальцы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_41",
+      "word": "They’re half a size too small.",
+      "translation": "Они на полразмера меньше.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_42",
+      "word": "Do you have these in size forty-two?",
+      "translation": "Есть такие в сорок втором размере?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_43",
+      "word": "Would you like a box for those?",
+      "translation": "Вам коробку для них?",
+      "language": "en"
+    }
+  ]
+}

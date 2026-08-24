@@ -1,0 +1,247 @@
+{
+  "id": "phrasebook-airbnbrental",
+  "name": "Short-term Rental",
+  "description": "Съём жилья: переписка с хозяином, заезд, бытовые вопросы",
+  "entries": [
+    {
+      "id": "pbq_airbnb_0",
+      "word": "Hi! Is the apartment still available?",
+      "translation": "Здравствуйте! Квартира всё ещё свободна?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_1",
+      "word": "Is this room available next weekend?",
+      "translation": "Эта комната свободна на следующие выходные?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_2",
+      "word": "For what dates?",
+      "translation": "На какие даты?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_3",
+      "word": "From June third to June tenth.",
+      "translation": "С третьего по десятое июня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_4",
+      "word": "How many guests does it sleep?",
+      "translation": "Сколько человек может разместиться?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_5",
+      "word": "Is the price per person or total?",
+      "translation": "Цена за человека или за всех?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_6",
+      "word": "Does the price include utilities?",
+      "translation": "В цену входят коммунальные услуги?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_7",
+      "word": "Is there an extra cleaning fee?",
+      "translation": "Есть отдельная плата за уборку?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_8",
+      "word": "What time is check-in?",
+      "translation": "Во сколько заселение?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_9",
+      "word": "Is early check-in possible?",
+      "translation": "Возможно ли раннее заселение?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_10",
+      "word": "Can we drop our bags off before check-in?",
+      "translation": "Можно оставить сумки до заселения?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_11",
+      "word": "How do we get the keys?",
+      "translation": "Как мы получим ключи?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_12",
+      "word": "Someone will meet us at the apartment.",
+      "translation": "Кто-то встретит нас у квартиры.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_13",
+      "word": "Is there self check-in with a code?",
+      "translation": "Есть самостоятельное заселение по коду?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_14",
+      "word": "Is there free parking nearby?",
+      "translation": "Есть ли бесплатная парковка рядом?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_15",
+      "word": "How far is the nearest metro station?",
+      "translation": "Как далеко ближайшая станция метро?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_16",
+      "word": "Is the area safe at night?",
+      "translation": "Этот район безопасен ночью?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_17",
+      "word": "Is the building quiet?",
+      "translation": "Дом тихий?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_18",
+      "word": "Is smoking allowed?",
+      "translation": "Можно курить?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_19",
+      "word": "Are pets allowed?",
+      "translation": "Можно с животными?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_20",
+      "word": "Is there air conditioning?",
+      "translation": "Есть кондиционер?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_21",
+      "word": "Is there a washing machine?",
+      "translation": "Есть стиральная машина?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_22",
+      "word": "Is there Wi-Fi, and how fast is it?",
+      "translation": "Есть Wi-Fi, и какой скорости?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_23",
+      "word": "What’s the Wi-Fi password?",
+      "translation": "Какой пароль от Wi-Fi?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_24",
+      "word": "The hot water isn’t working.",
+      "translation": "Горячая вода не работает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_25",
+      "word": "The heater won’t turn on.",
+      "translation": "Обогреватель не включается.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_26",
+      "word": "The door won’t lock properly.",
+      "translation": "Дверь нормально не запирается.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_27",
+      "word": "There’s no toilet paper left.",
+      "translation": "Туалетная бумага закончилась.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_28",
+      "word": "Could you send someone to fix it?",
+      "translation": "Не могли бы вы прислать кого-нибудь починить?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_29",
+      "word": "We accidentally broke a glass, sorry!",
+      "translation": "Мы случайно разбили стакан, извините!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_30",
+      "word": "Where should we throw out the trash?",
+      "translation": "Куда выбрасывать мусор?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_31",
+      "word": "Where can we park?",
+      "translation": "Где нам можно парковаться?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_32",
+      "word": "Thanks for the recommendations!",
+      "translation": "Спасибо за рекомендации!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_33",
+      "word": "Any tips for local restaurants?",
+      "translation": "Посоветуете местные рестораны?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_34",
+      "word": "We’re checking out tomorrow morning.",
+      "translation": "Мы съезжаем завтра утром.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_35",
+      "word": "Where should we leave the keys?",
+      "translation": "Где нам оставить ключи?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_36",
+      "word": "Everything was great, thank you!",
+      "translation": "Всё было замечательно, спасибо!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_37",
+      "word": "We really enjoyed our stay.",
+      "translation": "Нам очень понравилось жить здесь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_38",
+      "word": "Would you mind writing us a review?",
+      "translation": "Не могли бы вы написать нам отзыв?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_39",
+      "word": "Sure, we’ll leave a five-star review!",
+      "translation": "Конечно, оставим пятизвёздочный отзыв!",
+      "language": "en"
+    }
+  ]
+}

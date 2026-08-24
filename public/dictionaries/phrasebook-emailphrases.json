@@ -1,0 +1,283 @@
+{
+  "id": "phrasebook-emailphrases",
+  "name": "Email & Messages",
+  "description": "Электронные письма: приветствия, вежливые формулировки, подпись",
+  "entries": [
+    {
+      "id": "pbq_email_0",
+      "word": "Dear Sir or Madam,",
+      "translation": "Уважаемый господин или госпожа (официальное начало письма),",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_1",
+      "word": "Dear Mr. Johnson,",
+      "translation": "Уважаемый мистер Джонсон,",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_2",
+      "word": "Dear Ms. Parker,",
+      "translation": "Уважаемая миссис Паркер,",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_3",
+      "word": "Hi John,",
+      "translation": "Привет, Джон,",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_4",
+      "word": "Hello team,",
+      "translation": "Привет, команда,",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_5",
+      "word": "Good afternoon, colleagues.",
+      "translation": "Добрый день, коллеги.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_6",
+      "word": "I am writing to inquire about…",
+      "translation": "Пишу вам, чтобы узнать о...",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_7",
+      "word": "I am writing regarding your recent order.",
+      "translation": "Пишу по поводу вашего недавнего заказа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_8",
+      "word": "With reference to our conversation…",
+      "translation": "Со ссылкой на наш разговор...",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_9",
+      "word": "Further to my previous email…",
+      "translation": "В дополнение к моему предыдущему письму...",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_10",
+      "word": "As discussed, I am sending you the files.",
+      "translation": "Как договаривались, отправляю вам файлы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_11",
+      "word": "Please find attached the report.",
+      "translation": "Во вложении вы найдёте отчёт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_12",
+      "word": "Attached you will find the invoice.",
+      "translation": "Во вложении счёт-фактура.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_13",
+      "word": "I have attached my resume for your review.",
+      "translation": "Прилагаю моё резюме на рассмотрение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_14",
+      "word": "Could you please confirm receipt of this message?",
+      "translation": "Не могли бы вы подтвердить получение этого сообщения?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_15",
+      "word": "I would appreciate a prompt reply.",
+      "translation": "Буду признателен за оперативный ответ.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_16",
+      "word": "Looking forward to hearing from you.",
+      "translation": "Жду вашего ответа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_17",
+      "word": "Awaiting your feedback.",
+      "translation": "Ожидаю вашей обратной связи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_18",
+      "word": "Please respond at your earliest convenience.",
+      "translation": "Ответьте, пожалуйста, как будет удобно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_19",
+      "word": "No rush — whenever you get a chance.",
+      "translation": "Без спешки — когда будет возможность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_20",
+      "word": "Just a quick reminder about tomorrow’s meeting.",
+      "translation": "Небольшое напоминание о завтрашней встрече.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_21",
+      "word": "This is a gentle nudge about the pending payment.",
+      "translation": "Мягко напоминаю об ожидающемся платеже.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_22",
+      "word": "Apologies for the late reply.",
+      "translation": "Прошу прощения за поздний ответ.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_23",
+      "word": "Sorry for the delayed response, I was on vacation.",
+      "translation": "Извините за задержку с ответом, я был в отпуске.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_24",
+      "word": "Thanks for getting back to me.",
+      "translation": "Спасибо, что ответили.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_25",
+      "word": "Thank you for your quick reply.",
+      "translation": "Спасибо за быстрый ответ.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_26",
+      "word": "I appreciate your help with this matter.",
+      "translation": "Ценю вашу помощь в этом вопросе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_27",
+      "word": "Unfortunately, we cannot accept the offer.",
+      "translation": "К сожалению, мы не можем принять предложение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_28",
+      "word": "Regretfully, I must decline.",
+      "translation": "К сожалению, вынужден отказаться.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_29",
+      "word": "We regret to inform you that…",
+      "translation": "С сожалением сообщаем, что...",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_30",
+      "word": "Please keep me informed of any changes.",
+      "translation": "Информируйте меня о любых изменениях.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_31",
+      "word": "Let me know if anything is unclear.",
+      "translation": "Сообщите, если что-то непонятно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_32",
+      "word": "Feel free to reach out if you have questions.",
+      "translation": "Обращайтесь, если возникнут вопросы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_33",
+      "word": "Don’t hesitate to contact me.",
+      "translation": "Не стесняйтесь связаться со мной.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_34",
+      "word": "If you have any questions, just ask.",
+      "translation": "Если есть вопросы, просто спросите.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_35",
+      "word": "Could you resend the file? It didn’t open.",
+      "translation": "Могли бы вы прислать файл заново? Он не открылся.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_36",
+      "word": "I might have misunderstood — could you clarify?",
+      "translation": "Возможно, я неправильно понял — могли бы уточнить?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_37",
+      "word": "Just to confirm: the meeting is at three, right?",
+      "translation": "Чтобы уточнить: встреча в три, верно?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_38",
+      "word": "CC’ing Anna for visibility.",
+      "translation": "Ставлю Анну в копию для информации.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_39",
+      "word": "Moving this thread offline.",
+      "translation": "Продолжим обсуждение вне цепочки писем.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_40",
+      "word": "Best regards,",
+      "translation": "С наилучшими пожеланиями,",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_41",
+      "word": "Kind regards,",
+      "translation": "С уважением,",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_42",
+      "word": "Sincerely,",
+      "translation": "Искренне ваш,",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_43",
+      "word": "All the best,",
+      "translation": "Всего доброго,",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_44",
+      "word": "Talk soon,",
+      "translation": "До связи,",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_45",
+      "word": "Sent from my iPhone.",
+      "translation": "Отправлено с iPhone.",
+      "language": "en"
+    }
+  ]
+}

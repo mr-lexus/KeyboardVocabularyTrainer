@@ -1,0 +1,223 @@
+{
+  "id": "phrasebook-lostitems",
+  "name": "Lost Items & Theft",
+  "description": "Что-то потерялось или украли: как сообщить и что говорить",
+  "entries": [
+    {
+      "id": "pbq_lostitems_0",
+      "word": "Excuse me, I think I lost my wallet.",
+      "translation": "Извините, кажется, я потерял свой кошелёк.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_1",
+      "word": "I can’t find my passport!",
+      "translation": "Я не могу найти свой паспорт!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_2",
+      "word": "My bag was stolen!",
+      "translation": "У меня украли сумку!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_3",
+      "word": "Someone stole my phone on the bus.",
+      "translation": "Кто-то украл мой телефон в автобусе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_4",
+      "word": "I left my phone in the taxi.",
+      "translation": "Я забыл телефон в такси.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_5",
+      "word": "Has anyone turned in a black purse?",
+      "translation": "Кто-нибудь сдавал чёрную сумочку?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_6",
+      "word": "Did anyone find a set of keys?",
+      "translation": "Никто не находил связку ключей?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_7",
+      "word": "It’s a small brown leather wallet.",
+      "translation": "Это маленький коричневый кожаный кошелёк.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_8",
+      "word": "There were documents inside.",
+      "translation": "Внутри были документы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_9",
+      "word": "Where is the lost and found?",
+      "translation": "Где находится бюро находок?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_10",
+      "word": "When did you see it last?",
+      "translation": "Когда вы видели её в последний раз?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_11",
+      "word": "Describe the item, please.",
+      "translation": "Опишите вещь, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_12",
+      "word": "Can you retrace your steps?",
+      "translation": "Можете вспомнить, где вы были?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_13",
+      "word": "Check with reception, maybe someone found it.",
+      "translation": "Спросите на ресепшене, может, кто-то нашёл.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_14",
+      "word": "I’d like to report a theft.",
+      "translation": "Я хочу заявить о краже.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_15",
+      "word": "I want to file a police report.",
+      "translation": "Я хочу написать заявление в полицию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_16",
+      "word": "It happened about an hour ago near the market.",
+      "translation": "Это случилось около часа назад возле рынка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_17",
+      "word": "He grabbed my bag and ran off.",
+      "translation": "Он выхватил сумку и убежал.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_18",
+      "word": "I didn’t see his face clearly.",
+      "translation": "Я не разглядел его лицо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_19",
+      "word": "He was wearing a grey hoodie.",
+      "translation": "На нём была серая толстовка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_20",
+      "word": "Was anyone injured?",
+      "translation": "Кто-нибудь пострадал?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_21",
+      "word": "No, nobody was hurt.",
+      "translation": "Нет, никто не пострадал.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_22",
+      "word": "My credit cards were in the wallet.",
+      "translation": "В кошельке были мои кредитные карты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_23",
+      "word": "I need to block my cards immediately.",
+      "translation": "Мне нужно немедленно заблокировать карты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_24",
+      "word": "Call my bank, please.",
+      "translation": "Позвоните в мой банк, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_25",
+      "word": "My phone had all my contacts in it.",
+      "translation": "В телефоне были все мои контакты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_26",
+      "word": "Can I use your phone to call the police?",
+      "translation": "Можно воспользоваться вашим телефоном, чтобы вызвать полицию?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_27",
+      "word": "Is there anything valuable inside?",
+      "translation": "Есть ли что-то ценное внутри?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_28",
+      "word": "Luckily, the documents are intact.",
+      "translation": "К счастью, документы целы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_29",
+      "word": "Thank goodness I found it!",
+      "translation": "Слава богу, я нашёл это!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_30",
+      "word": "Oh great, it was in my other pocket!",
+      "translation": "Отлично, оно было в другом кармане!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_31",
+      "word": "Everything is here, nothing missing.",
+      "translation": "Всё на месте, ничего не пропало.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_32",
+      "word": "Report any suspicious activity.",
+      "translation": "Сообщайте о любых подозрительных действиях.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_33",
+      "word": "Be careful with your belongings.",
+      "translation": "Следите за своими вещами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_34",
+      "word": "Keep an eye on your bags.",
+      "translation": "Присматривайте за сумками.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_35",
+      "word": "Pickpockets work in crowded places.",
+      "translation": "Карманники работают в людных местах.",
+      "language": "en"
+    }
+  ]
+}

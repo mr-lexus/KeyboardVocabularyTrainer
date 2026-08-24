@@ -1,0 +1,283 @@
+{
+  "id": "phrasebook-phonecalls",
+  "name": "Phone & Video Calls",
+  "description": "Телефонные разговоры и видеозвонки: представление, связь, прощание",
+  "entries": [
+    {
+      "id": "pbq_phonecalls_0",
+      "word": "Hello, this is Mark calling.",
+      "translation": "Алло, это Марк звонит.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_1",
+      "word": "Hi, it’s Kate.",
+      "translation": "Привет, это Кейт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_2",
+      "word": "Who’s calling, please?",
+      "translation": "Кто звонит, скажите, пожалуйста?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_3",
+      "word": "May I ask who’s calling?",
+      "translation": "Можно узнать, кто звонит?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_4",
+      "word": "Hold on, please.",
+      "translation": "Подождите минутку, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_5",
+      "word": "Just a second, I’ll get him.",
+      "translation": "Одну секунду, сейчас позову его.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_6",
+      "word": "Hang on a moment, please.",
+      "translation": "Повесьте трубку на минуту... подождите, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_7",
+      "word": "I’m putting you through now.",
+      "translation": "Соединяю вас.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_8",
+      "word": "Sorry, she’s not available right now.",
+      "translation": "Извините, она сейчас не может подойти.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_9",
+      "word": "She’s on another call.",
+      "translation": "Она разговаривает по другой линии.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_10",
+      "word": "He stepped out of the office.",
+      "translation": "Он вышел из офиса.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_11",
+      "word": "Would you like to leave a message?",
+      "translation": "Хотите оставить сообщение?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_12",
+      "word": "Can I leave a message for her?",
+      "translation": "Можно оставить ей сообщение?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_13",
+      "word": "Please tell him Alex called.",
+      "translation": "Передайте ему, что звонил Алекс.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_14",
+      "word": "I’ll call back later.",
+      "translation": "Я перезвоню позже.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_15",
+      "word": "Ask her to call me back, please.",
+      "translation": "Попросите её перезвонить мне, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_16",
+      "word": "Sorry, you’ve got the wrong number.",
+      "translation": "Извините, вы ошиблись номером.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_17",
+      "word": "What number did you dial?",
+      "translation": "Какой номер вы набрали?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_18",
+      "word": "Sorry, I must have dialled wrong.",
+      "translation": "Извините, должно быть, я набрал не тот номер.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_19",
+      "word": "The line is busy.",
+      "translation": "Линия занята.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_20",
+      "word": "You’re breaking up.",
+      "translation": "Ты прерываешься. / Связь плохая.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_21",
+      "word": "You’re cutting out.",
+      "translation": "Тебя обрывает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_22",
+      "word": "I can barely hear you.",
+      "translation": "Я почти тебя не слышу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_23",
+      "word": "Say that again, please.",
+      "translation": "Повторите, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_24",
+      "word": "We have a bad connection.",
+      "translation": "У нас плохая связь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_25",
+      "word": "Let me call you back on WhatsApp.",
+      "translation": "Я перезвоню тебе через WhatsApp.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_26",
+      "word": "Switch to video, let me see you!",
+      "translation": "Переключись на видео, дай посмотреть на тебя!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_27",
+      "word": "Can you hear me now?",
+      "translation": "Теперь вы меня слышите?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_28",
+      "word": "Loud and clear!",
+      "translation": "Отлично слышно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_29",
+      "word": "Your microphone is muted.",
+      "translation": "Ваш микрофон выключен.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_30",
+      "word": "Unmute yourself, please.",
+      "translation": "Включите микрофон, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_31",
+      "word": "You’re frozen again.",
+      "translation": "У вас снова зависло видео.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_32",
+      "word": "Your camera is off.",
+      "translation": "У вас выключена камера.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_33",
+      "word": "Share your screen, please.",
+      "translation": "Покажите экран, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_34",
+      "word": "I’ll send you the link.",
+      "translation": "Я пришлю вам ссылку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_35",
+      "word": "Join the meeting, we’re waiting for you.",
+      "translation": "Заходите в конференцию, вас ждут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_36",
+      "word": "Sorry, I have another call coming in.",
+      "translation": "Извините, у меня входящий вызов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_37",
+      "word": "Can I call you back in five minutes?",
+      "translation": "Я могу перезвонить через пять минут?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_38",
+      "word": "Text me instead, it’s noisy here.",
+      "translation": "Лучше напиши сообщение, тут шумно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_39",
+      "word": "Sorry, I missed your call.",
+      "translation": "Извините, я пропустил твой звонок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_40",
+      "word": "Why didn’t you pick up?",
+      "translation": "Почему ты не взял трубку?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_41",
+      "word": "My battery is dying.",
+      "translation": "Мой телефон садится.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_42",
+      "word": "I’m almost out of credit.",
+      "translation": "У меня почти закончились деньги на счёте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_43",
+      "word": "Talk soon, bye!",
+      "translation": "Созвонимся, пока!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_44",
+      "word": "Thanks for calling. Goodbye!",
+      "translation": "Спасибо за звонок. До свидания!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_45",
+      "word": "Speak to you soon!",
+      "translation": "До связи!",
+      "language": "en"
+    }
+  ]
+}

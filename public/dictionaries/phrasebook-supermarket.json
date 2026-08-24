@@ -1,0 +1,259 @@
+{
+  "id": "phrasebook-supermarket",
+  "name": "Supermarket",
+  "description": "Продуктовый магазин: поиск товаров, вес, оплата, пакеты",
+  "entries": [
+    {
+      "id": "pbq_supermarket_0",
+      "word": "Where can I find milk?",
+      "translation": "Где найти молоко?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_1",
+      "word": "Which aisle is the cereal in?",
+      "translation": "В каком ряду хлопья?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_2",
+      "word": "Do you sell fresh basil?",
+      "translation": "У вас продается свежий базилик?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_3",
+      "word": "Where is the bakery section?",
+      "translation": "Где отдел выпечки?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_4",
+      "word": "Is there a butcher counter here?",
+      "translation": "Здесь есть мясной прилавок?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_5",
+      "word": "Where’s the checkout?",
+      "translation": "Где касса?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_6",
+      "word": "Excuse me, is this queue for cash only?",
+      "translation": "Извините, эта очередь только для оплаты наличными?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_7",
+      "word": "Are these bananas ripe?",
+      "translation": "Эти бананы спелые?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_8",
+      "word": "How much are the tomatoes?",
+      "translation": "Сколько стоят помидоры?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_9",
+      "word": "These are on sale, right?",
+      "translation": "Они же по скидке, верно?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_10",
+      "word": "Is this the sale price?",
+      "translation": "Это цена со скидкой?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_11",
+      "word": "Buy one, get one free!",
+      "translation": "Два по цене одного — второй бесплатно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_12",
+      "word": "Do you have this in stock?",
+      "translation": "Это есть в наличии?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_13",
+      "word": "When will you restock the eggs?",
+      "translation": "Когда завезут яйца?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_14",
+      "word": "Half a kilo of cheese, please.",
+      "translation": "Полкило сыра, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_15",
+      "word": "Two hundred grams of ham, please.",
+      "translation": "Двести граммов ветчины, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_16",
+      "word": "Slice it thin, please.",
+      "translation": "Нарежьте тонко, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_17",
+      "word": "A loaf of white bread, please.",
+      "translation": "Батон белого хлеба, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_18",
+      "word": "Is this gluten-free?",
+      "translation": "Это без глютена?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_19",
+      "word": "Does it contain preservatives?",
+      "translation": "Там есть консерванты?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_20",
+      "word": "What’s the expiration date?",
+      "translation": "Какой срок годности?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_21",
+      "word": "It expires tomorrow, better take another one.",
+      "translation": "Срок истекает завтра, лучше возьмите другую.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_22",
+      "word": "Do you have a loyalty card?",
+      "translation": "У вас есть карта лояльности?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_23",
+      "word": "I don’t have one, sorry.",
+      "translation": "Нет, у меня её нет, извините.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_24",
+      "word": "Paper or plastic?",
+      "translation": "Бумажный пакет или пластиковый?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_25",
+      "word": "A bag, please.",
+      "translation": "Пакет, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_26",
+      "word": "I brought my own bag.",
+      "translation": "Я принёс свой пакет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_27",
+      "word": "Card or cash?",
+      "translation": "Картой или наличными?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_28",
+      "word": "Pay by card, please.",
+      "translation": "Оплата картой, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_29",
+      "word": "Insert your card into the reader.",
+      "translation": "Вставьте карту в терминал.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_30",
+      "word": "Enter your PIN, please.",
+      "translation": "Введите ваш PIN-код, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_31",
+      "word": "Contactless doesn’t work, try inserting it.",
+      "translation": "Бесконтактная оплата не работает, попробуйте вставить карту.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_32",
+      "word": "Would you like a receipt?",
+      "translation": "Вам нужен чек?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_33",
+      "word": "Receipt, please.",
+      "translation": "Чек, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_34",
+      "word": "Self-checkout is faster.",
+      "translation": "Самообслуживание быстрее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_35",
+      "word": "Unexpected item in the bagging area.",
+      "translation": "Неожиданный предмет в зоне упаковки (сообщение кассы самообслуживания).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_36",
+      "word": "Call an assistant, please!",
+      "translation": "Позовите помощника, пожалуйста!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_37",
+      "word": "Can I return this without a receipt?",
+      "translation": "Можно вернуть это без чека?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_38",
+      "word": "I need a refund for this item.",
+      "translation": "Мне нужен возврат денег за этот товар.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_39",
+      "word": "It’s past the return window, sorry.",
+      "translation": "Срок возврата уже прошёл, извините.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_40",
+      "word": "Groceries are getting expensive.",
+      "translation": "Продукты дорожают.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_41",
+      "word": "Prices went up again.",
+      "translation": "Цены снова выросли.",
+      "language": "en"
+    }
+  ]
+}
