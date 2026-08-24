@@ -4,12 +4,6 @@
   "description": "Phrasebook for Computers & Software",
   "entries": [
     {
-      "id": "pb_computerssoftware_0_0",
-      "word": "Tom is a software developer.",
-      "translation": "Том — разработчик программного обеспечения.",
-      "language": "en"
-    },
-    {
       "id": "pb_computerssoftware_0_1",
       "word": "This TV program seems to be very entertaining.",
       "translation": "Эта программа кажется очень интересной.",
@@ -19,18 +13,6 @@
       "id": "pb_computerssoftware_0_2",
       "word": "What is a postal code?",
       "translation": "Что такое почтовый индекс?",
-      "language": "en"
-    },
-    {
-      "id": "pb_computerssoftware_0_3",
-      "word": "Tom ate a bug.",
-      "translation": "Том съел жука.",
-      "language": "en"
-    },
-    {
-      "id": "pb_computerssoftware_0_4",
-      "word": "Tom is working as a software engineer.",
-      "translation": "Том работает инженером-программистом.",
       "language": "en"
     },
     {
@@ -70,12 +52,6 @@
       "language": "en"
     },
     {
-      "id": "pb_computerssoftware_0_11",
-      "word": "Tom's eyes widened in terror.",
-      "translation": "Глаза Тома расширились от ужаса.",
-      "language": "en"
-    },
-    {
       "id": "pb_computerssoftware_0_12",
       "word": "Don't delete this file.",
       "translation": "Не удаляйте этот файл.",
@@ -88,12 +64,6 @@
       "language": "en"
     },
     {
-      "id": "pb_computerssoftware_0_14",
-      "word": "Tom is learning programming.",
-      "translation": "Том учится программированию.",
-      "language": "en"
-    },
-    {
       "id": "pb_computerssoftware_0_15",
       "word": "Do you know how to program?",
       "translation": "Вы умеете программировать?",
@@ -103,12 +73,6 @@
       "id": "pb_computerssoftware_0_16",
       "word": "An update is available.",
       "translation": "Доступно обновление.",
-      "language": "en"
-    },
-    {
-      "id": "pb_computerssoftware_0_17",
-      "word": "Tom screamed in terror.",
-      "translation": "Том в ужасе вскрикнул.",
       "language": "en"
     },
     {
@@ -148,21 +112,9 @@
       "language": "en"
     },
     {
-      "id": "pb_computerssoftware_0_24",
-      "word": "Tom renamed the folder.",
-      "translation": "Том переименовал папку.",
-      "language": "en"
-    },
-    {
       "id": "pb_computerssoftware_0_25",
       "word": "The update is being installed.",
       "translation": "Обновление устанавливается.",
-      "language": "en"
-    },
-    {
-      "id": "pb_computerssoftware_0_26",
-      "word": "Tom fixed the bug.",
-      "translation": "Том пофиксил баг.",
       "language": "en"
     },
     {
@@ -205,12 +157,6 @@
       "id": "pb_computerssoftware_0_33",
       "word": "Everybody laughed at his error.",
       "translation": "Все смеялись над его ошибкой.",
-      "language": "en"
-    },
-    {
-      "id": "pb_computerssoftware_0_34",
-      "word": "Tom thought Mary knew how to program in Python, JavaScript and Perl.",
-      "translation": "Том думал, что Мэри умеет программировать на Python, JavaScript и Perl.",
       "language": "en"
     },
     {
@@ -307,18 +253,6 @@
       "id": "pb_computerssoftware_1_0",
       "word": "It isn't going to be easy to decode.",
       "translation": "Это будет нелегко расшифровать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_computerssoftware_1_1",
-      "word": "Tom quickly realized his error.",
-      "translation": "Том быстро понял свою ошибку.",
-      "language": "en"
-    },
-    {
-      "id": "pb_computerssoftware_1_2",
-      "word": "I'll see if Tom knows how to program in JavaScript.",
-      "translation": "Я посмотрю, умеет ли Том программировать на языке JavaScript.",
       "language": "en"
     },
     {
@@ -508,39 +442,15 @@
       "language": "en"
     },
     {
-      "id": "pb_computerssoftware_1_34",
-      "word": "Tom got good at programming in JavaScript.",
-      "translation": "Том научился хорошо программировать на JavaScript.",
-      "language": "en"
-    },
-    {
       "id": "pb_computerssoftware_1_35",
       "word": "I wrote a program in C.",
       "translation": "Я написал программу на языке C.",
       "language": "en"
     },
     {
-      "id": "pb_computerssoftware_1_36",
-      "word": "Tom reinstalled the software that had accidentally been deleted.",
-      "translation": "Том переустановил программу, которую случайно удалил.",
-      "language": "en"
-    },
-    {
-      "id": "pb_computerssoftware_1_37",
-      "word": "Tom doesn't know the first thing about programming.",
-      "translation": "Том ни бум-бум в программировании.",
-      "language": "en"
-    },
-    {
       "id": "pb_computerssoftware_1_38",
       "word": "This TV program is really quite interesting.",
       "translation": "Эта телепрограмма в самом деле довольно интересная.",
-      "language": "en"
-    },
-    {
-      "id": "pb_computerssoftware_1_39",
-      "word": "Tom made a serious error.",
-      "translation": "Том совершил серьёзную ошибку.",
       "language": "en"
     },
     {
@@ -565,12 +475,6 @@
       "id": "pb_computerssoftware_1_43",
       "word": "The program gets upgraded regularly.",
       "translation": "Программа регулярно обновляется.",
-      "language": "en"
-    },
-    {
-      "id": "pb_computerssoftware_1_44",
-      "word": "Tom squashed the bug.",
-      "translation": "Том раздавил жука.",
       "language": "en"
     },
     {
@@ -631,12 +535,6 @@
       "id": "pb_computerssoftware_2_4",
       "word": "All employees had to memorize the access code.",
       "translation": "Все сотрудники должны были запомнить код доступа.",
-      "language": "en"
-    },
-    {
-      "id": "pb_computerssoftware_2_5",
-      "word": "Where's Tom's file?",
-      "translation": "Где документ Тома?",
       "language": "en"
     },
     {
@@ -712,12 +610,6 @@
       "language": "en"
     },
     {
-      "id": "pb_computerssoftware_2_18",
-      "word": "Tom made a strategic error.",
-      "translation": "Том совершил стратегическую ошибку.",
-      "language": "en"
-    },
-    {
       "id": "pb_computerssoftware_2_19",
       "word": "I've discovered a serious error.",
       "translation": "Я обнаружил серьезную ошибку.",
@@ -766,12 +658,6 @@
       "language": "en"
     },
     {
-      "id": "pb_computerssoftware_2_27",
-      "word": "Tom renamed the file.",
-      "translation": "Том переименовал файл.",
-      "language": "en"
-    },
-    {
       "id": "pb_computerssoftware_2_28",
       "word": "FORTRAN is a programming language.",
       "translation": "FORTRAN - язык программирования.",
@@ -799,12 +685,6 @@
       "id": "pb_computerssoftware_2_32",
       "word": "It's not a bug. It's a feature.",
       "translation": "Это не баг, а фича.",
-      "language": "en"
-    },
-    {
-      "id": "pb_computerssoftware_2_33",
-      "word": "Tom corrected the error.",
-      "translation": "Том исправил ошибку.",
       "language": "en"
     },
     {
@@ -841,18 +721,6 @@
       "id": "pb_computerssoftware_2_39",
       "word": "I didn't save the file.",
       "translation": "Я не сохранил файл.",
-      "language": "en"
-    },
-    {
-      "id": "pb_computerssoftware_2_40",
-      "word": "Tom handed the file to Mary.",
-      "translation": "Том передал папку Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_computerssoftware_2_41",
-      "word": "Tom is a software engineer.",
-      "translation": "Том — инженер-программист.",
       "language": "en"
     },
     {

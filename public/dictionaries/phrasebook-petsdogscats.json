@@ -4,18 +4,6 @@
   "description": "Phrasebook for Pets: Dogs & Cats",
   "entries": [
     {
-      "id": "pb_petsdogscats_0_0",
-      "word": "Did Tom bite you?",
-      "translation": "Том тебя укусил?",
-      "language": "en"
-    },
-    {
-      "id": "pb_petsdogscats_0_1",
-      "word": "Tom took another bite.",
-      "translation": "Том откусил ещё кусок.",
-      "language": "en"
-    },
-    {
       "id": "pb_petsdogscats_0_2",
       "word": "I won't bite.",
       "translation": "Я не буду кусаться.",
@@ -40,18 +28,6 @@
       "language": "en"
     },
     {
-      "id": "pb_petsdogscats_0_6",
-      "word": "Tom has a kitten.",
-      "translation": "У Тома есть котёнок.",
-      "language": "en"
-    },
-    {
-      "id": "pb_petsdogscats_0_7",
-      "word": "Tom took a bite of my apple.",
-      "translation": "Том откусил кусочек от моего яблока.",
-      "language": "en"
-    },
-    {
       "id": "pb_petsdogscats_0_8",
       "word": "The kitten is taking a nap.",
       "translation": "Котёнок дремлет.",
@@ -70,39 +46,9 @@
       "language": "en"
     },
     {
-      "id": "pb_petsdogscats_0_11",
-      "word": "Tom got a puppy.",
-      "translation": "Тому подарили щенка.",
-      "language": "en"
-    },
-    {
-      "id": "pb_petsdogscats_0_12",
-      "word": "Tom bought a puppy.",
-      "translation": "Том купил щенка.",
-      "language": "en"
-    },
-    {
-      "id": "pb_petsdogscats_0_13",
-      "word": "Tom was killed by a snakebite.",
-      "translation": "Том умер от укуса змеи.",
-      "language": "en"
-    },
-    {
-      "id": "pb_petsdogscats_0_14",
-      "word": "Don't let Tom bite you.",
-      "translation": "Не позволяй Тому тебя кусать.",
-      "language": "en"
-    },
-    {
       "id": "pb_petsdogscats_0_15",
       "word": "What do you feed your rabbits?",
       "translation": "Чем ты кормишь своих кроликов?",
-      "language": "en"
-    },
-    {
-      "id": "pb_petsdogscats_0_16",
-      "word": "Tom won't bite you.",
-      "translation": "Том тебя не укусит.",
       "language": "en"
     },
     {
@@ -142,18 +88,6 @@
       "language": "en"
     },
     {
-      "id": "pb_petsdogscats_0_23",
-      "word": "Tom hasn't yet named the puppy.",
-      "translation": "Том еще не назвал щенка.",
-      "language": "en"
-    },
-    {
-      "id": "pb_petsdogscats_0_24",
-      "word": "Mary named her puppy Cookie.",
-      "translation": "Мэри назвала своего щенка Куки.",
-      "language": "en"
-    },
-    {
       "id": "pb_petsdogscats_0_25",
       "word": "I want this puppy.",
       "translation": "Я хочу этого щенка.",
@@ -178,12 +112,6 @@
       "language": "en"
     },
     {
-      "id": "pb_petsdogscats_0_29",
-      "word": "Tom bought a puppy for Mary.",
-      "translation": "Том купил Мэри щенка.",
-      "language": "en"
-    },
-    {
       "id": "pb_petsdogscats_0_30",
       "word": "Barking dogs seldom bite.",
       "translation": "Лающие собаки редко кусают.",
@@ -193,12 +121,6 @@
       "id": "pb_petsdogscats_0_31",
       "word": "Can I take a bite?",
       "translation": "Можно мне кусочек?",
-      "language": "en"
-    },
-    {
-      "id": "pb_petsdogscats_0_32",
-      "word": "Who did Tom bite?",
-      "translation": "Кого укусил Том?",
       "language": "en"
     },
     {
@@ -259,18 +181,6 @@
       "id": "pb_petsdogscats_0_42",
       "word": "I didn't bite anyone.",
       "translation": "Я никого не кусал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_petsdogscats_0_43",
-      "word": "Tom didn't have a scratch on him.",
-      "translation": "На Томе не было ни царапины.",
-      "language": "en"
-    },
-    {
-      "id": "pb_petsdogscats_0_44",
-      "word": "Tom wants a puppy.",
-      "translation": "Том хочет щенка.",
       "language": "en"
     },
     {
@@ -346,12 +256,6 @@
       "language": "en"
     },
     {
-      "id": "pb_petsdogscats_1_7",
-      "word": "Tom has bought a puppy for Mary.",
-      "translation": "Том купил Мэри щенка.",
-      "language": "en"
-    },
-    {
       "id": "pb_petsdogscats_1_8",
       "word": "Are there dogs that don't bark?",
       "translation": "Бывают ли собаки, которые не лают?",
@@ -373,12 +277,6 @@
       "id": "pb_petsdogscats_1_11",
       "word": "How about a bite?",
       "translation": "Как насчет перекусить?",
-      "language": "en"
-    },
-    {
-      "id": "pb_petsdogscats_1_12",
-      "word": "Tom had to start from scratch.",
-      "translation": "Тому пришлось начать с нуля.",
       "language": "en"
     },
     {
@@ -424,12 +322,6 @@
       "language": "en"
     },
     {
-      "id": "pb_petsdogscats_1_20",
-      "word": "Tom took a bite.",
-      "translation": "Том откусил кусочек.",
-      "language": "en"
-    },
-    {
       "id": "pb_petsdogscats_1_21",
       "word": "What did you feed it?",
       "translation": "Чем вы его кормили?",
@@ -448,12 +340,6 @@
       "language": "en"
     },
     {
-      "id": "pb_petsdogscats_1_24",
-      "word": "Tom has a puppy.",
-      "translation": "У Тома есть щенок.",
-      "language": "en"
-    },
-    {
       "id": "pb_petsdogscats_1_25",
       "word": "They had to start from scratch.",
       "translation": "Им пришлось начать с нуля.",
@@ -466,21 +352,9 @@
       "language": "en"
     },
     {
-      "id": "pb_petsdogscats_1_27",
-      "word": "Bite your tongue!",
-      "translation": "Прикуси язык!",
-      "language": "en"
-    },
-    {
       "id": "pb_petsdogscats_1_28",
       "word": "Don't bite your fingernails.",
       "translation": "Не грызи ногти.",
-      "language": "en"
-    },
-    {
-      "id": "pb_petsdogscats_1_29",
-      "word": "Tom took his puppy to the veterinarian.",
-      "translation": "Том свозил щенка к ветеринару.",
       "language": "en"
     },
     {
@@ -493,18 +367,6 @@
       "id": "pb_petsdogscats_1_31",
       "word": "I made it from scratch.",
       "translation": "Я сделал это с нуля.",
-      "language": "en"
-    },
-    {
-      "id": "pb_petsdogscats_1_32",
-      "word": "Tom wants to feed the birds in the park.",
-      "translation": "Том хочет покормить птиц в парке.",
-      "language": "en"
-    },
-    {
-      "id": "pb_petsdogscats_1_33",
-      "word": "Tom has gone out to feed the horses.",
-      "translation": "Том вышел покормить лошадей.",
       "language": "en"
     },
     {
@@ -526,18 +388,6 @@
       "language": "en"
     },
     {
-      "id": "pb_petsdogscats_1_37",
-      "word": "Tom got frostbite.",
-      "translation": "У Тома обморожение.",
-      "language": "en"
-    },
-    {
-      "id": "pb_petsdogscats_1_38",
-      "word": "Tom named his puppy Cookie.",
-      "translation": "Том назвал своего щенка Куки.",
-      "language": "en"
-    },
-    {
       "id": "pb_petsdogscats_1_39",
       "word": "You shouldn't scratch your mosquito bite.",
       "translation": "Вам не следует расчёсывать место укуса комара.",
@@ -547,12 +397,6 @@
       "id": "pb_petsdogscats_1_40",
       "word": "I got a puppy.",
       "translation": "Мне подарили щенка.",
-      "language": "en"
-    },
-    {
-      "id": "pb_petsdogscats_1_41",
-      "word": "Where did Tom get that scratch on his cheek?",
-      "translation": "Откуда у Тома эта царапина на щеке?",
       "language": "en"
     },
     {
@@ -580,12 +424,6 @@
       "language": "en"
     },
     {
-      "id": "pb_petsdogscats_1_46",
-      "word": "Tom bought Mary a puppy.",
-      "translation": "Том купил Мэри щенка.",
-      "language": "en"
-    },
-    {
       "id": "pb_petsdogscats_1_47",
       "word": "It's just a scratch.",
       "translation": "Это просто царапина.",
@@ -595,12 +433,6 @@
       "id": "pb_petsdogscats_1_48",
       "word": "I had to bite my lip to prevent myself from laughing.",
       "translation": "Мне пришлось прикусить губу, чтобы не рассмеяться.",
-      "language": "en"
-    },
-    {
-      "id": "pb_petsdogscats_1_49",
-      "word": "Tom has bought Mary a puppy.",
-      "translation": "Том купил Мэри щенка.",
       "language": "en"
     }
   ]

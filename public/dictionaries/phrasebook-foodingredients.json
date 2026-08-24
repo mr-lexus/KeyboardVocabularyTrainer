@@ -34,12 +34,6 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_0_5",
-      "word": "Tom bought some vegetables and fruit.",
-      "translation": "Том купил кое-какие овощи и фрукты.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_0_6",
       "word": "Cow's milk is tastier than soy milk.",
       "translation": "Коровье молоко вкуснее соевого.",
@@ -58,24 +52,6 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_0_9",
-      "word": "The only thing Tom eats is fruit.",
-      "translation": "Том питается только фруктами.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_0_10",
-      "word": "Tom peeled the banana for Mary.",
-      "translation": "Том почистил для Мэри банан.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_0_11",
-      "word": "Tom could hear Mary crunching on a carrot.",
-      "translation": "Тому было слышно, как Мэри грызёт морковку.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_0_12",
       "word": "Where can I throw these egg shells?",
       "translation": "Куда можно выбросить эту яичную скорлупу?",
@@ -91,30 +67,6 @@
       "id": "pb_foodingredients_0_14",
       "word": "I had a peanut butter and jelly sandwich.",
       "translation": "Я съел сэндвич с арахисовым маслом и джемом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_0_15",
-      "word": "Tom bought some rice.",
-      "translation": "Том купил риса.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_0_16",
-      "word": "Mary likes milk very much.",
-      "translation": "Мэри очень любит молоко.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_0_17",
-      "word": "Tom wants some cheese.",
-      "translation": "Том хочет сыра.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_0_18",
-      "word": "Tom peeled an apple for Mary.",
-      "translation": "Том почистил Мэри яблоко.",
       "language": "en"
     },
     {
@@ -184,12 +136,6 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_0_30",
-      "word": "Tom is eating an apple.",
-      "translation": "Том ест яблоко.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_0_31",
       "word": "I have drunk all my milk.",
       "translation": "Я выпил всё своё молоко.",
@@ -220,33 +166,15 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_0_36",
-      "word": "Tom peeled the apple.",
-      "translation": "Том почистил яблоко.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_0_37",
       "word": "Fresh fruit is good for your health.",
       "translation": "Свежие фрукты полезны для твоего здоровья.",
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_0_38",
-      "word": "Tom is eating a banana.",
-      "translation": "Том ест банан.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_0_39",
       "word": "I accidentally spilled the milk.",
       "translation": "Я случайно пролил молоко.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_0_40",
-      "word": "Tom threw an apple to Mary.",
-      "translation": "Том бросил яблоко Мэри.",
       "language": "en"
     },
     {
@@ -286,12 +214,6 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_0_47",
-      "word": "Tom baked Mary an apple pie.",
-      "translation": "Том испек Мэри яблочный пирог.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_0_48",
       "word": "We don't sell fruit here.",
       "translation": "У нас тут фрукты не продаются.",
@@ -325,12 +247,6 @@
       "id": "pb_foodingredients_1_3",
       "word": "It's not butter. It's margarine.",
       "translation": "Это не сливочное масло. Это маргарин.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_1_4",
-      "word": "Tom doesn't know how to milk a goat.",
-      "translation": "Том не знает, как подоить козу.",
       "language": "en"
     },
     {
@@ -370,39 +286,15 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_1_11",
-      "word": "Tom has three apple trees in his yard.",
-      "translation": "У Тома три яблони в саду.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_1_12",
-      "word": "Tom likes Swiss cheese.",
-      "translation": "Тому нравится швейцарский сыр.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_1_13",
       "word": "I hard-boiled an egg.",
       "translation": "Я сварил яйца вкрутую.",
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_1_14",
-      "word": "Tom helps me milk the cows.",
-      "translation": "Том помогает мне доить коров.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_1_15",
       "word": "I gave each boy an apple.",
       "translation": "Я дал мальчикам по яблоку.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_1_16",
-      "word": "Tom is drinking apple juice.",
-      "translation": "Том пьёт яблочный сок.",
       "language": "en"
     },
     {
@@ -427,12 +319,6 @@
       "id": "pb_foodingredients_1_20",
       "word": "This is a pear, not an apple.",
       "translation": "Это груша, а не яблоко.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_1_21",
-      "word": "Tom eats nothing but fruit.",
-      "translation": "Том не ест ничего, кроме фруктов.",
       "language": "en"
     },
     {
@@ -496,27 +382,9 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_1_32",
-      "word": "Tom has been helping me milk the cows.",
-      "translation": "Том помогает мне доить коров.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_1_33",
-      "word": "Tom wants a banana.",
-      "translation": "Том хочет банан.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_1_34",
       "word": "This apple is big.",
       "translation": "Это яблоко большое.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_1_35",
-      "word": "Tom ate the entire bag of potato chips.",
-      "translation": "Том съел весь пакет чипсов.",
       "language": "en"
     },
     {
@@ -574,12 +442,6 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_1_45",
-      "word": "Is Tom eating an apple or a banana?",
-      "translation": "Том яблоко ест или банан?",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_1_46",
       "word": "I ate a tomato.",
       "translation": "Я съел помидор.",
@@ -628,39 +490,15 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_2_4",
-      "word": "Tom ate the apple you gave him.",
-      "translation": "Том съел яблоко, которое ты ему дал.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_2_5",
       "word": "He slipped on a banana peel.",
       "translation": "Он поскользнулся на банановой шкурке.",
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_2_6",
-      "word": "Tom is frying an egg.",
-      "translation": "Том жарит яичницу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_2_7",
-      "word": "Tom cut the apple in two.",
-      "translation": "Том разрезал яблоко пополам.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_2_8",
       "word": "The bread is old and hard.",
       "translation": "Хлеб старый и чёрствый.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_2_9",
-      "word": "Tom ordered apple pie, and so did I.",
-      "translation": "Том заказал яблочный пирог, и я тоже.",
       "language": "en"
     },
     {
@@ -679,12 +517,6 @@
       "id": "pb_foodingredients_2_12",
       "word": "The bread is fresh.",
       "translation": "Хлеб свежий.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_2_13",
-      "word": "Tom eagerly ate the apple I gave him.",
-      "translation": "Том охотно съел яблоко, которое я ему дала.",
       "language": "en"
     },
     {
@@ -742,12 +574,6 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_2_23",
-      "word": "Tom wanted a banana.",
-      "translation": "Том хотел банан.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_2_24",
       "word": "She's eating fruit.",
       "translation": "Она ест фрукт.",
@@ -766,12 +592,6 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_2_27",
-      "word": "Tom likes beef and I do, too.",
-      "translation": "Том любит говядину, и я тоже.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_2_28",
       "word": "I spilled the milk.",
       "translation": "Я пролил молоко.",
@@ -787,12 +607,6 @@
       "id": "pb_foodingredients_2_30",
       "word": "Who's eaten the cheese?",
       "translation": "Кто съел сыр?",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_2_31",
-      "word": "Tom is eating potato chips.",
-      "translation": "Том ест чипсы.",
       "language": "en"
     },
     {
@@ -826,33 +640,9 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_2_37",
-      "word": "Tom didn't peel the apple before he ate it.",
-      "translation": "Том не почистил яблоко перед тем, как его съесть.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_2_38",
-      "word": "Tom bought Mary a basketful of fruit.",
-      "translation": "Том купил Мэри корзину фруктов.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_2_39",
-      "word": "Tom likes milk.",
-      "translation": "Том любит молоко.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_2_40",
       "word": "One rotten apple spoils the barrel.",
       "translation": "Паршивая овца всё стадо портит.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_2_41",
-      "word": "Tom likes licorice.",
-      "translation": "Том любит лакрицу.",
       "language": "en"
     },
     {
@@ -874,24 +664,6 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_2_45",
-      "word": "Tom threw a rotten egg at Mary.",
-      "translation": "Том бросил в Мэри тухлым яйцом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_2_46",
-      "word": "Tom is eating a tomato.",
-      "translation": "Том ест помидор.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_2_47",
-      "word": "Tom salted his egg.",
-      "translation": "Том посолил яйцо.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_2_48",
       "word": "When I was a kid, I hardly ever ate fruit.",
       "translation": "В детстве я почти не ел фрукты.",
@@ -910,33 +682,15 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_3_1",
-      "word": "Tom stole an apple.",
-      "translation": "Том украл яблоко.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_3_2",
       "word": "The apple was hard and sour.",
       "translation": "Яблоко было жёсткое и кислое.",
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_3_3",
-      "word": "Tom ate the apple.",
-      "translation": "Том съел яблоко.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_3_4",
       "word": "I'm the one who ate the apple.",
       "translation": "Это я съела яблоко.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_3_5",
-      "word": "Tom poured some milk in a bowl for his cats.",
-      "translation": "Том налил котам в миску молока.",
       "language": "en"
     },
     {
@@ -982,18 +736,6 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_3_13",
-      "word": "Tom took a sip of his milk.",
-      "translation": "Том отхлебнул молока.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_3_14",
-      "word": "Tom was eating an apple.",
-      "translation": "Том ел яблоко.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_3_15",
       "word": "Cows give us milk.",
       "translation": "Коровы дают нам молоко.",
@@ -1015,30 +757,6 @@
       "id": "pb_foodingredients_3_18",
       "word": "I gave them each an apple.",
       "translation": "Я дал каждому из них по яблоку.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_3_19",
-      "word": "I hope Tom hasn't already drunk all the milk.",
-      "translation": "Надеюсь, Том ещё не всё молоко выпил.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_3_20",
-      "word": "Tom ate macaroni and cheese.",
-      "translation": "Том поел макарон с сыром.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_3_21",
-      "word": "This apple was given to me by Tom.",
-      "translation": "Это яблоко дал мне Том.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_3_22",
-      "word": "Tom likes pasta.",
-      "translation": "Том любит макароны.",
       "language": "en"
     },
     {
@@ -1066,18 +784,6 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_3_27",
-      "word": "Tom ate a spoonful of peanut butter.",
-      "translation": "Том съел полную ложку арахисовой пасты.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_3_28",
-      "word": "Tom died because he had eaten some contaminated beef.",
-      "translation": "Том умер, потому что съел какую-то зараженную говядину.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_3_29",
       "word": "I bought some bread and a carton of milk.",
       "translation": "Я купил хлеба и пакет молока.",
@@ -1090,21 +796,9 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_3_31",
-      "word": "Tom works in a pasta factory.",
-      "translation": "Том работает на макаронной фабрике.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_3_32",
       "word": "The United States is the largest producer of cheese in the world.",
       "translation": "Соединённые Штаты - самый крупный в мире производитель сыра.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_3_33",
-      "word": "Tom sat under the apple tree, eating an apple.",
-      "translation": "Том сидел под яблоней и ел яблоко.",
       "language": "en"
     },
     {
@@ -1144,21 +838,9 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_3_40",
-      "word": "Pour Tom some milk.",
-      "translation": "Налей Тому молока.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_3_41",
       "word": "She poured milk into the cup.",
       "translation": "Она налила молока в чашку.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_3_42",
-      "word": "I threw Tom an apple.",
-      "translation": "Я бросил Тому яблоко.",
       "language": "en"
     },
     {
@@ -1213,12 +895,6 @@
       "id": "pb_foodingredients_4_1",
       "word": "Do you have a rice cooker?",
       "translation": "У вас есть рисоварка?",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_4_2",
-      "word": "Tom gave Mary an apple.",
-      "translation": "Том дал Мэри яблоко.",
       "language": "en"
     },
     {
@@ -1282,12 +958,6 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_4_13",
-      "word": "Tom eats pork.",
-      "translation": "Том ест свинину.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_4_14",
       "word": "Why is freshly baked bread so good?",
       "translation": "Почему свежеиспечённый хлеб такой вкусный?",
@@ -1336,27 +1006,9 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_4_22",
-      "word": "Tom took the larger apple and gave the smaller one to Mary.",
-      "translation": "Том взял яблоко побольше, а Мэри дал яблоко поменьше.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_4_23",
-      "word": "Tom offered Mary and John some potato chips.",
-      "translation": "Том предложил Мэри и Джону немного картофельных чипсов.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_4_24",
       "word": "What kinds of fruit juices do you have?",
       "translation": "Какие у вас есть фруктовые соки?",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_4_25",
-      "word": "It was Tom who gave me this apple.",
-      "translation": "Это яблоко дал мне Том.",
       "language": "en"
     },
     {
@@ -1378,39 +1030,9 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_4_29",
-      "word": "Tom gave Mary half of the apple.",
-      "translation": "Том дал Мэри половину яблока.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_4_30",
-      "word": "Tom hasn't bought milk yet.",
-      "translation": "Том ещё не купил молоко.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_4_31",
       "word": "This fruit has an unpleasant smell.",
       "translation": "Этот фрукт неприятно пахнет.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_4_32",
-      "word": "Tom and Mary are watching TV and eating potato chips.",
-      "translation": "Том с Мэри смотрят телевизор и едят картофельные чипсы.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_4_33",
-      "word": "Tom handed Mary a ham and cheese sandwich.",
-      "translation": "Том протянул Мэри бутерброд с ветчиной и сыром.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_4_34",
-      "word": "Tom dipped his cookie in his milk.",
-      "translation": "Том окунул печеньку в молоко.",
       "language": "en"
     },
     {
@@ -1444,12 +1066,6 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_4_40",
-      "word": "Tom peeled an apple.",
-      "translation": "Том чистил яблоко.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_4_41",
       "word": "This is a banana.",
       "translation": "Это банан.",
@@ -1474,12 +1090,6 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_4_45",
-      "word": "Tom cut himself peeling an apple.",
-      "translation": "Том порезался, когда чистил яблоко.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_4_46",
       "word": "I baked an apple pie.",
       "translation": "Я испёк яблочный пирог.",
@@ -1492,12 +1102,6 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_4_48",
-      "word": "Tom gave Mary a banana.",
-      "translation": "Том дал Мэри банан.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_4_49",
       "word": "Are you drinking milk?",
       "translation": "Ты пьёшь молоко?",
@@ -1507,18 +1111,6 @@
       "id": "pb_foodingredients_5_0",
       "word": "Here's the apple I found.",
       "translation": "Вот яблоко, которое я нашёл.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_5_1",
-      "word": "Tom fried an egg.",
-      "translation": "Том поджарил яйцо.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_5_2",
-      "word": "Tom threw scraps of bread to the ducks.",
-      "translation": "Том бросил остатки хлеба уткам.",
       "language": "en"
     },
     {
@@ -1546,27 +1138,9 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_5_7",
-      "word": "Tom drank milk.",
-      "translation": "Том пил молоко.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_5_8",
-      "word": "Tom likes the way Mary makes potato salad.",
-      "translation": "Тому нравится, как Мэри готовит картофельный салат.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_5_9",
       "word": "This apple is wormy.",
       "translation": "Это яблоко червивое.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_5_10",
-      "word": "Tom threw me an apple.",
-      "translation": "Том кинул мне яблоко.",
       "language": "en"
     },
     {
@@ -1594,12 +1168,6 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_5_15",
-      "word": "Tom drinks a lot of milk.",
-      "translation": "Том пьёт много молока.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_5_16",
       "word": "This apple has started to rot.",
       "translation": "Это яблоко начало гнить.",
@@ -1624,12 +1192,6 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_5_20",
-      "word": "Tom isn't eating an apple.",
-      "translation": "Том не ест яблоко.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_5_21",
       "word": "How much bread are you buying?",
       "translation": "Сколько хлеба ты купишь?",
@@ -1639,12 +1201,6 @@
       "id": "pb_foodingredients_5_22",
       "word": "Rice is often served in round bowls.",
       "translation": "Рис часто подают в круглых плошках.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_5_23",
-      "word": "Tom slipped on a banana peel.",
-      "translation": "Том поскользнулся на банановой шкурке.",
       "language": "en"
     },
     {
@@ -1660,21 +1216,9 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_5_26",
-      "word": "Tom handed Mary a banana.",
-      "translation": "Том протянул Мэри банан.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_5_27",
       "word": "Is there any butter in the refrigerator?",
       "translation": "Есть ли масло в холодильнике?",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_5_28",
-      "word": "Tom sliced the apple.",
-      "translation": "Том разрезал яблоко.",
       "language": "en"
     },
     {
@@ -1687,12 +1231,6 @@
       "id": "pb_foodingredients_5_30",
       "word": "This cheese needs to be thrown out.",
       "translation": "Этот сыр нужно выбросить.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_5_31",
-      "word": "Tom threw the apple to me.",
-      "translation": "Том кинул яблоко мне.",
       "language": "en"
     },
     {
@@ -1750,39 +1288,15 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_5_41",
-      "word": "Tom gave Mary a ham and cheese sandwich.",
-      "translation": "Том дал Мэри бутерброд с ветчиной и сыром.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_5_42",
       "word": "I drank a little milk and put the rest in the fridge.",
       "translation": "Я отпил немного молока, а остальное поставил в холодильник.",
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_5_43",
-      "word": "Tom gave this apple to me.",
-      "translation": "Том дал мне это яблоко.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_5_44",
       "word": "Here's the milk.",
       "translation": "Вот молоко.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_5_45",
-      "word": "Tom is boiling an egg.",
-      "translation": "Фома варит яйцо.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_5_46",
-      "word": "Tom often drank chocolate milk when he was a kid.",
-      "translation": "Том часто пил шоколадное молоко, когда был ребёнком.",
       "language": "en"
     },
     {
@@ -1876,21 +1390,9 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_6_12",
-      "word": "Tom spilled the milk.",
-      "translation": "Том пролил молоко.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_6_13",
       "word": "I used margarine instead of butter.",
       "translation": "Вместо масла я взял маргарин.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_6_14",
-      "word": "Tom likes fruit more than vegetables.",
-      "translation": "Фрукты Том любит больше, чем овощи.",
       "language": "en"
     },
     {
@@ -1936,24 +1438,6 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_6_22",
-      "word": "Tom made an apple pie.",
-      "translation": "Том испёк яблочный пирог.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_6_23",
-      "word": "Tom is drinking milk.",
-      "translation": "Том пьёт молоко.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_6_24",
-      "word": "Tom peeled the apple for Mary.",
-      "translation": "Том почистил Мэри яблоко.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_6_25",
       "word": "He likes bread and butter.",
       "translation": "Он любит хлеб с маслом.",
@@ -1966,21 +1450,9 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_6_27",
-      "word": "Tom accidentally cut himself while peeling an apple.",
-      "translation": "Том случайно порезался, когда чистил яблоко.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_6_28",
       "word": "This is the best-tasting cheese I've ever eaten.",
       "translation": "Это самый вкусный сыр, который я когда-либо ел.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_6_29",
-      "word": "Tom asked Mary to go to the supermarket to get some milk.",
-      "translation": "Том попросил Мэри сходить в супермаркет за молоком.",
       "language": "en"
     },
     {
@@ -1990,21 +1462,9 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_6_31",
-      "word": "Tom made himself a peanut butter sandwich.",
-      "translation": "Том сделал себе бутерброд с арахисовым маслом.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_6_32",
       "word": "I'd rather use olive oil than butter.",
       "translation": "Я лучше возьму оливковое масло, а не сливочное.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_6_33",
-      "word": "Tom ate the apple Mary gave him.",
-      "translation": "Том съел яблоко, которое ему дала Мэри.",
       "language": "en"
     },
     {
@@ -2038,18 +1498,6 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_6_39",
-      "word": "Tom drank a cup of milk.",
-      "translation": "Том выпил чашку молока.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_6_40",
-      "word": "Tom washed the apple.",
-      "translation": "Том помыл яблоко.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_6_41",
       "word": "There's an assortment of fruit in the box.",
       "translation": "В коробке лежат разные фрукты.",
@@ -2074,45 +1522,15 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_6_45",
-      "word": "Tom drinks milk.",
-      "translation": "Том пьёт молоко.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_6_46",
       "word": "Do you know how to make a grilled cheese sandwich?",
       "translation": "Ты знаешь, как приготовить сэндвич с сыром на гриле?",
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_6_47",
-      "word": "Tom likes dipping cookies in milk.",
-      "translation": "Том любит окунать печенья в молоко.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_6_48",
-      "word": "Tom bought too much milk.",
-      "translation": "Том купил слишком много молока.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_6_49",
       "word": "Everyone likes potato chips.",
       "translation": "Все любят картофельные чипсы.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_7_0",
-      "word": "Tom ate an apple.",
-      "translation": "Том съел яблоко.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_7_1",
-      "word": "Tom loves milk.",
-      "translation": "Том любит молоко.",
       "language": "en"
     },
     {
@@ -2134,21 +1552,9 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_7_5",
-      "word": "Tom asked Mary if she ate pork.",
-      "translation": "Том спросил Мэри, ест ли она свинину.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_7_6",
       "word": "Whip the egg whites until they are stiff.",
       "translation": "Взбейте яичные белки до плотного состояния.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_7_7",
-      "word": "Mary made some egg sandwiches.",
-      "translation": "Мария сделала несколько сэндвичей с яйцом.",
       "language": "en"
     },
     {
@@ -2158,39 +1564,15 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_7_9",
-      "word": "Tom ate the whole apple in less than three minutes.",
-      "translation": "Том съел целое яблоко менее чем за три минуты.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_7_10",
-      "word": "Tom hasn't bought bread yet.",
-      "translation": "Том ещё не купил хлеб.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_7_11",
       "word": "I'm eating an apple.",
       "translation": "Я ем яблоко.",
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_7_12",
-      "word": "Tom ate my apple.",
-      "translation": "Том съел моё яблоко.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_7_13",
       "word": "I'm eating rice now.",
       "translation": "Я сейчас ем рис.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_7_14",
-      "word": "Tom threw me the apple.",
-      "translation": "Том бросил мне яблоко.",
       "language": "en"
     },
     {
@@ -2254,18 +1636,6 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_7_25",
-      "word": "I threw Tom the apple.",
-      "translation": "Я кинул яблоко Тому.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_7_26",
-      "word": "Tom gave an apple to Mary.",
-      "translation": "Том дал Мэри яблоко.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_7_27",
       "word": "There's milk in the fridge.",
       "translation": "В холодильнике есть молоко.",
@@ -2299,12 +1669,6 @@
       "id": "pb_foodingredients_7_32",
       "word": "This is me eating a banana.",
       "translation": "Это я ем банан.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_7_33",
-      "word": "Tom ate some cheese.",
-      "translation": "Том поел сыра.",
       "language": "en"
     },
     {
@@ -2374,45 +1738,9 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_7_45",
-      "word": "Tom sliced the onion.",
-      "translation": "Том резал лук.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_7_46",
       "word": "I wonder whether or not this milk is still good.",
       "translation": "Интересно, это молоко ещё нормальное или уже нет.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_7_47",
-      "word": "Tom planted some fruit trees.",
-      "translation": "Том посадил несколько фруктовых деревьев.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_7_48",
-      "word": "I didn't know that Tom had already bought milk.",
-      "translation": "Я не знал, что Том уже купил молоко.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_7_49",
-      "word": "Tom poured milk into the cup.",
-      "translation": "Том налил в чашку молока.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_8_0",
-      "word": "Tom wants an apple.",
-      "translation": "Том хочет яблоко.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_8_1",
-      "word": "Tom ate one apple.",
-      "translation": "Том съел одно яблоко.",
       "language": "en"
     },
     {
@@ -2446,33 +1774,9 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_8_7",
-      "word": "Tom likes fruit more than he likes vegetables.",
-      "translation": "Фрукты Том любит больше, чем овощи.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_8_8",
-      "word": "Tom ordered an apple juice.",
-      "translation": "Том заказал стакан яблочного сока.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_8_9",
       "word": "This is an onion.",
       "translation": "Это лук.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_8_10",
-      "word": "Tom threw Mary an apple.",
-      "translation": "Том бросил яблоко Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_8_11",
-      "word": "Tom likes cheese.",
-      "translation": "Том любит сыр.",
       "language": "en"
     },
     {
@@ -2494,27 +1798,9 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_8_15",
-      "word": "Tom drank some milk.",
-      "translation": "Том выпил молока.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_8_16",
-      "word": "Tom put a slice of bread into the toaster.",
-      "translation": "Том поместил кусочек хлеба в тостер.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_8_17",
       "word": "This beef is tender.",
       "translation": "Эта говядина нежная.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_8_18",
-      "word": "Tom planted three apple trees in his yard.",
-      "translation": "Том посадил у себя во дворе три яблони.",
       "language": "en"
     },
     {
@@ -2566,12 +1852,6 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_8_27",
-      "word": "Tom took the butter out of the refrigerator.",
-      "translation": "Том достал масло из холодильника.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_8_28",
       "word": "She ate one apple.",
       "translation": "Она съела одно яблоко.",
@@ -2614,27 +1894,9 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_8_35",
-      "word": "Tom poured the milk in a bowl.",
-      "translation": "Том налил молоко в миску.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_8_36",
       "word": "Where's the milk?",
       "translation": "Где молоко?",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_8_37",
-      "word": "Tom opened the fridge and took out the milk.",
-      "translation": "Том открыл холодильник и достал молоко.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_8_38",
-      "word": "Tom washed the apple before he ate it.",
-      "translation": "Том помыл яблоко перед тем, как съесть.",
       "language": "en"
     },
     {
@@ -2653,12 +1915,6 @@
       "id": "pb_foodingredients_8_41",
       "word": "There isn't much milk in the bottle.",
       "translation": "В бутылке не так много молока.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_8_42",
-      "word": "Tom wants some milk.",
-      "translation": "Том хочет молока.",
       "language": "en"
     },
     {
@@ -2704,21 +1960,9 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_9_0",
-      "word": "I gave Tom an apple.",
-      "translation": "Я дала Тому яблоко.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_9_1",
       "word": "The milk is sour.",
       "translation": "Молоко кислое.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_9_2",
-      "word": "Tom gave each one of them an apple.",
-      "translation": "Том дал каждому из них по яблоку.",
       "language": "en"
     },
     {
@@ -2758,12 +2002,6 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_9_9",
-      "word": "Tom gave me an apple.",
-      "translation": "Том дал мне яблоко.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_9_10",
       "word": "Where is the butter?",
       "translation": "Где масло?",
@@ -2776,12 +2014,6 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_9_12",
-      "word": "Tom poured himself some milk.",
-      "translation": "Том налил себе немного молока.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_9_13",
       "word": "Yesterday, I ate an apple.",
       "translation": "Я вчера съел яблоко.",
@@ -2791,12 +2023,6 @@
       "id": "pb_foodingredients_9_14",
       "word": "Is that an apple?",
       "translation": "Это яблоко?",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_9_15",
-      "word": "Tom has been eating too much pork.",
-      "translation": "Том съел слишком много свинины.",
       "language": "en"
     },
     {
@@ -2848,21 +2074,9 @@
       "language": "en"
     },
     {
-      "id": "pb_foodingredients_9_24",
-      "word": "Tom is the one who gave me this apple.",
-      "translation": "Именно Том дал мне это яблоко.",
-      "language": "en"
-    },
-    {
       "id": "pb_foodingredients_9_25",
       "word": "The milk is in the fridge.",
       "translation": "Молоко в холодильнике.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_9_26",
-      "word": "Tom ate a banana.",
-      "translation": "Том съел банан.",
       "language": "en"
     },
     {
@@ -2893,12 +2107,6 @@
       "id": "pb_foodingredients_9_31",
       "word": "Is this milk still good?",
       "translation": "Это молоко ещё не испортилось?",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_9_32",
-      "word": "Tom helped me milk the cows.",
-      "translation": "Том помогал мне доить коров.",
       "language": "en"
     },
     {
@@ -2971,12 +2179,6 @@
       "id": "pb_foodingredients_9_44",
       "word": "The tomato is a vegetable, not a fruit.",
       "translation": "Помидоры - это овощи, а не фрукты.",
-      "language": "en"
-    },
-    {
-      "id": "pb_foodingredients_9_45",
-      "word": "Tom wasn't the one who drank all the milk.",
-      "translation": "Это не Том всё молоко выпил.",
       "language": "en"
     },
     {

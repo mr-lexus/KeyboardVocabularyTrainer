@@ -40,18 +40,6 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_0_6",
-      "word": "Is Tom on the boat?",
-      "translation": "Том в лодке?",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_0_7",
-      "word": "Tom's boat sank.",
-      "translation": "Лодка Тома утонула.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_0_8",
       "word": "I got in the boat.",
       "translation": "Я сел в лодку.",
@@ -82,21 +70,9 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_0_13",
-      "word": "Is this bike Tom's?",
-      "translation": "Это велосипед Тома?",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_0_14",
       "word": "I have a truck.",
       "translation": "У меня есть грузовик.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_0_15",
-      "word": "Is this Tom's bike?",
-      "translation": "Это велосипед Тома?",
       "language": "en"
     },
     {
@@ -130,27 +106,9 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_0_21",
-      "word": "A truck hit Tom.",
-      "translation": "Тома сбил грузовик.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_0_22",
-      "word": "Someone stole Tom's bicycle.",
-      "translation": "У Тома украли велосипед.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_0_23",
       "word": "A helicopter circled over us.",
       "translation": "Над нами кружил вертолёт.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_0_24",
-      "word": "I told Tom to go there by bicycle.",
-      "translation": "Я сказал Тому, чтобы он ехал туда на велосипеде.",
       "language": "en"
     },
     {
@@ -172,12 +130,6 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_0_28",
-      "word": "Tom values your friendship.",
-      "translation": "Том ценит дружбу с тобой.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_0_29",
       "word": "I want a bicycle.",
       "translation": "Я хочу велосипед.",
@@ -190,45 +142,9 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_0_31",
-      "word": "Tom arrived here by bicycle.",
-      "translation": "Том приехал сюда на велосипеде.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_0_32",
-      "word": "Does Tom own a boat?",
-      "translation": "У Тома есть лодка?",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_0_33",
       "word": "We rented a rowboat.",
       "translation": "Мы арендовали лодку.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_0_34",
-      "word": "Tom sold his old bicycle to Mary.",
-      "translation": "Том продал свой старый велосипед Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_0_35",
-      "word": "Tom drives a truck.",
-      "translation": "Том водит грузовик.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_0_36",
-      "word": "Tom's truck just pulled up outside.",
-      "translation": "Грузовик Тома как раз остановился снаружи.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_0_37",
-      "word": "Tom got on his bike and rode away.",
-      "translation": "Том сел на свой велосипед и уехал.",
       "language": "en"
     },
     {
@@ -268,24 +184,6 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_0_44",
-      "word": "Didn't you know Tom owned a scooter?",
-      "translation": "Ты не знал, что у Тома есть скутер?",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_0_45",
-      "word": "Tom climbed into his truck.",
-      "translation": "Том забрался в свой грузовик.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_0_46",
-      "word": "I fixed Tom's bicycle.",
-      "translation": "Я починил Тому велосипед.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_0_47",
       "word": "The whole ship was quarantined.",
       "translation": "Всё судно было посажено на карантин.",
@@ -298,21 +196,9 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_0_49",
-      "word": "Tom doesn't have a bicycle.",
-      "translation": "У Тома нет велосипеда.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_1_0",
       "word": "You're going to need a bigger boat.",
       "translation": "Тебе понадобится лодка побольше.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_1_1",
-      "word": "Tom got hit by a truck.",
-      "translation": "Тома сбил грузовик.",
       "language": "en"
     },
     {
@@ -328,12 +214,6 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_1_4",
-      "word": "I wonder what Tom is going to do with his old motorcycle.",
-      "translation": "Интересно, что Том собирается делать со своим старым мотоциклом.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_1_5",
       "word": "Where's your bicycle?",
       "translation": "Где твой велосипед?",
@@ -343,12 +223,6 @@
       "id": "pb_vehiclestransport_1_6",
       "word": "I want a motorcycle.",
       "translation": "Я хочу мотоцикл.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_1_7",
-      "word": "Tom is riding his bicycle.",
-      "translation": "Том едет на велосипеде.",
       "language": "en"
     },
     {
@@ -382,27 +256,9 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_1_13",
-      "word": "Tom repaired my bicycle.",
-      "translation": "Том починил мне велосипед.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_1_14",
-      "word": "I bought Tom a bicycle.",
-      "translation": "Я купил Тому велосипед.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_1_15",
       "word": "I got into the boat.",
       "translation": "Я поднялся на корабль.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_1_16",
-      "word": "Tom got on his motorcycle and started it up.",
-      "translation": "Том сел на свой мотоцикл и завёл его.",
       "language": "en"
     },
     {
@@ -466,27 +322,9 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_1_27",
-      "word": "Tom has a ten-speed bicycle.",
-      "translation": "У Тома велосипед с десятью скоростями.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_1_28",
       "word": "That's not my bike.",
       "translation": "Это не мой велосипед.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_1_29",
-      "word": "Tom owns a newspaper, a factory and a ship.",
-      "translation": "Тому принадлежат газета, завод и теплоход.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_1_30",
-      "word": "Tom needs a new bicycle.",
-      "translation": "Тому нужен новый велосипед.",
       "language": "en"
     },
     {
@@ -508,33 +346,15 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_1_34",
-      "word": "Tom lives on a boat.",
-      "translation": "Том живёт на лодке.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_1_35",
       "word": "I wish I had a motorcycle.",
       "translation": "Жаль, что у меня нет мотоцикла.",
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_1_36",
-      "word": "I sold my bike to Tom.",
-      "translation": "Я продал свой велосипед Тому.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_1_37",
       "word": "The ship flashed a distress signal.",
       "translation": "Судно послало сигнал бедствия.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_1_38",
-      "word": "Tom has dual citizenship.",
-      "translation": "У Тома двойное гражданство.",
       "language": "en"
     },
     {
@@ -580,12 +400,6 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_1_46",
-      "word": "Tom wanted to keep his bicycle in my garage.",
-      "translation": "Том хотел держать свой велосипед у меня в гараже.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_1_47",
       "word": "Driving a truck isn't easy.",
       "translation": "Водить грузовик нелегко.",
@@ -619,18 +433,6 @@
       "id": "pb_vehiclestransport_2_2",
       "word": "Why isn't the ship moving?",
       "translation": "Почему корабль не движется?",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_2_3",
-      "word": "I don't know who Tom gave his old bicycle to.",
-      "translation": "Я не знаю, кому Том отдал свой старый велосипед.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_2_4",
-      "word": "Tom loaded the van.",
-      "translation": "Том загрузил фургон.",
       "language": "en"
     },
     {
@@ -676,45 +478,15 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_2_12",
-      "word": "Tom rides a scooter.",
-      "translation": "Том ездит на скутере.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_2_13",
-      "word": "Does Tom have a bicycle?",
-      "translation": "У Тома есть велосипед?",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_2_14",
       "word": "We have no chance of winning the championship.",
       "translation": "У нас нет ни единого шанса выиграть чемпионат.",
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_2_15",
-      "word": "I heard you were going to sell Tom your bicycle.",
-      "translation": "Я слышал, ты собираешься продать свой велосипед Тому.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_2_16",
-      "word": "Tom is on this ship.",
-      "translation": "Том на этом корабле.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_2_17",
       "word": "We'll load the van.",
       "translation": "Мы загрузим фургон.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_2_18",
-      "word": "Tom is repairing his bike.",
-      "translation": "Том чинит свой велосипед.",
       "language": "en"
     },
     {
@@ -742,21 +514,9 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_2_23",
-      "word": "Tom didn't want me to sell my old truck.",
-      "translation": "Том не хотел, чтобы я продавал свой старый грузовик.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_2_24",
       "word": "Get in the van.",
       "translation": "Лезь в кузов.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_2_25",
-      "word": "Tom claims that you stole his bicycle.",
-      "translation": "Том утверждает, что ты украл у него велосипед.",
       "language": "en"
     },
     {
@@ -784,12 +544,6 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_2_30",
-      "word": "Tom fixed my bicycle.",
-      "translation": "Том починил мой велосипед.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_2_31",
       "word": "The helicopter is flying very low.",
       "translation": "Вертолёт летит очень низко.",
@@ -814,18 +568,6 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_2_35",
-      "word": "Tom rides a bicycle.",
-      "translation": "Том ездит на велосипеде.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_2_36",
-      "word": "Tom got into the boat.",
-      "translation": "Том сел в лодку.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_2_37",
       "word": "I don't deserve your friendship.",
       "translation": "Я не заслуживаю твоей дружбы.",
@@ -838,21 +580,9 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_2_39",
-      "word": "Tom has been driving this truck for years.",
-      "translation": "Том много лет водит этот грузовик.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_2_40",
       "word": "He found my bicycle.",
       "translation": "Он нашёл мой велосипед.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_2_41",
-      "word": "Tom recently bought a motorcycle.",
-      "translation": "Том недавно купил мотоцикл.",
       "language": "en"
     },
     {
@@ -874,12 +604,6 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_2_45",
-      "word": "I wonder who Tom gave his old bicycle to.",
-      "translation": "Интересно, кому Том отдал свой старый велосипед.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_2_46",
       "word": "They unloaded the ship.",
       "translation": "Они разгрузили корабль.",
@@ -898,12 +622,6 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_2_49",
-      "word": "Tom needs a bigger boat.",
-      "translation": "Тому нужна лодка побольше.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_3_0",
       "word": "We rode on a boat.",
       "translation": "Мы катались на лодке.",
@@ -913,12 +631,6 @@
       "id": "pb_vehiclestransport_3_1",
       "word": "It's a dictatorship.",
       "translation": "Это диктатура.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_3_2",
-      "word": "Tom has a big truck.",
-      "translation": "У Тома большой грузовик.",
       "language": "en"
     },
     {
@@ -994,12 +706,6 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_3_15",
-      "word": "Tom got out of the truck.",
-      "translation": "Том вылез из грузовика.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_3_16",
       "word": "How many passengers are on this ship?",
       "translation": "Сколько пассажиров на борту этого корабля?",
@@ -1021,12 +727,6 @@
       "id": "pb_vehiclestransport_3_19",
       "word": "Whose bike is this?",
       "translation": "Чей это велосипед?",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_3_20",
-      "word": "Tom waved at Mary from the helicopter.",
-      "translation": "Том помахал Марии с вертолёта.",
       "language": "en"
     },
     {
@@ -1102,33 +802,9 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_3_33",
-      "word": "Tom said he doesn't know where Mary bought her bicycle.",
-      "translation": "Том сказал, что не знает, где Мэри купила свой велосипед.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_3_34",
-      "word": "Tom needs a bicycle.",
-      "translation": "Тому нужен велосипед.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_3_35",
       "word": "Don't touch my bike.",
       "translation": "Не трогай мой велосипед.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_3_36",
-      "word": "Mary oiled her bicycle.",
-      "translation": "Мэри смазала свой велосипед.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_3_37",
-      "word": "Tom didn't have a bicycle when he was growing up.",
-      "translation": "У Тома не было велосипеда, когда он рос.",
       "language": "en"
     },
     {
@@ -1144,33 +820,9 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_3_40",
-      "word": "Tom and Mary are playing battleship.",
-      "translation": "Том и Мэри играют в морской бой.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_3_41",
       "word": "I don't know how much this motorcycle is.",
       "translation": "Я не знаю, сколько стоит этот мотоцикл.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_3_42",
-      "word": "Tom was hit by a truck.",
-      "translation": "Тома сбил грузовик.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_3_43",
-      "word": "Tom rides his bicycle everywhere.",
-      "translation": "Том всюду ездит на своём велосипеде.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_3_44",
-      "word": "Didn't you know that Tom owned a scooter?",
-      "translation": "Ты не знал, что у Тома есть скутер?",
       "language": "en"
     },
     {
@@ -1198,21 +850,9 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_3_49",
-      "word": "Where's Tom's bicycle?",
-      "translation": "Где велосипед Тома?",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_4_0",
       "word": "He has no bicycle.",
       "translation": "У него нет велосипеда.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_4_1",
-      "word": "Tom bought a boat.",
-      "translation": "Том купил лодку.",
       "language": "en"
     },
     {
@@ -1222,33 +862,15 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_4_3",
-      "word": "Tom had to wait three hours for a tow truck.",
-      "translation": "Тому пришлось три часа ждать эвакуатор.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_4_4",
       "word": "I see a boat.",
       "translation": "Я вижу лодку.",
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_4_5",
-      "word": "Tom has a nice bicycle.",
-      "translation": "У Тома хороший велосипед.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_4_6",
       "word": "The pirates boarded the ship.",
       "translation": "Пираты поднялись на борт судна.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_4_7",
-      "word": "Tom wants a bicycle.",
-      "translation": "Том хочет велосипед.",
       "language": "en"
     },
     {
@@ -1282,12 +904,6 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_4_13",
-      "word": "I lent Tom my bicycle.",
-      "translation": "Я одолжил Тому свой велосипед.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_4_14",
       "word": "I don't know where your bicycle is.",
       "translation": "Я не знаю, где твой велосипед.",
@@ -1300,12 +916,6 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_4_16",
-      "word": "Tom is waiting for the ferry.",
-      "translation": "Том ждёт парома.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_4_17",
       "word": "My boat is small.",
       "translation": "У меня маленькая лодка.",
@@ -1315,42 +925,6 @@
       "id": "pb_vehiclestransport_4_18",
       "word": "Where's your truck?",
       "translation": "Где твой грузовик?",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_4_19",
-      "word": "Tom got in the boat.",
-      "translation": "Том сел в лодку.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_4_20",
-      "word": "Does Tom still have a bicycle?",
-      "translation": "У Тома ещё есть велосипед?",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_4_21",
-      "word": "Tom is fixing his bike.",
-      "translation": "Том чинит свой велосипед.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_4_22",
-      "word": "Tom found my bicycle.",
-      "translation": "Том нашёл мой велосипед.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_4_23",
-      "word": "Tom persuaded Mary to sell her motorcycle.",
-      "translation": "Том убедил Мэри продать свой мотоцикл.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_4_24",
-      "word": "Tom rides his bicycle on the sidewalk.",
-      "translation": "Том ездит на велосипеде по тротуару.",
       "language": "en"
     },
     {
@@ -1384,12 +958,6 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_4_30",
-      "word": "Tom is waiting for a tow truck.",
-      "translation": "Том ждёт эвакуатор.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_4_31",
       "word": "You can go there in a boat.",
       "translation": "Вы можете поехать туда на лодке.",
@@ -1414,18 +982,6 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_4_35",
-      "word": "Tom is the owner of a newspaper, a factory and a ship.",
-      "translation": "Том — владелец газеты, завода и теплохода.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_4_36",
-      "word": "Tom's bicycle is much newer than mine.",
-      "translation": "Велосипед Тома гораздо новее моего.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_4_37",
       "word": "Put away your bicycle.",
       "translation": "Убери твой велосипед.",
@@ -1435,18 +991,6 @@
       "id": "pb_vehiclestransport_4_38",
       "word": "The ship has three decks.",
       "translation": "У корабля три палубы.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_4_39",
-      "word": "Tom has a new truck.",
-      "translation": "У Тома новый грузовик.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_4_40",
-      "word": "Tom has a new motorcycle.",
-      "translation": "У Тома новый мотоцикл.",
       "language": "en"
     },
     {
@@ -1492,12 +1036,6 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_4_48",
-      "word": "Tom found my bike.",
-      "translation": "Том нашёл мой велосипед.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_4_49",
       "word": "The ship was bound for Cairo.",
       "translation": "Корабль направлялся в Каир.",
@@ -1534,27 +1072,9 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_5_5",
-      "word": "Tom is driving a truck.",
-      "translation": "Том ведёт грузовик.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_5_6",
       "word": "I have dual citizenship.",
       "translation": "У меня двойное гражданство.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_5_7",
-      "word": "It was Tom who stole Mary's bike.",
-      "translation": "Это Том украл велосипед Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_5_8",
-      "word": "Tom wanted a bicycle.",
-      "translation": "Том хотел велосипед.",
       "language": "en"
     },
     {
@@ -1570,27 +1090,9 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_5_11",
-      "word": "Tom is riding a bicycle.",
-      "translation": "Том едет на велосипеде.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_5_12",
       "word": "I bought a new motorcycle.",
       "translation": "Я купил новый мотоцикл.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_5_13",
-      "word": "Tom was hit by a truck and died instantly.",
-      "translation": "Том был сбит грузовиком и погиб на месте.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_5_14",
-      "word": "Tom was born on a ship.",
-      "translation": "Том родился на корабле.",
       "language": "en"
     },
     {
@@ -1624,24 +1126,6 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_5_20",
-      "word": "Tom fell asleep at the wheel.",
-      "translation": "Том уснул за рулём.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_5_21",
-      "word": "I've given Tom permission to use my bicycle.",
-      "translation": "Я разрешил Тому пользоваться моим велосипедом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_5_22",
-      "word": "Tom stopped the truck.",
-      "translation": "Том остановил грузовик.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_5_23",
       "word": "I bought a motorcycle three weeks ago.",
       "translation": "Три недели назад я купил мотоцикл.",
@@ -1666,21 +1150,9 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_5_27",
-      "word": "Tom has a new bicycle.",
-      "translation": "У Тома новый велосипед.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_5_28",
       "word": "We had to abandon ship.",
       "translation": "Нам пришлось покинуть судно.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_5_29",
-      "word": "Where's Tom's truck?",
-      "translation": "Где фура Тома?",
       "language": "en"
     },
     {
@@ -1711,18 +1183,6 @@
       "id": "pb_vehiclestransport_5_34",
       "word": "I have a bike.",
       "translation": "У меня есть велосипед.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_5_35",
-      "word": "Tom has bought a new bicycle.",
-      "translation": "Том купил новый велосипед.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_5_36",
-      "word": "Tom bought my bike.",
-      "translation": "Том купил у меня велосипед.",
       "language": "en"
     },
     {
@@ -1762,12 +1222,6 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_5_43",
-      "word": "Is Tom still the captain of your ship?",
-      "translation": "Том — всё ещё капитан вашего корабля?",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_5_44",
       "word": "He did a cartwheel.",
       "translation": "Он сделал \"колесо\".",
@@ -1789,18 +1243,6 @@
       "id": "pb_vehiclestransport_5_47",
       "word": "It's a truck with a trailer.",
       "translation": "Это грузовик с прицепом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_5_48",
-      "word": "I don't know whether or not Tom has a bicycle.",
-      "translation": "Я не знаю, есть у Тома велосипед или нет.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_5_49",
-      "word": "We can use Tom's truck.",
-      "translation": "Мы можем воспользоваться грузовиком Тома.",
       "language": "en"
     },
     {
@@ -1846,12 +1288,6 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_6_7",
-      "word": "Tom fell off of his motorcycle.",
-      "translation": "Том упал с мотоцикла.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_6_8",
       "word": "She lent me her bicycle.",
       "translation": "Она одолжила мне свой велосипед.",
@@ -1864,33 +1300,15 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_6_10",
-      "word": "Tom bought himself a motorcycle.",
-      "translation": "Том купил себе мотоцикл.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_6_11",
       "word": "He started his voyage around the world in his sailboat.",
       "translation": "Он начал своё кругосветное путешествие на яхте.",
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_6_12",
-      "word": "Tom dismounted his motorcycle.",
-      "translation": "Фома слез с мотоцикла.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_6_13",
       "word": "I'm in the same boat.",
       "translation": "Я нахожусь в той же лодке.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_6_14",
-      "word": "I gave Tom my old bicycle.",
-      "translation": "Я отдала Тому свой старый велосипед.",
       "language": "en"
     },
     {
@@ -1936,27 +1354,9 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_6_22",
-      "word": "Tom said he didn't have a bicycle.",
-      "translation": "Том сказал, что у него нет велосипеда.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_6_23",
       "word": "That boy denies stealing the bicycle.",
       "translation": "Этот мальчик отрицает, что украл велосипед.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_6_24",
-      "word": "Tom wrecked his truck.",
-      "translation": "Том разбил свой грузовик.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_6_25",
-      "word": "Tom bought a used bicycle for thirty dollars.",
-      "translation": "Том купил за тридцать долларов подержанный велосипед.",
       "language": "en"
     },
     {
@@ -1978,12 +1378,6 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_6_29",
-      "word": "Tom went there by bicycle.",
-      "translation": "Том поехал туда на велосипеде.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_6_30",
       "word": "We're all in the same boat.",
       "translation": "Мы все в одной лодке.",
@@ -1993,12 +1387,6 @@
       "id": "pb_vehiclestransport_6_31",
       "word": "When's the last ferry?",
       "translation": "Когда последний паром?",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_6_32",
-      "word": "Tom has three cars and a motorcycle.",
-      "translation": "У Тома три машины и мотоцикл.",
       "language": "en"
     },
     {
@@ -2014,12 +1402,6 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_6_35",
-      "word": "Is Tom on this ship?",
-      "translation": "Том на этом судне?",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_6_36",
       "word": "They scraped barnacles off the hull of the ship.",
       "translation": "Они счистили ракушки с корпуса судна.",
@@ -2029,12 +1411,6 @@
       "id": "pb_vehiclestransport_6_37",
       "word": "The ship passed through the Panama Canal.",
       "translation": "Корабль пересёк Панамский канал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_6_38",
-      "word": "Tom climbed into the truck.",
-      "translation": "Том забрался в грузовик.",
       "language": "en"
     },
     {
@@ -2053,12 +1429,6 @@
       "id": "pb_vehiclestransport_6_41",
       "word": "The waves swallowed up the boat.",
       "translation": "Волны поглотили лодку.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_6_42",
-      "word": "Tom works on a tugboat.",
-      "translation": "Том работает на буксире.",
       "language": "en"
     },
     {
@@ -2104,12 +1474,6 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_7_0",
-      "word": "Do you know where Tom keeps his bicycle?",
-      "translation": "Вы знаете, где Том хранит свой велосипед?",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_7_1",
       "word": "Let's go by bicycle.",
       "translation": "Поехали на велосипеде.",
@@ -2125,12 +1489,6 @@
       "id": "pb_vehiclestransport_7_3",
       "word": "I was dumbstruck.",
       "translation": "Я был нем.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_7_4",
-      "word": "I've decided to give Tom my old bicycle.",
-      "translation": "Я решил отдать Тому свой старый велосипед.",
       "language": "en"
     },
     {
@@ -2158,33 +1516,9 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_7_9",
-      "word": "Tom lent his new bike to me.",
-      "translation": "Том одолжил мне свой новый велосипед.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_7_10",
-      "word": "Tom wants a new bicycle.",
-      "translation": "Том хочет новый велосипед.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_7_11",
-      "word": "Tom was dumbstruck.",
-      "translation": "Фома лишился дара речи.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_7_12",
       "word": "He drove the truck to Dallas.",
       "translation": "Он доехал на грузовике до Далласа.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_7_13",
-      "word": "Tom got on his bicycle.",
-      "translation": "Том сел на велосипед.",
       "language": "en"
     },
     {
@@ -2200,12 +1534,6 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_7_16",
-      "word": "Tom loaded the truck with sand.",
-      "translation": "Том загрузил грузовик песком.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_7_17",
       "word": "He boarded the ship.",
       "translation": "Он поднялся на борт корабля.",
@@ -2215,12 +1543,6 @@
       "id": "pb_vehiclestransport_7_18",
       "word": "I don't have a boat.",
       "translation": "У меня нет лодки.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_7_19",
-      "word": "Tom knows how to fly a helicopter.",
-      "translation": "Том умеет управлять вертолетом.",
       "language": "en"
     },
     {
@@ -2257,12 +1579,6 @@
       "id": "pb_vehiclestransport_7_25",
       "word": "We're going to go by bike.",
       "translation": "Мы поедем на велосипеде.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_7_26",
-      "word": "This bicycle used to belong to Tom.",
-      "translation": "Этот велосипед раньше принадлежал Тому.",
       "language": "en"
     },
     {
@@ -2320,27 +1636,9 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_7_36",
-      "word": "Tom doesn't know who stole his bicycle.",
-      "translation": "Том не знает, кто украл его велосипед.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_7_37",
       "word": "I can see a ship on the horizon.",
       "translation": "Я вижу на горизонте корабль.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_7_38",
-      "word": "Where did Tom put his bike?",
-      "translation": "Куда Том поставил свой велосипед?",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_7_39",
-      "word": "Tom sold Mary his old bicycle.",
-      "translation": "Том продал Мэри свой старый велосипед.",
       "language": "en"
     },
     {
@@ -2374,12 +1672,6 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_7_45",
-      "word": "Tom fell off his bike.",
-      "translation": "Том упал с велосипеда.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_7_46",
       "word": "Let's take turns rowing the boat.",
       "translation": "Давай грести по очереди.",
@@ -2404,12 +1696,6 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_8_0",
-      "word": "Tom didn't want to ruin their friendship.",
-      "translation": "Том не хотел разрушать их дружбу.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_8_1",
       "word": "They got into the boat.",
       "translation": "Они сели в лодку.",
@@ -2422,27 +1708,9 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_8_3",
-      "word": "Does Tom have a bike?",
-      "translation": "У Тома есть велосипед?",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_8_4",
       "word": "That boat was full of refugees from Cuba.",
       "translation": "Эта лодка была заполнена беженцами с Кубы.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_8_5",
-      "word": "Tom oiled his bicycle chain.",
-      "translation": "Том смазал цепь на своём велосипеде.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_8_6",
-      "word": "Tom can use my bicycle if he wants.",
-      "translation": "Том может взять мой велосипед, если хочет.",
       "language": "en"
     },
     {
@@ -2458,33 +1726,9 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_8_9",
-      "word": "I'm the one who gave Tom his bicycle.",
-      "translation": "Велосипед Тому дал я.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_8_10",
       "word": "Don't you have a bicycle?",
       "translation": "У тебя нет велосипеда?",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_8_11",
-      "word": "How did you find out it was Tom who stole your bicycle?",
-      "translation": "Как ты узнал, что это Том украл твой велосипед?",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_8_12",
-      "word": "Tom is the one who stole your bicycle.",
-      "translation": "Это Том украл твой велосипед.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_8_13",
-      "word": "Tom was the only one on the ship when it exploded.",
-      "translation": "Только Том был на корабле, когда тот взорвался.",
       "language": "en"
     },
     {
@@ -2497,18 +1741,6 @@
       "id": "pb_vehiclestransport_8_15",
       "word": "The British would need strong leadership.",
       "translation": "Британцам понадобилось бы сильное руководство.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_8_16",
-      "word": "Tom put oil on the bicycle chain.",
-      "translation": "Том смазал велосипедную цепь.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_8_17",
-      "word": "Tom is riding a bike.",
-      "translation": "Том едет на велосипеде.",
       "language": "en"
     },
     {
@@ -2527,12 +1759,6 @@
       "id": "pb_vehiclestransport_8_20",
       "word": "Where's the truck?",
       "translation": "Где грузовик?",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_8_21",
-      "word": "Tom has a rowboat.",
-      "translation": "У Тома есть весельная лодка.",
       "language": "en"
     },
     {
@@ -2566,42 +1792,6 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_8_27",
-      "word": "Tom got off his bike.",
-      "translation": "Том слез с велосипеда.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_8_28",
-      "word": "Are you going to sell Tom your bicycle?",
-      "translation": "Ты собираешься продать Тому свой велосипед?",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_8_29",
-      "word": "I borrowed Tom's bike.",
-      "translation": "Я одолжил у Тома велосипед.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_8_30",
-      "word": "Can you see Tom's boat?",
-      "translation": "Ты видишь лодку Тома?",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_8_31",
-      "word": "Tom wants a motorcycle.",
-      "translation": "Том хочет мотоцикл.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_8_32",
-      "word": "Neither Tom nor Mary has a motorcycle.",
-      "translation": "Ни у Тома, ни у Мэри нет мотоцикла.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_8_33",
       "word": "This is my ship.",
       "translation": "Это мой корабль.",
@@ -2611,12 +1801,6 @@
       "id": "pb_vehiclestransport_8_34",
       "word": "The boat sank during the storm.",
       "translation": "Корабль затонул во время шторма.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_8_35",
-      "word": "I borrowed Tom's bicycle.",
-      "translation": "Я одолжил у Тома велосипед.",
       "language": "en"
     },
     {
@@ -2638,12 +1822,6 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_8_39",
-      "word": "Tom is learning how to fly a helicopter.",
-      "translation": "Том учится управлять вертолётом.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_8_40",
       "word": "I have a scooter.",
       "translation": "У меня есть скутер.",
@@ -2653,18 +1831,6 @@
       "id": "pb_vehiclestransport_8_41",
       "word": "The ship ran aground and was stuck.",
       "translation": "Корабль сел на мель и застрял.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_8_42",
-      "word": "Tom gave us a lift in his van.",
-      "translation": "Том подвёз нас на своём фургоне.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_8_43",
-      "word": "I don't know where Tom bought his bicycle.",
-      "translation": "Я не знаю, где Том купил свой велосипед.",
       "language": "en"
     },
     {
@@ -2683,30 +1849,6 @@
       "id": "pb_vehiclestransport_8_46",
       "word": "Do you have a boat?",
       "translation": "У тебя есть лодка?",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_8_47",
-      "word": "Tom bought himself a boat.",
-      "translation": "Том купил себе лодку.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_8_48",
-      "word": "Tom gave me a bicycle.",
-      "translation": "Том дал мне велосипед.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_8_49",
-      "word": "Tom is playing with his toy truck.",
-      "translation": "Том играет со своим игрушечным грузовиком.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_9_0",
-      "word": "Does Tom have a boat?",
-      "translation": "У Тома есть лодка?",
       "language": "en"
     },
     {
@@ -2740,27 +1882,9 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_9_6",
-      "word": "Don't let Tom use my bicycle.",
-      "translation": "Не давай Тому мой велосипед.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_9_7",
-      "word": "Is Tom aboard that ship?",
-      "translation": "Том на борту этого корабля?",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_9_8",
       "word": "In spite of the hurricane, the ship reached port.",
       "translation": "Несмотря на ураган, судно достигло порта.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_9_9",
-      "word": "The helicopter landed and Tom got out.",
-      "translation": "Вертолёт приземлился, и Том вышел.",
       "language": "en"
     },
     {
@@ -2779,12 +1903,6 @@
       "id": "pb_vehiclestransport_9_12",
       "word": "The ship was soon out of sight.",
       "translation": "Вскоре корабль скрылся из виду.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_9_13",
-      "word": "Tom sold his motorcycle to Mary.",
-      "translation": "Том продал свой мотоцикл Мэри.",
       "language": "en"
     },
     {
@@ -2836,45 +1954,15 @@
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_9_22",
-      "word": "Tom bought a pair of leather motorcycle gloves.",
-      "translation": "Том купил кожаные мотоциклетные перчатки.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_9_23",
-      "word": "Tom boarded the ship.",
-      "translation": "Том сел на корабль.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_9_24",
       "word": "Is this your bike?",
       "translation": "Это твой велосипед?",
       "language": "en"
     },
     {
-      "id": "pb_vehiclestransport_9_25",
-      "word": "Who stole Tom's bicycle?",
-      "translation": "Кто украл у Тома велосипед?",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_9_26",
-      "word": "Tom is the one who gave me this bicycle.",
-      "translation": "Это Том дал мне этот велосипед.",
-      "language": "en"
-    },
-    {
       "id": "pb_vehiclestransport_9_27",
       "word": "Our boat got sucked into a whirlpool.",
       "translation": "Нашу лодку затянуло в водоворот.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_9_28",
-      "word": "This is Tom's bicycle.",
-      "translation": "Это велосипед Тома.",
       "language": "en"
     },
     {
@@ -2893,18 +1981,6 @@
       "id": "pb_vehiclestransport_9_31",
       "word": "My bicycle was gone when I returned.",
       "translation": "Когда я вернулся, велосипеда уже не было.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_9_32",
-      "word": "This bicycle is mine, not Tom's.",
-      "translation": "Это мой велосипед, а не Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_9_33",
-      "word": "Tom got in the boat with Mary.",
-      "translation": "Том сел в лодку с Мэри.",
       "language": "en"
     },
     {
@@ -2929,18 +2005,6 @@
       "id": "pb_vehiclestransport_9_37",
       "word": "Do you know whose bike this is?",
       "translation": "Ты знаешь, чей это велосипед?",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_9_38",
-      "word": "Tom wants a bike.",
-      "translation": "Том хочет велосипед.",
-      "language": "en"
-    },
-    {
-      "id": "pb_vehiclestransport_9_39",
-      "word": "Tom isn't in the truck.",
-      "translation": "Тома в грузовике нет.",
       "language": "en"
     },
     {

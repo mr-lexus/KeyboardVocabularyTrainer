@@ -4,12 +4,6 @@
   "description": "Phrasebook for Tools & Hardware",
   "entries": [
     {
-      "id": "pb_toolshardware_0_0",
-      "word": "Tom offered Mary a donut.",
-      "translation": "Том предложил Мэри пончик.",
-      "language": "en"
-    },
-    {
       "id": "pb_toolshardware_0_1",
       "word": "I need that tape.",
       "translation": "Мне нужна эта плёнка.",
@@ -136,12 +130,6 @@
       "language": "en"
     },
     {
-      "id": "pb_toolshardware_0_22",
-      "word": "Tom rewound the tape.",
-      "translation": "Том перемотал плёнку.",
-      "language": "en"
-    },
-    {
       "id": "pb_toolshardware_0_23",
       "word": "Have a donut.",
       "translation": "Съешь пончик.",
@@ -157,12 +145,6 @@
       "id": "pb_toolshardware_0_25",
       "word": "He erased his speech from the tape.",
       "translation": "Он удалил свой голос с магнитофонной записи.",
-      "language": "en"
-    },
-    {
-      "id": "pb_toolshardware_0_26",
-      "word": "Tom is a religious nut.",
-      "translation": "Том — религиозный фанатик.",
       "language": "en"
     },
     {
@@ -196,12 +178,6 @@
       "language": "en"
     },
     {
-      "id": "pb_toolshardware_0_32",
-      "word": "Tom is a health nut.",
-      "translation": "Том - фанат здорового образа жизни.",
-      "language": "en"
-    },
-    {
       "id": "pb_toolshardware_0_33",
       "word": "That's a coconut.",
       "translation": "Это кокос.",
@@ -232,21 +208,9 @@
       "language": "en"
     },
     {
-      "id": "pb_toolshardware_0_38",
-      "word": "Tom put a tape in the VCR.",
-      "translation": "Том вставил кассету в видеомагнитофон.",
-      "language": "en"
-    },
-    {
       "id": "pb_toolshardware_0_39",
       "word": "This screwdriver is too small to be any use.",
       "translation": "Эта отвёртка слишком маленькая, чтобы её как-нибудь использовать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_toolshardware_0_40",
-      "word": "Tom ate a doughnut.",
-      "translation": "Том съел пончик.",
       "language": "en"
     },
     {

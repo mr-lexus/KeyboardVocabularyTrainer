@@ -4,45 +4,15 @@
   "description": "Phrasebook for Arts & Culture",
   "entries": [
     {
-      "id": "pb_artsculture_0_0",
-      "word": "Tom tried to restart the car, but it wouldn't start.",
-      "translation": "Том попытался снова завести машину, но она не заводилась.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_0_1",
-      "word": "Tom told Mary that she should visit the museum.",
-      "translation": "Том сказал Мэри, что ей стоит побывать в этом музее.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_0_2",
       "word": "The audience clapped when the concert was over.",
       "translation": "Когда концерт закончился, аудитория зааплодировала.",
       "language": "en"
     },
     {
-      "id": "pb_artsculture_0_3",
-      "word": "Tom asked Mary to recite the poem she wrote.",
-      "translation": "Том попросил Мэри прочесть стихотворение, которое она написала.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_0_4",
       "word": "That would be a good start.",
       "translation": "Это было бы хорошее начало.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_0_5",
-      "word": "Tom is painting.",
-      "translation": "Том рисует.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_0_6",
-      "word": "Tom is very knowledgeable about Japanese art.",
-      "translation": "Том очень хорошо разбирается в японском искусстве.",
       "language": "en"
     },
     {
@@ -76,27 +46,9 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_0_12",
-      "word": "Tom's car won't start.",
-      "translation": "Машина Тома не заводится.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_0_13",
-      "word": "Tom abandoned the hope of becoming an actor.",
-      "translation": "Том оставил надежду стать актёром.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_0_14",
       "word": "Are there any tickets left for tomorrow's concert?",
       "translation": "На завтрашний концерт ещё остались билеты?",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_0_15",
-      "word": "Tom and Mary disliked each other from the start.",
-      "translation": "Том и Мэри невзлюбили друг друга с самого начала.",
       "language": "en"
     },
     {
@@ -124,12 +76,6 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_0_20",
-      "word": "Tom will start.",
-      "translation": "Том начнёт.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_0_21",
       "word": "Why are you so smart?",
       "translation": "Почему ты такой умный?",
@@ -145,12 +91,6 @@
       "id": "pb_artsculture_0_23",
       "word": "Why do you want to become an actress?",
       "translation": "Почему ты хочешь стать актрисой?",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_0_24",
-      "word": "Tom seems smart.",
-      "translation": "Том кажется умным.",
       "language": "en"
     },
     {
@@ -184,12 +124,6 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_0_30",
-      "word": "Tom and Mary know that John is smart.",
-      "translation": "Том и Мэри знают, что Джон умён.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_0_31",
       "word": "She majored in history.",
       "translation": "Она специализировалась по истории.",
@@ -211,12 +145,6 @@
       "id": "pb_artsculture_0_34",
       "word": "The actor played the part with feeling.",
       "translation": "Актёр сыграл роль с чувством.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_0_35",
-      "word": "Tom looked at the painting on the wall.",
-      "translation": "Том посмотрел на картину на стене.",
       "language": "en"
     },
     {
@@ -298,12 +226,6 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_0_49",
-      "word": "Tom moved out to Los Angeles to become an actor.",
-      "translation": "Том переехал в Лос-Анджелес, чтобы стать актёром.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_1_0",
       "word": "Fate tore us apart.",
       "translation": "Судьба нас разлучила.",
@@ -313,12 +235,6 @@
       "id": "pb_artsculture_1_1",
       "word": "When should I start?",
       "translation": "Когда мне начинать?",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_1_2",
-      "word": "Tom is really smart.",
-      "translation": "Том очень умён.",
       "language": "en"
     },
     {
@@ -370,12 +286,6 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_1_11",
-      "word": "Tom is very interested in Australian history.",
-      "translation": "Том очень интересуется историей Австралии.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_1_12",
       "word": "The concert lasted about three hours.",
       "translation": "Концерт длился около трёх часов.",
@@ -397,12 +307,6 @@
       "id": "pb_artsculture_1_15",
       "word": "The engine won't start.",
       "translation": "Двигатель не заводится.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_1_16",
-      "word": "Tom was determined to win Mary's heart.",
-      "translation": "Том был решительно настроен завоевать сердце Мэри.",
       "language": "en"
     },
     {
@@ -490,12 +394,6 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_1_31",
-      "word": "Tom had a great interest in painting.",
-      "translation": "Том проявлял большой интерес к живописи.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_1_32",
       "word": "The concert has been canceled.",
       "translation": "Концерт был отменён.",
@@ -505,12 +403,6 @@
       "id": "pb_artsculture_1_33",
       "word": "I was advised to visit the museum.",
       "translation": "Мне посоветовали посетить музей.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_1_34",
-      "word": "Tom teaches history.",
-      "translation": "Том преподаёт историю.",
       "language": "en"
     },
     {
@@ -562,21 +454,9 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_1_43",
-      "word": "Tom is young at heart.",
-      "translation": "Том молод сердцем.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_1_44",
       "word": "He is studying agriculture.",
       "translation": "Он изучает сельское хозяйство.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_1_45",
-      "word": "I don't have to stand for such insolence on Tom's part.",
-      "translation": "Я не обязан переносить наглость Тома.",
       "language": "en"
     },
     {
@@ -604,12 +484,6 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_2_0",
-      "word": "Tom is the author of three books.",
-      "translation": "Том - автор трёх книг.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_2_1",
       "word": "Sometimes history repeats itself.",
       "translation": "Иногда история повторяется.",
@@ -625,12 +499,6 @@
       "id": "pb_artsculture_2_3",
       "word": "A lot of people came to the concert.",
       "translation": "На концерт пришло много народа.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_2_4",
-      "word": "Mary is a talented actress.",
-      "translation": "Мэри - талантливая актриса.",
       "language": "en"
     },
     {
@@ -664,24 +532,6 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_2_10",
-      "word": "Tom is married to a famous actress.",
-      "translation": "Том женат на известной актрисе.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_2_11",
-      "word": "Tom is a con artist.",
-      "translation": "Том — мошенник.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_2_12",
-      "word": "Tom is an artist.",
-      "translation": "Том художник.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_2_13",
       "word": "The actress is studying her role.",
       "translation": "Актриса учит роль.",
@@ -694,12 +544,6 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_2_15",
-      "word": "Mary used to be an actress.",
-      "translation": "Мэри когда-то была актрисой.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_2_16",
       "word": "Did she go to that concert?",
       "translation": "Она ходила на этот концерт?",
@@ -709,18 +553,6 @@
       "id": "pb_artsculture_2_17",
       "word": "Where will the concert be?",
       "translation": "Где будет концерт?",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_2_18",
-      "word": "Tom isn't an artist.",
-      "translation": "Том не художник.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_2_19",
-      "word": "I know Tom is a good actor.",
-      "translation": "Я знаю, что Том - хороший актёр.",
       "language": "en"
     },
     {
@@ -760,12 +592,6 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_2_26",
-      "word": "Tom was an artist.",
-      "translation": "Том был художником.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_2_27",
       "word": "He tried to absorb as much of the local culture as possible.",
       "translation": "Он пытался воспринять как можно больше местной культуры.",
@@ -802,12 +628,6 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_2_33",
-      "word": "Tom was a famous actor.",
-      "translation": "Том был известным актёром.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_2_34",
       "word": "I don't think he's a great actor.",
       "translation": "Я не думаю, что он великий актёр.",
@@ -832,24 +652,6 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_2_38",
-      "word": "Her son's death broke Mary's heart.",
-      "translation": "Смерть её сына разбила сердце Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_2_39",
-      "word": "Tom isn't a good actor.",
-      "translation": "Актёр из Тома неважный.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_2_40",
-      "word": "I didn't say Tom was smart.",
-      "translation": "Я не говорил, что Том умён.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_2_41",
       "word": "On Sundays, the museum is not open.",
       "translation": "По воскресеньям музей не работает.",
@@ -862,12 +664,6 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_2_43",
-      "word": "Tom didn't want to break Mary's heart.",
-      "translation": "Том не хотел разбивать Мэри сердце.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_2_44",
       "word": "It's bad manners to talk during a concert.",
       "translation": "Во время концерта разговаривать невежливо.",
@@ -877,24 +673,6 @@
       "id": "pb_artsculture_2_45",
       "word": "This town has a rich history.",
       "translation": "У этого города богатая история.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_2_46",
-      "word": "Tom asked Mary when she had sold her first painting.",
-      "translation": "Том спросил Мэри, когда она продала свою первую картину.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_2_47",
-      "word": "I didn't know Tom was interested in art.",
-      "translation": "Я не знал, что Том интересуется искусством.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_2_48",
-      "word": "Tom appreciates modern art.",
-      "translation": "Том ценит современное искусство.",
       "language": "en"
     },
     {
@@ -946,12 +724,6 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_3_7",
-      "word": "Do you think Tom will like the concert?",
-      "translation": "Думаете, Тому понравится концерт?",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_3_8",
       "word": "History can teach us a great deal.",
       "translation": "История может нас многому научить.",
@@ -967,12 +739,6 @@
       "id": "pb_artsculture_3_10",
       "word": "This is the hard part.",
       "translation": "Это трудная часть.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_3_11",
-      "word": "I think Tom didn't like the concert.",
-      "translation": "Думаю, концерт не понравился Тому.",
       "language": "en"
     },
     {
@@ -1072,45 +838,9 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_3_28",
-      "word": "Tom is a very gifted actor.",
-      "translation": "Том очень талантливый актёр.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_3_29",
       "word": "You live in my heart.",
       "translation": "Ты живёшь в моём сердце.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_3_30",
-      "word": "Tom and Mary went to a jazz festival.",
-      "translation": "Том и Мэри пошли на фестиваль джаза.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_3_31",
-      "word": "Tom can't get his car to start.",
-      "translation": "Фома не может завести двигатель своего автомобиля.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_3_32",
-      "word": "Tom told me he enjoyed the concert.",
-      "translation": "Том сказал мне, что концерт ему понравился.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_3_33",
-      "word": "Tom is a famous artist.",
-      "translation": "Том - известный художник.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_3_34",
-      "word": "Tom isn't too smart.",
-      "translation": "Том не слишком умён.",
       "language": "en"
     },
     {
@@ -1135,12 +865,6 @@
       "id": "pb_artsculture_3_38",
       "word": "That's the tough part.",
       "translation": "Это трудная часть.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_3_39",
-      "word": "Tom's a great actor.",
-      "translation": "Том — великий актер.",
       "language": "en"
     },
     {
@@ -1186,12 +910,6 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_3_47",
-      "word": "Didn't you know Tom is actually very smart?",
-      "translation": "Ты не знал, что Том, вообще-то, очень умный?",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_3_48",
       "word": "The museum is worth visiting.",
       "translation": "Этот музей сто́ит посетить.",
@@ -1207,12 +925,6 @@
       "id": "pb_artsculture_4_0",
       "word": "That was smart.",
       "translation": "Это было умно.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_4_1",
-      "word": "Tom doesn't plan to go to Mary's concert.",
-      "translation": "Том не собирается идти на концерт Мэри.",
       "language": "en"
     },
     {
@@ -1258,21 +970,9 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_4_9",
-      "word": "Tom was at the concert.",
-      "translation": "Том был на концерте.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_4_10",
       "word": "What does this painting represent?",
       "translation": "Что изображает эта картина?",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_4_11",
-      "word": "Tom doesn't like modern art.",
-      "translation": "Тому не нравится современное искусство.",
       "language": "en"
     },
     {
@@ -1294,12 +994,6 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_4_15",
-      "word": "Tom isn't much of an artist.",
-      "translation": "Том не великий художник.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_4_16",
       "word": "I want to become an actress.",
       "translation": "Я хочу стать актрисой.",
@@ -1312,12 +1006,6 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_4_18",
-      "word": "Tom didn't know where to start.",
-      "translation": "Том не знал, с чего начать.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_4_19",
       "word": "Can I start?",
       "translation": "Можно начинать?",
@@ -1327,12 +1015,6 @@
       "id": "pb_artsculture_4_20",
       "word": "I'm looking forward to the concert.",
       "translation": "Я с нетерпением жду этого концерта.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_4_21",
-      "word": "Tom has a talent for painting.",
-      "translation": "У Тома талант к живописи.",
       "language": "en"
     },
     {
@@ -1384,12 +1066,6 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_4_30",
-      "word": "I think Tom is very smart.",
-      "translation": "Я думаю, что Том очень умён.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_4_31",
       "word": "This painting is a good copy of the original.",
       "translation": "Эта картина - хорошая копия оригинала.",
@@ -1411,12 +1087,6 @@
       "id": "pb_artsculture_4_34",
       "word": "Why don't you start?",
       "translation": "Почему ты не начинаешь?",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_4_35",
-      "word": "Tom is a very gifted artist.",
-      "translation": "Том очень одарённый художник.",
       "language": "en"
     },
     {
@@ -1456,33 +1126,15 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_4_42",
-      "word": "Tom is memorizing a poem.",
-      "translation": "Том заучивает стихотворение.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_4_43",
       "word": "I never realized you were interested in Japanese art.",
       "translation": "Я и не знала, что ты интересуешься искусством Японии.",
       "language": "en"
     },
     {
-      "id": "pb_artsculture_4_44",
-      "word": "Tom's death broke Mary's heart.",
-      "translation": "Смерть Тома разбила Мэри сердце.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_4_45",
       "word": "He took advantage of the opportunity to visit the museum.",
       "translation": "Он воспользовался возможностью посетить музей.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_4_46",
-      "word": "Tom is a true artist.",
-      "translation": "Том - настоящий художник.",
       "language": "en"
     },
     {
@@ -1513,12 +1165,6 @@
       "id": "pb_artsculture_5_1",
       "word": "I was sick, so I couldn't go to the concert.",
       "translation": "Я был болен, поэтому не смог пойти на концерт.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_5_2",
-      "word": "Mary wants to be an actress.",
-      "translation": "Мэри хочет быть актрисой.",
       "language": "en"
     },
     {
@@ -1582,18 +1228,6 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_5_13",
-      "word": "Tom is going to the concert with Mary.",
-      "translation": "Том идет на концерт с Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_5_14",
-      "word": "Tom has a history of alcohol and drug problems.",
-      "translation": "В прошлом у Тома были проблемы с алкоголем и наркотиками.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_5_15",
       "word": "We're going to the concert.",
       "translation": "Мы идём на концерт.",
@@ -1609,12 +1243,6 @@
       "id": "pb_artsculture_5_17",
       "word": "I did my part.",
       "translation": "Я свою часть сделал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_5_18",
-      "word": "Tom is going to the concert.",
-      "translation": "Том идёт на концерт.",
       "language": "en"
     },
     {
@@ -1648,12 +1276,6 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_5_24",
-      "word": "Tom visited the museum with Mary.",
-      "translation": "Том сходил с Мэри в музей.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_5_25",
       "word": "When did this custom start?",
       "translation": "Когда возник этот обычай?",
@@ -1663,12 +1285,6 @@
       "id": "pb_artsculture_5_26",
       "word": "Who's your favorite actor?",
       "translation": "Кто твой любимый актер?",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_5_27",
-      "word": "Tom is a child at heart.",
-      "translation": "Том в душе ребёнок.",
       "language": "en"
     },
     {
@@ -1702,12 +1318,6 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_5_33",
-      "word": "Tom has decided not to go to the concert.",
-      "translation": "Том решил не ходить на концерт.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_5_34",
       "word": "How did all this start?",
       "translation": "Как это всё началось?",
@@ -1723,12 +1333,6 @@
       "id": "pb_artsculture_5_36",
       "word": "We were impatient for the concert to begin.",
       "translation": "Мы с нетерпением ждали начала концерта.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_5_37",
-      "word": "Tom owns a gallery in Boston.",
-      "translation": "У Тома есть галерея в Бостоне.",
       "language": "en"
     },
     {
@@ -1852,27 +1456,9 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_6_8",
-      "word": "Tom was reading, and Mary was painting.",
-      "translation": "Том читал, а Мэри рисовала.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_6_9",
       "word": "Culture destroys languages.",
       "translation": "Культура разрушает языки.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_6_10",
-      "word": "Tom's field is history.",
-      "translation": "Специальность Тома — история.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_6_11",
-      "word": "Mary is an actress.",
-      "translation": "Мэри — актриса.",
       "language": "en"
     },
     {
@@ -1900,24 +1486,6 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_6_16",
-      "word": "Tom is a well-known artist.",
-      "translation": "Том - известный художник.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_6_17",
-      "word": "Is Tom an artist?",
-      "translation": "Том художник?",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_6_18",
-      "word": "I thought Tom's poem was really poignant.",
-      "translation": "Я подумал, что стихотворение Тома было действительно трогательным.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_6_19",
       "word": "We queued up to get tickets for the concert.",
       "translation": "Мы встали в очередь за билетами на концерт.",
@@ -1933,12 +1501,6 @@
       "id": "pb_artsculture_6_21",
       "word": "Do you like the frame on this painting?",
       "translation": "Тебе нравится рама у этой картины?",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_6_22",
-      "word": "Neither Tom nor Mary went to the concert.",
-      "translation": "Ни Том, ни Мэри не пошли на концерт.",
       "language": "en"
     },
     {
@@ -1966,18 +1528,6 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_6_27",
-      "word": "I don't think that Tom is a good actor.",
-      "translation": "Не думаю, что Том - хороший актёр.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_6_28",
-      "word": "I don't think Tom enjoyed the concert.",
-      "translation": "Не думаю, что Тому понравился концерт.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_6_29",
       "word": "What's your favorite kind of art?",
       "translation": "Какое твоё любимое искусство?",
@@ -1987,12 +1537,6 @@
       "id": "pb_artsculture_6_30",
       "word": "Art is long, life is short.",
       "translation": "Жизнь коротка, искусство вечно.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_6_31",
-      "word": "Tom didn't like the concert very much.",
-      "translation": "Тому не очень понравился концерт.",
       "language": "en"
     },
     {
@@ -2074,27 +1618,9 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_6_45",
-      "word": "Tom told me he was an artist.",
-      "translation": "Том сказал мне, что он художник.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_6_46",
       "word": "That boy is smart.",
       "translation": "Этот мальчик умён.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_6_47",
-      "word": "Mary is cute, but she's not very smart.",
-      "translation": "Мэри милая, но не очень умная.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_6_48",
-      "word": "Did you like Tom's concert?",
-      "translation": "Тебе понравился концерт Тома?",
       "language": "en"
     },
     {
@@ -2164,12 +1690,6 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_7_10",
-      "word": "It's impossible to tell the Jackson twins apart.",
-      "translation": "Близнецов семьи Джексон невозможно различить.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_7_11",
       "word": "When do you want to start?",
       "translation": "Когда хочешь начать?",
@@ -2185,12 +1705,6 @@
       "id": "pb_artsculture_7_13",
       "word": "My dad was an actor.",
       "translation": "Мой папа был актёром.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_7_14",
-      "word": "Tom left in the middle of the concert.",
-      "translation": "Том ушёл посреди концерта.",
       "language": "en"
     },
     {
@@ -2236,12 +1750,6 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_7_22",
-      "word": "Tom wasn't at the concert.",
-      "translation": "Тома не было на концерте.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_7_23",
       "word": "She became an actress.",
       "translation": "Она стала актрисой.",
@@ -2266,45 +1774,15 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_7_27",
-      "word": "Tom is a very talented artist.",
-      "translation": "Том очень талантливый художник.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_7_28",
       "word": "When do your classes start?",
       "translation": "Когда у тебя уроки начинаются?",
       "language": "en"
     },
     {
-      "id": "pb_artsculture_7_29",
-      "word": "Tom is a good actor.",
-      "translation": "Том - хороший актёр.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_7_30",
       "word": "I'm not very smart.",
       "translation": "Я не очень умный.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_7_31",
-      "word": "Tom isn't interested in art at all.",
-      "translation": "Том совершенно не интересуется искусством.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_7_32",
-      "word": "Tom is painting his fence.",
-      "translation": "Том красит забор.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_7_33",
-      "word": "Tom looked at the painting.",
-      "translation": "Том посмотрел на картину.",
       "language": "en"
     },
     {
@@ -2317,12 +1795,6 @@
       "id": "pb_artsculture_7_35",
       "word": "I am a great admirer of American culture.",
       "translation": "Я огромный поклонник американской культуры.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_7_36",
-      "word": "Mary is painting her nails.",
-      "translation": "Мэри красит ногти.",
       "language": "en"
     },
     {
@@ -2341,12 +1813,6 @@
       "id": "pb_artsculture_7_39",
       "word": "We're listening to Mozart.",
       "translation": "Мы слушаем Моцарта.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_7_40",
-      "word": "Tom added a few finishing touches to the painting.",
-      "translation": "Фома добавил несколько заключительных штрихов к картине.",
       "language": "en"
     },
     {
@@ -2410,21 +1876,9 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_8_1",
-      "word": "I think Tom is really smart.",
-      "translation": "По-моему, Том очень умный.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_8_2",
       "word": "I bought two tickets for a concert.",
       "translation": "Я купил два билета на концерт.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_8_3",
-      "word": "Does Tom teach history?",
-      "translation": "Том преподаёт историю?",
       "language": "en"
     },
     {
@@ -2479,18 +1933,6 @@
       "id": "pb_artsculture_8_12",
       "word": "Procrastinating is an art.",
       "translation": "Прокрастинация - это искусство.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_8_13",
-      "word": "Tom has no idea where to start.",
-      "translation": "Том не имеет понятия, с чего начать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_8_14",
-      "word": "Tom considers himself very smart.",
-      "translation": "Том считает себя очень умным.",
       "language": "en"
     },
     {
@@ -2560,12 +2002,6 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_8_26",
-      "word": "Tom left before the concert was over.",
-      "translation": "Том ушёл до окончания концерта.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_8_27",
       "word": "Karate is a Japanese martial art.",
       "translation": "Карате - вид японского боевого искусства.",
@@ -2593,12 +2029,6 @@
       "id": "pb_artsculture_8_31",
       "word": "I like that painting.",
       "translation": "Мне нравится эта картина.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_8_32",
-      "word": "Tom has given me three tickets to his concert.",
-      "translation": "Том дал мне три билета на свой концерт.",
       "language": "en"
     },
     {
@@ -2644,12 +2074,6 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_8_40",
-      "word": "Tom, like me, is an artist.",
-      "translation": "Том, как и я, художник.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_8_41",
       "word": "Not a sound was to be heard in the concert hall.",
       "translation": "Из концертного зала не раздавалось ни звука.",
@@ -2659,12 +2083,6 @@
       "id": "pb_artsculture_8_42",
       "word": "Graham Greene is my favorite author.",
       "translation": "Грэм Грин — мой любимый автор.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_8_43",
-      "word": "Tom said last night's concert was three hours.",
-      "translation": "Том сказал, что вчера концерт длился три часа.",
       "language": "en"
     },
     {
@@ -2698,12 +2116,6 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_8_49",
-      "word": "Tom is a talented artist.",
-      "translation": "Том - талантливый художник.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_9_0",
       "word": "I can't get the car to start.",
       "translation": "Я не могу завести машину.",
@@ -2722,12 +2134,6 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_9_3",
-      "word": "Tom is planning on buying a new tractor.",
-      "translation": "Том собирается купить новый трактор.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_9_4",
       "word": "Does history really repeat itself?",
       "translation": "История действительно повторяется?",
@@ -2743,12 +2149,6 @@
       "id": "pb_artsculture_9_6",
       "word": "His words touched her heart.",
       "translation": "Его слова тронули её сердце.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_9_7",
-      "word": "I was at Tom's concert.",
-      "translation": "Я был на концерте Тома.",
       "language": "en"
     },
     {
@@ -2818,21 +2218,9 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_9_19",
-      "word": "Tom visited the National Museum when he was in Amsterdam.",
-      "translation": "Когда Том был в Амстердаме, он посетил Государственный музей.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_9_20",
       "word": "Who's the author of this story?",
       "translation": "Кто автор этого рассказа?",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_9_21",
-      "word": "Mary was an actress.",
-      "translation": "Мэри была актрисой.",
       "language": "en"
     },
     {
@@ -2872,27 +2260,9 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_9_28",
-      "word": "Tom loves art.",
-      "translation": "Тому нравится искусство.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_9_29",
       "word": "What broke your heart?",
       "translation": "Что разбило тебе сердце?",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_9_30",
-      "word": "Tom should've been an actor.",
-      "translation": "Тому надо было быть актёром.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_9_31",
-      "word": "I don't think Tom knows who Mary went to the concert with.",
-      "translation": "Не думаю, что Том знает, с кем Мэри ходила на концерт.",
       "language": "en"
     },
     {
@@ -2944,12 +2314,6 @@
       "language": "en"
     },
     {
-      "id": "pb_artsculture_9_40",
-      "word": "Tom fell asleep during the concert.",
-      "translation": "Том заснул во время концерта.",
-      "language": "en"
-    },
-    {
       "id": "pb_artsculture_9_41",
       "word": "We were all impressed by the blue whale skeleton in the museum.",
       "translation": "Нас всех впечатлил скелет синего кита в музее.",
@@ -2971,12 +2335,6 @@
       "id": "pb_artsculture_9_44",
       "word": "The students are talking about language and culture.",
       "translation": "Студенты говорят о языке и культуре.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artsculture_9_45",
-      "word": "Tom ruined his toy tractor.",
-      "translation": "Том сломал свой игрушечный трактор.",
       "language": "en"
     },
     {

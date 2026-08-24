@@ -4,33 +4,9 @@
   "description": "Phrasebook for Art & Painting",
   "entries": [
     {
-      "id": "pb_artpainting_0_0",
-      "word": "Tom isn't good at drawing.",
-      "translation": "Том не силён в рисовании.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artpainting_0_1",
-      "word": "What's Tom drawing?",
-      "translation": "Что Том рисует?",
-      "language": "en"
-    },
-    {
       "id": "pb_artpainting_0_2",
       "word": "Is this your drawing?",
       "translation": "Это твой рисунок?",
-      "language": "en"
-    },
-    {
-      "id": "pb_artpainting_0_3",
-      "word": "Tom showed me a drawing he did of Mary.",
-      "translation": "Том показал мне свой рисунок Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artpainting_0_4",
-      "word": "That's Tom's drawing.",
-      "translation": "Это рисунок Тома.",
       "language": "en"
     },
     {
@@ -112,21 +88,9 @@
       "language": "en"
     },
     {
-      "id": "pb_artpainting_0_18",
-      "word": "Tom started drawing.",
-      "translation": "Том начал рисовать.",
-      "language": "en"
-    },
-    {
       "id": "pb_artpainting_0_19",
       "word": "She posed for a drawing.",
       "translation": "Она позировала для рисунка.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artpainting_0_20",
-      "word": "Tom is drawing an apple.",
-      "translation": "Том рисует яблоко.",
       "language": "en"
     },
     {
@@ -139,18 +103,6 @@
       "id": "pb_artpainting_0_22",
       "word": "She succeeded in drawing the truth from him.",
       "translation": "Ей удалось вытянуть из него правду.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artpainting_0_23",
-      "word": "Tom is drawing something.",
-      "translation": "Том что-то рисует.",
-      "language": "en"
-    },
-    {
-      "id": "pb_artpainting_0_24",
-      "word": "Tom stole my drawing.",
-      "translation": "Том украл мой рисунок.",
       "language": "en"
     }
   ]

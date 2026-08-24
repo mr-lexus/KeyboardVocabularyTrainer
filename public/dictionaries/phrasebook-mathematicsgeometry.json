@@ -22,12 +22,6 @@
       "language": "en"
     },
     {
-      "id": "pb_mathematicsgeometry_0_3",
-      "word": "Tom said he didn't know how to solve the problem.",
-      "translation": "Том сказал, что не знает, как решать проблему.",
-      "language": "en"
-    },
-    {
       "id": "pb_mathematicsgeometry_0_4",
       "word": "That would solve the problem, wouldn't it?",
       "translation": "Это ведь решило бы проблему?",
@@ -70,12 +64,6 @@
       "language": "en"
     },
     {
-      "id": "pb_mathematicsgeometry_0_11",
-      "word": "Tom was able to solve the problem in three minutes.",
-      "translation": "Том смог решить задачу за три минуты.",
-      "language": "en"
-    },
-    {
       "id": "pb_mathematicsgeometry_0_12",
       "word": "I've got a lot of problems I need to solve.",
       "translation": "У меня много проблем, которые мне нужно решить.",
@@ -94,12 +82,6 @@
       "language": "en"
     },
     {
-      "id": "pb_mathematicsgeometry_0_15",
-      "word": "Tom has a problem that he needs to solve.",
-      "translation": "У Тома есть проблема, которую ему нужно решить.",
-      "language": "en"
-    },
-    {
       "id": "pb_mathematicsgeometry_0_16",
       "word": "That still doesn't solve the problem.",
       "translation": "Это тем не менее не решает проблему.",
@@ -109,12 +91,6 @@
       "id": "pb_mathematicsgeometry_0_17",
       "word": "Tell me how to solve the problem.",
       "translation": "Скажи мне, как решить проблему.",
-      "language": "en"
-    },
-    {
-      "id": "pb_mathematicsgeometry_0_18",
-      "word": "Tom wasn't able to solve that problem.",
-      "translation": "Том не смог решить эту проблему.",
       "language": "en"
     },
     {
@@ -244,21 +220,9 @@
       "language": "en"
     },
     {
-      "id": "pb_mathematicsgeometry_0_40",
-      "word": "Tom showed me how to solve the problem.",
-      "translation": "Том показал мне, как решить задачу.",
-      "language": "en"
-    },
-    {
       "id": "pb_mathematicsgeometry_0_41",
       "word": "Measure twice, cut once!",
       "translation": "Семь раз отмерь, один раз отрежь.",
-      "language": "en"
-    },
-    {
-      "id": "pb_mathematicsgeometry_0_42",
-      "word": "Tom can't solve the problem.",
-      "translation": "Том не может решить проблему.",
       "language": "en"
     },
     {
@@ -328,12 +292,6 @@
       "language": "en"
     },
     {
-      "id": "pb_mathematicsgeometry_1_4",
-      "word": "Tom won't be able to solve his problems alone.",
-      "translation": "Том не сможет один решить свои проблемы.",
-      "language": "en"
-    },
-    {
       "id": "pb_mathematicsgeometry_1_5",
       "word": "Doing that won't solve anything.",
       "translation": "Делая это, ты ничего не решишь.",
@@ -361,24 +319,6 @@
       "id": "pb_mathematicsgeometry_1_9",
       "word": "You're the only one who can solve this problem.",
       "translation": "Вы единственный, кто может решить эту проблему.",
-      "language": "en"
-    },
-    {
-      "id": "pb_mathematicsgeometry_1_10",
-      "word": "Measure twice, cut once.",
-      "translation": "Семь раз отмерь, один раз отрежь.",
-      "language": "en"
-    },
-    {
-      "id": "pb_mathematicsgeometry_1_11",
-      "word": "It seems that Tom is unable to solve the problem.",
-      "translation": "Кажется, Том не может решить эту задачу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_mathematicsgeometry_1_12",
-      "word": "Tom figured out how to solve the problem.",
-      "translation": "Том понял, как решить проблему.",
       "language": "en"
     },
     {
@@ -472,21 +412,9 @@
       "language": "en"
     },
     {
-      "id": "pb_mathematicsgeometry_1_28",
-      "word": "Tom was able to solve that problem.",
-      "translation": "Том смог решить эту задачу.",
-      "language": "en"
-    },
-    {
       "id": "pb_mathematicsgeometry_1_29",
       "word": "Did we solve the problem?",
       "translation": "Мы решили проблему?",
-      "language": "en"
-    },
-    {
-      "id": "pb_mathematicsgeometry_1_30",
-      "word": "Tom couldn't solve the problem.",
-      "translation": "Том не смог решить задачу.",
       "language": "en"
     },
     {
@@ -532,12 +460,6 @@
       "language": "en"
     },
     {
-      "id": "pb_mathematicsgeometry_1_38",
-      "word": "Tom is trying to solve a puzzle.",
-      "translation": "Том пытается разгадать загадку.",
-      "language": "en"
-    },
-    {
       "id": "pb_mathematicsgeometry_1_39",
       "word": "That won't solve our problem.",
       "translation": "Это не решит нашу проблему.",
@@ -556,21 +478,9 @@
       "language": "en"
     },
     {
-      "id": "pb_mathematicsgeometry_1_42",
-      "word": "Tom can solve your problem.",
-      "translation": "Том может решить твою проблему.",
-      "language": "en"
-    },
-    {
       "id": "pb_mathematicsgeometry_1_43",
       "word": "This doesn't solve the problem.",
       "translation": "Это не решает проблему.",
-      "language": "en"
-    },
-    {
-      "id": "pb_mathematicsgeometry_1_44",
-      "word": "Tom tried to solve the problem.",
-      "translation": "Том пытался решить проблему.",
       "language": "en"
     },
     {
@@ -649,12 +559,6 @@
       "id": "pb_mathematicsgeometry_2_7",
       "word": "That's too hard a problem for me to solve.",
       "translation": "Это слишком сложная задача, чтобы я мог её решить.",
-      "language": "en"
-    },
-    {
-      "id": "pb_mathematicsgeometry_2_8",
-      "word": "Tom is the only one who can solve this problem.",
-      "translation": "Том — единственный, кто может решить эту проблему.",
       "language": "en"
     },
     {
@@ -766,12 +670,6 @@
       "language": "en"
     },
     {
-      "id": "pb_mathematicsgeometry_2_27",
-      "word": "Tom helped me solve the problem.",
-      "translation": "Том помог мне решить проблему.",
-      "language": "en"
-    },
-    {
       "id": "pb_mathematicsgeometry_2_28",
       "word": "It was easy to solve that problem.",
       "translation": "Эту проблему было легко решить.",
@@ -868,33 +766,15 @@
       "language": "en"
     },
     {
-      "id": "pb_mathematicsgeometry_2_44",
-      "word": "Tom didn't know how to solve this problem.",
-      "translation": "Том не знал, как решить эту проблему.",
-      "language": "en"
-    },
-    {
       "id": "pb_mathematicsgeometry_2_45",
       "word": "It wasn't easy to solve this problem.",
       "translation": "Было нелегко решить эту проблему.",
       "language": "en"
     },
     {
-      "id": "pb_mathematicsgeometry_2_46",
-      "word": "Tom was able to solve the problem.",
-      "translation": "Том смог решить задачу.",
-      "language": "en"
-    },
-    {
       "id": "pb_mathematicsgeometry_2_47",
       "word": "I'm trying to solve this problem.",
       "translation": "Я пытаюсь решить эту проблему.",
-      "language": "en"
-    },
-    {
-      "id": "pb_mathematicsgeometry_2_48",
-      "word": "Tom wasn't able to solve the problem.",
-      "translation": "Том не смог решить проблему.",
       "language": "en"
     },
     {
@@ -940,12 +820,6 @@
       "language": "en"
     },
     {
-      "id": "pb_mathematicsgeometry_3_6",
-      "word": "Tom has a problem, and he wants to solve it.",
-      "translation": "У Тома есть проблема, и он хочет её решить.",
-      "language": "en"
-    },
-    {
       "id": "pb_mathematicsgeometry_3_7",
       "word": "The problem was difficult to solve.",
       "translation": "Это была сложная проблема.",
@@ -988,12 +862,6 @@
       "language": "en"
     },
     {
-      "id": "pb_mathematicsgeometry_3_14",
-      "word": "Tom said that he didn't know how to solve the problem.",
-      "translation": "Том сказал, что не знает, как решать проблему.",
-      "language": "en"
-    },
-    {
       "id": "pb_mathematicsgeometry_3_15",
       "word": "We do have a problem, but it's not one we can't solve.",
       "translation": "У нас действительно есть проблема, но не такая, чтобы мы не могли её решить.",
@@ -1021,12 +889,6 @@
       "id": "pb_mathematicsgeometry_3_19",
       "word": "That won't solve your problem.",
       "translation": "Это не решит вашу проблему.",
-      "language": "en"
-    },
-    {
-      "id": "pb_mathematicsgeometry_3_20",
-      "word": "Tom will be able to solve the problem.",
-      "translation": "Том сможет решить эту проблему.",
       "language": "en"
     },
     {

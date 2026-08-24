@@ -4,12 +4,6 @@
   "description": "Phrasebook for Science & Space",
   "entries": [
     {
-      "id": "pb_sciencespace_0_0",
-      "word": "Tom likes science fiction.",
-      "translation": "Том любит научную фантастику.",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_0_1",
       "word": "I like science.",
       "translation": "Я люблю науку.",
@@ -31,12 +25,6 @@
       "id": "pb_sciencespace_0_4",
       "word": "What planet do you live on?",
       "translation": "На какой планете ты живешь?",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_0_5",
-      "word": "Tom acts like a rock star.",
-      "translation": "Том ведёт себя как рок-звезда.",
       "language": "en"
     },
     {
@@ -166,12 +154,6 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_0_27",
-      "word": "What did Tom discover?",
-      "translation": "Что Том обнаружил?",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_0_28",
       "word": "I consider him a great scientist.",
       "translation": "Я считаю его великим учёным.",
@@ -280,12 +262,6 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_0_46",
-      "word": "Tom dreamed of becoming a rock star.",
-      "translation": "Том мечтал стать рок-звездой.",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_0_47",
       "word": "I am determined to be a scientist.",
       "translation": "Я решил стать ученым.",
@@ -346,12 +322,6 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_1_7",
-      "word": "Tom is interested in chemistry.",
-      "translation": "Том интересуется химией.",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_1_8",
       "word": "I thought you were a scientist.",
       "translation": "Я думал, что ты учёный.",
@@ -370,27 +340,9 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_1_11",
-      "word": "Tom has no interest in science.",
-      "translation": "Том не интересуется наукой.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_1_12",
-      "word": "Tom needed space.",
-      "translation": "Тому нужно было место.",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_1_13",
       "word": "He understands physics.",
       "translation": "Он понимает физику.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_1_14",
-      "word": "Tom is good at biology.",
-      "translation": "Том силён в биологии.",
       "language": "en"
     },
     {
@@ -409,12 +361,6 @@
       "id": "pb_sciencespace_1_17",
       "word": "I hate chemistry.",
       "translation": "Я ненавижу химию.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_1_18",
-      "word": "Tom was the star of the show.",
-      "translation": "Том был звездой шоу.",
       "language": "en"
     },
     {
@@ -466,21 +412,9 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_1_27",
-      "word": "Tom believes the moon landings were faked.",
-      "translation": "Том думает, что посадки на Луну были фальсифицированы.",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_1_28",
       "word": "Physics is more difficult than mathematics.",
       "translation": "Физика сложнее математики.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_1_29",
-      "word": "Tom just sat there staring out into space.",
-      "translation": "Том просто сидел, глядя в пространство.",
       "language": "en"
     },
     {
@@ -511,12 +445,6 @@
       "id": "pb_sciencespace_1_34",
       "word": "How on earth can you speak that language?",
       "translation": "Как же ты умудряешься говорить на этом языке?",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_1_35",
-      "word": "Tom thinks he's the center of the universe.",
-      "translation": "Том считает себя центром Вселенной.",
       "language": "en"
     },
     {
@@ -598,18 +526,6 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_1_49",
-      "word": "Tom was the star.",
-      "translation": "Том был звездой.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_2_0",
-      "word": "Tom loves science fiction.",
-      "translation": "Том любит научную фантастику.",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_2_1",
       "word": "I saw the moon above the horizon.",
       "translation": "Я видел луну над горизонтом.",
@@ -622,12 +538,6 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_2_3",
-      "word": "Tom looked at the moon.",
-      "translation": "Том посмотрел на Луну.",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_2_4",
       "word": "Science has always interested me.",
       "translation": "Меня всегда интересовала наука.",
@@ -637,12 +547,6 @@
       "id": "pb_sciencespace_2_5",
       "word": "You're a star.",
       "translation": "Ты звезда.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_2_6",
-      "word": "Tom felt like the luckiest man on earth.",
-      "translation": "Том чувствовал себя самым удачливым человеком на свете.",
       "language": "en"
     },
     {
@@ -667,12 +571,6 @@
       "id": "pb_sciencespace_2_10",
       "word": "He used pigeons in his experiment.",
       "translation": "В своём эксперименте он использовал голубей.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_2_11",
-      "word": "Tom is a science fiction writer.",
-      "translation": "Том - писатель-фантаст.",
       "language": "en"
     },
     {
@@ -781,12 +679,6 @@
       "id": "pb_sciencespace_2_29",
       "word": "They're in the science lab.",
       "translation": "Они в научной лаборатории.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_2_30",
-      "word": "Tom has landed on the moon.",
-      "translation": "Том прилунился.",
       "language": "en"
     },
     {
@@ -904,12 +796,6 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_3_0",
-      "word": "Tom looked through the telescope.",
-      "translation": "Том смотрел в телескоп.",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_3_1",
       "word": "I go to church once in a blue moon.",
       "translation": "Я хожу в церковь раз в столетие.",
@@ -952,12 +838,6 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_3_8",
-      "word": "Tom thinks that he's the center of the universe.",
-      "translation": "Том считает себя центром Вселенной.",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_3_9",
       "word": "Earth has a diameter of 12,742 kilometers.",
       "translation": "Диаметр Земли - 12 742 км.",
@@ -988,33 +868,9 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_3_14",
-      "word": "Does Tom have a telescope?",
-      "translation": "У Тома есть телескоп?",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_3_15",
-      "word": "Tom has a large telescope.",
-      "translation": "У Тома большой телескоп.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_3_16",
-      "word": "Tom is interested in biology.",
-      "translation": "Том интересуется биологией.",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_3_17",
       "word": "This is one of the most dangerous places on Earth.",
       "translation": "Это одно из самых опасных мест на Земле.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_3_18",
-      "word": "Tom did his own research.",
-      "translation": "Том провёл своё собственное исследование.",
       "language": "en"
     },
     {
@@ -1042,12 +898,6 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_3_23",
-      "word": "Where did Tom and Mary go for their honeymoon?",
-      "translation": "Куда Том и Мэри отправились на медовый месяц?",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_3_24",
       "word": "How was the honeymoon?",
       "translation": "Как прошёл медовый месяц?",
@@ -1066,27 +916,9 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_3_27",
-      "word": "Tom is very interested in biology.",
-      "translation": "Том очень интересуется биологией.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_3_28",
-      "word": "Tom and Mary went to the moon for their honeymoon.",
-      "translation": "Том и Мэри отправились в свадебное путешествие на Луну.",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_3_29",
       "word": "The laboratory is busy now on a new scientific experiment.",
       "translation": "Лаборатория сейчас занята новым научным экспериментом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_3_30",
-      "word": "We hired Tom a chemistry tutor.",
-      "translation": "Мы наняли Тому репетитора по химии.",
       "language": "en"
     },
     {
@@ -1222,12 +1054,6 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_4_3",
-      "word": "Tom wanted to look through the telescope.",
-      "translation": "Том хотел посмотреть в телескоп.",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_4_4",
       "word": "Science is fun.",
       "translation": "Наука — это весело.",
@@ -1276,12 +1102,6 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_4_12",
-      "word": "Tom and Mary are getting ready to go on their honeymoon.",
-      "translation": "Том и Мэри готовятся к поездке в свадебное путешествие.",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_4_13",
       "word": "People used to think that the earth was flat.",
       "translation": "Люди когда-то думали, что Земля плоская.",
@@ -1318,21 +1138,9 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_4_19",
-      "word": "Tom and Mary went to Australia for their honeymoon.",
-      "translation": "Том и Мэри отправились в Австралию на свой медовый месяц.",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_4_20",
       "word": "This sofa takes up too much space.",
       "translation": "Этот диван занимает слишком много места.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_4_21",
-      "word": "Tom wanted to become a scientist.",
-      "translation": "Том хотел стать учёным.",
       "language": "en"
     },
     {
@@ -1384,12 +1192,6 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_4_30",
-      "word": "The star of the show was Tom.",
-      "translation": "Звездой шоу был Том.",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_4_31",
       "word": "I was the star.",
       "translation": "Я была звездой.",
@@ -1414,27 +1216,9 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_4_35",
-      "word": "Tom is a famous pop star.",
-      "translation": "Том — знаменитая поп-звезда.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_4_36",
-      "word": "Tom is a star.",
-      "translation": "Том — звезда.",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_4_37",
       "word": "How on earth did you get in?",
       "translation": "Как ты вообще попал внутрь?",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_4_38",
-      "word": "Tom is busy with his research.",
-      "translation": "Том занят своим исследованием.",
       "language": "en"
     },
     {
@@ -1468,12 +1252,6 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_4_44",
-      "word": "Tom wants a telescope.",
-      "translation": "Том хочет телескоп.",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_4_45",
       "word": "We were disappointed with the results of the experiment.",
       "translation": "Мы были разочарованы результатами эксперимента.",
@@ -1483,12 +1261,6 @@
       "id": "pb_sciencespace_4_46",
       "word": "We learned that the moon goes around the earth.",
       "translation": "Мы узнали, что Луна движется вокруг Земли.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_4_47",
-      "word": "Tom has decided to donate his body to medical science.",
-      "translation": "Том решил пожертвовать своё тело медицине.",
       "language": "en"
     },
     {
@@ -1558,12 +1330,6 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_5_9",
-      "word": "Tom needs some space.",
-      "translation": "Тому нужно немного личного пространства.",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_5_10",
       "word": "Do you know the difference between a microscope and a telescope?",
       "translation": "Вы знаете разницу между микроскопом и телескопом?",
@@ -1582,18 +1348,6 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_5_13",
-      "word": "Tom likes biology.",
-      "translation": "Тому нравится биология.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_5_14",
-      "word": "Tom wanted to be a scientist.",
-      "translation": "Том хотел стать учёным.",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_5_15",
       "word": "I never liked biology.",
       "translation": "Я никогда не любил биологию.",
@@ -1609,18 +1363,6 @@
       "id": "pb_sciencespace_5_17",
       "word": "Armstrong was the first man to reach the moon.",
       "translation": "Армстронг был первым человеком, достигшим Луны.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_5_18",
-      "word": "Tom needs space.",
-      "translation": "Тому нужно место.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_5_19",
-      "word": "Tom studied biology.",
-      "translation": "Том изучал биологию.",
       "language": "en"
     },
     {
@@ -1723,12 +1465,6 @@
       "id": "pb_sciencespace_5_36",
       "word": "Mars is called the red planet.",
       "translation": "Марс называют красной планетой.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_5_37",
-      "word": "Tom has become a star.",
-      "translation": "Том стал звездой.",
       "language": "en"
     },
     {
@@ -1840,24 +1576,6 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_6_6",
-      "word": "Tom is helping Mary with her research.",
-      "translation": "Том помогает Мэри с её исследованием.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_6_7",
-      "word": "Tom is a true scientist.",
-      "translation": "Том настоящий учёный.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_6_8",
-      "word": "Tom is a superstar.",
-      "translation": "Том - суперзвезда.",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_6_9",
       "word": "At night, she gazed at the moon.",
       "translation": "Ночью она смотрела на луну.",
@@ -1867,12 +1585,6 @@
       "id": "pb_sciencespace_6_10",
       "word": "There are countless stars in the universe.",
       "translation": "Во Вселенной неисчисляемое количество звезд.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_6_11",
-      "word": "I don't want Tom's death on my conscience.",
-      "translation": "Я не хочу, чтобы смерть Тома была на моей совести.",
       "language": "en"
     },
     {
@@ -1888,12 +1600,6 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_6_14",
-      "word": "Tom studied chemistry.",
-      "translation": "Том изучал химию.",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_6_15",
       "word": "The United States had won the race to the moon.",
       "translation": "Америка выиграла лунную гонку.",
@@ -1903,12 +1609,6 @@
       "id": "pb_sciencespace_6_16",
       "word": "Venus is the closest planet to Earth.",
       "translation": "Венера - ближайшая к Земле планета.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_6_17",
-      "word": "Where on earth is Tom?",
-      "translation": "Где, чёрт возьми, Том?",
       "language": "en"
     },
     {
@@ -1984,18 +1684,6 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_6_30",
-      "word": "Tom is an eminent scientist.",
-      "translation": "Том - видный учёный.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_6_31",
-      "word": "Is Tom a scientist?",
-      "translation": "Том - учёный?",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_6_32",
       "word": "The boy grew up to be a great scientist.",
       "translation": "Мальчик вырос и стал большим учёным.",
@@ -2008,21 +1696,9 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_6_34",
-      "word": "Tom believes that the moon landings were faked.",
-      "translation": "Том думает, что посадки на Луну были фальсифицированы.",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_6_35",
       "word": "There's only space for ten people in the lifeboat.",
       "translation": "На спасательной шлюпке есть место только для десяти человек.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_6_36",
-      "word": "Tom turns into a wolf at every full moon.",
-      "translation": "Каждое полнолуние Том превращается в волка.",
       "language": "en"
     },
     {
@@ -2062,12 +1738,6 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_6_43",
-      "word": "Tom saw a shooting star.",
-      "translation": "Том видел падающую звезду.",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_6_44",
       "word": "I see a star.",
       "translation": "Я вижу звезду.",
@@ -2077,12 +1747,6 @@
       "id": "pb_sciencespace_6_45",
       "word": "The moon was the only source of light.",
       "translation": "Единственным источником света была луна.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_6_46",
-      "word": "Does Tom still teach biology?",
-      "translation": "Том так и преподаёт биологию?",
       "language": "en"
     },
     {
@@ -2116,21 +1780,9 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_7_2",
-      "word": "Tom isn't a scientist.",
-      "translation": "Том - не учёный.",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_7_3",
       "word": "How on earth did you know that?",
       "translation": "Да откуда же ты это знал?",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_7_4",
-      "word": "Tom loves science.",
-      "translation": "Том любит науку.",
       "language": "en"
     },
     {
@@ -2248,21 +1900,9 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_7_24",
-      "word": "Tom likes chemistry.",
-      "translation": "Тому нравится химия.",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_7_25",
       "word": "Seen from the moon, the earth looks like a ball.",
       "translation": "Если смотреть с Луны, Земля выглядит как шар.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_7_26",
-      "word": "Tom only comes to visit once in a blue moon.",
-      "translation": "Том навещает нас раз в сто лет.",
       "language": "en"
     },
     {
@@ -2392,18 +2032,6 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_7_48",
-      "word": "Tom is now the star of a reality show.",
-      "translation": "Том теперь звезда реалити-шоу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_7_49",
-      "word": "Tom is a scoundrel without a conscience.",
-      "translation": "Том - бессовестный подлец.",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_8_0",
       "word": "It was an experiment.",
       "translation": "Это был эксперимент.",
@@ -2434,21 +2062,9 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_8_5",
-      "word": "Tom Jackson is a world-famous scientist.",
-      "translation": "Том Джексон - всемирно известный учёный.",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_8_6",
       "word": "This telescope must be used carefully.",
       "translation": "С этим телескопом нужно обращаться осторожно.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_8_7",
-      "word": "Tom looked at the moon through his telescope.",
-      "translation": "Том смотрел в телескоп на Луну.",
       "language": "en"
     },
     {
@@ -2524,21 +2140,9 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_8_20",
-      "word": "Tom studies chemistry.",
-      "translation": "Том изучает химию.",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_8_21",
       "word": "He is poor at chemistry.",
       "translation": "Он слаб в химии.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_8_22",
-      "word": "Tom isn't a superstar.",
-      "translation": "Том не суперзвезда.",
       "language": "en"
     },
     {
@@ -2590,12 +2194,6 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_8_31",
-      "word": "Tom and Mary are on their honeymoon.",
-      "translation": "Том и Мэри сейчас проводят свой медовый месяц.",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_8_32",
       "word": "That experiment was a failure.",
       "translation": "Этот опыт был неудачей.",
@@ -2629,12 +2227,6 @@
       "id": "pb_sciencespace_8_37",
       "word": "Science has not solved all the problems of life.",
       "translation": "Наука не решила всех жизненных проблем.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_8_38",
-      "word": "Tom is the star of the team.",
-      "translation": "Том — звезда команды.",
       "language": "en"
     },
     {
@@ -2677,12 +2269,6 @@
       "id": "pb_sciencespace_8_45",
       "word": "Are you still having difficulty with physics?",
       "translation": "У тебя всё ещё есть трудности с физикой?",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_8_46",
-      "word": "Tom and Mary chose Hawaii for their honeymoon.",
-      "translation": "Том и Мэри выбрали для своего медового месяца Гавайи.",
       "language": "en"
     },
     {
@@ -2737,12 +2323,6 @@
       "id": "pb_sciencespace_9_5",
       "word": "There are no people on the moon.",
       "translation": "На Луне нет людей.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_9_6",
-      "word": "Tom is a scientist.",
-      "translation": "Том учёный.",
       "language": "en"
     },
     {
@@ -2932,12 +2512,6 @@
       "language": "en"
     },
     {
-      "id": "pb_sciencespace_9_38",
-      "word": "Tom is convinced that the earth is flat.",
-      "translation": "Том уверен, что Земля плоская.",
-      "language": "en"
-    },
-    {
       "id": "pb_sciencespace_9_39",
       "word": "This child believes that the earth is flat.",
       "translation": "Этот ребёнок думает, что Земля плоская.",
@@ -2965,12 +2539,6 @@
       "id": "pb_sciencespace_9_43",
       "word": "Many kinds of animals have vanished from the earth.",
       "translation": "Многие виды животных исчезли с лица земли.",
-      "language": "en"
-    },
-    {
-      "id": "pb_sciencespace_9_44",
-      "word": "Tom is a rock and roll star.",
-      "translation": "Том — звезда рок-н-ролла.",
       "language": "en"
     },
     {

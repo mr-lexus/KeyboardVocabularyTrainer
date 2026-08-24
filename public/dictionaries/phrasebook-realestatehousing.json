@@ -4,18 +4,6 @@
   "description": "Phrasebook for Real Estate & Housing",
   "entries": [
     {
-      "id": "pb_realestatehousing_0_0",
-      "word": "Tom and Mary live in this neighborhood.",
-      "translation": "Том и Мэри живут в этом районе.",
-      "language": "en"
-    },
-    {
-      "id": "pb_realestatehousing_0_1",
-      "word": "Tom grew up in the suburbs.",
-      "translation": "Том вырос в пригороде.",
-      "language": "en"
-    },
-    {
       "id": "pb_realestatehousing_0_2",
       "word": "Property taxes are going up.",
       "translation": "Налоги на недвижимость растут.",
@@ -25,12 +13,6 @@
       "id": "pb_realestatehousing_0_3",
       "word": "The property was divided equally among the heirs.",
       "translation": "Имущество было поделено поровну между наследниками.",
-      "language": "en"
-    },
-    {
-      "id": "pb_realestatehousing_0_4",
-      "word": "Tom is an FBI agent.",
-      "translation": "Том - агент ФБР.",
       "language": "en"
     },
     {
@@ -52,39 +34,15 @@
       "language": "en"
     },
     {
-      "id": "pb_realestatehousing_0_8",
-      "word": "Tom inherited all of his father's property.",
-      "translation": "Том унаследовал всё отцовское состояние.",
-      "language": "en"
-    },
-    {
       "id": "pb_realestatehousing_0_9",
       "word": "Slaves were considered property.",
       "translation": "Рабы считались собственностью.",
       "language": "en"
     },
     {
-      "id": "pb_realestatehousing_0_10",
-      "word": "I know Tom used to be a real estate agent.",
-      "translation": "Я знаю, что Том был когда-то агентом по продаже недвижимости.",
-      "language": "en"
-    },
-    {
       "id": "pb_realestatehousing_0_11",
       "word": "Stop by if you're ever in the neighborhood.",
       "translation": "Будете в наших краях - заходите.",
-      "language": "en"
-    },
-    {
-      "id": "pb_realestatehousing_0_12",
-      "word": "Tom runs a bar in downtown Boston.",
-      "translation": "Том держит бар в центре Бостона.",
-      "language": "en"
-    },
-    {
-      "id": "pb_realestatehousing_0_13",
-      "word": "Tom has lots of property in Australia.",
-      "translation": "У Тома много собственности в Австралии.",
       "language": "en"
     },
     {
@@ -130,12 +88,6 @@
       "language": "en"
     },
     {
-      "id": "pb_realestatehousing_0_21",
-      "word": "Tom lives in a poor neighborhood.",
-      "translation": "Том живёт в бедном районе.",
-      "language": "en"
-    },
-    {
       "id": "pb_realestatehousing_0_22",
       "word": "I own this property.",
       "translation": "Я владею этой собственностью.",
@@ -166,12 +118,6 @@
       "language": "en"
     },
     {
-      "id": "pb_realestatehousing_0_27",
-      "word": "Tom is a CIA agent.",
-      "translation": "Том — агент ЦРУ.",
-      "language": "en"
-    },
-    {
       "id": "pb_realestatehousing_0_28",
       "word": "Who owns this property?",
       "translation": "Кому принадлежит это имущество?",
@@ -190,12 +136,6 @@
       "language": "en"
     },
     {
-      "id": "pb_realestatehousing_0_31",
-      "word": "Tom is Mary's landlord.",
-      "translation": "Том домовладелец Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_realestatehousing_0_32",
       "word": "I live in a relatively safe neighborhood.",
       "translation": "Я живу в относительно безопасном районе.",
@@ -208,45 +148,15 @@
       "language": "en"
     },
     {
-      "id": "pb_realestatehousing_0_34",
-      "word": "Tom lived in the suburbs of Boston.",
-      "translation": "Том жил в пригороде Бостона.",
-      "language": "en"
-    },
-    {
       "id": "pb_realestatehousing_0_35",
       "word": "Do you have title to that property?",
       "translation": "Есть у вас законное право на это недвижимое имущество?",
       "language": "en"
     },
     {
-      "id": "pb_realestatehousing_0_36",
-      "word": "Tom was a double agent.",
-      "translation": "Том был двойным агентом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_realestatehousing_0_37",
-      "word": "Tom owns some property in Boston.",
-      "translation": "Том владеет собственностью в Бостоне.",
-      "language": "en"
-    },
-    {
-      "id": "pb_realestatehousing_0_38",
-      "word": "Tom fired his agent.",
-      "translation": "Том уволил своего агента.",
-      "language": "en"
-    },
-    {
       "id": "pb_realestatehousing_0_39",
       "word": "Your agent has already called on me.",
       "translation": "Ваш представитель уже заходил ко мне.",
-      "language": "en"
-    },
-    {
-      "id": "pb_realestatehousing_0_40",
-      "word": "Tom lives in downtown Boston.",
-      "translation": "Том живёт в центре Бостона.",
       "language": "en"
     },
     {
@@ -268,18 +178,6 @@
       "language": "en"
     },
     {
-      "id": "pb_realestatehousing_0_44",
-      "word": "Tom is a real estate agent.",
-      "translation": "Том — агент по недвижимости.",
-      "language": "en"
-    },
-    {
-      "id": "pb_realestatehousing_0_45",
-      "word": "Tom lives in the suburbs.",
-      "translation": "Том живёт в пригороде.",
-      "language": "en"
-    },
-    {
       "id": "pb_realestatehousing_0_46",
       "word": "Are you a tenant or homeowner?",
       "translation": "Вы арендатор или собственник?",
@@ -289,12 +187,6 @@
       "id": "pb_realestatehousing_0_47",
       "word": "You're disturbing the whole neighborhood.",
       "translation": "Ты беспокоишь всю округу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_realestatehousing_0_48",
-      "word": "Tom owns some property in Australia.",
-      "translation": "У Тома есть кое-какая собственность в Австралии.",
       "language": "en"
     },
     {
@@ -316,12 +208,6 @@
       "language": "en"
     },
     {
-      "id": "pb_realestatehousing_1_2",
-      "word": "Tom has lots of property.",
-      "translation": "У Тома много собственности.",
-      "language": "en"
-    },
-    {
       "id": "pb_realestatehousing_1_3",
       "word": "Where do the buses for downtown leave from?",
       "translation": "Откуда отправляются автобусы в центр города?",
@@ -334,30 +220,6 @@
       "language": "en"
     },
     {
-      "id": "pb_realestatehousing_1_5",
-      "word": "Tom is Mary's agent.",
-      "translation": "Том — агент Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_realestatehousing_1_6",
-      "word": "Tom lives in a quiet neighborhood.",
-      "translation": "Том живёт в тихом районе.",
-      "language": "en"
-    },
-    {
-      "id": "pb_realestatehousing_1_7",
-      "word": "Tom said there were no decent restaurants in his neighborhood.",
-      "translation": "Том сказал, что рядом с ним нет приличных ресторанов.",
-      "language": "en"
-    },
-    {
-      "id": "pb_realestatehousing_1_8",
-      "word": "Does Tom go downtown often?",
-      "translation": "Том часто ездит в центр?",
-      "language": "en"
-    },
-    {
       "id": "pb_realestatehousing_1_9",
       "word": "I don't like this neighborhood much.",
       "translation": "Мне не очень нравится этот район.",
@@ -367,12 +229,6 @@
       "id": "pb_realestatehousing_1_10",
       "word": "I'm an FBI agent.",
       "translation": "Я агент ФБР.",
-      "language": "en"
-    },
-    {
-      "id": "pb_realestatehousing_1_11",
-      "word": "Tom moved to a different neighborhood.",
-      "translation": "Том переехал в другой район.",
       "language": "en"
     },
     {
@@ -391,12 +247,6 @@
       "id": "pb_realestatehousing_1_14",
       "word": "I live in the suburbs of Boston.",
       "translation": "Я живу в пригороде Бостона.",
-      "language": "en"
-    },
-    {
-      "id": "pb_realestatehousing_1_15",
-      "word": "Tom isn't an FBI agent.",
-      "translation": "Том не агент ФБР.",
       "language": "en"
     },
     {
@@ -442,21 +292,9 @@
       "language": "en"
     },
     {
-      "id": "pb_realestatehousing_1_23",
-      "word": "Tom lives in a wealthy neighborhood.",
-      "translation": "Том живёт в богатом районе.",
-      "language": "en"
-    },
-    {
       "id": "pb_realestatehousing_1_24",
       "word": "This is private property.",
       "translation": "Это частная собственность.",
-      "language": "en"
-    },
-    {
-      "id": "pb_realestatehousing_1_25",
-      "word": "Tom was a lieutenant.",
-      "translation": "Том был лейтенантом.",
       "language": "en"
     },
     {
@@ -478,33 +316,15 @@
       "language": "en"
     },
     {
-      "id": "pb_realestatehousing_1_29",
-      "word": "Tom has a lot of property in Australia.",
-      "translation": "У Тома много собственности в Австралии.",
-      "language": "en"
-    },
-    {
       "id": "pb_realestatehousing_1_30",
       "word": "We live in the suburbs.",
       "translation": "Мы живём в пригороде.",
       "language": "en"
     },
     {
-      "id": "pb_realestatehousing_1_31",
-      "word": "Tom is a pawnbroker.",
-      "translation": "Том — ростовщик.",
-      "language": "en"
-    },
-    {
       "id": "pb_realestatehousing_1_32",
       "word": "Many rich people live in this neighborhood.",
       "translation": "В этом квартале живёт много богачей.",
-      "language": "en"
-    },
-    {
-      "id": "pb_realestatehousing_1_33",
-      "word": "Tom lived in the same neighborhood as Mary.",
-      "translation": "Том жил в том же районе, что и Мэри.",
       "language": "en"
     },
     {
@@ -520,33 +340,15 @@
       "language": "en"
     },
     {
-      "id": "pb_realestatehousing_1_36",
-      "word": "Tom sold all his property.",
-      "translation": "Том продал всю свою собственность.",
-      "language": "en"
-    },
-    {
       "id": "pb_realestatehousing_1_37",
       "word": "I don't really like this neighborhood.",
       "translation": "Мне не очень нравится этот район.",
       "language": "en"
     },
     {
-      "id": "pb_realestatehousing_1_38",
-      "word": "Tom went downtown with his friends.",
-      "translation": "Том с друзьями поехал в центр.",
-      "language": "en"
-    },
-    {
       "id": "pb_realestatehousing_1_39",
       "word": "There are many old buildings in our neighborhood.",
       "translation": "В нашем районе есть много старых зданий.",
-      "language": "en"
-    },
-    {
-      "id": "pb_realestatehousing_1_40",
-      "word": "Tom is a double agent.",
-      "translation": "Том — двойной агент.",
       "language": "en"
     },
     {
@@ -559,12 +361,6 @@
       "id": "pb_realestatehousing_1_42",
       "word": "I'm familiar with this neighborhood.",
       "translation": "Мне знаком этот район.",
-      "language": "en"
-    },
-    {
-      "id": "pb_realestatehousing_1_43",
-      "word": "Tom is a former CIA agent.",
-      "translation": "Том — бывший агент ЦРУ.",
       "language": "en"
     },
     {
@@ -583,12 +379,6 @@
       "id": "pb_realestatehousing_1_46",
       "word": "I live in this neighborhood.",
       "translation": "Я живу в этом районе.",
-      "language": "en"
-    },
-    {
-      "id": "pb_realestatehousing_1_47",
-      "word": "Tom and Mary live in a quiet residential neighborhood.",
-      "translation": "Том и Мэри живут в тихом спальном районе.",
       "language": "en"
     },
     {

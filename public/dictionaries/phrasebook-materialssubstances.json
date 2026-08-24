@@ -4,12 +4,6 @@
   "description": "Phrasebook for Materials & Substances",
   "entries": [
     {
-      "id": "pb_materialssubstances_0_0",
-      "word": "Tom refilled his glass.",
-      "translation": "Том снова наполнил свой стакан.",
-      "language": "en"
-    },
-    {
       "id": "pb_materialssubstances_0_1",
       "word": "The glass shattered into pieces.",
       "translation": "Стекло разбилось вдребезги.",
@@ -55,12 +49,6 @@
       "id": "pb_materialssubstances_0_8",
       "word": "I have sand in my shoe.",
       "translation": "У меня песок в ботинке.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_0_9",
-      "word": "Tom wore an old wool sweater.",
-      "translation": "Том был одет в старый шерстяной свитер.",
       "language": "en"
     },
     {
@@ -118,27 +106,9 @@
       "language": "en"
     },
     {
-      "id": "pb_materialssubstances_0_19",
-      "word": "Tom wears silk ties.",
-      "translation": "Том носит шёлковые галстуки.",
-      "language": "en"
-    },
-    {
       "id": "pb_materialssubstances_0_20",
       "word": "There is a crack in the glass.",
       "translation": "В стекле есть трещина.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_0_21",
-      "word": "Tom broke a glass.",
-      "translation": "Том разбил стекло.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_0_22",
-      "word": "Tom dug a hole in the sand.",
-      "translation": "Том выкопал в песке ямку.",
       "language": "en"
     },
     {
@@ -163,12 +133,6 @@
       "id": "pb_materialssubstances_0_26",
       "word": "I am spinning wool.",
       "translation": "Я пряду шерсть.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_0_27",
-      "word": "Tom refilled Mary's glass.",
-      "translation": "Том вновь наполнил стакан Мэри.",
       "language": "en"
     },
     {
@@ -202,12 +166,6 @@
       "language": "en"
     },
     {
-      "id": "pb_materialssubstances_0_33",
-      "word": "Tom's glass was empty.",
-      "translation": "Стакан Тома был пуст.",
-      "language": "en"
-    },
-    {
       "id": "pb_materialssubstances_0_34",
       "word": "I have lots of rubber bands.",
       "translation": "У меня много резиночек.",
@@ -232,27 +190,9 @@
       "language": "en"
     },
     {
-      "id": "pb_materialssubstances_0_38",
-      "word": "Tom has a silk scarf.",
-      "translation": "У Тома есть шёлковый шарф.",
-      "language": "en"
-    },
-    {
       "id": "pb_materialssubstances_0_39",
       "word": "Have you ever spun wool?",
       "translation": "Вам доводилось сучить шерсть?",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_0_40",
-      "word": "Tom put his glass down.",
-      "translation": "Том поставил свой стакан.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_0_41",
-      "word": "Tom took Mary's glass of wine.",
-      "translation": "Том взял бокал вина Мэри.",
       "language": "en"
     },
     {
@@ -283,18 +223,6 @@
       "id": "pb_materialssubstances_0_46",
       "word": "Is this real leather?",
       "translation": "Это натуральная кожа?",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_0_47",
-      "word": "Mary is spinning wool.",
-      "translation": "Мэри прядёт шерсть.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_0_48",
-      "word": "Tom dropped his glass.",
-      "translation": "Том уронил свой стакан.",
       "language": "en"
     },
     {
@@ -346,27 +274,9 @@
       "language": "en"
     },
     {
-      "id": "pb_materialssubstances_1_7",
-      "word": "Tom drank a glass of milk.",
-      "translation": "Том выпил стакан молока.",
-      "language": "en"
-    },
-    {
       "id": "pb_materialssubstances_1_8",
       "word": "My glass is full.",
       "translation": "Мой стакан полон.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_1_9",
-      "word": "Tom's glass is empty.",
-      "translation": "Стакан Тома пуст.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_1_10",
-      "word": "Tom broke the glass.",
-      "translation": "Том разбил стакан.",
       "language": "en"
     },
     {
@@ -412,24 +322,6 @@
       "language": "en"
     },
     {
-      "id": "pb_materialssubstances_1_18",
-      "word": "Tom drank a glass of wine.",
-      "translation": "Том выпил бокал вина.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_1_19",
-      "word": "Tom ordered a glass of wine.",
-      "translation": "Том заказал бокал вина.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_1_20",
-      "word": "Tom handed Mary a glass.",
-      "translation": "Фома передал Маше стакан.",
-      "language": "en"
-    },
-    {
       "id": "pb_materialssubstances_1_21",
       "word": "It's made of leather.",
       "translation": "Это из кожи.",
@@ -439,12 +331,6 @@
       "id": "pb_materialssubstances_1_22",
       "word": "I want a glass of milk.",
       "translation": "Я хочу стакан молока.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_1_23",
-      "word": "Tom ate too much cotton candy.",
-      "translation": "Том съел слишком много сахарной ваты.",
       "language": "en"
     },
     {
@@ -490,12 +376,6 @@
       "language": "en"
     },
     {
-      "id": "pb_materialssubstances_1_31",
-      "word": "Tom poured himself another glass of milk.",
-      "translation": "Том налил себе ещё один стакан молока.",
-      "language": "en"
-    },
-    {
       "id": "pb_materialssubstances_1_32",
       "word": "Bring me that glass of milk.",
       "translation": "Принеси мне тот стакан молока.",
@@ -538,45 +418,9 @@
       "language": "en"
     },
     {
-      "id": "pb_materialssubstances_1_39",
-      "word": "Tom dropped the glass.",
-      "translation": "Том уронил стакан.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_1_40",
-      "word": "Tom poured more wine into his glass.",
-      "translation": "Том подлил себе в бокал ещё вина.",
-      "language": "en"
-    },
-    {
       "id": "pb_materialssubstances_1_41",
       "word": "The glass is empty.",
       "translation": "Стакан пуст.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_1_42",
-      "word": "Tom drank the glass of vodka.",
-      "translation": "Том выпил стакан водки.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_1_43",
-      "word": "Tom uncorked a bottle of wine and poured himself a glass.",
-      "translation": "Том откупорил бутылку вина и налил себе бокал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_1_44",
-      "word": "Tom brushed the sand off his legs.",
-      "translation": "Том отряхнул песок с ног.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_1_45",
-      "word": "Tom bought a pair of rubber boots.",
-      "translation": "Том купил резиновые сапоги.",
       "language": "en"
     },
     {
@@ -586,45 +430,15 @@
       "language": "en"
     },
     {
-      "id": "pb_materialssubstances_1_47",
-      "word": "Tom poured himself a glass of wine.",
-      "translation": "Том налил себе бокал вина.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_1_48",
-      "word": "Tom filled Mary's wine glass to the rim.",
-      "translation": "Том наполнил до краёв бокал вина Марии.",
-      "language": "en"
-    },
-    {
       "id": "pb_materialssubstances_1_49",
       "word": "Do you smell rubber burning?",
       "translation": "Ты чувствуешь запах палёной резины?",
       "language": "en"
     },
     {
-      "id": "pb_materialssubstances_2_0",
-      "word": "Tom is holding a glass of wine.",
-      "translation": "Том держит бокал вина.",
-      "language": "en"
-    },
-    {
       "id": "pb_materialssubstances_2_1",
       "word": "I had a glass of beer to quench my thirst.",
       "translation": "Я выпил кружку пива, чтобы утолить жажду.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_2_2",
-      "word": "Tom picked up the glass of juice and took a sip.",
-      "translation": "Том взял стакан сока и сделал глоток.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_2_3",
-      "word": "Tom bent down and picked up a handful of sand.",
-      "translation": "Том наклонился и взял пригоршню песка.",
       "language": "en"
     },
     {
@@ -637,18 +451,6 @@
       "id": "pb_materialssubstances_2_5",
       "word": "Fill the glass to the brim.",
       "translation": "Наполни стакан до краёв.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_2_6",
-      "word": "Tom and Mary played in the sandbox together and made sand castles.",
-      "translation": "Том и Мария играли вместе в песочнице и строили песочные замки.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_2_7",
-      "word": "The vase Tom gave me is made of glass.",
-      "translation": "Ваза, которую мне Том подарил, стеклянная.",
       "language": "en"
     },
     {
@@ -670,27 +472,9 @@
       "language": "en"
     },
     {
-      "id": "pb_materialssubstances_2_11",
-      "word": "The vase that Tom gave me is made of glass.",
-      "translation": "Ваза, которую мне Том подарил, стеклянная.",
-      "language": "en"
-    },
-    {
       "id": "pb_materialssubstances_2_12",
       "word": "How much sand is there in the bucket?",
       "translation": "Сколько песка в ведре?",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_2_13",
-      "word": "Tom bought a leather couch.",
-      "translation": "Том купил кожаный диван.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_2_14",
-      "word": "Tom wears silk neckties.",
-      "translation": "Том носит шёлковые галстуки.",
       "language": "en"
     },
     {
@@ -709,12 +493,6 @@
       "id": "pb_materialssubstances_2_17",
       "word": "The wheels are sinking into the sand.",
       "translation": "Колёса тонут в песке.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_2_18",
-      "word": "Tom cut himself on a shard of glass.",
-      "translation": "Том порезался осколком стекла.",
       "language": "en"
     },
     {
@@ -745,12 +523,6 @@
       "id": "pb_materialssubstances_2_23",
       "word": "A rolling stone gathers no moss.",
       "translation": "Кто много странствует, добра не наживает.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_2_24",
-      "word": "Tom threw a stone into the pond.",
-      "translation": "Том бросил в пруд камень.",
       "language": "en"
     },
     {
@@ -832,33 +604,15 @@
       "language": "en"
     },
     {
-      "id": "pb_materialssubstances_2_38",
-      "word": "Tom drank out of my glass.",
-      "translation": "Том пил из моего стакана.",
-      "language": "en"
-    },
-    {
       "id": "pb_materialssubstances_2_39",
       "word": "Mali is one of Africa’s largest cotton growers.",
       "translation": "Мали — один из крупнейших в Африке производителей хлопка.",
       "language": "en"
     },
     {
-      "id": "pb_materialssubstances_2_40",
-      "word": "Tom drank a glass of juice.",
-      "translation": "Том выпил стакан сока.",
-      "language": "en"
-    },
-    {
       "id": "pb_materialssubstances_2_41",
       "word": "I bought a pair of leather gloves.",
       "translation": "Я купил пару кожаных перчаток.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_2_42",
-      "word": "Tom put down his glass.",
-      "translation": "Том поставил стакан.",
       "language": "en"
     },
     {
@@ -877,12 +631,6 @@
       "id": "pb_materialssubstances_2_45",
       "word": "That way I kill two birds with one stone.",
       "translation": "Так я одним выстрелом двух зайцев убиваю.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_2_46",
-      "word": "Tom poured himself a glass of whisky.",
-      "translation": "Том налил себе стакан виски.",
       "language": "en"
     },
     {
@@ -919,12 +667,6 @@
       "id": "pb_materialssubstances_3_2",
       "word": "Won't you have another glass of milk?",
       "translation": "Будете ещё стакан молока?",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_3_3",
-      "word": "Tom raised his glass.",
-      "translation": "Том поднял свой бокал.",
       "language": "en"
     },
     {
@@ -1012,12 +754,6 @@
       "language": "en"
     },
     {
-      "id": "pb_materialssubstances_3_18",
-      "word": "Mary was wearing a silk kimono.",
-      "translation": "Мэри была в шёлковом кимоно.",
-      "language": "en"
-    },
-    {
       "id": "pb_materialssubstances_3_19",
       "word": "The rubber gloves are under the sink.",
       "translation": "Резиновые перчатки под раковиной.",
@@ -1078,12 +814,6 @@
       "language": "en"
     },
     {
-      "id": "pb_materialssubstances_3_29",
-      "word": "Tom is holding a glass of champagne.",
-      "translation": "Том держит бокал с шампанским.",
-      "language": "en"
-    },
-    {
       "id": "pb_materialssubstances_3_30",
       "word": "The glass is full of milk.",
       "translation": "Стакан полон молока.",
@@ -1099,12 +829,6 @@
       "id": "pb_materialssubstances_3_32",
       "word": "This glass is empty.",
       "translation": "Этот стакан пустой.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_3_33",
-      "word": "Tom poured some more wine into his glass.",
-      "translation": "Том налил ещё немного вина в свой бокал.",
       "language": "en"
     },
     {
@@ -1138,27 +862,9 @@
       "language": "en"
     },
     {
-      "id": "pb_materialssubstances_3_39",
-      "word": "Tom filled his glass and then filled one for Mary.",
-      "translation": "Том наполнил свой бокал, а затем бокал для Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_3_40",
-      "word": "Tom poured himself a glass of vodka.",
-      "translation": "Том налил себе стакан водки.",
-      "language": "en"
-    },
-    {
       "id": "pb_materialssubstances_3_41",
       "word": "That is a leather belt.",
       "translation": "Это ремень из кожи.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_3_42",
-      "word": "Tom bought himself a pair of rubber boots.",
-      "translation": "Том купил себе резиновые сапоги.",
       "language": "en"
     },
     {
@@ -1171,12 +877,6 @@
       "id": "pb_materialssubstances_3_44",
       "word": "We found the footprints in the sand.",
       "translation": "Мы обнаружили следы на песке.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_3_45",
-      "word": "Tom pulled Mary out of the quicksand.",
-      "translation": "Том вытащил Мэри из зыбучего песка.",
       "language": "en"
     },
     {
@@ -1222,33 +922,9 @@
       "language": "en"
     },
     {
-      "id": "pb_materialssubstances_4_3",
-      "word": "Tom stood there, holding a glass of champagne.",
-      "translation": "Том стоял там с бокалом шампанского в руках.",
-      "language": "en"
-    },
-    {
       "id": "pb_materialssubstances_4_4",
       "word": "This bag is made from genuine leather.",
       "translation": "Эта сумка сделана из настоящей кожи.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_4_5",
-      "word": "Tom poured the sand out of the bucket.",
-      "translation": "Том высыпал песок из ведра.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_4_6",
-      "word": "Tom admitted that he broke the glass.",
-      "translation": "Том признался, что это он разбил стакан.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_4_7",
-      "word": "Tom poured Mary a glass of wine.",
-      "translation": "Том налил Мэри бокал вина.",
       "language": "en"
     },
     {
@@ -1258,27 +934,9 @@
       "language": "en"
     },
     {
-      "id": "pb_materialssubstances_4_9",
-      "word": "Tom filled the wheelbarrow with sand.",
-      "translation": "Том заполнил тачку песком.",
-      "language": "en"
-    },
-    {
       "id": "pb_materialssubstances_4_10",
       "word": "Australia exports a lot of wool.",
       "translation": "Австралия экспортирует много шерсти.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_4_11",
-      "word": "Tom raised his glass to his lips.",
-      "translation": "Том поднёс бокал к губам.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_4_12",
-      "word": "Tom poured some apple juice into a glass.",
-      "translation": "Том налил яблочного сока в стакан.",
       "language": "en"
     },
     {
@@ -1306,12 +964,6 @@
       "language": "en"
     },
     {
-      "id": "pb_materialssubstances_4_17",
-      "word": "Tom offered Mary a glass of champagne.",
-      "translation": "Том предложил Мэри бокал шампанского.",
-      "language": "en"
-    },
-    {
       "id": "pb_materialssubstances_4_18",
       "word": "Is this your glass or your sister's?",
       "translation": "Это твой стакан или твоей сестры?",
@@ -1333,18 +985,6 @@
       "id": "pb_materialssubstances_4_21",
       "word": "Those two shirts are made from the same material.",
       "translation": "Эти две рубашки сделаны из одинакового материала.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_4_22",
-      "word": "I can see Tom reflected in the glass.",
-      "translation": "Я вижу отражение Тома в стекле.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_4_23",
-      "word": "Tom poured some milk into his glass.",
-      "translation": "Том налил себе в стакан молока.",
       "language": "en"
     },
     {
@@ -1384,18 +1024,6 @@
       "language": "en"
     },
     {
-      "id": "pb_materialssubstances_4_30",
-      "word": "Tom handed Mary a glass of wine.",
-      "translation": "Том протянул Мэри бокал вина.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_4_31",
-      "word": "Tom poured himself another glass.",
-      "translation": "Том налил себе ещё стакан.",
-      "language": "en"
-    },
-    {
       "id": "pb_materialssubstances_4_32",
       "word": "He didn't leave a drop in the glass.",
       "translation": "Он не оставил в стакане ни капли.",
@@ -1408,27 +1036,9 @@
       "language": "en"
     },
     {
-      "id": "pb_materialssubstances_4_34",
-      "word": "Tom finished his glass of milk.",
-      "translation": "Том допил свой стакан молока.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_4_35",
-      "word": "I bought some cotton candy for Tom.",
-      "translation": "Я купил Тому сахарной ваты.",
-      "language": "en"
-    },
-    {
       "id": "pb_materialssubstances_4_36",
       "word": "She gave me a bag made of leather.",
       "translation": "Она дала мне сумку, сделанную из кожи.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_4_37",
-      "word": "Tom filled his bucket with sand.",
-      "translation": "Том наполнил своё ведро песком.",
       "language": "en"
     },
     {
@@ -1450,39 +1060,15 @@
       "language": "en"
     },
     {
-      "id": "pb_materialssubstances_4_41",
-      "word": "Tom filled his glass with wine.",
-      "translation": "Том налил себе в бокал вина.",
-      "language": "en"
-    },
-    {
       "id": "pb_materialssubstances_4_42",
       "word": "Could I have another glass of beer?",
       "translation": "Можно мне ещё один стакан пива?",
       "language": "en"
     },
     {
-      "id": "pb_materialssubstances_4_43",
-      "word": "Tom noticed a crack in the glass.",
-      "translation": "Том увидел в стекле трещину.",
-      "language": "en"
-    },
-    {
       "id": "pb_materialssubstances_4_44",
       "word": "The child picked up a small stone.",
       "translation": "Ребёнок подобрал камушек.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_4_45",
-      "word": "Tom offered Mary a glass of wine.",
-      "translation": "Том предложил Мэри бокал вина.",
-      "language": "en"
-    },
-    {
-      "id": "pb_materialssubstances_4_46",
-      "word": "Tom handed a glass of wine to Mary.",
-      "translation": "Том протянул Мэри бокал вина.",
       "language": "en"
     }
   ]

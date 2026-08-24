@@ -4,12 +4,6 @@
   "description": "Phrasebook for Public Relations & Media",
   "entries": [
     {
-      "id": "pb_publicrelationsmedia_0_0",
-      "word": "Tom isn't here because he's in Australia at a conference.",
-      "translation": "Тома нет, потому что он в Австралии на конференции.",
-      "language": "en"
-    },
-    {
       "id": "pb_publicrelationsmedia_0_1",
       "word": "I'll release you.",
       "translation": "Я тебя отпущу.",
@@ -19,12 +13,6 @@
       "id": "pb_publicrelationsmedia_0_2",
       "word": "I heard an interesting rumor.",
       "translation": "До меня тут интересный слух дошел.",
-      "language": "en"
-    },
-    {
-      "id": "pb_publicrelationsmedia_0_3",
-      "word": "Tom was involved in that scandal.",
-      "translation": "Том был замешан в этом скандале.",
       "language": "en"
     },
     {
@@ -82,12 +70,6 @@
       "language": "en"
     },
     {
-      "id": "pb_publicrelationsmedia_0_13",
-      "word": "Tom denied the rumor.",
-      "translation": "Том опроверг слух.",
-      "language": "en"
-    },
-    {
       "id": "pb_publicrelationsmedia_0_14",
       "word": "That's an understatement.",
       "translation": "Это мягко сказано.",
@@ -124,27 +106,9 @@
       "language": "en"
     },
     {
-      "id": "pb_publicrelationsmedia_0_20",
-      "word": "Why won't they release Tom?",
-      "translation": "Почему они не хотят отпускать Тома?",
-      "language": "en"
-    },
-    {
-      "id": "pb_publicrelationsmedia_0_21",
-      "word": "Tom had nothing to do with the scandal.",
-      "translation": "Том не имел к скандалу никакого отношения.",
-      "language": "en"
-    },
-    {
       "id": "pb_publicrelationsmedia_0_22",
       "word": "It's just a rumor.",
       "translation": "Это просто слухи.",
-      "language": "en"
-    },
-    {
-      "id": "pb_publicrelationsmedia_0_23",
-      "word": "Tom isn't here because he's in Boston at a conference.",
-      "translation": "Тома здесь нет, потому что он в Бостоне на конференции.",
       "language": "en"
     },
     {
@@ -166,12 +130,6 @@
       "language": "en"
     },
     {
-      "id": "pb_publicrelationsmedia_0_27",
-      "word": "Tom almost forgot the conference.",
-      "translation": "Том почти забыл конференцию.",
-      "language": "en"
-    },
-    {
       "id": "pb_publicrelationsmedia_0_28",
       "word": "I wonder who started that rumor.",
       "translation": "Я хочу знать, кто пустил этот слух.",
@@ -187,12 +145,6 @@
       "id": "pb_publicrelationsmedia_0_30",
       "word": "It was just a rumor.",
       "translation": "Это был просто слух.",
-      "language": "en"
-    },
-    {
-      "id": "pb_publicrelationsmedia_0_31",
-      "word": "Tom is at a conference now.",
-      "translation": "Том сейчас на конференции.",
       "language": "en"
     },
     {
@@ -232,18 +184,6 @@
       "language": "en"
     },
     {
-      "id": "pb_publicrelationsmedia_0_38",
-      "word": "There's a rumor going around that Tom likes Mary.",
-      "translation": "В народе ходит слух, что Тому нравится Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_publicrelationsmedia_0_39",
-      "word": "Tom has made a statement.",
-      "translation": "Том сделал заявление.",
-      "language": "en"
-    },
-    {
       "id": "pb_publicrelationsmedia_0_40",
       "word": "I began to doubt the accuracy of his statement.",
       "translation": "Я начал сомневаться в точности его утверждения.",
@@ -280,12 +220,6 @@
       "language": "en"
     },
     {
-      "id": "pb_publicrelationsmedia_0_46",
-      "word": "Tom is at a conference in Boston.",
-      "translation": "Том на конференции в Бостоне.",
-      "language": "en"
-    },
-    {
       "id": "pb_publicrelationsmedia_0_47",
       "word": "They refused to release the hostages.",
       "translation": "Они отказались освободить заложников.",
@@ -316,12 +250,6 @@
       "language": "en"
     },
     {
-      "id": "pb_publicrelationsmedia_1_2",
-      "word": "Tom resigned because of a corruption scandal.",
-      "translation": "Том подал в отставку в связи с коррупционным скандалом.",
-      "language": "en"
-    },
-    {
       "id": "pb_publicrelationsmedia_1_3",
       "word": "He ordered them to release the prisoners.",
       "translation": "Он приказал им выпустить узников.",
@@ -331,12 +259,6 @@
       "id": "pb_publicrelationsmedia_1_4",
       "word": "This rumor is completely unfounded.",
       "translation": "Этот слух не имеет под собой никаких оснований.",
-      "language": "en"
-    },
-    {
-      "id": "pb_publicrelationsmedia_1_5",
-      "word": "Tom and I are going to Boston for a conference.",
-      "translation": "Мы с Томом едем в Бостон на конференцию.",
       "language": "en"
     },
     {
@@ -400,21 +322,9 @@
       "language": "en"
     },
     {
-      "id": "pb_publicrelationsmedia_1_16",
-      "word": "Tom made a statement.",
-      "translation": "Том сделал заявление.",
-      "language": "en"
-    },
-    {
       "id": "pb_publicrelationsmedia_1_17",
       "word": "The rumor spread quickly.",
       "translation": "Слух быстро распространился.",
-      "language": "en"
-    },
-    {
-      "id": "pb_publicrelationsmedia_1_18",
-      "word": "Tom's statement is pure nonsense.",
-      "translation": "Заявление Тома — полная бессмыслица.",
       "language": "en"
     },
     {
@@ -424,21 +334,9 @@
       "language": "en"
     },
     {
-      "id": "pb_publicrelationsmedia_1_20",
-      "word": "Tom is now attending a conference in Boston.",
-      "translation": "Том сейчас находится на конференции в Бостоне.",
-      "language": "en"
-    },
-    {
       "id": "pb_publicrelationsmedia_1_21",
       "word": "Next year's conference will be held in Boston.",
       "translation": "В следующем году конференция пройдёт в Бостоне.",
-      "language": "en"
-    },
-    {
-      "id": "pb_publicrelationsmedia_1_22",
-      "word": "Tom issued an official statement.",
-      "translation": "Том сделал официальное заявление.",
       "language": "en"
     },
     {
@@ -466,21 +364,9 @@
       "language": "en"
     },
     {
-      "id": "pb_publicrelationsmedia_1_27",
-      "word": "Tom wasn't involved in that scandal.",
-      "translation": "Том не был замешан в этом скандале.",
-      "language": "en"
-    },
-    {
       "id": "pb_publicrelationsmedia_1_28",
       "word": "It's rumored that the conference will be postponed.",
       "translation": "Говорят, что конференция будет отложена.",
-      "language": "en"
-    },
-    {
-      "id": "pb_publicrelationsmedia_1_29",
-      "word": "Tom is now at a conference in Australia.",
-      "translation": "Том сейчас на конференции в Австралии.",
       "language": "en"
     },
     {
@@ -508,18 +394,6 @@
       "language": "en"
     },
     {
-      "id": "pb_publicrelationsmedia_1_34",
-      "word": "Tom didn't have anything to do with the scandal.",
-      "translation": "Том не имел к скандалу никакого отношения.",
-      "language": "en"
-    },
-    {
-      "id": "pb_publicrelationsmedia_1_35",
-      "word": "There's a rumor that Tom got married.",
-      "translation": "Ходят слухи, что Том женился.",
-      "language": "en"
-    },
-    {
       "id": "pb_publicrelationsmedia_1_36",
       "word": "They have something to do with the scandal.",
       "translation": "Они имеют отношение к этому скандалу.",
@@ -535,12 +409,6 @@
       "id": "pb_publicrelationsmedia_1_38",
       "word": "She first met him at a conference in Boston.",
       "translation": "Она впервые познакомилась с ним на конференции в Бостоне.",
-      "language": "en"
-    },
-    {
-      "id": "pb_publicrelationsmedia_1_39",
-      "word": "There's a rumor that Tom likes Mary.",
-      "translation": "Ходят слухи, что Тому нравится Мэри.",
       "language": "en"
     },
     {

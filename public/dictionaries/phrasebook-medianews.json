@@ -4,12 +4,6 @@
   "description": "Phrasebook for Media & News",
   "entries": [
     {
-      "id": "pb_medianews_0_0",
-      "word": "Both Tom and Mary are in the living room, watching television.",
-      "translation": "И Том, и Мэри находятся в гостиной и смотрят телевизор.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_0_1",
       "word": "Is there any important news?",
       "translation": "Важные новости есть?",
@@ -88,21 +82,9 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_0_14",
-      "word": "Tom watches too much television.",
-      "translation": "Том слишком много смотрит телевизор.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_0_15",
       "word": "This is old news.",
       "translation": "Это уже не новость.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_0_16",
-      "word": "Tom watched the 6 o'clock news.",
-      "translation": "Том посмотрел шестичасовые новости.",
       "language": "en"
     },
     {
@@ -133,12 +115,6 @@
       "id": "pb_medianews_0_21",
       "word": "He is glad to hear the news.",
       "translation": "Он рад слышать эти новости.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_0_22",
-      "word": "Tom watches a lot of television.",
-      "translation": "Том много смотрит телевизор.",
       "language": "en"
     },
     {
@@ -181,12 +157,6 @@
       "id": "pb_medianews_0_29",
       "word": "I just got the news.",
       "translation": "Я только что узнал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_0_30",
-      "word": "I'll go tell Tom the good news.",
-      "translation": "Пойду расскажу Тому хорошие новости.",
       "language": "en"
     },
     {
@@ -250,21 +220,9 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_0_41",
-      "word": "Tom has worked as a journalist.",
-      "translation": "Том работал журналистом.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_0_42",
       "word": "He would be very glad to hear the news.",
       "translation": "Он бы очень обрадовался, услышав эту новость.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_0_43",
-      "word": "Tom fainted when he heard the news.",
-      "translation": "Услышав новости, Том упал в обморок.",
       "language": "en"
     },
     {
@@ -280,21 +238,9 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_0_46",
-      "word": "Tom said he wouldn't press charges.",
-      "translation": "Том сказал, что не будет выдвигать обвинения.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_0_47",
       "word": "Where's the newspaper?",
       "translation": "Где газета?",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_0_48",
-      "word": "Tom listened to the news calmly.",
-      "translation": "Том спокойно выслушал новость.",
       "language": "en"
     },
     {
@@ -352,21 +298,9 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_1_8",
-      "word": "Tom told Mary the bad news.",
-      "translation": "Том рассказал Мэри плохие новости.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_1_9",
       "word": "We turned on the radio.",
       "translation": "Мы включили радио.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_1_10",
-      "word": "Tom cut Mary's picture out of the magazine.",
-      "translation": "Том вырезал из журнала фотографию Мэри.",
       "language": "en"
     },
     {
@@ -400,12 +334,6 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_1_16",
-      "word": "Tom works as a journalist.",
-      "translation": "Том работает журналистом.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_1_17",
       "word": "The television is turned off.",
       "translation": "Телевизор выключен.",
@@ -430,12 +358,6 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_1_21",
-      "word": "I know Tom is a journalist.",
-      "translation": "Я знаю, что Том - журналист.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_1_22",
       "word": "I don't have a radio.",
       "translation": "У меня нет радиоприёмника.",
@@ -454,12 +376,6 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_1_25",
-      "word": "The news didn't trouble Tom.",
-      "translation": "Эта новость не встревожила Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_1_26",
       "word": "I'm writing an article.",
       "translation": "Я пишу статью.",
@@ -469,12 +385,6 @@
       "id": "pb_medianews_1_27",
       "word": "There's nothing good on television.",
       "translation": "По телевизору ничего хорошего не показывают.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_1_28",
-      "word": "Tom hardly ever listens to the radio.",
-      "translation": "Том почти никогда не слушает радио.",
       "language": "en"
     },
     {
@@ -517,12 +427,6 @@
       "id": "pb_medianews_1_35",
       "word": "I have some good news for you.",
       "translation": "У меня для тебя хорошие новости.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_1_36",
-      "word": "Tom cut an article out of the newspaper.",
-      "translation": "Том вырезал из газеты статью.",
       "language": "en"
     },
     {
@@ -574,12 +478,6 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_1_45",
-      "word": "Tom has a radio.",
-      "translation": "У Тома есть радио.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_1_46",
       "word": "Bring me the newspaper.",
       "translation": "Принеси мне газету.",
@@ -595,12 +493,6 @@
       "id": "pb_medianews_1_48",
       "word": "The radio is on.",
       "translation": "Радио включено.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_1_49",
-      "word": "Did the newspaper article say how fast Tom was driving?",
-      "translation": "В газетной статье говорилось, как быстро ехал Том?",
       "language": "en"
     },
     {
@@ -655,12 +547,6 @@
       "id": "pb_medianews_2_8",
       "word": "We have great news.",
       "translation": "У нас отличные новости.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_2_9",
-      "word": "Tom picked up a magazine.",
-      "translation": "Том поднял журнал.",
       "language": "en"
     },
     {
@@ -784,21 +670,9 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_2_30",
-      "word": "Tom is in his room, listening to the radio.",
-      "translation": "Том у себя в комнате, слушает радио.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_2_31",
       "word": "I'm afraid I have some very bad news.",
       "translation": "Боюсь, у меня очень плохие новости.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_2_32",
-      "word": "Tom turned off the radio.",
-      "translation": "Том выключил радио.",
       "language": "en"
     },
     {
@@ -868,33 +742,15 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_2_44",
-      "word": "Tom has an old radio in his basement.",
-      "translation": "У Тома в подвале есть старый радиоприёмник.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_2_45",
       "word": "The radio is too loud. Turn the volume down.",
       "translation": "Радио слишком громко играет. Сделай потише.",
       "language": "en"
     },
     {
-      "id": "pb_medianews_2_46",
-      "word": "Tom is just watching television.",
-      "translation": "Том просто смотрит телевизор.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_2_47",
       "word": "Turn down the television.",
       "translation": "Убавь громкость телевизора!",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_2_48",
-      "word": "Tom handed the newspaper to Mary.",
-      "translation": "Том протянул Мэри газету.",
       "language": "en"
     },
     {
@@ -958,12 +814,6 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_3_9",
-      "word": "Tom left the radio on.",
-      "translation": "Том оставил радио включённым.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_3_10",
       "word": "She sighed with disappointment at the news.",
       "translation": "Услышав новости, она разочарованно вздохнула.",
@@ -1003,18 +853,6 @@
       "id": "pb_medianews_3_16",
       "word": "I'm looking forward to good news.",
       "translation": "Я с нетерпением жду хороших новостей.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_3_17",
-      "word": "Tom is always up-to-date with the latest news.",
-      "translation": "Том всегда в курсе последних новостей.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_3_18",
-      "word": "I heard the news about Tom.",
-      "translation": "Я слышал новости о Томе.",
       "language": "en"
     },
     {
@@ -1090,12 +928,6 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_3_31",
-      "word": "Tom is easy to impress.",
-      "translation": "На Тома легко произвести впечатление.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_3_32",
       "word": "Tell her that I am reading the newspaper.",
       "translation": "Скажи ей, что я читаю газету.",
@@ -1144,12 +976,6 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_3_40",
-      "word": "Tom called to tell me the news.",
-      "translation": "Том позвонил, чтобы рассказать новость.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_3_41",
       "word": "Which newspaper would you prefer?",
       "translation": "Какую газету бы вы предпочли?",
@@ -1177,24 +1003,6 @@
       "id": "pb_medianews_3_45",
       "word": "Have you turned the television off?",
       "translation": "Ты телевизор выключил?",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_3_46",
-      "word": "Tom isn't a journalist.",
-      "translation": "Том не журналист.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_3_47",
-      "word": "Tom prepared Mary for the bad news.",
-      "translation": "Том подготовил Мэри к плохим новостям.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_3_48",
-      "word": "What was Tom's reaction to the news?",
-      "translation": "Как Том отреагировал на новости?",
       "language": "en"
     },
     {
@@ -1288,12 +1096,6 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_4_14",
-      "word": "Tom wasn't troubled by the news.",
-      "translation": "Том не был встревожен новостями.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_4_15",
       "word": "I have some good news.",
       "translation": "У меня хорошие новости.",
@@ -1336,18 +1138,6 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_4_22",
-      "word": "Tom's radio is broken.",
-      "translation": "Радио Тома сломано.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_4_23",
-      "word": "Tom put down the newspaper.",
-      "translation": "Том положил газету.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_4_24",
       "word": "I'm afraid I have some rather bad news.",
       "translation": "Я боюсь, у меня достаточно плохие новости.",
@@ -1357,12 +1147,6 @@
       "id": "pb_medianews_4_25",
       "word": "The readers cannot ascertain whether the news is true or not.",
       "translation": "Читатели не способны определить, является ли новость правдой или нет.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_4_26",
-      "word": "The news didn't surprise Tom.",
-      "translation": "Новость не удивила Тома.",
       "language": "en"
     },
     {
@@ -1426,21 +1210,9 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_4_37",
-      "word": "Tom was asked to appear on television.",
-      "translation": "Тома попросили принять участие в телепередаче.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_4_38",
       "word": "Did you press the wrong button?",
       "translation": "Ты нажал не на ту кнопку?",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_4_39",
-      "word": "Tom wasn't easy to impress.",
-      "translation": "На Тома было нелегко произвести впечатление.",
       "language": "en"
     },
     {
@@ -1453,18 +1225,6 @@
       "id": "pb_medianews_4_41",
       "word": "If you press this button, the window opens automatically.",
       "translation": "Если нажать эту кнопку, окно открывается автоматически.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_4_42",
-      "word": "Tom is always watching television.",
-      "translation": "Том всё время смотрит телевизор.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_4_43",
-      "word": "Tom doesn't have a television.",
-      "translation": "У Тома нет телевизора.",
       "language": "en"
     },
     {
@@ -1486,27 +1246,9 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_4_47",
-      "word": "Tom might be watching television.",
-      "translation": "Том, наверное, телевизор смотрит.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_4_48",
-      "word": "There was an article about Tom in yesterday's paper.",
-      "translation": "Во вчерашней газете была статья про Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_4_49",
       "word": "I was watching television when the telephone rang.",
       "translation": "Я смотрел телевизор, когда зазвонил телефон.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_5_0",
-      "word": "I've got great news for you, Tom.",
-      "translation": "У меня для тебя отличные новости, Том.",
       "language": "en"
     },
     {
@@ -1546,12 +1288,6 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_5_7",
-      "word": "Tom translated the article into French.",
-      "translation": "Том перевёл статью на французский.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_5_8",
       "word": "I'm watching the news.",
       "translation": "Я смотрю новости.",
@@ -1561,12 +1297,6 @@
       "id": "pb_medianews_5_9",
       "word": "Do you have a radio here?",
       "translation": "У вас здесь есть радио?",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_5_10",
-      "word": "Tom turned down the radio.",
-      "translation": "Том сделал радио потише.",
       "language": "en"
     },
     {
@@ -1618,12 +1348,6 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_5_19",
-      "word": "Tom fixed the radio.",
-      "translation": "Том починил радиоприёмник.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_5_20",
       "word": "He is listening to the news on the radio.",
       "translation": "Он слушает новости по радио.",
@@ -1651,12 +1375,6 @@
       "id": "pb_medianews_5_24",
       "word": "That article was written in English.",
       "translation": "Та статья написана на английском.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_5_25",
-      "word": "Tom will appear on television.",
-      "translation": "Тома покажут по телевизору.",
       "language": "en"
     },
     {
@@ -1696,12 +1414,6 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_5_32",
-      "word": "Tom is sitting on the sofa, reading a magazine.",
-      "translation": "Том сидит на диване и читает журнал.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_5_33",
       "word": "I've got news.",
       "translation": "У меня новости.",
@@ -1723,18 +1435,6 @@
       "id": "pb_medianews_5_36",
       "word": "We stopped listening to the radio.",
       "translation": "Мы перестали слушать радио.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_5_37",
-      "word": "Tom was the bearer of both good and bad news.",
-      "translation": "Том принёс как хорошие, так и плохие вести.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_5_38",
-      "word": "Tom found the article interesting.",
-      "translation": "Том нашёл статью интересной.",
       "language": "en"
     },
     {
@@ -1762,21 +1462,9 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_5_43",
-      "word": "Tom frequently appears on television.",
-      "translation": "Том часто выступает по телевидению.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_5_44",
       "word": "I don't think television will take the place of books.",
       "translation": "Я не думаю, что телевидение заменит книги.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_5_45",
-      "word": "Tom told me the good news.",
-      "translation": "Том рассказал мне хорошую новость.",
       "language": "en"
     },
     {
@@ -1789,18 +1477,6 @@
       "id": "pb_medianews_5_47",
       "word": "I'm the one who translated this article.",
       "translation": "Это я перевёл эту статью.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_5_48",
-      "word": "Tom gave Mary the bad news.",
-      "translation": "Том передал Мэри плохие известия.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_5_49",
-      "word": "Tom saw the news.",
-      "translation": "Том видел новости.",
       "language": "en"
     },
     {
@@ -1846,24 +1522,6 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_6_7",
-      "word": "Tom is listening to the radio.",
-      "translation": "Том слушает радио.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_6_8",
-      "word": "Did Tom tell you the good news?",
-      "translation": "Том сообщил тебе хорошие новости?",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_6_9",
-      "word": "Tom cut the article out of the newspaper.",
-      "translation": "Том вырезал статью из газеты.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_6_10",
       "word": "This is very good news.",
       "translation": "Это очень хорошие новости.",
@@ -1888,12 +1546,6 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_6_14",
-      "word": "Tom has finished reading the newspaper.",
-      "translation": "Том дочитал газету.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_6_15",
       "word": "Don't watch television.",
       "translation": "Не смотрите телевизор.",
@@ -1906,12 +1558,6 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_6_17",
-      "word": "I have bad news for you, Tom.",
-      "translation": "Том, у меня для тебя плохие новости.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_6_18",
       "word": "I need to press the button.",
       "translation": "Мне надо нажать на кнопку.",
@@ -1921,12 +1567,6 @@
       "id": "pb_medianews_6_19",
       "word": "The news upset me.",
       "translation": "Новость сбила меня с толку.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_6_20",
-      "word": "Tom has news about Mary.",
-      "translation": "У Тома есть новости о Мэри.",
       "language": "en"
     },
     {
@@ -1966,12 +1606,6 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_6_27",
-      "word": "Tom bought a newspaper.",
-      "translation": "Том купил газету.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_6_28",
       "word": "Did you see the news?",
       "translation": "Ты видел новости?",
@@ -1987,12 +1621,6 @@
       "id": "pb_medianews_6_30",
       "word": "She turned down the radio.",
       "translation": "Она приглушила радио.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_6_31",
-      "word": "It's good news for Tom.",
-      "translation": "Для Тома это хорошая новость.",
       "language": "en"
     },
     {
@@ -2050,12 +1678,6 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_6_41",
-      "word": "Tom took a magazine out of his briefcase and began reading it.",
-      "translation": "Том вытащил из своего портфеля журнал и начал его читать.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_6_42",
       "word": "He was cheered by the good news.",
       "translation": "Его встретили добрые известия.",
@@ -2080,18 +1702,6 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_6_46",
-      "word": "Tom is watching the news on TV.",
-      "translation": "Том смотрит новости по телевизору.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_6_47",
-      "word": "Tom has got some bad news to tell you.",
-      "translation": "У Тома есть для тебя несколько плохих новостей.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_6_48",
       "word": "People were weeping at the news of his death.",
       "translation": "Люди рыдали после известия о его смерти.",
@@ -2101,12 +1711,6 @@
       "id": "pb_medianews_6_49",
       "word": "I've got bad news.",
       "translation": "У меня плохие новости.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_7_0",
-      "word": "The news that Mary was pregnant stunned Tom.",
-      "translation": "Известие, что Мэри беременна, ошеломило Тома.",
       "language": "en"
     },
     {
@@ -2137,12 +1741,6 @@
       "id": "pb_medianews_7_5",
       "word": "I bought him a magazine.",
       "translation": "Я купила ему журнал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_7_6",
-      "word": "Tom was easy to impress.",
-      "translation": "На Тома легко было произвести впечатление.",
       "language": "en"
     },
     {
@@ -2206,12 +1804,6 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_7_17",
-      "word": "Tom plugged in the radio and turned it on.",
-      "translation": "Том подключил радио к сети и включил его.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_7_18",
       "word": "Could you turn down the radio?",
       "translation": "Вы не могли бы сделать радио потише?",
@@ -2242,12 +1834,6 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_7_23",
-      "word": "Tom promised he'd tell Mary the news.",
-      "translation": "Том пообещал, что расскажет новость Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_7_24",
       "word": "This is yesterday's newspaper. Where's today's?",
       "translation": "Это вчерашняя газета. Где сегодняшняя?",
@@ -2269,12 +1855,6 @@
       "id": "pb_medianews_7_27",
       "word": "I've got really good news.",
       "translation": "У меня есть очень хорошие новости.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_7_28",
-      "word": "Tom was on edge waiting for news of how Mary's surgery went.",
-      "translation": "Том был в крайнем напряжении, ожидая новостей о том, как прошла операция у Мэри.",
       "language": "en"
     },
     {
@@ -2326,12 +1906,6 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_7_37",
-      "word": "There was an article about Tom in yesterday's newspaper.",
-      "translation": "Во вчерашней газете была статья про Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_7_38",
       "word": "The news caused alarm throughout the village.",
       "translation": "Новости вызвали тревогу по всему посёлку.",
@@ -2374,12 +1948,6 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_7_45",
-      "word": "I saw Tom on television.",
-      "translation": "Я видел Тома по телевизору.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_7_46",
       "word": "The television is off.",
       "translation": "Телевизор выключен.",
@@ -2401,12 +1969,6 @@
       "id": "pb_medianews_7_49",
       "word": "Early in July, they got the news.",
       "translation": "В начале июля они получили новости.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_8_0",
-      "word": "Tom is sitting in the garden, reading the newspaper.",
-      "translation": "Том сидит в саду и читает газету.",
       "language": "en"
     },
     {
@@ -2434,39 +1996,9 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_8_5",
-      "word": "Tom likes listening to the radio.",
-      "translation": "Том любит слушать радио.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_8_6",
-      "word": "I've got good news for you, Tom.",
-      "translation": "У меня для тебя хорошие новости, Том.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_8_7",
-      "word": "Tom got some bad news.",
-      "translation": "Том получил плохие новости.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_8_8",
       "word": "Will you turn on the television?",
       "translation": "Вы включите телевизор?",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_8_9",
-      "word": "Tom has some good news.",
-      "translation": "У Тома хорошие новости.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_8_10",
-      "word": "Did Tom tell you about what he saw on the news?",
-      "translation": "Том рассказал тебе, что видел в новостях?",
       "language": "en"
     },
     {
@@ -2530,21 +2062,9 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_8_21",
-      "word": "Who's Tom trying to impress?",
-      "translation": "На кого Том пытается произвести впечатление?",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_8_22",
       "word": "I saw it in a magazine.",
       "translation": "Я видел это в одном журнале.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_8_23",
-      "word": "Tom is watching the news.",
-      "translation": "Том смотрит новости.",
       "language": "en"
     },
     {
@@ -2569,12 +2089,6 @@
       "id": "pb_medianews_8_27",
       "word": "Everyone was shocked by the news.",
       "translation": "Все были шокированы новостью.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_8_28",
-      "word": "Tom was flabbergasted when he heard the news.",
-      "translation": "Том был поражён, когда услышал новость.",
       "language": "en"
     },
     {
@@ -2608,12 +2122,6 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_8_34",
-      "word": "I have bad news for Tom.",
-      "translation": "У меня для Тома плохие новости.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_8_35",
       "word": "What happens if I press this button?",
       "translation": "Что будет, если я нажму эту кнопку?",
@@ -2626,24 +2134,6 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_8_37",
-      "word": "Tom works as an announcer on television.",
-      "translation": "Том работает диктором на телевидении.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_8_38",
-      "word": "Tom asked Mary to turn on the radio.",
-      "translation": "Том и Мэри попросили включить радио.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_8_39",
-      "word": "I have good news for you, Tom.",
-      "translation": "У меня для тебя хорошие новости, Том.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_8_40",
       "word": "Is this a live broadcast?",
       "translation": "Это прямая трансляция?",
@@ -2653,12 +2143,6 @@
       "id": "pb_medianews_8_41",
       "word": "Reread the article.",
       "translation": "Перечитай статью.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_8_42",
-      "word": "Tom sat on the porch reading the newspaper.",
-      "translation": "Том сидел на крыльце, читая газету.",
       "language": "en"
     },
     {
@@ -2713,12 +2197,6 @@
       "id": "pb_medianews_9_1",
       "word": "No news is good news.",
       "translation": "Отсутствие новостей - хорошая новость.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_9_2",
-      "word": "Tom was a journalist.",
-      "translation": "Том был журналистом.",
       "language": "en"
     },
     {
@@ -2785,12 +2263,6 @@
       "id": "pb_medianews_9_13",
       "word": "I wasn't a bit affected by the news of his death.",
       "translation": "Известие о его смерти не произвело на меня никакого впечатления.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_9_14",
-      "word": "Tom has some very good news.",
-      "translation": "У Тома очень хорошие новости.",
       "language": "en"
     },
     {
@@ -2866,18 +2338,6 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_9_27",
-      "word": "I know that Tom is a journalist.",
-      "translation": "Я знаю, что Том - журналист.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_9_28",
-      "word": "Tom fell asleep while reading the newspaper.",
-      "translation": "Читая газету, Том заснул.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_9_29",
       "word": "That's good news.",
       "translation": "Это хорошие новости.",
@@ -2944,12 +2404,6 @@
       "language": "en"
     },
     {
-      "id": "pb_medianews_9_40",
-      "word": "Tom isn't easy to impress.",
-      "translation": "На Тома нелегко произвести впечатление.",
-      "language": "en"
-    },
-    {
       "id": "pb_medianews_9_41",
       "word": "I don't want to turn on the news.",
       "translation": "Я не хочу включать новости.",
@@ -2983,12 +2437,6 @@
       "id": "pb_medianews_9_46",
       "word": "I am a Polish journalist.",
       "translation": "Я польский журналист.",
-      "language": "en"
-    },
-    {
-      "id": "pb_medianews_9_47",
-      "word": "Tom likes to watch sports on television.",
-      "translation": "Том любит смотреть спорт по телевизору.",
       "language": "en"
     },
     {

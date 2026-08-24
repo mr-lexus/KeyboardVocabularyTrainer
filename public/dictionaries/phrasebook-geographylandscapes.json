@@ -4,12 +4,6 @@
   "description": "Phrasebook for Geography & Landscapes",
   "entries": [
     {
-      "id": "pb_geographylandscapes_0_0",
-      "word": "Tom doesn't want to go to the beach with us.",
-      "translation": "Том не хочет идти с нами на пляж.",
-      "language": "en"
-    },
-    {
       "id": "pb_geographylandscapes_0_1",
       "word": "Is there a public beach around here?",
       "translation": "Есть здесь поблизости общественный пляж?",
@@ -28,21 +22,9 @@
       "language": "en"
     },
     {
-      "id": "pb_geographylandscapes_0_4",
-      "word": "I wanted to go to the beach with Tom.",
-      "translation": "Я хотел пойти с Томом на пляж.",
-      "language": "en"
-    },
-    {
       "id": "pb_geographylandscapes_0_5",
       "word": "The turtle laid its eggs on the beach.",
       "translation": "Черепаха отложила яйца на пляже.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_0_6",
-      "word": "Tom didn't want to go to the beach.",
-      "translation": "Том не хотел идти на пляж.",
       "language": "en"
     },
     {
@@ -55,12 +37,6 @@
       "id": "pb_geographylandscapes_0_8",
       "word": "Why did you go to the cave?",
       "translation": "Зачем ты пошёл к расщелине?",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_0_9",
-      "word": "Tom and I explored the cave.",
-      "translation": "Мы с Томом обследовали пещеру.",
       "language": "en"
     },
     {
@@ -88,39 +64,15 @@
       "language": "en"
     },
     {
-      "id": "pb_geographylandscapes_0_14",
-      "word": "Tom lives three blocks from the beach.",
-      "translation": "Том живёт в трёх кварталах от пляжа.",
-      "language": "en"
-    },
-    {
       "id": "pb_geographylandscapes_0_15",
       "word": "She likes to go to the beach.",
       "translation": "Она любит ходить на пляж.",
       "language": "en"
     },
     {
-      "id": "pb_geographylandscapes_0_16",
-      "word": "Tom is too afraid to enter the cave.",
-      "translation": "Тому слишком страшно заходить в пещеру.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_0_17",
-      "word": "Tom led Mary into the cave.",
-      "translation": "Том вёл Мэри в пещеру.",
-      "language": "en"
-    },
-    {
       "id": "pb_geographylandscapes_0_18",
       "word": "The turtles laid their eggs on the beach.",
       "translation": "Черепахи отложили яйца на пляже.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_0_19",
-      "word": "Tom found a dead jellyfish on the beach.",
-      "translation": "Том нашёл на пляже мёртвую медузу.",
       "language": "en"
     },
     {
@@ -139,12 +91,6 @@
       "id": "pb_geographylandscapes_0_22",
       "word": "I wanted to walk on the beach.",
       "translation": "Я хотел пройтись по пляжу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_0_23",
-      "word": "I'm going to the beach with Tom.",
-      "translation": "Я иду с Томом на пляж.",
       "language": "en"
     },
     {
@@ -178,18 +124,6 @@
       "language": "en"
     },
     {
-      "id": "pb_geographylandscapes_0_29",
-      "word": "Tom couldn't find his way out of the cave.",
-      "translation": "Том не мог найти выход из пещеры.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_0_30",
-      "word": "Tom started a bonfire on the beach.",
-      "translation": "Том разжёг на пляже костёр.",
-      "language": "en"
-    },
-    {
       "id": "pb_geographylandscapes_0_31",
       "word": "We played on the beach.",
       "translation": "Мы играли на пляже.",
@@ -199,18 +133,6 @@
       "id": "pb_geographylandscapes_0_32",
       "word": "We went to the beach.",
       "translation": "Мы пошли на пляж.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_0_33",
-      "word": "Tom lives in a cave.",
-      "translation": "Том живёт в пещере.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_0_34",
-      "word": "Tom turned on his flashlight and went into the cave.",
-      "translation": "Том включил фонарик и вошёл в пещеру.",
       "language": "en"
     },
     {
@@ -244,12 +166,6 @@
       "language": "en"
     },
     {
-      "id": "pb_geographylandscapes_0_40",
-      "word": "Tom found a seagull feather on the beach.",
-      "translation": "Том нашёл на пляже перо чайки.",
-      "language": "en"
-    },
-    {
       "id": "pb_geographylandscapes_0_41",
       "word": "The boys are playing beach volleyball.",
       "translation": "Мальчики играют в пляжный волейбол.",
@@ -280,12 +196,6 @@
       "language": "en"
     },
     {
-      "id": "pb_geographylandscapes_0_46",
-      "word": "Tom is watching beach volleyball.",
-      "translation": "Том смотрит пляжный волейбол.",
-      "language": "en"
-    },
-    {
       "id": "pb_geographylandscapes_0_47",
       "word": "I loved going to the beach.",
       "translation": "Я любила ходить на пляж.",
@@ -304,48 +214,6 @@
       "language": "en"
     },
     {
-      "id": "pb_geographylandscapes_1_0",
-      "word": "Tom was alone on an empty beach.",
-      "translation": "Том был один на пустом пляже.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_1_1",
-      "word": "Tom is going to the beach.",
-      "translation": "Том идёт на пляж.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_1_2",
-      "word": "Have you ever gone to the beach with Tom?",
-      "translation": "Ты когда-нибудь ходила с Томом на пляж?",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_1_3",
-      "word": "Tom and Mary are playing beach volleyball.",
-      "translation": "Том и Мэри играют в пляжный волейбол.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_1_4",
-      "word": "Tom died alone in the desert.",
-      "translation": "Том умер один в пустыне.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_1_5",
-      "word": "Tom entered the cave.",
-      "translation": "Том вошёл в пещеру.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_1_6",
-      "word": "Tom ran barefoot on the beach.",
-      "translation": "Том бежал босиком по пляжу.",
-      "language": "en"
-    },
-    {
       "id": "pb_geographylandscapes_1_7",
       "word": "Have you ever been to the Korean Peninsula?",
       "translation": "Ты был на Корейском полуострове?",
@@ -358,21 +226,9 @@
       "language": "en"
     },
     {
-      "id": "pb_geographylandscapes_1_9",
-      "word": "Tom and Mary went to the beach by bicycle.",
-      "translation": "Том и Мэри поехали на велосипедах на пляж.",
-      "language": "en"
-    },
-    {
       "id": "pb_geographylandscapes_1_10",
       "word": "We're not in the jungle.",
       "translation": "Мы не в джунглях.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_1_11",
-      "word": "Tom was the first one to enter the cave.",
-      "translation": "Том первый вошёл в пещеру.",
       "language": "en"
     },
     {
@@ -385,12 +241,6 @@
       "id": "pb_geographylandscapes_1_13",
       "word": "Look what I found on the beach.",
       "translation": "Посмотри, что я нашёл на пляже.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_1_14",
-      "word": "Tom disappeared into the jungle.",
-      "translation": "Том исчез в джунглях.",
       "language": "en"
     },
     {
@@ -412,21 +262,9 @@
       "language": "en"
     },
     {
-      "id": "pb_geographylandscapes_1_18",
-      "word": "Tom listened to the sound of the waves crashing on the beach.",
-      "translation": "Том слушал, как волны бьются о берег.",
-      "language": "en"
-    },
-    {
       "id": "pb_geographylandscapes_1_19",
       "word": "I'm not afraid to go into the cave.",
       "translation": "Я не боюсь идти в пещеру.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_1_20",
-      "word": "Tom is still in the cave.",
-      "translation": "Том всё ещё в пещере.",
       "language": "en"
     },
     {
@@ -448,21 +286,9 @@
       "language": "en"
     },
     {
-      "id": "pb_geographylandscapes_1_24",
-      "word": "Tom told me that he found this in a cave.",
-      "translation": "Том сказал мне, что нашёл это в подвале.",
-      "language": "en"
-    },
-    {
       "id": "pb_geographylandscapes_1_25",
       "word": "The wreckage of the plane was found in the desert.",
       "translation": "Остатки самолета были обнаружены в пустыне.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_1_26",
-      "word": "Tom and Mary were alone on the beach.",
-      "translation": "Том и Мэри были одни на пляже.",
       "language": "en"
     },
     {
@@ -490,12 +316,6 @@
       "language": "en"
     },
     {
-      "id": "pb_geographylandscapes_1_31",
-      "word": "Tom wants to go to the beach.",
-      "translation": "Том хочет пойти на пляж.",
-      "language": "en"
-    },
-    {
       "id": "pb_geographylandscapes_1_32",
       "word": "The beach was deserted.",
       "translation": "На пляже было пустынно.",
@@ -514,12 +334,6 @@
       "language": "en"
     },
     {
-      "id": "pb_geographylandscapes_1_35",
-      "word": "Tom and his friends headed towards the beach.",
-      "translation": "Том и его друзья направились в сторону пляжа.",
-      "language": "en"
-    },
-    {
       "id": "pb_geographylandscapes_1_36",
       "word": "There was no one on the beach.",
       "translation": "На пляже никого не было.",
@@ -529,12 +343,6 @@
       "id": "pb_geographylandscapes_1_37",
       "word": "Which way is the beach?",
       "translation": "В какой стороне пляж?",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_1_38",
-      "word": "Tom met Mary on the beach.",
-      "translation": "Том встретил Мэри на пляже.",
       "language": "en"
     },
     {
@@ -565,18 +373,6 @@
       "id": "pb_geographylandscapes_1_43",
       "word": "I go to the beach as often as I can.",
       "translation": "Я хожу на пляж как можно чаще.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_1_44",
-      "word": "Tom and Mary went to the beach.",
-      "translation": "Том и Мэри пошли на пляж.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_1_45",
-      "word": "Tom poked the ant hill with a stick.",
-      "translation": "Том ткнул в муравейник палкой.",
       "language": "en"
     },
     {
@@ -664,21 +460,9 @@
       "language": "en"
     },
     {
-      "id": "pb_geographylandscapes_2_10",
-      "word": "Tom is afraid to go into the cave.",
-      "translation": "Том боится заходить в пещеру.",
-      "language": "en"
-    },
-    {
       "id": "pb_geographylandscapes_2_11",
       "word": "There are a lot of people on the beach.",
       "translation": "На пляже не протолкнуться.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_2_12",
-      "word": "Tom told me not to go into the cave.",
-      "translation": "Том сказал мне не заходить в пещеру.",
       "language": "en"
     },
     {
@@ -700,33 +484,9 @@
       "language": "en"
     },
     {
-      "id": "pb_geographylandscapes_2_16",
-      "word": "I told Tom not to go into the cave.",
-      "translation": "Я сказал Тому, чтобы он не ходил в пещеру.",
-      "language": "en"
-    },
-    {
       "id": "pb_geographylandscapes_2_17",
       "word": "Ivory Coast is the world's biggest cocoa producer.",
       "translation": "Кот-д’Ивуар — крупнейший в мире производитель какао.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_2_18",
-      "word": "Tom hacked his way through the jungle alone.",
-      "translation": "Том в одиночку пробивался через джунгли.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_2_19",
-      "word": "Why did Tom go into the cave?",
-      "translation": "Зачем Том пошёл в пещеру?",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_2_20",
-      "word": "Tom and Mary walked on the beach in the moonlight.",
-      "translation": "Том и Мэри гуляли по пляжу при свете луны.",
       "language": "en"
     },
     {
@@ -790,39 +550,15 @@
       "language": "en"
     },
     {
-      "id": "pb_geographylandscapes_2_31",
-      "word": "Tom explored the underwater cave.",
-      "translation": "Том исследовал подводную пещеру.",
-      "language": "en"
-    },
-    {
       "id": "pb_geographylandscapes_2_32",
       "word": "We went to see turtles on the beach.",
       "translation": "Мы пошли на взморье посмотреть на черепах.",
       "language": "en"
     },
     {
-      "id": "pb_geographylandscapes_2_33",
-      "word": "Tom was too afraid to enter the cave.",
-      "translation": "Том был слишком напуган, чтобы войти в пещеру.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_2_34",
-      "word": "Tom ran to the cave.",
-      "translation": "Том побежал к пещере.",
-      "language": "en"
-    },
-    {
       "id": "pb_geographylandscapes_2_35",
       "word": "Did you see anyone on the beach?",
       "translation": "Ты кого-нибудь видел на пляже?",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_2_36",
-      "word": "Tom doesn't want to go to the beach.",
-      "translation": "Том не хочет идти на пляж.",
       "language": "en"
     },
     {
@@ -850,39 +586,15 @@
       "language": "en"
     },
     {
-      "id": "pb_geographylandscapes_2_41",
-      "word": "I went to the beach with Tom.",
-      "translation": "Я пошла на пляж с Томом.",
-      "language": "en"
-    },
-    {
       "id": "pb_geographylandscapes_2_42",
       "word": "If it rains tomorrow, we won't go to the beach.",
       "translation": "Если завтра будет дождь, мы на пляж не пойдём.",
       "language": "en"
     },
     {
-      "id": "pb_geographylandscapes_2_43",
-      "word": "Tom wanted to go to the beach with us.",
-      "translation": "Том хотел пойти с нами на пляж.",
-      "language": "en"
-    },
-    {
       "id": "pb_geographylandscapes_2_44",
       "word": "I rarely go to the beach.",
       "translation": "Я редко хожу на пляж.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_2_45",
-      "word": "Tom loves going to the beach.",
-      "translation": "Том любит ходить на пляж.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_2_46",
-      "word": "Tom wanted to go to the beach.",
-      "translation": "Том хотел пойти на пляж.",
       "language": "en"
     },
     {
@@ -895,12 +607,6 @@
       "id": "pb_geographylandscapes_2_48",
       "word": "Malibu is on the coast of Southern California.",
       "translation": "Малибу находится на берегу южной Калифорнии.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_2_49",
-      "word": "Tom told me he found this in a cave.",
-      "translation": "Том сказал мне, что нашёл это в подвале.",
       "language": "en"
     },
     {
@@ -931,18 +637,6 @@
       "id": "pb_geographylandscapes_3_4",
       "word": "I'll go to the beach even if it's raining.",
       "translation": "Я пойду на пляж, даже если будет дождь.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_3_5",
-      "word": "Tom hid in the cave.",
-      "translation": "Том спрятался в пещере.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_3_6",
-      "word": "Tom was dragged into the cave.",
-      "translation": "Тома затащили в пещеру.",
       "language": "en"
     },
     {
@@ -982,21 +676,9 @@
       "language": "en"
     },
     {
-      "id": "pb_geographylandscapes_3_13",
-      "word": "Tom went to the beach.",
-      "translation": "Том пошёл на пляж.",
-      "language": "en"
-    },
-    {
       "id": "pb_geographylandscapes_3_14",
       "word": "This is what I found in the cave.",
       "translation": "Вот что я нашёл в пещере.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_3_15",
-      "word": "Tom knew what was hidden in the cave.",
-      "translation": "Том знал, что спрятано в пещере.",
       "language": "en"
     },
     {
@@ -1024,21 +706,9 @@
       "language": "en"
     },
     {
-      "id": "pb_geographylandscapes_3_20",
-      "word": "Tom and his friends made a bonfire on the beach.",
-      "translation": "Том и его друзья развели на пляже костёр.",
-      "language": "en"
-    },
-    {
       "id": "pb_geographylandscapes_3_21",
       "word": "We drove along the coast.",
       "translation": "Мы ехали вдоль берега моря.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_3_22",
-      "word": "Tom was the first person to enter the cave.",
-      "translation": "Том был первым, кто вошёл в пещеру.",
       "language": "en"
     },
     {
@@ -1090,12 +760,6 @@
       "language": "en"
     },
     {
-      "id": "pb_geographylandscapes_3_31",
-      "word": "Tom said that he wanted to live in a cave.",
-      "translation": "Том сказал, что хочет жить в пещере.",
-      "language": "en"
-    },
-    {
       "id": "pb_geographylandscapes_3_32",
       "word": "They entered the jungle.",
       "translation": "Они вошли в джунгли.",
@@ -1105,12 +769,6 @@
       "id": "pb_geographylandscapes_3_33",
       "word": "We walked along the beach.",
       "translation": "Мы гуляли по пляжу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_3_34",
-      "word": "Tom lives on the coast.",
-      "translation": "Том живёт на побережье.",
       "language": "en"
     },
     {
@@ -1126,33 +784,9 @@
       "language": "en"
     },
     {
-      "id": "pb_geographylandscapes_3_37",
-      "word": "Tom likes to go to the beach.",
-      "translation": "Том любит ходить на пляж.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_3_38",
-      "word": "Tom is at the beach.",
-      "translation": "Том на пляже.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_3_39",
-      "word": "Tom died after stepping on a scorpion in the desert.",
-      "translation": "Том умер после того, как наступил на скорпиона в пустыне.",
-      "language": "en"
-    },
-    {
       "id": "pb_geographylandscapes_3_40",
       "word": "This isn't a private beach.",
       "translation": "Это не частный пляж.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_3_41",
-      "word": "Tom looked nervously around the cave.",
-      "translation": "Том обеспокоенно оглядел пещеру.",
       "language": "en"
     },
     {
@@ -1192,12 +826,6 @@
       "language": "en"
     },
     {
-      "id": "pb_geographylandscapes_3_48",
-      "word": "Tom is on the beach.",
-      "translation": "Том на пляже.",
-      "language": "en"
-    },
-    {
       "id": "pb_geographylandscapes_3_49",
       "word": "Let's hide inside this cave.",
       "translation": "Давай спрячемся в этой пещере.",
@@ -1219,12 +847,6 @@
       "id": "pb_geographylandscapes_4_2",
       "word": "It's about three kilometers from here to the coast.",
       "translation": "Отсюда до побережья около трёх километров.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_4_3",
-      "word": "Tom didn't want to go into the cave.",
-      "translation": "Том не хотел заходить в пещеру.",
       "language": "en"
     },
     {
@@ -1288,12 +910,6 @@
       "language": "en"
     },
     {
-      "id": "pb_geographylandscapes_4_14",
-      "word": "Tom went into the cave.",
-      "translation": "Том вошёл в пещеру.",
-      "language": "en"
-    },
-    {
       "id": "pb_geographylandscapes_4_15",
       "word": "He contracted malaria while living in the jungle.",
       "translation": "Он подхватил малярию, когда жил в джунглях.",
@@ -1309,12 +925,6 @@
       "id": "pb_geographylandscapes_4_17",
       "word": "There were few people on the beach.",
       "translation": "На пляже было немного народу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_geographylandscapes_4_18",
-      "word": "Tom said he wanted to live in a cave.",
-      "translation": "Том сказал, что хочет жить в пещере.",
       "language": "en"
     },
     {
