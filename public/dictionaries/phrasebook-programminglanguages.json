@@ -1,90 +1,474 @@
 {
   "id": "phrasebook-programminglanguages",
   "name": "Programming Languages",
-  "description": "Phrasebook for Programming Languages",
+  "description": "Разговорник разработчика: языки, стек, код-ревью и собеседования",
   "entries": [
     {
-      "id": "pb_programminglanguages_0_3",
-      "word": "I'm unsure how to react.",
-      "translation": "Я даже не знаю, как реагировать.",
+      "id": "pbq_programminglanguages_0",
+      "word": "Which languages do you code in?",
+      "translation": "На каких языках ты пишешь?",
       "language": "en"
     },
     {
-      "id": "pb_programminglanguages_0_4",
-      "word": "People tend to react emotionally to events.",
-      "translation": "Люди склонны эмоционально реагировать на события.",
+      "id": "pbq_programminglanguages_1",
+      "word": "Primarily TypeScript these days.",
+      "translation": "Сейчас в основном TypeScript.",
       "language": "en"
     },
     {
-      "id": "pb_programminglanguages_0_6",
-      "word": "Declarations of variables are extremely important in C and C++.",
-      "translation": "В C и C++ крайне важны объявления переменных.",
+      "id": "pbq_programminglanguages_2",
+      "word": "Started with Python years ago.",
+      "translation": "Начинал с Python много лет назад.",
       "language": "en"
     },
     {
-      "id": "pb_programminglanguages_0_8",
-      "word": "The stream is not very swift.",
-      "translation": "Течение не очень быстрое.",
+      "id": "pbq_programminglanguages_3",
+      "word": "Java pays the bills currently.",
+      "translation": "Сейчас Java кормит (основной язык).",
       "language": "en"
     },
     {
-      "id": "pb_programminglanguages_0_9",
-      "word": "The syntax of Python scripts is very simple.",
-      "translation": "Синтаксис скриптов Python очень прост.",
+      "id": "pbq_programminglanguages_4",
+      "word": "Rust learning curve famously steep.",
+      "translation": "У Rust легендарно крутая кривая обучения.",
       "language": "en"
     },
     {
-      "id": "pb_programminglanguages_0_13",
-      "word": "How did everyone react?",
-      "translation": "Как все отреагировали?",
+      "id": "pbq_programminglanguages_5",
+      "word": "Borrow checker fights beginners hard.",
+      "translation": "Borrow checker жёстко воюет с новичками.",
       "language": "en"
     },
     {
-      "id": "pb_programminglanguages_0_18",
-      "word": "They want to see how we react.",
-      "translation": "Они хотят посмотреть, как мы отреагируем.",
+      "id": "pbq_programminglanguages_6",
+      "word": "Memory safety without garbage collection.",
+      "translation": "Безопасность памяти без сборщика мусора.",
       "language": "en"
     },
     {
-      "id": "pb_programminglanguages_0_19",
-      "word": "How will the markets react?",
-      "translation": "Как отреагируют рынки?",
+      "id": "pbq_programminglanguages_7",
+      "word": "Go compiles blazingly fast.",
+      "translation": "Go компилируется молниеносно.",
       "language": "en"
     },
     {
-      "id": "pb_programminglanguages_0_20",
-      "word": "I knew how you'd react.",
-      "translation": "Я знал, как ты отреагируешь.",
+      "id": "pbq_programminglanguages_8",
+      "word": "Goroutines make concurrency approachable.",
+      "translation": "Горутины делают конкурентность доступной.",
       "language": "en"
     },
     {
-      "id": "pb_programminglanguages_0_23",
-      "word": "I didn't know how to react.",
-      "translation": "Я не знал, как реагировать.",
+      "id": "pbq_programminglanguages_9",
+      "word": "Error handling verbose but explicit.",
+      "translation": "Обработка ошибок многословная, но явная.",
       "language": "en"
     },
     {
-      "id": "pb_programminglanguages_0_24",
-      "word": "I didn't react fast enough.",
-      "translation": "Я недостаточно быстро среагировал.",
+      "id": "pbq_programminglanguages_10",
+      "word": "JavaScript ecosystem moves ridiculously fast.",
+      "translation": "Экосистема JavaScript движется бешено.",
       "language": "en"
     },
     {
-      "id": "pb_programminglanguages_0_25",
-      "word": "There are many ways to react to compliments.",
-      "translation": "Есть много способов реагировать на комплименты.",
+      "id": "pbq_programminglanguages_11",
+      "word": "Framework fatigue is real talk.",
+      "translation": "Усталость от фреймворков — реальная вещь.",
       "language": "en"
     },
     {
-      "id": "pb_programminglanguages_0_26",
-      "word": "I just wanted to see how you'd react.",
-      "translation": "Я просто хотел посмотреть, как ты отреагируешь.",
+      "id": "pbq_programminglanguages_12",
+      "word": "React hooks changed everything honestly.",
+      "translation": "Хуки React честно всё изменили.",
       "language": "en"
     },
     {
-      "id": "pb_programminglanguages_0_27",
-      "word": "I tried not to react.",
-      "translation": "Я старался не реагировать.",
+      "id": "pbq_programminglanguages_13",
+      "word": "State management library debate endless.",
+      "translation": "Споры о библиотеках состояния бесконечны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_14",
+      "word": "CSS-in-JS divisive topic developers.",
+      "translation": "CSS-in-JS вызывает споры среди разработчиков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_15",
+      "word": "Type safety catches bugs early.",
+      "translation": "Типизация ловит баги рано.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_16",
+      "word": "Strict mode enabled from day one.",
+      "translation": "Строгий режим включаем с первого дня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_17",
+      "word": "Any type defeats the purpose.",
+      "translation": "Тип any убивает смысл типизации.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_18",
+      "word": "Generics confusing at first glance.",
+      "translation": "Дженерики сначала сбивают с толку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_19",
+      "word": "Duck typing philosophy explained simply.",
+      "translation": "Утиную типизацию объясняет просто философию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_20",
+      "word": "Compiled versus interpreted performance tradeoffs.",
+      "translation": "Компиляция против интерпретации — компромиссы производительности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_21",
+      "word": "JIT compilation bridges gap cleverly.",
+      "translation": "JIT-компиляция изящно сокращает разрыв.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_22",
+      "word": "Bytecode intermediate representation explained.",
+      "translation": "Байткод — промежуточное представление, если коротко.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_23",
+      "word": "Garbage collector pauses minimized lately.",
+      "translation": "Паузы сборщика мусора минимизированы в новых версиях.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_24",
+      "word": "Memory leaks haunt long-running processes.",
+      "translation": "Утечки памяти преследуют долгоживущие процессы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_25",
+      "word": "Stack overflow literally crashed program.",
+      "translation": "Переполнение стека реально уронило программу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_26",
+      "word": "Recursion depth limits configured.",
+      "translation": "Глубину рекурсии настроили лимитом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_27",
+      "word": "Tail call optimization supported natively?",
+      "translation": "Оптимизация хвостовой рекурсии поддерживается нативно?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_28",
+      "word": "Immutable data structures prevent bugs.",
+      "translation": "Иммутабельные структуры предотвращают баги.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_29",
+      "word": "Pure functions easier testability.",
+      "translation": "Чистые функции легче тестировать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_30",
+      "word": "Side effects isolated edges only.",
+      "translation": "Побочные эффекты только на краях системы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_31",
+      "word": "Functional programming paradigm resurgence strong.",
+      "translation": "Функциональная парадигма переживает возрождение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_32",
+      "word": "Object-oriented inheritance criticized lately.",
+      "translation": "ООП-наследование недавно критикуют много.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_33",
+      "word": "Composition over inheritance mantra repeated.",
+      "translation": "Мантра «композиция вместо наследования» повторяется.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_34",
+      "word": "Design patterns overused sometimes honestly.",
+      "translation": "Паттерны проектирования иногда переиспользуют.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_35",
+      "word": "Singleton pattern considered harmful debates.",
+      "translation": "Споры: синглтон считают вредным.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_36",
+      "word": "Dependency injection containers explained.",
+      "translation": "Контейнеры внедрения зависимостей объяснили.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_37",
+      "word": "Microservices versus monolith eternal debate.",
+      "translation": "Микросервисы против монолита — вечный спор.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_38",
+      "word": "Distributed systems complexity underestimated constantly.",
+      "translation": "Сложность распределённых систем постоянно недооценивают.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_39",
+      "word": "Eventual consistency confused stakeholders initially.",
+      "translation": "Итоговую консистентность стейкхолдеры сначала не поняли.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_40",
+      "word": "Message queues decouple services elegantly.",
+      "translation": "Очереди сообщений элегантно разделяют сервисы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_41",
+      "word": "Idempotency keys prevent double charges.",
+      "translation": "Ключи идемпотентности спасают от двойных списаний.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_42",
+      "word": "Race conditions reproduce intermittently nightmare.",
+      "translation": "Гонки воспроизводятся через раз — кошмар.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_43",
+      "word": "Deadlock debugging sessions memorable pain.",
+      "translation": "Отладка дедлоков запоминается болью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_44",
+      "word": "Mutex locks contention hotspots profiled.",
+      "translation": "Профилировщик показал узкие места мьютексов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_45",
+      "word": "Async await syntax sugar appreciated.",
+      "translation": "Синтаксис async/await все ценят.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_46",
+      "word": "Callback hell pyramid doom memories.",
+      "translation": "Воспоминания об аде колбеков — пирамида ужаса.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_47",
+      "word": "Promise chains flattened async functions.",
+      "translation": "Цепочки промисов распрямились в асинхронных функциях.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_48",
+      "word": "Event loop single threaded magic.",
+      "translation": "Event loop — магия одного потока.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_49",
+      "word": "Blocking calls freeze entire UI.",
+      "translation": "Блокирующие вызовы замораживают интерфейс целиком.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_50",
+      "word": "Web workers offload heavy computation.",
+      "translation": "Web workers выносят тяжёлые вычисления.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_51",
+      "word": "SQL versus NoSQL religious wars tiresome.",
+      "translation": "Священные войны SQL против NoSQL утомляют.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_52",
+      "word": "Schema migrations versioned rollback safe.",
+      "translation": "Миграции схемы версионируются с безопасным откатом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_53",
+      "word": "ORM queries hidden N+1 problem.",
+      "translation": "ORM прячет проблему N+1 запросов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_54",
+      "word": "Indexes speed reads slow writes.",
+      "translation": "Индексы ускоряют чтение, замедляют запись.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_55",
+      "word": "Query planner explains decisions EXPLAIN.",
+      "translation": "Планировщик объясняет решения через EXPLAIN.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_56",
+      "word": "Connection pooling essential production.",
+      "translation": "Пул соединений обязателен в проде.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_57",
+      "word": "Git rebase interactive history rewritten.",
+      "translation": "Интерактивный rebase переписал историю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_58",
+      "word": "Force push main branch forbidden.",
+      "translation": "Force push в главную ветку запрещён.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_59",
+      "word": "Merge conflicts resolved carefully manually.",
+      "translation": "Конфликты слияния решали вручную и аккуратно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_60",
+      "word": "Pull request reviews mentor juniors.",
+      "translation": "Ревью пул-реквестов обучает джуниоров.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_61",
+      "word": "Code style linters enforce automatically.",
+      "translation": "Линтеры навязывают стиль автоматически.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_62",
+      "word": "Continuous integration pipelines green required.",
+      "translation": "Пайплайны CI должны быть зелёными.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_63",
+      "word": "Flaky tests quarantine investigated later.",
+      "translation": "Мерцающие тесты — в карантин, разберёмся потом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_64",
+      "word": "Test coverage metrics gamed warning.",
+      "translation": "Метриками покрытия можно манипулировать — осторожно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_65",
+      "word": "Unit tests fast isolated numerous.",
+      "translation": "Юнит-тесты быстрые, изолированные и многочисленные.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_66",
+      "word": "End-to-end tests brittle expensive fewer.",
+      "translation": "E2E-тесты хрупкие и дорогие — их мало.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_67",
+      "word": "Test pyramid balance advocated widely.",
+      "translation": "Баланс тестовой пирамиды все проповедуют.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_68",
+      "word": "Debugging rubber duck method works.",
+      "translation": "Метод резиновой уточки реально работает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_69",
+      "word": "Print debugging versus debugger preference.",
+      "translation": "Дебажить принтами или отладчиком — дело вкуса.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_70",
+      "word": "Breakpoints conditional expressions powerful feature.",
+      "translation": "Условные точки останова — мощная штука.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_71",
+      "word": "Logging levels structured JSON production.",
+      "translation": "Логи в проде — структурный JSON с уровнями.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_72",
+      "word": "Observability trumps monitoring buzzphrase accurate.",
+      "translation": "Наблюдаемость модный термин, но точный.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_73",
+      "word": "Interview leetcode grinding controversial gatekeeping.",
+      "translation": "Гринд LeetCode на интервью — спорный фильтр.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_74",
+      "word": "Whiteboard coding anxiety universal experience.",
+      "translation": "Кодирование у доски — универсальная тревога.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_75",
+      "word": "System design interviews senior roles.",
+      "translation": "System design спрашивают на старших позициях.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_76",
+      "word": "Behavioral interviews STAR method recommended.",
+      "translation": "На поведенческих советуют метод STAR.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_programminglanguages_77",
+      "word": "Salary negotiation leverage researched market.",
+      "translation": "Для торга по зарплате изучи рынок.",
       "language": "en"
     }
   ]

@@ -1,8 +1,356 @@
 {
   "id": "phrasebook-aviationflying",
   "name": "Aviation & Flying",
-  "description": "Phrasebook for Aviation & Flying",
+  "description": "Авиация: полёты, кабина, связь с диспетчером, аэродромный словарь",
   "entries": [
+    {
+      "id": "pbq_aviationflying_0",
+      "word": "Preflight inspection walkaround checklist complete.",
+      "translation": "Предполётный обход завершён по чек-листу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_1",
+      "word": "Fuel quantity verified dipstick double-checked.",
+      "translation": "Топливо проверено, замер повторным щупом подтверждён.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_2",
+      "word": "Control surfaces free and correct.",
+      "translation": "Рули отклоняются свободно и правильно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_3",
+      "word": "Pitot tube clear insects nests.",
+      "translation": "Приёмник давления проверен на засоры.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_4",
+      "word": "Weather briefing winds aloft reviewed.",
+      "translation": "Изучил брифинг: ветры на высоте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_5",
+      "word": "NOTAMs reviewed runway closures noted.",
+      "translation": "НОТАМы изучены, закрытия ВПП отмечены.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_6",
+      "word": "Flight plan filed VFR daylight.",
+      "translation": "План подан: ПВП, дневной полёт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_7",
+      "word": "Weight and balance computed envelope.",
+      "translation": "Центровка посчитана, в пределах допусков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_8",
+      "word": "Passenger briefing seatbelts emergencies exits.",
+      "translation": "Брифинг пассажиров: ремни, ЧП, выходы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_9",
+      "word": "Clear prop shouted before startup.",
+      "translation": "«От винта!» — кричу перед запуском.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_10",
+      "word": "Magneto check drop acceptable.",
+      "translation": "Проверка магнето: падение оборотов в норме.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_11",
+      "word": "Oil pressure green within seconds.",
+      "translation": "Давление масла — зелёное за секунды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_12",
+      "word": "Taxi clearance received ground frequency.",
+      "translation": "Получил разрешение рулить на частоте ground.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_13",
+      "word": "Hold short line runway crossing wait.",
+      "translation": "У линии предварительного старта стою и жду.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_14",
+      "word": "Runway numbers magnetic heading based.",
+      "translation": "Номера ВПП — по магнитному курсу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_15",
+      "word": "Winds check favored runway chosen.",
+      "translation": "Полосу выбрал против ветра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_16",
+      "word": "Rotation speed sixty knots gently.",
+      "translation": "Отрыв на шестидесяти узлах, мягко.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_17",
+      "word": "Positive rate gear up called.",
+      "translation": "«Позитивный набор» — убираю шасси.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_18",
+      "word": "Climb out pattern altitude five hundred.",
+      "translation": "Набор до высоты круга — пятьсот футов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_19",
+      "word": "Crosswind correction crab angle held.",
+      "translation": "Держу угол сноса при боковом ветре.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_20",
+      "word": "Traffic sighted reporting position clock.",
+      "translation": "Вижу борт, докладываю положение относительно циферблата.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_21",
+      "word": "CTAF self-announce unmanned fields standard.",
+      "translation": "На бесхозных аэродромах объявляю себя сам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_22",
+      "word": "Downwind base final pattern legs.",
+      "translation": "Круг: между, предпосадочная, прямая.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_23",
+      "word": "Stabilized approach gate criteria met.",
+      "translation": "Стабилизированный заход: критерии выполнены.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_24",
+      "word": "Go-around decision decisive no shame.",
+      "translation": "Уход на второй круг — решение без стыда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_25",
+      "word": "Flaps stages extension speed limits.",
+      "translation": "Закрылки выпускать по скоростям этапами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_26",
+      "word": "Carb heat applied descent power reduction.",
+      "translation": "На снижении — обогрев карбюратора.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_27",
+      "word": "Short field landing touchdown point precision.",
+      "translation": "Посадка на ограниченную площадку — точно в точку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_28",
+      "word": "Soft field yoke back nosewheel light.",
+      "translation": "На мягкое поле — штурвал на себя, носовое колесо разгружено.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_29",
+      "word": "Touchdown main wheels first smoothly.",
+      "translation": "Касание — плавно, основные стойки первыми.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_30",
+      "word": "Flaps retracted rollout brakes moderate.",
+      "translation": "Убрал закрылки, торможу умеренно на пробеге.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_31",
+      "word": "Transponder squawk code assigned ATC.",
+      "translation": "Диспетчер присвоил код транспондеру.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_32",
+      "word": "Radio phraseology readback mandatory instructions.",
+      "translation": "Инструкции диспетчера обязательно повторяют вслух.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_33",
+      "word": "Wilco roger meanings distinct precise.",
+      "translation": "Roger и wilco означают разное — важно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_34",
+      "word": "Mayday three times emergency declaration protocol.",
+      "translation": "«Mayday» трижды — порядок объявления ЧП.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_35",
+      "word": "Pan pan urgency less dire than mayday.",
+      "translation": "«Pan-pan» — срочно, но не катастрофа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_36",
+      "word": "Engine failure best glide seventy.",
+      "translation": "Отказ двигателя — скорость планирования 70 узлов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_37",
+      "word": "Forced landing field selection scan.",
+      "translation": "Ищу площадку вынужденной посадки сканируя землю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_38",
+      "word": "ELT beacon activates impact automatically.",
+      "translation": "Аварийный маячок срабатывает от удара автоматически.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_39",
+      "word": "Checklists discipline saves lives aviation.",
+      "translation": "Дисциплина чек-листов в авиации спасает жизни.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_40",
+      "word": "Sterile cockpit below ten thousand.",
+      "translation": "«Стерильная кабина» ниже десяти тысяч футов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_41",
+      "word": "Crew resource management communication hierarchy flattened.",
+      "translation": "CRM уплощает субординацию общения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_42",
+      "word": "Instrument rating clouds legally required.",
+      "translation": "Для облётов в облаках нужен приборный рейтинг.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_43",
+      "word": "Simulator hours logged instrument practice.",
+      "translation": "Часы на симуляторе идут в приборную практику.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_44",
+      "word": "Night landing runway lights intensity adjustable.",
+      "translation": "На ночной посадке яркость огней регулируется.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_45",
+      "word": "PAPI lights glide slope guidance four dots.",
+      "translation": "Огни PAPI ведут по глиссаде — четыре шкалы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_46",
+      "word": "Wake turbulence separation heavy aircraft warnings.",
+      "translation": "Спутный след тяжёлых машин — соблюдайте интервалы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_47",
+      "word": "Bird strike wildlife strikes reported logged.",
+      "translation": "Столкновения с птицами фиксируются и репортятся.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_48",
+      "word": "Icing conditions anti-ice systems activated.",
+      "translation": "В обледенение включают противообледенительные системы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_49",
+      "word": "Mountain wave turbulence rotor zones avoid.",
+      "translation": "Горноволновую турбулентность и роторы обходят.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_50",
+      "word": "Density altitude performance calculations hot days.",
+      "translation": "В жару считайте плотностную высоту — тяга падает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_51",
+      "word": "Fuel reserves thirty minutes minimum VFR day.",
+      "translation": "Резерв топлива: минимум тридцать минут по ПВП днём.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_52",
+      "word": "Logbook endorsements instructor signoffs current.",
+      "translation": "Вылеты действительны только с актуальными отметками инструктора.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_53",
+      "word": "Medical certificate class duration age-based.",
+      "translation": "Медсправка: класс и срок зависят от возраста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_54",
+      "word": "Biennial flight review currency requirement.",
+      "translation": "Раз в два года — обязателен flight review.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_55",
+      "word": "Hangar fees tiedown straps overnight.",
+      "translation": "За ангар платят, на ночь — растяжки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_56",
+      "word": "Wing covers pitot cover frost prevention.",
+      "translation": "Чехлы на крылья и датчики — от инея.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_aviationflying_57",
+      "word": "Preheat engine cold weather oil viscosity.",
+      "translation": "В холод двигатель прогревают — вязкость масла!",
+      "language": "en"
+    },
     {
       "id": "pb_aviationflying_0_0",
       "word": "He is afraid to fly in an airplane.",
