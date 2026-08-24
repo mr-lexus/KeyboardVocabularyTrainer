@@ -22,6 +22,42 @@ import { shopping } from './core/shopping.mjs';
 import { work } from './core/work.mjs';
 import { digital } from './core/digital.mjs';
 
+// Top-up batches appended to matching topic keys (merged below).
+import { topups as tEverydayA } from './core/topup-everyday-a.mjs';
+import { topups as tEverydayB } from './core/topup-everyday-b.mjs';
+import { topups as tSocial } from './core/topup-social.mjs';
+import { topups as tTravel } from './core/topup-travel.mjs';
+import { topups as tScenarios } from './core/topup-scenarios.mjs';
+import { topups as tShoppingTech } from './core/topup-shopping-tech.mjs';
+import { topups as tSmallScenarios } from './core/topup-small-scenarios.mjs';
+import { topups as tGapfill } from './core/topup-gapfill.mjs';
+
+// Session batches: lodging/money-transit/food-retail/travel-health are top-up maps;
+// career/home-car/life-events add brand-new topics plus niche rescues.
+import { topups as bLodging } from './core/batch-lodging.mjs';
+import { topups as bMoneyTransit } from './core/batch-money-transit.mjs';
+import { topups as bFoodRetail } from './core/batch-food-retail.mjs';
+import { topups as bTravelHealth } from './core/batch-travel-health.mjs';
+import { presentations, negotiations, programminglanguages } from './core/batch-career.mjs';
+import { homerepairs, carservice } from './core/batch-home-car.mjs';
+import { petvet, parenting, movinghouse, weddings, aviationflying } from './core/batch-life-events.mjs';
+import { motorsportdriver, motorsportspectator } from './core/batch-motorsport.mjs';
+import { motorsportengineermechanic } from './core/batch-motorsport-eng.mjs';
+import { simracing } from './core/batch-simracing.mjs';
+import { topups as tMsDriver } from './core/topup-motorsport-driver.mjs';
+import { topups as tMsDriver2 } from './core/topup-motorsport-driver2.mjs';
+import { topups as tMsSpectator } from './core/topup-motorsport-spectator.mjs';
+import { topups as tMsSpectator2 } from './core/topup-motorsport-spectator2.mjs';
+import { topups as tMsEng2 } from './core/topup-motorsport-eng2.mjs';
+import { topups as tMsGapfill } from './core/topup-motorsport-gapfill.mjs';
+import { topups as tMsFinal } from './core/topup-ms-final.mjs';
+import { topups as tMsEng3 } from './core/topup-ms-eng3.mjs';
+import { topups as tMsEng4 } from './core/topup-ms-eng4.mjs';
+import { topups as tSim2 } from './core/topup-simracing2.mjs';
+import { topups as tSim3 } from './core/topup-simracing3.mjs';
+import { topups as tSim4 } from './core/topup-simracing4.mjs';
+import { topups as tMsFinalFill } from './core/topup-ms-finalfill.mjs';
+
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 const DICT_DIR = path.join(ROOT, 'public', 'dictionaries');
@@ -47,7 +83,31 @@ const TOPICS = {
   ...shopping,
   ...work,
   ...digital,
+  // brand-new topics & niche rescues (existing corpus files get curated leads)
+  presentations,
+  negotiations,
+  programminglanguages,
+  homerepairs,
+  carservice,
+  petvet,
+  parenting,
+  movinghouse,
+  weddings,
+  aviationflying,
+  motorsportdriver,
+  motorsportspectator,
+  motorsportengineermechanic,
+  simracing,
 };
+
+// Merge every top-up batch into its base topic (order: base phrases first).
+for (const batch of [tEverydayA, tEverydayB, tSocial, tTravel, tScenarios, tShoppingTech, tSmallScenarios, tGapfill, bLodging, bMoneyTransit, bFoodRetail, bTravelHealth, tMsDriver, tMsDriver2, tMsSpectator, tMsSpectator2, tMsEng2, tMsGapfill, tMsFinal, tMsEng3, tMsEng4, tSim2, tSim3, tSim4, tMsFinalFill]) {
+  for (const [key, extra] of Object.entries(batch)) {
+    const topic = TOPICS[key];
+    if (!topic) throw new Error(`topup references unknown topic key: ${key}`);
+    topic.phrases.push(...extra);
+  }
+}
 
 function main() {
   const manifest = JSON.parse(fs.readFileSync(MANIFEST_PATH, 'utf8'));
@@ -94,7 +154,9 @@ function main() {
     // --- corpus part (existing file only) ---------------------------------
     let keptCorpus = 0;
     let dropped = 0;
-    if (exists) {
+    // topic.dropCorpus = true discards the legacy corpus entirely
+    // (used when old content is off-topic junk, e.g. old Motorsport dicts).
+    if (exists && !topic.dropCorpus) {
       const current = JSON.parse(fs.readFileSync(filePath, 'utf8'));
       const seen = new Set(curatedWords);
       const corpusEntries = [];

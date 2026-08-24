@@ -1,0 +1,26 @@
+// Sim Racing deep fill part 4: FFB science, pedals, game ecosystem,
+// technique mastery, league operations, streaming craft.
+export const topups = {
+  simracing: [
+    ['Slew rate motor limit clips fast corrections hardware ceiling.', 'Slew rate мотора режет быстрые коррекции — предел железа!'],
+    ['Oscillation damping firmware updates resonance improved feel.', 'Прошивки гасят резонансы — ощущение улучшилось!'],
+    ['Friction slider static resistance personal preference purists zero.', 'Слайдер трения: пуристы ставят ноль!'],
+    ['Cogging steps gear driven versus smooth direct drive debates eternal.', 'Ряды зубьев редукторных против плавности direct drive!'],
+    ['Hydraulic pedal cylinders pressure transducers ultimate realism sought.', 'Гидропедали с датчиками давления — предел реализма!'],
+    ['Elastomer stacks progressive curves swapped brake feel tuned.', 'Прогрессивные вставки настраивают ощущение тормоза!'],
+    ['Brake force consistency apps graphs improvement tracked.', 'Стабильность торможения трекают графиками приложений!'],
+    ['Eye tracking research gaze patterns vision discipline science.', 'Трекинг взгляда изучает дисциплину зрения!'],
+    ['Look through corner apex before braking rule drilled.', 'Апекс замечают раньше точки торможения — правило!'],
+    ['Peripheral mirror checks without head movement skill trained.', 'Зеркала ловят периферией без поворота головы!'],
+    ['Consistency variance two tenths elite benchmark standard.', 'Элита держит разброс в две десятых!'],
+    ['Delta bar colour coded gaining losing instant feedback loop.', 'Дельта-бар зелёный/красный даёт мгновенный фидбек!'],
+    ['Ghost car racing your best lap shadow self competition.', 'Призрак лучшего круга — соревнование с собой!'],
+    ['RaceRoom free entry accessible gateway title genre.', 'RaceRoom — бесплатная дверь в жанр!'],
+    ['Automobilista 2 Brazilian circuits physics depth hidden gem.', 'AMS2 — бразильские трассы и скрытая жемчужина физики!'],
+    ['Le Mans Ultimate official WEC licence hypercar era cutting edge.', 'Le Mans Ultimate: официальная WEC и гиперкары!'],
+    ['Laser scanned tracks millimetre bumps kerbs faithfully recreated selling points decisive purchases.', 'Лазерное сканирование с точностью до миллиметра продаёт симуляторы!'],
+    ['LiDAR data capture real world processing pipelines months work per circuit.', 'Обработка LiDAR-данных трассы занимает месяцы!'],
+    ['AI difficulty calibration sessions recommended defaults overwhelm newcomers adjust gradually.', 'Сложность ИИ подбирают постепенно — дефолты ошеломляют новичков!'],
+    ['Fuel consumption mental arithmetic laps remaining pressure split-second decisions club lore.', 'Подсчёт топлива в голове — клубные легенды!'],
+  ],
+};
