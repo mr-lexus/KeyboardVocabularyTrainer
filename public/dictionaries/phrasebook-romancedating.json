@@ -1,18 +1,294 @@
 {
   "id": "phrasebook-romancedating",
   "name": "Romance & Dating",
-  "description": "Phrasebook for Romance & Dating",
+  "description": "Свидания и отношения: знакомство, комплименты, приглашения",
   "entries": [
     {
-      "id": "pb_romancedating_0_0",
-      "word": "I'll hug Tom.",
-      "translation": "Я обниму Тома.",
+      "id": "pbq_dating_0",
+      "word": "Would you like to go out sometime?",
+      "translation": "Может, как-нибудь сходим куда-нибудь?",
       "language": "en"
     },
     {
-      "id": "pb_romancedating_0_1",
-      "word": "Tom wants to kiss Mary.",
-      "translation": "Том хочет поцеловать Мэри.",
+      "id": "pbq_dating_1",
+      "word": "Are you seeing anyone?",
+      "translation": "У тебя кто-то есть?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_2",
+      "word": "Are you single?",
+      "translation": "Ты свободна?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_3",
+      "word": "I’d love to take you out for dinner.",
+      "translation": "Я бы с удовольствием сводил тебя на ужин.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_4",
+      "word": "Can I buy you a drink?",
+      "translation": "Можно угостить тебя напитком?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_5",
+      "word": "Shall we say Saturday evening?",
+      "translation": "Договоримся на субботний вечер?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_6",
+      "word": "I had a really nice time tonight.",
+      "translation": "Сегодня вечером мне было очень приятно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_7",
+      "word": "When can I see you again?",
+      "translation": "Когда я смогу увидеть тебя снова?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_8",
+      "word": "Text me when you get home safe.",
+      "translation": "Напиши, когда доберёшься домой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_9",
+      "word": "You look stunning tonight.",
+      "translation": "Ты сегодня потрясающе выглядишь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_10",
+      "word": "Your smile is beautiful.",
+      "translation": "У тебя красивая улыбка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_11",
+      "word": "You have such a warm personality.",
+      "translation": "У тебя такой тёплый характер.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_12",
+      "word": "I feel like I can talk to you about anything.",
+      "translation": "Кажется, я могу говорить с тобой о чём угодно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_13",
+      "word": "What are you passionate about?",
+      "translation": "Чем ты увлечена по-настоящему?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_14",
+      "word": "Tell me more about yourself.",
+      "translation": "Расскажи о себе подробнее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_15",
+      "word": "What makes you laugh?",
+      "translation": "Что заставляет тебя смеяться?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_16",
+      "word": "Do you believe in love at first sight?",
+      "translation": "Ты веришь в любовь с первого взгляда?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_17",
+      "word": "This might sound cheesy, but…",
+      "translation": "Это может прозвучать банально, но...",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_18",
+      "word": "I’ve never felt this way about anyone.",
+      "translation": "Я никогда ни к кому не испытывал таких чувств.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_19",
+      "word": "I think about you a lot.",
+      "translation": "Я часто о тебе думаю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_20",
+      "word": "You make me happy.",
+      "translation": "С тобой я счастлив.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_21",
+      "word": "Being with you feels easy.",
+      "translation": "С тобой всё легко и просто.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_22",
+      "word": "I like you more than I should admit.",
+      "translation": "Ты нравишься мне больше, чем я готов признать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_23",
+      "word": "Will you be my girlfriend?",
+      "translation": "Будешь моей девушкой?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_24",
+      "word": "I love you.",
+      "translation": "Я люблю тебя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_25",
+      "word": "I love you too.",
+      "translation": "Я тоже люблю тебя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_26",
+      "word": "I’m falling for you.",
+      "translation": "Я влюбляюсь в тебя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_27",
+      "word": "You mean the world to me.",
+      "translation": "Ты для меня весь мир.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_28",
+      "word": "Let’s take things slow.",
+      "translation": "Давай не будем торопить события.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_29",
+      "word": "I need some time to think.",
+      "translation": "Мне нужно время подумать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_30",
+      "word": "Where is this relationship going?",
+      "translation": "К чему движутся наши отношения?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_31",
+      "word": "Are we exclusive now?",
+      "translation": "Мы теперь пара без других отношений?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_32",
+      "word": "Let’s move in together.",
+      "translation": "Давай съедемся (будем жить вместе).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_33",
+      "word": "Meet my parents this weekend?",
+      "translation": "Познакомишься с моими родителями в выходные?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_34",
+      "word": "I miss you like crazy.",
+      "translation": "Я безумно по тебе скучаю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_35",
+      "word": "Distance means nothing when you mean everything.",
+      "translation": "Расстояние ничего не значит, когда ты значишь всё.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_36",
+      "word": "Video call tonight?",
+      "translation": "Видеозвонок сегодня вечером?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_37",
+      "word": "Save me a dance.",
+      "translation": "Пригласи меня на танец.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_38",
+      "word": "May I have this dance?",
+      "translation": "Можно вас на этот танец?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_39",
+      "word": "Hold my hand.",
+      "translation": "Возьми меня за руку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_40",
+      "word": "Come closer.",
+      "translation": "Подойди ближе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_41",
+      "word": "You give the best hugs.",
+      "translation": "Ты лучше всех обнимаешь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_42",
+      "word": "I want to spend my life with you.",
+      "translation": "Я хочу провести с тобой всю жизнь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_43",
+      "word": "Marry me!",
+      "translation": "Выходи за меня!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_44",
+      "word": "She said yes!",
+      "translation": "Она сказала да!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_45",
+      "word": "We’re engaged!",
+      "translation": "Мы обручились!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_46",
+      "word": "Save the date — the wedding is June first!",
+      "translation": "Отметьте дату — свадьба первого июня!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_47",
+      "word": "Best wishes to the happy couple!",
+      "translation": "Лучшие пожелания счастливой паре!",
       "language": "en"
     },
     {
@@ -28,18 +304,6 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_0_4",
-      "word": "I tried to kiss Mary.",
-      "translation": "Я попытался поцеловать Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_0_5",
-      "word": "Tom blew Mary a kiss.",
-      "translation": "Том послал Мэри воздушный поцелуй.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_0_6",
       "word": "You owe me a kiss.",
       "translation": "Ты мне поцелуй должна.",
@@ -49,12 +313,6 @@
       "id": "pb_romancedating_0_7",
       "word": "I want to kiss you.",
       "translation": "Я хочу поцеловать тебя.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_0_8",
-      "word": "Give Tom a hug for me.",
-      "translation": "Обними за меня Тома.",
       "language": "en"
     },
     {
@@ -82,63 +340,15 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_0_13",
-      "word": "I gave Tom a big hug.",
-      "translation": "Я крепко обнял Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_0_14",
       "word": "That was my first kiss.",
       "translation": "Это был мой первый поцелуй.",
       "language": "en"
     },
     {
-      "id": "pb_romancedating_0_15",
-      "word": "I wanted to hug Tom.",
-      "translation": "Я хотел обнять Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_0_16",
-      "word": "I blew Tom a kiss.",
-      "translation": "Я послал Тому воздушный поцелуй.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_0_17",
-      "word": "Tom asked Mary out on a date.",
-      "translation": "Том пригласил Мэри на свидание.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_0_18",
       "word": "I didn't even kiss her.",
       "translation": "Я её даже не целовал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_0_19",
-      "word": "Tom didn't let Mary kiss him.",
-      "translation": "Том не позволил Мэри себя поцеловать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_0_20",
-      "word": "Tom leaned over to kiss Mary.",
-      "translation": "Том наклонился поцеловать Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_0_21",
-      "word": "Why didn't you kiss Tom?",
-      "translation": "Почему ты не поцеловал Тома?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_0_22",
-      "word": "I didn't hug Tom.",
-      "translation": "Я не обнимал Тома.",
       "language": "en"
     },
     {
@@ -154,12 +364,6 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_0_25",
-      "word": "Tom won't kiss Mary.",
-      "translation": "Том не поцелует Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_0_26",
       "word": "I don't know the bride.",
       "translation": "Я не знаю невесту.",
@@ -172,45 +376,15 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_0_28",
-      "word": "Mary is a wedding planner.",
-      "translation": "Мэри - организатор свадеб.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_0_29",
       "word": "When's the wedding?",
       "translation": "Когда свадьба?",
       "language": "en"
     },
     {
-      "id": "pb_romancedating_0_30",
-      "word": "Tom gave Mary a big hug.",
-      "translation": "Том крепко обнял Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_0_31",
-      "word": "Did you ever date Tom?",
-      "translation": "Ты вообще встречалась с Томом?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_0_32",
-      "word": "I think Tom used to date Mary.",
-      "translation": "Думаю, раньше Том встречался с Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_0_33",
       "word": "They began to kiss.",
       "translation": "Они начали целоваться.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_0_34",
-      "word": "Tom doesn't want to kiss Mary.",
-      "translation": "Том не хочет целовать Мэри.",
       "language": "en"
     },
     {
@@ -232,12 +406,6 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_0_38",
-      "word": "Tom didn't want to date anyone.",
-      "translation": "Том не хотел ни с кем встречаться.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_0_39",
       "word": "These are our wedding pictures.",
       "translation": "Это наши свадебные фотографии.",
@@ -247,12 +415,6 @@
       "id": "pb_romancedating_0_40",
       "word": "She returned his kiss.",
       "translation": "Она поцеловала его в ответ.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_0_41",
-      "word": "I didn't want Tom at our wedding.",
-      "translation": "Я не хотел, чтобы Том был у нас на свадьбе.",
       "language": "en"
     },
     {
@@ -268,39 +430,9 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_0_44",
-      "word": "Tom didn't invite Mary to his wedding.",
-      "translation": "Том не пригласил Мэри на свою свадьбу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_0_45",
-      "word": "Tom's girlfriend is older than he is.",
-      "translation": "Подружка Тома старше него.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_0_46",
       "word": "It looks like a wedding.",
       "translation": "Это похоже на свадьбу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_0_47",
-      "word": "Tom has a new girlfriend already.",
-      "translation": "У Тома уже новая девушка.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_0_48",
-      "word": "Tom obviously wants to kiss you.",
-      "translation": "Том явно хочет поцеловать тебя.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_0_49",
-      "word": "Tom used to date a girl named Mary.",
-      "translation": "Том раньше встречался с девушкой по имени Мэри.",
       "language": "en"
     },
     {
@@ -322,12 +454,6 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_1_3",
-      "word": "Tom bought his girlfriend flowers.",
-      "translation": "Том купил своей девушке цветы.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_1_4",
       "word": "If you want to kiss me, then kiss me.",
       "translation": "Если хочешь меня поцеловать, поцелуй.",
@@ -337,18 +463,6 @@
       "id": "pb_romancedating_1_5",
       "word": "I was invited to their wedding.",
       "translation": "Я был приглашён на их свадьбу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_1_6",
-      "word": "Tom's first girlfriend was Mary.",
-      "translation": "Первой девушкой Тома была Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_1_7",
-      "word": "Tom set me up on a date.",
-      "translation": "Том устроил мне свидание.",
       "language": "en"
     },
     {
@@ -370,24 +484,6 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_1_11",
-      "word": "Did you know that Tom and Mary used to date each other?",
-      "translation": "Ты знал, что Том и Мэри встречались?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_1_12",
-      "word": "Tom wanted to hug Mary, but he knew that he shouldn't.",
-      "translation": "Том хотел обнять Мэри, но знал, что ему не стоит этого делать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_1_13",
-      "word": "Did anyone hug Tom?",
-      "translation": "Кто-нибудь обнял Тома?",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_1_14",
       "word": "You're going to be a beautiful bride.",
       "translation": "Ты будешь красивой невестой.",
@@ -397,12 +493,6 @@
       "id": "pb_romancedating_1_15",
       "word": "Can I give you a hug?",
       "translation": "Можно тебя обнять?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_1_16",
-      "word": "Give Tom a kiss.",
-      "translation": "Поцелуй Тома.",
       "language": "en"
     },
     {
@@ -424,36 +514,6 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_1_20",
-      "word": "Tom asked Mary if he could kiss her.",
-      "translation": "Том спросил у Мэри, можно ли ему её поцеловать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_1_21",
-      "word": "Tom refused to kiss Mary.",
-      "translation": "Том отказался целовать Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_1_22",
-      "word": "Tom and I had only one date.",
-      "translation": "У нас с Томом было только одно свидание.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_1_23",
-      "word": "Do you think Tom would go on a date with me?",
-      "translation": "Как ты думаешь, Том пошёл бы со мной на свидание?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_1_24",
-      "word": "Did you really kiss Tom?",
-      "translation": "Ты вправду поцеловала Тома?",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_1_25",
       "word": "Do you remember your first kiss?",
       "translation": "Ты помнишь свой первый поцелуй?",
@@ -466,21 +526,9 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_1_27",
-      "word": "Tom has told Mary not to hug him anymore.",
-      "translation": "Том сказал Марии, чтобы она больше его не обнимала.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_1_28",
       "word": "She didn't intend to let him kiss her.",
       "translation": "Она не намеревалась позволять ему себя целовать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_1_29",
-      "word": "Tom cheated on his girlfriend for months.",
-      "translation": "Том несколько месяцев изменял своей девушке.",
       "language": "en"
     },
     {
@@ -520,12 +568,6 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_1_36",
-      "word": "Tom and Mary mailed wedding invitations to all of their friends.",
-      "translation": "Том и Мэри разослали приглашения на свадьбу всем своим друзьям.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_1_37",
       "word": "Give your mom a kiss.",
       "translation": "Поцелуй маму.",
@@ -535,18 +577,6 @@
       "id": "pb_romancedating_1_38",
       "word": "I have a boyfriend who loves me.",
       "translation": "У меня есть парень, который любит меня.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_1_39",
-      "word": "Tom had no desire to kiss Mary.",
-      "translation": "У Тома не было желания целовать Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_1_40",
-      "word": "Tom's girlfriend threatened to leave him.",
-      "translation": "Девушка Тома грозилась его бросить.",
       "language": "en"
     },
     {
@@ -562,21 +592,9 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_1_43",
-      "word": "I wanted to kiss Tom.",
-      "translation": "Я хотела поцеловать Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_1_44",
       "word": "\"Did you kiss him?\" \"Yes, I kissed him.\"",
       "translation": "«Ты его поцеловал?» — «Да, я его поцеловал».",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_1_45",
-      "word": "Tom gave Mary a kiss on both cheeks.",
-      "translation": "Том расцеловал Мэри в обе щёки.",
       "language": "en"
     },
     {
@@ -604,45 +622,9 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_2_0",
-      "word": "Tom should have known better than to kiss Mary in public.",
-      "translation": "Тому следовало бы поостеречься и не целовать Мэри прилюдно.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_2_1",
       "word": "Come give mommy a kiss.",
       "translation": "Иди поцелуй мамочку.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_2_2",
-      "word": "Tom has said he won't hug Mary anymore.",
-      "translation": "Том сказал, что он больше не будет обнимать Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_2_3",
-      "word": "Tom gave Mary a light kiss on the cheek.",
-      "translation": "Том легонько поцеловал Мэри в щёку.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_2_4",
-      "word": "Tom doesn't know his exact date of birth.",
-      "translation": "Том не знает точную дату своего рождения.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_2_5",
-      "word": "Who did Tom kiss?",
-      "translation": "Кого поцеловал Том?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_2_6",
-      "word": "Tom and Mary have canceled their wedding.",
-      "translation": "Том и Мэри отменили свадьбу.",
       "language": "en"
     },
     {
@@ -652,57 +634,15 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_2_8",
-      "word": "Tom greeted Mary with a passionate kiss.",
-      "translation": "Том поприветствовал Мэри страстным поцелуем.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_2_9",
       "word": "We've postponed the wedding.",
       "translation": "Мы отложили свадьбу.",
       "language": "en"
     },
     {
-      "id": "pb_romancedating_2_10",
-      "word": "Tom let Mary kiss him.",
-      "translation": "Том дал Мэри себя поцеловать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_2_11",
-      "word": "Maybe you should go on a date with Tom.",
-      "translation": "Может, тебе стоит пойти с Томом на свидание.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_2_12",
-      "word": "Tom wouldn't kiss Mary.",
-      "translation": "Том не стал бы целовать Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_2_13",
-      "word": "Will you kiss Tom?",
-      "translation": "Ты поцелуешь Тома?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_2_14",
-      "word": "Tom thought Mary was going to kiss him.",
-      "translation": "Том думал, что Мэри собирается его поцеловать.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_2_15",
       "word": "I don't remember my first kiss.",
       "translation": "Я не помню свой первый поцелуй.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_2_16",
-      "word": "Tom doesn't have a girlfriend anymore.",
-      "translation": "У Тома уже нет девушки.",
       "language": "en"
     },
     {
@@ -718,27 +658,9 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_2_19",
-      "word": "Tom didn't kiss anyone.",
-      "translation": "Том никого не целовал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_2_20",
-      "word": "Tom went on a date with Mary.",
-      "translation": "Том пошёл на свидание с Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_2_21",
       "word": "My girlfriend was crying.",
       "translation": "Моя девушка плакала.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_2_22",
-      "word": "I allowed Tom to kiss me.",
-      "translation": "Я позволила Тому себя поцеловать.",
       "language": "en"
     },
     {
@@ -751,18 +673,6 @@
       "id": "pb_romancedating_2_24",
       "word": "Have you set a date for your wedding?",
       "translation": "Вы назначили дату свадьбы?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_2_25",
-      "word": "Tom gave Mary a hug.",
-      "translation": "Том обнял Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_2_26",
-      "word": "Tom probably has a girlfriend already.",
-      "translation": "У Тома, вероятно, уже есть девушка.",
       "language": "en"
     },
     {
@@ -784,69 +694,15 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_2_30",
-      "word": "Tom wasn't wearing his wedding ring.",
-      "translation": "Том был без обручального кольца.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_2_31",
-      "word": "Tom gave Mary a tender kiss.",
-      "translation": "Том нежно поцеловал Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_2_32",
-      "word": "Tom said he would come to the wedding.",
-      "translation": "Том сказал, что придёт на свадьбу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_2_33",
-      "word": "Tom went on a blind date.",
-      "translation": "Том пошёл на свидание вслепую.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_2_34",
-      "word": "I gave Tom a huge hug.",
-      "translation": "Я крепко обнял Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_2_35",
-      "word": "Did Tom ask you on a date?",
-      "translation": "Том пригласил тебя на свидание?",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_2_36",
       "word": "I made the wedding cake.",
       "translation": "Я приготовила свадебный торт.",
       "language": "en"
     },
     {
-      "id": "pb_romancedating_2_37",
-      "word": "Have you shown Tom your wedding pictures?",
-      "translation": "Вы показывали Тому свои свадебные фотографии?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_2_38",
-      "word": "Tom and Mary invited me to their wedding.",
-      "translation": "Том и Мэри пригласили меня на свою свадьбу.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_2_39",
       "word": "He was late to his own wedding.",
       "translation": "Он опоздал на свою свадьбу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_2_40",
-      "word": "Tom's new girlfriend is quite attractive.",
-      "translation": "Новая девушка Тома довольно привлекательна.",
       "language": "en"
     },
     {
@@ -859,18 +715,6 @@
       "id": "pb_romancedating_2_42",
       "word": "I took it for granted that she would come to our wedding.",
       "translation": "Я принял как должное, что она приедет на нашу свадьбу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_2_43",
-      "word": "Tom and Mary had a shotgun wedding.",
-      "translation": "Том и Мэри поженились по залёту.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_2_44",
-      "word": "Tom attended the wedding.",
-      "translation": "Том присутствовал на свадьбе.",
       "language": "en"
     },
     {
@@ -892,21 +736,9 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_2_48",
-      "word": "Did anybody hug Tom?",
-      "translation": "Кто-нибудь обнял Тома?",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_2_49",
       "word": "Don't you want to give me a hug?",
       "translation": "Не хочешь меня обнять?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_3_0",
-      "word": "I don't often kiss Tom anymore.",
-      "translation": "Я больше не целую Тома так часто.",
       "language": "en"
     },
     {
@@ -922,39 +754,15 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_3_3",
-      "word": "Tom gave me a hug.",
-      "translation": "Том меня обнял.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_3_4",
       "word": "Do you remember our first kiss?",
       "translation": "Ты помнишь наш первый поцелуй?",
       "language": "en"
     },
     {
-      "id": "pb_romancedating_3_5",
-      "word": "Tom's new girlfriend is much younger than he is.",
-      "translation": "Новая девушка Тома гораздо моложе его.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_3_6",
       "word": "I haven't been on a date in so long.",
       "translation": "Я так давно не ходил на свидания.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_3_7",
-      "word": "Why can't I hug Tom?",
-      "translation": "Почему я не могу обнять Тома?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_3_8",
-      "word": "Tom wouldn't allow Mary to hug him.",
-      "translation": "Том бы не позволил Мэри обнять себя.",
       "language": "en"
     },
     {
@@ -967,12 +775,6 @@
       "id": "pb_romancedating_3_10",
       "word": "The exact date of Jesus' birth is unknown.",
       "translation": "Точная дата рождения Иисуса неизвестна.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_3_11",
-      "word": "Tom wanted the kiss to last forever.",
-      "translation": "Тому хотелось, чтобы поцелуй длился вечно.",
       "language": "en"
     },
     {
@@ -994,18 +796,6 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_3_15",
-      "word": "I didn't kiss Tom. He kissed me.",
-      "translation": "Я не целовала Тома. Он меня поцеловал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_3_16",
-      "word": "Tom and Mary have actually never been on a date yet.",
-      "translation": "Том и Мэри, вообще-то, пока ещё не встречаются.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_3_17",
       "word": "It's surprising that you haven't heard anything about her wedding.",
       "translation": "Удивительно, что ты ничего не слышал о её свадьбе.",
@@ -1018,27 +808,9 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_3_19",
-      "word": "Tom didn't want me to kiss him.",
-      "translation": "Том не хотел, чтобы я его целовал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_3_20",
-      "word": "Who would kiss Tom?",
-      "translation": "Кто бы поцеловал Тома?",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_3_21",
       "word": "I'm not going to kiss you if you don't want me to.",
       "translation": "Я не буду тебя целовать, если не хочешь.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_3_22",
-      "word": "Tom was your boyfriend when you were in high school, wasn't he?",
-      "translation": "Том ведь был твоим парнем, когда ты училась в старших классах?",
       "language": "en"
     },
     {
@@ -1063,12 +835,6 @@
       "id": "pb_romancedating_3_26",
       "word": "When is your wedding anniversary?",
       "translation": "Когда у вас годовщина свадьбы?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_3_27",
-      "word": "I don't even know if Tom has a girlfriend or not.",
-      "translation": "Я даже не знаю, есть у Тома девушка или нет.",
       "language": "en"
     },
     {
@@ -1102,12 +868,6 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_3_33",
-      "word": "Did Tom kiss you?",
-      "translation": "Том тебя поцеловал?",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_3_34",
       "word": "It might be a wedding.",
       "translation": "Это, наверное, свадьба.",
@@ -1120,21 +880,9 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_3_36",
-      "word": "Why didn't Tom kiss Mary?",
-      "translation": "Почему Том не поцеловал Мэри?",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_3_37",
       "word": "Do you want to kiss me?",
       "translation": "Ты хочешь поцеловать меня?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_3_38",
-      "word": "Tom's last girlfriend was Mary.",
-      "translation": "Последней девушкой Тома была Мэри.",
       "language": "en"
     },
     {
@@ -1150,63 +898,9 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_3_41",
-      "word": "Tom thought that Mary would kiss him.",
-      "translation": "Том думал, что Мэри его поцелует.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_3_42",
       "word": "Why do you want to make your boyfriend jealous?",
       "translation": "Почему ты хочешь вызвать ревность у своего парня?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_3_43",
-      "word": "Tom told Mary that Alice wasn't his girlfriend anymore.",
-      "translation": "Том сказал Мэри, что Элис уже не его девушка.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_3_44",
-      "word": "Tom wanted to hug Mary.",
-      "translation": "Том хотел обнять Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_3_45",
-      "word": "I don't know if Tom has a girlfriend or not.",
-      "translation": "Я не знаю, есть у Тома девушка или нет.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_3_46",
-      "word": "Tom told me what happened when you tried to kiss Mary.",
-      "translation": "Том рассказал мне, что случилось, когда ты попыталась поцеловать Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_3_47",
-      "word": "Mary often imagines her wedding.",
-      "translation": "Мэри часто мысленно представляет себе свою свадьбу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_3_48",
-      "word": "Tom gave Mary a big hug and a kiss.",
-      "translation": "Том крепко обнял и поцеловал Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_3_49",
-      "word": "Tom told me that he wanted to kiss Mary.",
-      "translation": "Том сказал мне, что хочет поцеловать Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_4_0",
-      "word": "Mary isn't my girlfriend anymore.",
-      "translation": "Мэри больше не моя девушка.",
       "language": "en"
     },
     {
@@ -1258,63 +952,15 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_4_9",
-      "word": "Tom and Mary had a whirlwind romance.",
-      "translation": "У Тома и Мэри был бурный роман.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_4_10",
       "word": "We did nothing wrong. It was only a kiss.",
       "translation": "Мы не сделали ничего плохого. Это был просто поцелуй.",
       "language": "en"
     },
     {
-      "id": "pb_romancedating_4_11",
-      "word": "Are you planning to be at Tom and Mary's wedding?",
-      "translation": "Ты планируешь быть на свадьбе Тома и Мэри?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_4_12",
-      "word": "I didn't even kiss Tom.",
-      "translation": "Мы с Томом даже не целовались.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_4_13",
-      "word": "I didn't attend Tom and Mary's wedding.",
-      "translation": "Я не был на свадьбе у Тома и Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_4_14",
-      "word": "Tom gave me a kiss.",
-      "translation": "Том меня поцеловал.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_4_15",
       "word": "Why don't you want me to kiss you?",
       "translation": "Почему ты не хочешь, чтобы я тебя поцеловал?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_4_16",
-      "word": "Tom and Mary invited all their friends and relatives to the wedding.",
-      "translation": "Том и Мэри пригласили на свадьбу всех своих родственников и друзей.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_4_17",
-      "word": "Tom said he was planning on visiting an old girlfriend in Boston.",
-      "translation": "Том сказал, что планирует наведаться к своей старой подружке в Бостон.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_4_18",
-      "word": "Why didn't you invite Tom to your wedding?",
-      "translation": "Почему вы не пригласили Тома к себе на свадьбу?",
       "language": "en"
     },
     {
@@ -1330,21 +976,9 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_4_21",
-      "word": "I'd like to kiss Mary.",
-      "translation": "Я бы хотел поцеловать Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_4_22",
       "word": "How was the wedding?",
       "translation": "Как прошла свадьба?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_4_23",
-      "word": "Tom tried to kiss me, but I didn't let him.",
-      "translation": "Том пытался меня поцеловать, но я ему не позволила.",
       "language": "en"
     },
     {
@@ -1354,27 +988,9 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_4_25",
-      "word": "Tom's first girlfriend was a blonde.",
-      "translation": "Первая девушка Тома была блондинкой.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_4_26",
       "word": "Do you really think I'm going to kiss you?",
       "translation": "Ты правда думаешь, что я тебя поцелую?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_4_27",
-      "word": "I really don't want to go out on a date with Mary.",
-      "translation": "Я правда не хочу идти на свидание с Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_4_28",
-      "word": "I let Tom kiss me.",
-      "translation": "Я позволила Тому поцеловать меня.",
       "language": "en"
     },
     {
@@ -1387,12 +1003,6 @@
       "id": "pb_romancedating_4_30",
       "word": "Can I at least hug you?",
       "translation": "Можно тебя хотя бы обнять?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_4_31",
-      "word": "Tom gave Mary a big kiss.",
-      "translation": "Том крепко поцеловал Мэри.",
       "language": "en"
     },
     {
@@ -1411,18 +1021,6 @@
       "id": "pb_romancedating_4_34",
       "word": "We only invited close relatives to our wedding.",
       "translation": "Мы пригласили на свадьбу только близких родственников.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_4_35",
-      "word": "Tom doesn't want to hug Mary.",
-      "translation": "Том не хочет обнимать Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_4_36",
-      "word": "Tom didn't kiss me.",
-      "translation": "Том меня не целовал.",
       "language": "en"
     },
     {
@@ -1456,24 +1054,6 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_4_42",
-      "word": "Why did you kiss Tom?",
-      "translation": "Зачем ты поцеловала Тома?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_4_43",
-      "word": "Tom told Mary that he wouldn't be at her wedding.",
-      "translation": "Том сказал Мэри, что он не придёт к ней на свадьбу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_4_44",
-      "word": "Will you be at Tom and Mary's wedding?",
-      "translation": "Ты будешь на свадьбе Тома и Мэри?",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_4_45",
       "word": "What's your date of birth?",
       "translation": "Какая у тебя дата рождения?",
@@ -1486,27 +1066,9 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_4_47",
-      "word": "How was your date with Tom?",
-      "translation": "Как прошло ваше с Томом свидание?",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_4_48",
       "word": "How did your date go?",
       "translation": "Как прошло твоё свидание?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_4_49",
-      "word": "Did you let Tom kiss you?",
-      "translation": "Ты дала Тому себя поцеловать?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_5_0",
-      "word": "I used to date Tom.",
-      "translation": "Я когда-то встречалась с Томом.",
       "language": "en"
     },
     {
@@ -1528,12 +1090,6 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_5_4",
-      "word": "Tom was late to his own wedding.",
-      "translation": "Том опоздал на собственную свадьбу.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_5_5",
       "word": "Why don't you kiss me anymore?",
       "translation": "Почему ты меня больше не целуешь?",
@@ -1546,39 +1102,15 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_5_7",
-      "word": "Tom was asked to be best man at Mary's brother's wedding.",
-      "translation": "Тома попросили быть свидетелем на свадьбе брата Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_5_8",
       "word": "I thought that you didn't like romance movies.",
       "translation": "Я думал, ты не любишь романтические фильмы.",
       "language": "en"
     },
     {
-      "id": "pb_romancedating_5_9",
-      "word": "Tom flew to Boston to attend his daughter's wedding.",
-      "translation": "Том улетел в Бостон, чтобы поприсутствовать на свадьбе своей дочери.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_5_10",
       "word": "My girlfriend dumped me.",
       "translation": "Моя девушка меня бросила.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_5_11",
-      "word": "Tom asked Mary who her boyfriend was.",
-      "translation": "Том спросил Мэри, кто её парень.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_5_12",
-      "word": "My date with Tom was an utter disaster.",
-      "translation": "Свидание с Томом было полнейшей катастрофой.",
       "language": "en"
     },
     {
@@ -1636,51 +1168,9 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_5_22",
-      "word": "I was afraid to kiss Tom.",
-      "translation": "Я боялась целовать Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_5_23",
-      "word": "Were you at Tom and Mary's wedding?",
-      "translation": "Вы были на свадьбе Тома и Мэри?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_5_24",
-      "word": "Tom and Mary didn't kiss.",
-      "translation": "Том и Мэри не целовались.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_5_25",
-      "word": "Tom tried to kiss Mary.",
-      "translation": "Том попытался поцеловать Марию.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_5_26",
-      "word": "I've decided not to kiss Tom anymore.",
-      "translation": "Я решила больше никогда не целовать Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_5_27",
       "word": "My girlfriend is from Boston.",
       "translation": "Моя девушка из Бостона.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_5_28",
-      "word": "Tom gave me a big hug.",
-      "translation": "Том крепко меня обнял.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_5_29",
-      "word": "Why doesn't Tom hug me anymore?",
-      "translation": "Почему Том меня больше не обнимает?",
       "language": "en"
     },
     {
@@ -1690,33 +1180,9 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_5_31",
-      "word": "Tom and Mary's wedding is in three days.",
-      "translation": "Свадьба Тома и Мэри состоится через три дня.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_5_32",
-      "word": "How did your date go with Tom?",
-      "translation": "Как прошло ваше с Томом свидание?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_5_33",
-      "word": "Tom used to date Mary.",
-      "translation": "Том раньше встречался Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_5_34",
       "word": "I want you to come to my wedding.",
       "translation": "Я хочу, чтобы ты пришёл на мою свадьбу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_5_35",
-      "word": "Mary told Tom she didn't want him to date other women.",
-      "translation": "Мэри сказала Тому, что не хочет, чтобы он встречался с другими женщинами.",
       "language": "en"
     },
     {
@@ -1738,18 +1204,6 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_5_39",
-      "word": "Tom and Mary are busy planning their wedding.",
-      "translation": "Том и Мэри заняты планированием своей свадьбы.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_5_40",
-      "word": "I wanted Tom to kiss me.",
-      "translation": "Я хотела, чтобы Том меня поцеловал.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_5_41",
       "word": "Don't you want to kiss me?",
       "translation": "Не хочешь меня поцеловать?",
@@ -1759,24 +1213,6 @@
       "id": "pb_romancedating_5_42",
       "word": "Our wedding plans have changed.",
       "translation": "Наши свадебные планы изменились.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_5_43",
-      "word": "Tom is Mary's date.",
-      "translation": "Том - парень, с которым у Мэри свидание.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_5_44",
-      "word": "Tom has a girlfriend in Boston.",
-      "translation": "У Тома в Бостоне девушка.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_5_45",
-      "word": "Kiss me, Tom.",
-      "translation": "Том, поцелуй меня.",
       "language": "en"
     },
     {
@@ -1810,24 +1246,6 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_6_1",
-      "word": "I knew you'd kiss Tom.",
-      "translation": "Я знал, что ты поцелуешь Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_6_2",
-      "word": "I don't think Tom has a girlfriend now.",
-      "translation": "Не думаю, что у Тома сейчас есть девушка.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_6_3",
-      "word": "I have a date with Tom.",
-      "translation": "У меня свидание с Томом.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_6_4",
       "word": "How are your wedding plans coming?",
       "translation": "Как идёт подготовка к свадьбе?",
@@ -1840,69 +1258,9 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_6_6",
-      "word": "Tom said he isn't a candidate.",
-      "translation": "Том сказал, что он не кандидат.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_6_7",
-      "word": "Tom wanted to kiss Mary.",
-      "translation": "Том хотел поцеловать Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_6_8",
-      "word": "Tom tried to hug Mary.",
-      "translation": "Том попытался обнять Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_6_9",
-      "word": "Why didn't Tom hug Mary?",
-      "translation": "Почему Том не обнял Мэри?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_6_10",
-      "word": "Tom felt an urge to kiss Mary.",
-      "translation": "Том почувствовал желание поцеловать Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_6_11",
-      "word": "Hug Tom for me.",
-      "translation": "Обними за меня Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_6_12",
-      "word": "I'm not going to hug Tom.",
-      "translation": "Я не собираюсь обнимать Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_6_13",
-      "word": "I didn't let Tom kiss me.",
-      "translation": "Я не дала Тому себя поцеловать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_6_14",
-      "word": "Kiss Tom for me.",
-      "translation": "Поцелуй от меня Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_6_15",
       "word": "It was my first kiss.",
       "translation": "Это был мой первый поцелуй.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_6_16",
-      "word": "Mary was a bridesmaid at Tom's wedding.",
-      "translation": "На свадьбе Тома Мэри была подружкой невесты.",
       "language": "en"
     },
     {
@@ -1912,45 +1270,15 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_6_18",
-      "word": "I didn't kiss Tom.",
-      "translation": "Я Тома не целовала.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_6_19",
-      "word": "I don't want you to date Tom.",
-      "translation": "Я не хочу, чтобы ты встречалась с Томом.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_6_20",
       "word": "That textbook is out of date.",
       "translation": "Тот учебник устарел.",
       "language": "en"
     },
     {
-      "id": "pb_romancedating_6_21",
-      "word": "I didn't think Tom would kiss me.",
-      "translation": "Я не думала, что Том меня поцелует.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_6_22",
       "word": "The wedding is in three weeks.",
       "translation": "Свадьба через три недели.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_6_23",
-      "word": "Tom showed up at John and Mary's wedding.",
-      "translation": "Том явился на свадьбу Джона и Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_6_24",
-      "word": "How did your date with Tom go?",
-      "translation": "Как прошло ваше с Томом свидание?",
       "language": "en"
     },
     {
@@ -1963,12 +1291,6 @@
       "id": "pb_romancedating_6_26",
       "word": "I lied to my girlfriend about my age.",
       "translation": "Я солгал моей девушке о своём возрасте.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_6_27",
-      "word": "Tom couldn't resist the temptation to kiss Mary.",
-      "translation": "Том не смог удержаться от соблазна поцеловать Мэри.",
       "language": "en"
     },
     {
@@ -1990,12 +1312,6 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_6_31",
-      "word": "Tom went to John and Mary's wedding with Alice.",
-      "translation": "Том отправился на свадьбу Джона и Мэри с Элис.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_6_32",
       "word": "Do you really want to make your boyfriend jealous?",
       "translation": "Ты правда хочешь, чтобы твой парень ревновал?",
@@ -2008,21 +1324,9 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_6_34",
-      "word": "Tom checked the date.",
-      "translation": "Том проверил дату.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_6_35",
       "word": "Why do cosmetics have an expiration date?",
       "translation": "Почему у косметики есть срок годности?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_6_36",
-      "word": "Tom was late for his own wedding.",
-      "translation": "Том опоздал на собственную свадьбу.",
       "language": "en"
     },
     {
@@ -2032,45 +1336,9 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_6_38",
-      "word": "Tom wished that their kiss would last forever.",
-      "translation": "Том хотел, чтобы их поцелуй длился вечно.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_6_39",
-      "word": "Did Tom kiss Mary?",
-      "translation": "Том поцеловал Мэри?",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_6_40",
       "word": "Don't I get a hug?",
       "translation": "Ты меня не обнимешь?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_6_41",
-      "word": "Mary and her boyfriend are planning to visit Boston together.",
-      "translation": "Мэри и её молодой человек планируют посетить Бостон вместе.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_6_42",
-      "word": "Tom couldn't go to John and Mary's wedding.",
-      "translation": "Том не смог пойти на свадьбу Джона и Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_6_43",
-      "word": "Why doesn't Tom kiss me anymore?",
-      "translation": "Почему Том меня больше не целует?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_6_44",
-      "word": "I'm not going to Tom and Mary's wedding.",
-      "translation": "Я не пойду на свадьбу Тома и Мэри.",
       "language": "en"
     },
     {
@@ -2080,57 +1348,15 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_6_46",
-      "word": "Tom and Mary have postponed their wedding.",
-      "translation": "Том и Мэри отложили свадьбу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_6_47",
-      "word": "Did Tom really kiss Mary?",
-      "translation": "Том правда поцеловал Мэри?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_6_48",
-      "word": "I knew that Tom would kiss Mary.",
-      "translation": "Я знал, что Том поцелует Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_6_49",
-      "word": "Tom's girlfriend is three years younger than he is.",
-      "translation": "Подружка Тома на три года моложе его.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_7_0",
       "word": "His girlfriend is Japanese.",
       "translation": "Его девушка — японка.",
       "language": "en"
     },
     {
-      "id": "pb_romancedating_7_1",
-      "word": "Tom tried to kiss me.",
-      "translation": "Том пытался меня поцеловать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_7_2",
-      "word": "Tom had a girlfriend named Mary.",
-      "translation": "У Тома была девушка по имени Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_7_3",
       "word": "He asked me out on a date.",
       "translation": "Он пригласил меня на свидание.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_7_4",
-      "word": "Give Tom a kiss for me.",
-      "translation": "Поцелуй от меня Тома.",
       "language": "en"
     },
     {
@@ -2158,21 +1384,9 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_7_9",
-      "word": "Tom wanted to kiss Mary, but he didn't.",
-      "translation": "Том хотел поцеловать Мэри, но не сделал этого.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_7_10",
       "word": "Can I give you a kiss?",
       "translation": "Можно тебя поцеловать?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_7_11",
-      "word": "Tom gave Mary a quick kiss.",
-      "translation": "Том чмокнул Мэри.",
       "language": "en"
     },
     {
@@ -2185,12 +1399,6 @@
       "id": "pb_romancedating_7_13",
       "word": "I got this as a wedding gift, but I've never used it.",
       "translation": "Мне подарили его на свадьбу, но я никогда им не пользовался.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_7_14",
-      "word": "I can't hug Tom if he doesn't want to be hugged.",
-      "translation": "Я не могу обнимать Тома, если он не хочет, чтобы его обнимали.",
       "language": "en"
     },
     {
@@ -2212,39 +1420,15 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_7_18",
-      "word": "Tom gave Mary a kiss on the lips.",
-      "translation": "Том поцеловал Мэри в губы.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_7_19",
       "word": "I imagined my first kiss would be more romantic.",
       "translation": "Я представлял себе свой первый поцелуй более романтичным.",
       "language": "en"
     },
     {
-      "id": "pb_romancedating_7_20",
-      "word": "Tom gave Mary a huge kiss.",
-      "translation": "Том крепко-крепко поцеловал Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_7_21",
       "word": "I want to give you a hug.",
       "translation": "Я хочу тебя обнять.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_7_22",
-      "word": "Tom and Mary didn't invite John to their wedding.",
-      "translation": "Том и Мэри не пригласили Джона на свою свадьбу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_7_23",
-      "word": "I won't kiss Tom.",
-      "translation": "Я не буду целовать Тома.",
       "language": "en"
     },
     {
@@ -2266,12 +1450,6 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_7_27",
-      "word": "Tom's girlfriend is Canadian.",
-      "translation": "Девушка Тома - канадка.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_7_28",
       "word": "She used to date him.",
       "translation": "Она с ним раньше встречалась.",
@@ -2284,51 +1462,15 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_7_30",
-      "word": "Tom showed me the pictures he took at the wedding.",
-      "translation": "Том показал мне фотографии, которые он сделал на свадьбе.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_7_31",
-      "word": "Tom really wanted to kiss Mary.",
-      "translation": "Том очень хотел поцеловать Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_7_32",
       "word": "A new trial date hasn't yet been set.",
       "translation": "Новая дата судебного разбирательства еще не назначена.",
       "language": "en"
     },
     {
-      "id": "pb_romancedating_7_33",
-      "word": "Tom leaned down to kiss Mary.",
-      "translation": "Том наклонился поцеловать Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_7_34",
-      "word": "I tried to kiss Tom.",
-      "translation": "Я пыталась поцеловать Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_7_35",
       "word": "I thought that you had a date.",
       "translation": "Я думал, что у тебя свидание.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_7_36",
-      "word": "I regret inviting Tom to my wedding.",
-      "translation": "Я жалею, что пригласил Тома к себе на свадьбу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_7_37",
-      "word": "Who'd kiss Tom?",
-      "translation": "Кто бы поцеловал Тома?",
       "language": "en"
     },
     {
@@ -2344,21 +1486,9 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_7_40",
-      "word": "Tom resisted the impulse to kiss Mary.",
-      "translation": "Том сдержал порыв поцеловать Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_7_41",
       "word": "My girlfriend said that she'd kill me if I got drunk.",
       "translation": "Моя девушка сказала, что убьёт меня, если я напьюсь.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_7_42",
-      "word": "Tom didn't even kiss Mary.",
-      "translation": "Том даже не поцеловал Мэри.",
       "language": "en"
     },
     {
@@ -2374,33 +1504,9 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_7_45",
-      "word": "I don't want Tom singing at our wedding.",
-      "translation": "Я не хочу, чтобы Том пел на нашей свадьбе.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_7_46",
-      "word": "Tom and Mary didn't invite me to their wedding.",
-      "translation": "Том и Мэри не пригласили меня на свою свадьбу.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_7_47",
       "word": "The only true language in the world is a kiss.",
       "translation": "Единственный истинный язык в мире - это поцелуй.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_7_48",
-      "word": "Tom wouldn't let Mary hug him.",
-      "translation": "Том бы не позволил Мэри обнять себя.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_7_49",
-      "word": "Tom's girlfriend is a lot younger than he is.",
-      "translation": "Девушка Тома намного моложе его.",
       "language": "en"
     },
     {
@@ -2410,21 +1516,9 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_8_1",
-      "word": "Tom took Mary out on a date.",
-      "translation": "Том сводил Мэри на свидание.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_8_2",
       "word": "I need a hug.",
       "translation": "Мне нужно, чтобы меня обняли.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_8_3",
-      "word": "I think Tom has a girlfriend already.",
-      "translation": "Думаю, у Тома уже есть девушка.",
       "language": "en"
     },
     {
@@ -2446,12 +1540,6 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_8_7",
-      "word": "I want you to hug Tom.",
-      "translation": "Я хочу, чтобы ты обнял Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_8_8",
       "word": "He gave me a big hug.",
       "translation": "Он крепко меня обнял.",
@@ -2464,27 +1552,9 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_8_10",
-      "word": "Did you kiss Tom?",
-      "translation": "Ты поцеловала Тома?",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_8_11",
       "word": "Can I kiss you?",
       "translation": "Могу я тебя поцеловать?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_8_12",
-      "word": "Tom and Mary had to postpone their wedding.",
-      "translation": "Тому и Мэри пришлось отложить свадьбу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_8_13",
-      "word": "Tom brought me here on our first date.",
-      "translation": "Том привёл меня сюда на наше первое свидание.",
       "language": "en"
     },
     {
@@ -2500,45 +1570,15 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_8_16",
-      "word": "Mary showed Tom her wedding ring.",
-      "translation": "Мэри показала Тому своё обручальное кольцо.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_8_17",
       "word": "My girlfriend is tall and beautiful.",
       "translation": "Моя девушка высокая и красивая.",
       "language": "en"
     },
     {
-      "id": "pb_romancedating_8_18",
-      "word": "Tom wants to hug Mary.",
-      "translation": "Том хочет обнять Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_8_19",
       "word": "Come here and kiss me.",
       "translation": "Иди сюда и поцелуй меня.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_8_20",
-      "word": "I hugged Tom, but I didn't hug Mary.",
-      "translation": "Я обнял Тома, но не обнял Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_8_21",
-      "word": "It was obvious that Tom wanted to kiss me.",
-      "translation": "Было очевидно, что Том хочет меня поцеловать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_8_22",
-      "word": "Tom gave Mary a kiss on the cheek.",
-      "translation": "Том поцеловал Мэри в щёчку.",
       "language": "en"
     },
     {
@@ -2560,45 +1600,9 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_8_26",
-      "word": "Mary allowed Tom to kiss her.",
-      "translation": "Мэри разрешила Тому себя поцеловать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_8_27",
-      "word": "Are you going to kiss Tom?",
-      "translation": "Ты собираешься поцеловать Тома?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_8_28",
-      "word": "Mary has never ever been asked out on a date.",
-      "translation": "Мэри никогда в жизни не приглашали на свидание.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_8_29",
-      "word": "Tom considers himself a worthy candidate.",
-      "translation": "Том считает себя достойным кандидатом.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_8_30",
       "word": "Don't kiss me.",
       "translation": "Не целуй меня.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_8_31",
-      "word": "Tom said he was going to kiss Mary.",
-      "translation": "Том сказал, что собирается поцеловать Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_8_32",
-      "word": "Tom is going to kiss Mary.",
-      "translation": "Том собирается поцеловать Мэри.",
       "language": "en"
     },
     {
@@ -2608,45 +1612,15 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_8_34",
-      "word": "Tom was determined to kiss Mary.",
-      "translation": "Том был полон решимости поцеловать Машу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_8_35",
-      "word": "Tom gave Mary a kiss.",
-      "translation": "Том поцеловал Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_8_36",
       "word": "She was a bridesmaid at the wedding.",
       "translation": "Она была подружкой невесты на свадьбе.",
       "language": "en"
     },
     {
-      "id": "pb_romancedating_8_37",
-      "word": "When did Tom tell you to kiss Mary?",
-      "translation": "Когда Том сказал тебе поцеловать Мэри?",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_8_38",
       "word": "My boyfriend sometimes flirts with other girls.",
       "translation": "Мой парень иногда флиртует с другими девушками.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_8_39",
-      "word": "Tom told me he wanted to kiss Mary.",
-      "translation": "Том сказал мне, что хочет поцеловать Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_8_40",
-      "word": "Tom brought a date to the party.",
-      "translation": "Том привел на вечеринку свою девушку.",
       "language": "en"
     },
     {
@@ -2668,45 +1642,15 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_8_44",
-      "word": "I knew Tom would kiss Mary.",
-      "translation": "Я знал, что Том поцелует Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_8_45",
       "word": "I don't date.",
       "translation": "Я ни с кем не встречаюсь.",
       "language": "en"
     },
     {
-      "id": "pb_romancedating_8_46",
-      "word": "Mary wouldn't let Tom kiss her.",
-      "translation": "Мэри не дала бы Тому себя поцеловать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_8_47",
-      "word": "It was obvious that Tom wanted to kiss Mary.",
-      "translation": "Было очевидно, что Том хотел поцеловать Марию.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_8_48",
       "word": "I'm going to kiss you.",
       "translation": "Я тебя сейчас поцелую.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_8_49",
-      "word": "Tom woke Mary up with a kiss.",
-      "translation": "Том разбудил Мэри поцелуем.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_9_0",
-      "word": "I thought Tom had a date.",
-      "translation": "Я думал, что Том был на свидании.",
       "language": "en"
     },
     {
@@ -2725,18 +1669,6 @@
       "id": "pb_romancedating_9_3",
       "word": "Do you still want to give me a hug?",
       "translation": "Вы всё ещё хотите меня обнять?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_9_4",
-      "word": "Tom wanted to kiss Mary goodbye, but knew he shouldn't.",
-      "translation": "Том хотел поцеловать Мэри на прощание, но знал, что этого ему делать не стоит.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_9_5",
-      "word": "Tom threw Mary a kiss.",
-      "translation": "Том послал Мэри воздушный поцелуй.",
       "language": "en"
     },
     {
@@ -2764,45 +1696,15 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_9_10",
-      "word": "Tom and Mary used to date each other.",
-      "translation": "Том и Мэри раньше встречались.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_9_11",
-      "word": "Tom took off his wedding ring and threw it into the pond.",
-      "translation": "Том снял обручальное кольцо и бросил его в пруд.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_9_12",
       "word": "We began to kiss.",
       "translation": "Мы стали целоваться.",
       "language": "en"
     },
     {
-      "id": "pb_romancedating_9_13",
-      "word": "Tom forgot the anniversary of their first date.",
-      "translation": "Том забыл про годовщину их первого свидания.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_9_14",
       "word": "The bride suddenly laughed.",
       "translation": "Неожиданно невеста рассмеялась.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_9_15",
-      "word": "Tom gave Mary a hug and kissed her.",
-      "translation": "Том обнял и поцеловал Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_9_16",
-      "word": "Tom didn't kiss Mary.",
-      "translation": "Том не целовал Мэри.",
       "language": "en"
     },
     {
@@ -2818,33 +1720,15 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_9_19",
-      "word": "I think that Tom has a girlfriend already.",
-      "translation": "Думаю, у Тома уже есть девушка.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_9_20",
       "word": "You were at my wedding.",
       "translation": "Вы были на моей свадьбе.",
       "language": "en"
     },
     {
-      "id": "pb_romancedating_9_21",
-      "word": "Tom winked at Mary and blew her a kiss.",
-      "translation": "Том подмигнул Мэри и послал ей воздушный поцелуй.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_9_22",
       "word": "Do you remember our wedding?",
       "translation": "Ты помнишь нашу свадьбу?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_9_23",
-      "word": "What does Tom's girlfriend look like?",
-      "translation": "Как выглядит девушка Тома?",
       "language": "en"
     },
     {
@@ -2860,39 +1744,15 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_9_26",
-      "word": "Tom doesn't know for certain who Mary's boyfriend is.",
-      "translation": "Том не знает точно, кто парень Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_9_27",
       "word": "Aren't you going to give me a kiss?",
       "translation": "Ты не собираешься меня поцеловать?",
       "language": "en"
     },
     {
-      "id": "pb_romancedating_9_28",
-      "word": "Tom said he didn't kiss Mary.",
-      "translation": "Том сказал, что не целуется с Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_9_29",
       "word": "I don't have a girlfriend right now.",
       "translation": "У меня сейчас нет девушки.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_9_30",
-      "word": "Did you kiss Mary?",
-      "translation": "Ты поцеловал Марию?",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_9_31",
-      "word": "I'm not sure that I'm going to Tom's wedding.",
-      "translation": "Я не уверен, что пойду на свадьбу Тома.",
       "language": "en"
     },
     {
@@ -2905,12 +1765,6 @@
       "id": "pb_romancedating_9_33",
       "word": "Frankly speaking, your way of thinking is out of date.",
       "translation": "Честно говоря, образ твоих мыслей старомоден.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_9_34",
-      "word": "I had no desire to kiss Tom.",
-      "translation": "У меня не было желания целовать Тома.",
       "language": "en"
     },
     {
@@ -2932,45 +1786,15 @@
       "language": "en"
     },
     {
-      "id": "pb_romancedating_9_38",
-      "word": "Tom wanted Mary to kiss him.",
-      "translation": "Том хотел, чтобы Мэри его поцеловала.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_9_39",
-      "word": "I knew Tom would kiss you.",
-      "translation": "Я знал, что Том тебя поцелует.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_9_40",
-      "word": "I didn't want to go to Tom and Mary's wedding.",
-      "translation": "Я не хотел идти к Тому и Мэри на свадьбу.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_9_41",
       "word": "Do you call that a kiss?",
       "translation": "Ты называешь это поцелуем?",
       "language": "en"
     },
     {
-      "id": "pb_romancedating_9_42",
-      "word": "Tom continued to date Mary.",
-      "translation": "Том продолжил встречаться с Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_romancedating_9_43",
       "word": "My girlfriend is Canadian.",
       "translation": "Моя девушка — канадка.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_9_44",
-      "word": "Tom noticed that Mary wasn't wearing her wedding ring.",
-      "translation": "Том заметил, что у Мэри на пальце нет обручального кольца.",
       "language": "en"
     },
     {
@@ -2989,12 +1813,6 @@
       "id": "pb_romancedating_9_47",
       "word": "My girlfriend doesn't like scary movies.",
       "translation": "Моя девушка не любит фильмы ужасов.",
-      "language": "en"
-    },
-    {
-      "id": "pb_romancedating_9_48",
-      "word": "I asked Mary out on a date.",
-      "translation": "Я пригласил Мэри на свидание.",
       "language": "en"
     },
     {

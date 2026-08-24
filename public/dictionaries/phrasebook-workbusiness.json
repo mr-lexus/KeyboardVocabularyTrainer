@@ -1,18 +1,390 @@
 {
   "id": "phrasebook-workbusiness",
   "name": "Work & Business",
-  "description": "Phrasebook for Work & Business",
+  "description": "Работа: совещания, дедлайны, обсуждение задач, офисные разговоры",
   "entries": [
+    {
+      "id": "pbq_work_0",
+      "word": "Good morning, everyone. Let’s get started.",
+      "translation": "Доброе утро всем. Давайте начинать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_1",
+      "word": "Let’s begin the meeting.",
+      "translation": "Начнём собрание.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_2",
+      "word": "Thanks for joining us today.",
+      "translation": "Спасибо, что присоединились сегодня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_3",
+      "word": "Everyone here?",
+      "translation": "Все здесь?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_4",
+      "word": "Is everyone on the call?",
+      "translation": "Все на связи?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_5",
+      "word": "Can everyone hear me?",
+      "translation": "Вас всем слышно?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_6",
+      "word": "You’re on mute.",
+      "translation": "У вас выключен микрофон.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_7",
+      "word": "Let’s move on to the next item.",
+      "translation": "Перейдём к следующему пункту.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_8",
+      "word": "Let’s get down to business.",
+      "translation": "Давайте перейдём к делу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_9",
+      "word": "We have a lot to cover today.",
+      "translation": "Нам нужно обсудить много вопросов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_10",
+      "word": "The main goal of this meeting is…",
+      "translation": "Главная цель этого собрания...",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_11",
+      "word": "Any questions so far?",
+      "translation": "Есть вопросы по ходу?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_12",
+      "word": "Does that make sense?",
+      "translation": "Это понятно? / Всё логично?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_13",
+      "word": "Could you clarify what you mean?",
+      "translation": "Не могли бы вы уточнить, что вы имеете в виду?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_14",
+      "word": "Sorry to interrupt, but I’d like to add something.",
+      "translation": "Извините, что перебиваю, но я бы хотел добавить.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_15",
+      "word": "Please let me finish my point.",
+      "translation": "Позвольте мне закончить мысль.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_16",
+      "word": "Back to the topic, please.",
+      "translation": "Вернёмся к теме, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_17",
+      "word": "Let’s not get sidetracked.",
+      "translation": "Давайте не будем отвлекаться.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_18",
+      "word": "What’s your take on this?",
+      "translation": "Каково ваше мнение по этому поводу?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_19",
+      "word": "From our side, everything is ready.",
+      "translation": "С нашей стороны всё готово.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_20",
+      "word": "We’re on track with the schedule.",
+      "translation": "Мы идём по графику.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_21",
+      "word": "We’re behind schedule.",
+      "translation": "Мы отстаём от графика.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_22",
+      "word": "We need more time for testing.",
+      "translation": "Нам нужно больше времени на тестирование.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_23",
+      "word": "What's the status of the project?",
+      "translation": "Каков статус проекта?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_24",
+      "word": "Where are we with the report?",
+      "translation": "На каком этапе отчёт?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_25",
+      "word": "It’s almost done, just polishing.",
+      "translation": "Почти готово, шлифуем детали.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_26",
+      "word": "When can you deliver it?",
+      "translation": "Когда вы сможете это сдать?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_27",
+      "word": "The deadline is next Friday.",
+      "translation": "Крайний срок — следующая пятница.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_28",
+      "word": "Can we extend the deadline?",
+      "translation": "Можно продлить срок?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_29",
+      "word": "I’ll send it by end of day.",
+      "translation": "Я отправлю это до конца дня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_30",
+      "word": "I’ll follow up on that.",
+      "translation": "Я вернусь к этому вопросу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_31",
+      "word": "Let me double-check and get back to you.",
+      "translation": "Я проверю и вернусь с ответом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_32",
+      "word": "Keep me posted.",
+      "translation": "Держите меня в курсе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_33",
+      "word": "Loop me in when there’s news.",
+      "translation": "Подключайте меня, когда будут новости.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_34",
+      "word": "Copy me on future emails.",
+      "translation": "Ставьте меня в копию в дальнейшей переписке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_35",
+      "word": "Let’s touch base tomorrow.",
+      "translation": "Свяжемся завтра для сверки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_36",
+      "word": "Let’s circle back to this later.",
+      "translation": "Вернёмся к этому позже.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_37",
+      "word": "Table this for now.",
+      "translation": "Отложим это пока.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_38",
+      "word": "Let’s park that question.",
+      "translation": "Оставим этот вопрос на потом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_39",
+      "word": "To sum up, we agreed on three points.",
+      "translation": "Подводя итог, мы согласовали три пункта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_40",
+      "word": "Let’s wrap up.",
+      "translation": "Давайте завершать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_41",
+      "word": "That’s all from me.",
+      "translation": "Это всё, что я хотел сказать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_42",
+      "word": "Thanks for your time, everyone.",
+      "translation": "Спасибо всем за время.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_43",
+      "word": "Meeting adjourned.",
+      "translation": "Заседание закрыто.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_44",
+      "word": "See you at the next sync.",
+      "translation": "До встречи на следующем созвоне.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_45",
+      "word": "How was your weekend? Did you finally rest?",
+      "translation": "Как выходные? Наконец-то отдохнули?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_46",
+      "word": "Coffee break, anyone?",
+      "translation": "Кофе-брейк, кто со мной?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_47",
+      "word": "Lunch together?",
+      "translation": "Обедаем вместе?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_48",
+      "word": "I’m grabbing lunch; want anything?",
+      "translation": "Иду за обедом; тебе что-нибудь взять?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_49",
+      "word": "TGIF!",
+      "translation": "Ура, пятница!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_50",
+      "word": "Have a good evening, see you tomorrow.",
+      "translation": "Хорошего вечера, до завтра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_51",
+      "word": "Have a great vacation! You deserve it.",
+      "translation": "Хорошего отпуска! Вы его заслужили.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_52",
+      "word": "Who covers for you while you’re away?",
+      "translation": "Кто вас подменяет, пока вас нет?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_53",
+      "word": "I’m working remotely today.",
+      "translation": "Я сегодня работаю удалённо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_54",
+      "word": "I’ll be out of office tomorrow.",
+      "translation": "Завтра меня не будет на месте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_55",
+      "word": "He called in sick today.",
+      "translation": "Он сегодня взял больничный.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_56",
+      "word": "She’s on maternity leave.",
+      "translation": "Она в декретном отпуске.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_57",
+      "word": "I need to take a day off.",
+      "translation": "Мне нужно взять выходной.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_58",
+      "word": "My request for leave got approved.",
+      "translation": "Мой отпуск одобрили.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_59",
+      "word": "Overtime again tonight.",
+      "translation": "Опять переработка сегодня вечером.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_60",
+      "word": "Let’s finish this tomorrow with fresh eyes.",
+      "translation": "Давай закончим это завтра на свежую голову.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_61",
+      "word": "Good job on the presentation!",
+      "translation": "Отличная работа с презентацией!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_62",
+      "word": "Your report was very thorough.",
+      "translation": "Ваш доклад был очень основательным.",
+      "language": "en"
+    },
     {
       "id": "pb_workbusiness_0_0",
       "word": "I know that that won't work.",
       "translation": "Я знаю, что это не сработает.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_0_1",
-      "word": "Tom will be able to find a job easily.",
-      "translation": "Том легко сможет найти работу.",
       "language": "en"
     },
     {
@@ -124,12 +496,6 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_0_20",
-      "word": "Tom became a manager.",
-      "translation": "Том стал менеджером.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_0_21",
       "word": "The post office is closed.",
       "translation": "Почтовое отделение закрыто.",
@@ -166,12 +532,6 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_0_27",
-      "word": "Tom wasn't my client.",
-      "translation": "Том не был моим клиентом.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_0_28",
       "word": "Can't we work this out?",
       "translation": "Мы не можем это решить?",
@@ -196,12 +556,6 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_0_32",
-      "word": "Tom is away on business.",
-      "translation": "Том в командировке.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_0_33",
       "word": "That could work.",
       "translation": "Это может сработать.",
@@ -223,12 +577,6 @@
       "id": "pb_workbusiness_0_36",
       "word": "I'm not the boss.",
       "translation": "Я не начальник.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_0_37",
-      "word": "Tom got a job as a carpenter.",
-      "translation": "Том устроился на работу плотником.",
       "language": "en"
     },
     {
@@ -304,12 +652,6 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_1_0",
-      "word": "Tom has a good job now.",
-      "translation": "Теперь у Тома хорошая работа.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_1_1",
       "word": "This is my boss.",
       "translation": "Это мой начальник.",
@@ -325,12 +667,6 @@
       "id": "pb_workbusiness_1_3",
       "word": "She got a job as a typist.",
       "translation": "Она стала работать машинисткой.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_1_4",
-      "word": "Tom is absorbed in his work.",
-      "translation": "Том поглощён своей работой.",
       "language": "en"
     },
     {
@@ -406,12 +742,6 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_1_17",
-      "word": "I want to work with Tom.",
-      "translation": "Я хочу работать с Томом.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_1_18",
       "word": "He traveled on business.",
       "translation": "Он ездил в командировку.",
@@ -421,12 +751,6 @@
       "id": "pb_workbusiness_1_19",
       "word": "Maybe you'll get that job.",
       "translation": "Может быть, ты получишь эту работу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_1_20",
-      "word": "The boss fired Tom.",
-      "translation": "Начальник уволил Тома.",
       "language": "en"
     },
     {
@@ -466,12 +790,6 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_1_27",
-      "word": "Tom had an important job to do.",
-      "translation": "У Тома была важная работа.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_1_28",
       "word": "It'd better work.",
       "translation": "Пусть лучше сработает.",
@@ -490,33 +808,9 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_1_31",
-      "word": "Tom is Mary's boss.",
-      "translation": "Том — начальник Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_1_32",
-      "word": "Tom has a part-time job.",
-      "translation": "У Тома неполный рабочий день.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_1_33",
       "word": "That doesn't always work.",
       "translation": "Это не всегда работает.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_1_34",
-      "word": "Tom found a job.",
-      "translation": "Том нашёл работу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_1_35",
-      "word": "Tom quit the company.",
-      "translation": "Том ушёл из компании.",
       "language": "en"
     },
     {
@@ -526,27 +820,9 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_1_37",
-      "word": "Tom didn't want the job.",
-      "translation": "Том не хотел эту работу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_1_38",
-      "word": "Is Tom in his office yet?",
-      "translation": "Том уже у себя в кабинете?",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_1_39",
       "word": "I hardly ever walk to work.",
       "translation": "Я почти никогда не хожу на работу пешком.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_1_40",
-      "word": "Are Tom and Mary still at work?",
-      "translation": "Том и Мэри всё ещё на работе?",
       "language": "en"
     },
     {
@@ -556,27 +832,9 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_1_42",
-      "word": "I want you to work with Tom.",
-      "translation": "Я хочу, чтобы ты работал с Томом.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_1_43",
       "word": "She was equal to the job.",
       "translation": "Она подходила для этой работы.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_1_44",
-      "word": "Neither Tom nor Mary had a job.",
-      "translation": "Ни у Тома, ни у Мэри не было работы.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_1_45",
-      "word": "Tom's work is shoddy.",
-      "translation": "Работа Тома некачественная.",
       "language": "en"
     },
     {
@@ -610,12 +868,6 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_2_1",
-      "word": "I don't work as hard as Tom.",
-      "translation": "Я не так много работаю, как Том.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_2_2",
       "word": "Do you want to work for us?",
       "translation": "Ты хочешь на нас работать?",
@@ -637,18 +889,6 @@
       "id": "pb_workbusiness_2_5",
       "word": "Come on into my office.",
       "translation": "Приходите в мой офис.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_2_6",
-      "word": "Tom is ready to work.",
-      "translation": "Том готов к работе.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_2_7",
-      "word": "I'm meeting Tom this evening.",
-      "translation": "Сегодня вечером я встречаюсь с Томом.",
       "language": "en"
     },
     {
@@ -691,12 +931,6 @@
       "id": "pb_workbusiness_2_14",
       "word": "I love my work very much.",
       "translation": "Я очень люблю мою работу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_2_15",
-      "word": "Why wasn't Tom at work today?",
-      "translation": "Почему Тома сегодня не было на работе?",
       "language": "en"
     },
     {
@@ -754,12 +988,6 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_2_25",
-      "word": "What time are you meeting Tom?",
-      "translation": "Во сколько вы с Томом встречаетесь?",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_2_26",
       "word": "I had work to do.",
       "translation": "У меня была работа.",
@@ -808,12 +1036,6 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_2_34",
-      "word": "Who did you and Tom work for?",
-      "translation": "На кого вы с Томом работали?",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_2_35",
       "word": "I built this company.",
       "translation": "Я создал эту компанию.",
@@ -844,12 +1066,6 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_2_40",
-      "word": "Tom has a different job now.",
-      "translation": "У Тома теперь другая работа.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_2_41",
       "word": "I work in a call center.",
       "translation": "Я работаю в колл-центре.",
@@ -874,24 +1090,6 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_2_45",
-      "word": "Tom already has a job.",
-      "translation": "У Тома уже есть работа.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_2_46",
-      "word": "Tom is doing a good job.",
-      "translation": "Том делает хорошую работу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_2_47",
-      "word": "Tom is fun to work with.",
-      "translation": "С Томом весело работать.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_2_48",
       "word": "What did the company do?",
       "translation": "Чем занималась компания?",
@@ -904,27 +1102,9 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_3_0",
-      "word": "I think that Tom likes his job.",
-      "translation": "Я думаю, Том любит свою работу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_3_1",
-      "word": "Tom is hunting for a job.",
-      "translation": "Том ищет работу.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_3_2",
       "word": "I'm going to lose my job.",
       "translation": "Я потеряю работу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_3_3",
-      "word": "I don't work for Tom.",
-      "translation": "Я не работаю на Тома.",
       "language": "en"
     },
     {
@@ -967,12 +1147,6 @@
       "id": "pb_workbusiness_3_10",
       "word": "Did you finish your homework?",
       "translation": "Ты доделал уроки?",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_3_11",
-      "word": "It's Tom's job.",
-      "translation": "Это работа Тома.",
       "language": "en"
     },
     {
@@ -1030,12 +1204,6 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_3_21",
-      "word": "Tom has a difficult job.",
-      "translation": "У Тома сложная работа.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_3_22",
       "word": "I didn't get the job.",
       "translation": "Я не получил работу.",
@@ -1054,12 +1222,6 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_3_25",
-      "word": "Tom quit his job.",
-      "translation": "Том бросил работу.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_3_26",
       "word": "She went on with the work.",
       "translation": "Она продолжила работать.",
@@ -1072,27 +1234,9 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_3_28",
-      "word": "Tom is in Mary's office.",
-      "translation": "Том в офисе у Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_3_29",
-      "word": "I'm Tom's boss.",
-      "translation": "Я начальник Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_3_30",
       "word": "The job would be difficult.",
       "translation": "Это была бы трудная работа.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_3_31",
-      "word": "Tom hates homework.",
-      "translation": "Том ненавидит домашние задания.",
       "language": "en"
     },
     {
@@ -1111,12 +1255,6 @@
       "id": "pb_workbusiness_3_34",
       "word": "I know that you work hard.",
       "translation": "Я знаю, что ты много работаешь.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_3_35",
-      "word": "Tom has a decent salary.",
-      "translation": "У Тома достойная зарплата.",
       "language": "en"
     },
     {
@@ -1144,24 +1282,6 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_3_40",
-      "word": "I don't work for Tom anymore.",
-      "translation": "Я больше не работаю у Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_3_41",
-      "word": "Tom has a safe in his office.",
-      "translation": "У Тома в офисе есть сейф.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_3_42",
-      "word": "Tom had no work at that time.",
-      "translation": "У Тома тогда не было работы.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_3_43",
       "word": "Finish the job.",
       "translation": "Закончи работу.",
@@ -1171,12 +1291,6 @@
       "id": "pb_workbusiness_3_44",
       "word": "Where's the post office?",
       "translation": "Где находится почта?",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_3_45",
-      "word": "Tom has a cool job.",
-      "translation": "У Тома классная работа.",
       "language": "en"
     },
     {
@@ -1201,12 +1315,6 @@
       "id": "pb_workbusiness_3_49",
       "word": "I need my car for my job.",
       "translation": "Машина нужна мне для работы.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_4_0",
-      "word": "Tom found a good job.",
-      "translation": "Том нашёл хорошую работу.",
       "language": "en"
     },
     {
@@ -1306,12 +1414,6 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_4_17",
-      "word": "Tom used to work for us.",
-      "translation": "Том когда-то работал на нас.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_4_18",
       "word": "How often do you check your email?",
       "translation": "Как часто ты проверяешь почту?",
@@ -1396,12 +1498,6 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_4_32",
-      "word": "Tom became the head of the company.",
-      "translation": "Том возглавил компанию.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_4_33",
       "word": "I had expected him at the meeting.",
       "translation": "Я ждал, что он придёт на собрание.",
@@ -1414,27 +1510,9 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_4_35",
-      "word": "Tom is the perfect man for the job.",
-      "translation": "Том — идеальный человек для этой работы.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_4_36",
       "word": "Our project failed.",
       "translation": "Наш проект провалился.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_4_37",
-      "word": "Tom is sure he'll find another job.",
-      "translation": "Том уверен, что найдёт другую работу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_4_38",
-      "word": "Tom didn't want Mary to work.",
-      "translation": "Том не хотел, чтобы Мэри работала.",
       "language": "en"
     },
     {
@@ -1468,18 +1546,6 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_4_44",
-      "word": "I didn't know Tom was Mary's boss.",
-      "translation": "Я не знал, что Том - начальник Марии.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_4_45",
-      "word": "I think Tom likes his job.",
-      "translation": "Я думаю, что Тому нравится его работа.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_4_46",
       "word": "It may be that he likes his job.",
       "translation": "Возможно, что ему нравится его работа.",
@@ -1489,18 +1555,6 @@
       "id": "pb_workbusiness_4_47",
       "word": "She decided not to attend the meeting.",
       "translation": "Она решила не принимать участия в заседании.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_4_48",
-      "word": "Tom seems to have finished his work.",
-      "translation": "Похоже, Том закончил свою работу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_4_49",
-      "word": "Tom is out of the office.",
-      "translation": "Тома нет в офисе.",
       "language": "en"
     },
     {
@@ -1516,21 +1570,9 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_5_2",
-      "word": "Tom complained about his low salary.",
-      "translation": "Том жаловался на свою низкую заработную плату.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_5_3",
       "word": "They had to work all year round.",
       "translation": "Им приходилось работать круглый год.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_5_4",
-      "word": "I don't want Tom going to your office.",
-      "translation": "Я не хочу, чтобы Том шёл в твой кабинет.",
       "language": "en"
     },
     {
@@ -1594,12 +1636,6 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_5_15",
-      "word": "Tom will work.",
-      "translation": "Том будет работать.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_5_16",
       "word": "They consider him unfit for the job.",
       "translation": "Они считают его непригодным для этой работы.",
@@ -1630,21 +1666,9 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_5_21",
-      "word": "Tom thinks that'll work.",
-      "translation": "Том думает, что это сработает.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_5_22",
       "word": "We did our work.",
       "translation": "Мы сделали свою работу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_5_23",
-      "word": "Tom sold his company.",
-      "translation": "Том продал свою компанию.",
       "language": "en"
     },
     {
@@ -1672,18 +1696,6 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_5_28",
-      "word": "Tom insisted that Mary quit her job.",
-      "translation": "Том настоял, чтобы Мэри бросила работу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_5_29",
-      "word": "Tom is the boss here.",
-      "translation": "Том здесь начальник.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_5_30",
       "word": "This work has to be finished by Monday.",
       "translation": "Эта работа должна быть закончена к понедельнику.",
@@ -1699,12 +1711,6 @@
       "id": "pb_workbusiness_5_32",
       "word": "I can't work any more.",
       "translation": "Я больше не могу работать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_5_33",
-      "word": "Tom has a lot of work to do this week.",
-      "translation": "У Тома на этой неделе много работы.",
       "language": "en"
     },
     {
@@ -1726,12 +1732,6 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_5_37",
-      "word": "Tom decided to quit his job.",
-      "translation": "Том решил оставить свою работу.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_5_38",
       "word": "I'll finish the work in a week.",
       "translation": "Я закончу работу через неделю.",
@@ -1744,27 +1744,9 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_5_40",
-      "word": "Tell Tom to come to my office right away.",
-      "translation": "Скажи Тому, чтобы сейчас же пришёл ко мне в офис.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_5_41",
-      "word": "Tom took his time reading the contract.",
-      "translation": "Том не спеша прочёл договор.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_5_42",
       "word": "I've been looking forward to meeting you.",
       "translation": "Я ожидал встречи с вами.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_5_43",
-      "word": "Let's go to Tom's office.",
-      "translation": "Давайте пойдем в офис Тома.",
       "language": "en"
     },
     {
@@ -1792,39 +1774,9 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_5_48",
-      "word": "Tom has decided not to go to the meeting.",
-      "translation": "Том решил не идти на встречу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_5_49",
-      "word": "Tom works for a pharmaceutical company.",
-      "translation": "Том работает в фармацевтической компании.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_6_0",
       "word": "Should I quit my job?",
       "translation": "Мне уйти с работы?",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_6_1",
-      "word": "Tom should've helped Mary with her homework.",
-      "translation": "Тому надо было помочь Мэри с уроками.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_6_2",
-      "word": "Tom has a second job.",
-      "translation": "У Тома есть вторая работа.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_6_3",
-      "word": "Do you work with Tom?",
-      "translation": "Ты работаешь с Томом?",
       "language": "en"
     },
     {
@@ -1849,12 +1801,6 @@
       "id": "pb_workbusiness_6_7",
       "word": "She was my boss.",
       "translation": "Она была моей начальницей.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_6_8",
-      "word": "Tom found himself a new job.",
-      "translation": "Том нашёл себе новую работу.",
       "language": "en"
     },
     {
@@ -1918,12 +1864,6 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_6_19",
-      "word": "Tom is more experienced in business than me.",
-      "translation": "У Тома больше опыта в бизнесе, чем у меня.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_6_20",
       "word": "The meeting finished thirty minutes ago.",
       "translation": "Встреча закончилась тридцать минут назад.",
@@ -1960,27 +1900,9 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_6_26",
-      "word": "Do you want to work with Tom?",
-      "translation": "Вы хотите работать с Томом?",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_6_27",
-      "word": "Tom has to work.",
-      "translation": "Тому надо работать.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_6_28",
       "word": "The meeting will take place next Monday.",
       "translation": "Встреча будет в следующий понедельник.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_6_29",
-      "word": "Tom told me he'd be at tomorrow's meeting.",
-      "translation": "Том сказал мне, что будет на завтрашнем собрании.",
       "language": "en"
     },
     {
@@ -2014,21 +1936,9 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_6_35",
-      "word": "Tom cycles to work.",
-      "translation": "Том ездит на работу на велосипеде.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_6_36",
       "word": "Your work is poorly organized.",
       "translation": "Ваша работа плохо организована.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_6_37",
-      "word": "I hope Tom doesn't have to work this weekend.",
-      "translation": "Надеюсь, Тому не придётся в эти выходные работать.",
       "language": "en"
     },
     {
@@ -2080,27 +1990,9 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_6_46",
-      "word": "I often work with Tom.",
-      "translation": "Я часто работаю с Томом.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_6_47",
       "word": "The job is not suitable for young girls.",
       "translation": "Эта должность не подходит молодым девушкам.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_6_48",
-      "word": "Tom began working for our company last year.",
-      "translation": "Том начал работать на нашу компанию в прошлом году.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_6_49",
-      "word": "Tom claims that Mary promised him the job.",
-      "translation": "Том утверждает, что Маша обещала ему работу.",
       "language": "en"
     },
     {
@@ -2122,27 +2014,9 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_7_3",
-      "word": "Tom used to work here.",
-      "translation": "Том здесь когда-то работал.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_7_4",
       "word": "I forgot my homework.",
       "translation": "Я забыл домашнее задание.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_7_5",
-      "word": "Both Tom and I work.",
-      "translation": "Мы с Томом оба работаем.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_7_6",
-      "word": "Tom Jackson is the president of this company.",
-      "translation": "Том Джексон - президент этой компании.",
       "language": "en"
     },
     {
@@ -2155,18 +2029,6 @@
       "id": "pb_workbusiness_7_8",
       "word": "The air conditioner doesn't seem to work.",
       "translation": "Кондиционер не кажется рабочим.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_7_9",
-      "word": "Tom quit his job yesterday.",
-      "translation": "Том вчера бросил работу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_7_10",
-      "word": "Tom is his own boss.",
-      "translation": "Том сам себе начальник.",
       "language": "en"
     },
     {
@@ -2185,12 +2047,6 @@
       "id": "pb_workbusiness_7_13",
       "word": "Work is due to begin tomorrow.",
       "translation": "Работа должна начаться завтра.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_7_14",
-      "word": "Tom walked out of the meeting.",
-      "translation": "Том ушёл с собрания.",
       "language": "en"
     },
     {
@@ -2218,21 +2074,9 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_7_19",
-      "word": "Tom is at his office.",
-      "translation": "Том у себя в офисе.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_7_20",
       "word": "Pickpockets almost always work in groups.",
       "translation": "Карманники почти всегда работают группами.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_7_21",
-      "word": "Tom became the band's manager.",
-      "translation": "Том стал менеджером группы.",
       "language": "en"
     },
     {
@@ -2260,21 +2104,9 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_7_26",
-      "word": "Tom is the man for the job.",
-      "translation": "Том — подходящий человек для этой работы.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_7_27",
       "word": "Nowadays his father goes to work by car.",
       "translation": "Теперь его отец ездит на работу на машине.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_7_28",
-      "word": "Tom told me you work for him.",
-      "translation": "Том сказал мне, что ты на него работаешь.",
       "language": "en"
     },
     {
@@ -2296,33 +2128,9 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_7_32",
-      "word": "Tom's office is dark.",
-      "translation": "В офисе Тома темно.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_7_33",
-      "word": "A few days later, Tom found another job.",
-      "translation": "Через несколько дней Том нашёл другую работу.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_7_34",
       "word": "She was my colleague before they fired her.",
       "translation": "Она была моей коллегой, пока её не уволили.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_7_35",
-      "word": "Tom holds a high position in an oil company.",
-      "translation": "Том занимает высокий пост в нефтяной компании.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_7_36",
-      "word": "I thought Tom would use Mary's office.",
-      "translation": "Я думал, Том воспользуется офисом Мэри.",
       "language": "en"
     },
     {
@@ -2353,12 +2161,6 @@
       "id": "pb_workbusiness_7_41",
       "word": "Be proud of your work.",
       "translation": "Гордись своей работой.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_7_42",
-      "word": "Tom told his parents that he had no homework.",
-      "translation": "Том сказал родителям, что ничего не задали.",
       "language": "en"
     },
     {
@@ -2407,12 +2209,6 @@
       "id": "pb_workbusiness_8_0",
       "word": "It's about time the manager was removed.",
       "translation": "Этого заведующего давно уж пора сместить.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_8_1",
-      "word": "Tom and Mary are at work now.",
-      "translation": "Том и Мэри сейчас на работе.",
       "language": "en"
     },
     {
@@ -2476,12 +2272,6 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_8_12",
-      "word": "Tom is always complaining about his boss.",
-      "translation": "Том вечно жалуется на своего начальника.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_8_13",
       "word": "I have a week to do my homework.",
       "translation": "У меня есть неделя, чтобы сделать домашнее задание.",
@@ -2497,30 +2287,6 @@
       "id": "pb_workbusiness_8_15",
       "word": "Your job isn't easy.",
       "translation": "У тебя непростая работа.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_8_16",
-      "word": "Tom was talking to a client.",
-      "translation": "Том разговаривал с клиентом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_8_17",
-      "word": "Didn't you know Tom used to work in Australia?",
-      "translation": "Ты не знал, что Том когда-то работал в Австралии?",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_8_18",
-      "word": "Tom is waiting in your office.",
-      "translation": "Том ждет у тебя в кабинете.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_8_19",
-      "word": "I'm meeting Tom in an hour.",
-      "translation": "Через час я встречаюсь с Томом.",
       "language": "en"
     },
     {
@@ -2554,21 +2320,9 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_8_25",
-      "word": "I don't want Tom to lose his job.",
-      "translation": "Я не хочу, чтобы Том потерял работу.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_8_26",
       "word": "Why aren't you at work?",
       "translation": "Почему ты не на работе?",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_8_27",
-      "word": "Tom didn't want to work for Mary.",
-      "translation": "Том не хотел работать на Мэри.",
       "language": "en"
     },
     {
@@ -2584,21 +2338,9 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_8_30",
-      "word": "Tom hasn't missed a single meeting.",
-      "translation": "Том не пропустил ни одной встречи.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_8_31",
       "word": "I work in this building.",
       "translation": "Я работаю в этом здании.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_8_32",
-      "word": "Tom succeeded in finding a new job in Boston.",
-      "translation": "Тому удалось найти новую работу в Бостоне.",
       "language": "en"
     },
     {
@@ -2614,39 +2356,15 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_8_35",
-      "word": "Tom took the job that Mary offered him.",
-      "translation": "Том взял работу, что Мэри предложила ему.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_8_36",
       "word": "How's the work going?",
       "translation": "Как работа?",
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_8_37",
-      "word": "We used to work for Tom.",
-      "translation": "Мы раньше работали на Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_8_38",
-      "word": "Tom asked me some questions about my job.",
-      "translation": "Том задал мне несколько вопросов о моей работе.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_8_39",
       "word": "How many people work here?",
       "translation": "Сколько народу тут работает?",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_8_40",
-      "word": "Tom never imagined he'd own his own business.",
-      "translation": "Том и представить себе не мог, что у него будет собственный бизнес.",
       "language": "en"
     },
     {
@@ -2662,12 +2380,6 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_8_43",
-      "word": "Tom doesn't want Mary to work.",
-      "translation": "Том не хочет, чтобы Мэри работала.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_8_44",
       "word": "She was dismissed for loafing on the job.",
       "translation": "Она была уволена за безделье на работе.",
@@ -2677,18 +2389,6 @@
       "id": "pb_workbusiness_8_45",
       "word": "I don't think that it's any of my business.",
       "translation": "Не думаю, что это вообще моё дело.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_8_46",
-      "word": "Tom eventually found a job to his liking.",
-      "translation": "В конце концов Том нашёл себе работу по душе.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_8_47",
-      "word": "Tom was the last one to turn in his homework.",
-      "translation": "Том последним сдал домашнее задание.",
       "language": "en"
     },
     {
@@ -2704,45 +2404,9 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_9_0",
-      "word": "Can you show me where Tom's office is?",
-      "translation": "Вы можете показать мне, где офис Тома?",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_9_1",
-      "word": "Tom forgot to remind Mary about the meeting.",
-      "translation": "Том забыл напомнить Мэри про собрание.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_9_2",
       "word": "It wasn't an easy job.",
       "translation": "Это была непростая работа.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_9_3",
-      "word": "Tom has already been offered a better job.",
-      "translation": "Тому уже предложили работу получше.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_9_4",
-      "word": "Tom did an excellent job.",
-      "translation": "Том прекрасно справился.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_9_5",
-      "word": "Do Tom and Mary work together?",
-      "translation": "Том и Мэри вместе работают?",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_9_6",
-      "word": "Tom says he doesn't have an email address.",
-      "translation": "Том говорит, у него нет электронного адреса.",
       "language": "en"
     },
     {
@@ -2764,27 +2428,9 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_9_10",
-      "word": "Tom found a good place to work.",
-      "translation": "Том нашёл хорошее место для работы.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_9_11",
       "word": "I have some work to do this evening.",
       "translation": "У меня есть кое-какая работа на этот вечер.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_9_12",
-      "word": "Tom always wears a suit to work.",
-      "translation": "Том всегда ходит на работу в костюме.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_9_13",
-      "word": "I'm told that Tom likes to work on his own.",
-      "translation": "Мне говорили, что Том любит работать самостоятельно.",
       "language": "en"
     },
     {
@@ -2797,12 +2443,6 @@
       "id": "pb_workbusiness_9_15",
       "word": "I wish I had your job.",
       "translation": "Вот бы у меня была такая работа, как у тебя.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_9_16",
-      "word": "Tom is here on urgent business.",
-      "translation": "Том здесь по срочному делу.",
       "language": "en"
     },
     {
@@ -2824,21 +2464,9 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_9_20",
-      "word": "Tom told me he had to work late.",
-      "translation": "Том сказал мне, что должен работать допоздна.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_9_21",
       "word": "I have to work.",
       "translation": "Мне нужно работать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_9_22",
-      "word": "I heard they offered you Tom's job.",
-      "translation": "Я слышал, они предложили тебе работу Тома.",
       "language": "en"
     },
     {
@@ -2854,12 +2482,6 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_9_25",
-      "word": "I remember meeting Tom in Boston.",
-      "translation": "Я помню, что встретил Тома в Бостоне.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_9_26",
       "word": "That's why no one wants to work with you.",
       "translation": "Вот почему с вами никто работать не хочет.",
@@ -2872,21 +2494,9 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_9_28",
-      "word": "Tom and John always wear ties to work.",
-      "translation": "Том и Джон всегда ходят на работу в галстуке.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_9_29",
       "word": "That's how it was supposed to work.",
       "translation": "Вот так это должно было работать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_9_30",
-      "word": "Tom didn't read the contract.",
-      "translation": "Том не прочитал договор.",
       "language": "en"
     },
     {
@@ -2905,12 +2515,6 @@
       "id": "pb_workbusiness_9_33",
       "word": "I didn't work Monday night.",
       "translation": "Я не работал в понедельник ночью.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_9_34",
-      "word": "Tom said that Mary wasn't looking for a job.",
-      "translation": "Том сказал, что Мэри не ищет работу.",
       "language": "en"
     },
     {
@@ -2956,21 +2560,9 @@
       "language": "en"
     },
     {
-      "id": "pb_workbusiness_9_42",
-      "word": "Tom did most of the work by himself.",
-      "translation": "Большую часть работы Том сделал самостоятельно.",
-      "language": "en"
-    },
-    {
       "id": "pb_workbusiness_9_43",
       "word": "I'll do the work tomorrow.",
       "translation": "Я сделаю работу завтра.",
-      "language": "en"
-    },
-    {
-      "id": "pb_workbusiness_9_44",
-      "word": "What do you know about Tom's job?",
-      "translation": "Что ты знаешь о работе Тома?",
       "language": "en"
     },
     {

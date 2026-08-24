@@ -1,8 +1,278 @@
 {
   "id": "phrasebook-technologyinternet",
   "name": "Technology & Internet",
-  "description": "Phrasebook for Technology & Internet",
+  "description": "Техника и интернет: проблемы, поддержка, настройка",
   "entries": [
+    {
+      "id": "pbq_techsupport_0",
+      "word": "My computer won’t turn on.",
+      "translation": "Мой компьютер не включается.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_1",
+      "word": "The screen went black.",
+      "translation": "Экран погас (почернел).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_2",
+      "word": "It keeps freezing on me.",
+      "translation": "Он постоянно зависает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_3",
+      "word": "The app keeps crashing.",
+      "translation": "Приложение постоянно вылетает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_4",
+      "word": "My laptop is running so slowly.",
+      "translation": "Мой ноутбук так медленно работает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_5",
+      "word": "I think I have a virus.",
+      "translation": "Кажется, у меня вирус.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_6",
+      "word": "A weird pop-up appeared.",
+      "translation": "Появилось странное всплывающее окно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_7",
+      "word": "Have you tried restarting it?",
+      "translation": "Вы пробовали перезагрузить его?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_8",
+      "word": "Try turning it off and on again.",
+      "translation": "Попробуйте выключить и снова включить.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_9",
+      "word": "Did you check the cable?",
+      "translation": "Ты проверил кабель?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_10",
+      "word": "Check if it’s plugged in properly.",
+      "translation": "Проверь, плотно ли он подключён.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_11",
+      "word": "Update the app to the latest version.",
+      "translation": "Обновите приложение до последней версии.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_12",
+      "word": "Clear your browser cache.",
+      "translation": "Очистите кеш браузера.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_13",
+      "word": "Restart your router, that usually helps.",
+      "translation": "Перезапустите роутер, это обычно помогает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_14",
+      "word": "The Wi-Fi keeps dropping.",
+      "translation": "Wi-Fi постоянно пропадает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_15",
+      "word": "There’s no internet connection.",
+      "translation": "Нет подключения к интернету.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_16",
+      "word": "The internet is down again.",
+      "translation": "Интернет опять не работает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_17",
+      "word": "What’s the Wi-Fi password here?",
+      "translation": "Какой здесь пароль от Wi-Fi?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_18",
+      "word": "Could you share the hotspot?",
+      "translation": "Раздай точку доступа, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_19",
+      "word": "I’m out of mobile data.",
+      "translation": "У меня закончился мобильный интернет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_20",
+      "word": "My phone fell in water!",
+      "translation": "Мой телефон упал в воду!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_21",
+      "word": "Put it in rice, quick!",
+      "translation": "Засыпь его рисом, быстро!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_22",
+      "word": "The battery drains too fast.",
+      "translation": "Батарея слишком быстро садится.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_23",
+      "word": "My storage is full.",
+      "translation": "Моя память заполнена.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_24",
+      "word": "Delete some old photos to free up space.",
+      "translation": "Удали старые фото, чтобы освободить место.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_25",
+      "word": "Back up everything to the cloud.",
+      "translation": "Скопируйте всё в облачное хранилище.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_26",
+      "word": "I lost all my files!",
+      "translation": "Я потерял все свои файлы!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_27",
+      "word": "Do you have a backup?",
+      "translation": "Есть резервная копия?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_28",
+      "word": "I forgot my password.",
+      "translation": "Я забыл свой пароль.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_29",
+      "word": "Reset my password, please.",
+      "translation": "Сбросьте мой пароль, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_30",
+      "word": "I got locked out of my account.",
+      "translation": "Меня заблокировали из моего аккаунта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_31",
+      "word": "Someone hacked my account!",
+      "translation": "Мой аккаунт взломали!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_32",
+      "word": "Change your password immediately.",
+      "translation": "Немедленно смените пароль.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_33",
+      "word": "Enable two-factor authentication.",
+      "translation": "Включите двухфакторную аутентификацию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_34",
+      "word": "Never share your PIN with anyone.",
+      "translation": "Никогда никому не сообщайте свой PIN-код.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_35",
+      "word": "That email is a phishing scam.",
+      "translation": "Это письмо — фишинговая мошенническая рассылка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_36",
+      "word": "Don’t click on suspicious links.",
+      "translation": "Не нажимайте на подозрительные ссылки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_37",
+      "word": "Download the installer from the official site only.",
+      "translation": "Скачивайте установщик только с официального сайта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_38",
+      "word": "Accept the license agreement and click Next.",
+      "translation": "Примите лицензионное соглашение и нажмите «Далее».",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_39",
+      "word": "Scroll down and press Enter.",
+      "translation": "Прокрутите вниз и нажмите Enter.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_40",
+      "word": "Save changes before closing.",
+      "translation": "Сохраните изменения перед закрытием.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_41",
+      "word": "Take a screenshot and send it to me.",
+      "translation": "Сделайте скриншот и отправьте мне.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_42",
+      "word": "Send me a screenshot of the error.",
+      "translation": "Пришлите мне скриншот ошибки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_43",
+      "word": "It’s working now, thanks a lot!",
+      "translation": "Теперь работает, большое спасибо!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_44",
+      "word": "Thanks, that solved the problem!",
+      "translation": "Спасибо, это решило проблему!",
+      "language": "en"
+    },
     {
       "id": "pb_technologyinternet_0_0",
       "word": "Turn your phone off.",
@@ -28,12 +298,6 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_0_4",
-      "word": "Tom has your phone.",
-      "translation": "Твой телефон у Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_0_5",
       "word": "I like your website.",
       "translation": "Мне нравится твой веб-сайт.",
@@ -52,12 +316,6 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_0_8",
-      "word": "Tom doesn't have a computer.",
-      "translation": "У Тома нет компьютера.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_0_9",
       "word": "When did you phone?",
       "translation": "Когда ты звонил?",
@@ -67,18 +325,6 @@
       "id": "pb_technologyinternet_0_10",
       "word": "Do you have a mobile phone?",
       "translation": "У тебя есть мобильник?",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_0_11",
-      "word": "Is that Tom's phone?",
-      "translation": "Это телефон Тома?",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_0_12",
-      "word": "Tom bought a phone.",
-      "translation": "Том купил телефон.",
       "language": "en"
     },
     {
@@ -94,12 +340,6 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_0_15",
-      "word": "Give Tom your phone number.",
-      "translation": "Дай Тому свой телефон.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_0_16",
       "word": "Have you seen my cell phone?",
       "translation": "Ты видел мой мобильный?",
@@ -109,12 +349,6 @@
       "id": "pb_technologyinternet_0_17",
       "word": "What's your Wi-Fi password?",
       "translation": "Какой у вас пароль от вайфая?",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_0_18",
-      "word": "Tom turned off his phone.",
-      "translation": "Том выключил свой телефон.",
       "language": "en"
     },
     {
@@ -133,12 +367,6 @@
       "id": "pb_technologyinternet_0_21",
       "word": "I want a laptop.",
       "translation": "Я хочу ноутбук.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_0_22",
-      "word": "Tom is on the phone.",
-      "translation": "Том у телефона.",
       "language": "en"
     },
     {
@@ -196,21 +424,9 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_0_32",
-      "word": "Tom could do that by phone.",
-      "translation": "Том мог бы сделать это по телефону.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_0_33",
       "word": "Put the phone down.",
       "translation": "Положи телефон.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_0_34",
-      "word": "Tom slammed down the phone.",
-      "translation": "Том бросил трубку.",
       "language": "en"
     },
     {
@@ -262,12 +478,6 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_0_43",
-      "word": "I sent Tom the link to your website.",
-      "translation": "Я послал Тому ссылку на твой сайт.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_0_44",
       "word": "He's checking his cellphone.",
       "translation": "Он проверяет свой мобильный телефон.",
@@ -304,12 +514,6 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_1_0",
-      "word": "Tom didn't want me to phone Mary.",
-      "translation": "Том не хотел, чтобы я звонил Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_1_1",
       "word": "Is the battery fully charged?",
       "translation": "Батарея полностью заряжена?",
@@ -322,33 +526,9 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_1_3",
-      "word": "Did you write down Tom's phone number?",
-      "translation": "Ты записал номер телефона Тома?",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_1_4",
-      "word": "Tom bought a new cell phone.",
-      "translation": "Том купил новый сотовый телефон.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_1_5",
       "word": "We talked for hours on the phone.",
       "translation": "Мы часами говорили по телефону.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_1_6",
-      "word": "Tom couldn't get Mary on the phone.",
-      "translation": "Том не смог дозвониться Мэри по телефону.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_1_7",
-      "word": "I forgot my password.",
-      "translation": "Я забыл свой пароль.",
       "language": "en"
     },
     {
@@ -358,33 +538,15 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_1_9",
-      "word": "Don't let Tom answer the phone.",
-      "translation": "Не давай Тому подходить к телефону.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_1_10",
       "word": "How do you turn this computer on?",
       "translation": "Как включить этот компьютер?",
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_1_11",
-      "word": "Tom threw the phone against the wall.",
-      "translation": "Том бросил телефон в стену.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_1_12",
       "word": "This battery is dead.",
       "translation": "Аккумулятор разрядился.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_1_13",
-      "word": "I'm on the phone with Tom now.",
-      "translation": "Я сейчас с Томом по телефону разговариваю.",
       "language": "en"
     },
     {
@@ -418,12 +580,6 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_1_19",
-      "word": "Tom switched the computer on.",
-      "translation": "Том включил компьютер.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_1_20",
       "word": "Put your phone down.",
       "translation": "Положи телефон.",
@@ -448,21 +604,9 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_1_24",
-      "word": "Tom is talking on the phone with Mary.",
-      "translation": "Том говорит по телефону с Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_1_25",
       "word": "First you should reboot your computer.",
       "translation": "Сначала тебе надо перезагрузить свой компьютер.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_1_26",
-      "word": "Tom likes to talk on the phone.",
-      "translation": "Тому нравится говорить по телефону.",
       "language": "en"
     },
     {
@@ -520,12 +664,6 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_1_36",
-      "word": "Tom doesn't have a mobile phone.",
-      "translation": "У Тома нет мобильного телефона.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_1_37",
       "word": "You are wanted on the phone.",
       "translation": "Тебя к телефону.",
@@ -538,21 +676,9 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_1_39",
-      "word": "I tried to contact Tom by phone.",
-      "translation": "Я пытался связаться с Томом по телефону.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_1_40",
       "word": "It isn't a computer problem.",
       "translation": "Проблема не в компьютере.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_1_41",
-      "word": "Tom has an iPhone.",
-      "translation": "У Тома есть айфон.",
       "language": "en"
     },
     {
@@ -592,12 +718,6 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_1_48",
-      "word": "Tom sits at his computer all day.",
-      "translation": "Фома сидит за своим компьютером весь день.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_1_49",
       "word": "Do you still have my phone number?",
       "translation": "У тебя сохранился мой телефон?",
@@ -616,12 +736,6 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_2_2",
-      "word": "Tom doesn't know Mary's phone number.",
-      "translation": "Том не знает телефон Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_2_3",
       "word": "It's a mouse.",
       "translation": "Это мышь.",
@@ -634,27 +748,9 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_2_5",
-      "word": "Tom wrote down Mary's phone number.",
-      "translation": "Том записал номер телефона Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_2_6",
       "word": "We talked over the phone.",
       "translation": "Мы разговаривали по телефону.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_2_7",
-      "word": "Tom asked me for Mary's phone number.",
-      "translation": "Том попросил у меня номер телефона Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_2_8",
-      "word": "I heard Tom talking on the phone.",
-      "translation": "Я слышал, как Том разговаривает по телефону.",
       "language": "en"
     },
     {
@@ -673,12 +769,6 @@
       "id": "pb_technologyinternet_2_11",
       "word": "Most young people have a mobile phone.",
       "translation": "У большинства молодых людей есть мобильный телефон.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_2_12",
-      "word": "Tom easily guessed Mary's password.",
-      "translation": "Том легко угадал пароль Мэри.",
       "language": "en"
     },
     {
@@ -718,18 +808,6 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_2_19",
-      "word": "What kind of computer does Tom use?",
-      "translation": "Какой компьютер использует Том?",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_2_20",
-      "word": "Tom says he needs another computer.",
-      "translation": "Том говорит, что ему нужен другой компьютер.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_2_21",
       "word": "I'll phone you in a few days' time.",
       "translation": "Я позвоню вам через несколько дней.",
@@ -748,12 +826,6 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_2_24",
-      "word": "Tom threw his computer out the window.",
-      "translation": "Том выбросил свой компьютер в окно.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_2_25",
       "word": "I bought a laptop.",
       "translation": "Я купил ноутбук.",
@@ -763,12 +835,6 @@
       "id": "pb_technologyinternet_2_26",
       "word": "Your cell phone rang a minute ago.",
       "translation": "Твой сотовый звонил минуту назад.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_2_27",
-      "word": "Tom changes his password every month.",
-      "translation": "Том меняет пароль раз в месяц.",
       "language": "en"
     },
     {
@@ -826,21 +892,9 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_2_37",
-      "word": "Tom doesn't use a computer every day.",
-      "translation": "Том не каждый день пользуется компьютером.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_2_38",
       "word": "Let me use your computer.",
       "translation": "Разреши мне воспользоваться твоим компьютером.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_2_39",
-      "word": "Tom was talking on the phone.",
-      "translation": "Том говорил по телефону.",
       "language": "en"
     },
     {
@@ -868,12 +922,6 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_2_44",
-      "word": "I don't know where Tom bought his computer.",
-      "translation": "Я не знаю, где Том купил этот компьютер.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_2_45",
       "word": "I forgot to give you my phone number.",
       "translation": "Я забыл тебе дать свой номер телефона.",
@@ -889,12 +937,6 @@
       "id": "pb_technologyinternet_2_47",
       "word": "Do you like playing computer games?",
       "translation": "Тебе нравится играть в компьютерные игры?",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_2_48",
-      "word": "I doubt that Tom knows Mary's phone number.",
-      "translation": "Я сомневаюсь, что Том знает номер телефона Мэри.",
       "language": "en"
     },
     {
@@ -922,12 +964,6 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_3_3",
-      "word": "I just got off the phone with Tom.",
-      "translation": "Я только что поговорил с Томом по телефону.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_3_4",
       "word": "I have a computer.",
       "translation": "У меня есть компьютер.",
@@ -943,18 +979,6 @@
       "id": "pb_technologyinternet_3_6",
       "word": "This computer runs on batteries.",
       "translation": "Этот компьютер работает от аккумуляторов.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_3_7",
-      "word": "Tom told me that I could use his computer.",
-      "translation": "Том мне сказал, что я могу воспользоваться его компьютером.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_3_8",
-      "word": "Don't let Tom touch my computer.",
-      "translation": "Не позволяйте Тому дотрагиваться до моего компьютера.",
       "language": "en"
     },
     {
@@ -988,12 +1012,6 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_3_14",
-      "word": "Tom turned off the computer.",
-      "translation": "Том выключил компьютер.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_3_15",
       "word": "Rate our app.",
       "translation": "Оцените наше приложение.",
@@ -1021,12 +1039,6 @@
       "id": "pb_technologyinternet_3_19",
       "word": "I forgot your phone number.",
       "translation": "Я забыл твой номер телефона.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_3_20",
-      "word": "Do you know who stole Tom's laptop?",
-      "translation": "Ты знаешь, кто украл у Тома ноутбук?",
       "language": "en"
     },
     {
@@ -1072,27 +1084,9 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_3_28",
-      "word": "Tom is calling from his cellphone.",
-      "translation": "Том звонит со своего мобильного.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_3_29",
-      "word": "Tom was as poor as a church mouse.",
-      "translation": "Том был беден как церковная мышь.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_3_30",
       "word": "Does anybody have a charger for an iPhone?",
       "translation": "Есть у кого-нибудь зарядка для айфона?",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_3_31",
-      "word": "Tom refused to tell me his phone number.",
-      "translation": "Том отказался давать мне свой номер телефона.",
       "language": "en"
     },
     {
@@ -1150,27 +1144,9 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_3_41",
-      "word": "Tom took charge of the situation.",
-      "translation": "Том взял ситуацию в свои руки.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_3_42",
       "word": "I just got off the phone with my agent.",
       "translation": "Я только что поговорил по телефону с моим агентом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_3_43",
-      "word": "Did you phone Tom?",
-      "translation": "Ты звонил Тому?",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_3_44",
-      "word": "Tom changes his password often.",
-      "translation": "Том часто меняет пароль.",
       "language": "en"
     },
     {
@@ -1222,12 +1198,6 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_4_3",
-      "word": "Tom has a website.",
-      "translation": "У Тома есть сайт.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_4_4",
       "word": "She wasn't able to contact him by phone.",
       "translation": "Она не могла связаться с ним по телефону.",
@@ -1264,39 +1234,15 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_4_10",
-      "word": "Tom's phone can take pictures.",
-      "translation": "Телефоном Тома можно делать фотографии.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_4_11",
       "word": "I want a computer.",
       "translation": "Я хочу компьютер.",
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_4_12",
-      "word": "Tom can be contacted by phone.",
-      "translation": "С Томом можно связаться по телефону.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_4_13",
-      "word": "Tom felt his phone vibrate.",
-      "translation": "Том почувствовал, как у него завибрировал телефон.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_4_14",
       "word": "Was my phone ringing?",
       "translation": "У меня телефон звонил?",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_4_15",
-      "word": "Tom showed Mary his new phone.",
-      "translation": "Том показал Мэри свой новый телефон.",
       "language": "en"
     },
     {
@@ -1336,21 +1282,9 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_4_22",
-      "word": "Tom turned his phone off.",
-      "translation": "Том отключил телефон.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_4_23",
       "word": "Why didn't you tell me this on the phone?",
       "translation": "Почему ты не сказал мне этого по телефону?",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_4_24",
-      "word": "I don't know how Tom got my phone number.",
-      "translation": "Я не знаю, откуда у Тома мой номер телефона.",
       "language": "en"
     },
     {
@@ -1363,12 +1297,6 @@
       "id": "pb_technologyinternet_4_26",
       "word": "I'll phone you before I start.",
       "translation": "Я вам позвоню перед отъездом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_4_27",
-      "word": "Tom's phone vibrated.",
-      "translation": "Телефон Тома завибрировал.",
       "language": "en"
     },
     {
@@ -1390,21 +1318,9 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_4_31",
-      "word": "Is Tom in charge?",
-      "translation": "Том главный?",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_4_32",
       "word": "Tell her that I am talking on the phone.",
       "translation": "Скажи ей, что я разговариваю по телефону.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_4_33",
-      "word": "Tom bought himself a new computer.",
-      "translation": "Том купил себе новый компьютер.",
       "language": "en"
     },
     {
@@ -1438,12 +1354,6 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_4_39",
-      "word": "I want to give my old computer to Tom.",
-      "translation": "Я хочу отдать свой старый компьютер Тому.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_4_40",
       "word": "I want to be a computer programmer.",
       "translation": "Я хочу быть программистом.",
@@ -1453,12 +1363,6 @@
       "id": "pb_technologyinternet_4_41",
       "word": "She isn't answering her phone.",
       "translation": "Она не отвечает на телефонные звонки.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_4_42",
-      "word": "Let's phone Tom.",
-      "translation": "Давай позвоним Тому.",
       "language": "en"
     },
     {
@@ -1492,12 +1396,6 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_4_48",
-      "word": "Did Tom tell you his password?",
-      "translation": "Том говорил тебе свой пароль?",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_4_49",
       "word": "I need a laptop.",
       "translation": "Мне нужен ноутбук.",
@@ -1513,12 +1411,6 @@
       "id": "pb_technologyinternet_5_1",
       "word": "My computer suddenly stopped working.",
       "translation": "Мой компьютер вдруг перестал работать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_5_2",
-      "word": "The phone rang and Tom answered it.",
-      "translation": "Зазвонил телефон, и Том ответил.",
       "language": "en"
     },
     {
@@ -1570,27 +1462,9 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_5_11",
-      "word": "Tom was arrested on a charge of blackmail.",
-      "translation": "Тома арестовали по обвинению в шантаже.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_5_12",
-      "word": "Do you have Tom's phone number?",
-      "translation": "У тебя есть номер телефона Тома?",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_5_13",
       "word": "How much was the additional charge?",
       "translation": "И какова дополнительная плата?",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_5_14",
-      "word": "Tom has a satellite phone.",
-      "translation": "У Тома есть спутниковый телефон.",
       "language": "en"
     },
     {
@@ -1600,21 +1474,9 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_5_16",
-      "word": "What's Tom's phone number?",
-      "translation": "Какой у Тома номер телефона?",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_5_17",
       "word": "I'll phone you every night.",
       "translation": "Я буду звонить тебе каждую ночь.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_5_18",
-      "word": "Tom didn't mention that on the phone.",
-      "translation": "По телефону Том об этом не говорил.",
       "language": "en"
     },
     {
@@ -1636,12 +1498,6 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_5_22",
-      "word": "Tom had to answer the phone.",
-      "translation": "Том должен был отвечать на телефонные звонки.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_5_23",
       "word": "I gave him my phone number.",
       "translation": "Я дал ему свой номер телефона.",
@@ -1657,12 +1513,6 @@
       "id": "pb_technologyinternet_5_25",
       "word": "Your phone is ringing again.",
       "translation": "Твой телефон опять звонит.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_5_26",
-      "word": "Why isn't Tom answering his phone?",
-      "translation": "Почему Том не подходит к телефону?",
       "language": "en"
     },
     {
@@ -1690,12 +1540,6 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_5_31",
-      "word": "Why doesn't Tom return my phone calls?",
-      "translation": "Почему Том не отвечает на мои звонки?",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_5_32",
       "word": "My cellphone's battery is dead.",
       "translation": "У меня сдохла батарея на телефоне.",
@@ -1705,12 +1549,6 @@
       "id": "pb_technologyinternet_5_33",
       "word": "Maybe it's time for you to get a new computer.",
       "translation": "Возможно, пора тебе приобрести новый компьютер.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_5_34",
-      "word": "I asked Tom not to post my picture on his website.",
-      "translation": "Я попросил Тома не размещать мою фотографию на его сайте.",
       "language": "en"
     },
     {
@@ -1759,24 +1597,6 @@
       "id": "pb_technologyinternet_5_42",
       "word": "I bought a new computer last month.",
       "translation": "В прошлом месяце я купила новый компьютер.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_5_43",
-      "word": "Tom is addicted to the Internet.",
-      "translation": "Том интернет-зависимый.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_5_44",
-      "word": "You're wanted on the phone. It's from Tom.",
-      "translation": "Тебя к телефону. Это Том.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_5_45",
-      "word": "Put Tom on the phone.",
-      "translation": "Дай трубку Тому.",
       "language": "en"
     },
     {
@@ -1846,12 +1666,6 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_6_7",
-      "word": "Tom has his own computer.",
-      "translation": "У Тома есть свой собственный компьютер.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_6_8",
       "word": "The phone stopped ringing.",
       "translation": "Телефон перестал звонить.",
@@ -1867,24 +1681,6 @@
       "id": "pb_technologyinternet_6_10",
       "word": "I've got a new phone.",
       "translation": "У меня новый телефон.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_6_11",
-      "word": "Tom didn't answer his phone.",
-      "translation": "Том не отвечал по телефону.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_6_12",
-      "word": "Tom turned the computer off.",
-      "translation": "Том выключил компьютер.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_6_13",
-      "word": "Tom changed the ringtone on his phone.",
-      "translation": "Том сменил рингтон на телефоне.",
       "language": "en"
     },
     {
@@ -1918,12 +1714,6 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_6_19",
-      "word": "I've got Tom's address somewhere on my computer.",
-      "translation": "У меня где-то в компьютере есть адрес Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_6_20",
       "word": "May I borrow your telephone?",
       "translation": "Можно у Вас телефон одолжить?",
@@ -1939,18 +1729,6 @@
       "id": "pb_technologyinternet_6_22",
       "word": "I don't have Internet access.",
       "translation": "У меня нет доступа в Интернет.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_6_23",
-      "word": "Tom doesn't have a smartphone.",
-      "translation": "У Тома нет смартфона.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_6_24",
-      "word": "Tom typed in his username and password.",
-      "translation": "Том ввёл свой логин и пароль.",
       "language": "en"
     },
     {
@@ -2002,18 +1780,6 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_6_33",
-      "word": "Tom pulled out his cellphone.",
-      "translation": "Том вытащил свой мобильный телефон.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_6_34",
-      "word": "Tom is checking his messages on his phone.",
-      "translation": "Том проверяет сообщения у себя в телефоне.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_6_35",
       "word": "That computer has a quad-core processor.",
       "translation": "В этом компьютере — четырёхъядерный процессор.",
@@ -2062,39 +1828,15 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_6_43",
-      "word": "I'll phone Tom.",
-      "translation": "Я позвоню Тому.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_6_44",
       "word": "My Internet connection isn't fast enough.",
       "translation": "Мой интернет недостаточно быстрый.",
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_6_45",
-      "word": "I suggest you give your old computer to Tom.",
-      "translation": "Я предлагаю тебе отдать твой старый компьютер Тому.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_6_46",
       "word": "It's just a picture I downloaded from the Internet.",
       "translation": "Это просто картинка, которую я скачал в Интернете.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_6_47",
-      "word": "Tom doesn't know how to use a computer.",
-      "translation": "Том не умеет пользоваться компьютером.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_6_48",
-      "word": "Give me Tom's phone number and I'll call him.",
-      "translation": "Дай мне номер телефона Тома и я ему позвоню.",
       "language": "en"
     },
     {
@@ -2119,12 +1861,6 @@
       "id": "pb_technologyinternet_7_2",
       "word": "Here's my phone number.",
       "translation": "Вот мой номер телефона.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_7_3",
-      "word": "Tom said you'd phone me.",
-      "translation": "Том сказал, что ты мне позвонишь.",
       "language": "en"
     },
     {
@@ -2194,18 +1930,6 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_7_15",
-      "word": "Tom is the one who gave me Mary's phone number.",
-      "translation": "Это Том дал мне номер телефона Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_7_16",
-      "word": "I don't know Tom's phone number.",
-      "translation": "Я не знаю номера телефона Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_7_17",
       "word": "As soon as we get the answer, we'll phone you.",
       "translation": "Как только мы получим ответ, мы позвоним тебе.",
@@ -2218,27 +1942,9 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_7_19",
-      "word": "Tom was the one who gave me Mary's phone number.",
-      "translation": "Это Том дал мне номер телефона Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_7_20",
       "word": "The boy was holding a mouse by the tail.",
       "translation": "Мальчик держал мышку за хвост.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_7_21",
-      "word": "Tom said I needed to put on some sunscreen.",
-      "translation": "Том сказал, что мне нужно нанести солнцезащитный крем.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_7_22",
-      "word": "I forgot to phone Tom.",
-      "translation": "Я забыл позвонить Тому.",
       "language": "en"
     },
     {
@@ -2260,12 +1966,6 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_7_26",
-      "word": "Tom is looking for his cellphone.",
-      "translation": "Том ищет свой мобильный телефон.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_7_27",
       "word": "How much do you charge by the hour?",
       "translation": "Сколько вы берете за час?",
@@ -2275,12 +1975,6 @@
       "id": "pb_technologyinternet_7_28",
       "word": "I want to make a phone call.",
       "translation": "Я хочу позвонить.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_7_29",
-      "word": "I'm talking on the phone with Tom.",
-      "translation": "Я говорю по телефону с Томом.",
       "language": "en"
     },
     {
@@ -2314,18 +2008,6 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_7_35",
-      "word": "Does Tom have a computer?",
-      "translation": "У Тома есть компьютер?",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_7_36",
-      "word": "Tom uses the same password for every site.",
-      "translation": "Том использует один и тот же пароль на всех сайтах.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_7_37",
       "word": "I've deleted the app.",
       "translation": "Я удалил приложение.",
@@ -2344,12 +2026,6 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_7_40",
-      "word": "Tom has a cellphone.",
-      "translation": "У Тома есть мобильный телефон.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_7_41",
       "word": "Switch off the microphone.",
       "translation": "Выключи микрофон.",
@@ -2362,45 +2038,15 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_7_43",
-      "word": "I want Tom on the phone.",
-      "translation": "Я хочу, чтобы Том позвонил.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_7_44",
       "word": "I'll phone you back in about ten minutes.",
       "translation": "Я тебе перезвоню минут через десять.",
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_7_45",
-      "word": "Tom didn't pick up the phone.",
-      "translation": "Том не подошёл к телефону.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_7_46",
-      "word": "Tom never even saw a computer until he was thirteen.",
-      "translation": "Том до тринадцати ни разу не видел компьютера.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_7_47",
-      "word": "Tom got cookie crumbs all over his keyboard.",
-      "translation": "У Тома вся клавиатура засыпана крошками от печенья.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_7_48",
       "word": "I talked with him about it over the telephone.",
       "translation": "Я говорил с ним об этом по телефону.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_7_49",
-      "word": "Tom gave me Mary's phone number.",
-      "translation": "Том дал мне телефон Мэри.",
       "language": "en"
     },
     {
@@ -2416,21 +2062,9 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_8_2",
-      "word": "How did you know Tom was the one who stole your saxophone?",
-      "translation": "Как ты узнал, что твой саксофон украл именно Том?",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_8_3",
       "word": "Visit our website for additional information.",
       "translation": "Посетите наш сайт для получения дополнительной информации.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_8_4",
-      "word": "Tom turned on his computer.",
-      "translation": "Том включил свой компьютер.",
       "language": "en"
     },
     {
@@ -2440,21 +2074,9 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_8_6",
-      "word": "Tom put his phone back in his pocket.",
-      "translation": "Том сунул телефон обратно в карман.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_8_7",
       "word": "It's not a computer problem.",
       "translation": "Проблема не в компьютере.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_8_8",
-      "word": "Phone me if you find Tom.",
-      "translation": "Позвони мне, если найдёшь Тома.",
       "language": "en"
     },
     {
@@ -2464,33 +2086,9 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_8_10",
-      "word": "Tom has bought a new computer.",
-      "translation": "Том купил новый компьютер.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_8_11",
-      "word": "Tom couldn't get Mary to tell him her phone number.",
-      "translation": "Том так и не смог добиться от Мэри её номера телефона.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_8_12",
       "word": "I'm calling from a cell phone.",
       "translation": "Я звоню с сотового.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_8_13",
-      "word": "Tom has already gotten three threatening phone messages.",
-      "translation": "Том уже получил три телефонных звонка с угрозами.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_8_14",
-      "word": "Tom constantly checks his phone.",
-      "translation": "Том постоянно проверяет свой телефон.",
       "language": "en"
     },
     {
@@ -2512,21 +2110,9 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_8_18",
-      "word": "Tom is at the computer.",
-      "translation": "Том за компьютером.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_8_19",
       "word": "I need a charger for my phone.",
       "translation": "Мне нужна зарядка для телефона.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_8_20",
-      "word": "Tom sits at his computer eight hours a day.",
-      "translation": "Том сидит за компьютером по восемь часов в день.",
       "language": "en"
     },
     {
@@ -2572,33 +2158,9 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_8_28",
-      "word": "Tom seldom uses his phone.",
-      "translation": "Том редко пользуется телефоном.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_8_29",
-      "word": "Tom's phone number is easy to remember.",
-      "translation": "Телефон Тома легко запомнить.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_8_30",
       "word": "Someone's on the phone for you.",
       "translation": "Тебя к телефону.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_8_31",
-      "word": "Tom spends a lot of time in front of his computer.",
-      "translation": "Том проводит много времени за компьютером.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_8_32",
-      "word": "I saw a mouse!",
-      "translation": "Я видел мышь!",
       "language": "en"
     },
     {
@@ -2611,12 +2173,6 @@
       "id": "pb_technologyinternet_8_34",
       "word": "Did you charge the battery of your mobile phone?",
       "translation": "Ты зарядил свой телефон?",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_8_35",
-      "word": "Tom has a gramophone.",
-      "translation": "У Тома есть граммофон.",
       "language": "en"
     },
     {
@@ -2668,30 +2224,6 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_8_44",
-      "word": "Tom's computer is much newer than mine.",
-      "translation": "Компьютер Тома намного новее моего.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_8_45",
-      "word": "When will you phone Tom?",
-      "translation": "Когда ты позвонишь Тому?",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_8_46",
-      "word": "I've got Tom's phone number.",
-      "translation": "У меня есть телефон Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_8_47",
-      "word": "Tom spends all his time on the computer.",
-      "translation": "Том всё своё время проводит за компьютером.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_8_48",
       "word": "I need that phone.",
       "translation": "Мне нужен этот телефон.",
@@ -2701,30 +2233,6 @@
       "id": "pb_technologyinternet_8_49",
       "word": "He's talking on the telephone.",
       "translation": "Он говорит по телефону.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_9_0",
-      "word": "Tom was always in charge.",
-      "translation": "Том всегда нёс ответственность.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_9_1",
-      "word": "Tom often talks on the phone.",
-      "translation": "Том часто разговаривает по телефону.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_9_2",
-      "word": "Tom has an easy-to-remember phone number.",
-      "translation": "У Тома легко запоминающийся телефон.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_9_3",
-      "word": "Tom handed the phone to Mary.",
-      "translation": "Том протянул телефон Мэри.",
       "language": "en"
     },
     {
@@ -2764,12 +2272,6 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_9_10",
-      "word": "Tom, your phone is ringing.",
-      "translation": "Том, у тебя телефон звонит.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_9_11",
       "word": "Do you like computer games?",
       "translation": "Вы любите компьютерные игры?",
@@ -2788,21 +2290,9 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_9_14",
-      "word": "Mary wrote down her phone number and gave it to Tom.",
-      "translation": "Мэри записала свой номер телефона и дала его Тому.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_9_15",
       "word": "I bought a computer.",
       "translation": "Я купил компьютер.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_9_16",
-      "word": "Tom has a pet mouse.",
-      "translation": "У Тома есть домашняя мышь.",
       "language": "en"
     },
     {
@@ -2824,24 +2314,6 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_9_20",
-      "word": "I suspect that Tom knows Mary's phone number.",
-      "translation": "Подозреваю, что Том знает номер телефона Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_9_21",
-      "word": "I can probably reach Tom by phone right now.",
-      "translation": "Я, вероятно, могу дозвониться до Тома сейчас.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_9_22",
-      "word": "Tom put the phone to his ear.",
-      "translation": "Том приложил телефон к уху.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_9_23",
       "word": "I forgot his phone number.",
       "translation": "Я забыл его номер телефона.",
@@ -2860,18 +2332,6 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_9_26",
-      "word": "Tom made a few phone calls.",
-      "translation": "Том сделал несколько телефонных звонков.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_9_27",
-      "word": "Tom just got off the phone with Mary.",
-      "translation": "Том только что закончил говорить по телефону с Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_9_28",
       "word": "Was that my phone ringing?",
       "translation": "Это мой телефон звонил?",
@@ -2887,12 +2347,6 @@
       "id": "pb_technologyinternet_9_30",
       "word": "\"What's wrong?\" \"My computer just crashed.\"",
       "translation": "\"Что не так?\" — \"Мой компьютер только что аварийно завершил работу\".",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_9_31",
-      "word": "I wonder whether Tom knows Mary's phone number.",
-      "translation": "Интересно, знает ли Том телефон Мэри.",
       "language": "en"
     },
     {
@@ -2920,33 +2374,9 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_9_36",
-      "word": "Tom called Mary, but someone else answered her phone.",
-      "translation": "Том позвонил Мэри, но трубку взял кто-то другой.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_9_37",
-      "word": "Tom shut off his computer.",
-      "translation": "Том выключил свой компьютер.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_9_38",
-      "word": "Tom shouldn't have told Mary his password.",
-      "translation": "Тому не стоило говорить Мэри свой пароль.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_9_39",
       "word": "This is a megaphone.",
       "translation": "Это мегафон.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_9_40",
-      "word": "Tom doesn't have a phone.",
-      "translation": "У Тома нет телефона.",
       "language": "en"
     },
     {
@@ -2956,33 +2386,15 @@
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_9_42",
-      "word": "I suspect Tom knows Mary's phone number.",
-      "translation": "Подозреваю, что Том знает номер телефона Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_9_43",
       "word": "I woke up when the phone rang.",
       "translation": "Я проснулся, когда зазвонил телефон.",
       "language": "en"
     },
     {
-      "id": "pb_technologyinternet_9_44",
-      "word": "Tom left his computer on.",
-      "translation": "Том оставил компьютер включённым.",
-      "language": "en"
-    },
-    {
       "id": "pb_technologyinternet_9_45",
       "word": "We're looking for somebody who can use a computer.",
       "translation": "Мы ищем кого-нибудь, кто умеет пользоваться компьютером.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_9_46",
-      "word": "Tom dropped his phone.",
-      "translation": "Том уронил свой телефон.",
       "language": "en"
     },
     {
@@ -2995,12 +2407,6 @@
       "id": "pb_technologyinternet_9_48",
       "word": "The phone rang.",
       "translation": "Телефон зазвонил.",
-      "language": "en"
-    },
-    {
-      "id": "pb_technologyinternet_9_49",
-      "word": "I gave Tom Mary's phone number.",
-      "translation": "Я дал Тому номер телефона Мэри.",
       "language": "en"
     }
   ]

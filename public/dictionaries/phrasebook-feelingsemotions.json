@@ -1,12 +1,336 @@
 {
   "id": "phrasebook-feelingsemotions",
   "name": "Feelings & Emotions",
-  "description": "Phrasebook for Feelings & Emotions",
+  "description": "Как рассказать о своих чувствах и эмоциях по-английски",
   "entries": [
     {
-      "id": "pb_feelingsemotions_0_0",
-      "word": "Tom and Mary look sad.",
-      "translation": "Том с Мэри выглядели грустно.",
+      "id": "pbq_feelings_0",
+      "word": "How are you feeling?",
+      "translation": "Как вы себя чувствуете?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_1",
+      "word": "I'm fine, thanks.",
+      "translation": "Спасибо, хорошо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_2",
+      "word": "I'm doing great!",
+      "translation": "У меня всё прекрасно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_3",
+      "word": "I'm feeling a bit down today.",
+      "translation": "Сегодня я немного подавлен.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_4",
+      "word": "Not so great, to be honest.",
+      "translation": "Не очень, если честно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_5",
+      "word": "I've had a rough day.",
+      "translation": "У меня был тяжёлый день.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_6",
+      "word": "I'm exhausted.",
+      "translation": "Я совершенно вымотался.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_7",
+      "word": "I’m worn out.",
+      "translation": "Я выбился из сил.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_8",
+      "word": "I'm so happy for you!",
+      "translation": "Я так рад за тебя!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_9",
+      "word": "I'm thrilled!",
+      "translation": "Я в восторге!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_10",
+      "word": "I'm over the moon!",
+      "translation": "Я на седьмом небе от счастья!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_11",
+      "word": "This is a dream come true.",
+      "translation": "Это сбывшаяся мечта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_12",
+      "word": "I couldn’t be happier.",
+      "translation": "Я не мог бы быть счастливее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_13",
+      "word": "I'm really excited about it.",
+      "translation": "Я очень рад этому.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_14",
+      "word": "I can't wait!",
+      "translation": "Жду не дождусь!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_15",
+      "word": "I'm looking forward to it.",
+      "translation": "С нетерпением жду этого.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_16",
+      "word": "I'm nervous about tomorrow.",
+      "translation": "Я нервничаю из-за завтрашнего дня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_17",
+      "word": "I have butterflies in my stomach.",
+      "translation": "У меня мандраж. / У меня мурашки от волнения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_18",
+      "word": "I’m scared stiff.",
+      "translation": "Я застыл от страха.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_19",
+      "word": "It gives me goosebumps.",
+      "translation": "От этого у меня мурашки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_20",
+      "word": "I'm worried sick.",
+      "translation": "Я места себе не нахожу от беспокойства.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_21",
+      "word": "I'm anxious about the results.",
+      "translation": "Я тревожусь из-за результатов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_22",
+      "word": "I'm furious!",
+      "translation": "Я вне себя от ярости!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_23",
+      "word": "I'm fed up with this!",
+      "translation": "Мне это надоело!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_24",
+      "word": "That drives me crazy!",
+      "translation": "Это сводит меня с ума!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_25",
+      "word": "I've had enough!",
+      "translation": "С меня хватит!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_26",
+      "word": "I lost my temper.",
+      "translation": "Я вышел из себя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_27",
+      "word": "I flew off the handle.",
+      "translation": "Я вспыхнул.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_28",
+      "word": "I’m annoyed with him.",
+      "translation": "Он меня раздражает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_29",
+      "word": "He gets on my nerves.",
+      "translation": "Он действует мне на нервы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_30",
+      "word": "I'm upset about what happened.",
+      "translation": "Я расстроен тем, что произошло.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_31",
+      "word": "I'm heartbroken.",
+      "translation": "У меня разбито сердце.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_32",
+      "word": "I feel blue today.",
+      "translation": "Сегодня мне грустно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_33",
+      "word": "I miss you so much.",
+      "translation": "Я так по тебе скучаю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_34",
+      "word": "I miss those days.",
+      "translation": "Скучаю по тем временам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_35",
+      "word": "I'm disappointed in myself.",
+      "translation": "Я разочарован в себе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_36",
+      "word": "What a relief!",
+      "translation": "Какое облегчение!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_37",
+      "word": "I'm so relieved.",
+      "translation": "Я так успокоилась.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_38",
+      "word": "Phew! That was close.",
+      "translation": "Фух! Это было близко.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_39",
+      "word": "I'm ashamed of myself.",
+      "translation": "Мне стыдно за себя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_40",
+      "word": "Shame on you!",
+      "translation": "Как тебе не стыдно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_41",
+      "word": "I'm embarrassed.",
+      "translation": "Мне неловко.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_42",
+      "word": "I felt like a fool.",
+      "translation": "Я чувствовал себя глупцом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_43",
+      "word": "I’m jealous, but in a good way.",
+      "translation": "Я завидую, но по-доброму.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_44",
+      "word": "Envy of your neighbors is pointless.",
+      "translation": "Завидовать соседям бессмысленно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_45",
+      "word": "I feel lonely sometimes.",
+      "translation": "Иногда мне одиноко.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_46",
+      "word": "Cheer up!",
+      "translation": "Не унывай!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_47",
+      "word": "Come on, cheer up!",
+      "translation": "Да ладно, повеселее!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_48",
+      "word": "Things will get better.",
+      "translation": "Всё наладится.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_49",
+      "word": "Every cloud has a silver lining.",
+      "translation": "Нет худа без добра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_50",
+      "word": "Look on the bright side.",
+      "translation": "Смотри на вещи позитивнее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_51",
+      "word": "Don't beat yourself up.",
+      "translation": "Не кори себя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_52",
+      "word": "Pull yourself together!",
+      "translation": "Возьми себя в руки!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_53",
+      "word": "Get a grip!",
+      "translation": "Соберись!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_54",
+      "word": "Take a deep breath.",
+      "translation": "Сделай глубокий вдох.",
       "language": "en"
     },
     {
@@ -19,12 +343,6 @@
       "id": "pb_feelingsemotions_0_2",
       "word": "I think everybody's tired.",
       "translation": "Думаю, все устали.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_0_3",
-      "word": "Tom got Mary to laugh.",
-      "translation": "Том рассмешил Мэри.",
       "language": "en"
     },
     {
@@ -58,21 +376,9 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_0_9",
-      "word": "Tom was quite happy.",
-      "translation": "Том был вполне счастлив.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_0_10",
       "word": "I think he was angry.",
       "translation": "Я думаю, он был сердит.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_0_11",
-      "word": "I know Tom is very angry.",
-      "translation": "Я знаю, что Том очень зол.",
       "language": "en"
     },
     {
@@ -106,18 +412,6 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_0_17",
-      "word": "Tom started to laugh.",
-      "translation": "Том засмеялся.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_0_18",
-      "word": "Tom is a little nervous.",
-      "translation": "Том немного нервничает.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_0_19",
       "word": "They said they're tired.",
       "translation": "Они сказали, что устали.",
@@ -127,12 +421,6 @@
       "id": "pb_feelingsemotions_0_20",
       "word": "I'm tired of translating.",
       "translation": "Я устал от переводов.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_0_21",
-      "word": "Tom and Mary were scared.",
-      "translation": "Том и Мэри были напуганы.",
       "language": "en"
     },
     {
@@ -148,12 +436,6 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_0_24",
-      "word": "Nobody is scared of Tom.",
-      "translation": "Тома никто не боится.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_0_25",
       "word": "The news made him happy.",
       "translation": "Он обрадовался новостям.",
@@ -163,12 +445,6 @@
       "id": "pb_feelingsemotions_0_26",
       "word": "I don't feel any pressure.",
       "translation": "Я не чувствую никакого давления.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_0_27",
-      "word": "I saw how happy Tom was.",
-      "translation": "Я видел, как счастлив Том.",
       "language": "en"
     },
     {
@@ -187,12 +463,6 @@
       "id": "pb_feelingsemotions_0_30",
       "word": "I don't feel like eating.",
       "translation": "Мне не хочется есть.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_0_31",
-      "word": "Tom began to feel uneasy.",
-      "translation": "Тому стало не по себе.",
       "language": "en"
     },
     {
@@ -226,24 +496,6 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_0_37",
-      "word": "My answer surprised Tom.",
-      "translation": "Мой ответ удивил Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_0_38",
-      "word": "Tom really makes me angry.",
-      "translation": "Том меня по-настоящему злит.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_0_39",
-      "word": "Tom got so angry.",
-      "translation": "Том так разозлился.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_0_40",
       "word": "It seems that he's happy.",
       "translation": "Кажется, он счастлив.",
@@ -259,12 +511,6 @@
       "id": "pb_feelingsemotions_0_42",
       "word": "I hope everyone is happy.",
       "translation": "Надеюсь, все счастливы.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_0_43",
-      "word": "I think that Tom will cry.",
-      "translation": "Думаю, Том заплачет.",
       "language": "en"
     },
     {
@@ -286,12 +532,6 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_0_47",
-      "word": "Tom and Mary look bored.",
-      "translation": "Тому с Мэри, похоже, скучают.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_0_48",
       "word": "I can't forget her smile.",
       "translation": "Я не могу забыть её улыбку.",
@@ -307,18 +547,6 @@
       "id": "pb_feelingsemotions_1_0",
       "word": "I miss your smile.",
       "translation": "Мне не хватает твоей улыбки.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_1_1",
-      "word": "Tom is going to be angry.",
-      "translation": "Том рассердится.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_1_2",
-      "word": "Do you think Tom is happy?",
-      "translation": "Думаешь, Том счастлив?",
       "language": "en"
     },
     {
@@ -364,12 +592,6 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_1_10",
-      "word": "I know that Tom is happy.",
-      "translation": "Я знаю, что Том счастлив.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_1_11",
       "word": "I'm not scared of dying.",
       "translation": "Меня смерть не пугает.",
@@ -391,12 +613,6 @@
       "id": "pb_feelingsemotions_1_14",
       "word": "I was happy there.",
       "translation": "Я был там счастлив.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_1_15",
-      "word": "What's Tom scared of?",
-      "translation": "Чего боится Том?",
       "language": "en"
     },
     {
@@ -448,12 +664,6 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_1_24",
-      "word": "I thought Tom was bored.",
-      "translation": "Я думал, Тому скучно.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_1_25",
       "word": "I'm tired already.",
       "translation": "Я уже устал.",
@@ -496,12 +706,6 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_1_32",
-      "word": "Tom wasn't a bit scared.",
-      "translation": "Тому было совсем не страшно.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_1_33",
       "word": "Big girls don't cry.",
       "translation": "Большие девочки не плачут.",
@@ -511,30 +715,6 @@
       "id": "pb_feelingsemotions_1_34",
       "word": "I'm not really happy.",
       "translation": "Я не очень счастлив.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_1_35",
-      "word": "I'm happy that Tom did it.",
-      "translation": "Я рад, что Том это сделал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_1_36",
-      "word": "I made Tom angry.",
-      "translation": "Я разозлил Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_1_37",
-      "word": "I doubt Tom will cry.",
-      "translation": "Сомневаюсь, что Том будет плакать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_1_38",
-      "word": "Tom says he's happy.",
-      "translation": "Том говорит, что счастлив.",
       "language": "en"
     },
     {
@@ -556,21 +736,9 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_1_42",
-      "word": "Tom is a happy man.",
-      "translation": "Том — счастливый человек.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_1_43",
       "word": "How dare you laugh at me!",
       "translation": "Как ты смеешь надо мной смеяться?",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_1_44",
-      "word": "I thought Tom had retired.",
-      "translation": "Я думал, Том вышел на пенсию.",
       "language": "en"
     },
     {
@@ -583,12 +751,6 @@
       "id": "pb_feelingsemotions_1_46",
       "word": "I feel very guilty.",
       "translation": "Я чувствую себя очень виноватым.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_1_47",
-      "word": "Did you see Tom laugh?",
-      "translation": "Ты видел, как Том смеётся?",
       "language": "en"
     },
     {
@@ -613,18 +775,6 @@
       "id": "pb_feelingsemotions_2_1",
       "word": "I'm happy to hear it.",
       "translation": "Я рад это слышать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_2_2",
-      "word": "Tom was angry with Mary.",
-      "translation": "Том был зол на Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_2_3",
-      "word": "Tom gave Mary a big smile.",
-      "translation": "Том широко улыбнулся Мэри.",
       "language": "en"
     },
     {
@@ -658,39 +808,9 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_2_9",
-      "word": "Tom is a little tired.",
-      "translation": "Том подустал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_2_10",
-      "word": "Tom was too scared to yell.",
-      "translation": "Фома был слишком напуган, чтобы кричать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_2_11",
-      "word": "I thought Tom was retired.",
-      "translation": "Я думал, Том на пенсии.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_2_12",
-      "word": "I didn't know Tom was tired.",
-      "translation": "Я не знал, что Том устал.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_2_13",
       "word": "I don't feel the same way you do.",
       "translation": "Я не чувствую то же самое, что ты.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_2_14",
-      "word": "I've never seen Tom smile.",
-      "translation": "Я никогда не видел, чтобы Том улыбался.",
       "language": "en"
     },
     {
@@ -718,12 +838,6 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_2_19",
-      "word": "Tom seemed surprised to see me.",
-      "translation": "Том, кажется, удивился, когда меня увидел.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_2_20",
       "word": "I'm sad that you're leaving.",
       "translation": "Мне грустно, что ты уходишь.",
@@ -748,45 +862,9 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_2_24",
-      "word": "Does Tom ever laugh?",
-      "translation": "Том когда-нибудь смеётся?",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_2_25",
       "word": "I just want you to be happy.",
       "translation": "Я лишь хочу, чтобы ты был счастлив.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_2_26",
-      "word": "Tom wasn't surprised to see us.",
-      "translation": "Том не удивился, увидев нас.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_2_27",
-      "word": "Tom is scared of Mary.",
-      "translation": "Том боится Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_2_28",
-      "word": "I knew Tom wouldn't be surprised.",
-      "translation": "Я знал, что Том не будет удивлён.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_2_29",
-      "word": "Tom didn't feel the earthquake.",
-      "translation": "Том не почувствовал землетрясения.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_2_30",
-      "word": "Tom thought that Mary wouldn't cry.",
-      "translation": "Том думал, что Мэри не будет плакать.",
       "language": "en"
     },
     {
@@ -799,18 +877,6 @@
       "id": "pb_feelingsemotions_2_32",
       "word": "I'm too tired to go on.",
       "translation": "Я слишком устал, чтобы продолжать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_2_33",
-      "word": "How did Tom feel about that?",
-      "translation": "Как Том воспринял это?",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_2_34",
-      "word": "I'm sure Tom won't be tired.",
-      "translation": "Я уверен, что Том не устанет.",
       "language": "en"
     },
     {
@@ -832,30 +898,6 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_2_38",
-      "word": "Tom told me that he wasn't tired.",
-      "translation": "Том сказал мне, что не устал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_2_39",
-      "word": "Tom won't make you happy.",
-      "translation": "Том не сделает тебя счастливой.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_2_40",
-      "word": "Tom looks like he's about to cry.",
-      "translation": "Том выглядит так, будто вот-вот заплачет.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_2_41",
-      "word": "I'm really happy for Tom.",
-      "translation": "Я очень рад за Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_2_42",
       "word": "She does look tired.",
       "translation": "Она действительно выглядит усталой.",
@@ -865,18 +907,6 @@
       "id": "pb_feelingsemotions_2_43",
       "word": "I'm not in the least surprised.",
       "translation": "Я ни в коей мере не удивлён.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_2_44",
-      "word": "Do you think Tom is angry?",
-      "translation": "Думаешь, Том злится?",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_2_45",
-      "word": "I'd be happy to do that for Tom.",
-      "translation": "Я бы с радостью сделал это для Тома.",
       "language": "en"
     },
     {
@@ -895,12 +925,6 @@
       "id": "pb_feelingsemotions_2_48",
       "word": "Why was everyone so surprised?",
       "translation": "Почему все так удивились?",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_2_49",
-      "word": "What's Tom like when he's angry?",
-      "translation": "Когда Том злится, какой он?",
       "language": "en"
     },
     {
@@ -946,57 +970,15 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_3_7",
-      "word": "Tom is excited about something.",
-      "translation": "Том чем-то взволнован.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_3_8",
-      "word": "Tom gave Mary a surprised look.",
-      "translation": "Том одарил Мэри удивленным взглядом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_3_9",
-      "word": "I knew that Tom would laugh.",
-      "translation": "Я знал, что Том будет смеяться.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_3_10",
       "word": "I assumed you were happy.",
       "translation": "Я считал, что ты счастлива.",
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_3_11",
-      "word": "Act surprised when Tom tells you.",
-      "translation": "Когда Том тебе скажет, сделай вид, что удивлён.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_3_12",
       "word": "People are starting to get bored.",
       "translation": "Народ заскучал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_3_13",
-      "word": "Tom looks like he's tired.",
-      "translation": "Том какой-то уставший.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_3_14",
-      "word": "I told Tom that I was tired.",
-      "translation": "Я сказал Тому, что устал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_3_15",
-      "word": "I should tell Tom I'm tired.",
-      "translation": "Мне надо сказать Тому, что я устала.",
       "language": "en"
     },
     {
@@ -1012,27 +994,9 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_3_18",
-      "word": "Tom told me that he felt tired.",
-      "translation": "Том сказал мне, что устал.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_3_19",
       "word": "I'm tired of watching TV.",
       "translation": "Я устал смотреть телевизор.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_3_20",
-      "word": "I'm sure Tom was happy.",
-      "translation": "Я уверен, что Том был счастлив.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_3_21",
-      "word": "I'm not angry with Tom.",
-      "translation": "Я не сержусь на Тома.",
       "language": "en"
     },
     {
@@ -1042,45 +1006,9 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_3_23",
-      "word": "Tom knows that Mary didn't cry.",
-      "translation": "Том знает, что Мэри не плакала.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_3_24",
-      "word": "Tom isn't angry with me, is he?",
-      "translation": "Том ведь на меня не злится?",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_3_25",
-      "word": "Tom said you were happy.",
-      "translation": "Том сказал, что ты счастлив.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_3_26",
       "word": "I knew you'd be tired.",
       "translation": "Я знал, что ты устанешь.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_3_27",
-      "word": "Tom usually doesn't cry.",
-      "translation": "Том обычно не плачет.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_3_28",
-      "word": "Tom will make you happy.",
-      "translation": "С Томом ты будешь счастлива.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_3_29",
-      "word": "Tom is angry at Mary, isn't he?",
-      "translation": "Том ведь сердится на Мэри?",
       "language": "en"
     },
     {
@@ -1099,18 +1027,6 @@
       "id": "pb_feelingsemotions_3_32",
       "word": "I'm too tired to drive.",
       "translation": "Я слишком устал, чтобы вести машину.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_3_33",
-      "word": "Tom seemed sad.",
-      "translation": "Том казался грустным.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_3_34",
-      "word": "I could see Tom was tired.",
-      "translation": "Я видел, что Том устал.",
       "language": "en"
     },
     {
@@ -1162,27 +1078,9 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_3_43",
-      "word": "I think Tom is about to cry.",
-      "translation": "По-моему, Том сейчас заплачет.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_3_44",
-      "word": "I didn't know Tom was bored.",
-      "translation": "Я не знал, что Тому скучно.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_3_45",
       "word": "It looks like you're scared.",
       "translation": "Ты, похоже, напуган.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_3_46",
-      "word": "Tom's reply surprised Mary.",
-      "translation": "Ответ Тома удивил Мэри.",
       "language": "en"
     },
     {
@@ -1219,18 +1117,6 @@
       "id": "pb_feelingsemotions_4_2",
       "word": "I feel very happy.",
       "translation": "Я чувствую себя очень счастливым.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_4_3",
-      "word": "Aren't you surprised Tom did that?",
-      "translation": "Ты не удивлён, что Том это сделал?",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_4_4",
-      "word": "Tom said that I looked tired.",
-      "translation": "Том сказал, что я выгляжу уставшим.",
       "language": "en"
     },
     {
@@ -1276,18 +1162,6 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_4_12",
-      "word": "Tom got very angry.",
-      "translation": "Том очень рассердился.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_4_13",
-      "word": "Tom wasn't very excited about it.",
-      "translation": "Том был от этого не в большом восторге.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_4_14",
       "word": "You don't smile very often.",
       "translation": "Ты не очень часто улыбаешься.",
@@ -1306,45 +1180,9 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_4_17",
-      "word": "Tom seemed very nervous.",
-      "translation": "Казалось, Том сильно нервничает.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_4_18",
-      "word": "Tom admitted that he was tired.",
-      "translation": "Том признал, что он устал.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_4_19",
       "word": "He often makes people angry.",
       "translation": "Он часто злит людей.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_4_20",
-      "word": "Tom was obviously happy.",
-      "translation": "Фома был явно доволен.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_4_21",
-      "word": "I got Tom to smile.",
-      "translation": "Мне удалось вызвать у Тома улыбку.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_4_22",
-      "word": "I like Tom's laugh.",
-      "translation": "Мне нравится, как Том смеётся.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_4_23",
-      "word": "Tom was obviously nervous.",
-      "translation": "Том явно нервничал.",
       "language": "en"
     },
     {
@@ -1354,51 +1192,9 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_4_25",
-      "word": "Tom didn't seem to be nervous.",
-      "translation": "Том вроде не нервничал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_4_26",
-      "word": "Tom said that he was surprised.",
-      "translation": "Том сказал, что удивлён.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_4_27",
       "word": "What he said made us angry.",
       "translation": "То, что он сказал, нас разозлило.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_4_28",
-      "word": "Tom wanted to see Mary happy.",
-      "translation": "Том хотел видеть Мэри счастливой.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_4_29",
-      "word": "Tom said that Mary is nervous.",
-      "translation": "Том сказал, что Мэри взволнована.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_4_30",
-      "word": "I tried to get Tom to laugh.",
-      "translation": "Я старался рассмешить Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_4_31",
-      "word": "I'm not certain Tom is happy.",
-      "translation": "Я не уверена, что Том счастлив.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_4_32",
-      "word": "Are you angry at Tom?",
-      "translation": "Ты злишься на Тома?",
       "language": "en"
     },
     {
@@ -1414,12 +1210,6 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_4_35",
-      "word": "Tom said that he felt tired.",
-      "translation": "Том сказал, что чувствует себя уставшим.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_4_36",
       "word": "That made me laugh.",
       "translation": "Это меня рассмешило.",
@@ -1432,21 +1222,9 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_4_38",
-      "word": "Tom didn't get angry with Mary.",
-      "translation": "Том не разозлился на Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_4_39",
       "word": "I feel good.",
       "translation": "Я чувствую себя хорошо.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_4_40",
-      "word": "Tom is really happy.",
-      "translation": "Том очень рад.",
       "language": "en"
     },
     {
@@ -1468,21 +1246,9 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_4_44",
-      "word": "I was as surprised as Tom was.",
-      "translation": "Я был так же удивлён, как и Том.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_4_45",
       "word": "I'm way too tired.",
       "translation": "Я слишком устал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_4_46",
-      "word": "Tom was, of course, very tired.",
-      "translation": "Том был, конечно, очень уставшим.",
       "language": "en"
     },
     {
@@ -1498,45 +1264,15 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_4_49",
-      "word": "Tom is still scared.",
-      "translation": "Том до сих пор напуган.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_5_0",
-      "word": "Tom told Mary he was tired.",
-      "translation": "Том сказал Мэри, что устал.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_5_1",
       "word": "Don't be angry with me.",
       "translation": "Не сердись на меня.",
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_5_2",
-      "word": "Tom thought Mary was surprised.",
-      "translation": "Том подумал, что Мэри удивлена.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_5_3",
-      "word": "Tom tried to muster a smile.",
-      "translation": "Том попытался изобразить на лице подобие улыбки.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_5_4",
       "word": "The boy was tired.",
       "translation": "Мальчик устал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_5_5",
-      "word": "Tom said that he wasn't tired.",
-      "translation": "Том сказал, что не устал.",
       "language": "en"
     },
     {
@@ -1552,12 +1288,6 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_5_8",
-      "word": "I'm tired of reading about Tom.",
-      "translation": "Мне надоело читать про Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_5_9",
       "word": "I don't feel like laughing.",
       "translation": "Мне что-то не смешно.",
@@ -1570,18 +1300,6 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_5_11",
-      "word": "Tom was too tired to do that.",
-      "translation": "Том слишком устал, чтобы этим заниматься.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_5_12",
-      "word": "Tom is happy and so am I.",
-      "translation": "Том счастлив, и я тоже.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_5_13",
       "word": "Try not to cry.",
       "translation": "Постарайся не плакать.",
@@ -1591,18 +1309,6 @@
       "id": "pb_feelingsemotions_5_14",
       "word": "Feel free to use it yourself.",
       "translation": "Не стесняйтесь сами пользоваться этим.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_5_15",
-      "word": "Tom said that Mary was angry.",
-      "translation": "Том сказал, что Мэри злится.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_5_16",
-      "word": "Tom and Mary are really happy.",
-      "translation": "Том и Мэри очень счастливы.",
       "language": "en"
     },
     {
@@ -1666,18 +1372,6 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_5_27",
-      "word": "Tom told me he didn't feel well.",
-      "translation": "Том сказал мне, что нехорошо себя чувствует.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_5_28",
-      "word": "Tom told me Mary was scared.",
-      "translation": "Том сказал мне, что Мэри напугана.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_5_29",
       "word": "I know you want to be happy.",
       "translation": "Я знаю, что ты хочешь быть счастливым.",
@@ -1696,51 +1390,9 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_5_32",
-      "word": "Tom is not happy.",
-      "translation": "Том несчастен.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_5_33",
-      "word": "Tom got scared.",
-      "translation": "Том испугался.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_5_34",
       "word": "They're all happy.",
       "translation": "Они все счастливы.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_5_35",
-      "word": "No one should feel bad for Tom.",
-      "translation": "Никому не стоит жалеть Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_5_36",
-      "word": "Tom and Mary look so happy.",
-      "translation": "Том с Мэри выглядят такими счастливыми.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_5_37",
-      "word": "Tom doesn't often cry.",
-      "translation": "Том нечасто плачет.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_5_38",
-      "word": "Tom realized Mary was tired.",
-      "translation": "Том заметил, что Мэри устала.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_5_39",
-      "word": "I think Tom is scared.",
-      "translation": "Думаю, Том напуган.",
       "language": "en"
     },
     {
@@ -1762,48 +1414,6 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_5_43",
-      "word": "Tom died happy.",
-      "translation": "Том умер счастливым.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_5_44",
-      "word": "Tom is likely to be surprised.",
-      "translation": "Том, наверное, удивится.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_5_45",
-      "word": "Both Tom and Mary were very tired.",
-      "translation": "И Том, и Мэри очень устали.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_5_46",
-      "word": "I was almost as surprised as Tom.",
-      "translation": "Я был почти так же удивлён, как Том.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_5_47",
-      "word": "Tom and Mary were happy together.",
-      "translation": "Том и Мэри были счастливы вместе.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_5_48",
-      "word": "Tom has never seen Mary smile.",
-      "translation": "Том никогда не видел, как Мэри улыбается.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_5_49",
-      "word": "I doubt if Tom will be bored.",
-      "translation": "Сомневаюсь, что Тому будет скучно.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_6_0",
       "word": "I feel dizzy.",
       "translation": "У меня кружится голова.",
@@ -1816,33 +1426,9 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_6_2",
-      "word": "Tom is sad.",
-      "translation": "Том грустный.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_6_3",
-      "word": "Tom thought Mary would cry.",
-      "translation": "Том думал, что Мэри будет плакать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_6_4",
-      "word": "Tom and Mary seem scared.",
-      "translation": "Том и Мэри кажутся напуганными.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_6_5",
       "word": "I don't feel safe here.",
       "translation": "Я не чувствую себя здесь в безопасности.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_6_6",
-      "word": "I hope Tom didn't get bored.",
-      "translation": "Надеюсь, Тому не стало скучно.",
       "language": "en"
     },
     {
@@ -1855,12 +1441,6 @@
       "id": "pb_feelingsemotions_6_8",
       "word": "I'm happy with it.",
       "translation": "Меня это устраивает.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_6_9",
-      "word": "I think Tom was happy.",
-      "translation": "Думаю, Том был счастлив.",
       "language": "en"
     },
     {
@@ -1900,57 +1480,15 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_6_16",
-      "word": "Tom says Mary should be happy.",
-      "translation": "Том говорит, что Мэри должна быть довольна.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_6_17",
-      "word": "Tom said that Mary was tired.",
-      "translation": "Том сказал, что Мэри устала.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_6_18",
       "word": "She wouldn't be happy with him.",
       "translation": "Она не была бы с ним счастлива.",
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_6_19",
-      "word": "Tom will be so happy to see you.",
-      "translation": "Том будет так рад тебя видеть.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_6_20",
-      "word": "Tom knows how to make Mary smile.",
-      "translation": "Том знает, как вызвать у Мэри улыбку.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_6_21",
       "word": "I'm starting to feel guilty.",
       "translation": "Я начинаю чувствовать себя виноватым.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_6_22",
-      "word": "Tom said he was a little tired.",
-      "translation": "Том сказал, что устал немного.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_6_23",
-      "word": "Tom isn't scared of dogs.",
-      "translation": "Том не боится собак.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_6_24",
-      "word": "Tom was nervous and scared.",
-      "translation": "Фома был нервным и напуганным.",
       "language": "en"
     },
     {
@@ -2014,39 +1552,9 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_6_35",
-      "word": "Tom seemed angry.",
-      "translation": "Том казался сердитым.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_6_36",
-      "word": "Tom obviously wasn't happy.",
-      "translation": "Том явно не был счастлив.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_6_37",
-      "word": "Tom said he was extremely tired.",
-      "translation": "Том сказал, что он невероятно устал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_6_38",
-      "word": "Tom often listens to sad songs.",
-      "translation": "Том часто слушает грустные песни.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_6_39",
       "word": "I feel like being alone.",
       "translation": "Мне хочется побыть одному.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_6_40",
-      "word": "As far as I know, Tom is happy.",
-      "translation": "Насколько я знаю, Том счастлив.",
       "language": "en"
     },
     {
@@ -2056,57 +1564,15 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_6_42",
-      "word": "Tom seemed to be happy enough.",
-      "translation": "Том, кажется, был довольно счастлив.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_6_43",
       "word": "I feel really relieved.",
       "translation": "Я чувствую огромное облегчение.",
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_6_44",
-      "word": "Tom said that he didn't cry.",
-      "translation": "Том сказал, что не плачет.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_6_45",
       "word": "I think they're happy.",
       "translation": "Думаю, они счастливы.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_6_46",
-      "word": "Tom isn't scared of spiders.",
-      "translation": "Том не боится пауков.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_6_47",
-      "word": "Tom's smile vanished.",
-      "translation": "Улыбка Тома исчезла.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_6_48",
-      "word": "Tom was surprised to find Mary sitting all alone in the chapel.",
-      "translation": "Том удивился, обнаружив Мэри, сидящую в полном одиночестве в часовне.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_6_49",
-      "word": "Tom and Mary are both happy.",
-      "translation": "Том с Мэри оба счастливы.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_7_0",
-      "word": "Tom thought that Mary was surprised.",
-      "translation": "Том подумал, что Мэри удивлена.",
       "language": "en"
     },
     {
@@ -2122,12 +1588,6 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_7_3",
-      "word": "Tom is surprised.",
-      "translation": "Том удивлён.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_7_4",
       "word": "I'm kind of surprised.",
       "translation": "Я несколько удивлён.",
@@ -2137,12 +1597,6 @@
       "id": "pb_feelingsemotions_7_5",
       "word": "He got bored quickly.",
       "translation": "Ему быстро надоело.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_7_6",
-      "word": "Tom was tired of not doing anything.",
-      "translation": "Том устал от ничегонеделанья.",
       "language": "en"
     },
     {
@@ -2170,33 +1624,9 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_7_11",
-      "word": "What did you do to make Tom cry?",
-      "translation": "Чем ты заставил Тома плакать?",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_7_12",
-      "word": "Tom doesn't doubt that Mary will cry.",
-      "translation": "Том не сомневается, что Мэри будет плакать.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_7_13",
       "word": "I wonder if you're truly happy.",
       "translation": "Хотелось бы знать, действительно ли ты счастлив.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_7_14",
-      "word": "Tom and Mary aren't scared of John.",
-      "translation": "Том и Мэри не боятся Джона.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_7_15",
-      "word": "Tom had no idea how tired Mary was.",
-      "translation": "Том не представлял, насколько Мэри устала.",
       "language": "en"
     },
     {
@@ -2209,24 +1639,6 @@
       "id": "pb_feelingsemotions_7_17",
       "word": "This situation doesn't make me happy.",
       "translation": "Меня не радует эта ситуация.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_7_18",
-      "word": "I'll make Tom cry.",
-      "translation": "Я заставлю Тома плакать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_7_19",
-      "word": "Tom said Mary is very tired.",
-      "translation": "Том сказал, что Мэри очень устала.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_7_20",
-      "word": "We've never seen Tom this angry before.",
-      "translation": "Мы никогда прежде не видели Тома таким злым.",
       "language": "en"
     },
     {
@@ -2248,57 +1660,15 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_7_24",
-      "word": "Tom looked a little surprised.",
-      "translation": "Том выглядел слегка удивлённым.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_7_25",
-      "word": "Tom told me that Mary was tired.",
-      "translation": "Том сказал мне, что Мэри устала.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_7_26",
       "word": "I feel sad.",
       "translation": "Мне грустно.",
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_7_27",
-      "word": "I think that Tom will be surprised.",
-      "translation": "Думаю, Том удивится.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_7_28",
       "word": "That was a very sad story.",
       "translation": "Это была очень грустная история.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_7_29",
-      "word": "Tom told me that Mary wasn't retired.",
-      "translation": "Том сказал мне, что Мэри не на пенсии.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_7_30",
-      "word": "Tom was drunk and angry.",
-      "translation": "Том был пьяный и злой.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_7_31",
-      "word": "That made Tom angry.",
-      "translation": "Это разозлило Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_7_32",
-      "word": "Tom was scared.",
-      "translation": "Том был напуган.",
       "language": "en"
     },
     {
@@ -2311,12 +1681,6 @@
       "id": "pb_feelingsemotions_7_34",
       "word": "I'm not drunk. I'm just really tired.",
       "translation": "Я не пьяный. Я просто очень устал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_7_35",
-      "word": "Tom always seemed happy.",
-      "translation": "Том всегда выглядит счастливым.",
       "language": "en"
     },
     {
@@ -2344,12 +1708,6 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_7_40",
-      "word": "Tom just wanted Mary to be happy.",
-      "translation": "Том просто хотел, чтобы Мэри была счастлива.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_7_41",
       "word": "I'm not really that surprised.",
       "translation": "Я не очень-то удивлён.",
@@ -2374,63 +1732,15 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_7_45",
-      "word": "Tom and Mary are very happy.",
-      "translation": "Том и Мэри очень счастливы.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_7_46",
-      "word": "Why didn't Tom laugh?",
-      "translation": "Почему Том не смеялся?",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_7_47",
       "word": "Go ahead and laugh if you want to.",
       "translation": "Можешь смеяться, если хочешь.",
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_7_48",
-      "word": "Tom didn't tell Mary he was tired.",
-      "translation": "Том не сказал Мэри, что устал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_7_49",
-      "word": "Tom is scared of spiders.",
-      "translation": "Том боится пауков.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_8_0",
-      "word": "I know that Tom was tired.",
-      "translation": "Я знаю, что Том устал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_8_1",
-      "word": "I think Tom is pretty angry.",
-      "translation": "Думаю, Том сильно злится.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_8_2",
       "word": "I'm tired of Boston.",
       "translation": "Бостон мне надоел.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_8_3",
-      "word": "I had never seen Tom cry.",
-      "translation": "Я никогда не видел, как Том плачет.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_8_4",
-      "word": "Tom didn't look happy to see Mary.",
-      "translation": "Не похоже было, что Том рад видеть Мэри.",
       "language": "en"
     },
     {
@@ -2458,12 +1768,6 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_8_9",
-      "word": "Tom says he's tired of doing that.",
-      "translation": "Том говорит, что устал это делать.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_8_10",
       "word": "Just promise me you won't get angry.",
       "translation": "Просто пообещай мне, что не рассердишься.",
@@ -2473,12 +1777,6 @@
       "id": "pb_feelingsemotions_8_11",
       "word": "I didn't actually cry.",
       "translation": "Я, вообще-то, не плакал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_8_12",
-      "word": "Tom is scared of Mary, isn't he?",
-      "translation": "Том ведь боится Мэри?",
       "language": "en"
     },
     {
@@ -2494,27 +1792,9 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_8_15",
-      "word": "That surprised Tom.",
-      "translation": "Это удивило Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_8_16",
-      "word": "Tom has no reason to cry.",
-      "translation": "У Тома нет причин плакать.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_8_17",
       "word": "I feel like eating something.",
       "translation": "Я бы чего-нибудь съел.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_8_18",
-      "word": "Tom always looks sad.",
-      "translation": "Том всегда какой-то грустный.",
       "language": "en"
     },
     {
@@ -2530,12 +1810,6 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_8_21",
-      "word": "Tom was the first one to laugh.",
-      "translation": "Том рассмеялся первым.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_8_22",
       "word": "Don't get excited.",
       "translation": "Не кипятись.",
@@ -2548,12 +1822,6 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_8_24",
-      "word": "Tom said that he didn't feel well.",
-      "translation": "Том сказал, что не очень хорошо себя чувствует.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_8_25",
       "word": "She was tired but decided on walking.",
       "translation": "Она устала, но решила идти.",
@@ -2563,18 +1831,6 @@
       "id": "pb_feelingsemotions_8_26",
       "word": "I felt very tired.",
       "translation": "Я почувствовал себя очень уставшим.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_8_27",
-      "word": "Tom told me he's tired.",
-      "translation": "Том сказал мне, что устал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_8_28",
-      "word": "Tom was too tired to keep working.",
-      "translation": "Том слишком устал, чтобы продолжать работу.",
       "language": "en"
     },
     {
@@ -2596,45 +1852,15 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_8_32",
-      "word": "Tom was, of course, happy.",
-      "translation": "Том был, конечно, счастлив.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_8_33",
-      "word": "Tom got angry with me.",
-      "translation": "Том на меня рассердился.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_8_34",
       "word": "I thought you were happy.",
       "translation": "Я думал, ты счастлив.",
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_8_35",
-      "word": "I knew that Tom was scared.",
-      "translation": "Я знал, что Том напуган.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_8_36",
       "word": "Aren't you surprised to see me here?",
       "translation": "Ты не удивился, увидев меня здесь?",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_8_37",
-      "word": "Tom gave Mary a mischievous smile.",
-      "translation": "Том улыбнулся Мэри озорной улыбкой.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_8_38",
-      "word": "Tom promised Mary he wouldn't cry.",
-      "translation": "Том обещал Мэри, что не будет плакать.",
       "language": "en"
     },
     {
@@ -2650,12 +1876,6 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_8_41",
-      "word": "Tom doesn't smile so much anymore.",
-      "translation": "Том уже не так часто улыбается.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_8_42",
       "word": "I got angry.",
       "translation": "Я разозлился.",
@@ -2668,27 +1888,9 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_8_44",
-      "word": "I'm sure Tom is happy.",
-      "translation": "Я уверен, что Том счастлив.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_8_45",
-      "word": "I could tell Tom was tired.",
-      "translation": "Я видел, что Том устал.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_8_46",
       "word": "I'm not tired yet.",
       "translation": "Я ещё не устал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_8_47",
-      "word": "Tom had a sad expression on his face.",
-      "translation": "У Тома было грустное выражение лица.",
       "language": "en"
     },
     {
@@ -2734,12 +1936,6 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_9_5",
-      "word": "Tom was clearly not happy to see me.",
-      "translation": "Том явно не рад был меня видеть.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_9_6",
       "word": "We all want to be happy.",
       "translation": "Все мы хотим быть счастливыми.",
@@ -2749,12 +1945,6 @@
       "id": "pb_feelingsemotions_9_7",
       "word": "I think I heard a baby's cry.",
       "translation": "Мне кажется, я слышал детский плач.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_9_8",
-      "word": "Tom got really scared.",
-      "translation": "Том здорово перепугался.",
       "language": "en"
     },
     {
@@ -2770,27 +1960,9 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_9_11",
-      "word": "Tom doesn't look nervous.",
-      "translation": "Не похоже, что Том нервничает.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_9_12",
-      "word": "Tom knew that I wouldn't laugh.",
-      "translation": "Том знал, что я не буду смеяться.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_9_13",
       "word": "I'm tired of this monotonous life.",
       "translation": "Я устала от этой однообразной жизни.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_9_14",
-      "word": "I think Tom will be bored.",
-      "translation": "Я думаю, Тому будет скучно.",
       "language": "en"
     },
     {
@@ -2803,18 +1975,6 @@
       "id": "pb_feelingsemotions_9_16",
       "word": "I feel guilty enough already.",
       "translation": "Я и так чувствую себя виноватым.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_9_17",
-      "word": "Tom asked me why Mary was so sad.",
-      "translation": "Том спросил меня, почему Мэри такая грустная.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_9_18",
-      "word": "I'm tired of Tom's complaining.",
-      "translation": "Мне надоели жалобы Тома.",
       "language": "en"
     },
     {
@@ -2842,21 +2002,9 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_9_23",
-      "word": "Tom seems really happy.",
-      "translation": "Том выглядит очень счастливым.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_9_24",
       "word": "She looked sad.",
       "translation": "Она выглядела грустной.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_9_25",
-      "word": "Tom knew that Mary wouldn't cry.",
-      "translation": "Том знал, что Мэри не будет плакать.",
       "language": "en"
     },
     {
@@ -2878,12 +2026,6 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_9_29",
-      "word": "Tom didn't feel safe in Boston.",
-      "translation": "Том не чувствовал себя в Бостоне в безопасности.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_9_30",
       "word": "I said I was tired.",
       "translation": "Я сказал, что я устал.",
@@ -2902,12 +2044,6 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_9_33",
-      "word": "Tom must be very tired.",
-      "translation": "Том, наверное, очень устал.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_9_34",
       "word": "They were surprised by what they saw.",
       "translation": "Они были удивлены тем, что увидели.",
@@ -2920,18 +2056,6 @@
       "language": "en"
     },
     {
-      "id": "pb_feelingsemotions_9_36",
-      "word": "Tom was more than happy.",
-      "translation": "Том был более чем счастлив.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_9_37",
-      "word": "Tom was scared stiff.",
-      "translation": "Том был до смерти напуган.",
-      "language": "en"
-    },
-    {
       "id": "pb_feelingsemotions_9_38",
       "word": "Are you retired?",
       "translation": "Ты на пенсии?",
@@ -2941,12 +2065,6 @@
       "id": "pb_feelingsemotions_9_39",
       "word": "The girl greeted me with a smile.",
       "translation": "Девушка поприветствовала меня улыбкой.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_9_40",
-      "word": "Tom is going to be happy.",
-      "translation": "Том будет счастлив.",
       "language": "en"
     },
     {
@@ -2971,18 +2089,6 @@
       "id": "pb_feelingsemotions_9_44",
       "word": "He's very angry with her.",
       "translation": "Он очень зол на неё.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_9_45",
-      "word": "Tom suddenly got very angry.",
-      "translation": "Том вдруг ужасно разозлился.",
-      "language": "en"
-    },
-    {
-      "id": "pb_feelingsemotions_9_46",
-      "word": "Tom scared the wolves away.",
-      "translation": "Том отогнал волков.",
       "language": "en"
     },
     {

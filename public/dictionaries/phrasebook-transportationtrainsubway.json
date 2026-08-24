@@ -1,8 +1,242 @@
 {
   "id": "phrasebook-transportationtrainsubway",
   "name": "Transportation: Train & Subway",
-  "description": "Phrasebook for Transportation: Train & Subway",
+  "description": "Поезда и метро — билеты, платформы, расписание, пересадки",
   "entries": [
+    {
+      "id": "pbq_trainmetro_0",
+      "word": "A ticket to Manchester, please.",
+      "translation": "Один билет до Манчестера, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_1",
+      "word": "One return ticket, please.",
+      "translation": "Один билет туда и обратно, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_2",
+      "word": "Single or return?",
+      "translation": "В один конец или туда-обратно?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_3",
+      "word": "Return, please.",
+      "translation": "Туда и обратно, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_4",
+      "word": "First or second class?",
+      "translation": "Первый или второй класс?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_5",
+      "word": "Second class is fine.",
+      "translation": "Второй класс подойдет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_6",
+      "word": "Window seat, please.",
+      "translation": "Место у окна, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_7",
+      "word": "Is this train direct?",
+      "translation": "Это прямой поезд?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_8",
+      "word": "Do I need to change trains?",
+      "translation": "Нужна ли пересадка?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_9",
+      "word": "You need to change at York.",
+      "translation": "Вам нужна пересадка в Йорке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_10",
+      "word": "Which platform does the train leave from?",
+      "translation": "С какой платформы отходит поезд?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_11",
+      "word": "The train leaves from platform three.",
+      "translation": "Поезд отходит с третьей платформы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_12",
+      "word": "When does the next train arrive?",
+      "translation": "Когда прибывает следующий поезд?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_13",
+      "word": "The train is delayed by ten minutes.",
+      "translation": "Поезд задерживается на десять минут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_14",
+      "word": "The train has been cancelled.",
+      "translation": "Поезд отменён.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_15",
+      "word": "Is this train going to the airport?",
+      "translation": "Этот поезд идёт в аэропорт?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_16",
+      "word": "Does this train stop at Oxford?",
+      "translation": "Этот поезд останавливается в Оксфорде?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_17",
+      "word": "How long does the journey take?",
+      "translation": "Сколько длится поездка?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_18",
+      "word": "About two and a half hours.",
+      "translation": "Около двух с половиной часов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_19",
+      "word": "Where is the ticket office?",
+      "translation": "Где билетная касса?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_20",
+      "word": "Where can I buy a metro card?",
+      "translation": "Где можно купить карту метро?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_21",
+      "word": "How much is a day pass?",
+      "translation": "Сколько стоит проездной на день?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_22",
+      "word": "Top up my travel card, please.",
+      "translation": "Пополните мою транспортную карту, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_23",
+      "word": "Which line goes to the city center?",
+      "translation": "Какая линия идёт в центр города?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_24",
+      "word": "Take the red line northbound.",
+      "translation": "Поезжайте по красной линии в северном направлении.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_25",
+      "word": "Change to line two at Central Station.",
+      "translation": "Пересядьте на вторую линию на Центральном вокзале.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_26",
+      "word": "Which exit for the National Museum?",
+      "translation": "Какой выход к Национальному музею?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_27",
+      "word": "Mind the gap!",
+      "translation": "Осторожно, зазор между поездом и платформой!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_28",
+      "word": "Stand behind the yellow line.",
+      "translation": "Стойте за жёлтой линией.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_29",
+      "word": "Let passengers off first.",
+      "translation": "Дайте сначала выйти пассажирам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_30",
+      "word": "Excuse me, what station is this?",
+      "translation": "Извините, какая это станция?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_31",
+      "word": "Announce my station, please.",
+      "translation": "Объявите мою станцию, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_32",
+      "word": "Wake me up when we get to Boston.",
+      "translation": "Разбудите меня, когда мы приедем в Бостон.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_33",
+      "word": "Is there a dining car on this train?",
+      "translation": "В этом поезде есть вагон-ресторан?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_34",
+      "word": "Where is car number seven?",
+      "translation": "Где седьмой вагон?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_35",
+      "word": "This is our carriage.",
+      "translation": "Это наш вагон.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_36",
+      "word": "These are our seats, I believe.",
+      "translation": "Кажется, это наши места.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_37",
+      "word": "I think you’re in my seat.",
+      "translation": "Кажется, вы на моём месте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_38",
+      "word": "Oh sorry, my mistake.",
+      "translation": "Ой, извините, я ошибся.",
+      "language": "en"
+    },
     {
       "id": "pb_transportationtrainsubway_0_0",
       "word": "It took us days to track down the problem.",
@@ -16,12 +250,6 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationtrainsubway_0_2",
-      "word": "Tom asked me to keep track of Mary.",
-      "translation": "Том попросил меня последить за Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationtrainsubway_0_3",
       "word": "We are committed to our country's welfare.",
       "translation": "Мы твёрдо настроены приумножать богатство нашей страны.",
@@ -31,12 +259,6 @@
       "id": "pb_transportationtrainsubway_0_4",
       "word": "Are local trains included on this schedule?",
       "translation": "В этом расписании указаны поезда местного сообщения?",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationtrainsubway_0_5",
-      "word": "Tom doesn't know how to express his feelings.",
-      "translation": "Том не знает, как выразить свои чувства.",
       "language": "en"
     },
     {
@@ -61,12 +283,6 @@
       "id": "pb_transportationtrainsubway_0_9",
       "word": "She was at a loss for words to express her feeling.",
       "translation": "Ей не хватало слов, чтобы выразить свои чувства.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationtrainsubway_0_10",
-      "word": "Tom works at the local supermarket.",
-      "translation": "Том работает в местном супермаркете.",
       "language": "en"
     },
     {
@@ -118,12 +334,6 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationtrainsubway_0_19",
-      "word": "Tom is a local celebrity.",
-      "translation": "Том - местная знаменитость.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationtrainsubway_0_20",
       "word": "He married a local girl.",
       "translation": "Он женился на местной девушке.",
@@ -142,51 +352,15 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationtrainsubway_0_23",
-      "word": "Tom uploaded a video on YouTube.",
-      "translation": "Том загрузил видео на YouTube.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationtrainsubway_0_24",
       "word": "How much is the fare?",
       "translation": "Сколько за проезд?",
       "language": "en"
     },
     {
-      "id": "pb_transportationtrainsubway_0_25",
-      "word": "Tom has gone underground.",
-      "translation": "Том ушёл в подполье.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationtrainsubway_0_26",
-      "word": "Tom became a local celebrity.",
-      "translation": "Том стал местной знаменитостью.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationtrainsubway_0_27",
       "word": "Two passenger ships sank.",
       "translation": "Два пассажирских судна затонули.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationtrainsubway_0_28",
-      "word": "Tom asked how much the fare was.",
-      "translation": "Том спросил, сколько стоит проезд.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationtrainsubway_0_29",
-      "word": "Is Tom local?",
-      "translation": "Том местный?",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationtrainsubway_0_30",
-      "word": "Tom is a world-famous conductor.",
-      "translation": "Том - всемирно известный дирижёр.",
       "language": "en"
     },
     {
@@ -208,18 +382,6 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationtrainsubway_0_34",
-      "word": "Tom lives on welfare.",
-      "translation": "Том живёт на пособие.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationtrainsubway_0_35",
-      "word": "Tom is watching the boob tube.",
-      "translation": "Том смотрит зомбоящик.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationtrainsubway_0_36",
       "word": "This is a cargo ship, not a passenger ship.",
       "translation": "Это грузовое судно, а не пассажирское.",
@@ -232,33 +394,9 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationtrainsubway_0_38",
-      "word": "Tom struggled to express how he felt.",
-      "translation": "Том с трудом пытался выразить свои чувства.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationtrainsubway_0_39",
       "word": "I don't know how to express my gratitude.",
       "translation": "Я не знаю, как выразить свою благодарность.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationtrainsubway_0_40",
-      "word": "Tom built an underground shelter in his backyard.",
-      "translation": "Том построил подземное убежище у себя на заднем дворе.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationtrainsubway_0_41",
-      "word": "Tom didn't know how to express his thanks in French.",
-      "translation": "Том не знал, как выразить свою благодарность по-французски.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationtrainsubway_0_42",
-      "word": "Tom didn't know how to express his feelings.",
-      "translation": "Том не знал, как выразить свои чувства.",
       "language": "en"
     },
     {
@@ -286,12 +424,6 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationtrainsubway_0_47",
-      "word": "Tom married a local girl.",
-      "translation": "Том женился на местной девушке.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationtrainsubway_0_48",
       "word": "Words express thoughts.",
       "translation": "Слова выражают мысли.",
@@ -301,12 +433,6 @@
       "id": "pb_transportationtrainsubway_0_49",
       "word": "Express yourself as clearly as you can.",
       "translation": "Вырази себя как можно более ясно.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationtrainsubway_1_0",
-      "word": "We're trying to track Tom down.",
-      "translation": "Мы пытаемся выследить Тома.",
       "language": "en"
     },
     {

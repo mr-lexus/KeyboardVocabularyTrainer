@@ -1,12 +1,354 @@
 {
   "id": "phrasebook-opinionsarguments",
   "name": "Opinions & Arguments",
-  "description": "Phrasebook for Opinions & Arguments",
+  "description": "Как выразить мнение, согласиться или возразить в живом разговоре",
   "entries": [
     {
-      "id": "pb_opinionsarguments_0_0",
-      "word": "Tom told me I'm right.",
-      "translation": "Том сказал мне, что я прав.",
+      "id": "pbq_opinions_0",
+      "word": "What do you think?",
+      "translation": "Что вы думаете?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_1",
+      "word": "What do you think about it?",
+      "translation": "Что вы об этом думаете?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_2",
+      "word": "What's your opinion on this?",
+      "translation": "Каково ваше мнение по этому поводу?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_3",
+      "word": "In my opinion, it’s a good idea.",
+      "translation": "По моему мнению, это хорошая идея.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_4",
+      "word": "In my view, he’s absolutely right.",
+      "translation": "На мой взгляд, он совершенно прав.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_5",
+      "word": "Personally, I think it’s overrated.",
+      "translation": "Лично я считаю, что это переоценено.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_6",
+      "word": "If you ask me, it’s not worth it.",
+      "translation": "Если хотите знать моё мнение, это того не стоит.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_7",
+      "word": "The way I see it, we have two options.",
+      "translation": "Как я это вижу, у нас два варианта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_8",
+      "word": "As far as I’m concerned, the deal is off.",
+      "translation": "Что касается меня, сделка отменяется.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_9",
+      "word": "It seems to me that you’re right.",
+      "translation": "Мне кажется, что вы правы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_10",
+      "word": "I’d say it depends on the situation.",
+      "translation": "Я бы сказал, это зависит от ситуации.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_11",
+      "word": "To be honest, I don’t like it.",
+      "translation": "Честно говоря, мне это не нравится.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_12",
+      "word": "Frankly speaking, I disagree.",
+      "translation": "Откровенно говоря, я не согласен.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_13",
+      "word": "To be fair, she did warn us.",
+      "translation": "Справедливости ради, она нас предупреждала.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_14",
+      "word": "I totally agree with you.",
+      "translation": "Я полностью с вами согласен.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_15",
+      "word": "I couldn’t agree more.",
+      "translation": "Полностью согласен, не могу не согласиться.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_16",
+      "word": "Absolutely!",
+      "translation": "Абсолютно верно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_17",
+      "word": "Exactly!",
+      "translation": "Именно так!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_18",
+      "word": "That's exactly what I meant.",
+      "translation": "Это именно то, что я имел в виду.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_19",
+      "word": "You're absolutely right.",
+      "translation": "Вы совершенно правы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_20",
+      "word": "Fair enough.",
+      "translation": "Справедливо. / Ладно, убедили.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_21",
+      "word": "Good point.",
+      "translation": "Верное замечание.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_22",
+      "word": "That makes sense.",
+      "translation": "Это логично.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_23",
+      "word": "I see your point, but…",
+      "translation": "Я понимаю вашу мысль, но...",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_24",
+      "word": "I see what you mean, however…",
+      "translation": "Я понимаю, о чём вы, однако...",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_25",
+      "word": "I'm afraid I disagree.",
+      "translation": "Боюсь, я не согласен.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_26",
+      "word": "I don't think so.",
+      "translation": "Я так не думаю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_27",
+      "word": "Not really.",
+      "translation": "Не совсем. / Не особо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_28",
+      "word": "That's not how I see it.",
+      "translation": "Я вижу это иначе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_29",
+      "word": "I beg to differ.",
+      "translation": "Позвольте не согласиться.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_30",
+      "word": "On the contrary.",
+      "translation": "Напротив.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_31",
+      "word": "That’s partly true, but…",
+      "translation": "Отчасти это правда, но...",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_32",
+      "word": "I see it differently.",
+      "translation": "Я смотрю на это иначе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_33",
+      "word": "Well, it depends.",
+      "translation": "Ну, смотря по обстоятельствам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_34",
+      "word": "There are two sides to every story.",
+      "translation": "У всякой истории две стороны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_35",
+      "word": "Let's agree to disagree.",
+      "translation": "Оставим каждый при своём мнении.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_36",
+      "word": "Are you sure about that?",
+      "translation": "Вы уверены в этом?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_37",
+      "word": "Are you serious?",
+      "translation": "Вы серьёзно?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_38",
+      "word": "Really? Why do you say that?",
+      "translation": "Правда? Почему вы так говорите?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_39",
+      "word": "What makes you think so?",
+      "translation": "Почему вы так решили?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_40",
+      "word": "Where did you get that idea?",
+      "translation": "Откуда у вас такая мысль?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_41",
+      "word": "That's ridiculous!",
+      "translation": "Это нелепо!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_42",
+      "word": "You must be joking!",
+      "translation": "Да вы шутите!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_43",
+      "word": "No way!",
+      "translation": "Не может быть!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_44",
+      "word": "I find that hard to believe.",
+      "translation": "Мне трудно в это поверить.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_45",
+      "word": "Believe it or not.",
+      "translation": "Хотите верьте, хотите нет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_46",
+      "word": "As far as I know, yes.",
+      "translation": "Насколько я знаю, да.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_47",
+      "word": "If I’m not mistaken…",
+      "translation": "Если я не ошибаюсь...",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_48",
+      "word": "Correct me if I’m wrong, but…",
+      "translation": "Поправьте меня, если я ошибаюсь, но...",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_49",
+      "word": "From my point of view…",
+      "translation": "С моей точки зрения...",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_50",
+      "word": "Generally speaking, yes.",
+      "translation": "Вообще говоря, да.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_51",
+      "word": "By and large, people are honest.",
+      "translation": "В целом люди честны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_52",
+      "word": "Let's look at it from another angle.",
+      "translation": "Давайте посмотрим на это под другим углом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_53",
+      "word": "On the one hand… on the other hand…",
+      "translation": "С одной стороны... с другой стороны...",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_54",
+      "word": "All things considered, it went well.",
+      "translation": "Учитывая всё, прошло хорошо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_55",
+      "word": "When it comes to money, I'm careful.",
+      "translation": "Когда речь идёт о деньгах, я осторожен.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_56",
+      "word": "Speaking of which…",
+      "translation": "Кстати говоря...",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_57",
+      "word": "That reminds me…",
+      "translation": "Это напоминает мне...",
       "language": "en"
     },
     {
@@ -16,39 +358,9 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_0_2",
-      "word": "I should probably apologize to Tom.",
-      "translation": "Мне, наверное, стоит извиниться перед Томом.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_0_3",
       "word": "I don't agree with either of you.",
       "translation": "Я ни с кем из вас не согласен.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_0_4",
-      "word": "Tom doesn't think Mary is ready.",
-      "translation": "Том не думает, что Мэри готова.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_0_5",
-      "word": "I don't think that Tom is absent.",
-      "translation": "Не думаю, что Тома нет.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_0_6",
-      "word": "Tom didn't try to argue with Mary.",
-      "translation": "Том не пытался спорить с Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_0_7",
-      "word": "I'm sure Tom would agree with me.",
-      "translation": "Я уверен, что Том бы со мной согласился.",
       "language": "en"
     },
     {
@@ -82,24 +394,6 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_0_13",
-      "word": "I think that Tom is still lonely.",
-      "translation": "Я думаю, Том всё ещё одинок.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_0_14",
-      "word": "What makes you think Tom is here?",
-      "translation": "С чего ты взял, что Том здесь?",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_0_15",
-      "word": "Tom's dream eventually came true.",
-      "translation": "Мечта Тома наконец сбылась.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_0_16",
       "word": "You're going in the wrong direction.",
       "translation": "Ты идёшь не в ту сторону.",
@@ -109,12 +403,6 @@
       "id": "pb_opinionsarguments_0_17",
       "word": "I said I'd have to think about it.",
       "translation": "Я сказал, что должен об этом подумать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_0_18",
-      "word": "Half of what Tom says isn't true.",
-      "translation": "Половина из того, что говорит Том, - неправда.",
       "language": "en"
     },
     {
@@ -136,21 +424,9 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_0_22",
-      "word": "I'm not sure that I agree with Tom.",
-      "translation": "Не уверен, что согласен с Томом.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_0_23",
       "word": "Listen, I really can't talk right now.",
       "translation": "Слушай, я правда не могу сейчас говорить.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_0_24",
-      "word": "Tom hasn't told us his opinion yet.",
-      "translation": "Том ещё не поделился с нами своим мнением.",
       "language": "en"
     },
     {
@@ -163,24 +439,6 @@
       "id": "pb_opinionsarguments_0_26",
       "word": "I'm not sure I'd want to live here.",
       "translation": "Я не уверен, что хотел бы жить здесь.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_0_27",
-      "word": "Do you think Tom is going to win?",
-      "translation": "Думаешь, Том выиграет?",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_0_28",
-      "word": "I think Tom would probably disagree with you.",
-      "translation": "Думаю, что Том бы, вероятно, с тобой не согласился.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_0_29",
-      "word": "Do you think that Tom is still in Australia?",
-      "translation": "Думаешь, Том всё ещё в Австралии?",
       "language": "en"
     },
     {
@@ -205,12 +463,6 @@
       "id": "pb_opinionsarguments_0_33",
       "word": "Are you sure there's no solution?",
       "translation": "Ты уверен, что решения не существует?",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_0_34",
-      "word": "I don't think that Tom is going to win.",
-      "translation": "Не думаю, что Том выиграет.",
       "language": "en"
     },
     {
@@ -244,12 +496,6 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_0_40",
-      "word": "I think Tom won't go to Boston with Mary.",
-      "translation": "Я думаю, Том не поедет с Мэри в Бостон.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_0_41",
       "word": "It'll stop snowing soon, I think.",
       "translation": "Снег скоро перестанет, я думаю.",
@@ -259,12 +505,6 @@
       "id": "pb_opinionsarguments_0_42",
       "word": "Are you sure this won't backfire on us?",
       "translation": "Вы уверены, что это не выйдет нам боком?",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_0_43",
-      "word": "Tom says he isn't sure he's ready.",
-      "translation": "Том говорит, что не уверен, что готов.",
       "language": "en"
     },
     {
@@ -280,18 +520,6 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_0_46",
-      "word": "I don't think that Tom can hear us.",
-      "translation": "Не думаю, что Том может нас услышать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_0_47",
-      "word": "I don't think that Tom would agree with you.",
-      "translation": "Не думаю, что Том согласился бы с тобой.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_0_48",
       "word": "I didn't think you'd ever speak to me again.",
       "translation": "Я не думал, что ты со мной ещё когда-нибудь заговоришь.",
@@ -301,12 +529,6 @@
       "id": "pb_opinionsarguments_0_49",
       "word": "You probably want more money, don't you?",
       "translation": "Ты, наверное, хочешь больше денег, да?",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_1_0",
-      "word": "Tom is three years younger than you, right?",
-      "translation": "Том на три года моложе тебя, так?",
       "language": "en"
     },
     {
@@ -322,12 +544,6 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_1_3",
-      "word": "I need to speak with Tom right now.",
-      "translation": "Мне нужно поговорить с Томом прямо сейчас.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_1_4",
       "word": "Did you consider that you might be wrong?",
       "translation": "Вы приняли во внимание, что можете ошибаться?",
@@ -337,12 +553,6 @@
       "id": "pb_opinionsarguments_1_5",
       "word": "I think you two know each other.",
       "translation": "Думаю, вы двое знакомы.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_1_6",
-      "word": "Tom had every right to complain.",
-      "translation": "У Тома были все основания жаловаться.",
       "language": "en"
     },
     {
@@ -358,18 +568,6 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_1_9",
-      "word": "Tom does what he thinks is right.",
-      "translation": "Том делает то, что считает правильным.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_1_10",
-      "word": "Tom was the only one who didn't agree.",
-      "translation": "Только Том был несогласен.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_1_11",
       "word": "We're not as poor as you think we are.",
       "translation": "Мы не такие бедные, как ты думаешь.",
@@ -379,24 +577,6 @@
       "id": "pb_opinionsarguments_1_12",
       "word": "What's wrong with me worrying about you?",
       "translation": "Что плохого в том, что я за тебя беспокоюсь?",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_1_13",
-      "word": "I wanted to make sure Tom was here.",
-      "translation": "Я хотел убедиться, что Том здесь.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_1_14",
-      "word": "Did Tom know what he was doing was wrong?",
-      "translation": "Том знал, что то, что он делал, — неправильно?",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_1_15",
-      "word": "I don't think that I impressed Tom.",
-      "translation": "Не думаю, что я произвёл на Тома впечатление.",
       "language": "en"
     },
     {
@@ -412,18 +592,6 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_1_18",
-      "word": "I think Tom is seeing someone else.",
-      "translation": "Я думаю, Том встречается с кем-то ещё.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_1_19",
-      "word": "Do you think Tom's telling the truth?",
-      "translation": "Ты думаешь, что Том говорит правду?",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_1_20",
       "word": "Don't ask what they think. Ask what they do.",
       "translation": "Не спрашивайте, о чём они думают. Спрашивайте, что они делают.",
@@ -433,12 +601,6 @@
       "id": "pb_opinionsarguments_1_21",
       "word": "I want you to go to Australia right away.",
       "translation": "Я хочу, чтобы ты немедленно поехал в Австралию.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_1_22",
-      "word": "I don't think that Tom wants to see Mary.",
-      "translation": "Я не думаю, что Том хочет видеть Мэри.",
       "language": "en"
     },
     {
@@ -454,27 +616,9 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_1_25",
-      "word": "Tom understands what Mary has in mind.",
-      "translation": "Том понимает, что Мэри имеет в виду.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_1_26",
-      "word": "Tom had no idea why everybody was laughing.",
-      "translation": "Том понятия не имел, почему все смеются.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_1_27",
       "word": "Do you think we'll be able to figure it out?",
       "translation": "Как вы думаете, сможем ли мы с этим разобраться?",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_1_28",
-      "word": "I had no idea Tom and Mary had split up.",
-      "translation": "Я понятия не имел, что Том и Мэри расстались.",
       "language": "en"
     },
     {
@@ -487,24 +631,6 @@
       "id": "pb_opinionsarguments_1_30",
       "word": "Why don't you just admit you're wrong?",
       "translation": "Почему ты просто не признаешь, что ты не прав?",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_1_31",
-      "word": "Tom must've pushed the wrong button.",
-      "translation": "Наверное, Том нажал не на ту кнопку.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_1_32",
-      "word": "Maybe Tom is trying to tell me something.",
-      "translation": "Возможно, Том пытается мне что-то сказать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_1_33",
-      "word": "I don't think that Tom recognized me.",
-      "translation": "Не думаю, что Том меня узнал.",
       "language": "en"
     },
     {
@@ -526,45 +652,15 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_1_37",
-      "word": "How can you be sure Tom's telling the truth?",
-      "translation": "Как ты можешь быть уверен, что Том говорит правду?",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_1_38",
-      "word": "I don't think Tom wants to see me.",
-      "translation": "Не думаю, что Том хочет меня видеть.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_1_39",
       "word": "Are you sure you haven't forgotten anything?",
       "translation": "Вы уверены, что ничего не забыли?",
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_1_40",
-      "word": "I don't think it was Tom and Mary.",
-      "translation": "Не думаю, что это были Том с Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_1_41",
       "word": "I don't think I've seen you before.",
       "translation": "Я не думаю, что раньше видел вас.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_1_42",
-      "word": "I'm not sure what Tom did wrong.",
-      "translation": "Я точно не знаю, что Том сделал не так.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_1_43",
-      "word": "I'm sure Tom will turn up eventually.",
-      "translation": "Я уверен, что Том в конечном счёте объявится.",
       "language": "en"
     },
     {
@@ -583,18 +679,6 @@
       "id": "pb_opinionsarguments_1_46",
       "word": "I'm not sure if it's a male or a female.",
       "translation": "Я не уверен, самец это или самка.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_1_47",
-      "word": "I don't think that Tom is interested.",
-      "translation": "Не думаю, что Тому интересно.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_1_48",
-      "word": "What makes you think Tom will be late?",
-      "translation": "С чего ты взял, что Том опоздает?",
       "language": "en"
     },
     {
@@ -634,39 +718,9 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_2_5",
-      "word": "Tom can't ever admit being wrong.",
-      "translation": "Том никогда не признаёт своих ошибок.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_2_6",
-      "word": "I don't think that Tom is Canadian.",
-      "translation": "Я не думаю, что Том канадец.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_2_7",
       "word": "Everyone is entitled to his own opinion.",
       "translation": "Всякий имеет право на собственное мнение.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_2_8",
-      "word": "I didn't think Tom liked to ski.",
-      "translation": "Я не думал, что Том любит кататься на лыжах.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_2_9",
-      "word": "I don't think Tom needs to do that alone.",
-      "translation": "Не думаю, что Тому нужно делать это в одиночку.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_2_10",
-      "word": "I don't think that Tom sold anything.",
-      "translation": "Не думаю, что Том что-то продал.",
       "language": "en"
     },
     {
@@ -676,33 +730,15 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_2_12",
-      "word": "I think that Tom will go to Boston.",
-      "translation": "Думаю, Том поедет в Бостон.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_2_13",
       "word": "I'm going to tell you what I think.",
       "translation": "Я скажу тебе, что думаю.",
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_2_14",
-      "word": "Tom realized something wasn't right.",
-      "translation": "Том понял, что что-то не так.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_2_15",
       "word": "I don't think that everybody gave up.",
       "translation": "Не думаю, что все сдались.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_2_16",
-      "word": "I don't think that Tom is asleep now.",
-      "translation": "Не думаю, что Том сейчас спит.",
       "language": "en"
     },
     {
@@ -724,33 +760,9 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_2_20",
-      "word": "Maybe you should have a talk with Tom.",
-      "translation": "Может быть, тебе стоит поговорить с Томом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_2_21",
-      "word": "I don't think that Tom was right.",
-      "translation": "Не думаю, что Том был прав.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_2_22",
       "word": "I don't think that you'll be disappointed.",
       "translation": "Не думаю, что ты будешь разочарован.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_2_23",
-      "word": "I don't think that Tom has done that yet.",
-      "translation": "Не думаю, что Том это уже сделал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_2_24",
-      "word": "I didn't think Tom would be so friendly.",
-      "translation": "Я не думал, что Том будет столь дружелюбным.",
       "language": "en"
     },
     {
@@ -760,39 +772,9 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_2_26",
-      "word": "Is it true that Tom and Mary got married?",
-      "translation": "Это правда, что Том и Мэри поженились?",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_2_27",
-      "word": "I think Tom has been trying to impress me.",
-      "translation": "По-моему, Том пытается произвести на меня впечатление.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_2_28",
-      "word": "I'm sure that that wasn't what Tom said.",
-      "translation": "Я уверен, что Том не так сказал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_2_29",
-      "word": "Everything Tom said about Mary was true.",
-      "translation": "Всё, что Том сказал о Мэри, было правдой.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_2_30",
       "word": "We had a slight difference of opinion.",
       "translation": "У нас было лёгкое расхождение во мнении.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_2_31",
-      "word": "Tom knew he had made the right choice.",
-      "translation": "Том знал, что он сделал правильный выбор.",
       "language": "en"
     },
     {
@@ -805,12 +787,6 @@
       "id": "pb_opinionsarguments_2_33",
       "word": "What do you think needs to be changed?",
       "translation": "Что, по твоему мнению, следует изменить?",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_2_34",
-      "word": "I don't think that Tom is old.",
-      "translation": "Я не думаю, что Том старый.",
       "language": "en"
     },
     {
@@ -829,12 +805,6 @@
       "id": "pb_opinionsarguments_2_37",
       "word": "I think I've met you before.",
       "translation": "Думаю, я встречал тебя раньше.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_2_38",
-      "word": "I don't think Tom cares.",
-      "translation": "Не думаю, что Том волнуется.",
       "language": "en"
     },
     {
@@ -862,21 +832,9 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_2_43",
-      "word": "Make sure you tell Tom.",
-      "translation": "Обязательно скажи Тому.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_2_44",
       "word": "In that case, you're right.",
       "translation": "В таком случае вы правы.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_2_45",
-      "word": "I think Tom would be proud.",
-      "translation": "Я думаю, Том бы гордился.",
       "language": "en"
     },
     {
@@ -904,21 +862,9 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_3_0",
-      "word": "Tom is probably about thirty years old.",
-      "translation": "Тому, наверное, около тридцати.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_3_1",
       "word": "I think I heard a man's voice.",
       "translation": "Кажется, я слышал мужской голос.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_3_2",
-      "word": "Tom doesn't think that is a good idea.",
-      "translation": "Том не думает, что это хорошая идея.",
       "language": "en"
     },
     {
@@ -931,18 +877,6 @@
       "id": "pb_opinionsarguments_3_4",
       "word": "I don't think there's any way out of here.",
       "translation": "Не думаю, что отсюда есть выход.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_3_5",
-      "word": "I'm sure Tom will be thrilled.",
-      "translation": "Я уверена: Том будет в восторге.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_3_6",
-      "word": "I think Tom believes everything Mary says.",
-      "translation": "Я думаю, Том верит всему, что говорит Мэри.",
       "language": "en"
     },
     {
@@ -976,21 +910,9 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_3_12",
-      "word": "Do you think that Tom would want to join us?",
-      "translation": "Думаешь, Том захотел бы к нам присоединиться?",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_3_13",
       "word": "Maybe it was you.",
       "translation": "Возможно, это был ты.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_3_14",
-      "word": "I think Tom is harmless.",
-      "translation": "Мне кажется, Том безобиден.",
       "language": "en"
     },
     {
@@ -1000,21 +922,9 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_3_16",
-      "word": "Do you think that Tom was telling the truth?",
-      "translation": "Думаешь, Том говорил правду?",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_3_17",
       "word": "I don't think it's going to be that simple.",
       "translation": "Не думаю, что это будет так просто.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_3_18",
-      "word": "I think Tom isn't in Boston now.",
-      "translation": "Думаю, Тома сейчас нет в Бостоне.",
       "language": "en"
     },
     {
@@ -1039,18 +949,6 @@
       "id": "pb_opinionsarguments_3_22",
       "word": "To tell you the truth, I have no idea.",
       "translation": "Честно говоря, понятия не имею.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_3_23",
-      "word": "I don't think Tom is trying hard enough.",
-      "translation": "Не думаю, что Том достаточно старается.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_3_24",
-      "word": "I don't think Tom knows where Mary has gone.",
-      "translation": "Не думаю, что Том знает, куда Мэри пошла.",
       "language": "en"
     },
     {
@@ -1102,33 +1000,9 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_3_33",
-      "word": "I think Tom is free.",
-      "translation": "Я думаю, Том свободен.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_3_34",
-      "word": "Maybe we should talk to Tom again.",
-      "translation": "Может быть, нам стоит ещё раз поговорить с Томом.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_3_35",
       "word": "I think you've missed the point.",
       "translation": "Кажется, ты не понял мысли.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_3_36",
-      "word": "I think Tom is gone.",
-      "translation": "По-моему, Том уехал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_3_37",
-      "word": "I think Tom will win.",
-      "translation": "Думаю, Том выиграет.",
       "language": "en"
     },
     {
@@ -1144,21 +1018,9 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_3_40",
-      "word": "Tom is probably somewhere in the park.",
-      "translation": "Том, наверное, где-то в парке.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_3_41",
       "word": "I don't think about you.",
       "translation": "Я не думаю о тебе.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_3_42",
-      "word": "Perhaps Tom will leave.",
-      "translation": "Возможно, Том уедет.",
       "language": "en"
     },
     {
@@ -1186,12 +1048,6 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_3_47",
-      "word": "I don't think Tom is bluffing.",
-      "translation": "Я не думаю, что Том блефует.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_3_48",
       "word": "I have absolutely no idea what's going on.",
       "translation": "Я не имею ни малейшего понятия, что происходит.",
@@ -1201,18 +1057,6 @@
       "id": "pb_opinionsarguments_3_49",
       "word": "I respect everybody's opinion.",
       "translation": "Я уважаю мнение каждого.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_4_0",
-      "word": "Are you sure it was Tom?",
-      "translation": "Ты уверена, что это был Том?",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_4_1",
-      "word": "Tom doesn't often agree with me.",
-      "translation": "Том нечасто со мной соглашается.",
       "language": "en"
     },
     {
@@ -1234,12 +1078,6 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_4_5",
-      "word": "Tom told me that you were right.",
-      "translation": "Том сказал мне, что вы правы.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_4_6",
       "word": "Maybe I shouldn't have kissed you.",
       "translation": "Мне, наверное, не стоило Вас целовать.",
@@ -1252,21 +1090,9 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_4_8",
-      "word": "The only one who knows for sure is Tom.",
-      "translation": "Единственный, кто знает наверняка, – это Том.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_4_9",
       "word": "I'm not doing anything right now.",
       "translation": "Прямо сейчас я ничего не делаю.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_4_10",
-      "word": "Do you think Tom knew I was here?",
-      "translation": "Думаешь, Том знал, что я был здесь.",
       "language": "en"
     },
     {
@@ -1312,12 +1138,6 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_4_18",
-      "word": "Tom gets everything wrong.",
-      "translation": "Том всё не так понимает.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_4_19",
       "word": "That happens to be true.",
       "translation": "Оказывается, это правда.",
@@ -1336,39 +1156,9 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_4_22",
-      "word": "I think Tom is talented.",
-      "translation": "По-моему, Том талантлив.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_4_23",
-      "word": "Tom told me that he liked the idea.",
-      "translation": "Том сказал мне, что эта идея ему нравится.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_4_24",
-      "word": "Tom has no idea what's happening.",
-      "translation": "Том понятия не имеет, что происходит.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_4_25",
       "word": "That's clearly not true.",
       "translation": "Это явно не соответствует действительности.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_4_26",
-      "word": "I think that Tom is sane.",
-      "translation": "Я думаю, что Том не безумен.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_4_27",
-      "word": "I know Tom isn't doing that the right way.",
-      "translation": "Я знаю, что Том делает это неправильно.",
       "language": "en"
     },
     {
@@ -1414,12 +1204,6 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_4_35",
-      "word": "I think those are Tom's books.",
-      "translation": "Думаю, это книги Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_4_36",
       "word": "I think our problem is solved.",
       "translation": "Думаю, наша проблема решена.",
@@ -1435,12 +1219,6 @@
       "id": "pb_opinionsarguments_4_38",
       "word": "Do you know that for sure?",
       "translation": "Вы знаете это наверняка?",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_4_39",
-      "word": "I don't think Tom is a killer.",
-      "translation": "Не думаю, что Том убийца.",
       "language": "en"
     },
     {
@@ -1486,18 +1264,6 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_4_47",
-      "word": "I'm sure Tom will like this wine.",
-      "translation": "Я уверен, что Тому понравится это вино.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_4_48",
-      "word": "Call up Tom right away.",
-      "translation": "Позвони Тому прямо сейчас.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_4_49",
       "word": "Do you mind if I smoke?",
       "translation": "Вы не возражаете, если я закурю?",
@@ -1507,12 +1273,6 @@
       "id": "pb_opinionsarguments_5_0",
       "word": "I don't think I'm needed here any longer.",
       "translation": "Не думаю, что я здесь ещё нужен.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_5_1",
-      "word": "I think Tom didn't know Mary spoke French.",
-      "translation": "Я думаю, Том не знал, что Мэри говорит по-французски.",
       "language": "en"
     },
     {
@@ -1552,12 +1312,6 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_5_8",
-      "word": "I don't think that Tom is jealous.",
-      "translation": "Не думаю, что Том ревнует.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_5_9",
       "word": "I think that this is right.",
       "translation": "Думаю, это правильно.",
@@ -1588,33 +1342,9 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_5_14",
-      "word": "Some people think Tom is schizophrenic.",
-      "translation": "Некоторые люди думают, что Том — шизофреник.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_5_15",
-      "word": "Tom didn't think Mary was ready.",
-      "translation": "Том не думал, что Мэри готова.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_5_16",
-      "word": "I'll go talk to Tom right now.",
-      "translation": "Я пойду поговорю с Томом прямо сейчас.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_5_17",
       "word": "Maybe I went a little too far.",
       "translation": "Возможно, я далековато зашёл.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_5_18",
-      "word": "I think Tom likes Mary.",
-      "translation": "Думаю, Мэри нравится Тому.",
       "language": "en"
     },
     {
@@ -1624,33 +1354,15 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_5_20",
-      "word": "I don't think that Tom is serious.",
-      "translation": "Не думаю, что Том это серьёзно.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_5_21",
       "word": "I can't think of anything to write about.",
       "translation": "Я не могу придумать, о чём написать.",
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_5_22",
-      "word": "Make sure you talk to Tom before you leave.",
-      "translation": "Обязательно поговори с Томом перед отъездом.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_5_23",
       "word": "Why don't you do that right now?",
       "translation": "Почему бы тебе не сделать это прямо сейчас?",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_5_24",
-      "word": "I think that Tom is dangerous.",
-      "translation": "По-моему, Том опасен.",
       "language": "en"
     },
     {
@@ -1663,12 +1375,6 @@
       "id": "pb_opinionsarguments_5_26",
       "word": "What makes you think you're my type?",
       "translation": "С чего ты взял, что ты в моём вкусе?",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_5_27",
-      "word": "I don't think that Tom is so strange.",
-      "translation": "Я не думаю, что Том такой уж странный.",
       "language": "en"
     },
     {
@@ -1687,12 +1393,6 @@
       "id": "pb_opinionsarguments_5_30",
       "word": "Do you really think so?",
       "translation": "Ты действительно так думаешь?",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_5_31",
-      "word": "I don't think Tom has to apologize to Mary.",
-      "translation": "Не думаю, что Тому надо извиняться перед Мэри.",
       "language": "en"
     },
     {
@@ -1720,33 +1420,15 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_5_36",
-      "word": "There was no point in arguing with Tom.",
-      "translation": "С Томом было бесполезно спорить.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_5_37",
       "word": "It'll be interesting for sure.",
       "translation": "Будет наверняка интересно.",
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_5_38",
-      "word": "I think you should wait for Tom.",
-      "translation": "Я думаю, тебе следует подождать Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_5_39",
       "word": "I'm afraid you're right.",
       "translation": "Боюсь, что ты прав.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_5_40",
-      "word": "Do you think Tom is talented?",
-      "translation": "По-твоему, Том талантлив?",
       "language": "en"
     },
     {
@@ -1792,63 +1474,15 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_5_48",
-      "word": "Do you think Tom wants to live in Boston?",
-      "translation": "Думаешь, Том хочет жить в Бостоне?",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_5_49",
-      "word": "Did Tom mind?",
-      "translation": "Том возражал?",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_6_0",
       "word": "I think you can prove it.",
       "translation": "Думаю, ты можешь это доказать.",
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_6_1",
-      "word": "Maybe you'd better have a talk with Tom.",
-      "translation": "Может быть, тебе лучше переговорить с Томом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_6_2",
-      "word": "Maybe Tom will go to Boston with Mary.",
-      "translation": "Возможно, Том поедет в Бостон с Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_6_3",
-      "word": "What makes you think Tom will listen to me?",
-      "translation": "С чего ты взял, что Том меня послушает?",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_6_4",
-      "word": "I'm not sure that's what Tom wants.",
-      "translation": "Я не уверен, что Том хочет этого.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_6_5",
-      "word": "I think Tom doesn't know where Mary lives.",
-      "translation": "Думаю, Том не знает, где живёт Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_6_6",
       "word": "I don't think that this makes any sense.",
       "translation": "Не думаю, что это имеет какой-то смысл.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_6_7",
-      "word": "Tom probably thought I liked Boston.",
-      "translation": "Том, наверное, подумал, что мне нравится Бостон.",
       "language": "en"
     },
     {
@@ -1864,33 +1498,15 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_6_10",
-      "word": "I think Tom was grateful.",
-      "translation": "Думаю, Том был благодарен.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_6_11",
       "word": "I care a good deal about what you think.",
       "translation": "Мне очень важно знать ваше мнение.",
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_6_12",
-      "word": "What do you think of Tom's idea?",
-      "translation": "Как тебе идея Тома?",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_6_13",
       "word": "Your plan is sure to succeed.",
       "translation": "Твой замысел наверняка удастся.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_6_14",
-      "word": "I'm sure that Tom knows what to do.",
-      "translation": "Я уверен, что Том знает, что делать.",
       "language": "en"
     },
     {
@@ -1906,21 +1522,9 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_6_17",
-      "word": "Tom asked Mary what was wrong.",
-      "translation": "Том спросил у Мэри, что не так.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_6_18",
       "word": "I'm sure you'll come up with something.",
       "translation": "Уверен, ты что-нибудь придумаешь.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_6_19",
-      "word": "I think Tom is an idiot.",
-      "translation": "Я думаю, Том идиот.",
       "language": "en"
     },
     {
@@ -1930,33 +1534,9 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_6_21",
-      "word": "I think Tom is hiding something from Mary.",
-      "translation": "Я думаю, Том скрывает что-то от Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_6_22",
-      "word": "I think this is from Tom.",
-      "translation": "Я думаю, это от Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_6_23",
       "word": "That's probably just a coincidence.",
       "translation": "Это, наверное, просто совпадение.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_6_24",
-      "word": "Tom doesn't think Mary is worried.",
-      "translation": "Том не думает, что Мэри беспокоится.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_6_25",
-      "word": "Tom isn't likely to be right.",
-      "translation": "Вряд ли Том прав.",
       "language": "en"
     },
     {
@@ -1969,12 +1549,6 @@
       "id": "pb_opinionsarguments_6_27",
       "word": "I don't think that I'm ready.",
       "translation": "Не думаю, что я готов.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_6_28",
-      "word": "Maybe Tom won't wait.",
-      "translation": "Может быть, Том не будет ждать.",
       "language": "en"
     },
     {
@@ -1996,12 +1570,6 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_6_32",
-      "word": "Maybe Tom will win.",
-      "translation": "Может быть, Том выиграет.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_6_33",
       "word": "He submitted his written opinion.",
       "translation": "Он подал своё мнение в письменной форме.",
@@ -2011,12 +1579,6 @@
       "id": "pb_opinionsarguments_6_34",
       "word": "We just want you to think about it.",
       "translation": "Мы просто хотим, чтобы вы подумали об этом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_6_35",
-      "word": "Tom suspected that something was wrong.",
-      "translation": "Том заподозрил, что что-то не так.",
       "language": "en"
     },
     {
@@ -2080,21 +1642,9 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_6_46",
-      "word": "I'm not even sure if Tom will come.",
-      "translation": "Я даже не уверен, придёт ли Том.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_6_47",
       "word": "Do you think we're blind?",
       "translation": "Вы думаете, мы слепые?",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_6_48",
-      "word": "Are you sure that Tom doesn't live here?",
-      "translation": "Ты уверен, что Том здесь не живёт?",
       "language": "en"
     },
     {
@@ -2116,33 +1666,15 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_7_2",
-      "word": "I think Tom is still alive.",
-      "translation": "Я думаю, Том ещё жив.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_7_3",
       "word": "I have no idea how to use this thing.",
       "translation": "Понятия не имею, как пользоваться этой штукой.",
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_7_4",
-      "word": "Tom will probably wait until 2:30.",
-      "translation": "Том, вероятно, будет ждать до половины третьего.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_7_5",
       "word": "Don't you think it's ironic?",
       "translation": "Тебе не кажется, что это ирония?",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_7_6",
-      "word": "I knew Tom wasn't going to mind.",
-      "translation": "Я знал, что Том не будет возражать.",
       "language": "en"
     },
     {
@@ -2170,45 +1702,15 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_7_11",
-      "word": "I want to show Tom he's wrong.",
-      "translation": "Я хочу показать Тому, что он неправ.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_7_12",
       "word": "I had no idea you were there.",
       "translation": "Я понятия не имел, что вы там были.",
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_7_13",
-      "word": "I think Tom liked it.",
-      "translation": "Я думаю, что Тому это понравилось.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_7_14",
-      "word": "I think Tom wants to come with us.",
-      "translation": "Думаю, Том хочет пойти с нами.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_7_15",
-      "word": "I don't think that Tom took us seriously.",
-      "translation": "Не думаю, что Том принял нас всерьёз.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_7_16",
       "word": "I didn't think I was going to win.",
       "translation": "Я не думал, что выиграю.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_7_17",
-      "word": "I think Tom did that intentionally.",
-      "translation": "Я думаю, Том сделал это намеренно.",
       "language": "en"
     },
     {
@@ -2236,18 +1738,6 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_7_22",
-      "word": "I'm not sure where Tom lives.",
-      "translation": "Я точно не знаю, где живёт Том.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_7_23",
-      "word": "Is it true that Tom moved to Australia?",
-      "translation": "Это правда, что Том переехал в Австралию?",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_7_24",
       "word": "Does that mean you agree?",
       "translation": "То есть ты согласен?",
@@ -2257,12 +1747,6 @@
       "id": "pb_opinionsarguments_7_25",
       "word": "Maybe that's the secret.",
       "translation": "Может, секрет именно в этом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_7_26",
-      "word": "Does Tom think so, too?",
-      "translation": "Том тоже так думает?",
       "language": "en"
     },
     {
@@ -2284,27 +1768,9 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_7_30",
-      "word": "I think they're talking about Tom.",
-      "translation": "Думаю, они говорят о Томе.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_7_31",
-      "word": "It looks like Tom isn't busy right now.",
-      "translation": "Том, похоже, сейчас не занят.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_7_32",
       "word": "That was somebody else's idea.",
       "translation": "Это кто-то другой придумал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_7_33",
-      "word": "I had no idea Tom knew French.",
-      "translation": "Я и не знал, что Том знает французский.",
       "language": "en"
     },
     {
@@ -2440,33 +1906,15 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_8_6",
-      "word": "I think about Tom often.",
-      "translation": "Я часто думаю о Томе.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_8_7",
       "word": "Perhaps you can beat me.",
       "translation": "Возможно, ты можешь меня побить.",
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_8_8",
-      "word": "Do you think that Tom will say yes?",
-      "translation": "Ты думаешь, Том скажет \"да\"?",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_8_9",
       "word": "I didn't think I'd be first.",
       "translation": "Я не думал, что буду первым.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_8_10",
-      "word": "I think Tom would disagree.",
-      "translation": "Я думаю, Том бы не согласился.",
       "language": "en"
     },
     {
@@ -2491,12 +1939,6 @@
       "id": "pb_opinionsarguments_8_14",
       "word": "I think you'll want this.",
       "translation": "Я думаю, ты этого захочешь.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_8_15",
-      "word": "I told Tom I thought it was a good idea.",
-      "translation": "Я сказал Тому, что, по-моему, это хорошая идея.",
       "language": "en"
     },
     {
@@ -2554,33 +1996,15 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_8_25",
-      "word": "Tom won't likely admit that he's wrong.",
-      "translation": "Том вряд ли признает, что он не прав.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_8_26",
       "word": "Do you mind if I join in?",
       "translation": "Вы не возражаете, если я присоединюсь?",
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_8_27",
-      "word": "I'm sure Tom will be careful.",
-      "translation": "Я уверен, что Том будет осторожен.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_8_28",
       "word": "You've given me a lot to think about.",
       "translation": "Вы дали мне много пищи для размышления.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_8_29",
-      "word": "I'm not certain Tom knows what to do.",
-      "translation": "Я не уверен, что Том знает, что делать.",
       "language": "en"
     },
     {
@@ -2602,18 +2026,6 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_8_33",
-      "word": "Is it true that Tom and Mary are dating?",
-      "translation": "Том и Мэри правда встречаются?",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_8_34",
-      "word": "Maybe Tom said something he shouldn't have.",
-      "translation": "Возможно, Том сказал что-то, чего не должен был говорить.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_8_35",
       "word": "I think I hear them.",
       "translation": "Кажется, я их слышу.",
@@ -2632,33 +2044,15 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_8_38",
-      "word": "Tom eventually showed his true colors.",
-      "translation": "Со временем Том показал своё истинное лицо.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_8_39",
       "word": "I don't think that's even possible.",
       "translation": "Не думаю, что это вообще возможно.",
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_8_40",
-      "word": "I'm sure Tom will think that's a good idea.",
-      "translation": "Уверен, что Том подумает, что это хорошая идея.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_8_41",
       "word": "I don't think that makes any sense.",
       "translation": "Не думаю, что это имеет какой-то смысл.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_8_42",
-      "word": "I think Tom won't be late.",
-      "translation": "Думаю, Том не опоздает.",
       "language": "en"
     },
     {
@@ -2680,21 +2074,9 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_8_46",
-      "word": "I think you have a problem, Tom.",
-      "translation": "Я думаю, что у тебя есть проблема, Том.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_8_47",
       "word": "I do not know for certain when he will come.",
       "translation": "Я точно не знаю, когда он придёт.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_8_48",
-      "word": "I'm sure Tom and Mary will be late.",
-      "translation": "Я уверен, что Том с Мэри опоздают.",
       "language": "en"
     },
     {
@@ -2716,27 +2098,9 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_9_2",
-      "word": "Tom isn't about to admit that he was wrong.",
-      "translation": "Том не собирается признавать, что был неправ.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_9_3",
       "word": "I think that I left something here.",
       "translation": "Я, кажется, тут кое-что оставил.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_9_4",
-      "word": "Tom probably knows what happened.",
-      "translation": "Том, наверное, знает, что произошло.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_9_5",
-      "word": "Are you sure you don't want to wait for Tom?",
-      "translation": "Ты уверен, что не хочешь подождать Тома?",
       "language": "en"
     },
     {
@@ -2770,21 +2134,9 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_9_11",
-      "word": "I don't think Tom will give you the keys.",
-      "translation": "Я не думаю, что Том отдаст тебе ключи.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_9_12",
       "word": "That sounds right.",
       "translation": "Это звучит правильно.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_9_13",
-      "word": "I don't think Tom will agree with you.",
-      "translation": "Не думаю, что Том с тобой согласится.",
       "language": "en"
     },
     {
@@ -2800,21 +2152,9 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_9_16",
-      "word": "I'm sure Tom would've agreed.",
-      "translation": "Я уверен, что Том согласился бы.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_9_17",
       "word": "And so you think that's a good idea, huh?",
       "translation": "Так вы думаете, что это удачная мысль, да?",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_9_18",
-      "word": "I think that's the reason why Tom is here.",
-      "translation": "Думаю, потому-то Том и здесь.",
       "language": "en"
     },
     {
@@ -2836,12 +2176,6 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_9_22",
-      "word": "I think Tom is gullible.",
-      "translation": "Я считаю, Том доверчив.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_9_23",
       "word": "It's all right for now.",
       "translation": "Пока всё хорошо.",
@@ -2854,21 +2188,9 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_9_25",
-      "word": "I'm still not sure Tom believes us.",
-      "translation": "Я всё ещё не уверен, что Том нам верит.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_9_26",
       "word": "How about telling me what you have in mind?",
       "translation": "Что насчет того, чтобы рассказать мне, о чём ты думаешь?",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_9_27",
-      "word": "I sure hope that Tom doesn't let us down.",
-      "translation": "Очень надеюсь, что Том нас не подведёт.",
       "language": "en"
     },
     {
@@ -2896,12 +2218,6 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_9_32",
-      "word": "Tom knew that he'd done something wrong.",
-      "translation": "Том знал, что он сделал что-то не так.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_9_33",
       "word": "I think you know why.",
       "translation": "Думаю, ты знаешь почему.",
@@ -2920,12 +2236,6 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_9_36",
-      "word": "I don't think Tom has ever been here before.",
-      "translation": "Не думаю, что Том здесь прежде бывал.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_9_37",
       "word": "I agree with everything you said.",
       "translation": "Я согласен со всем, что ты сказал.",
@@ -2938,12 +2248,6 @@
       "language": "en"
     },
     {
-      "id": "pb_opinionsarguments_9_39",
-      "word": "I think that's Tom over there.",
-      "translation": "По-моему, это там Том.",
-      "language": "en"
-    },
-    {
       "id": "pb_opinionsarguments_9_40",
       "word": "I think that you won't be able to do it.",
       "translation": "Я думаю, что ты не сможешь этого сделать.",
@@ -2953,18 +2257,6 @@
       "id": "pb_opinionsarguments_9_41",
       "word": "One mind is good, but two are better.",
       "translation": "Один ум хорошо, а два — лучше.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_9_42",
-      "word": "I'm sure that's what Tom would wish for.",
-      "translation": "Я уверен, это то, чего бы желал Том.",
-      "language": "en"
-    },
-    {
-      "id": "pb_opinionsarguments_9_43",
-      "word": "I think Tom died.",
-      "translation": "Я думаю, Том умер.",
       "language": "en"
     },
     {

@@ -1,30 +1,222 @@
 {
   "id": "phrasebook-atthebank",
   "name": "At the Bank",
-  "description": "Phrasebook for At the Bank",
+  "description": "В банке и у банкомата: счета, переводы, обмен валюты",
   "entries": [
     {
-      "id": "pb_atthebank_0_0",
-      "word": "Mary works as a cashier.",
-      "translation": "Мэри работает кассиром.",
+      "id": "pbq_bank_0",
+      "word": "Good morning, I’d like to open an account.",
+      "translation": "Доброе утро, я хотел бы открыть счёт.",
       "language": "en"
     },
     {
-      "id": "pb_atthebank_0_1",
-      "word": "Tom paid the cashier.",
-      "translation": "Том заплатил кассиру.",
+      "id": "pbq_bank_1",
+      "word": "I’d like to open a savings account.",
+      "translation": "Я хотел бы открыть сберегательный счёт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_2",
+      "word": "What documents do I need?",
+      "translation": "Какие документы нужны?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_3",
+      "word": "Here is my ID and proof of address.",
+      "translation": "Вот мой паспорт и подтверждение адреса.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_4",
+      "word": "How long does it take to open?",
+      "translation": "Сколько времени занимает открытие?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_5",
+      "word": "Is there a monthly fee?",
+      "translation": "Есть ли ежемесячная плата?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_6",
+      "word": "Are there any hidden charges?",
+      "translation": "Есть скрытые комиссии?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_7",
+      "word": "What’s the interest rate?",
+      "translation": "Какая процентная ставка?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_8",
+      "word": "I’d like to exchange dollars for euros.",
+      "translation": "Я хотел бы обменять доллары на евро.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_9",
+      "word": "What’s today’s exchange rate?",
+      "translation": "Какой сегодня курс обмена?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_10",
+      "word": "The rate is better at the ATM, actually.",
+      "translation": "Курс в банкомате на самом деле лучше.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_11",
+      "word": "Could you break this into smaller bills?",
+      "translation": "Разменяйте это мелкими купюрами, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_12",
+      "word": "I’d like to withdraw some money.",
+      "translation": "Я хотел бы снять немного денег.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_13",
+      "word": "How much would you like to withdraw?",
+      "translation": "Какую сумму вы хотите снять?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_14",
+      "word": "Three hundred pounds, please.",
+      "translation": "Триста фунтов, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_15",
+      "word": "I’d like to make a transfer.",
+      "translation": "Я хотел бы сделать перевод.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_16",
+      "word": "Transfer it to this account number.",
+      "translation": "Переведите это на номер этого счёта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_17",
+      "word": "When will the money arrive?",
+      "translation": "Когда придут деньги?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_18",
+      "word": "Transfers usually take one business day.",
+      "translation": "Переводы обычно занимают один рабочий день.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_19",
+      "word": "There’s a fee for international transfers.",
+      "translation": "За международные переводы есть комиссия.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_20",
+      "word": "My card was swallowed by the ATM!",
+      "translation": "Банкомат проглотил мою карту!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_21",
+      "word": "My card got stuck in the machine.",
+      "translation": "Моя карта застряла в банкомате.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_22",
+      "word": "The ATM is out of order.",
+      "translation": "Банкомат не работает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_23",
+      "word": "Your card has expired.",
+      "translation": "Срок действия вашей карты истёк.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_24",
+      "word": "I’ve been charged twice.",
+      "translation": "С меня списали деньги дважды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_25",
+      "word": "I see a charge I don’t recognize.",
+      "translation": "Вижу списание, которое не узнаю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_26",
+      "word": "Please block my card immediately.",
+      "translation": "Заблокируйте мою карту немедленно, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_27",
+      "word": "Someone used my card without permission.",
+      "translation": "Кто-то воспользовался моей картой без разрешения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_28",
+      "word": "I need a statement of my account.",
+      "translation": "Мне нужна выписка по счёту.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_29",
+      "word": "Take a seat; the manager will be with you shortly.",
+      "translation": "Присядьте; менеджер скоро подойдёт к вам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_30",
+      "word": "Your new card will arrive within two weeks.",
+      "translation": "Новая карта прибудет в течение двух недель.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_31",
+      "word": "Sign here, please.",
+      "translation": "Распишитесь здесь, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_32",
+      "word": "Enter your PIN and confirm the amount.",
+      "translation": "Введите PIN-код и подтвердите сумму.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_33",
+      "word": "Insufficient funds.",
+      "translation": "Недостаточно средств.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_34",
+      "word": "Payment declined. Try another card.",
+      "translation": "Платёж отклонён. Попробуйте другую карту.",
       "language": "en"
     },
     {
       "id": "pb_atthebank_0_2",
       "word": "I'm a cashier.",
       "translation": "Я кассир.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthebank_0_3",
-      "word": "Tom said hi to the cashier.",
-      "translation": "Том поздоровался с кассиром.",
       "language": "en"
     },
     {
@@ -40,27 +232,9 @@
       "language": "en"
     },
     {
-      "id": "pb_atthebank_0_6",
-      "word": "Tom works as a cashier.",
-      "translation": "Том работает кассиром.",
-      "language": "en"
-    },
-    {
       "id": "pb_atthebank_0_7",
       "word": "The cashier bagged the customer's groceries.",
       "translation": "Продавец упаковал для покупателя товары, купленные в бакалейном отделе.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthebank_0_8",
-      "word": "Tom tried to regain his balance.",
-      "translation": "Том пытался восстановить равновесие.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthebank_0_9",
-      "word": "Tom recovered his balance immediately.",
-      "translation": "Тому сразу удалось восстановить равновесие.",
       "language": "en"
     },
     {
@@ -82,21 +256,9 @@
       "language": "en"
     },
     {
-      "id": "pb_atthebank_0_13",
-      "word": "Tom went to a fortune teller.",
-      "translation": "Том пошёл к гадалке.",
-      "language": "en"
-    },
-    {
       "id": "pb_atthebank_0_14",
       "word": "I can't figure out how to transfer MP3 files to my iPod.",
       "translation": "Я не могу понять, как закачать MP3 файлы в мой iPod.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthebank_0_15",
-      "word": "Tom isn't a good fortune teller.",
-      "translation": "Предсказатель из Тома не очень.",
       "language": "en"
     },
     {
@@ -115,18 +277,6 @@
       "id": "pb_atthebank_0_18",
       "word": "I was losing balance.",
       "translation": "Я терял равновесие.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthebank_0_19",
-      "word": "Tom is a very good storyteller.",
-      "translation": "Том очень хороший рассказчик.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthebank_0_20",
-      "word": "Tom tried to keep his balance.",
-      "translation": "Том попытался удержать равновесие.",
       "language": "en"
     }
   ]

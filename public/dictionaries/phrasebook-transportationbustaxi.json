@@ -1,8 +1,272 @@
 {
   "id": "phrasebook-transportationbustaxi",
   "name": "Transportation: Bus & Taxi",
-  "description": "Phrasebook for Transportation: Bus & Taxi",
+  "description": "Такси и автобус — заказ, маршрут, оплата, остановки",
   "entries": [
+    {
+      "id": "pbq_taxibus_0",
+      "word": "Could you call me a taxi, please?",
+      "translation": "Вызовите мне такси, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_1",
+      "word": "I'd like to book a taxi for eight a.m.",
+      "translation": "Я хотел бы заказать такси на восемь утра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_2",
+      "word": "Taxi!",
+      "translation": "Такси!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_3",
+      "word": "Where to?",
+      "translation": "Куда едем?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_4",
+      "word": "To the railway station, please.",
+      "translation": "На железнодорожный вокзал, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_5",
+      "word": "Take me to this address, please.",
+      "translation": "Отвезите меня по этому адресу, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_6",
+      "word": "Could you take the highway?",
+      "translation": "Поедете по трассе?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_7",
+      "word": "Please avoid the city center.",
+      "translation": "Пожалуйста, объезжайте центр города.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_8",
+      "word": "How long will it take to get there?",
+      "translation": "Сколько времени займёт дорога?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_9",
+      "word": "Is it far? I’m in a hurry.",
+      "translation": "Далеко? Я очень спешу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_10",
+      "word": "Could you drive a bit faster?",
+      "translation": "Могли бы вы ехать побыстрее?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_11",
+      "word": "Could you slow down a little?",
+      "translation": "Не могли бы вы ехать помедленнее?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_12",
+      "word": "Turn left here, please.",
+      "translation": "Здесь налево, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_13",
+      "word": "Stop here, please.",
+      "translation": "Остановитесь здесь, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_14",
+      "word": "Pull over here, please.",
+      "translation": "Прижмитесь здесь к обочине, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_15",
+      "word": "This is fine, thank you.",
+      "translation": "Здесь отлично, спасибо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_16",
+      "word": "You can drop me off at the corner.",
+      "translation": "Можете высадить меня на углу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_17",
+      "word": "Keep the change.",
+      "translation": "Сдачи не надо. / Оставьте сдачу себе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_18",
+      "word": "Here you go.",
+      "translation": "Вот, держите.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_19",
+      "word": "Do you take cards?",
+      "translation": "Вы принимаете карты?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_20",
+      "word": "Card, please.",
+      "translation": "Картой, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_21",
+      "word": "Can I get a receipt?",
+      "translation": "Можно квитанцию?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_22",
+      "word": "Where does this bus go?",
+      "translation": "Куда идёт этот автобус?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_23",
+      "word": "Does this bus go downtown?",
+      "translation": "Этот автобус идёт в центр?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_24",
+      "word": "Which bus goes to the museum?",
+      "translation": "Какой автобус идёт к музею?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_25",
+      "word": "Am I on the right bus?",
+      "translation": "Я в том автобусе?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_26",
+      "word": "Where is the nearest bus stop?",
+      "translation": "Где ближайшая автобусная остановка?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_27",
+      "word": "How often do the buses run?",
+      "translation": "Как часто ходят автобусы?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_28",
+      "word": "When is the next bus?",
+      "translation": "Когда будет следующий автобус?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_29",
+      "word": "The bus is late again.",
+      "translation": "Автобус снова опаздывает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_30",
+      "word": "Let’s take an Uber instead.",
+      "translation": "Давай лучше вызовем такси через приложение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_31",
+      "word": "The driver is on his way.",
+      "translation": "Водитель уже едет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_32",
+      "word": "Your driver has arrived.",
+      "translation": "Ваш водитель приехал.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_33",
+      "word": "I’ll be out in a minute.",
+      "translation": "Я выйду через минуту.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_34",
+      "word": "Two tickets, please.",
+      "translation": "Два билета, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_35",
+      "word": "One single and one return, please.",
+      "translation": "Один в одну сторону и один туда-обратно, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_36",
+      "word": "Does this ticket include the transfer?",
+      "translation": "Этот билет включает пересадку?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_37",
+      "word": "Do I need to validate my ticket?",
+      "translation": "Мне нужно прокомпостировать билет?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_38",
+      "word": "Excuse me, could I squeeze past?",
+      "translation": "Извините, можно пройти?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_39",
+      "word": "Could you move over a little?",
+      "translation": "Не могли бы вы подвинуться чуть-чуть?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_40",
+      "word": "Are we there yet?",
+      "translation": "Мы уже приехали?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_41",
+      "word": "What stop is next?",
+      "translation": "Какая следующая остановка?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_42",
+      "word": "Please let me through, this is my stop.",
+      "translation": "Пропустите меня, пожалуйста, это моя остановка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_taxibus_43",
+      "word": "Watch your step when getting off.",
+      "translation": "Осторожно выходите из транспорта.",
+      "language": "en"
+    },
     {
       "id": "pb_transportationbustaxi_0_0",
       "word": "Nothing can stop me.",
@@ -13,12 +277,6 @@
       "id": "pb_transportationbustaxi_0_1",
       "word": "I'd stop doing that if you asked me to.",
       "translation": "Я бы перестал это делать, если бы ты меня попросил.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_0_2",
-      "word": "Does Tom need a ride?",
-      "translation": "Тома подвезти?",
       "language": "en"
     },
     {
@@ -40,21 +298,9 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_0_6",
-      "word": "Tom missed his stop.",
-      "translation": "Том пропустил свою остановку.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_0_7",
       "word": "They can't stop us.",
       "translation": "Они не могут нас остановить.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_0_8",
-      "word": "Tom needs a cab.",
-      "translation": "Тому нужно такси.",
       "language": "en"
     },
     {
@@ -130,21 +376,9 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_0_21",
-      "word": "I'm trying to stop Tom.",
-      "translation": "Я пытаюсь остановить Фому.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_0_22",
       "word": "Why don't we go by cab?",
       "translation": "Почему бы нам не поехать на такси?",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_0_23",
-      "word": "You've got to stop Tom.",
-      "translation": "Тебе надо остановить Тома.",
       "language": "en"
     },
     {
@@ -166,21 +400,9 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_0_27",
-      "word": "I want Tom to stop.",
-      "translation": "Я хочу, чтобы Том остановился.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_0_28",
       "word": "You can't stop now.",
       "translation": "Ты не можешь остановиться сейчас.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_0_29",
-      "word": "Nobody can stop Tom.",
-      "translation": "Тома никому не остановить.",
       "language": "en"
     },
     {
@@ -190,33 +412,15 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_0_31",
-      "word": "Tom wanted to stop Mary.",
-      "translation": "Том хотел остановить Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_0_32",
       "word": "I can't ride a motorcycle.",
       "translation": "Я не умею ездить на мотоцикле.",
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_0_33",
-      "word": "Tom can ride a bicycle.",
-      "translation": "Том умеет кататься на велосипеде.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_0_34",
       "word": "They can't stop laughing.",
       "translation": "Они не могут перестать смеяться.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_0_35",
-      "word": "I wanted Tom to stop.",
-      "translation": "Я хотел, чтобы Том остановился.",
       "language": "en"
     },
     {
@@ -238,21 +442,9 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_0_39",
-      "word": "Tom told me to stop.",
-      "translation": "Том сказал мне остановиться.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_0_40",
       "word": "We must stop the others.",
       "translation": "Мы должны остановить других.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_0_41",
-      "word": "Stop thinking about Tom.",
-      "translation": "Перестань думать о Томе.",
       "language": "en"
     },
     {
@@ -268,27 +460,9 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_0_44",
-      "word": "Stop sniveling, Tom.",
-      "translation": "Хватит ныть, Том.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_0_45",
-      "word": "Can't Tom ride a bicycle?",
-      "translation": "Том не умеет кататься на велосипеде?",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_0_46",
       "word": "Stop. You're hurting me.",
       "translation": "Перестань. Ты делаешь мне больно.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_0_47",
-      "word": "Tom can't get Mary to stop.",
-      "translation": "Том не может заставить Мэри остановиться.",
       "language": "en"
     },
     {
@@ -316,12 +490,6 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_1_2",
-      "word": "Tom will give us a ride.",
-      "translation": "Том нас подвезёт.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_1_3",
       "word": "I had to swallow my pride.",
       "translation": "Мне пришлось проглотить свою гордость.",
@@ -331,24 +499,6 @@
       "id": "pb_transportationbustaxi_1_4",
       "word": "You can stop now.",
       "translation": "Сейчас можешь остановиться.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_1_5",
-      "word": "Tom's schedule is insane.",
-      "translation": "У Тома сумасшедшее расписание.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_1_6",
-      "word": "Tom isn't going to stop.",
-      "translation": "Том не собирается останавливаться.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_1_7",
-      "word": "We can't stop Tom.",
-      "translation": "Нам не остановить Тома.",
       "language": "en"
     },
     {
@@ -442,18 +592,6 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_1_23",
-      "word": "Tom saved a seat for me.",
-      "translation": "Том занял мне место.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_1_24",
-      "word": "Tom just couldn't stop.",
-      "translation": "Том просто не мог остановиться.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_1_25",
       "word": "Just try and stop me.",
       "translation": "Только попробуй меня остановить.",
@@ -463,12 +601,6 @@
       "id": "pb_transportationbustaxi_1_26",
       "word": "I got off at the third stop.",
       "translation": "Я вышел на третьей остановке.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_1_27",
-      "word": "Can anybody stop Tom?",
-      "translation": "Кто-нибудь может остановить Тома?",
       "language": "en"
     },
     {
@@ -484,12 +616,6 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_1_30",
-      "word": "I couldn't stop Tom.",
-      "translation": "Я не могла Тома остановить.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_1_31",
       "word": "Try to stop me.",
       "translation": "Попробуй остановить меня.",
@@ -502,21 +628,9 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_1_33",
-      "word": "Tom couldn't stop smiling.",
-      "translation": "Том не мог перестать улыбаться.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_1_34",
       "word": "Stop making so much noise.",
       "translation": "Не шуми так.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_1_35",
-      "word": "Tom drives a cab.",
-      "translation": "Том водит такси.",
       "language": "en"
     },
     {
@@ -556,12 +670,6 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_1_42",
-      "word": "Tom was wearing a seat belt.",
-      "translation": "Том был пристёгнут.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_1_43",
       "word": "This must stop.",
       "translation": "Это должно прекратиться.",
@@ -574,45 +682,15 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_1_45",
-      "word": "Tom couldn't stop laughing.",
-      "translation": "Том не мог перестать смеяться.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_1_46",
-      "word": "Tom could stop this.",
-      "translation": "Том мог это остановить.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_1_47",
-      "word": "There was no one to stop Tom.",
-      "translation": "Не было никого, кто бы мог остановить Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_1_48",
       "word": "They won't stop.",
       "translation": "Они не остановятся.",
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_1_49",
-      "word": "Stop doing that, Tom.",
-      "translation": "Перестань это делать, Том.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_2_0",
       "word": "Stop being childish.",
       "translation": "Прекрати это ребячество.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_2_1",
-      "word": "Stop bullying Tom.",
-      "translation": "Хватит издеваться над Томом.",
       "language": "en"
     },
     {
@@ -637,12 +715,6 @@
       "id": "pb_transportationbustaxi_2_5",
       "word": "When is it going to stop?",
       "translation": "Когда это прекратится?",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_2_6",
-      "word": "Can't you stop Tom from crying?",
-      "translation": "Вы не можете что-нибудь сделать, чтобы Том перестал кричать?",
       "language": "en"
     },
     {
@@ -694,12 +766,6 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_2_15",
-      "word": "I couldn't stop thinking about Tom.",
-      "translation": "Я не мог перестать думать о Томе.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_2_16",
       "word": "I want to take a cab.",
       "translation": "Я хочу взять такси.",
@@ -724,39 +790,15 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_2_20",
-      "word": "Stop picking on Tom.",
-      "translation": "Прекрати докапываться до Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_2_21",
       "word": "I'm on a tight schedule.",
       "translation": "У меня время поджимает.",
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_2_22",
-      "word": "Tom made Mary stop.",
-      "translation": "Том заставил Мэри остановиться.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_2_23",
       "word": "You need to swallow your pride.",
       "translation": "Вы должны проглотить свою гордость.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_2_24",
-      "word": "We have to stop at Tom's.",
-      "translation": "Мы должны остановиться у Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_2_25",
-      "word": "Stop harassing Tom.",
-      "translation": "Перестаньте доставать Тома.",
       "language": "en"
     },
     {
@@ -769,12 +811,6 @@
       "id": "pb_transportationbustaxi_2_27",
       "word": "Hop in. I'll give you a ride.",
       "translation": "Запрыгивай, я тебя подвезу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_2_28",
-      "word": "No one could stop Tom.",
-      "translation": "Никто не мог остановить Тома.",
       "language": "en"
     },
     {
@@ -796,12 +832,6 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_2_32",
-      "word": "Stop showing off!",
-      "translation": "Прекрати хвастаться!",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_2_33",
       "word": "Once I get started, I can't stop.",
       "translation": "Стоит мне только начать, и я не могу остановиться.",
@@ -814,21 +844,9 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_2_35",
-      "word": "Tom likes to ride freight trains.",
-      "translation": "Том любит кататься на товарных поездах.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_2_36",
       "word": "Someone has to stop it.",
       "translation": "Кто-то должен это прекратить.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_2_37",
-      "word": "I've tried everything to stop Tom.",
-      "translation": "Я всё перепробовал, чтобы остановить Тома.",
       "language": "en"
     },
     {
@@ -844,33 +862,15 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_2_40",
-      "word": "Tom couldn't stop crying.",
-      "translation": "Том не мог перестать плакать.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_2_41",
       "word": "Nobody is going to stop you.",
       "translation": "Никто не будет тебя останавливать.",
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_2_42",
-      "word": "Tom asked Mary to stop singing.",
-      "translation": "Том попросил Мэри перестать петь.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_2_43",
       "word": "We'll have to put a stop to this.",
       "translation": "Этому нужно положить конец.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_2_44",
-      "word": "Tom can't stop now.",
-      "translation": "Том сейчас не может остановиться.",
       "language": "en"
     },
     {
@@ -886,12 +886,6 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_2_47",
-      "word": "I wish you'd stop calling me Tom.",
-      "translation": "Я хочу, чтобы ты прекратил звать меня Томом.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_2_48",
       "word": "What's next on the schedule?",
       "translation": "Что дальше по расписанию?",
@@ -901,12 +895,6 @@
       "id": "pb_transportationbustaxi_2_49",
       "word": "I can't stop her.",
       "translation": "Я не могу её остановить.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_3_0",
-      "word": "Tom won't be able to stop Mary.",
-      "translation": "Том не сможет остановить Мэри.",
       "language": "en"
     },
     {
@@ -940,12 +928,6 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_3_6",
-      "word": "Tom gave me a ride.",
-      "translation": "Том меня подвёз.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_3_7",
       "word": "Is this seat vacant?",
       "translation": "Это место свободно?",
@@ -961,12 +943,6 @@
       "id": "pb_transportationbustaxi_3_9",
       "word": "Stop. You're making me blush.",
       "translation": "Хватит! Ты заставляешь меня краснеть.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_3_10",
-      "word": "Was Tom wearing a seat belt?",
-      "translation": "Том был пристёгнут?",
       "language": "en"
     },
     {
@@ -994,21 +970,9 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_3_15",
-      "word": "I'll catch a ride with Tom.",
-      "translation": "Я прокачусь с Томом.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_3_16",
       "word": "We'll stop it.",
       "translation": "Мы это остановим.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_3_17",
-      "word": "Tom was wearing his seat belt.",
-      "translation": "Том был пристёгнут.",
       "language": "en"
     },
     {
@@ -1021,12 +985,6 @@
       "id": "pb_transportationbustaxi_3_19",
       "word": "It'll stop raining soon.",
       "translation": "Дождь скоро прекратится.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_3_20",
-      "word": "Tom gave us a ride.",
-      "translation": "Том нас подвёз.",
       "language": "en"
     },
     {
@@ -1048,12 +1006,6 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_3_24",
-      "word": "Tom knows how to ride a bicycle.",
-      "translation": "Том умеет кататься на велосипеде.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_3_25",
       "word": "Stop lying to me.",
       "translation": "Перестань мне врать.",
@@ -1066,45 +1018,15 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_3_27",
-      "word": "Tom's problems didn't stop there.",
-      "translation": "Проблемы Тома на этом не кончились.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_3_28",
       "word": "We've got our pride.",
       "translation": "У нас своя гордость.",
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_3_29",
-      "word": "Tom can't stop looking at Mary.",
-      "translation": "Том не может перестать смотреть на Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_3_30",
-      "word": "Tom won't stop us.",
-      "translation": "Том нас не остановит.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_3_31",
       "word": "I've got to stop you.",
       "translation": "Я должен тебя остановить.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_3_32",
-      "word": "Tom told me where to stop.",
-      "translation": "Том сказал мне, где остановиться.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_3_33",
-      "word": "Let's stop here and wait for Tom.",
-      "translation": "Давайте остановимся здесь и подождем Тома.",
       "language": "en"
     },
     {
@@ -1132,39 +1054,15 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_3_38",
-      "word": "Why did Tom stop?",
-      "translation": "Почему Том остановился?",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_3_39",
       "word": "They wouldn't stop.",
       "translation": "Они бы не остановились.",
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_3_40",
-      "word": "Stop calling me Tom.",
-      "translation": "Прекрати называть меня Томом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_3_41",
-      "word": "I told Tom to stop crying.",
-      "translation": "Я сказал Тому перестать плакать.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_3_42",
       "word": "Nobody can stop you.",
       "translation": "Никто не сможет тебя остановить.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_3_43",
-      "word": "Tom wants to stop Mary.",
-      "translation": "Том хочет остановить Мэри.",
       "language": "en"
     },
     {
@@ -1204,12 +1102,6 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_4_0",
-      "word": "Tom is on a very tight schedule.",
-      "translation": "У Тома очень плотный график.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_4_1",
       "word": "Is this seat taken?",
       "translation": "Это место занято?",
@@ -1234,12 +1126,6 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_4_5",
-      "word": "We tried to stop Tom.",
-      "translation": "Мы попытались остановить Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_4_6",
       "word": "I've got a busy schedule.",
       "translation": "У меня напряжённый график.",
@@ -1255,12 +1141,6 @@
       "id": "pb_transportationbustaxi_4_8",
       "word": "We'll stop them.",
       "translation": "Мы их остановим.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_4_9",
-      "word": "I can't stop Tom.",
-      "translation": "Я не могу остановить Тома.",
       "language": "en"
     },
     {
@@ -1318,12 +1198,6 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_4_19",
-      "word": "Tom wasn't wearing a seat belt.",
-      "translation": "Том не был пристёгнут.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_4_20",
       "word": "Stop asking so many questions.",
       "translation": "Хватит задавать так много вопросов.",
@@ -1348,12 +1222,6 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_4_24",
-      "word": "Tom tried to stop the bleeding.",
-      "translation": "Том пытался остановить кровотечение.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_4_25",
       "word": "Thanks for the ride.",
       "translation": "Спасибо, что подвёз.",
@@ -1363,12 +1231,6 @@
       "id": "pb_transportationbustaxi_4_26",
       "word": "I have a tight schedule.",
       "translation": "У меня плотный график.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_4_27",
-      "word": "Tom didn't stop Mary.",
-      "translation": "Том не остановил Мэри.",
       "language": "en"
     },
     {
@@ -1390,33 +1252,15 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_4_31",
-      "word": "Tom can't ride a bicycle.",
-      "translation": "Том не умеет кататься на велосипеде.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_4_32",
       "word": "If only it would stop raining!",
       "translation": "Если бы только дождь перестал!",
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_4_33",
-      "word": "Tom can't stop talking about you.",
-      "translation": "Том не перестаёт говорить о тебе.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_4_34",
       "word": "Any seat will do.",
       "translation": "Подойдёт любое место.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_4_35",
-      "word": "I'll stop Tom.",
-      "translation": "Я остановлю Тома.",
       "language": "en"
     },
     {
@@ -1435,12 +1279,6 @@
       "id": "pb_transportationbustaxi_4_38",
       "word": "Stop being such a baby.",
       "translation": "Не будь таким ребёнком.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_4_39",
-      "word": "Tom signaled Mary to stop.",
-      "translation": "Том просигналил Мэри остановиться.",
       "language": "en"
     },
     {
@@ -1498,12 +1336,6 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_4_49",
-      "word": "Tom didn't stop there.",
-      "translation": "Том на этом не остановился.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_5_0",
       "word": "Once you start, you can't stop.",
       "translation": "Стоит тебе начать, как ты уже не можешь остановиться.",
@@ -1540,12 +1372,6 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_5_6",
-      "word": "I'm saving this seat for Tom.",
-      "translation": "Я занял это место для Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_5_7",
       "word": "Use the manual override.",
       "translation": "Используй ручное управление.",
@@ -1558,12 +1384,6 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_5_9",
-      "word": "You can't stop Tom.",
-      "translation": "Вы не можете остановить Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_5_10",
       "word": "Stop making a fuss over nothing.",
       "translation": "Прекрати создавать суету на пустом месте.",
@@ -1573,18 +1393,6 @@
       "id": "pb_transportationbustaxi_5_11",
       "word": "Why did you take a cab?",
       "translation": "Почему вы взяли такси?",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_5_12",
-      "word": "Stop talking to me about Tom.",
-      "translation": "Хватит говорить мне о Томе.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_5_13",
-      "word": "I asked Tom to stop following us.",
-      "translation": "Я попросил Тома перестать нас преследовать.",
       "language": "en"
     },
     {
@@ -1618,12 +1426,6 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_5_19",
-      "word": "Somebody has to stop Tom.",
-      "translation": "Кто-то должен остановить Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_5_20",
       "word": "Nothing can stop it.",
       "translation": "Ничто не может это остановить.",
@@ -1642,21 +1444,9 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_5_23",
-      "word": "We've got to stop Tom.",
-      "translation": "Мы должны остановить Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_5_24",
       "word": "I don't know why we have to stop.",
       "translation": "Я не знаю, почему мы должны останавливаться.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_5_25",
-      "word": "Tom isn't wearing his seat belt.",
-      "translation": "Том не пристёгнут.",
       "language": "en"
     },
     {
@@ -1678,18 +1468,6 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_5_29",
-      "word": "I can't stop thinking about Tom.",
-      "translation": "Я не могу перестать думать о Томе.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_5_30",
-      "word": "Tom didn't try to stop Mary.",
-      "translation": "Том не пытался остановить Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_5_31",
       "word": "Did you call for a cab?",
       "translation": "Ты такси вызвал?",
@@ -1702,33 +1480,9 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_5_33",
-      "word": "Tom took a seat at the counter.",
-      "translation": "Том занял место за стойкой.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_5_34",
       "word": "I can reschedule.",
       "translation": "Я могу перенести.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_5_35",
-      "word": "Tom got into the cab.",
-      "translation": "Том сел в такси.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_5_36",
-      "word": "I want you to stop calling me Tom.",
-      "translation": "Я хочу, чтобы ты перестал называть меня Томом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_5_37",
-      "word": "How can I make Tom stop snoring?",
-      "translation": "Как мне сделать так, чтобы Том перестал храпеть?",
       "language": "en"
     },
     {
@@ -1744,21 +1498,9 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_5_40",
-      "word": "Tom gave his seat to the old woman.",
-      "translation": "Том уступил своё место пожилой женщине.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_5_41",
       "word": "He called me a cab.",
       "translation": "Он вызвал мне такси.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_5_42",
-      "word": "How can Tom stop us?",
-      "translation": "Как Том может нас остановить?",
       "language": "en"
     },
     {
@@ -1774,21 +1516,9 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_5_45",
-      "word": "Stop defending Tom.",
-      "translation": "Прекрати защищать Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_5_46",
       "word": "Stop pretending you don't know me.",
       "translation": "Перестань делать вид, что ты меня не знаешь!",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_5_47",
-      "word": "Tell Tom to stop staring at me.",
-      "translation": "Скажи Тому, чтобы он перестал на меня пялиться.",
       "language": "en"
     },
     {
@@ -1810,21 +1540,9 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_6_1",
-      "word": "Why didn't Tom stop?",
-      "translation": "Почему Том не остановился?",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_6_2",
       "word": "Stop being so stubborn.",
       "translation": "Перестань упрямиться.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_6_3",
-      "word": "I wish you would stop calling me Tom.",
-      "translation": "Я хотел бы, чтобы ты перестала называть меня Томом.",
       "language": "en"
     },
     {
@@ -1837,12 +1555,6 @@
       "id": "pb_transportationbustaxi_6_5",
       "word": "You must stick to your schedule.",
       "translation": "Ты должен придерживаться расписания.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_6_6",
-      "word": "Tom, stop it, OK?",
-      "translation": "Том, хватит уже, хорошо?",
       "language": "en"
     },
     {
@@ -1861,12 +1573,6 @@
       "id": "pb_transportationbustaxi_6_9",
       "word": "Stop your complaining.",
       "translation": "Перестань жаловаться.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_6_10",
-      "word": "I must stop Tom.",
-      "translation": "Я должен остановить Тома.",
       "language": "en"
     },
     {
@@ -1894,21 +1600,9 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_6_15",
-      "word": "Tom couldn't stop worrying about Mary.",
-      "translation": "Том не мог перестать беспокоиться за Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_6_16",
       "word": "I was just along for the ride.",
       "translation": "Я был просто за компанию.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_6_17",
-      "word": "Tom tried to stop me.",
-      "translation": "Том пытался меня остановить.",
       "language": "en"
     },
     {
@@ -1924,21 +1618,9 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_6_20",
-      "word": "Tell Tom to stop fooling around.",
-      "translation": "Скажи Тому, чтобы он перестал валять дурака.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_6_21",
       "word": "Stop twisting my words.",
       "translation": "Перестань искажать мои слова.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_6_22",
-      "word": "Tom can't ride a bicycle yet.",
-      "translation": "Том ещё не умеет кататься на велосипеде.",
       "language": "en"
     },
     {
@@ -1966,12 +1648,6 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_6_27",
-      "word": "Tom couldn't stop.",
-      "translation": "Том не мог остановиться.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_6_28",
       "word": "Stop using my stuff.",
       "translation": "Прекрати использовать мои вещи!",
@@ -1996,12 +1672,6 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_6_32",
-      "word": "Can't you stop Tom?",
-      "translation": "Ты не можешь остановить Тома?",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_6_33",
       "word": "Give me a ride on your shoulders, Daddy.",
       "translation": "Папа, покатай меня на закорках.",
@@ -2020,39 +1690,9 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_6_36",
-      "word": "Stop scaring Tom.",
-      "translation": "Прекрати пугать Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_6_37",
-      "word": "Tom didn't see the stop sign.",
-      "translation": "Том не увидел знак \"стоп\".",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_6_38",
       "word": "Oh, please, stop that noise!",
       "translation": "Ох, прекрати этот шум, пожалуйста!",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_6_39",
-      "word": "When I started to do that, Tom told me to stop.",
-      "translation": "Когда я начал это делать, Том сказал мне, чтобы я перестал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_6_40",
-      "word": "Tom taught Mary how to ride a bicycle.",
-      "translation": "Том научил Мэри кататься на велосипеде.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_6_41",
-      "word": "I did everything I could to stop Tom.",
-      "translation": "Я сделал всё, что мог, чтобы остановить Тома.",
       "language": "en"
     },
     {
@@ -2065,18 +1705,6 @@
       "id": "pb_transportationbustaxi_6_43",
       "word": "We must do something to stop this madness.",
       "translation": "Мы должны сделать что-то, чтобы остановить это безумие.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_6_44",
-      "word": "Stop blaming everything on Tom.",
-      "translation": "Хватит обвинять во всём Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_6_45",
-      "word": "Tom gave his seat to the old man.",
-      "translation": "Том уступил место старику.",
       "language": "en"
     },
     {
@@ -2110,12 +1738,6 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_7_1",
-      "word": "I'm the only one who can stop Tom.",
-      "translation": "Я единственный, кто может остановить Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_7_2",
       "word": "The policeman signaled me to stop.",
       "translation": "Гаишник подал мне сигнал остановиться.",
@@ -2128,39 +1750,15 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_7_4",
-      "word": "Tom is en route to Boston.",
-      "translation": "Том находится на пути в Бостон.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_7_5",
       "word": "Pull yourself together and stop crying.",
       "translation": "Соберись и перестань плакать.",
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_7_6",
-      "word": "Tom swallowed his pride.",
-      "translation": "Том проглотил свою гордость.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_7_7",
       "word": "Let's get a cab.",
       "translation": "Давайте возьмём такси.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_7_8",
-      "word": "Tom isn't going to stop Mary.",
-      "translation": "Том не собирается останавливать Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_7_9",
-      "word": "Tom asked Mary if she could give him a ride.",
-      "translation": "Том спросил Мэри, может ли она его подвезти.",
       "language": "en"
     },
     {
@@ -2173,12 +1771,6 @@
       "id": "pb_transportationbustaxi_7_11",
       "word": "This is a four-way stop.",
       "translation": "Это четырёхсторонняя остановка.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_7_12",
-      "word": "Why did you try to stop Tom?",
-      "translation": "Зачем ты пытался остановить Тома?",
       "language": "en"
     },
     {
@@ -2212,18 +1804,6 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_7_18",
-      "word": "Tom said that he didn't need a ride.",
-      "translation": "Том сказал, что его не нужно подвозить.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_7_19",
-      "word": "Stop it, Tom.",
-      "translation": "Том, прекрати.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_7_20",
       "word": "Let's stop this madness.",
       "translation": "Давайте остановим это безумие.",
@@ -2233,12 +1813,6 @@
       "id": "pb_transportationbustaxi_7_21",
       "word": "Imagine that you begin to hiccup and can't stop.",
       "translation": "Представьте, что вы начали икать и не можете остановиться.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_7_22",
-      "word": "I thought Tom couldn't ride a bicycle.",
-      "translation": "Я думал, Том не умеет кататься на велосипеде.",
       "language": "en"
     },
     {
@@ -2260,12 +1834,6 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_7_26",
-      "word": "Stop teasing Tom.",
-      "translation": "Перестаньте дразнить Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_7_27",
       "word": "Stop that immediately.",
       "translation": "Прекрати немедленно.",
@@ -2275,18 +1843,6 @@
       "id": "pb_transportationbustaxi_7_28",
       "word": "I don't know how to stop it.",
       "translation": "Я не знаю, как это прекратить.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_7_29",
-      "word": "I wanted to stop Tom.",
-      "translation": "Я хотел остановить Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_7_30",
-      "word": "I want you to know that I tried to stop Tom.",
-      "translation": "Я хочу, чтобы ты знал, что я пытался остановить Тома.",
       "language": "en"
     },
     {
@@ -2317,12 +1873,6 @@
       "id": "pb_transportationbustaxi_7_35",
       "word": "The ship arrived at the port on schedule.",
       "translation": "Корабль прибыл в порт по расписанию.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_7_36",
-      "word": "Luckily, Tom was wearing his seat belt.",
-      "translation": "К счастью, Том был пристёгнут.",
       "language": "en"
     },
     {
@@ -2368,39 +1918,9 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_7_44",
-      "word": "Tom tried to stop us.",
-      "translation": "Том пытался остановить нас.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_7_45",
-      "word": "Tom resolved to stop calling himself an idiot.",
-      "translation": "Том решил перестать называть себя идиотом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_7_46",
-      "word": "Tom told Mary to stop crying.",
-      "translation": "Том сказал Мэри, чтобы она перестала плакать.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_7_47",
       "word": "I'll stop doing that if you want me to.",
       "translation": "Я перестану это делать, если ты хочешь.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_7_48",
-      "word": "Tom couldn't stop hiccuping.",
-      "translation": "Том не мог остановить икоту.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_7_49",
-      "word": "Tom can't ride a bike.",
-      "translation": "Том не умеет кататься на велосипеде.",
       "language": "en"
     },
     {
@@ -2419,12 +1939,6 @@
       "id": "pb_transportationbustaxi_8_2",
       "word": "We have to stop this.",
       "translation": "Мы должны это остановить.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_8_3",
-      "word": "Why didn't anyone stop Tom?",
-      "translation": "Почему Тома никто не остановил?",
       "language": "en"
     },
     {
@@ -2503,12 +2017,6 @@
       "id": "pb_transportationbustaxi_8_16",
       "word": "You're a busy man, so I'll adjust my schedule to yours.",
       "translation": "У вас много дел, поэтому я подстроюсь под ваши планы.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_8_17",
-      "word": "We thought that we wouldn't be able to stop Tom.",
-      "translation": "Мы думали, что не сможем остановить Тома.",
       "language": "en"
     },
     {
@@ -2602,12 +2110,6 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_8_33",
-      "word": "I need to stop thinking about Tom.",
-      "translation": "Мне надо перестать думать о Томе.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_8_34",
       "word": "I've managed to stop the bleeding.",
       "translation": "Мне удалось остановить кровотечение.",
@@ -2620,33 +2122,9 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_8_36",
-      "word": "Tom can't do anything to stop Mary.",
-      "translation": "Том ничего не может сделать, чтобы остановить Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_8_37",
-      "word": "I gave Tom a ride.",
-      "translation": "Я подвёз Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_8_38",
-      "word": "I have to stop Tom.",
-      "translation": "Я должен остановить Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_8_39",
       "word": "You try and stop me.",
       "translation": "Попробуй остановить меня.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_8_40",
-      "word": "Tom is doing everything he can to stop us.",
-      "translation": "Том делает всё возможное, чтобы нас остановить.",
       "language": "en"
     },
     {
@@ -2752,21 +2230,9 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_9_8",
-      "word": "I'm the one who taught Tom how to ride a bicycle.",
-      "translation": "Это я научил Тома кататься на велосипеде.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_9_9",
       "word": "They can't stop it.",
       "translation": "Они не могут это остановить.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_9_10",
-      "word": "Tom had to stop to catch his breath.",
-      "translation": "Тому пришлось остановиться, чтобы перевести дыхание.",
       "language": "en"
     },
     {
@@ -2794,18 +2260,6 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_9_15",
-      "word": "Tell Tom to stop worrying.",
-      "translation": "Скажи Тому, чтобы он перестал волноваться.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_9_16",
-      "word": "When I started doing that, Tom told me to stop.",
-      "translation": "Когда я начал это делать, Том сказал мне, чтобы я перестал.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_9_17",
       "word": "Stop poking me.",
       "translation": "Отстаньте от меня!",
@@ -2827,12 +2281,6 @@
       "id": "pb_transportationbustaxi_9_20",
       "word": "I don't want to stop.",
       "translation": "Я не хочу останавливаться.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_9_21",
-      "word": "Tom couldn't stop coughing.",
-      "translation": "Том закашлялся.",
       "language": "en"
     },
     {
@@ -2860,12 +2308,6 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_9_26",
-      "word": "Stop hitting Tom.",
-      "translation": "Перестань бить Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_9_27",
       "word": "Nothing can stop you.",
       "translation": "Тебя ничто не может остановить.",
@@ -2875,24 +2317,6 @@
       "id": "pb_transportationbustaxi_9_28",
       "word": "We shouldn't let that stop us.",
       "translation": "Мы не должны позволить этому остановить нас.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_9_29",
-      "word": "Tom won't stop crying.",
-      "translation": "Том не перестанет плакать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_9_30",
-      "word": "Tom told Mary to stop eating.",
-      "translation": "Том сказал Мэри, чтобы она перестала есть.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_9_31",
-      "word": "How will Tom stop me?",
-      "translation": "Как Том меня остановит?",
       "language": "en"
     },
     {
@@ -2926,39 +2350,15 @@
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_9_37",
-      "word": "Tom took a cab.",
-      "translation": "Том взял такси.",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_9_38",
       "word": "I'm going to get off at the next stop.",
       "translation": "Я выйду на следующей остановке.",
       "language": "en"
     },
     {
-      "id": "pb_transportationbustaxi_9_39",
-      "word": "Tom told Mary to stop.",
-      "translation": "Том сказал Мэри остановиться.",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_9_40",
-      "word": "Can anyone stop Tom?",
-      "translation": "Кто-нибудь может остановить Тома?",
-      "language": "en"
-    },
-    {
       "id": "pb_transportationbustaxi_9_41",
       "word": "Are you getting off at the next stop?",
       "translation": "Вы выходите на следующей остановке?",
-      "language": "en"
-    },
-    {
-      "id": "pb_transportationbustaxi_9_42",
-      "word": "I'm trying to stop Tom from making the same mistakes I did.",
-      "translation": "Я пытаюсь удержать Тома от совершения тех же ошибок, что совершил я сам.",
       "language": "en"
     },
     {

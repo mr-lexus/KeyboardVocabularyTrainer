@@ -1,24 +1,360 @@
 {
   "id": "phrasebook-offersinvitations",
   "name": "Offers & Invitations",
-  "description": "Phrasebook for Offers & Invitations",
+  "description": "Приглашения, планы с друзьями, предложение помощи",
   "entries": [
     {
-      "id": "pb_offersinvitations_0_0",
-      "word": "Tom doesn't want to come with us.",
-      "translation": "Том не хочет идти с нами.",
+      "id": "pbq_invitations_0",
+      "word": "What are you doing tonight?",
+      "translation": "Что ты делаешь сегодня вечером?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_1",
+      "word": "Are you free on Friday?",
+      "translation": "Ты свободна в пятницу?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_2",
+      "word": "Do you have any plans for Saturday?",
+      "translation": "У тебя есть планы на субботу?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_3",
+      "word": "Would you like to grab a coffee?",
+      "translation": "Хочешь выпить кофе?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_4",
+      "word": "Fancy a cup of coffee?",
+      "translation": "Не хочешь чашечку кофе?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_5",
+      "word": "Let's grab lunch sometime.",
+      "translation": "Давай как-нибудь пообедаем вместе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_6",
+      "word": "How about dinner at my place?",
+      "translation": "Как насчёт ужина у меня дома?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_7",
+      "word": "Would you like to join us?",
+      "translation": "Не хотите присоединиться к нам?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_8",
+      "word": "We’d love to have you over.",
+      "translation": "Мы будем рады видеть вас у себя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_9",
+      "word": "Come over whenever you like.",
+      "translation": "Заходи, когда захочешь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_10",
+      "word": "Why don’t we go for a walk?",
+      "translation": "Может, пойдём прогуляемся?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_11",
+      "word": "Shall we dance?",
+      "translation": "Танцуешь со мной?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_12",
+      "word": "Do you feel like watching a movie?",
+      "translation": "Хочешь посмотреть фильм?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_13",
+      "word": "I was wondering if you'd like to come.",
+      "translation": "Может быть, ты хочешь прийти?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_14",
+      "word": "You should totally come with us!",
+      "translation": "Тебе точно стоит пойти с нами!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_15",
+      "word": "I'd love to!",
+      "translation": "С удовольствием!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_16",
+      "word": "Sounds great, I'm in!",
+      "translation": "Звучит здорово, я за!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_17",
+      "word": "Count me in!",
+      "translation": "Записывай и меня!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_18",
+      "word": "I wouldn't miss it for the world!",
+      "translation": "Ни за что бы это не пропустил!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_19",
+      "word": "I'm afraid I can't make it.",
+      "translation": "Боюсь, я не смогу прийти.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_20",
+      "word": "I'd love to, but I already have plans.",
+      "translation": "С радостью, но у меня уже есть планы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_21",
+      "word": "Maybe some other time?",
+      "translation": "Может быть, в другой раз?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_22",
+      "word": "Rain check?",
+      "translation": "Перенесём на другой день?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_23",
+      "word": "Let's play it by ear.",
+      "translation": "Давай решим по ходу дела.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_24",
+      "word": "I'll let you know by tomorrow.",
+      "translation": "Я скажу тебе завтра до конца дня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_25",
+      "word": "What time works for you?",
+      "translation": "Какое время тебе подходит?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_26",
+      "word": "Does seven o’clock suit you?",
+      "translation": "Семь часов вам удобно?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_27",
+      "word": "Where shall we meet?",
+      "translation": "Где встретимся?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_28",
+      "word": "Let's meet at the main entrance.",
+      "translation": "Давай встретимся у главного входа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_29",
+      "word": "I'll text you the address.",
+      "translation": "Я пришлю тебе адрес сообщением.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_30",
+      "word": "Don't be late!",
+      "translation": "Не опаздывай!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_31",
+      "word": "I'll be there in ten minutes.",
+      "translation": "Буду через десять минут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_32",
+      "word": "I’m on my way.",
+      "translation": "Я уже еду.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_33",
+      "word": "Running five minutes late, sorry!",
+      "translation": "Опаздываю на пять минут, извини!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_34",
+      "word": "Something has come up.",
+      "translation": "У меня появились неотложные дела.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_35",
+      "word": "Can we reschedule?",
+      "translation": "Можно перенести нашу встречу?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_36",
+      "word": "Can we push our meeting to next week?",
+      "translation": "Можно перенести встречу на следующую неделю?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_37",
+      "word": "Shall we say eight o’clock?",
+      "translation": "Договорились на восемь?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_38",
+      "word": "Perfect, see you then!",
+      "translation": "Отлично, до встречи!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_39",
+      "word": "Would you like some more cake?",
+      "translation": "Хотите ещё торта?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_40",
+      "word": "Just a little, please.",
+      "translation": "Немножко, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_41",
+      "word": "No, thank you, I’m full.",
+      "translation": "Нет, спасибо, я сыт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_42",
+      "word": "Can I get you anything?",
+      "translation": "Могу вам что-нибудь принести?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_43",
+      "word": "Let me get that for you.",
+      "translation": "Позвольте, я вам это поднесу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_44",
+      "word": "Shall I open the window?",
+      "translation": "Мне открыть окно?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_45",
+      "word": "Should I call a taxi for you?",
+      "translation": "Мне вызвать вам такси?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_46",
+      "word": "Do you need a ride?",
+      "translation": "Тебя подвезти?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_47",
+      "word": "I’ll walk you out.",
+      "translation": "Я провожу вас.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_48",
+      "word": "Make yourselves comfortable.",
+      "translation": "Располагайтесь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_49",
+      "word": "Stay for dinner!",
+      "translation": "Останьтесь на ужин!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_50",
+      "word": "You’re welcome to stay the night.",
+      "translation": "Можете остаться на ночь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_51",
+      "word": "It’s getting late, I should go.",
+      "translation": "Уже поздно, мне пора.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_52",
+      "word": "Already leaving? Stay a bit longer!",
+      "translation": "Уже уходишь? Посиди ещё немного!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_53",
+      "word": "Thanks for having me!",
+      "translation": "Спасибо за приглашение!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_54",
+      "word": "Thanks for a lovely evening!",
+      "translation": "Спасибо за чудесный вечер!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_55",
+      "word": "Come again soon!",
+      "translation": "Приходите ещё!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_56",
+      "word": "Safe trip home!",
+      "translation": "Добраться домой без происшествий!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_invitations_57",
+      "word": "Text me when you get home.",
+      "translation": "Напиши мне, когда будешь дома.",
       "language": "en"
     },
     {
       "id": "pb_offersinvitations_0_1",
       "word": "Our offer still stands if you're interested.",
       "translation": "Наше предложение всё ещё в силе, если вам интересно.",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_0_2",
-      "word": "Do you want me to try talking to Tom?",
-      "translation": "Хочешь, я попробую поговорить с Томом?",
       "language": "en"
     },
     {
@@ -160,12 +496,6 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_0_26",
-      "word": "Tom wanted to come with us.",
-      "translation": "Том хотел пойти с нами.",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_0_27",
       "word": "Do you want me to guess?",
       "translation": "Ты хочешь, чтобы я угадал?",
@@ -274,12 +604,6 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_0_45",
-      "word": "Do you want me to teach Tom karate?",
-      "translation": "Ты хочешь, чтобы я научил Тома каратэ?",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_0_46",
       "word": "She will join us later.",
       "translation": "Она присоединится к нам позже.",
@@ -319,12 +643,6 @@
       "id": "pb_offersinvitations_1_2",
       "word": "How badly do you want this?",
       "translation": "Насколько сильно ты этого хочешь?",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_1_3",
-      "word": "Do you want Tom to know about this?",
-      "translation": "Ты хочешь, чтобы Том знал об этом?",
       "language": "en"
     },
     {
@@ -394,12 +712,6 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_1_15",
-      "word": "Do you want to tell Tom?",
-      "translation": "Ты хочешь сказать Тому?",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_1_16",
       "word": "Where do you want me to put your suitcase?",
       "translation": "Куда ты хочешь, чтобы я поставил твой чемодан?",
@@ -415,12 +727,6 @@
       "id": "pb_offersinvitations_1_18",
       "word": "You've got to come with me.",
       "translation": "Ты должен пойти со мной.",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_1_19",
-      "word": "Tom isn't a guest.",
-      "translation": "Том не гость.",
       "language": "en"
     },
     {
@@ -460,12 +766,6 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_1_26",
-      "word": "Do you want to see where Tom is buried?",
-      "translation": "Хочешь посмотреть, где Том похоронен?",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_1_27",
       "word": "Can you persuade him to join our club?",
       "translation": "Можешь ли ты уговорить его вступить в наш клуб?",
@@ -502,18 +802,6 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_1_33",
-      "word": "Tom proposed a toast to the guest of honor.",
-      "translation": "Том поднял тост в честь почётного гостя.",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_1_34",
-      "word": "Did Tom come with you?",
-      "translation": "Том пришёл с вами?",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_1_35",
       "word": "Do you want some cheese?",
       "translation": "Хочешь сыра?",
@@ -526,12 +814,6 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_1_37",
-      "word": "Why did you invite Tom?",
-      "translation": "Зачем вы пригласили Тома?",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_1_38",
       "word": "If you want to come with us, come with us.",
       "translation": "Если хочешь пойти с нами — иди.",
@@ -541,18 +823,6 @@
       "id": "pb_offersinvitations_1_39",
       "word": "Do you want to touch it?",
       "translation": "Хочешь его потрогать?",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_1_40",
-      "word": "Tom turned down my offer.",
-      "translation": "Том отклонил моё предложение.",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_1_41",
-      "word": "Do you want me to call Tom?",
-      "translation": "Хочешь, я позвоню Тому?",
       "language": "en"
     },
     {
@@ -604,12 +874,6 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_2_0",
-      "word": "Tom, do you want us to go with you?",
-      "translation": "Том, хочешь, мы с тобой пойдём?",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_2_1",
       "word": "Do you want to do it again?",
       "translation": "Ты хочешь сделать это снова?",
@@ -622,39 +886,15 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_2_3",
-      "word": "Tom rejected the offer.",
-      "translation": "Том отклонил предложение.",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_2_4",
       "word": "I rejected the offer.",
       "translation": "Я отклонил это предложение.",
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_2_5",
-      "word": "Did you invite Tom?",
-      "translation": "Ты пригласил Тома?",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_2_6",
       "word": "You have a guest.",
       "translation": "К тебе гости.",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_2_7",
-      "word": "Tom rejected our offer.",
-      "translation": "Том отклонил наше предложение.",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_2_8",
-      "word": "We're going to invite Tom and Mary.",
-      "translation": "Мы собираемся пригласить Тома и Мэри.",
       "language": "en"
     },
     {
@@ -679,12 +919,6 @@
       "id": "pb_offersinvitations_2_12",
       "word": "Do you want kids?",
       "translation": "Ты хочешь детей?",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_2_13",
-      "word": "Tom can come with us if he wants.",
-      "translation": "Том может пойти с нами, если хочет.",
       "language": "en"
     },
     {
@@ -760,21 +994,9 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_2_26",
-      "word": "Tom says that he wants to come with us.",
-      "translation": "Том говорит, что хочет пойти с нами.",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_2_27",
       "word": "Why do you want to stop?",
       "translation": "Почему ты хочешь остановиться?",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_2_28",
-      "word": "Come with me, Tom.",
-      "translation": "Пойдём со мной, Том.",
       "language": "en"
     },
     {
@@ -796,21 +1018,9 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_2_32",
-      "word": "Tom can't come with us.",
-      "translation": "Том не может прийти с нами.",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_2_33",
       "word": "Do you want to take this one?",
       "translation": "Хотите взять этот?",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_2_34",
-      "word": "Tom wanted to join the Marines.",
-      "translation": "Том хотел стать морским пехотинцем.",
       "language": "en"
     },
     {
@@ -832,27 +1042,9 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_2_38",
-      "word": "Do you want me to talk to Tom?",
-      "translation": "Ты хочешь, чтобы я поговорил с Томом?",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_2_39",
-      "word": "Do you want to say anything to Tom?",
-      "translation": "Ты хочешь что-нибудь сказать Тому?",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_2_40",
       "word": "What do you want to talk about?",
       "translation": "О чём ты хочешь поговорить?",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_2_41",
-      "word": "I'll come with Tom.",
-      "translation": "Я приду с Томом.",
       "language": "en"
     },
     {
@@ -892,24 +1084,6 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_2_48",
-      "word": "I knew Tom wouldn't accept our offer.",
-      "translation": "Я знал, что Том не примет наше предложение.",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_2_49",
-      "word": "Tom accepted Mary's offer.",
-      "translation": "Том принял предложение Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_3_0",
-      "word": "Did you offer Tom any assistance?",
-      "translation": "Ты предложил Тому помощь?",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_3_1",
       "word": "Do you want to do this later?",
       "translation": "Вы хотите сделать это позже?",
@@ -925,12 +1099,6 @@
       "id": "pb_offersinvitations_3_3",
       "word": "I turned down the offer.",
       "translation": "Я отклонил предложение.",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_3_4",
-      "word": "Do you want to say something, Tom?",
-      "translation": "Ты хочешь что-то сказать, Том?",
       "language": "en"
     },
     {
@@ -955,12 +1123,6 @@
       "id": "pb_offersinvitations_3_8",
       "word": "Do you want to try this?",
       "translation": "Хочешь попробовать это?",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_3_9",
-      "word": "Do you want any help, Tom?",
-      "translation": "Том, тебе нужна помощь?",
       "language": "en"
     },
     {
@@ -1012,24 +1174,6 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_3_18",
-      "word": "Do you want me to tell Tom?",
-      "translation": "Ты хочешь, чтобы я рассказал Тому?",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_3_19",
-      "word": "Do you want Tom to go to Boston?",
-      "translation": "Ты хочешь, чтобы Том поехал в Бостон?",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_3_20",
-      "word": "I hope you didn't forget to invite Tom.",
-      "translation": "Надеюсь, ты не забыл пригласить Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_3_21",
       "word": "Why do you want to go out with me?",
       "translation": "Почему ты хочешь со мной встречаться?",
@@ -1060,12 +1204,6 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_3_26",
-      "word": "Tom doesn't treat Mary well.",
-      "translation": "Том плохо обращается с Марией.",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_3_27",
       "word": "Do you want a bit of milk?",
       "translation": "Хочешь немного молока?",
@@ -1087,12 +1225,6 @@
       "id": "pb_offersinvitations_3_30",
       "word": "It's a one-time offer.",
       "translation": "Это разовое предложение.",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_3_31",
-      "word": "Why does Tom treat Mary that way?",
-      "translation": "Почему Том так обращается с Мэри?",
       "language": "en"
     },
     {
@@ -1126,12 +1258,6 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_3_37",
-      "word": "Do you want to know why I don't like Tom?",
-      "translation": "Хочешь знать, почему мне не нравится Том?",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_3_38",
       "word": "He deemed it wise to accept the offer.",
       "translation": "Он посчитал правильным принять это предложение.",
@@ -1144,21 +1270,9 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_3_40",
-      "word": "Do you want to go tell Tom about this?",
-      "translation": "Ты хочешь пойти сказать об этом Тому?",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_3_41",
       "word": "How long do you want to live here?",
       "translation": "Как долго ты хочешь здесь жить?",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_3_42",
-      "word": "I hope that you didn't forget to invite Tom.",
-      "translation": "Надеюсь, ты не забыл пригласить Тома.",
       "language": "en"
     },
     {
@@ -1216,12 +1330,6 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_4_2",
-      "word": "Tom is going to join us later.",
-      "translation": "Том присоединится к нам позже.",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_4_3",
       "word": "Do you want a piece of candy?",
       "translation": "Хотите конфету?",
@@ -1270,12 +1378,6 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_4_11",
-      "word": "Tom told me that he'll join us later.",
-      "translation": "Том сказал мне, что присоединится к нам позже.",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_4_12",
       "word": "I wish you had come with us.",
       "translation": "Жаль, что ты не пошёл с нами.",
@@ -1285,18 +1387,6 @@
       "id": "pb_offersinvitations_4_13",
       "word": "Do you want to see something interesting?",
       "translation": "Хочешь увидеть кое-что интересное?",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_4_14",
-      "word": "I didn't come with Tom.",
-      "translation": "Я не пришел с Томом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_4_15",
-      "word": "What do you want me to do, Tom?",
-      "translation": "Что ты хочешь, чтобы я сделал, Том?",
       "language": "en"
     },
     {
@@ -1342,12 +1432,6 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_4_23",
-      "word": "Tom turned down that offer.",
-      "translation": "Том отклонил это предложение.",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_4_24",
       "word": "How much do you want to bet?",
       "translation": "Сколько ты хочешь поставить?",
@@ -1366,12 +1450,6 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_4_27",
-      "word": "Do you want to know why I lied to Tom?",
-      "translation": "Хотите знать, почему я соврал Тому?",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_4_28",
       "word": "This TV doesn't come with an HDMI cable.",
       "translation": "К этому телевизору не прилагается HDMI-кабель.",
@@ -1381,12 +1459,6 @@
       "id": "pb_offersinvitations_4_29",
       "word": "Do you want me to give you a massage?",
       "translation": "Сделать тебе массаж?",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_4_30",
-      "word": "Tom turned down our offer.",
-      "translation": "Том отклонил наше предложение.",
       "language": "en"
     },
     {
@@ -1408,12 +1480,6 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_4_34",
-      "word": "Tom wants to come with us to Boston.",
-      "translation": "Том хочет поехать с нами в Бостон.",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_4_35",
       "word": "How many people did you invite?",
       "translation": "Скольких людей ты пригласил?",
@@ -1429,12 +1495,6 @@
       "id": "pb_offersinvitations_4_37",
       "word": "Do you want small bills or large?",
       "translation": "Вы хотите мелкие купюры или крупные?",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_4_38",
-      "word": "Will Tom accept our offer?",
-      "translation": "Том примет наше предложение?",
       "language": "en"
     },
     {
@@ -1489,12 +1549,6 @@
       "id": "pb_offersinvitations_4_47",
       "word": "Do you want to continue?",
       "translation": "Хочешь продолжить?",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_4_48",
-      "word": "Why do you want to talk to Tom?",
-      "translation": "Зачем ты хочешь поговорить с Томом?",
       "language": "en"
     },
     {
@@ -1576,12 +1630,6 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_5_12",
-      "word": "Do you want to go with Tom?",
-      "translation": "Хочешь пойти с Томом?",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_5_13",
       "word": "What else do you want to do?",
       "translation": "Чем ты еще хочешь заняться?",
@@ -1642,12 +1690,6 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_5_23",
-      "word": "Do you want to keep dating Tom?",
-      "translation": "Ты хочешь продолжать встречаться с Томом?",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_5_24",
       "word": "I can't come with you.",
       "translation": "Я не могу пойти с тобой.",
@@ -1660,21 +1702,9 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_5_26",
-      "word": "We'll definitely invite Tom.",
-      "translation": "Мы обязательно пригласим Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_5_27",
       "word": "You didn't invite me.",
       "translation": "Ты меня не пригласил.",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_5_28",
-      "word": "I tried to persuade Tom to join us.",
-      "translation": "Я пытался убедить Тома к нам присоединиться.",
       "language": "en"
     },
     {
@@ -1687,12 +1717,6 @@
       "id": "pb_offersinvitations_5_30",
       "word": "Do you want anything?",
       "translation": "Хочешь чего-нибудь?",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_5_31",
-      "word": "You're going to have to come with us, Tom.",
-      "translation": "Тебе придётся пройти с нами, Том.",
       "language": "en"
     },
     {
@@ -1732,27 +1756,9 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_5_38",
-      "word": "I'll only go if you invite Tom, too.",
-      "translation": "Я пойду, только если ты Тома тоже пригласишь.",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_5_39",
-      "word": "Didn't Tom come with you?",
-      "translation": "Том не пришёл с собой?",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_5_40",
       "word": "What do you want to see?",
       "translation": "Что ты хочешь посмотреть?",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_5_41",
-      "word": "Tom declined the offer.",
-      "translation": "Том отклонил предложение.",
       "language": "en"
     },
     {
@@ -1822,18 +1828,6 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_6_3",
-      "word": "I'm not going if you don't invite Tom, too.",
-      "translation": "Я не пойду, если ты не пригласишь ещё и Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_6_4",
-      "word": "Do you want to hear about what Tom did?",
-      "translation": "Хочешь узнать, что сделал Том?",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_6_5",
       "word": "What do you want to tell us?",
       "translation": "Что ты хочешь нам сказать?",
@@ -1843,12 +1837,6 @@
       "id": "pb_offersinvitations_6_6",
       "word": "How much ice cream do you want?",
       "translation": "Сколько мороженого ты хочешь?",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_6_7",
-      "word": "Do you want to talk about Tom?",
-      "translation": "Хочешь поговорить о Томе?",
       "language": "en"
     },
     {
@@ -1879,12 +1867,6 @@
       "id": "pb_offersinvitations_6_12",
       "word": "Do you want us to wait?",
       "translation": "Ты хочешь, чтобы мы подождали?",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_6_13",
-      "word": "Tom can join us if he wants.",
-      "translation": "Том может присоединиться к нам, если хочет.",
       "language": "en"
     },
     {
@@ -1924,21 +1906,9 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_6_20",
-      "word": "I can come with Tom.",
-      "translation": "Я могу прийти с Томом.",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_6_21",
       "word": "Do you want a puppy?",
       "translation": "Хочешь щенка?",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_6_22",
-      "word": "Tom accepted our offer.",
-      "translation": "Том принял наше предложение.",
       "language": "en"
     },
     {
@@ -1954,27 +1924,9 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_6_25",
-      "word": "Tom declined Mary's offer.",
-      "translation": "Том отклонил предложение Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_6_26",
-      "word": "Tom didn't want to invite Mary.",
-      "translation": "Том не хотел приглашать Марию.",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_6_27",
       "word": "Do you want me to come?",
       "translation": "Хочешь, чтобы я пришёл?",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_6_28",
-      "word": "What else do you want me to tell Tom?",
-      "translation": "Что ещё ты хочешь, чтобы я сказал Тому?",
       "language": "en"
     },
     {
@@ -1999,18 +1951,6 @@
       "id": "pb_offersinvitations_6_32",
       "word": "Do you want to stop?",
       "translation": "Хочешь остановиться?",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_6_33",
-      "word": "Tom can't come with me to Boston.",
-      "translation": "Том не может приехать со мной в Бостон.",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_6_34",
-      "word": "Who did Tom come with?",
-      "translation": "С кем пришёл Том?",
       "language": "en"
     },
     {
@@ -2041,12 +1981,6 @@
       "id": "pb_offersinvitations_6_39",
       "word": "I persuaded him into accepting the offer.",
       "translation": "Я убедил его принять предложение.",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_6_40",
-      "word": "Tom didn't come with us to Boston.",
-      "translation": "Том не приехал с нами в Бостон.",
       "language": "en"
     },
     {
@@ -2134,12 +2068,6 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_7_5",
-      "word": "Tom is a guest.",
-      "translation": "Том - гость.",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_7_6",
       "word": "Do you want mashed potatoes?",
       "translation": "Хочешь картофельного пюре?",
@@ -2158,21 +2086,9 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_7_9",
-      "word": "Why do you want Tom to have it?",
-      "translation": "Почему ты хочешь, чтобы он был у Тома?",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_7_10",
       "word": "Our guest is waiting for us downstairs.",
       "translation": "Наш гость ждёт нас внизу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_7_11",
-      "word": "Do you want to leave with Tom?",
-      "translation": "Ты хочешь уйти с Томом?",
       "language": "en"
     },
     {
@@ -2206,12 +2122,6 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_7_17",
-      "word": "Do you want to tell me anything about Tom?",
-      "translation": "У тебя есть, что рассказать мне про Тома?",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_7_18",
       "word": "It's shameful to treat a child so cruelly.",
       "translation": "Стыдно так жестоко обращаться с ребёнком.",
@@ -2242,18 +2152,6 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_7_23",
-      "word": "Tom made Mary an offer she couldn't refuse.",
-      "translation": "Том сделал Мэри предложение, от которого она не смогла отказаться.",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_7_24",
-      "word": "Tom is going to come with me.",
-      "translation": "Том придёт со мной.",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_7_25",
       "word": "Do you want to tell me what happened?",
       "translation": "Ты не хочешь сказать мне, что случилось?",
@@ -2272,12 +2170,6 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_7_28",
-      "word": "Tom made us a generous offer.",
-      "translation": "Том сделал нам щедрое предложение.",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_7_29",
       "word": "Do you want to come inside?",
       "translation": "Хочешь войти?",
@@ -2287,12 +2179,6 @@
       "id": "pb_offersinvitations_7_30",
       "word": "My offer was declined.",
       "translation": "Моё предложение отклонили.",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_7_31",
-      "word": "Tom will join us later.",
-      "translation": "Том присоединится к нам позже.",
       "language": "en"
     },
     {
@@ -2335,24 +2221,6 @@
       "id": "pb_offersinvitations_7_38",
       "word": "Where do you want me to put this?",
       "translation": "Куда ты хочешь, чтобы я это положил?",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_7_39",
-      "word": "What do you want Tom to do?",
-      "translation": "Что вы хотите от Тома?",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_7_40",
-      "word": "Tom jumped at the offer.",
-      "translation": "Том ухватился за это предложение.",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_7_41",
-      "word": "Why do you treat Tom like this?",
-      "translation": "Почему ты так обращаешься с Томом?",
       "language": "en"
     },
     {
@@ -2470,21 +2338,9 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_8_11",
-      "word": "Tom can come with us if he wants to.",
-      "translation": "Том может пойти с нами, если хочет.",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_8_12",
       "word": "The reason he refused your offer is obvious.",
       "translation": "Причина, по которой он отклонил ваше предложение, очевидна.",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_8_13",
-      "word": "Tom, do you want to go to the pool with me?",
-      "translation": "Том, хочешь пойти со мной в бассейн?",
       "language": "en"
     },
     {
@@ -2506,12 +2362,6 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_8_17",
-      "word": "Do you want me to inform Tom about our decision?",
-      "translation": "Вы хотите, чтобы я сообщил Тому о нашем решении?",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_8_18",
       "word": "Can I come with you?",
       "translation": "Могу я пойти с тобой?",
@@ -2527,12 +2377,6 @@
       "id": "pb_offersinvitations_8_20",
       "word": "Do you want to go anywhere else?",
       "translation": "Ты ещё куда-то хочешь пойти?",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_8_21",
-      "word": "Tom accepted the offer.",
-      "translation": "Том принял предложение.",
       "language": "en"
     },
     {
@@ -2581,12 +2425,6 @@
       "id": "pb_offersinvitations_8_29",
       "word": "What can you offer?",
       "translation": "Что ты можешь предложить?",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_8_30",
-      "word": "Do you want to call Tom?",
-      "translation": "Хочешь позвонить Тому?",
       "language": "en"
     },
     {
@@ -2674,12 +2512,6 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_8_45",
-      "word": "What do you want from Tom?",
-      "translation": "Что вы хотите от Тома?",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_8_46",
       "word": "The question is do you want it.",
       "translation": "Вопрос в том, хочешь ли ты этого.",
@@ -2728,21 +2560,9 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_9_4",
-      "word": "Why didn't you invite Tom?",
-      "translation": "Почему ты Тома не пригласил?",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_9_5",
       "word": "I wish you could come with us.",
       "translation": "Жаль, что вы не можете с нами пойти.",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_9_6",
-      "word": "Can I come with Tom?",
-      "translation": "Можно мне с Томом прийти?",
       "language": "en"
     },
     {
@@ -2812,12 +2632,6 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_9_18",
-      "word": "Why do you want Tom?",
-      "translation": "Зачем тебе Том?",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_9_19",
       "word": "Do you want some honey?",
       "translation": "Хочешь мёда?",
@@ -2860,12 +2674,6 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_9_26",
-      "word": "What do you want Tom for?",
-      "translation": "Зачем тебе Том?",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_9_27",
       "word": "Which do you want?",
       "translation": "Какой ты хочешь?",
@@ -2896,33 +2704,15 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_9_32",
-      "word": "Tom might not invite us.",
-      "translation": "Возможно, Том нас не пригласит.",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_9_33",
       "word": "Do you want to see it again?",
       "translation": "Хочешь ещё раз его посмотреть?",
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_9_34",
-      "word": "Tom told me to treat others with respect.",
-      "translation": "Том сказал мне относиться к людям с уважением.",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_9_35",
       "word": "Do you want a lift?",
       "translation": "Тебя куда-нибудь подвезти?",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_9_36",
-      "word": "Tom can come with you if he wants to.",
-      "translation": "Том может прийти с тобой, если хочет.",
       "language": "en"
     },
     {
@@ -2935,12 +2725,6 @@
       "id": "pb_offersinvitations_9_38",
       "word": "Do you want to become famous?",
       "translation": "Хочешь стать знаменитым?",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_9_39",
-      "word": "Did Tom offer any resistance?",
-      "translation": "Том оказал сопротивление?",
       "language": "en"
     },
     {
@@ -2962,12 +2746,6 @@
       "language": "en"
     },
     {
-      "id": "pb_offersinvitations_9_43",
-      "word": "I didn't invite Tom.",
-      "translation": "Я не приглашал Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_offersinvitations_9_44",
       "word": "Do you want to know what your problem is?",
       "translation": "Хочешь знать, в чём твоя проблема?",
@@ -2977,12 +2755,6 @@
       "id": "pb_offersinvitations_9_45",
       "word": "Can you offer any evidence in support of what you say?",
       "translation": "Вы можете привести какое-нибудь доказательство в подтверждение ваших слов?",
-      "language": "en"
-    },
-    {
-      "id": "pb_offersinvitations_9_46",
-      "word": "Invite Tom, too.",
-      "translation": "Тома тоже пригласи.",
       "language": "en"
     },
     {

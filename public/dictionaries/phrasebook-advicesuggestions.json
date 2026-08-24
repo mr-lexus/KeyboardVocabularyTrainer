@@ -1,12 +1,276 @@
 {
   "id": "phrasebook-advicesuggestions",
   "name": "Advice & Suggestions",
-  "description": "Phrasebook for Advice & Suggestions",
+  "description": "Советы и рекомендации — как их дают и принимают в реальной речи",
   "entries": [
     {
-      "id": "pb_advicesuggestions_0_0",
-      "word": "Tom should consult a specialist.",
-      "translation": "Тому следует проконсультироваться со специалистом.",
+      "id": "pbq_advice_0",
+      "word": "What should I do?",
+      "translation": "Что мне делать?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_1",
+      "word": "What would you do in my place?",
+      "translation": "Что бы вы сделали на моём месте?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_2",
+      "word": "Any advice?",
+      "translation": "Есть какой-нибудь совет?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_3",
+      "word": "What do you suggest?",
+      "translation": "Что вы посоветуете?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_4",
+      "word": "You should see a doctor.",
+      "translation": "Тебе следует показаться врачу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_5",
+      "word": "You'd better hurry up.",
+      "translation": "Тебе лучше поторопиться.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_6",
+      "word": "If I were you, I’d apologize.",
+      "translation": "На твоём месте я бы извинился.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_7",
+      "word": "If I were you, I wouldn’t do it.",
+      "translation": "На твоём месте я бы этого не делал.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_8",
+      "word": "I strongly recommend this restaurant.",
+      "translation": "Я очень рекомендую этот ресторан.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_9",
+      "word": "Take my advice and get some rest.",
+      "translation": "Послушайся моего совета и отдохни.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_10",
+      "word": "Trust me on this one.",
+      "translation": "Поверь мне на слово.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_11",
+      "word": "Take it from me.",
+      "translation": "Поверь моему опыту.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_12",
+      "word": "Why don’t you talk to her about it?",
+      "translation": "Почему бы тебе не поговорить с ней об этом?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_13",
+      "word": "Have you tried turning it off and on?",
+      "translation": "Пробовал выключить и включить?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_14",
+      "word": "It might be worth calling first.",
+      "translation": "Возможно, стоит сначала позвонить.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_15",
+      "word": "You might want to double-check.",
+      "translation": "Вам, возможно, стоит перепроверить.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_16",
+      "word": "Be careful with that.",
+      "translation": "Будь осторожен с этим.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_17",
+      "word": "Watch out!",
+      "translation": "Осторожно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_18",
+      "word": "Look out below!",
+      "translation": "Осторожно, сверху падает!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_19",
+      "word": "Don’t touch it, it’s hot!",
+      "translation": "Не трогай, горячо!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_20",
+      "word": "Whatever you do, don’t panic.",
+      "translation": "Что бы ни случилось, не паникуй.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_21",
+      "word": "Just take it easy.",
+      "translation": "Просто не переживай.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_22",
+      "word": "Relax, everything will be fine.",
+      "translation": "Расслабься, всё будет хорошо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_23",
+      "word": "Don’t worry, it’s going to be okay.",
+      "translation": "Не волнуйся, всё будет хорошо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_24",
+      "word": "Calm down and think it over.",
+      "translation": "Успокойся и хорошо всё обдумай.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_25",
+      "word": "Sleep on it.",
+      "translation": "Отложи решение на утро.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_26",
+      "word": "Give it a try.",
+      "translation": "Попробуйте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_27",
+      "word": "It can’t hurt to ask.",
+      "translation": "Спросить никогда не вредно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_28",
+      "word": "Better safe than sorry.",
+      "translation": "Лучше перестраховаться.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_29",
+      "word": "When in doubt, ask.",
+      "translation": "Если сомневаешься — спроси.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_30",
+      "word": "Practice makes perfect.",
+      "translation": "Практика ведёт к совершенству.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_31",
+      "word": "Rome wasn’t built in a day.",
+      "translation": "Рим не сразу строился.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_32",
+      "word": "Slow and steady wins the race.",
+      "translation": "Тише едешь — дальше будешь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_33",
+      "word": "Don’t put all your eggs in one basket.",
+      "translation": "Не клади все яйца в одну корзину.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_34",
+      "word": "Actions speak louder than words.",
+      "translation": "Дела говорят громче слов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_35",
+      "word": "That’s a good idea.",
+      "translation": "Это хорошая идея.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_36",
+      "word": "Good thinking!",
+      "translation": "Здорово придумано!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_37",
+      "word": "That might work.",
+      "translation": "Это может сработать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_38",
+      "word": "I'll think about it.",
+      "translation": "Я подумаю над этим.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_39",
+      "word": "Let me sleep on it.",
+      "translation": "Дайте мне подумать до завтра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_40",
+      "word": "Thanks for the tip!",
+      "translation": "Спасибо за совет!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_41",
+      "word": "I’ll keep that in mind.",
+      "translation": "Я учту это.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_42",
+      "word": "Noted.",
+      "translation": "Принято. / Учтено.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_43",
+      "word": "Point taken.",
+      "translation": "Замечание принято.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_advice_44",
+      "word": "I'll take that under advisement.",
+      "translation": "Я приму это к сведению.",
       "language": "en"
     },
     {
@@ -28,33 +292,15 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_0_4",
-      "word": "We should inform Tom.",
-      "translation": "Нам надо сообщить Тому.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_0_5",
       "word": "Should I speak French?",
       "translation": "Мне говорить по-французски?",
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_0_6",
-      "word": "You'd better go look for Tom.",
-      "translation": "Ты бы пошёл поискал Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_0_7",
       "word": "Aren't you better now?",
       "translation": "Сейчас тебе не лучше?",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_0_8",
-      "word": "Tom should consult an expert.",
-      "translation": "Тому стоит проконсультироваться с экспертом.",
       "language": "en"
     },
     {
@@ -79,24 +325,6 @@
       "id": "pb_advicesuggestions_0_12",
       "word": "Wisdom is better than riches.",
       "translation": "Мудрость лучше богатства.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_0_13",
-      "word": "You should leave, Tom.",
-      "translation": "Тебе надо уйти, Том.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_0_14",
-      "word": "Tom sang better than Mary.",
-      "translation": "Том пел лучше Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_0_15",
-      "word": "Tom needs to be more careful.",
-      "translation": "Тому надо быть осторожнее.",
       "language": "en"
     },
     {
@@ -142,12 +370,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_0_23",
-      "word": "Tom should know this.",
-      "translation": "Том должен это знать.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_0_24",
       "word": "You should be ashamed.",
       "translation": "Тебе должно быть стыдно.",
@@ -157,12 +379,6 @@
       "id": "pb_advicesuggestions_0_25",
       "word": "Should I open the windows?",
       "translation": "Мне открыть окна?",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_0_26",
-      "word": "Tom says he'll be careful.",
-      "translation": "Том говорит, что будет осторожен.",
       "language": "en"
     },
     {
@@ -178,12 +394,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_0_29",
-      "word": "Tom said that Mary should go.",
-      "translation": "Том сказал, что Мэри надо пойти.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_0_30",
       "word": "I hope things get better.",
       "translation": "Я надеюсь, что станет лучше.",
@@ -193,12 +403,6 @@
       "id": "pb_advicesuggestions_0_31",
       "word": "We better go.",
       "translation": "Мы лучше пойдём.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_0_32",
-      "word": "Tom doesn't listen to me.",
-      "translation": "Том меня не слушает.",
       "language": "en"
     },
     {
@@ -217,12 +421,6 @@
       "id": "pb_advicesuggestions_0_35",
       "word": "Why should I give you this?",
       "translation": "С чего мне тебе это давать?",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_0_36",
-      "word": "Tom should already be there.",
-      "translation": "Том уже должен быть там.",
       "language": "en"
     },
     {
@@ -292,30 +490,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_0_48",
-      "word": "Tom is much better.",
-      "translation": "Тому гораздо лучше.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_0_49",
-      "word": "Tom should do something.",
-      "translation": "Тому надо что-то делать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_1_0",
-      "word": "Tell Tom what he should do.",
-      "translation": "Скажите Тому, что ему следует делать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_1_1",
-      "word": "You'd better hurry up.",
-      "translation": "Тебе лучше поторопиться.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_1_2",
       "word": "You should thank him.",
       "translation": "Тебе надо бы его поблагодарить.",
@@ -337,12 +511,6 @@
       "id": "pb_advicesuggestions_1_5",
       "word": "You've gotten better.",
       "translation": "Ты стал лучше.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_1_6",
-      "word": "Tom did what he should do.",
-      "translation": "Том сделал то, что должен был.",
       "language": "en"
     },
     {
@@ -418,21 +586,9 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_1_19",
-      "word": "You should let Tom leave.",
-      "translation": "Тебе надо отпустить Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_1_20",
       "word": "Which word fits better here?",
       "translation": "Какое слово здесь лучше всего подходит?",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_1_21",
-      "word": "Should we be afraid of Tom?",
-      "translation": "Нам надо бояться Тома?",
       "language": "en"
     },
     {
@@ -466,12 +622,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_1_27",
-      "word": "You should forget Tom.",
-      "translation": "Тебе надо забыть Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_1_28",
       "word": "That's much better.",
       "translation": "Так гораздо лучше.",
@@ -481,12 +631,6 @@
       "id": "pb_advicesuggestions_1_29",
       "word": "You should come.",
       "translation": "Тебе стоит прийти.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_1_30",
-      "word": "Tom said he should go.",
-      "translation": "Том сказал, что ему надо идти.",
       "language": "en"
     },
     {
@@ -517,12 +661,6 @@
       "id": "pb_advicesuggestions_1_35",
       "word": "We'd better throw it away.",
       "translation": "Нам лучше его выбросить.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_1_36",
-      "word": "I should go talk to Tom.",
-      "translation": "Мне надо бы пойти поговорить с Томом.",
       "language": "en"
     },
     {
@@ -586,12 +724,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_1_47",
-      "word": "Tom told me he should go.",
-      "translation": "Том сказал мне, что ему надо идти.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_1_48",
       "word": "I suggest you shut up.",
       "translation": "Советую тебе заткнуться.",
@@ -616,12 +748,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_2_2",
-      "word": "When should we tell Tom this?",
-      "translation": "Когда нам сказать об этом Тому?",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_2_3",
       "word": "What should I call you?",
       "translation": "Как мне тебя называть?",
@@ -640,12 +766,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_2_6",
-      "word": "I'd better go find Tom.",
-      "translation": "Я лучше пойду найду Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_2_7",
       "word": "I'll be really careful.",
       "translation": "Я буду действительно осторожен.",
@@ -661,12 +781,6 @@
       "id": "pb_advicesuggestions_2_9",
       "word": "I'm better than him.",
       "translation": "Я лучше, чем он.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_2_10",
-      "word": "You'd better listen to Tom.",
-      "translation": "Послушай лучше Тома.",
       "language": "en"
     },
     {
@@ -700,18 +814,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_2_16",
-      "word": "Tom, you should see this.",
-      "translation": "Том, тебе стоит на это посмотреть.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_2_17",
-      "word": "Tom can swim better than I can.",
-      "translation": "Том плавает лучше меня.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_2_18",
       "word": "It's way better here.",
       "translation": "Здесь гораздо лучше.",
@@ -730,21 +832,9 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_2_21",
-      "word": "Tom was let off with a warning.",
-      "translation": "Том отделался предупреждением.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_2_22",
       "word": "Should I write that down?",
       "translation": "Я должен это записать?",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_2_23",
-      "word": "Tom should tell Mary the truth.",
-      "translation": "Тому стоит сказать Мэри правду.",
       "language": "en"
     },
     {
@@ -772,12 +862,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_2_28",
-      "word": "You should thank Tom for helping.",
-      "translation": "Ты должен поблагодарить Тома за помощь.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_2_29",
       "word": "We should stop.",
       "translation": "Нам надо остановиться.",
@@ -796,27 +880,9 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_2_32",
-      "word": "We should call Tom.",
-      "translation": "Нам бы следовало позвонить Тому.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_2_33",
-      "word": "Should we go and try to find Tom?",
-      "translation": "Должны ли мы пойти и попытаться найти Тома?",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_2_34",
       "word": "The sooner it's over, the better.",
       "translation": "Чем раньше это закончится, тем лучше.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_2_35",
-      "word": "Tom thanked me for warning him.",
-      "translation": "Том поблагодарил меня за то, что я его предупредил.",
       "language": "en"
     },
     {
@@ -829,12 +895,6 @@
       "id": "pb_advicesuggestions_2_37",
       "word": "Why should I be mad at you?",
       "translation": "Почему я должен на тебя сердиться?",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_2_38",
-      "word": "No one knows this better than Tom.",
-      "translation": "Никто не знает этого лучше, чем Том.",
       "language": "en"
     },
     {
@@ -874,12 +934,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_2_45",
-      "word": "Tom is better looking than John.",
-      "translation": "Том симпатичнее Джона.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_2_46",
       "word": "You'd better come in.",
       "translation": "Тебе лучше зайти внутрь.",
@@ -892,21 +946,9 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_2_48",
-      "word": "Tom speaks better French than me.",
-      "translation": "Том говорит по-французски лучше меня.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_2_49",
       "word": "Where should we pitch the tent?",
       "translation": "Где нам поставить палатку?",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_3_0",
-      "word": "Tom says he's feeling better now.",
-      "translation": "Том говорит, что сейчас лучше себя чувствует.",
       "language": "en"
     },
     {
@@ -922,27 +964,9 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_3_3",
-      "word": "You should report Tom.",
-      "translation": "Вам следует сообщить Тому.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_3_4",
-      "word": "Tom swims a lot better than Mary.",
-      "translation": "Том плавает гораздо лучше Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_3_5",
       "word": "These pens are better than those.",
       "translation": "Эти ручки лучше тех.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_3_6",
-      "word": "Tom says he already feels better.",
-      "translation": "Том говорит, что ему уже лучше.",
       "language": "en"
     },
     {
@@ -1030,12 +1054,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_3_21",
-      "word": "I hope Tom will soon be better.",
-      "translation": "Надеюсь, Тому скоро станет лучше.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_3_22",
       "word": "Men are better at this than women.",
       "translation": "У мужчин это получается лучше, чем у женщин.",
@@ -1060,45 +1078,9 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_3_26",
-      "word": "Tom swims better than I do.",
-      "translation": "Том плавает лучше меня.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_3_27",
-      "word": "Tom deserves a better life.",
-      "translation": "Том заслуживает лучшей жизни.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_3_28",
-      "word": "I told Tom he should go.",
-      "translation": "Я сказал Тому, что ему надо идти.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_3_29",
       "word": "There's someone I should talk to.",
       "translation": "Мне надо кое с кем поговорить.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_3_30",
-      "word": "Tom should leave before it rains.",
-      "translation": "Тому бы следовало уйти до дождя.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_3_31",
-      "word": "Tom should recognize this.",
-      "translation": "Том должен это признать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_3_32",
-      "word": "Should I let Tom go?",
-      "translation": "Мне отпустить Тома?",
       "language": "en"
     },
     {
@@ -1108,39 +1090,9 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_3_34",
-      "word": "Is Tom better yet?",
-      "translation": "Тому уже лучше?",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_3_35",
-      "word": "You'd better sit down, Tom.",
-      "translation": "Лучше присядь, Том.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_3_36",
-      "word": "Tom should do the same.",
-      "translation": "Тому следует сделать то же самое.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_3_37",
-      "word": "Tom was one of my better students.",
-      "translation": "Том был одним из моих лучших студентов.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_3_38",
       "word": "You should leave me alone.",
       "translation": "Вы должны оставить меня в покое.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_3_39",
-      "word": "Tom said that Mary needed to be more careful.",
-      "translation": "Том сказал, что Мэри нужно быть осторожнее.",
       "language": "en"
     },
     {
@@ -1156,12 +1108,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_3_42",
-      "word": "Tom is better able to do that than me.",
-      "translation": "У Тома это лучше получается, чем у меня.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_3_43",
       "word": "It's one of their better songs.",
       "translation": "Это одна из их лучших песен.",
@@ -1171,18 +1117,6 @@
       "id": "pb_advicesuggestions_3_44",
       "word": "I'm the one you should be listening to.",
       "translation": "Ты меня должен слушать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_3_45",
-      "word": "I hope Tom is careful.",
-      "translation": "Надеюсь, Том осторожен.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_3_46",
-      "word": "Tom isn't going to listen to me.",
-      "translation": "Том не будет меня слушать.",
       "language": "en"
     },
     {
@@ -1222,12 +1156,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_4_3",
-      "word": "Tom really should be in Australia by now.",
-      "translation": "Том и вправду уже должен быть сейчас в Австралии.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_4_4",
       "word": "You're really looking much better.",
       "translation": "Ты выглядишь действительно гораздо лучше.",
@@ -1258,27 +1186,9 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_4_9",
-      "word": "You should just talk to Tom.",
-      "translation": "Вам надо просто поговорить с Томом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_4_10",
-      "word": "Tom ignored Mary's warning.",
-      "translation": "Том проигнорировал предупреждение Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_4_11",
       "word": "Yours was better than mine.",
       "translation": "Твой был лучше моего.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_4_12",
-      "word": "Tom tried to warn Mary what might happen.",
-      "translation": "Том пытался предупредить Мэри о том, что может случиться.",
       "language": "en"
     },
     {
@@ -1306,18 +1216,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_4_17",
-      "word": "Didn't I warn you about Tom?",
-      "translation": "Разве я тебя не предупреждал насчёт Тома?",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_4_18",
-      "word": "Tom speaks French better than you do.",
-      "translation": "Том говорит по-французски лучше тебя.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_4_19",
       "word": "It seems to me that we should go now.",
       "translation": "Мне кажется, нам пора идти.",
@@ -1327,18 +1225,6 @@
       "id": "pb_advicesuggestions_4_20",
       "word": "Where else should we go?",
       "translation": "Куда нам ещё пойти?",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_4_21",
-      "word": "Should we call Tom?",
-      "translation": "Нам позвонить Тому?",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_4_22",
-      "word": "Tom is a lot better at doing that than me.",
-      "translation": "У Тома это получается гораздо лучше, чем у меня.",
       "language": "en"
     },
     {
@@ -1369,12 +1255,6 @@
       "id": "pb_advicesuggestions_4_27",
       "word": "Why should I take the risk?",
       "translation": "Зачем мне рисковать?",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_4_28",
-      "word": "Tom cooks even better than I do.",
-      "translation": "Том готовит даже лучше меня.",
       "language": "en"
     },
     {
@@ -1444,33 +1324,9 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_4_40",
-      "word": "Tom speaks French better than me.",
-      "translation": "Том говорит по-французски лучше меня.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_4_41",
-      "word": "Tom used to speak French better than Mary.",
-      "translation": "Том когда-то говорил по-французски лучше Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_4_42",
       "word": "I've tried to warn you.",
       "translation": "Я пытался тебя предупредить.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_4_43",
-      "word": "Tom isn't doing better.",
-      "translation": "Тому не лучше.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_4_44",
-      "word": "I should be there helping Tom.",
-      "translation": "Я должен быть там и помогать Тому.",
       "language": "en"
     },
     {
@@ -1480,21 +1336,9 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_4_46",
-      "word": "I like Tom's plan better than Mary's plan.",
-      "translation": "План Тома мне нравится больше, чем план Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_4_47",
       "word": "You should follow his advice.",
       "translation": "Вам стоит последовать его совету.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_4_48",
-      "word": "I like Tom better.",
-      "translation": "Мне больше нравится Том.",
       "language": "en"
     },
     {
@@ -1510,45 +1354,9 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_5_1",
-      "word": "Tell Tom where he should go next.",
-      "translation": "Скажите Тому, куда ему надо потом пойти.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_5_2",
       "word": "I would like to get to know you better.",
       "translation": "Я хотел бы узнать тебя получше.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_5_3",
-      "word": "I know Tom better than anyone else does.",
-      "translation": "Я знаю Тома лучше, чем кто бы то ни было.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_5_4",
-      "word": "Tom types better than Mary.",
-      "translation": "Том печатает лучше Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_5_5",
-      "word": "Tom can speak French better than I can.",
-      "translation": "Том лучше меня может говорить по-французски.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_5_6",
-      "word": "Tom is better able to do that than I am.",
-      "translation": "У Тома это лучше получается, чем у меня.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_5_7",
-      "word": "You should go talk to Tom.",
-      "translation": "Тебе надо бы пойти поговорить с Томом.",
       "language": "en"
     },
     {
@@ -1570,45 +1378,15 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_5_11",
-      "word": "Tom plans to be more careful in the future.",
-      "translation": "Том планирует в будущем быть осторожнее.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_5_12",
       "word": "That one isn't better.",
       "translation": "Тот не лучше.",
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_5_13",
-      "word": "Tom says he feels much better now.",
-      "translation": "Том говорит, что теперь он чувствует себя намного лучше.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_5_14",
-      "word": "I wonder why Tom didn't warn me.",
-      "translation": "Интересно, почему Том меня не предупредил.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_5_15",
       "word": "I couldn't find anything better.",
       "translation": "Я не нашёл ничего лучшего.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_5_16",
-      "word": "Tom should go to Boston with you.",
-      "translation": "Тому следует поехать в Бостон с тобой.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_5_17",
-      "word": "You should listen to Tom.",
-      "translation": "Тебе следует слушать Тома.",
       "language": "en"
     },
     {
@@ -1636,21 +1414,9 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_5_22",
-      "word": "Tom didn't know how he should answer.",
-      "translation": "Том не знал, что ему следует ответить.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_5_23",
       "word": "I don't see why we should have to suffer.",
       "translation": "Не понимаю, почему мы должны страдать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_5_24",
-      "word": "Tom sang better than Mary did.",
-      "translation": "Том пел лучше Мэри.",
       "language": "en"
     },
     {
@@ -1666,18 +1432,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_5_27",
-      "word": "You should do what Tom says.",
-      "translation": "Тебе следует делать то, что Том говорит.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_5_28",
-      "word": "Tom can do better.",
-      "translation": "Том может лучше.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_5_29",
       "word": "Rainforests should be preserved.",
       "translation": "Тропические леса должны быть сохранены.",
@@ -1687,12 +1441,6 @@
       "id": "pb_advicesuggestions_5_30",
       "word": "I don't have anybody who'll listen to me.",
       "translation": "Меня некому выслушать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_5_31",
-      "word": "How is Tom better than me?",
-      "translation": "Чем Том лучше меня?",
       "language": "en"
     },
     {
@@ -1714,33 +1462,9 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_5_35",
-      "word": "Tom is getting better at driving.",
-      "translation": "Том уже лучше водит.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_5_36",
       "word": "How long should I wait?",
       "translation": "Сколько мне ждать?",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_5_37",
-      "word": "Nobody does it better than Tom.",
-      "translation": "Никто не делает этого лучше, чем Том.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_5_38",
-      "word": "Tom does it better than me.",
-      "translation": "Том делает это лучше меня.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_5_39",
-      "word": "Why should Tom say anything?",
-      "translation": "Почему Том должен что-то говорить?",
       "language": "en"
     },
     {
@@ -1756,12 +1480,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_5_42",
-      "word": "Tom is better than us.",
-      "translation": "Том лучше нас.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_5_43",
       "word": "The wounded are getting better.",
       "translation": "Раненые поправляются.",
@@ -1771,18 +1489,6 @@
       "id": "pb_advicesuggestions_5_44",
       "word": "You'd better keep that a secret.",
       "translation": "Лучше храни это в секрете.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_5_45",
-      "word": "I tried to warn Tom.",
-      "translation": "Я пытался предупредить Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_5_46",
-      "word": "I suggest that you talk to Tom.",
-      "translation": "Предлагаю тебе поговорить с Томом.",
       "language": "en"
     },
     {
@@ -1810,45 +1516,9 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_6_1",
-      "word": "You should tell Tom everything.",
-      "translation": "Тебе надо всё рассказать Тому.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_6_2",
-      "word": "Tom said that Mary needs to be careful.",
-      "translation": "Том сказал, что Мэри нужно быть осторожной.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_6_3",
-      "word": "Tom is a much better dancer than Mary.",
-      "translation": "Том танцует гораздо лучше Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_6_4",
       "word": "You should lose some weight.",
       "translation": "Тебе надо бы похудеть.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_6_5",
-      "word": "What should I do about Tom?",
-      "translation": "Что мне делать с Томом?",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_6_6",
-      "word": "Tom said you speak French better than Mary.",
-      "translation": "Том сказал, что ты говоришь по-французски лучше Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_6_7",
-      "word": "You should write to Tom.",
-      "translation": "Тебе надо написать Тому.",
       "language": "en"
     },
     {
@@ -1864,12 +1534,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_6_10",
-      "word": "You should sit with Tom.",
-      "translation": "Тебе стоит посидеть с Томом.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_6_11",
       "word": "We should call off the search.",
       "translation": "Мы должны прекратить поиски.",
@@ -1879,12 +1543,6 @@
       "id": "pb_advicesuggestions_6_12",
       "word": "Your English has gotten better.",
       "translation": "Ваш английский стал лучше.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_6_13",
-      "word": "Tom can speak French better than you.",
-      "translation": "Том может разговаривать по-французски лучше тебя.",
       "language": "en"
     },
     {
@@ -1912,12 +1570,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_6_18",
-      "word": "Tom is better.",
-      "translation": "Тому лучше.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_6_19",
       "word": "You should have listened to me.",
       "translation": "Тебе следовало меня послушать.",
@@ -1942,21 +1594,9 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_6_23",
-      "word": "I've got to warn Tom.",
-      "translation": "Мне надо предупредить Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_6_24",
       "word": "I'm older than you and I know better.",
       "translation": "Я старше тебя и лучше знаю.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_6_25",
-      "word": "Tom feels much better now.",
-      "translation": "Сейчас Тому намного лучше.",
       "language": "en"
     },
     {
@@ -1978,12 +1618,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_6_29",
-      "word": "Tom should be here in a couple of hours.",
-      "translation": "Том через пару часов должен быть здесь.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_6_30",
       "word": "I don't know as much as I should.",
       "translation": "Я знаю меньше, чем надо бы.",
@@ -1999,12 +1633,6 @@
       "id": "pb_advicesuggestions_6_32",
       "word": "You should know that's impossible.",
       "translation": "Тебе следует знать, что это невозможно.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_6_33",
-      "word": "Should we tell Tom we're leaving?",
-      "translation": "Нам сказать Тому, что мы уходим?",
       "language": "en"
     },
     {
@@ -2050,12 +1678,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_6_41",
-      "word": "The sooner Tom does that, the better.",
-      "translation": "Чем быстрее Том это сделает, тем лучше.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_6_42",
       "word": "Why should I listen to you?",
       "translation": "Почему я должен тебя слушать?",
@@ -2074,27 +1696,9 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_6_45",
-      "word": "Tom's French is better than mine.",
-      "translation": "Французский Тома лучше, чем у меня.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_6_46",
       "word": "At least we should try.",
       "translation": "По крайней мере, нам стоит попробовать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_6_47",
-      "word": "I should go warn Tom.",
-      "translation": "Мне стоит предупредить Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_6_48",
-      "word": "Tom said more than he should have.",
-      "translation": "Том сказал больше, чем следовало.",
       "language": "en"
     },
     {
@@ -2140,12 +1744,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_7_6",
-      "word": "Tom is much better at French than I am.",
-      "translation": "Том гораздо лучше знает французский, чем я.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_7_7",
       "word": "We should have gotten married.",
       "translation": "Нам надо было пожениться.",
@@ -2176,12 +1774,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_7_12",
-      "word": "Why didn't Tom warn us?",
-      "translation": "Почему Том не предупредил нас?",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_7_13",
       "word": "Who should go first?",
       "translation": "Кто должен идти первым?",
@@ -2191,12 +1783,6 @@
       "id": "pb_advicesuggestions_7_14",
       "word": "Two opinions are better than one.",
       "translation": "Два мнения лучше, чем одно.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_7_15",
-      "word": "Tom thinks we should leave early.",
-      "translation": "Том думает, что мы должны уехать рано.",
       "language": "en"
     },
     {
@@ -2218,12 +1804,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_7_19",
-      "word": "Tom should be here within fifteen minutes.",
-      "translation": "Том должен быть здесь в течение 15 минут.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_7_20",
       "word": "You should get started.",
       "translation": "Вам надо начинать.",
@@ -2242,24 +1822,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_7_23",
-      "word": "You should tell Tom what happened.",
-      "translation": "Тебе следует сказать Тому, что случилось.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_7_24",
-      "word": "Tom should've known better.",
-      "translation": "Тому следовало бы знать лучше.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_7_25",
-      "word": "Tom asked me where he should park.",
-      "translation": "Том спросил у меня, где ему припарковаться.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_7_26",
       "word": "I moved closer, so I could hear better.",
       "translation": "Я подошёл поближе, чтобы лучше слышать.",
@@ -2275,18 +1837,6 @@
       "id": "pb_advicesuggestions_7_28",
       "word": "One should keep one's promise.",
       "translation": "Обещания надо выполнять.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_7_29",
-      "word": "Tom did better than Mary.",
-      "translation": "Том справился лучше Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_7_30",
-      "word": "We should let Tom rest.",
-      "translation": "Нам следует дать Тому отдохнуть.",
       "language": "en"
     },
     {
@@ -2338,12 +1888,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_7_39",
-      "word": "If Tom calls, what should I say?",
-      "translation": "Что мне сказать, если Том позвонит?",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_7_40",
       "word": "Watch out for rowdy or drunk customers.",
       "translation": "Остерегайтесь пьяных или хулиганствующих клиентов.",
@@ -2380,27 +1924,9 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_7_46",
-      "word": "Why won't Tom listen to me?",
-      "translation": "Почему Том не желает меня слушать?",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_7_47",
-      "word": "Tom thought it would be better to leave.",
-      "translation": "Том подумал, что будет лучше уйти.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_7_48",
       "word": "What should I bring you?",
       "translation": "Что тебе привезти?",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_7_49",
-      "word": "Why should I thank Tom?",
-      "translation": "За что мне благодарить Тома?",
       "language": "en"
     },
     {
@@ -2416,12 +1942,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_8_2",
-      "word": "Tom has gotten much better at skiing.",
-      "translation": "Том стал гораздо лучше ходить на лыжах.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_8_3",
       "word": "What should I have done?",
       "translation": "Что мне надо было делать?",
@@ -2434,33 +1954,9 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_8_5",
-      "word": "I didn't know what I should say to Tom.",
-      "translation": "Я не знал, что мне сказать Тому.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_8_6",
-      "word": "Tom has better plan.",
-      "translation": "У Тома есть план получше.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_8_7",
       "word": "Women are better at this than men.",
       "translation": "Женщины лучше в этом, чем мужчины.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_8_8",
-      "word": "Should I wake Tom up now?",
-      "translation": "Мне Тома сейчас разбудить?",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_8_9",
-      "word": "It won't be long before Tom gets better.",
-      "translation": "Тому совсем скоро станет лучше.",
       "language": "en"
     },
     {
@@ -2476,27 +1972,9 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_8_12",
-      "word": "Tom is one of my better students.",
-      "translation": "Том - один из моих лучших студентов.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_8_13",
-      "word": "Be careful not to offend Tom.",
-      "translation": "Смотри не обидь Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_8_14",
       "word": "You should start as early as possible.",
       "translation": "Вам следует начать как можно раньше.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_8_15",
-      "word": "I'll have to warn Tom.",
-      "translation": "Мне надо будет предупредить Тома.",
       "language": "en"
     },
     {
@@ -2524,12 +2002,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_8_20",
-      "word": "I want to get to know Tom better.",
-      "translation": "Я хочу узнать Тома получше.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_8_21",
       "word": "Tell me what I should do next.",
       "translation": "Скажи мне, что мне делать дальше.",
@@ -2539,12 +2011,6 @@
       "id": "pb_advicesuggestions_8_22",
       "word": "We should be able to be there by 2:30.",
       "translation": "Мы должны суметь там быть к половине третьего.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_8_23",
-      "word": "Should I tell Tom you're coming?",
-      "translation": "Мне сказать Тому, что ты приезжаешь?",
       "language": "en"
     },
     {
@@ -2584,21 +2050,9 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_8_30",
-      "word": "Tom says that he's feeling a lot better.",
-      "translation": "Том говорит, что чувствует себя намного лучше.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_8_31",
       "word": "What changes should we expect?",
       "translation": "Каких изменений нам ждать?",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_8_32",
-      "word": "We should give Tom another chance.",
-      "translation": "Мы должны дать Тому ещё один шанс.",
       "language": "en"
     },
     {
@@ -2623,12 +2077,6 @@
       "id": "pb_advicesuggestions_8_36",
       "word": "You can do better than this.",
       "translation": "Ты можешь сделать лучше.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_8_37",
-      "word": "Tom was trying to warn me.",
-      "translation": "Том пытался меня предупредить.",
       "language": "en"
     },
     {
@@ -2662,27 +2110,9 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_8_43",
-      "word": "Tom says he feels a little better.",
-      "translation": "Том говорит, что ему получше.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_8_44",
-      "word": "Tom said we needed to be more careful.",
-      "translation": "Том сказал, что нам нужно быть осторожнее.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_8_45",
       "word": "You aren't any better than me.",
       "translation": "Ты ничуть не лучше меня.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_8_46",
-      "word": "You should follow Tom's example.",
-      "translation": "Бери пример с Тома!",
       "language": "en"
     },
     {
@@ -2704,18 +2134,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_9_0",
-      "word": "Tom says I should wait.",
-      "translation": "Том говорит, что мне нужно подождать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_9_1",
-      "word": "I know that Tom does that better than Mary.",
-      "translation": "Я знаю, что Том делает это лучше Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_9_2",
       "word": "We expected better.",
       "translation": "Мы ожидали лучшего.",
@@ -2725,12 +2143,6 @@
       "id": "pb_advicesuggestions_9_3",
       "word": "I will advise you on the matter.",
       "translation": "Я Вас проконсультирую по этому вопросу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_9_4",
-      "word": "Tom was so careful.",
-      "translation": "Том был так осторожен.",
       "language": "en"
     },
     {
@@ -2758,12 +2170,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_9_9",
-      "word": "I knew Tom better than he thought I did.",
-      "translation": "Я знал Тома лучше, чем он думал.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_9_10",
       "word": "How can you suggest such a thing to me?",
       "translation": "Как вы смеете мне такое предлагать?",
@@ -2782,12 +2188,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_9_13",
-      "word": "Tom is better at chess than I am.",
-      "translation": "Том играет в шахматы лучше меня.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_9_14",
       "word": "I know that I could've done that better.",
       "translation": "Я знаю, что я мог сделать это лучше.",
@@ -2797,12 +2197,6 @@
       "id": "pb_advicesuggestions_9_15",
       "word": "Is there anything I should know?",
       "translation": "Есть что-нибудь, что мне следовало бы знать?",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_9_16",
-      "word": "You should call Tom as soon as possible.",
-      "translation": "Вам следует как можно скорее позвонить Тому.",
       "language": "en"
     },
     {
@@ -2842,12 +2236,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_9_23",
-      "word": "Tom should stop his tomfoolery.",
-      "translation": "Тому следует прекратить фиглярничать.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_9_24",
       "word": "I just want to do better.",
       "translation": "Я просто хочу сделать лучше.",
@@ -2884,27 +2272,9 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_9_30",
-      "word": "Tom said I should tell you.",
-      "translation": "Том сказал, что я должен сказать тебе.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_9_31",
-      "word": "You should watch out for Tom.",
-      "translation": "Тебе следует опасаться Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_9_32",
       "word": "I had a better plan.",
       "translation": "У меня был план получше.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_9_33",
-      "word": "Tom told me that I should be more careful.",
-      "translation": "Том сказал мне, что я должен быть более осторожным.",
       "language": "en"
     },
     {
@@ -2938,12 +2308,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_9_39",
-      "word": "Tom should do the same thing I do.",
-      "translation": "Том должен сделать то же, что и я.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_9_40",
       "word": "Where should I put it?",
       "translation": "Куда мне это положить?",
@@ -2968,12 +2332,6 @@
       "language": "en"
     },
     {
-      "id": "pb_advicesuggestions_9_44",
-      "word": "Tom didn't warn me about what might happen.",
-      "translation": "Том не предупреждал меня о том, что может случиться.",
-      "language": "en"
-    },
-    {
       "id": "pb_advicesuggestions_9_45",
       "word": "You'd better not have drunk all the milk.",
       "translation": "Лучше бы ты не выпил всё молоко.",
@@ -2995,12 +2353,6 @@
       "id": "pb_advicesuggestions_9_48",
       "word": "I don't know why that should surprise me.",
       "translation": "Не знаю, почему это должно меня удивлять.",
-      "language": "en"
-    },
-    {
-      "id": "pb_advicesuggestions_9_49",
-      "word": "Tom said that Mary needed to be careful.",
-      "translation": "Том сказал, что Мэри нужно быть осторожной.",
       "language": "en"
     }
   ]

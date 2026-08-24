@@ -1,8 +1,254 @@
 {
   "id": "phrasebook-jobinterview",
   "name": "Job Interview",
-  "description": "Phrasebook for Job Interview",
+  "description": "Собеседование: самопрезентация, типичные вопросы и ответы",
   "entries": [
+    {
+      "id": "pbq_interview_0",
+      "word": "Thanks for coming in today.",
+      "translation": "Спасибо, что пришли сегодня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_1",
+      "word": "Thank you for inviting me.",
+      "translation": "Спасибо за приглашение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_2",
+      "word": "Nice to meet you in person.",
+      "translation": "Приятно познакомиться лично.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_3",
+      "word": "Did you find our office okay?",
+      "translation": "Вы легко нашли наш офис?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_4",
+      "word": "Tell me about yourself.",
+      "translation": "Расскажите о себе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_5",
+      "word": "Where do you see yourself in five years?",
+      "translation": "Где вы видите себя через пять лет?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_6",
+      "word": "Why do you want to work here?",
+      "translation": "Почему вы хотите работать у нас?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_7",
+      "word": "Why did you leave your last job?",
+      "translation": "Почему вы ушли с прошлой работы?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_8",
+      "word": "What are your strengths?",
+      "translation": "Каковы ваши сильные стороны?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_9",
+      "word": "What would you say your weaknesses are?",
+      "translation": "Какие у вас слабые стороны?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_10",
+      "word": "I tend to be a perfectionist, but I’m working on it.",
+      "translation": "Я склонен к перфекционизму, но работаю над этим.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_11",
+      "word": "I work well both alone and in a team.",
+      "translation": "Я хорошо работаю и один, и в команде.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_12",
+      "word": "I’m a fast learner.",
+      "translation": "Я быстро учусь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_13",
+      "word": "I pay attention to detail.",
+      "translation": "Я внимателен к деталям.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_14",
+      "word": "I stay calm under pressure.",
+      "translation": "Я сохраняю спокойствие под давлением.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_15",
+      "word": "Describe a difficult situation and how you handled it.",
+      "translation": "Опишите сложную ситуацию и то, как вы её решили.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_16",
+      "word": "Give an example of teamwork from your experience.",
+      "translation": "Приведите пример командной работы из вашего опыта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_17",
+      "word": "Have you ever missed a deadline? What happened?",
+      "translation": "Вы когда-нибудь срывали срок? Что произошло?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_18",
+      "word": "I owned up to the mistake and fixed the process.",
+      "translation": "Я признал ошибку и исправил процесс.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_19",
+      "word": "What do you know about our company?",
+      "translation": "Что вы знаете о нашей компании?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_20",
+      "word": "I’ve been following your products for years.",
+      "translation": "Я слежу за вашими продуктами уже много лет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_21",
+      "word": "What experience do you have with…",
+      "translation": "Какой у вас опыт работы с...",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_22",
+      "word": "I have three years of experience in this field.",
+      "translation": "У меня трёхлетний опыт в этой сфере.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_23",
+      "word": "In my previous role, I managed a team of five.",
+      "translation": "На предыдущем месте я руководил командой из пяти человек.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_24",
+      "word": "I led the migration project last year.",
+      "translation": "В прошлом году я вёл проект по миграции.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_25",
+      "word": "Are you comfortable working overtime occasionally?",
+      "translation": "Вам окей иногда работать сверхурочно?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_26",
+      "word": "Are you willing to relocate?",
+      "translation": "Готовы ли вы переехать?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_27",
+      "word": "Do you have any questions for us?",
+      "translation": "Есть ли у вас вопросы к нам?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_28",
+      "word": "Yes — how big is the team I’d be joining?",
+      "translation": "Да — насколько большая команда, к которой я присоединюсь?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_29",
+      "word": "What does a typical day look like here?",
+      "translation": "Как выглядит обычный рабочий день здесь?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_30",
+      "word": "How do you measure success in this role?",
+      "translation": "Как вы оцениваете успех в этой роли?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_31",
+      "word": "What are the next steps in the process?",
+      "translation": "Какие следующие шаги в процессе отбора?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_32",
+      "word": "We’ll get back to you within a week.",
+      "translation": "Мы свяжемся с вами в течение недели.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_33",
+      "word": "Thank you for your time. I look forward to hearing from you.",
+      "translation": "Спасибо за уделённое время. С нетерпением жду вашего ответа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_34",
+      "word": "What salary range are you expecting?",
+      "translation": "На какой диапазон зарплаты вы рассчитываете?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_35",
+      "word": "Based on market rates, I’m looking at sixty to seventy thousand.",
+      "translation": "По рынку ориентируюсь на шестьдесят-семьдесят тысяч.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_36",
+      "word": "Salary is negotiable depending on the package.",
+      "translation": "Зарплата обсуждается в зависимости от полного пакета.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_37",
+      "word": "When could you start?",
+      "translation": "Когда вы можете выйти на работу?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_38",
+      "word": "I could start in two weeks.",
+      "translation": "Я могу выйти через две недели.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_39",
+      "word": "Congratulations, we’d like to offer you the position!",
+      "translation": "Поздравляем, мы хотели бы предложить вам эту должность!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_40",
+      "word": "I accept the offer, thank you!",
+      "translation": "Я принимаю предложение, спасибо!",
+      "language": "en"
+    },
     {
       "id": "pb_jobinterview_0_0",
       "word": "Experience is what we get when we don't get what we want.",
@@ -70,27 +316,9 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_0_11",
-      "word": "Tom needs to hire a private detective.",
-      "translation": "Тому нужно нанять частного детектива.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_0_12",
-      "word": "Tom won't fire Mary.",
-      "translation": "Том не уволит Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_0_13",
       "word": "Four families were killed in the fire.",
       "translation": "В пожаре погибли четыре семьи.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_0_14",
-      "word": "Tom ran to get a fire extinguisher.",
-      "translation": "Том побежал за огнетушителем.",
       "language": "en"
     },
     {
@@ -118,12 +346,6 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_0_19",
-      "word": "Tom managed to put the fire out.",
-      "translation": "Тому удалось потушить пожар.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_0_20",
       "word": "The captain ordered his men to fire.",
       "translation": "Капитан приказал своим людям стрелять.",
@@ -136,27 +358,9 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_0_22",
-      "word": "It'll be a good experience for Tom.",
-      "translation": "Это будет хорошим опытом для Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_0_23",
-      "word": "Tom listened to the fire crackling.",
-      "translation": "Том слушал, как потрескивает огонь.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_0_24",
       "word": "The young engineer lacked experience.",
       "translation": "Молодому инженеру недоставало опыта.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_0_25",
-      "word": "I can't fire Tom.",
-      "translation": "Я не могу уволить Тома.",
       "language": "en"
     },
     {
@@ -172,21 +376,9 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_0_28",
-      "word": "Slow down, Tom! Where's the fire?",
-      "translation": "Помедленнее, Том! Ты что спешишь как на пожар?",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_0_29",
       "word": "No one will hire you.",
       "translation": "Никто не возьмёт тебя на работу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_0_30",
-      "word": "Tom extinguished the fire.",
-      "translation": "Том потушил огонь.",
       "language": "en"
     },
     {
@@ -214,12 +406,6 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_0_35",
-      "word": "It was a new experience for Tom.",
-      "translation": "Для Тома это был новый опыт.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_0_36",
       "word": "She has an agreeable disposition.",
       "translation": "У неё приятный характер.",
@@ -229,18 +415,6 @@
       "id": "pb_jobinterview_0_37",
       "word": "That was a new experience for me.",
       "translation": "Это был для меня новый опыт.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_0_38",
-      "word": "Tom has lots of experience.",
-      "translation": "У Тома большой опыт.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_0_39",
-      "word": "Tom accidentally set fire to the curtain.",
-      "translation": "Том случайно поджёг занавеску.",
       "language": "en"
     },
     {
@@ -280,12 +454,6 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_0_46",
-      "word": "Tom told me about the fire.",
-      "translation": "Том рассказал мне о пожаре.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_0_47",
       "word": "A lot of houses were on fire.",
       "translation": "Множество домов было в огне.",
@@ -298,18 +466,6 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_0_49",
-      "word": "You can't fire Tom.",
-      "translation": "Вы не можете уволить Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_1_0",
-      "word": "Tom wanted to hire us both.",
-      "translation": "Том хотел нас обоих взять на работу.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_1_1",
       "word": "The fire was extinguished at once.",
       "translation": "Пожар немедленно потушили.",
@@ -319,18 +475,6 @@
       "id": "pb_jobinterview_1_2",
       "word": "The fire is under control.",
       "translation": "Пожар под контролем.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_1_3",
-      "word": "I want to hire Tom and Mary.",
-      "translation": "Я хочу нанять Тома и Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_1_4",
-      "word": "Tom saved her from the fire.",
-      "translation": "Том спас её из огня.",
       "language": "en"
     },
     {
@@ -352,12 +496,6 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_1_8",
-      "word": "Tom has both experience and knowledge.",
-      "translation": "У Тома есть и опыт, и знания.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_1_9",
       "word": "We definitely need to hire more people.",
       "translation": "Нам определённо нужно нанять больше людей.",
@@ -373,12 +511,6 @@
       "id": "pb_jobinterview_1_11",
       "word": "We've decided not to fire you.",
       "translation": "Мы решили не увольнять тебя.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_1_12",
-      "word": "Tom has no experience.",
-      "translation": "У Тома нет опыта.",
       "language": "en"
     },
     {
@@ -412,45 +544,9 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_1_18",
-      "word": "Does Tom have any experience?",
-      "translation": "У Тома есть какой-нибудь опыт?",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_1_19",
       "word": "I'm not in a position to give you advice.",
       "translation": "Я не в том положении, чтобы давать тебе советы.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_1_20",
-      "word": "Tom won't tell me who he plans to hire.",
-      "translation": "Том мне не скажет, кого он собирается взять на работу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_1_21",
-      "word": "I know Tom has experience.",
-      "translation": "Я знаю, что у Тома есть опыт.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_1_22",
-      "word": "Tom is going to start a fire.",
-      "translation": "Том разведёт костёр.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_1_23",
-      "word": "I know that Tom has experience.",
-      "translation": "Я знаю, что у Тома есть опыт.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_1_24",
-      "word": "When did you fire Tom?",
-      "translation": "Когда вы уволили Тома?",
       "language": "en"
     },
     {
@@ -514,45 +610,15 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_1_35",
-      "word": "Tom lit the fire.",
-      "translation": "Том зажёг огонь.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_1_36",
       "word": "I'm afraid I have no experience.",
       "translation": "Боюсь, у меня нет опыта.",
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_1_37",
-      "word": "I didn't tell you to fire Tom.",
-      "translation": "Я не говорил тебе уволить Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_1_38",
       "word": "I heard about the fire.",
       "translation": "Я слышал о пожаре.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_1_39",
-      "word": "If Tom could speak French, I'd hire him.",
-      "translation": "Если бы Том говорил по-французски, я бы взял его на работу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_1_40",
-      "word": "Tom managed to put out the fire.",
-      "translation": "Тому удалось потушить пожар.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_1_41",
-      "word": "Tom has decided to hire a private detective.",
-      "translation": "Том решил нанять частного детектива.",
       "language": "en"
     },
     {
@@ -568,27 +634,9 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_1_44",
-      "word": "Who'd want to hire Tom?",
-      "translation": "Кто бы хотел нанять Тома?",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_1_45",
       "word": "Don't mess with fire.",
       "translation": "Не шути с огнём.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_1_46",
-      "word": "I've got a lot more experience than Tom.",
-      "translation": "У меня гораздо больше опыта, чем у Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_1_47",
-      "word": "Where was Tom when the fire broke out?",
-      "translation": "Где был Том, когда начался пожар?",
       "language": "en"
     },
     {
@@ -610,12 +658,6 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_2_1",
-      "word": "Tom suddenly opened fire.",
-      "translation": "Том внезапно открыл огонь.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_2_2",
       "word": "Don't forget to put out the fire.",
       "translation": "Не забудьте потушить огонь.",
@@ -631,24 +673,6 @@
       "id": "pb_jobinterview_2_4",
       "word": "What's the best sleeping position?",
       "translation": "В каком положении лучше спать?",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_2_5",
-      "word": "Where there's smoke there's fire.",
-      "translation": "Дыма без огня не бывает.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_2_6",
-      "word": "Tom doesn't have enough experience.",
-      "translation": "У Тома недостаточно опыта.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_2_7",
-      "word": "Tom's resume is impressive.",
-      "translation": "У Тома впечатляющее резюме.",
       "language": "en"
     },
     {
@@ -670,21 +694,9 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_2_11",
-      "word": "Tom is extinguishing the fire.",
-      "translation": "Том тушит огонь.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_2_12",
       "word": "I hope he will succeed in his new position.",
       "translation": "Надеюсь, он преуспеет в новой должности.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_2_13",
-      "word": "Call the fire department.",
-      "translation": "Вызови пожарных!",
       "language": "en"
     },
     {
@@ -730,33 +742,15 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_2_21",
-      "word": "Tom doesn't have any teaching experience.",
-      "translation": "У Тома нет опыта преподавания.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_2_22",
       "word": "His ideas are based on his experience.",
       "translation": "Его идеи базируются на его опыте.",
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_2_23",
-      "word": "Tom taught me how to make a campfire.",
-      "translation": "Том научил меня разжигать костёр.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_2_24",
       "word": "Though it was cold, he didn't light the fire.",
       "translation": "Хотя было холодно, он не разжигал огонь.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_2_25",
-      "word": "I've decided to fire Tom.",
-      "translation": "Я решил уволить Тома.",
       "language": "en"
     },
     {
@@ -850,12 +844,6 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_2_41",
-      "word": "Tom wanted to hone his skills as a photographer.",
-      "translation": "Том хотел отточить своё мастерство фотографа.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_2_42",
       "word": "What started the fire?",
       "translation": "Из-за чего начался пожар?",
@@ -898,12 +886,6 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_2_49",
-      "word": "It wasn't Tom who lit the campfire.",
-      "translation": "Это не Том развёл походной костёр.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_3_0",
       "word": "The cause of the fire has yet to be determined.",
       "translation": "Причину пожара ещё предстоит установить.",
@@ -940,21 +922,9 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_3_6",
-      "word": "Did you hire Tom?",
-      "translation": "Ты нанял Тома?",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_3_7",
       "word": "Why would I fire you?",
       "translation": "С чего бы мне тебя увольнять?",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_3_8",
-      "word": "Why would Tom hire a private detective?",
-      "translation": "Зачем Тому нанимать частного детектива?",
       "language": "en"
     },
     {
@@ -970,12 +940,6 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_3_11",
-      "word": "Tom saved us from the fire.",
-      "translation": "Том спас нас от пожара.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_3_12",
       "word": "The protesters set many cars on fire.",
       "translation": "Протестующие подожгли множество автомобилей.",
@@ -985,12 +949,6 @@
       "id": "pb_jobinterview_3_13",
       "word": "I say this from my own experience.",
       "translation": "Я говорю это на основании своего собственного опыта.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_3_14",
-      "word": "Tom put out the fire.",
-      "translation": "Том ликвидировал пожар.",
       "language": "en"
     },
     {
@@ -1036,33 +994,15 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_3_22",
-      "word": "I have more experience than Tom.",
-      "translation": "У меня больше опыта, чем у Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_3_23",
       "word": "You could see the glow of the fire for miles.",
       "translation": "Зарево пожара было видно издалека.",
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_3_24",
-      "word": "I didn't hire Tom.",
-      "translation": "Я не брал Тома на работу.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_3_25",
       "word": "There's no substitute for experience.",
       "translation": "Опыт ничто не заменит.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_3_26",
-      "word": "Tom threw another log on the fire.",
-      "translation": "Том подбросил в огонь ещё одно полено.",
       "language": "en"
     },
     {
@@ -1075,24 +1015,6 @@
       "id": "pb_jobinterview_3_28",
       "word": "At any rate, it will be a good experience for you.",
       "translation": "В любом случае для тебя это будет хороший опыт.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_3_29",
-      "word": "Tom pointed to the fire escape.",
-      "translation": "Фома указал на пожарный выход.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_3_30",
-      "word": "Does Tom have experience?",
-      "translation": "У Тома есть опыт?",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_3_31",
-      "word": "Does Tom have fire insurance?",
-      "translation": "У Тома есть страховка от пожара?",
       "language": "en"
     },
     {
@@ -1192,12 +1114,6 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_3_48",
-      "word": "Tom didn't know how to use the fire extinguisher.",
-      "translation": "Том не умел пользоваться огнетушителем.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_3_49",
       "word": "I'd like to apply for citizenship.",
       "translation": "Я хотел бы подать на гражданство.",
@@ -1213,18 +1129,6 @@
       "id": "pb_jobinterview_4_1",
       "word": "The fire destroyed three houses.",
       "translation": "Пожар уничтожил три дома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_4_2",
-      "word": "Tom climbed down the fire escape.",
-      "translation": "Том спустился вниз по пожарной лестнице.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_4_3",
-      "word": "Tom has an interesting background.",
-      "translation": "У Тома интересное прошлое.",
       "language": "en"
     },
     {
@@ -1264,18 +1168,6 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_4_10",
-      "word": "Tom still doesn't have enough experience.",
-      "translation": "Тому ещё не хватает опыта.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_4_11",
-      "word": "Tom quickly put out the fire.",
-      "translation": "Том быстро потушил огонь.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_4_12",
       "word": "The fire went out.",
       "translation": "Огонь погас.",
@@ -1285,12 +1177,6 @@
       "id": "pb_jobinterview_4_13",
       "word": "We're all in the same position.",
       "translation": "Мы все в одном положении.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_4_14",
-      "word": "Tom opened fire on the crowd.",
-      "translation": "Том открыл огонь по толпе.",
       "language": "en"
     },
     {
@@ -1354,12 +1240,6 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_4_25",
-      "word": "Tom didn't fire Mary.",
-      "translation": "Том не увольнял Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_4_26",
       "word": "The fire has gone out.",
       "translation": "Огонь погас.",
@@ -1402,30 +1282,6 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_4_33",
-      "word": "Tom died in the fire.",
-      "translation": "Том погиб во время пожара.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_4_34",
-      "word": "Tom has already decided to fire Mary.",
-      "translation": "Том уже решил уволить Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_4_35",
-      "word": "Tom has no weaknesses.",
-      "translation": "У Тома нет слабостей.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_4_36",
-      "word": "Tom didn't know where the fire extinguisher was.",
-      "translation": "Том не знал, где огнетушитель.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_4_37",
       "word": "We sat around the fire and sang songs.",
       "translation": "Мы сидели вокруг костра и пели песни.",
@@ -1456,18 +1312,6 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_4_42",
-      "word": "Tom is a former fire fighter.",
-      "translation": "Том - бывший пожарный.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_4_43",
-      "word": "Tom, Mary, John and Alice sat around the fire.",
-      "translation": "Том, Мэри, Джон и Элис сидели вокруг огня.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_4_44",
       "word": "I'm not in a position to answer that question.",
       "translation": "Я не готов ответить на этот вопрос.",
@@ -1480,21 +1324,9 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_4_46",
-      "word": "Tom died in a fire.",
-      "translation": "Том погиб при пожаре.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_4_47",
       "word": "Did they fire you?",
       "translation": "Они тебя уволили?",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_4_48",
-      "word": "They decided to hire Tom instead of Mary.",
-      "translation": "Они решили нанять Тома вместо Мэри.",
       "language": "en"
     },
     {
@@ -1564,27 +1396,9 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_5_10",
-      "word": "I want to hire Tom.",
-      "translation": "Я хочу нанять Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_5_11",
       "word": "I'm the one who started the fire.",
       "translation": "Перестрелку начал я.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_5_12",
-      "word": "Tom told Mary about the fire.",
-      "translation": "Том рассказал Мэри о пожаре.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_5_13",
-      "word": "Tom had to make a fire.",
-      "translation": "Тому пришлось развести огонь.",
       "language": "en"
     },
     {
@@ -1609,12 +1423,6 @@
       "id": "pb_jobinterview_5_17",
       "word": "My neighbor called the fire department.",
       "translation": "Мой сосед вызвал пожарных.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_5_18",
-      "word": "We can't just fire Tom.",
-      "translation": "Мы не можем просто уволить Тома.",
       "language": "en"
     },
     {
@@ -1645,12 +1453,6 @@
       "id": "pb_jobinterview_5_23",
       "word": "I'll fire you.",
       "translation": "Я вас уволю.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_5_24",
-      "word": "Tom doesn't have much teaching experience.",
-      "translation": "У Тома небольшой опыт преподавания.",
       "language": "en"
     },
     {
@@ -1708,12 +1510,6 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_5_34",
-      "word": "Tom is warming himself by the fire.",
-      "translation": "Том греется у огня.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_5_35",
       "word": "I can't fire you.",
       "translation": "Я не могу вас уволить.",
@@ -1726,24 +1522,6 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_5_37",
-      "word": "I'll fire Tom.",
-      "translation": "Я уволю Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_5_38",
-      "word": "I had to fire Tom.",
-      "translation": "Я был вынужден уволить Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_5_39",
-      "word": "Let's fire Tom.",
-      "translation": "Давай уволим Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_5_40",
       "word": "Experience is invaluable.",
       "translation": "Опыт бесценен.",
@@ -1753,12 +1531,6 @@
       "id": "pb_jobinterview_5_41",
       "word": "This will be a new experience for all of us.",
       "translation": "Для всех нас это будет новый опыт.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_5_42",
-      "word": "Tom was sitting by the fire.",
-      "translation": "Том сидел у огня.",
       "language": "en"
     },
     {
@@ -1798,21 +1570,9 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_5_49",
-      "word": "Tom plans to hire someone who speaks French.",
-      "translation": "Том планирует нанять кого-нибудь, кто говорил бы по-французски.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_6_0",
       "word": "We all have different strengths.",
       "translation": "Сильные стороны у нас у всех разные.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_6_1",
-      "word": "I can't fire Tom. He's a good worker.",
-      "translation": "Я не могу уволить Тома. Он хороший работник.",
       "language": "en"
     },
     {
@@ -1828,24 +1588,6 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_6_4",
-      "word": "Why did they fire Tom?",
-      "translation": "Почему они уволили Тома?",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_6_5",
-      "word": "Tom didn't have enough experience to know what to do.",
-      "translation": "От недостатка опыта Том не знал, что делать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_6_6",
-      "word": "Tom taught Mary survival skills.",
-      "translation": "Том научил Мэри навыкам выживания.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_6_7",
       "word": "There's no smoke without fire.",
       "translation": "Дыма без огня не бывает.",
@@ -1858,33 +1600,9 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_6_9",
-      "word": "We had no choice but to fire Tom.",
-      "translation": "Нам ничего не оставалось, кроме как уволить Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_6_10",
       "word": "We ran up against a lot of opposition.",
       "translation": "Мы натолкнулись на сильное сопротивление.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_6_11",
-      "word": "Tom is a fire eater.",
-      "translation": "Том - глотатель огня.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_6_12",
-      "word": "Tom stared at the fire.",
-      "translation": "Том уставился на огонь.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_6_13",
-      "word": "Tom and Mary died in the fire.",
-      "translation": "Том и Мэри погибли в огне.",
       "language": "en"
     },
     {
@@ -1903,12 +1621,6 @@
       "id": "pb_jobinterview_6_16",
       "word": "What position do you hold?",
       "translation": "Какая у вас должность?",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_6_17",
-      "word": "Tom thinks it was a good experience.",
-      "translation": "Том думает, что это был хороший опыт.",
       "language": "en"
     },
     {
@@ -1948,12 +1660,6 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_6_24",
-      "word": "Tom lacks experience.",
-      "translation": "Тому не хватает опыта.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_6_25",
       "word": "Do you have any experience?",
       "translation": "У Вас есть опыт?",
@@ -1969,12 +1675,6 @@
       "id": "pb_jobinterview_6_27",
       "word": "Nobody's going to hire you.",
       "translation": "Тебя никто не возьмёт на работу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_6_28",
-      "word": "Tom is hoping they'll hire him.",
-      "translation": "Том надеется, что они возьмут его на работу.",
       "language": "en"
     },
     {
@@ -1996,21 +1696,9 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_6_32",
-      "word": "Tom wants to know who you want to hire.",
-      "translation": "Том хочет знать, кого ты хочешь нанять.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_6_33",
       "word": "The fire is spreading.",
       "translation": "Огонь распространяется.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_6_34",
-      "word": "Tom has a lot of experience.",
-      "translation": "У Тома большой опыт.",
       "language": "en"
     },
     {
@@ -2029,12 +1717,6 @@
       "id": "pb_jobinterview_6_37",
       "word": "I have experience.",
       "translation": "У меня есть опыт.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_6_38",
-      "word": "Tom has no social skills.",
-      "translation": "У Тома нет навыков общения.",
       "language": "en"
     },
     {
@@ -2098,21 +1780,9 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_6_49",
-      "word": "Tom convinced Mary to hire John.",
-      "translation": "Том убедил Мэри взять Джона на работу.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_7_0",
       "word": "It's not a volunteer position.",
       "translation": "Это место не для волонтёра.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_7_1",
-      "word": "I want you to fire Tom.",
-      "translation": "Я хочу, чтобы ты уволил Тома.",
       "language": "en"
     },
     {
@@ -2125,12 +1795,6 @@
       "id": "pb_jobinterview_7_3",
       "word": "Put yourself in my position.",
       "translation": "Поставьте себя на моё место.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_7_4",
-      "word": "Why did you fire Tom?",
-      "translation": "Почему ты уволил Тома?",
       "language": "en"
     },
     {
@@ -2176,21 +1840,9 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_7_12",
-      "word": "I have to fire Tom.",
-      "translation": "Я должен уволить Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_7_13",
       "word": "Did you hear about yesterday's fire?",
       "translation": "Ты слышал о вчерашнем пожаре?",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_7_14",
-      "word": "Tom called the fire department.",
-      "translation": "Том вызвал пожарных.",
       "language": "en"
     },
     {
@@ -2206,18 +1858,6 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_7_17",
-      "word": "Why don't you just fire Tom?",
-      "translation": "Почему бы тебе просто не уволить Тома?",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_7_18",
-      "word": "Tom knows Mary's weaknesses.",
-      "translation": "Том знает слабости Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_7_19",
       "word": "It was hard to get the fire started.",
       "translation": "Разжечь костёр было непросто.",
@@ -2227,12 +1867,6 @@
       "id": "pb_jobinterview_7_20",
       "word": "I watched the huge fire.",
       "translation": "Я смотрел на огромное пламя.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_7_21",
-      "word": "Did you tell Tom about the fire?",
-      "translation": "Ты рассказал Тому о пожаре?",
       "language": "en"
     },
     {
@@ -2308,45 +1942,15 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_7_34",
-      "word": "Tom doesn't know how to start a campfire.",
-      "translation": "Том не знает, как разводить костер.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_7_35",
       "word": "Your resume is very impressive.",
       "translation": "У тебя очень впечатляющее резюме.",
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_7_36",
-      "word": "This was a new experience for Tom.",
-      "translation": "Для Тома это был новый опыт.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_7_37",
-      "word": "Tom doesn't know how to use a fire extinguisher.",
-      "translation": "Том не умеет пользоваться огнетушителем.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_7_38",
       "word": "Doing that was quite an experience for me.",
       "translation": "Делая это, я получал серьёзный опыт.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_7_39",
-      "word": "Tom isn't going to fire Mary.",
-      "translation": "Том не собирается увольнять Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_7_40",
-      "word": "Tom tried to start a fire by rubbing two sticks together.",
-      "translation": "Том пытался разжечь огонь трением двух палочек.",
       "language": "en"
     },
     {
@@ -2371,12 +1975,6 @@
       "id": "pb_jobinterview_7_44",
       "word": "I know what my weaknesses are.",
       "translation": "Я знаю свои слабости.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_7_45",
-      "word": "Tom has very little experience.",
-      "translation": "У Тома очень мало опыта.",
       "language": "en"
     },
     {
@@ -2410,12 +2008,6 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_8_1",
-      "word": "This is a new experience for Tom.",
-      "translation": "Для Тома это нечто новое.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_8_2",
       "word": "The buildings are on fire.",
       "translation": "Здания горят.",
@@ -2425,18 +2017,6 @@
       "id": "pb_jobinterview_8_3",
       "word": "It was determined that faulty wiring was the cause of the fire.",
       "translation": "Было установлено, что причиной пожара стало неправильное электрическое соединение.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_8_4",
-      "word": "Tom gazed at the fire.",
-      "translation": "Том созерцал огонь.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_8_5",
-      "word": "Tom is prohibited from holding a leadership position.",
-      "translation": "Тому запрещено занимать руководящие должности.",
       "language": "en"
     },
     {
@@ -2494,12 +2074,6 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_8_15",
-      "word": "Why didn't you hire Tom?",
-      "translation": "Почему вы не взяли Тома на работу?",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_8_16",
       "word": "Open fire only on my command.",
       "translation": "Открывать огонь только по моей команде.",
@@ -2536,12 +2110,6 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_8_22",
-      "word": "Tom is sitting by the campfire.",
-      "translation": "Том сидит у походного костра.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_8_23",
       "word": "What skills do you have?",
       "translation": "Какими навыками вы владеете?",
@@ -2554,12 +2122,6 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_8_25",
-      "word": "Tom is still in Boston, I presume.",
-      "translation": "Полагаю, Том ещё в Бостоне.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_8_26",
       "word": "You're playing with fire.",
       "translation": "Ты играешь с огнём.",
@@ -2569,12 +2131,6 @@
       "id": "pb_jobinterview_8_27",
       "word": "What are their weaknesses?",
       "translation": "В чем их слабость?",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_8_28",
-      "word": "Tom tried to start a fire by rubbing sticks together.",
-      "translation": "Том пытался разжечь огонь трением двух палочек друг о друга.",
       "language": "en"
     },
     {
@@ -2596,21 +2152,9 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_8_32",
-      "word": "Tom put the fire out with a fire extinguisher.",
-      "translation": "Том потушил огонь огнетушителем.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_8_33",
       "word": "They can't fire you.",
       "translation": "Они не могут тебя уволить.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_8_34",
-      "word": "Tom warmed himself by the fire.",
-      "translation": "Том грелся у костра.",
       "language": "en"
     },
     {
@@ -2665,18 +2209,6 @@
       "id": "pb_jobinterview_8_43",
       "word": "I'm not in a position to give you any advice.",
       "translation": "Я не в том положении, чтобы давать тебе советы.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_8_44",
-      "word": "We're trying to teach Tom basic problem-solving skills.",
-      "translation": "Мы пытаемся научить Тома базовым навыкам решения проблем.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_8_45",
-      "word": "Tom lacks social skills.",
-      "translation": "Тому не хватает социальных навыков.",
       "language": "en"
     },
     {
@@ -2752,21 +2284,9 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_9_8",
-      "word": "Tom wanted to fire Mary, but John stopped him.",
-      "translation": "Том хотел уволить Мэри, но Джон его остановил.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_9_9",
       "word": "That's an attractive proposition.",
       "translation": "Это заманчивое предложение.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_9_10",
-      "word": "Tom has more experience than I do.",
-      "translation": "У Тома больше опыта, чем у меня.",
       "language": "en"
     },
     {
@@ -2785,12 +2305,6 @@
       "id": "pb_jobinterview_9_13",
       "word": "We hurried toward the fire.",
       "translation": "Мы поспешили к огню.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_9_14",
-      "word": "Tom explained his position to me.",
-      "translation": "Том объяснил мне свою позицию.",
       "language": "en"
     },
     {
@@ -2872,12 +2386,6 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_9_28",
-      "word": "Tom had a near-death experience.",
-      "translation": "Том чуть не умер.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_9_29",
       "word": "She is fresh from college, so she has no experience.",
       "translation": "Она только что из университета, так что опыта у неё нет.",
@@ -2890,21 +2398,9 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_9_31",
-      "word": "Tom is blessed with a cheerful disposition.",
-      "translation": "Том наделён жизнерадостным характером.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_9_32",
       "word": "It was an incredible experience.",
       "translation": "Это был невероятный опыт.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_9_33",
-      "word": "Tom might hire Mary.",
-      "translation": "Том мог бы нанять Мэри.",
       "language": "en"
     },
     {
@@ -2917,12 +2413,6 @@
       "id": "pb_jobinterview_9_35",
       "word": "What was the cause of the fire?",
       "translation": "Что послужило причиной возгорания?",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_9_36",
-      "word": "Tom poked the fire with a stick.",
-      "translation": "Том перемешал угольки палочкой.",
       "language": "en"
     },
     {
@@ -2956,12 +2446,6 @@
       "language": "en"
     },
     {
-      "id": "pb_jobinterview_9_42",
-      "word": "We're not going to fire Tom.",
-      "translation": "Мы не собираемся увольнять Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_jobinterview_9_43",
       "word": "The fire is out.",
       "translation": "Огонь погас.",
@@ -2977,18 +2461,6 @@
       "id": "pb_jobinterview_9_45",
       "word": "We heard gunfire.",
       "translation": "Мы слышали стрельбу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_9_46",
-      "word": "I have a lot more experience than Tom does.",
-      "translation": "У меня гораздо больше опыта, чем у Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_jobinterview_9_47",
-      "word": "We've decided to hire Tom.",
-      "translation": "Мы решили нанять Тома.",
       "language": "en"
     },
     {

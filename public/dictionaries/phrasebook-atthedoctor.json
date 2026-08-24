@@ -1,30 +1,360 @@
 {
   "id": "phrasebook-atthedoctor",
   "name": "At the Doctor",
-  "description": "Phrasebook for At the Doctor",
+  "description": "У врача: жалобы, симптомы, лечение и рецепты",
   "entries": [
     {
-      "id": "pb_atthedoctor_0_0",
-      "word": "Don't forget Tom is allergic to peanuts.",
-      "translation": "Не забудь, что у Тома аллергия на арахис.",
+      "id": "pbq_doctor_0",
+      "word": "I’d like to make an appointment with a doctor.",
+      "translation": "Я хотел бы записаться на приём к врачу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_1",
+      "word": "Can I see a doctor today?",
+      "translation": "Можно попасть к врачу сегодня?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_2",
+      "word": "It’s not urgent, but soon please.",
+      "translation": "Это не срочно, но как можно скорее, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_3",
+      "word": "Please fill out this form.",
+      "translation": "Заполните эту форму, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_4",
+      "word": "Do you have medical insurance?",
+      "translation": "У вас есть медицинская страховка?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_5",
+      "word": "Here is my insurance card.",
+      "translation": "Вот моя страховая карта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_6",
+      "word": "What seems to be the problem?",
+      "translation": "Что вас беспокоит?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_7",
+      "word": "Where does it hurt?",
+      "translation": "Где у вас болит?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_8",
+      "word": "I have a splitting headache.",
+      "translation": "У меня сильная головная боль.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_9",
+      "word": "My throat hurts when I swallow.",
+      "translation": "У меня болит горло, когда глотаю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_10",
+      "word": "I have a sharp pain in my side.",
+      "translation": "У меня острая боль в боку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_11",
+      "word": "It hurts when I press here.",
+      "translation": "Болит, когда нажимаю здесь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_12",
+      "word": "The pain comes and goes.",
+      "translation": "Боль то появляется, то проходит.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_13",
+      "word": "The pain gets worse at night.",
+      "translation": "Ночью боль усиливается.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_14",
+      "word": "Since when have you had these symptoms?",
+      "translation": "Давно ли у вас эти симптомы?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_15",
+      "word": "For about three days now.",
+      "translation": "Уже около трёх дней.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_16",
+      "word": "I feel dizzy.",
+      "translation": "У меня головокружение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_17",
+      "word": "I feel nauseous.",
+      "translation": "Меня тошнит.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_18",
+      "word": "I keep coughing at night.",
+      "translation": "Я постоянно кашляю по ночам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_19",
+      "word": "I can’t stop sneezing.",
+      "translation": "Не могу перестать чихать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_20",
+      "word": "My nose is stuffed up.",
+      "translation": "У меня заложен нос.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_21",
+      "word": "I have a runny nose.",
+      "translation": "У меня насморк.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_22",
+      "word": "I’m running a temperature.",
+      "translation": "У меня повышенная температура.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_23",
+      "word": "I have a fever of thirty-nine degrees.",
+      "translation": "У меня температура тридцать девять.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_24",
+      "word": "I feel weak all over.",
+      "translation": "Я чувствую слабость во всём теле.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_25",
+      "word": "I have no appetite.",
+      "translation": "У меня нет аппетита.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_26",
+      "word": "I can’t sleep because of the pain.",
+      "translation": "Я не могу спать из-за боли.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_27",
+      "word": "Have you taken anything for it?",
+      "translation": "Вы что-нибудь принимали от этого?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_28",
+      "word": "Just painkillers so far.",
+      "translation": "Пока только обезболивающие.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_29",
+      "word": "Are you allergic to any medication?",
+      "translation": "У вас есть аллергия на какие-либо лекарства?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_30",
+      "word": "I’m allergic to penicillin.",
+      "translation": "У меня аллергия на пенициллин.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_31",
+      "word": "Are you taking any other medications?",
+      "translation": "Принимаете ли вы другие лекарства?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_32",
+      "word": "Let me listen to your lungs.",
+      "translation": "Давайте послушаю ваши лёгкие.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_33",
+      "word": "Breathe in deeply… and out.",
+      "translation": "Глубоко вдохните... и выдохните.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_34",
+      "word": "Open your mouth wide, please.",
+      "translation": "Откройте рот пошире, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_35",
+      "word": "Say “ahh”.",
+      "translation": "Скажите «а-а-ах».",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_36",
+      "word": "Roll up your sleeve, please.",
+      "translation": "Закатайте рукав, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_37",
+      "word": "I’ll check your blood pressure.",
+      "translation": "Я измерю ваше давление.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_38",
+      "word": "Your blood pressure is a bit high.",
+      "translation": "У вас немного повышено давление.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_39",
+      "word": "You need a blood test.",
+      "translation": "Вам нужно сдать анализ крови.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_40",
+      "word": "Nothing serious, just a common cold.",
+      "translation": "Ничего серьёзного, обычная простуда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_41",
+      "word": "You have the flu.",
+      "translation": "У вас грипп.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_42",
+      "word": "It looks like bronchitis.",
+      "translation": "Похоже на бронхит.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_43",
+      "word": "You’ll need antibiotics.",
+      "translation": "Вам понадобятся антибиотики.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_44",
+      "word": "I’ll prescribe you something stronger.",
+      "translation": "Я выпишу вам что-то посильнее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_45",
+      "word": "Take one tablet twice a day after meals.",
+      "translation": "Принимайте по одной таблетке два раза в день после еды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_46",
+      "word": "Take it with plenty of water.",
+      "translation": "Запивайте большим количеством воды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_47",
+      "word": "Finish the whole course of antibiotics.",
+      "translation": "Пропейте весь курс антибиотиков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_48",
+      "word": "Get plenty of rest and drink fluids.",
+      "translation": "Много отдыхайте и пейте жидкость.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_49",
+      "word": "Come back if it doesn’t improve.",
+      "translation": "Приходите снова, если не станет лучше.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_50",
+      "word": "You should stay home from work.",
+      "translation": "Вам стоит остаться дома с работы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_51",
+      "word": "Here is your prescription.",
+      "translation": "Вот ваш рецепт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_52",
+      "word": "Take this prescription to the pharmacy.",
+      "translation": "Отнесите этот рецепт в аптеку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_53",
+      "word": "When can I get the results?",
+      "translation": "Когда будут готовы результаты?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_54",
+      "word": "Is it contagious?",
+      "translation": "Это заразно?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_55",
+      "word": "Will I need surgery?",
+      "translation": "Мне понадобится операция?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_56",
+      "word": "I need a sick note for work.",
+      "translation": "Мне нужна справка для работы о болезни.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_57",
+      "word": "Thank you, doctor.",
+      "translation": "Спасибо, доктор.",
       "language": "en"
     },
     {
       "id": "pb_atthedoctor_0_1",
       "word": "I've got a doctor's appointment.",
       "translation": "У меня назначен приём у врача.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_0_2",
-      "word": "I know Tom is allergic to peanuts.",
-      "translation": "Я знаю, что у Тома аллергия на арахис.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_0_3",
-      "word": "Tom couldn't hide his disappointment.",
-      "translation": "Том не смог скрыть разочарование.",
       "language": "en"
     },
     {
@@ -46,21 +376,9 @@
       "language": "en"
     },
     {
-      "id": "pb_atthedoctor_0_7",
-      "word": "Tom has an appointment at 2:30.",
-      "translation": "У Тома назначена встреча на 2:30.",
-      "language": "en"
-    },
-    {
       "id": "pb_atthedoctor_0_8",
       "word": "The temperature is lower than usual.",
       "translation": "Температура ниже обычной.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_0_9",
-      "word": "Tom is allergic to bee stings.",
-      "translation": "У Тома аллергия на пчелиные укусы.",
       "language": "en"
     },
     {
@@ -73,12 +391,6 @@
       "id": "pb_atthedoctor_0_11",
       "word": "I took my temperature every six hours.",
       "translation": "Я мерил температуру каждые шесть часов.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_0_12",
-      "word": "Tom is allergic to penicillin.",
-      "translation": "У Тома аллергия на пенициллин.",
       "language": "en"
     },
     {
@@ -106,33 +418,15 @@
       "language": "en"
     },
     {
-      "id": "pb_atthedoctor_0_17",
-      "word": "I suspect that Tom is allergic to peanuts.",
-      "translation": "Я подозреваю, что у Тома аллергия на арахис.",
-      "language": "en"
-    },
-    {
       "id": "pb_atthedoctor_0_18",
       "word": "I'm allergic to peanuts.",
       "translation": "У меня аллергия на арахис.",
       "language": "en"
     },
     {
-      "id": "pb_atthedoctor_0_19",
-      "word": "Tom felt a little dizzy.",
-      "translation": "Том почувствовал лёгкое головокружение.",
-      "language": "en"
-    },
-    {
       "id": "pb_atthedoctor_0_20",
       "word": "He is allergic to dust.",
       "translation": "У него аллергия на пыль.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_0_21",
-      "word": "Tom was hospitalized with symptoms of dehydration.",
-      "translation": "Том был госпитализирован с симптомами обезвоживания.",
       "language": "en"
     },
     {
@@ -190,21 +484,9 @@
       "language": "en"
     },
     {
-      "id": "pb_atthedoctor_0_31",
-      "word": "Tom was dizzy.",
-      "translation": "У Тома кружилась голова.",
-      "language": "en"
-    },
-    {
       "id": "pb_atthedoctor_0_32",
       "word": "I'm allergic to gluten.",
       "translation": "У меня аллергия на глютен.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_0_33",
-      "word": "Tom is allergic to eggs.",
-      "translation": "У Тома аллергия на яйца.",
       "language": "en"
     },
     {
@@ -223,24 +505,6 @@
       "id": "pb_atthedoctor_0_36",
       "word": "I wonder what's causing me to sneeze.",
       "translation": "Интересно, из-за чего я чихаю.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_0_37",
-      "word": "I suspect Tom is allergic to peanuts.",
-      "translation": "Я подозреваю, что у Тома аллергия на арахис.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_0_38",
-      "word": "Tom is allergic to bees.",
-      "translation": "У Тома аллергия на пчёл.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_0_39",
-      "word": "Tom can't get rid of his cough.",
-      "translation": "Том не может избавиться от кашля.",
       "language": "en"
     },
     {
@@ -280,39 +544,9 @@
       "language": "en"
     },
     {
-      "id": "pb_atthedoctor_0_46",
-      "word": "Tom felt dizzy.",
-      "translation": "Том почувствовал головокружение.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_0_47",
-      "word": "Tom is allergic to MSG.",
-      "translation": "У Тома аллергия на глутамат натрия.",
-      "language": "en"
-    },
-    {
       "id": "pb_atthedoctor_0_48",
       "word": "I sneeze a lot.",
       "translation": "Я много чихаю.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_0_49",
-      "word": "Tom got dizzy.",
-      "translation": "У Тома закружилась голова.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_1_0",
-      "word": "Don't forget that Tom is allergic to peanuts.",
-      "translation": "Не забудь, что у Тома аллергия на арахис.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_1_1",
-      "word": "Tom didn't show up for the appointment.",
-      "translation": "Том не явился на встречу.",
       "language": "en"
     },
     {
@@ -328,27 +562,9 @@
       "language": "en"
     },
     {
-      "id": "pb_atthedoctor_1_4",
-      "word": "Tom is allergic to dogs.",
-      "translation": "У Тома аллергия на собак.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_1_5",
-      "word": "Tom neglected his cough and got bronchitis.",
-      "translation": "Том запустил свой кашель и получил бронхит.",
-      "language": "en"
-    },
-    {
       "id": "pb_atthedoctor_1_6",
       "word": "Keep it at a lower temperature.",
       "translation": "Храни при низкой температуре.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_1_7",
-      "word": "Tom couldn't conceal his disappointment.",
-      "translation": "Том не смог скрыть своего разочарования.",
       "language": "en"
     },
     {
@@ -358,21 +574,9 @@
       "language": "en"
     },
     {
-      "id": "pb_atthedoctor_1_9",
-      "word": "Tom has a cough that won't go away.",
-      "translation": "У Тома непроходящий кашель.",
-      "language": "en"
-    },
-    {
       "id": "pb_atthedoctor_1_10",
       "word": "I have a dry cough.",
       "translation": "У меня сухой кашель.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_1_11",
-      "word": "Tom is allergic to soy.",
-      "translation": "У Тома аллергия на сою.",
       "language": "en"
     },
     {
@@ -385,24 +589,6 @@
       "id": "pb_atthedoctor_1_13",
       "word": "I tried to hide my disappointment.",
       "translation": "Я пытался скрыть своё разочарование.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_1_14",
-      "word": "Mary has an appointment at the hairdresser's.",
-      "translation": "У Мэри запись к парикмахеру.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_1_15",
-      "word": "Tom started to cough.",
-      "translation": "Том закашлял.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_1_16",
-      "word": "Tom became dizzy.",
-      "translation": "У Тома закружилась голова.",
       "language": "en"
     },
     {
@@ -421,24 +607,6 @@
       "id": "pb_atthedoctor_1_19",
       "word": "I suddenly became dizzy.",
       "translation": "У меня внезапно закружилась голова.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_1_20",
-      "word": "Tom is dizzy.",
-      "translation": "У Тома кружится голова.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_1_21",
-      "word": "Tom has canceled his appointment.",
-      "translation": "Том отменил свою встречу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_1_22",
-      "word": "Tom doesn't have a temperature.",
-      "translation": "У Тома нет температуры.",
       "language": "en"
     },
     {
@@ -466,27 +634,9 @@
       "language": "en"
     },
     {
-      "id": "pb_atthedoctor_1_27",
-      "word": "Tom sensed Mary's disappointment.",
-      "translation": "Том почувствовал разочарование Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_atthedoctor_1_28",
       "word": "We have an appointment with the director.",
       "translation": "У нас назначена встреча с директором.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_1_29",
-      "word": "Tom is allergic to peanuts.",
-      "translation": "У Тома аллергия на арахис.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_1_30",
-      "word": "Tom is allergic to cats.",
-      "translation": "У Тома аллергия на кошек.",
       "language": "en"
     },
     {
@@ -496,33 +646,9 @@
       "language": "en"
     },
     {
-      "id": "pb_atthedoctor_1_32",
-      "word": "Tom has a cough.",
-      "translation": "У Тома кашель.",
-      "language": "en"
-    },
-    {
       "id": "pb_atthedoctor_1_33",
       "word": "What's the temperature there?",
       "translation": "Какая там температура?",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_1_34",
-      "word": "Tom is allergic to dust.",
-      "translation": "У Тома аллергия на пыль.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_1_35",
-      "word": "Tom doesn't have any symptoms.",
-      "translation": "У Тома нет никаких симптомов.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_1_36",
-      "word": "Tom is allergic to latex.",
-      "translation": "У Тома аллергия на латекс.",
       "language": "en"
     },
     {
@@ -535,18 +661,6 @@
       "id": "pb_atthedoctor_1_38",
       "word": "What are the symptoms of mushroom poisoning?",
       "translation": "Каковы симптомы отравления грибами?",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_1_39",
-      "word": "Is Tom allergic to anything?",
-      "translation": "У Тома есть на что-нибудь аллергия?",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_1_40",
-      "word": "Tom has a stomachache and he feels dizzy.",
-      "translation": "У Тома болит живот и кружится голова.",
       "language": "en"
     },
     {
@@ -580,18 +694,6 @@
       "language": "en"
     },
     {
-      "id": "pb_atthedoctor_1_46",
-      "word": "Tom told me that he was dizzy.",
-      "translation": "Том сказал мне, что у него кружится голова.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_1_47",
-      "word": "Tom had a persistent cough.",
-      "translation": "У Тома был постоянный кашель.",
-      "language": "en"
-    },
-    {
       "id": "pb_atthedoctor_1_48",
       "word": "I'm still a little dizzy.",
       "translation": "У меня по-прежнему немного кружится голова.",
@@ -619,12 +721,6 @@
       "id": "pb_atthedoctor_2_2",
       "word": "What are the symptoms of meningitis?",
       "translation": "Каковы симптомы менингита?",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_2_3",
-      "word": "Tom had flu-like symptoms.",
-      "translation": "У Тома были гриппоподобные симптомы.",
       "language": "en"
     },
     {
@@ -670,12 +766,6 @@
       "language": "en"
     },
     {
-      "id": "pb_atthedoctor_2_11",
-      "word": "What's Tom allergic to?",
-      "translation": "На что у Тома аллергия?",
-      "language": "en"
-    },
-    {
       "id": "pb_atthedoctor_2_12",
       "word": "Let's take your temperature first.",
       "translation": "Сперва давай измерим твою температуру.",
@@ -685,18 +775,6 @@
       "id": "pb_atthedoctor_2_13",
       "word": "Are you allergic to any medicines?",
       "translation": "У Вас есть аллергия на какие-нибудь лекарства?",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_2_14",
-      "word": "Tom said that he felt dizzy.",
-      "translation": "Том сказал, что у него кружится голова.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_2_15",
-      "word": "Tom is allergic to bees, hornets and wasps.",
-      "translation": "У Тома аллергия на пчел, шершней и ос.",
       "language": "en"
     },
     {
@@ -760,24 +838,6 @@
       "language": "en"
     },
     {
-      "id": "pb_atthedoctor_2_26",
-      "word": "Tom felt nauseous.",
-      "translation": "Том почувствовал тошноту.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_2_27",
-      "word": "I made an appointment with Tom.",
-      "translation": "Я договорился о встрече с Томом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_2_28",
-      "word": "Didn't you know Tom was allergic to walnuts?",
-      "translation": "Ты не знал, что у Тома аллергия на грецкие орехи?",
-      "language": "en"
-    },
-    {
       "id": "pb_atthedoctor_2_29",
       "word": "I found it something of a disappointment.",
       "translation": "Я счёл это некоторым разочарованием.",
@@ -796,12 +856,6 @@
       "language": "en"
     },
     {
-      "id": "pb_atthedoctor_2_32",
-      "word": "Tom is allergic to strawberries.",
-      "translation": "У Тома аллергия на клубнику.",
-      "language": "en"
-    },
-    {
       "id": "pb_atthedoctor_2_33",
       "word": "Do we have any more cough syrup?",
       "translation": "У нас есть ещё сироп от кашля?",
@@ -811,12 +865,6 @@
       "id": "pb_atthedoctor_2_34",
       "word": "I keep a daily record of the temperature.",
       "translation": "Я ежедневно записываю показания температуры.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_2_35",
-      "word": "Tom tried not to sneeze.",
-      "translation": "Том старался не чихнуть.",
       "language": "en"
     },
     {
@@ -874,21 +922,9 @@
       "language": "en"
     },
     {
-      "id": "pb_atthedoctor_2_45",
-      "word": "Did you take Tom's temperature?",
-      "translation": "Ты измерил у Тома температуру?",
-      "language": "en"
-    },
-    {
       "id": "pb_atthedoctor_2_46",
       "word": "Make an appointment.",
       "translation": "Договоритесь о встрече.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_2_47",
-      "word": "Tom started to hiccough.",
-      "translation": "Том начал икать.",
       "language": "en"
     },
     {
@@ -904,18 +940,6 @@
       "language": "en"
     },
     {
-      "id": "pb_atthedoctor_3_0",
-      "word": "Tom didn't sneeze.",
-      "translation": "Том не чихнул.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_3_1",
-      "word": "Tom canceled his appointment at the last moment.",
-      "translation": "Том отменил свою встречу в последний момент.",
-      "language": "en"
-    },
-    {
       "id": "pb_atthedoctor_3_2",
       "word": "The temperature fell.",
       "translation": "Температура снизилась.",
@@ -925,12 +949,6 @@
       "id": "pb_atthedoctor_3_3",
       "word": "Are you allergic to anything else?",
       "translation": "У Вас есть ещё на что-нибудь аллергия?",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_3_4",
-      "word": "Didn't you know Tom was allergic to nuts?",
-      "translation": "Ты не знал, что у Тома аллергия на орехи?",
       "language": "en"
     },
     {
@@ -946,27 +964,9 @@
       "language": "en"
     },
     {
-      "id": "pb_atthedoctor_3_7",
-      "word": "Tom is allergic to nuts.",
-      "translation": "У Тома аллергия на орехи.",
-      "language": "en"
-    },
-    {
       "id": "pb_atthedoctor_3_8",
       "word": "The higher you go, the lower the temperature.",
       "translation": "Чем выше поднимаешься, тем ниже температура.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_3_9",
-      "word": "I didn't know Tom was allergic to peanuts.",
-      "translation": "Я не знал, что у Тома аллергия на арахис.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_3_10",
-      "word": "Tom told me he was dizzy.",
-      "translation": "Том сказал мне, что у него кружится голова.",
       "language": "en"
     },
     {
@@ -988,12 +988,6 @@
       "language": "en"
     },
     {
-      "id": "pb_atthedoctor_3_14",
-      "word": "Tom tried to hide his disappointment.",
-      "translation": "Том пытался скрыть разочарование.",
-      "language": "en"
-    },
-    {
       "id": "pb_atthedoctor_3_15",
       "word": "Do you have cough drops?",
       "translation": "У Вас есть капли от кашля?",
@@ -1009,12 +1003,6 @@
       "id": "pb_atthedoctor_3_17",
       "word": "I need to take your temperature again.",
       "translation": "Мне надо снова измерить твою температуру.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_3_18",
-      "word": "I heard Tom sneeze.",
-      "translation": "Я слышал, как Том чихнул.",
       "language": "en"
     },
     {
@@ -1036,12 +1024,6 @@
       "language": "en"
     },
     {
-      "id": "pb_atthedoctor_3_22",
-      "word": "Tom is allergic to girls.",
-      "translation": "У Тома аллергия на девочек.",
-      "language": "en"
-    },
-    {
       "id": "pb_atthedoctor_3_23",
       "word": "I heard someone sneeze.",
       "translation": "Я слышал, как кто-то чихнул.",
@@ -1060,12 +1042,6 @@
       "language": "en"
     },
     {
-      "id": "pb_atthedoctor_3_26",
-      "word": "Tom has an appointment with Mary at 2:30.",
-      "translation": "У Тома встреча с Мэри в половине третьего.",
-      "language": "en"
-    },
-    {
       "id": "pb_atthedoctor_3_27",
       "word": "I'm feeling dizzy.",
       "translation": "У меня голова кружится.",
@@ -1075,12 +1051,6 @@
       "id": "pb_atthedoctor_3_28",
       "word": "I want to remind you that you have a 2:30 appointment.",
       "translation": "Хочу тебе напомнить, что у тебя в половине третьего встреча.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_3_29",
-      "word": "Tom had an allergic reaction to the medication.",
-      "translation": "У Тома была аллергическая реакция на лекарство.",
       "language": "en"
     },
     {
@@ -1117,12 +1087,6 @@
       "id": "pb_atthedoctor_3_35",
       "word": "I have an appointment at three.",
       "translation": "У меня в три часа встреча.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_3_36",
-      "word": "We have to find out what Tom is allergic to.",
-      "translation": "Нам надо выяснить, на что у Тома аллергия.",
       "language": "en"
     },
     {
@@ -1174,21 +1138,9 @@
       "language": "en"
     },
     {
-      "id": "pb_atthedoctor_3_45",
-      "word": "I took Tom's temperature.",
-      "translation": "Я измерил Тому температуру.",
-      "language": "en"
-    },
-    {
       "id": "pb_atthedoctor_3_46",
       "word": "My nephew is allergic to eggs.",
       "translation": "У моего племянника аллергия на яйца.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_3_47",
-      "word": "Is Tom allergic to peanuts?",
-      "translation": "У Тома аллергия на арахис?",
       "language": "en"
     },
     {
@@ -1201,12 +1153,6 @@
       "id": "pb_atthedoctor_3_49",
       "word": "I have an appointment at 2:30.",
       "translation": "У меня встреча в 14:30.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_4_0",
-      "word": "Tom is allergic to mold.",
-      "translation": "У Тома аллергия на плесень.",
       "language": "en"
     },
     {
@@ -1246,24 +1192,6 @@
       "language": "en"
     },
     {
-      "id": "pb_atthedoctor_4_7",
-      "word": "Tom told me you were allergic to cats.",
-      "translation": "Том сказал мне, что у тебя аллергия на кошек.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_4_8",
-      "word": "I'm allergic to penicillin.",
-      "translation": "У меня аллергия на пенициллин.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_4_9",
-      "word": "I have an appointment with Tom.",
-      "translation": "У меня встреча с Томом.",
-      "language": "en"
-    },
-    {
       "id": "pb_atthedoctor_4_10",
       "word": "Are you allergic to peanuts?",
       "translation": "У тебя аллергия на арахис?",
@@ -1285,12 +1213,6 @@
       "id": "pb_atthedoctor_4_13",
       "word": "The temperature fell several degrees.",
       "translation": "Температура упала на несколько градусов.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_4_14",
-      "word": "I know that Tom is allergic to cats.",
-      "translation": "Я знаю, что у Тома аллергия на кошек.",
       "language": "en"
     },
     {
@@ -1360,12 +1282,6 @@
       "language": "en"
     },
     {
-      "id": "pb_atthedoctor_4_26",
-      "word": "Tom is trying not to cough.",
-      "translation": "Том старается не кашлять.",
-      "language": "en"
-    },
-    {
       "id": "pb_atthedoctor_4_27",
       "word": "Do you have a temperature?",
       "translation": "У вас температура?",
@@ -1384,21 +1300,9 @@
       "language": "en"
     },
     {
-      "id": "pb_atthedoctor_4_30",
-      "word": "Tom is trying not to sneeze.",
-      "translation": "Том пытается не чихнуть.",
-      "language": "en"
-    },
-    {
       "id": "pb_atthedoctor_4_31",
       "word": "What foods are you allergic to?",
       "translation": "На какие продукты у Вас аллергия?",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthedoctor_4_32",
-      "word": "Tom has a persistent cough.",
-      "translation": "У Тома постоянный кашель.",
       "language": "en"
     },
     {

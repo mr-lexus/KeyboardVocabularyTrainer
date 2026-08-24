@@ -1,18 +1,276 @@
 {
   "id": "phrasebook-atthehotel",
   "name": "At the Hotel",
-  "description": "Phrasebook for At the Hotel",
+  "description": "В отеле: заселение, услуги, проблемы и выселение",
   "entries": [
     {
-      "id": "pb_atthehotel_0_0",
-      "word": "Tom asked Mary to meet him in the lobby.",
-      "translation": "Том попросил Мэри встретить его в вестибюле.",
+      "id": "pbq_hotel_0",
+      "word": "Good evening, do you have any rooms available?",
+      "translation": "Добрый вечер, у вас есть свободные номера?",
       "language": "en"
     },
     {
-      "id": "pb_atthehotel_0_1",
-      "word": "Tom was supposed to meet me in the lobby.",
-      "translation": "Том предположительно должен был встретиться со мной в холле.",
+      "id": "pbq_hotel_1",
+      "word": "I have a reservation under the name Ivanov.",
+      "translation": "У меня забронирован номер на фамилию Иванов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_2",
+      "word": "I’d like to book a double room.",
+      "translation": "Я хотел бы забронировать двухместный номер.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_3",
+      "word": "A single room for three nights, please.",
+      "translation": "Одноместный номер на три ночи, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_4",
+      "word": "How much is it per night?",
+      "translation": "Сколько стоит за ночь?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_5",
+      "word": "Is breakfast included?",
+      "translation": "Завтрак включён?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_6",
+      "word": "What time is breakfast served?",
+      "translation": "Во сколько подают завтрак?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_7",
+      "word": "Is there a swimming pool in the hotel?",
+      "translation": "В отеле есть бассейн?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_8",
+      "word": "Do you have Wi-Fi in the rooms?",
+      "translation": "В номерах есть Wi-Fi?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_9",
+      "word": "What's the password for the Wi-Fi?",
+      "translation": "Какой пароль от Wi-Fi?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_10",
+      "word": "Could I see the room first?",
+      "translation": "Можно сначала посмотреть номер?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_11",
+      "word": "The room is too noisy.",
+      "translation": "В номере слишком шумно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_12",
+      "word": "It faces the street. Could we get a quieter room?",
+      "translation": "Он выходит на улицу. Можно номер потише?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_13",
+      "word": "The air conditioning doesn’t work.",
+      "translation": "Кондиционер не работает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_14",
+      "word": "The shower has no hot water.",
+      "translation": "В душе нет горячей воды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_15",
+      "word": "There’s no toilet paper in the bathroom.",
+      "translation": "В ванной нет туалетной бумаги.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_16",
+      "word": "The TV remote doesn’t work.",
+      "translation": "Пульт от телевизора не работает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_17",
+      "word": "Could someone clean my room, please?",
+      "translation": "Кто-нибудь мог бы убрать мой номер?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_18",
+      "word": "Could I get extra towels?",
+      "translation": "Можно дополнительные полотенца?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_19",
+      "word": "Could I have more pillows, please?",
+      "translation": "Можно ещё подушек, пожалуйста?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_20",
+      "word": "I left my key card in the room.",
+      "translation": "Я оставил ключ-карту в номере.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_21",
+      "word": "I’ve locked myself out.",
+      "translation": "Я заперся снаружи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_22",
+      "word": "Room service, please.",
+      "translation": "Обслуживание номеров, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_23",
+      "word": "I’d like to order room service.",
+      "translation": "Я хотел бы заказать еду в номер.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_24",
+      "word": "Could you bring it up to room 305?",
+      "translation": "Могли бы вы поднять это в номер 305?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_25",
+      "word": "Can I have a wake-up call at seven?",
+      "translation": "Разбудите меня в семь, пожалуйста?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_26",
+      "word": "Please wake me up at six thirty.",
+      "translation": "Разбудите меня в шесть тридцать, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_27",
+      "word": "Where is the elevator?",
+      "translation": "Где лифт?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_28",
+      "word": "Is there a safe in the room?",
+      "translation": "В номере есть сейф?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_29",
+      "word": "Can I leave my valuables at reception?",
+      "translation": "Могу оставить ценности на ресепшене?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_30",
+      "word": "Is there parking at the hotel?",
+      "translation": "В отеле есть парковка?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_31",
+      "word": "What time is check-out?",
+      "translation": "Во сколько выезд?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_32",
+      "word": "Can we check out a bit later?",
+      "translation": "Можно выехать чуть позже?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_33",
+      "word": "I’d like to extend my stay for one more night.",
+      "translation": "Я хотел бы продлить пребывание ещё на одну ночь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_34",
+      "word": "I’d like to pay by card.",
+      "translation": "Я хотел бы оплатить картой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_35",
+      "word": "Could I have the bill, please?",
+      "translation": "Можно счёт, пожалуйста?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_36",
+      "word": "I’m checking out today.",
+      "translation": "Сегодня я выселяюсь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_37",
+      "word": "Here’s your key back.",
+      "translation": "Вот ваш ключ обратно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_38",
+      "word": "Was everything all right with your stay?",
+      "translation": "Всё ли было хорошо во время проживания?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_39",
+      "word": "Yes, everything was perfect, thank you.",
+      "translation": "Да, всё было отлично, спасибо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_40",
+      "word": "Could you call a taxi for me?",
+      "translation": "Вы могли бы вызвать мне такси?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_41",
+      "word": "Could you keep my luggage until evening?",
+      "translation": "Можете подержать мой багаж до вечера?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_42",
+      "word": "I left my charger in the room.",
+      "translation": "Я забыл зарядку в номере.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_43",
+      "word": "Did anyone find a black wallet here?",
+      "translation": "Здесь никто не находил чёрный кошелёк?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hotel_44",
+      "word": "Enjoy your stay with us!",
+      "translation": "Приятного пребывания!",
       "language": "en"
     },
     {
@@ -25,36 +283,6 @@
       "id": "pb_atthehotel_0_3",
       "word": "Nobody was in the lobby.",
       "translation": "В холле никого не было.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthehotel_0_4",
-      "word": "Tom and Mary are waiting in the lobby.",
-      "translation": "Том и Мэри ждут в холле.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthehotel_0_5",
-      "word": "Tom is now waiting in the lobby.",
-      "translation": "Том сейчас ждёт в холле.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthehotel_0_6",
-      "word": "I suspect Tom is waiting for us in the lobby.",
-      "translation": "Подозреваю, что Том ждёт нас в холле.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthehotel_0_7",
-      "word": "I told Tom to wait for me in the lobby.",
-      "translation": "Я сказал Тому, чтобы он ждал меня в вестибюле.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthehotel_0_8",
-      "word": "Tom is waiting for me in the lobby.",
-      "translation": "Том ждёт меня в холле.",
       "language": "en"
     },
     {
@@ -76,18 +304,6 @@
       "language": "en"
     },
     {
-      "id": "pb_atthehotel_0_12",
-      "word": "Tom isn't waiting outside. He's waiting in the lobby.",
-      "translation": "Том ждёт не на улице, а в холле.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthehotel_0_13",
-      "word": "I suspect that Tom is waiting for us in the lobby.",
-      "translation": "Подозреваю, что Том ждёт нас в холле.",
-      "language": "en"
-    },
-    {
       "id": "pb_atthehotel_0_14",
       "word": "There's somebody waiting for you in the lobby.",
       "translation": "Вас кто-то ждёт в холле.",
@@ -97,36 +313,6 @@
       "id": "pb_atthehotel_0_15",
       "word": "We'll be waiting for you in the lobby.",
       "translation": "Мы будем ждать тебя в холле.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthehotel_0_16",
-      "word": "Tom is going to be waiting for us in the lobby.",
-      "translation": "Том будет ждать нас в холле.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthehotel_0_17",
-      "word": "We'll wait for Tom in the lobby.",
-      "translation": "Мы будем ждать Тома в вестибюле.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthehotel_0_18",
-      "word": "Tom will be waiting in the lobby.",
-      "translation": "Том будет ждать в холле.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthehotel_0_19",
-      "word": "Tom is waiting for us in the lobby.",
-      "translation": "Том ждёт нас в холле.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthehotel_0_20",
-      "word": "Tom will be waiting for us in the lobby at 2:30.",
-      "translation": "Том будет ждать нас в холле в половине третьего.",
       "language": "en"
     },
     {
@@ -160,12 +346,6 @@
       "language": "en"
     },
     {
-      "id": "pb_atthehotel_0_26",
-      "word": "During the break, I went to look for Tom in the lobby.",
-      "translation": "В антракте я пошёл искать Тома в фойе.",
-      "language": "en"
-    },
-    {
       "id": "pb_atthehotel_0_27",
       "word": "I'm in the lobby.",
       "translation": "Я в холле.",
@@ -178,39 +358,9 @@
       "language": "en"
     },
     {
-      "id": "pb_atthehotel_0_29",
-      "word": "Tom will be waiting for us in the lobby.",
-      "translation": "Том будет ждать нас в холле.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthehotel_0_30",
-      "word": "Tom has been waiting patiently in the lobby for three hours.",
-      "translation": "Фома терпеливо ждёт в вестибюле на протяжении трёх часов.",
-      "language": "en"
-    },
-    {
       "id": "pb_atthehotel_0_31",
       "word": "I'd like you to wait in the lobby.",
       "translation": "Я хотел бы, чтобы ты подождал в холле.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthehotel_0_32",
-      "word": "Tom waited for Mary in the lobby.",
-      "translation": "Том ждал Мэри в холле.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthehotel_0_33",
-      "word": "Tom asked for a wake-up call.",
-      "translation": "Том попросил разбудить его по телефону.",
-      "language": "en"
-    },
-    {
-      "id": "pb_atthehotel_0_34",
-      "word": "Tom and Mary agreed to meet in the lobby.",
-      "translation": "Том и Мэри договорились встретиться в вестибюле.",
       "language": "en"
     }
   ]

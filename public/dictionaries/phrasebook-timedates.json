@@ -1,24 +1,324 @@
 {
   "id": "phrasebook-timedates",
   "name": "Time & Dates",
-  "description": "Phrasebook for Time & Dates",
+  "description": "Время, даты и договорённости о встречах — живые разговорные формулы",
   "entries": [
     {
-      "id": "pb_timedates_0_0",
-      "word": "Tom and I are getting married in October.",
-      "translation": "Мы с Томом в октябре женимся.",
+      "id": "pbq_timedates_0",
+      "word": "What time is it?",
+      "translation": "Который час?",
       "language": "en"
     },
     {
-      "id": "pb_timedates_0_1",
-      "word": "Tom doesn't have much leisure time.",
-      "translation": "У Тома не так много свободного времени.",
+      "id": "pbq_timedates_1",
+      "word": "Do you have the time?",
+      "translation": "Вы не подскажете, который час?",
       "language": "en"
     },
     {
-      "id": "pb_timedates_0_2",
-      "word": "Tom got back from Boston on Monday.",
-      "translation": "Том вернулся из Бостона в понедельник.",
+      "id": "pbq_timedates_2",
+      "word": "It's half past three.",
+      "translation": "Сейчас полчетвертого.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_3",
+      "word": "It's quarter to five.",
+      "translation": "Сейчас без четверти пять.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_4",
+      "word": "It's ten past six.",
+      "translation": "Сейчас десять минут седьмого.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_5",
+      "word": "It's noon already.",
+      "translation": "Уже полдень.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_6",
+      "word": "It's almost midnight.",
+      "translation": "Почти полночь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_7",
+      "word": "My watch is slow.",
+      "translation": "Мои часы отстают.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_8",
+      "word": "My watch is ten minutes fast.",
+      "translation": "Мои часы спешат на десять минут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_9",
+      "word": "What day is it today?",
+      "translation": "Какой сегодня день?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_10",
+      "word": "What’s the date today?",
+      "translation": "Какое сегодня число?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_11",
+      "word": "Today's Monday, June fifth.",
+      "translation": "Сегодня понедельник, пятое июня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_12",
+      "word": "What month is it?",
+      "translation": "Какой сейчас месяц?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_13",
+      "word": "See you on Monday!",
+      "translation": "До понедельника!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_14",
+      "word": "I’ll be back next week.",
+      "translation": "Я вернусь на следующей неделе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_15",
+      "word": "See you in an hour.",
+      "translation": "Увидимся через час.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_16",
+      "word": "Call me in twenty minutes.",
+      "translation": "Позвони мне минут через двадцать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_17",
+      "word": "How long will it take?",
+      "translation": "Сколько это займёт времени?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_18",
+      "word": "It won’t take long.",
+      "translation": "Это долго не займёт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_19",
+      "word": "It takes about an hour by train.",
+      "translation": "На поезде это занимает около часа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_20",
+      "word": "I need some more time.",
+      "translation": "Мне нужно ещё немного времени.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_21",
+      "word": "There’s no rush.",
+      "translation": "Никакой спешки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_22",
+      "word": "Take your time.",
+      "translation": "Не торопитесь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_23",
+      "word": "Time flies!",
+      "translation": "Время летит!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_24",
+      "word": "Where did the time go?",
+      "translation": "Куда ушло время?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_25",
+      "word": "We’re running out of time.",
+      "translation": "У нас кончается время.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_26",
+      "word": "We still have plenty of time.",
+      "translation": "У нас ещё куча времени.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_27",
+      "word": "Time is up.",
+      "translation": "Время вышло.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_28",
+      "word": "In due time.",
+      "translation": "В своё время.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_29",
+      "word": "Sooner or later.",
+      "translation": "Рано или поздно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_30",
+      "word": "From time to time.",
+      "translation": "Время от времени.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_31",
+      "word": "Once in a while.",
+      "translation": "Время от времени.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_32",
+      "word": "All in good time.",
+      "translation": "Всему своё время.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_33",
+      "word": "Better late than never.",
+      "translation": "Лучше поздно, чем никогда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_34",
+      "word": "Are we still on for tonight?",
+      "translation": "Мы всё ещё встречаемся сегодня вечером?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_35",
+      "word": "Is seven still good for you?",
+      "translation": "Семь часов всё ещё удобно?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_36",
+      "word": "Can we meet a bit earlier?",
+      "translation": "Можем встретиться пораньше?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_37",
+      "word": "Could we move our appointment?",
+      "translation": "Можно перенести нашу встречу?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_38",
+      "word": "I’d like to book an appointment.",
+      "translation": "Я хотел бы записаться на приём.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_39",
+      "word": "What times do you have available?",
+      "translation": "Какое время у вас свободно?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_40",
+      "word": "Does Tuesday work for you?",
+      "translation": "Вторник вам подходит?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_41",
+      "word": "Tuesday works perfectly.",
+      "translation": "Вторник подходит идеально.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_42",
+      "word": "I’m available any day except Sunday.",
+      "translation": "Я свободен в любой день, кроме воскресенья.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_43",
+      "word": "Mornings are better for me.",
+      "translation": "Для меня лучше утро.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_44",
+      "word": "Let’s set a date.",
+      "translation": "Давайте назначим дату.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_45",
+      "word": "Mark your calendar.",
+      "translation": "Отметь это в календаре.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_46",
+      "word": "Save the date!",
+      "translation": "Сохраните эту дату!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_47",
+      "word": "I’ll put it in my calendar.",
+      "translation": "Я добавлю это в свой календарь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_48",
+      "word": "What’s the deadline?",
+      "translation": "Какой срок сдачи?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_49",
+      "word": "By when do you need it?",
+      "translation": "К какому сроку это нужно?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_50",
+      "word": "As soon as possible, please.",
+      "translation": "Как можно скорее, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_51",
+      "word": "Within two weeks.",
+      "translation": "В течение двух недель.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_52",
+      "word": "At the latest by Friday.",
+      "translation": "Крайний срок — пятница.",
       "language": "en"
     },
     {
@@ -37,12 +337,6 @@
       "id": "pb_timedates_0_5",
       "word": "Somebody broke in here last night.",
       "translation": "Кто-то вломился сюда прошлой ночью.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_0_6",
-      "word": "Have you known Tom for a long time?",
-      "translation": "Ты давно знаешь Тома?",
       "language": "en"
     },
     {
@@ -94,12 +388,6 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_0_15",
-      "word": "Tom has promised to do that today.",
-      "translation": "Том пообещал сделать это сегодня.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_0_16",
       "word": "I'd like to go to France sometime.",
       "translation": "Я хотел бы когда-нибудь съездить во Францию.",
@@ -109,12 +397,6 @@
       "id": "pb_timedates_0_17",
       "word": "You won't need an umbrella today.",
       "translation": "Тебе сегодня не понадобится зонтик.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_0_18",
-      "word": "Tom didn't believe it for a second.",
-      "translation": "Том не поверил ни на секунду.",
       "language": "en"
     },
     {
@@ -166,39 +448,15 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_0_27",
-      "word": "Tom didn't need to come here today.",
-      "translation": "Тому не нужно было сюда сегодня приходить.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_0_28",
-      "word": "I asked Tom if he needed more time.",
-      "translation": "Я спросил Тома, нужно ли ему больше времени.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_0_29",
       "word": "He woke up in the middle of the night.",
       "translation": "Он проснулся среди ночи.",
       "language": "en"
     },
     {
-      "id": "pb_timedates_0_30",
-      "word": "Tom plans to be in Boston next Monday.",
-      "translation": "Том планирует быть в Бостоне в следующий понедельник.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_0_31",
       "word": "I'm not used to working all night.",
       "translation": "Я не привык всю ночь работать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_0_32",
-      "word": "I wish I'd helped Tom at the time.",
-      "translation": "Жаль, что я не помог тогда Тому.",
       "language": "en"
     },
     {
@@ -217,12 +475,6 @@
       "id": "pb_timedates_0_35",
       "word": "I had the most incredible evening.",
       "translation": "У меня был невероятнейший вечер.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_0_36",
-      "word": "Tom chopped firewood all afternoon.",
-      "translation": "Том весь день колол дрова.",
       "language": "en"
     },
     {
@@ -280,12 +532,6 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_0_46",
-      "word": "I don't know why Tom is so busy today.",
-      "translation": "Я не знаю, почему Том сегодня так занят.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_0_47",
       "word": "Today is a national holiday in Iceland.",
       "translation": "Сегодня государственный праздник в Исландии.",
@@ -295,12 +541,6 @@
       "id": "pb_timedates_0_48",
       "word": "I hope to be able to go on Monday.",
       "translation": "Надеюсь, что смогу пойти в понедельник.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_0_49",
-      "word": "Tom died a little more than a year ago.",
-      "translation": "Том умер чуть больше года назад.",
       "language": "en"
     },
     {
@@ -358,39 +598,15 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_1_9",
-      "word": "Mary is wearing a new dress today.",
-      "translation": "Мэри сегодня в новом платье.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_1_10",
-      "word": "Tom didn't know the truth at that time.",
-      "translation": "Том тогда не знал правды.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_1_11",
       "word": "Your efforts will bear fruit someday.",
       "translation": "Когда-нибудь ваши усилия принесут свои плоды.",
       "language": "en"
     },
     {
-      "id": "pb_timedates_1_12",
-      "word": "I'd like to see Tom again someday.",
-      "translation": "Я хотел бы как-нибудь ещё увидеть Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_1_13",
       "word": "I won't take up any more of your time.",
       "translation": "Я не буду больше отнимать у вас время.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_1_14",
-      "word": "Tom told me that we're out of time.",
-      "translation": "Том сказал мне, что мы не успели.",
       "language": "en"
     },
     {
@@ -406,21 +622,9 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_1_17",
-      "word": "Tom says he wants to do that today.",
-      "translation": "Том говорит, что хочет сделать это сегодня.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_1_18",
       "word": "I'm not sure you'll have the time.",
       "translation": "Я не уверен, что у тебя будет время.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_1_19",
-      "word": "Tom announced his decision Monday.",
-      "translation": "Том объявил своё решение в понедельник.",
       "language": "en"
     },
     {
@@ -436,21 +640,9 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_1_22",
-      "word": "Tom calls Mary several times a day.",
-      "translation": "Том звонит Мэри по несколько раз в день.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_1_23",
       "word": "She's going to have a baby in July.",
       "translation": "В июле она рожает.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_1_24",
-      "word": "Tom is going to Boston next month.",
-      "translation": "Том поедет в Бостон в следующем месяце.",
       "language": "en"
     },
     {
@@ -463,12 +655,6 @@
       "id": "pb_timedates_1_26",
       "word": "Do they clip the sheep every year?",
       "translation": "Они каждый год стригут овец?",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_1_27",
-      "word": "I saw Tom yesterday and he looked sad.",
-      "translation": "Вчера я видел Тома, и он выглядел грустным.",
       "language": "en"
     },
     {
@@ -508,12 +694,6 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_1_34",
-      "word": "Tom is one year away from retirement.",
-      "translation": "Тому год до пенсии.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_1_35",
       "word": "Will you be in Australia in October?",
       "translation": "Ты будешь в октябре в Австралии?",
@@ -523,12 +703,6 @@
       "id": "pb_timedates_1_36",
       "word": "I want to visit Australia someday.",
       "translation": "Я хочу как-нибудь съездить в Австралию.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_1_37",
-      "word": "Tom told me he didn't have much time.",
-      "translation": "Том сказал мне, что у него не очень много времени.",
       "language": "en"
     },
     {
@@ -580,21 +754,9 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_1_46",
-      "word": "Tom and Mary talked for some time.",
-      "translation": "Том и Мэри некоторое время поговорили.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_1_47",
       "word": "I go jogging almost every morning.",
       "translation": "Я бегаю почти каждое утро.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_1_48",
-      "word": "Tom said good night to Mary and left.",
-      "translation": "Том сказал Мэри \"спокойной ночи\" и ушёл.",
       "language": "en"
     },
     {
@@ -610,30 +772,6 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_2_1",
-      "word": "Tom may not even be in Australia now.",
-      "translation": "Тома сейчас может даже не быть в Австралии.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_2_2",
-      "word": "Tom makes millions of dollars a year.",
-      "translation": "Том зарабатывает миллионы долларов в год.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_2_3",
-      "word": "Tom likes watching TV in the evening.",
-      "translation": "Том любит смотреть телевизор по вечерам.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_2_4",
-      "word": "Tom comes here three times a month.",
-      "translation": "Том приходит сюда три раза в месяц.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_2_5",
       "word": "I just got back from Boston today.",
       "translation": "Я только сегодня вернулся из Бостона.",
@@ -646,33 +784,9 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_2_7",
-      "word": "Tom told me a good joke this morning.",
-      "translation": "Сегодня утром Том рассказал мне хорошую шутку.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_2_8",
-      "word": "You need to spend more time with Tom.",
-      "translation": "Вам нужно проводить больше времени с Томом.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_2_9",
       "word": "I'll do my best to be ready on time.",
       "translation": "Я сделаю всё возможное, чтобы быть готовым в назначенный срок.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_2_10",
-      "word": "Tom was murdered on October 20, 2013.",
-      "translation": "Том был убит двадцатого октября две тысячи тринадцатого года.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_2_11",
-      "word": "Tom wakes up at 8 a.m. every morning.",
-      "translation": "Том просыпается в восемь часов каждое утро.",
       "language": "en"
     },
     {
@@ -688,12 +802,6 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_2_14",
-      "word": "Tom and Mary spent the summer together.",
-      "translation": "Том и Мэри провели лето вместе.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_2_15",
       "word": "Don't forget to talk with him tomorrow.",
       "translation": "Не забудь с ним завтра поговорить.",
@@ -706,27 +814,9 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_2_17",
-      "word": "Tom and Mary broke up last October.",
-      "translation": "Том и Мэри расстались в октябре прошлого года.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_2_18",
-      "word": "I met Tom and Mary just the other day.",
-      "translation": "Я встретил Тома и Мэри буквально на днях.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_2_19",
       "word": "Some of us won't be here tomorrow.",
       "translation": "Некоторых из нас здесь завтра не будет.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_2_20",
-      "word": "Tom has been waiting for half an hour.",
-      "translation": "Том ждёт уже полчаса.",
       "language": "en"
     },
     {
@@ -739,36 +829,6 @@
       "id": "pb_timedates_2_22",
       "word": "I am not going anywhere on Sunday.",
       "translation": "В воскресенье никуда не собираюсь.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_2_23",
-      "word": "Tom will be leaving tomorrow morning.",
-      "translation": "Том завтра утром уезжает.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_2_24",
-      "word": "Tom says he feels a lot better today.",
-      "translation": "Том говорит, что сегодня ему гораздо лучше.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_2_25",
-      "word": "Tom will call you tonight.",
-      "translation": "Том тебе сегодня вечером позвонит.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_2_26",
-      "word": "Tom hasn't visited us for a long time.",
-      "translation": "Том давно нас не навещал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_2_27",
-      "word": "Tom is talkative today.",
-      "translation": "Том сегодня разговорчив.",
       "language": "en"
     },
     {
@@ -802,12 +862,6 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_2_33",
-      "word": "Tom never stays more than a week.",
-      "translation": "Том никогда не остаётся дольше, чем на неделю.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_2_34",
       "word": "Did you have a nice day?",
       "translation": "Хороший был день?",
@@ -817,18 +871,6 @@
       "id": "pb_timedates_2_35",
       "word": "May I do that now?",
       "translation": "Можно я сейчас это сделаю?",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_2_36",
-      "word": "Tom flew to Boston on October 20th.",
-      "translation": "Том улетел в Бостон двадцатого октября.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_2_37",
-      "word": "Tom and I were very busy last week.",
-      "translation": "Мы с Томом были очень заняты на прошлой неделе.",
       "language": "en"
     },
     {
@@ -856,12 +898,6 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_2_42",
-      "word": "Tom may have left for Boston already.",
-      "translation": "Том мог уже уехать в Бостон.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_2_43",
       "word": "You've been married a long time.",
       "translation": "Вы были женаты длительное время.",
@@ -883,12 +919,6 @@
       "id": "pb_timedates_2_46",
       "word": "Let's not waste time.",
       "translation": "Давайте не будем тратить время.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_2_47",
-      "word": "Tom arrives tomorrow.",
-      "translation": "Том приезжает завтра.",
       "language": "en"
     },
     {
@@ -934,12 +964,6 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_3_5",
-      "word": "Tom talked to me for a solid hour.",
-      "translation": "Том говорил со мной целый час.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_3_6",
       "word": "Can I go to the movies tomorrow?",
       "translation": "Можно мне завтра в кино пойти?",
@@ -955,12 +979,6 @@
       "id": "pb_timedates_3_8",
       "word": "It snowed a little last night.",
       "translation": "Прошлой ночью выпал небольшой снег.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_3_9",
-      "word": "Tom didn't have much time for studying.",
-      "translation": "У Тома не было много времени на учёбу.",
       "language": "en"
     },
     {
@@ -982,18 +1000,6 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_3_13",
-      "word": "Tom eats fish at least once a week.",
-      "translation": "Том ест рыбу по крайней мере один раз в неделю.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_3_14",
-      "word": "Did anyone see Tom here yesterday?",
-      "translation": "Кто-нибудь видел здесь вчера Тома?",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_3_15",
       "word": "There may have been a misunderstanding.",
       "translation": "Возможно, произошло недоразумение.",
@@ -1006,27 +1012,9 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_3_17",
-      "word": "Tom was in Australia for a long time.",
-      "translation": "Том долгое время жил в Австралии.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_3_18",
-      "word": "I spent Monday with Tom.",
-      "translation": "Я провёл понедельник с Томом.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_3_19",
       "word": "I hope you have a nice time in Boston.",
       "translation": "Надеюсь, вы хорошо проведёте время в Бостоне.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_3_20",
-      "word": "Tom came to see me yesterday.",
-      "translation": "Том вчера приходил меня навестить.",
       "language": "en"
     },
     {
@@ -1078,30 +1066,6 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_3_29",
-      "word": "Tom plans to go to Boston next week.",
-      "translation": "Том собирается поехать на следующей неделе в Бостон.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_3_30",
-      "word": "I think Tom will do that tomorrow.",
-      "translation": "Я думаю, Том завтра это сделает.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_3_31",
-      "word": "Tom kept Mary waiting for an hour.",
-      "translation": "Том заставил Мэри ждать час.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_3_32",
-      "word": "Tom washes his hands all the time.",
-      "translation": "Том всё время моет руки.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_3_33",
       "word": "I waste a lot of time daydreaming.",
       "translation": "Я трачу кучу времени, строя воздушные замки.",
@@ -1138,12 +1102,6 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_3_39",
-      "word": "Tom makes supper for me every evening.",
-      "translation": "Том каждый вечер готовит мне ужин.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_3_40",
       "word": "There isn't time to explain in detail.",
       "translation": "Нет времени подробно объяснять.",
@@ -1153,12 +1111,6 @@
       "id": "pb_timedates_3_41",
       "word": "Can the matter wait till tomorrow?",
       "translation": "Это может подождать до завтра?",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_3_42",
-      "word": "Tom and I are going to Boston tomorrow.",
-      "translation": "Том и я собираемся завтра в Бостон.",
       "language": "en"
     },
     {
@@ -1177,30 +1129,6 @@
       "id": "pb_timedates_3_45",
       "word": "What's wrong with you today?",
       "translation": "Что с тобой сегодня такое?",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_3_46",
-      "word": "We need to find Tom tonight.",
-      "translation": "Нам надо найти Тома сегодня вечером.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_3_47",
-      "word": "Tom was having a very good time.",
-      "translation": "Том очень хорошо проводил время.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_3_48",
-      "word": "Tom came to Boston a lot last year.",
-      "translation": "В прошлом году Том часто приезжал в Бостон.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_3_49",
-      "word": "Tom sleeps in the nude in the summer.",
-      "translation": "Летом Том спит нагишом.",
       "language": "en"
     },
     {
@@ -1258,12 +1186,6 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_4_9",
-      "word": "Tom says that Mary cries all the time.",
-      "translation": "Том говорит, что Мэри всё время плачет.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_4_10",
       "word": "Yesterday was cloudy.",
       "translation": "Вчера было облачно.",
@@ -1279,12 +1201,6 @@
       "id": "pb_timedates_4_12",
       "word": "How was yesterday?",
       "translation": "Как вчера всё прошло?",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_4_13",
-      "word": "Tom will be gone for at least a week.",
-      "translation": "Тома не будет по крайней мере неделю.",
       "language": "en"
     },
     {
@@ -1318,12 +1234,6 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_4_19",
-      "word": "Tom doesn't want to come here tomorrow.",
-      "translation": "Том не хочет завтра сюда приходить.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_4_20",
       "word": "I moved to Australia last spring.",
       "translation": "Прошлой весной я переехал в Австралию.",
@@ -1339,12 +1249,6 @@
       "id": "pb_timedates_4_22",
       "word": "I'm going to have a heavy day.",
       "translation": "Мне предстоит тяжёлый день.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_4_23",
-      "word": "Tom does 100 sit-ups every morning.",
-      "translation": "Том каждое утро делает сто упражнений на пресс.",
       "language": "en"
     },
     {
@@ -1366,27 +1270,9 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_4_27",
-      "word": "Tom is taking his time.",
-      "translation": "Том не торопится.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_4_28",
-      "word": "Tom told Mary he could do that today.",
-      "translation": "Том сказал Мэри, что может сделать это сегодня.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_4_29",
       "word": "I hope it'll be fine tomorrow.",
       "translation": "Надеюсь, завтра будет хорошая погода.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_4_30",
-      "word": "Tom spent the whole morning with Mary.",
-      "translation": "Том всё утро провёл с Мэри.",
       "language": "en"
     },
     {
@@ -1399,12 +1285,6 @@
       "id": "pb_timedates_4_32",
       "word": "Are you going to the bank tomorrow?",
       "translation": "Ты идёшь завтра в банк?",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_4_33",
-      "word": "Tom is having a party this Friday.",
-      "translation": "Том устраивает в эту пятницу вечеринку.",
       "language": "en"
     },
     {
@@ -1432,21 +1312,9 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_4_38",
-      "word": "May I talk to Tom?",
-      "translation": "Могу я поговорить с Томом?",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_4_39",
       "word": "It looks like we came at a bad time.",
       "translation": "Похоже, мы пришли не вовремя.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_4_40",
-      "word": "Tom got me drunk last night.",
-      "translation": "Том напоил меня вчера вечером.",
       "language": "en"
     },
     {
@@ -1510,21 +1378,9 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_5_1",
-      "word": "Tom isn't wasting time.",
-      "translation": "Том не теряет времени.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_5_2",
       "word": "We were able to sleep an hour longer.",
       "translation": "Мы смогли поспать на час дольше.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_5_3",
-      "word": "Mary is going to have a baby in October.",
-      "translation": "В октябре Мэри рожает.",
       "language": "en"
     },
     {
@@ -1546,12 +1402,6 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_5_7",
-      "word": "Tom talked with Mary for nearly an hour.",
-      "translation": "Том почти час проговорил с Машей.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_5_8",
       "word": "We're short on time.",
       "translation": "У нас мало времени.",
@@ -1561,12 +1411,6 @@
       "id": "pb_timedates_5_9",
       "word": "I'm afraid there isn't much time.",
       "translation": "Боюсь, времени немного.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_5_10",
-      "word": "Tom and Mary are planning to come next year.",
-      "translation": "Том с Мэри планируют в следующем году приехать.",
       "language": "en"
     },
     {
@@ -1588,18 +1432,6 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_5_14",
-      "word": "Tom was sitting silent for half an hour.",
-      "translation": "Фома сидел молча полчаса.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_5_15",
-      "word": "Tom was in Australia last year.",
-      "translation": "В прошлом году Том был в Австралии.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_5_16",
       "word": "He's not going to get away with it this time.",
       "translation": "Так просто в этот раз он с этим не отделается.",
@@ -1618,18 +1450,6 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_5_19",
-      "word": "Tom spent a year in Boston.",
-      "translation": "Том провёл год в Бостоне.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_5_20",
-      "word": "Monday is Tom's thirtieth birthday.",
-      "translation": "В понедельник Тому исполняется тридцать.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_5_21",
       "word": "I don't want to know what you did yesterday.",
       "translation": "Я не хочу знать, что ты вчера делал.",
@@ -1645,12 +1465,6 @@
       "id": "pb_timedates_5_23",
       "word": "I can't tell you what we did last night.",
       "translation": "Я не могу рассказать тебе, что мы делали вчера вечером.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_5_24",
-      "word": "Tom speaks French every day.",
-      "translation": "Том говорит по-французски каждый день.",
       "language": "en"
     },
     {
@@ -1696,12 +1510,6 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_5_32",
-      "word": "Do you know what time Tom left this morning?",
-      "translation": "Ты знаешь, во сколько Том сегодня утром ушёл?",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_5_33",
       "word": "What about next Sunday?",
       "translation": "Как насчёт следующего воскресенья?",
@@ -1711,18 +1519,6 @@
       "id": "pb_timedates_5_34",
       "word": "We don't have any more time.",
       "translation": "У нас больше нет времени.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_5_35",
-      "word": "Tom will be here by evening.",
-      "translation": "Том будет здесь к вечеру.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_5_36",
-      "word": "Tom said he didn't have time to do that.",
-      "translation": "Том сказал, что у него на это нет времени.",
       "language": "en"
     },
     {
@@ -1750,45 +1546,15 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_5_41",
-      "word": "Why did Tom want to do that today?",
-      "translation": "Почему Том хотел сделать это сегодня?",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_5_42",
-      "word": "Tom will be thirty years old tomorrow.",
-      "translation": "Завтра Тому исполнится тридцать.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_5_43",
       "word": "I need to know tomorrow.",
       "translation": "Я должен знать завтра.",
       "language": "en"
     },
     {
-      "id": "pb_timedates_5_44",
-      "word": "Tom told Mary he'd be busy on Monday.",
-      "translation": "Том сказал Мэри, что будет занят в понедельник.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_5_45",
       "word": "Sunday is the first day of the week.",
       "translation": "Воскресенье – первый день недели.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_5_46",
-      "word": "I've been waiting for Tom for an hour now.",
-      "translation": "Я уже целый час жду Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_5_47",
-      "word": "I hung out with Tom yesterday.",
-      "translation": "Я тусовалась с Томом вчера.",
       "language": "en"
     },
     {
@@ -1801,12 +1567,6 @@
       "id": "pb_timedates_5_49",
       "word": "I broke up with her yesterday evening.",
       "translation": "Я расстался с ней вчера вечером.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_6_0",
-      "word": "Is it Tom's birthday tomorrow?",
-      "translation": "У Тома завтра день рождения?",
       "language": "en"
     },
     {
@@ -1840,21 +1600,9 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_6_6",
-      "word": "Tom jogs three times a week.",
-      "translation": "Том совершает пробежку три раза в неделю.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_6_7",
       "word": "My investments earn about 10 percent a year.",
       "translation": "Мои инвестиции приносят мне примерно 10 процентов годовых.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_6_8",
-      "word": "Tom doesn't know why Mary isn't here today.",
-      "translation": "Том не знает, почему Мэри сегодня нет.",
       "language": "en"
     },
     {
@@ -1870,21 +1618,9 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_6_11",
-      "word": "Tom isn't here this morning.",
-      "translation": "Сегодня утром Тома нет.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_6_12",
       "word": "We've got loads of time.",
       "translation": "У нас куча времени.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_6_13",
-      "word": "Tom plans to leave tomorrow.",
-      "translation": "Том планирует ехать завтра.",
       "language": "en"
     },
     {
@@ -1900,21 +1636,9 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_6_16",
-      "word": "Tom does that every Monday morning.",
-      "translation": "Том делает это утром каждого понедельника.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_6_17",
       "word": "When is the next leap year?",
       "translation": "Когда следующий високосный год?",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_6_18",
-      "word": "Tom has to go to Boston next week.",
-      "translation": "Тому надо на следующей неделе поехать в Бостон.",
       "language": "en"
     },
     {
@@ -1954,12 +1678,6 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_6_25",
-      "word": "When was the last time you saw Tom alive?",
-      "translation": "Когда вы в последний раз видели Тома живым?",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_6_26",
       "word": "When was the last time you dyed your hair?",
       "translation": "Когда ты в последний раз красил волосы?",
@@ -1984,12 +1702,6 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_6_30",
-      "word": "I'll meet with Tom tonight.",
-      "translation": "Я встречусь с Томом сегодня вечером.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_6_31",
       "word": "What did you have for supper last night?",
       "translation": "Что у тебя вчера было на ужин?",
@@ -2008,21 +1720,9 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_6_34",
-      "word": "Tom can come back tomorrow.",
-      "translation": "Том может завтра вернуться.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_6_35",
       "word": "I haven't been this busy in a long time.",
       "translation": "Давно я не был так занят.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_6_36",
-      "word": "This time Tom is right.",
-      "translation": "На этот раз Том прав.",
       "language": "en"
     },
     {
@@ -2035,12 +1735,6 @@
       "id": "pb_timedates_6_38",
       "word": "I learned to swim last summer.",
       "translation": "Я научился плавать прошлым летом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_6_39",
-      "word": "Tom makes fun of Mary all the time.",
-      "translation": "Том всё время высмеивает Мэри.",
       "language": "en"
     },
     {
@@ -2080,12 +1774,6 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_6_46",
-      "word": "Tom needs to take a day off.",
-      "translation": "Тому нужно взять выходной.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_6_47",
       "word": "I lay awake most of the night.",
       "translation": "Большую часть ночи я пролежал без сна.",
@@ -2116,18 +1804,6 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_7_2",
-      "word": "Tom won't do that today.",
-      "translation": "Том сегодня это не сделает.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_7_3",
-      "word": "Tom spoke to me about that yesterday.",
-      "translation": "Том со мной вчера об этом говорил.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_7_4",
       "word": "She will give birth in July.",
       "translation": "Она родит в июле.",
@@ -2137,12 +1813,6 @@
       "id": "pb_timedates_7_5",
       "word": "She came back an hour later.",
       "translation": "Она вернулась через час.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_7_6",
-      "word": "I met Tom in Boston last year.",
-      "translation": "Я познакомился с Томом в Бостоне в прошлом году.",
       "language": "en"
     },
     {
@@ -2158,33 +1828,15 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_7_9",
-      "word": "Tom may have known the answer.",
-      "translation": "Том мог знать ответ.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_7_10",
       "word": "I'll speak to you at a more convenient time.",
       "translation": "Я поговорю с тобой в более удобное время.",
       "language": "en"
     },
     {
-      "id": "pb_timedates_7_11",
-      "word": "Will you see Tom tomorrow?",
-      "translation": "Ты завтра Тома увидишь?",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_7_12",
       "word": "There's nothing worth watching on TV today.",
       "translation": "По телевизору сегодня нет ничего стоящего.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_7_13",
-      "word": "Tell Tom I want to see him first thing in the morning.",
-      "translation": "Скажи Тому, что я хочу его видеть прямо с утра.",
       "language": "en"
     },
     {
@@ -2212,27 +1864,9 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_7_18",
-      "word": "I need to warn Tom that there may be a few problems.",
-      "translation": "Мне надо предупредить Тома, что там может возникнуть несколько проблем.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_7_19",
-      "word": "Tom told me he was going to be busy all day tomorrow.",
-      "translation": "Том сказал мне, что завтра весь день будет занят.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_7_20",
       "word": "I have a bit of time to relax.",
       "translation": "У меня есть немного времени, чтобы расслабиться.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_7_21",
-      "word": "Tom worked in Boston all last week.",
-      "translation": "Том работал в Бостоне всю прошлую неделю.",
       "language": "en"
     },
     {
@@ -2242,27 +1876,9 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_7_23",
-      "word": "Tom spends a lot of time playing soccer.",
-      "translation": "Том проводит много времени, играя в футбол.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_7_24",
-      "word": "Tom needs to be given a second chance.",
-      "translation": "Тому нужно дать ещё один шанс.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_7_25",
       "word": "This is the dress I made last week.",
       "translation": "Это платье, которое я сшила на прошлой неделе.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_7_26",
-      "word": "I don't think that Tom is going to be here tomorrow.",
-      "translation": "Не думаю, что Том завтра здесь будет.",
       "language": "en"
     },
     {
@@ -2302,24 +1918,6 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_7_33",
-      "word": "Tom may not know the answer.",
-      "translation": "Том может не знать ответа.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_7_34",
-      "word": "Tom and Mary are going to climb Mt. Fuji next summer.",
-      "translation": "Следующим летом Том и Мэри собираются взобраться на Фудзияму.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_7_35",
-      "word": "Tom says he won't be in Boston next week.",
-      "translation": "Том говорит, что его не будет на следующей неделе в Бостоне.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_7_36",
       "word": "You may enter.",
       "translation": "Можешь войти.",
@@ -2344,12 +1942,6 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_7_40",
-      "word": "Does Tom want to leave today?",
-      "translation": "Том хочет сегодня уехать?",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_7_41",
       "word": "A year is a long time.",
       "translation": "Год - это долго.",
@@ -2371,18 +1963,6 @@
       "id": "pb_timedates_7_44",
       "word": "You still have enough time.",
       "translation": "Времени у вас ещё достаточно.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_7_45",
-      "word": "Tom said he had the day off.",
-      "translation": "Том сказал, что у него выходной.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_7_46",
-      "word": "I told Tom you'd leave on Monday.",
-      "translation": "Я сказал Тому, что ты в понедельник уезжаешь.",
       "language": "en"
     },
     {
@@ -2416,12 +1996,6 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_8_2",
-      "word": "Tom writes to me every week.",
-      "translation": "Том пишет мне раз в неделю.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_8_3",
       "word": "I heard what happened yesterday.",
       "translation": "Я слышал о том, что вчера случилось.",
@@ -2446,12 +2020,6 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_8_7",
-      "word": "I'll never forget the first time Tom and I did that.",
-      "translation": "Никогда не забуду, как мы с Томом делали это в первый раз.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_8_8",
       "word": "At what time does it close?",
       "translation": "Во сколько он закрывается?",
@@ -2461,18 +2029,6 @@
       "id": "pb_timedates_8_9",
       "word": "That child did nothing but cry all day.",
       "translation": "Этот ребёнок только и делал, что весь день плакал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_8_10",
-      "word": "Tom was my roommate last year.",
-      "translation": "Том в прошлом году был моим соседом по комнате.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_8_11",
-      "word": "Tom may go to Australia next summer.",
-      "translation": "Том может следующим летом поехать в Австралию.",
       "language": "en"
     },
     {
@@ -2488,12 +2044,6 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_8_14",
-      "word": "Tom hasn't spoken since yesterday.",
-      "translation": "Том не говорил со вчерашнего дня.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_8_15",
       "word": "I gave a speech at the wedding yesterday.",
       "translation": "Я вчера произнёс речь на свадьбе.",
@@ -2503,18 +2053,6 @@
       "id": "pb_timedates_8_16",
       "word": "I was late yesterday.",
       "translation": "Я вчера опоздал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_8_17",
-      "word": "Tom thinks Mary will be busy all day.",
-      "translation": "Том думает, что Мэри будет занята весь день.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_8_18",
-      "word": "I know that Tom can do that today.",
-      "translation": "Я знаю, что Том может сделать это сегодня.",
       "language": "en"
     },
     {
@@ -2560,27 +2098,9 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_8_26",
-      "word": "Does Tom watch TV every day?",
-      "translation": "Том каждый день смотрит телевизор?",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_8_27",
       "word": "This is the dictionary I use every day.",
       "translation": "Это словарь, которым я пользуюсь каждый день.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_8_28",
-      "word": "Tom has plenty of time.",
-      "translation": "У Тома полно времени.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_8_29",
-      "word": "Tom wrote to me yesterday.",
-      "translation": "Том вчера мне написал.",
       "language": "en"
     },
     {
@@ -2620,12 +2140,6 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_8_36",
-      "word": "Today's Tom's birthday.",
-      "translation": "Сегодня - день рождения Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_8_37",
       "word": "Today is definitely not my day.",
       "translation": "Сегодня определённо не мой день.",
@@ -2635,12 +2149,6 @@
       "id": "pb_timedates_8_38",
       "word": "What activity do you spend most of your time doing?",
       "translation": "На какое занятие вы тратите большую часть своего времени?",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_8_39",
-      "word": "Did you have a fun day with Tom?",
-      "translation": "Ты приятно провела с Томом день?",
       "language": "en"
     },
     {
@@ -2662,27 +2170,9 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_8_43",
-      "word": "Tom works six days a week.",
-      "translation": "Том работает шесть дней в неделю.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_8_44",
-      "word": "Tom is full of surprises today.",
-      "translation": "Том сегодня полон сюрпризов.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_8_45",
       "word": "It's important that you're there on time.",
       "translation": "Важно, чтобы ты был там вовремя.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_8_46",
-      "word": "Tom was with me on that day.",
-      "translation": "Том был со мной в тот день.",
       "language": "en"
     },
     {
@@ -2692,45 +2182,15 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_8_48",
-      "word": "Tom plans to be back on October 20th.",
-      "translation": "Том планирует вернуться 20 октября.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_8_49",
       "word": "I arrived here yesterday.",
       "translation": "Я прибыл сюда вчера.",
       "language": "en"
     },
     {
-      "id": "pb_timedates_9_0",
-      "word": "Will Tom come today?",
-      "translation": "Том сегодня придет?",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_9_1",
-      "word": "There may be a problem with Tom.",
-      "translation": "С Томом может быть проблема.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_9_2",
       "word": "Where were you Monday night?",
       "translation": "Где ты был в понедельник ночью?",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_9_3",
-      "word": "Tom may still be in Australia.",
-      "translation": "Том может ещё быть в Австралии.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_9_4",
-      "word": "I'm sure Tom will come tomorrow.",
-      "translation": "Я уверен, что Том завтра придёт.",
       "language": "en"
     },
     {
@@ -2770,12 +2230,6 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_9_11",
-      "word": "Tom didn't go to Boston last week.",
-      "translation": "Том на прошлой неделе не ездил в Бостон.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_9_12",
       "word": "I've been waiting for almost half an hour.",
       "translation": "Я жду уже почти полчаса.",
@@ -2785,18 +2239,6 @@
       "id": "pb_timedates_9_13",
       "word": "Will it be dry tomorrow?",
       "translation": "Завтра будет сухо?",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_9_14",
-      "word": "Tom was under thirty at the time.",
-      "translation": "Тому в то время было меньше тридцати.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_9_15",
-      "word": "Tom and Mary are absent today.",
-      "translation": "Тома и Мэри сегодня нет.",
       "language": "en"
     },
     {
@@ -2812,12 +2254,6 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_9_18",
-      "word": "Tom arrives today.",
-      "translation": "Том сегодня приезжает.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_9_19",
       "word": "She may use this typewriter.",
       "translation": "Она может воспользоваться этой пишущей машинкой.",
@@ -2830,12 +2266,6 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_9_21",
-      "word": "Tom was in Boston on October 20th.",
-      "translation": "Том был в Бостоне двадцатого октября.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_9_22",
       "word": "I've had a busy week.",
       "translation": "У меня была напряжённая неделя.",
@@ -2845,12 +2275,6 @@
       "id": "pb_timedates_9_23",
       "word": "Your time is limited.",
       "translation": "Твоё время ограничено.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_9_24",
-      "word": "Tom hasn't been over in a long time.",
-      "translation": "Том давно не заглядывал.",
       "language": "en"
     },
     {
@@ -2908,18 +2332,6 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_9_34",
-      "word": "Tom was asleep at that time.",
-      "translation": "Том тогда спал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_9_35",
-      "word": "Tom lied about where he'd been last night.",
-      "translation": "Том солгал насчёт того, где он был прошлой ночью.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_9_36",
       "word": "She advised him not to go out by himself at night.",
       "translation": "Она посоветовала ему не выходить одному ночью.",
@@ -2929,12 +2341,6 @@
       "id": "pb_timedates_9_37",
       "word": "How much does she spend per month?",
       "translation": "Сколько она тратит в месяц?",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_9_38",
-      "word": "Will Tom be on time?",
-      "translation": "Том будет вовремя?",
       "language": "en"
     },
     {
@@ -2956,21 +2362,9 @@
       "language": "en"
     },
     {
-      "id": "pb_timedates_9_42",
-      "word": "Tom forgets Mary's birthday every year.",
-      "translation": "Том каждый год забывает про день рождения Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_timedates_9_43",
       "word": "I would've gone to the movies if I'd had the time.",
       "translation": "Я бы пошёл в кино, если бы у меня было время.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_9_44",
-      "word": "I don't think that Tom can find the time to do that.",
-      "translation": "Не думаю, что Том сможет найти на это время.",
       "language": "en"
     },
     {
@@ -2995,12 +2389,6 @@
       "id": "pb_timedates_9_48",
       "word": "I'm not working tonight.",
       "translation": "Сегодня вечером я не работаю.",
-      "language": "en"
-    },
-    {
-      "id": "pb_timedates_9_49",
-      "word": "I know that Tom is a year older than me.",
-      "translation": "Я знаю, что Том на год старше меня.",
       "language": "en"
     }
   ]

@@ -1,8 +1,296 @@
 {
   "id": "phrasebook-apologiesforgiveness",
   "name": "Apologies & Forgiveness",
-  "description": "Phrasebook for Apologies & Forgiveness",
+  "description": "Извинения и прощение — от лёгкого «извини» до серьёзных ситуаций",
   "entries": [
+    {
+      "id": "pbq_apologies_0",
+      "word": "Sorry!",
+      "translation": "Извините!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_1",
+      "word": "I'm so sorry.",
+      "translation": "Мне так жаль. / Простите, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_2",
+      "word": "I'm terribly sorry.",
+      "translation": "Я страшно извиняюсь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_3",
+      "word": "Excuse me.",
+      "translation": "Извините (чтобы привлечь внимание).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_4",
+      "word": "Pardon me.",
+      "translation": "Простите меня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_5",
+      "word": "Sorry for keeping you waiting.",
+      "translation": "Извините, что заставил вас ждать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_6",
+      "word": "Sorry I'm late.",
+      "translation": "Извините за опоздание.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_7",
+      "word": "Sorry, my fault entirely.",
+      "translation": "Извините, это полностью моя вина.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_8",
+      "word": "My bad.",
+      "translation": "Виноват. / Моя ошибка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_9",
+      "word": "Oops, sorry about that.",
+      "translation": "Ой, прошу прощения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_10",
+      "word": "Sorry, I didn't mean to.",
+      "translation": "Прости, я не хотел.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_11",
+      "word": "I didn't do it on purpose.",
+      "translation": "Я сделал это не нарочно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_12",
+      "word": "It was an accident.",
+      "translation": "Это был несчастный случай.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_13",
+      "word": "I didn't mean to hurt you.",
+      "translation": "Я не хотел тебя обидеть.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_14",
+      "word": "Please forgive me.",
+      "translation": "Прошу прощения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_15",
+      "word": "Can you ever forgive me?",
+      "translation": "Ты когда-нибудь сможешь меня простить?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_16",
+      "word": "How can I make it up to you?",
+      "translation": "Чем я могу загладить свою вину?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_17",
+      "word": "I owe you an apology.",
+      "translation": "Я должен перед тобой извиниться.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_18",
+      "word": "I want to apologize for yesterday.",
+      "translation": "Хочу извиниться за вчера.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_19",
+      "word": "I take back what I said.",
+      "translation": "Я беру свои слова назад.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_20",
+      "word": "I shouldn’t have said that.",
+      "translation": "Зря я это сказал.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_21",
+      "word": "That came out wrong, sorry.",
+      "translation": "Это прозвучало не так, как я хотел, извини.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_22",
+      "word": "I regret my words.",
+      "translation": "Сожалею о сказанном.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_23",
+      "word": "I feel terrible about it.",
+      "translation": "Мне ужасно неловко за это.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_24",
+      "word": "It won’t happen again.",
+      "translation": "Больше этого не повторится.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_25",
+      "word": "I promise it won’t happen again.",
+      "translation": "Обещаю, это больше не повторится.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_26",
+      "word": "No harm done.",
+      "translation": "Ничего страшного.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_27",
+      "word": "It’s all right.",
+      "translation": "Всё в порядке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_28",
+      "word": "It's fine, really.",
+      "translation": "Всё нормально, правда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_29",
+      "word": "No worries.",
+      "translation": "Всё в порядке, не переживай.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_30",
+      "word": "Never mind.",
+      "translation": "Не обращайте внимания.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_31",
+      "word": "Forget about it.",
+      "translation": "Забудьте об этом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_32",
+      "word": "These things happen.",
+      "translation": "Такое бывает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_33",
+      "word": "It could happen to anyone.",
+      "translation": "Это может случиться с каждым.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_34",
+      "word": "Apology accepted.",
+      "translation": "Извинение принято.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_35",
+      "word": "I forgive you.",
+      "translation": "Я тебя прощаю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_36",
+      "word": "Let's forget the whole thing.",
+      "translation": "Давай забудем обо всём этом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_37",
+      "word": "Truce?",
+      "translation": "Мир?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_38",
+      "word": "Are we good?",
+      "translation": "Мы в расчёте? / Всё между нами в порядке?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_39",
+      "word": "We're good.",
+      "translation": "Всё в порядке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_40",
+      "word": "Excuse me, coming through.",
+      "translation": "Извините, разрешите пройти.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_41",
+      "word": "Excuse me, is this seat taken?",
+      "translation": "Извините, это место занято?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_42",
+      "word": "Sorry to interrupt, but…",
+      "translation": "Извините, что перебиваю, но...",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_43",
+      "word": "Sorry to bother you.",
+      "translation": "Извините за беспокойство.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_44",
+      "word": "Forgive the mess.",
+      "translation": "Простите за беспорядок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_45",
+      "word": "Excuse my French.",
+      "translation": "Простите за мой крепкий язык.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_46",
+      "word": "Sorry, you were saying?",
+      "translation": "Извините, вы что-то говорили?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_47",
+      "word": "Go ahead, sorry.",
+      "translation": "Говорите, извините (перебил).",
+      "language": "en"
+    },
     {
       "id": "pb_apologiesforgiveness_0_0",
       "word": "She made the same mistake as before.",
@@ -10,21 +298,9 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_0_1",
-      "word": "Tom will forgive Mary.",
-      "translation": "Том простит Марию.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_0_2",
       "word": "It's obviously your fault.",
       "translation": "Это явно твоя вина.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_0_3",
-      "word": "Did Tom forgive Mary?",
-      "translation": "Том простил Мэри?",
       "language": "en"
     },
     {
@@ -100,27 +376,9 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_0_16",
-      "word": "Can you forgive me, Tom?",
-      "translation": "Ты можешь простить меня, Том?",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_0_17",
-      "word": "We blame Tom.",
-      "translation": "Мы виним Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_0_18",
       "word": "Excuse me, what's going on?",
       "translation": "Простите, а что происходит?",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_0_19",
-      "word": "This is all Tom's fault.",
-      "translation": "Это всё из-за Тома.",
       "language": "en"
     },
     {
@@ -142,33 +400,15 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_0_23",
-      "word": "It's Tom's own fault.",
-      "translation": "Том сам виноват.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_0_24",
       "word": "I really regret what I did.",
       "translation": "Я очень жалею о том, что сделал.",
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_0_25",
-      "word": "Tom didn't blame Mary.",
-      "translation": "Том не обвинял Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_0_26",
       "word": "Don't blame the victim.",
       "translation": "Не вини жертву.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_0_27",
-      "word": "Go and apologize to Tom.",
-      "translation": "Иди и извинись перед Томом.",
       "language": "en"
     },
     {
@@ -181,12 +421,6 @@
       "id": "pb_apologiesforgiveness_0_29",
       "word": "Is this my fault?",
       "translation": "Это моя вина?",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_0_30",
-      "word": "Tom won't apologize.",
-      "translation": "Том не будет извиняться.",
       "language": "en"
     },
     {
@@ -220,12 +454,6 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_0_36",
-      "word": "Tom didn't apologize to us.",
-      "translation": "Том не извинился перед нами.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_0_37",
       "word": "They should apologize.",
       "translation": "Им надо бы извиниться.",
@@ -238,21 +466,9 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_0_39",
-      "word": "Do you blame Tom and me?",
-      "translation": "Ты винишь нас с Томом?",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_0_40",
       "word": "You'll certainly regret it.",
       "translation": "Ты обязательно об этом пожалеешь.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_0_41",
-      "word": "Tell Tom it's not my fault.",
-      "translation": "Скажи Тому, что это не я виноват.",
       "language": "en"
     },
     {
@@ -340,33 +556,9 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_1_6",
-      "word": "Just apologize to Tom.",
-      "translation": "Просто извинись перед Томом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_1_7",
-      "word": "Tom will forgive us.",
-      "translation": "Том нас простит.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_1_8",
-      "word": "I can't forgive Tom.",
-      "translation": "Я не могу простить Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_1_9",
       "word": "Am I making a terrible mistake?",
       "translation": "Я совершаю ужасную ошибку?",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_1_10",
-      "word": "Tom didn't have to apologize.",
-      "translation": "Тому не пришлось извиняться.",
       "language": "en"
     },
     {
@@ -388,12 +580,6 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_1_14",
-      "word": "I'd like you to apologize to Tom.",
-      "translation": "Я хотел бы, чтобы ты извинился перед Томом.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_1_15",
       "word": "Everyone makes that mistake.",
       "translation": "Все совершают эту ошибку.",
@@ -403,12 +589,6 @@
       "id": "pb_apologiesforgiveness_1_16",
       "word": "I can't let you take the blame.",
       "translation": "Я не могу позволить тебе взять на себя вину.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_1_17",
-      "word": "Tom didn't regret his decision.",
-      "translation": "Том не пожалел о своём решении.",
       "language": "en"
     },
     {
@@ -442,12 +622,6 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_1_23",
-      "word": "Tom didn't need to apologize.",
-      "translation": "Тому не нужно было извиняться.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_1_24",
       "word": "Do you regret it?",
       "translation": "Ты жалеешь об этом?",
@@ -475,18 +649,6 @@
       "id": "pb_apologiesforgiveness_1_28",
       "word": "Is it your fault or ours?",
       "translation": "Это ваша вина или наша?",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_1_29",
-      "word": "Tom won't forgive me so easily.",
-      "translation": "Том так просто меня не простит.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_1_30",
-      "word": "Tom doesn't regret what happened.",
-      "translation": "Том не сожалеет о случившемся.",
       "language": "en"
     },
     {
@@ -526,12 +688,6 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_1_37",
-      "word": "Tell Tom it was all my fault.",
-      "translation": "Скажи Тому, что это всё из-за меня.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_1_38",
       "word": "It's partly my fault.",
       "translation": "Это отчасти моя вина.",
@@ -550,12 +706,6 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_1_41",
-      "word": "I blame Tom for what happened.",
-      "translation": "В случившемся я обвиняю Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_1_42",
       "word": "I seldom make a mistake.",
       "translation": "Я редко ошибаюсь.",
@@ -571,12 +721,6 @@
       "id": "pb_apologiesforgiveness_1_44",
       "word": "Coming here was a mistake.",
       "translation": "Прийти сюда было ошибкой.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_1_45",
-      "word": "Tom told me it was his fault.",
-      "translation": "Том сказал мне, что это его вина.",
       "language": "en"
     },
     {
@@ -628,18 +772,6 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_2_4",
-      "word": "I'd like Tom to apologize to me.",
-      "translation": "Я хотел бы, чтобы Том передо мной извинился.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_2_5",
-      "word": "Apologize to Tom.",
-      "translation": "Извинись перед Томом.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_2_6",
       "word": "Who do we blame?",
       "translation": "Кого мы обвиняем?",
@@ -673,18 +805,6 @@
       "id": "pb_apologiesforgiveness_2_11",
       "word": "You've made a terrible mistake.",
       "translation": "Ты совершил ужасную ошибку.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_2_12",
-      "word": "Tom noticed Mary's mistake.",
-      "translation": "Том заметил ошибку Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_2_13",
-      "word": "Don't blame Tom and me.",
-      "translation": "Не вини нас с Томом.",
       "language": "en"
     },
     {
@@ -742,12 +862,6 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_2_23",
-      "word": "Tom refused to apologize.",
-      "translation": "Том отказался принести извинения.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_2_24",
       "word": "I'll take the blame.",
       "translation": "Я возьму вину на себя.",
@@ -766,39 +880,15 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_2_27",
-      "word": "Tell Tom that it isn't his fault.",
-      "translation": "Скажи Тому, что он не виноват.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_2_28",
       "word": "I'm afraid I took your umbrella by mistake.",
       "translation": "Боюсь, я взял Ваш зонт по ошибке.",
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_2_29",
-      "word": "Tom, it's not your fault.",
-      "translation": "Это не твоя вина, Том.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_2_30",
       "word": "None of this was your fault.",
       "translation": "Ни в чём этом не было твоей вины.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_2_31",
-      "word": "Tom made a very serious mistake.",
-      "translation": "Том совершил очень серьёзную ошибку.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_2_32",
-      "word": "Tom refused to admit he'd made a mistake.",
-      "translation": "Том отказался признать, что совершил ошибку.",
       "language": "en"
     },
     {
@@ -814,18 +904,6 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_2_35",
-      "word": "I grabbed Tom's umbrella by mistake.",
-      "translation": "Я случайно схватил зонтик Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_2_36",
-      "word": "They're going to blame Tom for this.",
-      "translation": "Они обвинят в этом Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_2_37",
       "word": "I can't ever forgive you for what you did.",
       "translation": "Я никогда не смогу простить тебя за то, что ты сделал.",
@@ -835,18 +913,6 @@
       "id": "pb_apologiesforgiveness_2_38",
       "word": "Of course, I forgive you.",
       "translation": "Конечно, я прощаю тебя.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_2_39",
-      "word": "That was Tom's own fault.",
-      "translation": "Том был сам виноват.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_2_40",
-      "word": "Tom thought that Mary wouldn't forgive him.",
-      "translation": "Том думал, что Мэри его не простит.",
       "language": "en"
     },
     {
@@ -868,33 +934,9 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_2_44",
-      "word": "Tom would forgive you.",
-      "translation": "Том бы тебя простил.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_2_45",
-      "word": "Tom admitted he'd made a mistake.",
-      "translation": "Том признал, что совершил ошибку.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_2_46",
       "word": "I don't regret that decision.",
       "translation": "Я не жалею об этом решении.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_2_47",
-      "word": "Why blame Tom?",
-      "translation": "С какой стати обвинять Тома?",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_2_48",
-      "word": "Tom said that it was your fault.",
-      "translation": "Том сказал, что это ваша вина.",
       "language": "en"
     },
     {
@@ -913,12 +955,6 @@
       "id": "pb_apologiesforgiveness_3_1",
       "word": "There is no excuse for violence.",
       "translation": "Насилию нет оправдания.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_3_2",
-      "word": "I know you still blame Tom for Mary's death.",
-      "translation": "Я знаю, ты всё ещё винишь Тома в смерти Мэри.",
       "language": "en"
     },
     {
@@ -952,51 +988,15 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_3_8",
-      "word": "That was Tom's fault.",
-      "translation": "Это была вина Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_3_9",
       "word": "Am I making a big mistake?",
       "translation": "Я совершаю большую ошибку?",
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_3_10",
-      "word": "Of course, I forgive Tom.",
-      "translation": "Конечно, я прощаю Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_3_11",
-      "word": "Tom told me it was my fault.",
-      "translation": "Том сказал мне, что это я виноват.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_3_12",
       "word": "You made a big mistake.",
       "translation": "Ты совершил большую ошибку.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_3_13",
-      "word": "Tom made a horrible mistake.",
-      "translation": "Том совершил ужасную ошибку.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_3_14",
-      "word": "Tom knows he made a mistake.",
-      "translation": "Том знает, что совершил ошибку.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_3_15",
-      "word": "Did you have a chance to apologize to Tom?",
-      "translation": "У тебя была возможность извиниться перед Томом?",
       "language": "en"
     },
     {
@@ -1015,18 +1015,6 @@
       "id": "pb_apologiesforgiveness_3_18",
       "word": "That's the biggest mistake I've ever made.",
       "translation": "Это самая большая ошибка, какую я когда-либо совершал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_3_19",
-      "word": "I told Tom I'd made a mistake.",
-      "translation": "Я сказал Тому, что совершил ошибку.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_3_20",
-      "word": "Does Tom blame us?",
-      "translation": "Том винит нас?",
       "language": "en"
     },
     {
@@ -1060,21 +1048,9 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_3_26",
-      "word": "Tom knows it was a mistake.",
-      "translation": "Том знает, что это было ошибкой.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_3_27",
       "word": "I'm not to blame for everything that has happened.",
       "translation": "Не на мне вина за всё, что случилось.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_3_28",
-      "word": "Tom doesn't regret that decision.",
-      "translation": "Том не жалеет об этом решении.",
       "language": "en"
     },
     {
@@ -1108,39 +1084,15 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_3_34",
-      "word": "Tom said that the mistake was due to an oversight.",
-      "translation": "Том сказал, что эта ошибка произошла по недосмотру.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_3_35",
-      "word": "Ask Tom to apologize to Mary.",
-      "translation": "Попроси Тома, чтобы он извинился перед Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_3_36",
       "word": "Being overly generous is his greatest fault.",
       "translation": "Чрезмерное великодушие — его величайший недостаток.",
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_3_37",
-      "word": "Tom didn't regret what had happened.",
-      "translation": "Том не жалел о том, что случилось.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_3_38",
       "word": "In fact, it's a mistake.",
       "translation": "Это, в сущности, ошибка.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_3_39",
-      "word": "You've got to apologize to Tom.",
-      "translation": "Ты должен извиниться перед Томом.",
       "language": "en"
     },
     {
@@ -1159,18 +1111,6 @@
       "id": "pb_apologiesforgiveness_3_42",
       "word": "Am I to blame for what happened?",
       "translation": "Это я виноват в том, что произошло?",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_3_43",
-      "word": "Forgive Tom and me.",
-      "translation": "Прости нас с Томом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_3_44",
-      "word": "Tom asked me for forgiveness.",
-      "translation": "Том попросил меня о прощении.",
       "language": "en"
     },
     {
@@ -1222,12 +1162,6 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_4_3",
-      "word": "You must go to Tom and beg his forgiveness.",
-      "translation": "Ты должен пойти к Тому и попросить у него прощения.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_4_4",
       "word": "I took your umbrella by mistake.",
       "translation": "Я по ошибке взял твой зонт.",
@@ -1240,21 +1174,9 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_4_6",
-      "word": "Tom noticed the mistake and corrected it.",
-      "translation": "Том заметил ошибку и исправил её.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_4_7",
       "word": "I admit my mistake.",
       "translation": "Признаю свою ошибку.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_4_8",
-      "word": "Tom made an irreparable mistake.",
-      "translation": "Том совершил непоправимую ошибку.",
       "language": "en"
     },
     {
@@ -1306,30 +1228,6 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_4_17",
-      "word": "Tom knew he had to apologize.",
-      "translation": "Том знал, что ему надо извиниться.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_4_18",
-      "word": "I'm not going to apologize to Tom.",
-      "translation": "Я не собираюсь перед Томом извиняться.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_4_19",
-      "word": "Tom noticed the mistake immediately.",
-      "translation": "Том сразу заметил ошибку.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_4_20",
-      "word": "Tom acknowledged having made a mistake.",
-      "translation": "Том признал, что совершил ошибку.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_4_21",
       "word": "I realized that it was a mistake.",
       "translation": "Я понял, что это ошибка.",
@@ -1339,12 +1237,6 @@
       "id": "pb_apologiesforgiveness_4_22",
       "word": "I apologize in advance.",
       "translation": "Заранее прошу прощения.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_4_23",
-      "word": "Tell Tom that he needs to apologize to Mary.",
-      "translation": "Скажи Тому, что ему нужно извиниться перед Мэри.",
       "language": "en"
     },
     {
@@ -1372,33 +1264,15 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_4_28",
-      "word": "Tom said he didn't regret what happened.",
-      "translation": "Том сказал, что не жалеет о случившемся.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_4_29",
       "word": "That was totally my fault.",
       "translation": "Это была целиком моя вина.",
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_4_30",
-      "word": "It's Tom's fault.",
-      "translation": "Это Том виноват.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_4_31",
       "word": "He will regret this.",
       "translation": "Он об этом пожалеет.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_4_32",
-      "word": "They'll blame Tom for everything.",
-      "translation": "Они обвинят во всём Тома.",
       "language": "en"
     },
     {
@@ -1414,12 +1288,6 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_4_35",
-      "word": "Tom made a terrible mistake.",
-      "translation": "Том сделал ужасную ошибку.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_4_36",
       "word": "You didn't even apologize.",
       "translation": "Ты даже не извинился.",
@@ -1432,12 +1300,6 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_4_38",
-      "word": "Tom didn't want to admit that he'd made a mistake.",
-      "translation": "Том не хотел признавать, что совершил ошибку.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_4_39",
       "word": "It was his fault.",
       "translation": "Это была его вина.",
@@ -1447,12 +1309,6 @@
       "id": "pb_apologiesforgiveness_4_40",
       "word": "Don't do anything you'll regret.",
       "translation": "Не делайте того, о чём потом будете сожалеть.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_4_41",
-      "word": "Tom isn't the sort to apologize to anyone.",
-      "translation": "Том не из тех, кто просит прощения.",
       "language": "en"
     },
     {
@@ -1474,33 +1330,15 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_4_45",
-      "word": "I didn't apologize to Tom.",
-      "translation": "Я не извинился перед Томом.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_4_46",
       "word": "It's not just my fault.",
       "translation": "Это не только моя ошибка.",
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_4_47",
-      "word": "They blame Tom for everything.",
-      "translation": "Они винят во всём Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_4_48",
       "word": "Don't blame me for this.",
       "translation": "Не вини меня за это.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_4_49",
-      "word": "Why did Tom apologize?",
-      "translation": "Почему Том извинился?",
       "language": "en"
     },
     {
@@ -1513,12 +1351,6 @@
       "id": "pb_apologiesforgiveness_5_1",
       "word": "It was very likely just a mistake.",
       "translation": "Скорее всего, это была просто ошибка.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_5_2",
-      "word": "Did Tom apologize?",
-      "translation": "Том извинился?",
       "language": "en"
     },
     {
@@ -1537,12 +1369,6 @@
       "id": "pb_apologiesforgiveness_5_5",
       "word": "I'm to blame for it.",
       "translation": "Я в этом виноват.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_5_6",
-      "word": "Tom acknowledged his mistake.",
-      "translation": "Том признал свою ошибку.",
       "language": "en"
     },
     {
@@ -1576,12 +1402,6 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_5_12",
-      "word": "Tom knows that he made a mistake.",
-      "translation": "Том знает, что совершил ошибку.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_5_13",
       "word": "Pardon me for interrupting.",
       "translation": "Простите, что я вас прерываю.",
@@ -1591,12 +1411,6 @@
       "id": "pb_apologiesforgiveness_5_14",
       "word": "I know this is my own fault.",
       "translation": "Я знаю, что сам в этом виноват.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_5_15",
-      "word": "Tom drank some poison by mistake.",
-      "translation": "Том случайно выпил яду.",
       "language": "en"
     },
     {
@@ -1612,39 +1426,9 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_5_18",
-      "word": "Tom refused to admit that he'd made a mistake.",
-      "translation": "Том отказался признать, что совершил ошибку.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_5_19",
-      "word": "Tom thinks Mary should apologize to John.",
-      "translation": "Том думает, что Мэри следует извиниться перед Джоном.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_5_20",
-      "word": "It's not Tom's fault that that happened.",
-      "translation": "В том, что это случилось, Том не виноват.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_5_21",
-      "word": "Tom made the same mistake again.",
-      "translation": "Том опять сделал ту же ошибку.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_5_22",
       "word": "They put the blame on me.",
       "translation": "Они всю вину возложили на меня.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_5_23",
-      "word": "Tom is making a big mistake.",
-      "translation": "Том допускает большую ошибку.",
       "language": "en"
     },
     {
@@ -1684,27 +1468,9 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_5_30",
-      "word": "Tom can't forgive himself for what he did to Mary.",
-      "translation": "Том не может простить себя за то, что он сделал с Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_5_31",
       "word": "This is his fault.",
       "translation": "Это его вина.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_5_32",
-      "word": "I forgive you.",
-      "translation": "Я тебя прощаю.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_5_33",
-      "word": "Tom made this mistake intentionally.",
-      "translation": "Том сделал эту ошибку умышленно.",
       "language": "en"
     },
     {
@@ -1720,18 +1486,6 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_5_36",
-      "word": "I won't forgive Tom.",
-      "translation": "Я не прощу Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_5_37",
-      "word": "Tom will regret that sooner or later.",
-      "translation": "Том об этом рано или поздно пожалеет.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_5_38",
       "word": "Obviously I made a mistake.",
       "translation": "Очевидно, я сделал ошибку.",
@@ -1741,18 +1495,6 @@
       "id": "pb_apologiesforgiveness_5_39",
       "word": "It isn't too late to apologize.",
       "translation": "Ещё не поздно извиниться.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_5_40",
-      "word": "Why didn't you tell Tom it was my fault?",
-      "translation": "Почему ты не сказал Тому, что это моя вина?",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_5_41",
-      "word": "Tom will regret this.",
-      "translation": "Том пожалеет об этом.",
       "language": "en"
     },
     {
@@ -1792,12 +1534,6 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_5_48",
-      "word": "I'm not saying it's Tom's fault.",
-      "translation": "Я не говорю, что виноват Том.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_5_49",
       "word": "Don't you regret getting that tattoo?",
       "translation": "Ты не жалеешь, что сделал эту татуировку?",
@@ -1816,27 +1552,9 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_6_2",
-      "word": "Tom, it's not necessary to apologize.",
-      "translation": "Том, нет нужды извиняться.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_6_3",
       "word": "It wasn't my mistake.",
       "translation": "Это была не моя ошибка.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_6_4",
-      "word": "Tom realized the mistake he'd made.",
-      "translation": "Том осознал ошибку, которую совершил.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_6_5",
-      "word": "I'll forgive Tom.",
-      "translation": "Я прощу Тома.",
       "language": "en"
     },
     {
@@ -1918,21 +1636,9 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_6_19",
-      "word": "Tom is trying to apologize.",
-      "translation": "Том пытается извиниться.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_6_20",
       "word": "I hope that I don't regret this.",
       "translation": "Надеюсь, я об этом не пожалею.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_6_21",
-      "word": "Tom has made a very big mistake.",
-      "translation": "Том совершил очень большую ошибку.",
       "language": "en"
     },
     {
@@ -1948,39 +1654,9 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_6_24",
-      "word": "Tom refuses to admit he made a mistake.",
-      "translation": "Том отказывается признавать, что он совершил ошибку.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_6_25",
-      "word": "Tom didn't blame me.",
-      "translation": "Том меня не обвинял.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_6_26",
-      "word": "Tell Tom that it isn't my fault.",
-      "translation": "Скажи Тому, что это не я виноват.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_6_27",
       "word": "You've made a bad mistake.",
       "translation": "Ты допустил грубую ошибку.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_6_28",
-      "word": "Don't worry, Tom. It's not your fault.",
-      "translation": "Не волнуйся, Том, ты ни в чем не виноват.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_6_29",
-      "word": "I wanted Tom to forgive Mary for what she'd done.",
-      "translation": "Я хотел, чтобы Том простил Мэри за то, что она сделала.",
       "language": "en"
     },
     {
@@ -2002,12 +1678,6 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_6_33",
-      "word": "I can't forgive Tom for what he did.",
-      "translation": "Я не могу простить Тома за то, что он сделал.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_6_34",
       "word": "We've made a big mistake.",
       "translation": "Мы совершили большую ошибку.",
@@ -2023,18 +1693,6 @@
       "id": "pb_apologiesforgiveness_6_36",
       "word": "I don't like to make a mistake.",
       "translation": "Я не люблю делать ошибки.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_6_37",
-      "word": "Tom knows what to say to make Mary forgive him.",
-      "translation": "Том знает, что сказать, чтобы Мэри его простила.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_6_38",
-      "word": "Tom and I are the ones who ought to apologize.",
-      "translation": "Это нам с Томом надо извиняться.",
       "language": "en"
     },
     {
@@ -2068,18 +1726,6 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_6_44",
-      "word": "Does Tom regret what happened?",
-      "translation": "Том сожалеет о случившемся?",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_6_45",
-      "word": "Why don't you just tell Tom you made a mistake?",
-      "translation": "Почему ты просто не скажешь Тому, что ошибся?",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_6_46",
       "word": "Pardon me, but that's my racket.",
       "translation": "Извините, это моя ракетка.",
@@ -2110,45 +1756,9 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_7_1",
-      "word": "Excuse me, is this seat taken?",
-      "translation": "Извините, это место занято?",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_7_2",
-      "word": "Both Tom and I are to blame.",
-      "translation": "Мы с Томом оба виноваты.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_7_3",
-      "word": "Tom is going to regret this.",
-      "translation": "Том об этом пожалеет.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_7_4",
       "word": "We made just one tiny little mistake.",
       "translation": "Мы сделали только одну малюсенькую ошибку.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_7_5",
-      "word": "I knew Tom wouldn't forgive me.",
-      "translation": "Я знал, что Том меня не простит.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_7_6",
-      "word": "Tom made a big mistake.",
-      "translation": "Том совершил большую ошибку.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_7_7",
-      "word": "Tom said it was your fault.",
-      "translation": "Том сказал, что это твоя вина.",
       "language": "en"
     },
     {
@@ -2170,39 +1780,15 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_7_11",
-      "word": "I blame Tom for what happened to all of us.",
-      "translation": "Я виню Тома в том, что произошло со всеми нами.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_7_12",
       "word": "I must apologize to you for not writing for so long.",
       "translation": "Я должен извиниться за то, что так долго не писал тебе.",
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_7_13",
-      "word": "Tom wanted to apologize to Mary again.",
-      "translation": "Том хотел ещё раз извиниться перед Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_7_14",
-      "word": "Tom thinks Mary made a big mistake.",
-      "translation": "Том думает, что Мэри совершила большую ошибку.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_7_15",
       "word": "We have no one to blame but ourselves.",
       "translation": "Нам некого винить, кроме самих себя.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_7_16",
-      "word": "Tom wants to blame us.",
-      "translation": "Том хочет нас обвинить.",
       "language": "en"
     },
     {
@@ -2224,12 +1810,6 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_7_20",
-      "word": "Tom refused to forgive Mary.",
-      "translation": "Том отказался простить Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_7_21",
       "word": "It's interesting that nobody noticed that mistake.",
       "translation": "Интересно, что никто не заметил эту ошибку.",
@@ -2245,12 +1825,6 @@
       "id": "pb_apologiesforgiveness_7_23",
       "word": "That was my mistake.",
       "translation": "Я был неправ.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_7_24",
-      "word": "Tom wanted to apologize to Mary.",
-      "translation": "Том хотел извиниться перед Мэри.",
       "language": "en"
     },
     {
@@ -2308,12 +1882,6 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_7_34",
-      "word": "Tom might at least apologize.",
-      "translation": "Том мог бы хотя бы извиниться.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_7_35",
       "word": "I'll forgive you just this once.",
       "translation": "На сей раз я тебя прощаю.",
@@ -2338,21 +1906,9 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_7_39",
-      "word": "Tom has made one serious mistake.",
-      "translation": "Том сделал одну серьёзную ошибку.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_7_40",
       "word": "He kept me from making a big mistake.",
       "translation": "Он удержал меня от совершения большой ошибки.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_7_41",
-      "word": "Is that Tom's fault?",
-      "translation": "Это вина Тома?",
       "language": "en"
     },
     {
@@ -2410,12 +1966,6 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_8_1",
-      "word": "Tom is going to forgive you.",
-      "translation": "Том тебя простит.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_8_2",
       "word": "Don't blame yourself for what happened.",
       "translation": "Не вини себя в случившемся.",
@@ -2428,27 +1978,9 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_8_4",
-      "word": "You must apologize to Tom.",
-      "translation": "Ты должен извиниться перед Томом.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_8_5",
       "word": "This isn't our fault.",
       "translation": "Это не наша вина.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_8_6",
-      "word": "Tom thinks that Mary should apologize to John.",
-      "translation": "Том думает, что Мэри следует извиниться перед Джоном.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_8_7",
-      "word": "Tom wants to apologize.",
-      "translation": "Том хочет извиниться.",
       "language": "en"
     },
     {
@@ -2461,30 +1993,6 @@
       "id": "pb_apologiesforgiveness_8_9",
       "word": "I regret that I lied.",
       "translation": "Я сожалею о том, что солгала.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_8_10",
-      "word": "You don't have to apologize to Tom.",
-      "translation": "Тебе не нужно извиняться перед Томом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_8_11",
-      "word": "You blame Tom for everything.",
-      "translation": "Ты во всём винишь Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_8_12",
-      "word": "Visiting Tom was a mistake.",
-      "translation": "Посещение Тома было ошибкой.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_8_13",
-      "word": "Mary is too stubborn to apologize.",
-      "translation": "Мария слишком упрямая для того, чтобы извиниться.",
       "language": "en"
     },
     {
@@ -2530,12 +2038,6 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_8_21",
-      "word": "Tom says it was a mistake.",
-      "translation": "Том говорит, что это была ошибка.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_8_22",
       "word": "Who do you blame?",
       "translation": "Кого вы обвиняете?",
@@ -2554,21 +2056,9 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_8_25",
-      "word": "Why should I apologize to Tom?",
-      "translation": "Почему я должен извиняться перед Томом?",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_8_26",
       "word": "I didn't know it was a mistake.",
       "translation": "Я не знал, что это ошибка.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_8_27",
-      "word": "Tom doesn't want to apologize.",
-      "translation": "Том не хочет извиняться.",
       "language": "en"
     },
     {
@@ -2608,12 +2098,6 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_8_34",
-      "word": "Tom didn't want to do something he would regret.",
-      "translation": "Том не хотел делать то, о чем потом пожалеет.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_8_35",
       "word": "There's no excuse for his behavior.",
       "translation": "Его поведению нет оправдания.",
@@ -2638,45 +2122,15 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_8_39",
-      "word": "Nobody can blame Tom.",
-      "translation": "Никто не может винить Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_8_40",
       "word": "Blame me for everything.",
       "translation": "Вини меня во всём.",
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_8_41",
-      "word": "I hope that you won't make the same mistake as Tom.",
-      "translation": "Надеюсь, ты не сделаешь той же ошибки, что Том.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_8_42",
       "word": "That was all my fault.",
       "translation": "Это всё из-за меня.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_8_43",
-      "word": "I must apologize to Tom.",
-      "translation": "Я должен извиниться перед Томом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_8_44",
-      "word": "It's Tom's and my fault.",
-      "translation": "Это наша с Томом вина.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_8_45",
-      "word": "Tom asked me to forgive him.",
-      "translation": "Том попросил меня простить его.",
       "language": "en"
     },
     {
@@ -2692,33 +2146,9 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_8_48",
-      "word": "Tom has made a mistake.",
-      "translation": "Том совершил ошибку.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_8_49",
       "word": "I regret what I've done.",
       "translation": "Я жалею о том, что сделал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_9_0",
-      "word": "Tom finds fault with everything.",
-      "translation": "Том ко всему придирается.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_9_1",
-      "word": "Tom knew he'd made a mistake.",
-      "translation": "Том знал, что сделал ошибку.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_9_2",
-      "word": "Tom made a bad mistake.",
-      "translation": "Том совершил большую ошибку.",
       "language": "en"
     },
     {
@@ -2731,12 +2161,6 @@
       "id": "pb_apologiesforgiveness_9_4",
       "word": "I don't have to apologize for what I said.",
       "translation": "Мне нет нужды извиняться за то, что я сказал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_9_5",
-      "word": "Tom was afraid of making a mistake.",
-      "translation": "Том боялся ошибиться.",
       "language": "en"
     },
     {
@@ -2770,33 +2194,15 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_9_11",
-      "word": "You won't regret hiring Tom.",
-      "translation": "Вы не пожалеете о том, что взяли Тома на работу.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_9_12",
       "word": "I've made a big mistake.",
       "translation": "Я совершил большую ошибку.",
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_9_13",
-      "word": "I thought Tom would apologize to me, but he didn't.",
-      "translation": "Я думал, Том извинится передо мной, но он не извинился.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_9_14",
       "word": "That's totally my fault.",
       "translation": "Это целиком и полностью моя вина.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_9_15",
-      "word": "Tom didn't have the courage to admit his mistake.",
-      "translation": "У Тома не было смелости признать свою ошибку.",
       "language": "en"
     },
     {
@@ -2842,24 +2248,6 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_9_23",
-      "word": "Tom ought to apologize.",
-      "translation": "Том должен извиниться.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_9_24",
-      "word": "Tom didn't know it was a mistake.",
-      "translation": "Том не знал, что это ошибка.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_9_25",
-      "word": "Have you called Tom to apologize?",
-      "translation": "Ты звонил Тому, чтобы извиниться?",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_9_26",
       "word": "I seldom make the same mistake twice.",
       "translation": "Я редко делаю одну и ту же ошибку дважды.",
@@ -2878,21 +2266,9 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_9_29",
-      "word": "Tom was arrested by mistake.",
-      "translation": "Тома арестовали по ошибке.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_9_30",
       "word": "I knew this was a mistake.",
       "translation": "Я знал, что это ошибка.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_9_31",
-      "word": "Tom asked Mary to forgive him.",
-      "translation": "Том попросил Мэри простить его.",
       "language": "en"
     },
     {
@@ -2914,21 +2290,9 @@
       "language": "en"
     },
     {
-      "id": "pb_apologiesforgiveness_9_35",
-      "word": "Tom knows that what he did was a mistake.",
-      "translation": "Том знает, что то, что он сделал, было ошибкой.",
-      "language": "en"
-    },
-    {
       "id": "pb_apologiesforgiveness_9_36",
       "word": "That's a good excuse.",
       "translation": "Это уважительная причина.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_9_37",
-      "word": "Don't blame Tom for what Mary did.",
-      "translation": "Не вини Тома за то, что сделала Мэри.",
       "language": "en"
     },
     {
@@ -2959,12 +2323,6 @@
       "id": "pb_apologiesforgiveness_9_42",
       "word": "It must be a mistake.",
       "translation": "Это, должно быть, ошибка.",
-      "language": "en"
-    },
-    {
-      "id": "pb_apologiesforgiveness_9_43",
-      "word": "Tom thought up an excuse.",
-      "translation": "Том придумал оправдание.",
       "language": "en"
     },
     {

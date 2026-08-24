@@ -1,8 +1,440 @@
 {
   "id": "phrasebook-attheairport",
   "name": "At the Airport",
-  "description": "Phrasebook for At the Airport",
+  "description": "Аэропорт: регистрация, контроль, посадка, багаж — живые фразы",
   "entries": [
+    {
+      "id": "pbq_airport_0",
+      "word": "Excuse me, where is the check-in desk?",
+      "translation": "Извините, где стойка регистрации?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_1",
+      "word": "Which terminal does my flight leave from?",
+      "translation": "С какого терминала вылетает мой рейс?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_2",
+      "word": "I'd like a window seat, please.",
+      "translation": "Я бы хотел место у окна, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_3",
+      "word": "I’d prefer an aisle seat.",
+      "translation": "Я бы предпочёл место у прохода.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_4",
+      "word": "Are we taking off on time?",
+      "translation": "Мы взлетаем вовремя?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_5",
+      "word": "Is the flight on schedule?",
+      "translation": "Рейс по расписанию?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_6",
+      "word": "The flight has been delayed.",
+      "translation": "Рейс задержали.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_7",
+      "word": "How long is the delay?",
+      "translation": "Какая длительность задержки?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_8",
+      "word": "What time does boarding start?",
+      "translation": "Когда начинается посадка?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_9",
+      "word": "Here are my passport and ticket.",
+      "translation": "Вот мой паспорт и билет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_10",
+      "word": "I’m flying to London.",
+      "translation": "Я лечу в Лондон.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_11",
+      "word": "This is my carry-on bag.",
+      "translation": "Это моя ручная кладь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_12",
+      "word": "Can I take this on board?",
+      "translation": "Могу я взять это на борт?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_13",
+      "word": "Does this fit in the overhead bin?",
+      "translation": "Это поместится на верхнюю полку?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_14",
+      "word": "How many bags can I check in?",
+      "translation": "Сколько мест багажа можно сдать?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_15",
+      "word": "I have two suitcases to check in.",
+      "translation": "Мне нужно сдать два чемодана.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_16",
+      "word": "Could you tag this bag for me?",
+      "translation": "Могли бы вы повесить бирку на этот чемодан?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_17",
+      "word": "Do you have any liquids in your bag?",
+      "translation": "В вашей сумке есть жидкости?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_18",
+      "word": "Please put your laptop in the tray.",
+      "translation": "Положите ноутбук в лоток, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_19",
+      "word": "Take off your belt and shoes, please.",
+      "translation": "Снимите ремень и обувь, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_20",
+      "word": "Please raise your arms.",
+      "translation": "Поднимите руки, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_21",
+      "word": "I set off the alarm again.",
+      "translation": "У меня снова сработала рамка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_22",
+      "word": "Where can I find gate B7?",
+      "translation": "Где найти выход B7?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_23",
+      "word": "How do I get to gate twelve?",
+      "translation": "Как пройти к двенадцатому выходу?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_24",
+      "word": "Is this the right line for boarding?",
+      "translation": "Это правильная очередь на посадку?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_25",
+      "word": "May I see your boarding pass?",
+      "translation": "Можно посмотреть ваш посадочный талон?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_26",
+      "word": "We’re now boarding passengers with children.",
+      "translation": "Сейчас идёт посадка пассажиров с детьми.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_27",
+      "word": "Final call for flight BA204!",
+      "translation": "Последний вызов на рейс BA204!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_28",
+      "word": "Where is the baggage claim?",
+      "translation": "Где выдача багажа?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_29",
+      "word": "Which carousel is for flight 512?",
+      "translation": "Какая лента для рейса 512?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_30",
+      "word": "My suitcase hasn’t arrived.",
+      "translation": "Мой чемодан не приехал.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_31",
+      "word": "One of my bags is missing.",
+      "translation": "Одна из моих сумок пропала.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_32",
+      "word": "Where is the lost and found office?",
+      "translation": "Где бюро находок?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_33",
+      "word": "I’d like to report lost luggage.",
+      "translation": "Я хочу заявить об утере багажа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_34",
+      "word": "Here is my baggage claim ticket.",
+      "translation": "Вот мой багажный талон.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_35",
+      "word": "When will my luggage be delivered?",
+      "translation": "Когда мой багаж доставят?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_36",
+      "word": "Where is the transfer desk?",
+      "translation": "Где стойка для транзитных пассажиров?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_37",
+      "word": "I have a connecting flight to Rome.",
+      "translation": "У меня пересадка на рейс до Рима.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_38",
+      "word": "Will my luggage be transferred automatically?",
+      "translation": "Багаж перенаправят автоматически?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_39",
+      "word": "How long is the layover?",
+      "translation": "Насколько долгая пересадка?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_40",
+      "word": "Where is the currency exchange?",
+      "translation": "Где обмен валюты?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_41",
+      "word": "Where can I get a taxi?",
+      "translation": "Где можно взять такси?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_42",
+      "word": "Which way to the exit?",
+      "translation": "В какую сторону выход?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_43",
+      "word": "Is there free Wi-Fi here?",
+      "translation": "Здесь есть бесплатный Wi-Fi?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_44",
+      "word": "Where are the restrooms?",
+      "translation": "Где туалеты?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_45",
+      "word": "Where can I charge my phone?",
+      "translation": "Где можно зарядить телефон?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_46",
+      "word": "Could you watch my luggage for a minute?",
+      "translation": "Присмотрите за моим багажом минуту?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_47",
+      "word": "What is the purpose of your visit?",
+      "translation": "Какова цель вашей поездки?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_48",
+      "word": "I'm here on holiday.",
+      "translation": "Я здесь на отдыхе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_49",
+      "word": "I'm here on business.",
+      "translation": "Я приехал по работе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_50",
+      "word": "How long are you staying?",
+      "translation": "На сколько вы остаётесь?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_51",
+      "word": "Two weeks, until the twenty-second.",
+      "translation": "Две недели, до двадцать второго.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_52",
+      "word": "Where will you be staying?",
+      "translation": "Где вы будете останавливаться?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_53",
+      "word": "At a hotel downtown.",
+      "translation": "В отеле в центре города.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_54",
+      "word": "Anything to declare?",
+      "translation": "Есть что-нибудь для декларации?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_55",
+      "word": "Nothing to declare.",
+      "translation": "Мне нечего декларировать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_56",
+      "word": "Open your suitcase, please.",
+      "translation": "Откройте чемодан, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_57",
+      "word": "These are gifts for friends.",
+      "translation": "Это подарки друзьям.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_58",
+      "word": "Welcome to our country!",
+      "translation": "Добро пожаловать в нашу страну!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_59",
+      "word": "Enjoy your stay!",
+      "translation": "Приятного пребывания!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_60",
+      "word": "Have a nice flight!",
+      "translation": "Хорошего полёта!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_61",
+      "word": "Can I change my seat?",
+      "translation": "Можно поменять моё место?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_62",
+      "word": "Is this seat taken?",
+      "translation": "Это место занято?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_63",
+      "word": "Would you swap seats with me?",
+      "translation": "Не поменяешься со мной местами?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_64",
+      "word": "Can I have a blanket, please?",
+      "translation": "Можно мне одеяло, пожалуйста?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_65",
+      "word": "Chicken or pasta?",
+      "translation": "Курица или паста?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_66",
+      "word": "Chicken, please.",
+      "translation": "Курицу, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_67",
+      "word": "Could I have some water?",
+      "translation": "Можно немного воды?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_68",
+      "word": "When do we land?",
+      "translation": "Когда мы приземлимся?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_69",
+      "word": "Please fasten your seatbelt.",
+      "translation": "Пристегните ремни, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_70",
+      "word": "Please switch your phone to airplane mode.",
+      "translation": "Переведите телефон в авиарежим, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_71",
+      "word": "We’re experiencing some turbulence.",
+      "translation": "Мы попадаем в зону турбулентности.",
+      "language": "en"
+    },
     {
       "id": "pb_attheairport_0_0",
       "word": "I called security.",
@@ -22,27 +454,9 @@
       "language": "en"
     },
     {
-      "id": "pb_attheairport_0_3",
-      "word": "Tom pointed at the security camera.",
-      "translation": "Том указал на камеру слежения.",
-      "language": "en"
-    },
-    {
-      "id": "pb_attheairport_0_4",
-      "word": "Tom is waiting for Mary at the gate.",
-      "translation": "Том ждёт Мэри у ворот.",
-      "language": "en"
-    },
-    {
       "id": "pb_attheairport_0_5",
       "word": "Somebody's standing at the gate.",
       "translation": "Кто-то стоит у ворот.",
-      "language": "en"
-    },
-    {
-      "id": "pb_attheairport_0_6",
-      "word": "Tom was waiting for me at the gate.",
-      "translation": "Том ждал меня у ворот.",
       "language": "en"
     },
     {
@@ -76,18 +490,6 @@
       "language": "en"
     },
     {
-      "id": "pb_attheairport_0_12",
-      "word": "Tom asked Mary to open the gate.",
-      "translation": "Том попросил Мэри открыть ворота.",
-      "language": "en"
-    },
-    {
-      "id": "pb_attheairport_0_13",
-      "word": "Pass me the sugar, Tom.",
-      "translation": "Том, передай мне сахар.",
-      "language": "en"
-    },
-    {
       "id": "pb_attheairport_0_14",
       "word": "Pass the rope through the ring and tie it.",
       "translation": "Пропустите верёвку через кольцо и завяжите её.",
@@ -118,12 +520,6 @@
       "language": "en"
     },
     {
-      "id": "pb_attheairport_0_19",
-      "word": "Tom opened the gate.",
-      "translation": "Том открыл ворота.",
-      "language": "en"
-    },
-    {
       "id": "pb_attheairport_0_20",
       "word": "The men loaded the baggage into the truck.",
       "translation": "Мужчины погрузили багаж в грузовик.",
@@ -139,18 +535,6 @@
       "id": "pb_attheairport_0_22",
       "word": "The years pass by quickly.",
       "translation": "Годы пролетают быстро.",
-      "language": "en"
-    },
-    {
-      "id": "pb_attheairport_0_23",
-      "word": "Tom doesn't know how to use a compass.",
-      "translation": "Том не умеет пользоваться компасом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_attheairport_0_24",
-      "word": "Tom closed the gate.",
-      "translation": "Том закрыл ворота.",
       "language": "en"
     },
     {
@@ -172,12 +556,6 @@
       "language": "en"
     },
     {
-      "id": "pb_attheairport_0_28",
-      "word": "Tom walked to the gate.",
-      "translation": "Том пошёл к воротам.",
-      "language": "en"
-    },
-    {
       "id": "pb_attheairport_0_29",
       "word": "The club failed to pass our resolution.",
       "translation": "Наша резолюция не прошла в клубе.",
@@ -190,12 +568,6 @@
       "language": "en"
     },
     {
-      "id": "pb_attheairport_0_31",
-      "word": "Tom didn't pass the exam, did he?",
-      "translation": "Том не сдал экзамен, так ведь?",
-      "language": "en"
-    },
-    {
       "id": "pb_attheairport_0_32",
       "word": "I opened the gate.",
       "translation": "Я открыл ворота.",
@@ -205,12 +577,6 @@
       "id": "pb_attheairport_0_33",
       "word": "The picnic hasn't been cancelled.",
       "translation": "Пикник не отменили.",
-      "language": "en"
-    },
-    {
-      "id": "pb_attheairport_0_34",
-      "word": "Tom unlocked the gate.",
-      "translation": "Том отпер ворота.",
       "language": "en"
     },
     {
@@ -232,21 +598,9 @@
       "language": "en"
     },
     {
-      "id": "pb_attheairport_0_38",
-      "word": "Tom walked me to the gate.",
-      "translation": "Том проводил меня до ворот.",
-      "language": "en"
-    },
-    {
       "id": "pb_attheairport_0_39",
       "word": "I'll meet you in the baggage claims area.",
       "translation": "Я буду ждать вас в зоне получения багажа.",
-      "language": "en"
-    },
-    {
-      "id": "pb_attheairport_0_40",
-      "word": "We'll meet Tom at the gate.",
-      "translation": "Мы встретим Тома у ворот.",
       "language": "en"
     },
     {
@@ -277,12 +631,6 @@
       "id": "pb_attheairport_0_45",
       "word": "I enjoy snowboarding.",
       "translation": "Я увлекаюсь сноубордом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_attheairport_0_46",
-      "word": "Tom tried to pass off an imitation as the original.",
-      "translation": "Том старался выдать подделку за подлинник.",
       "language": "en"
     },
     {
@@ -319,12 +667,6 @@
       "id": "pb_attheairport_1_2",
       "word": "I claimed my baggage.",
       "translation": "Я получил свой багаж.",
-      "language": "en"
-    },
-    {
-      "id": "pb_attheairport_1_3",
-      "word": "Tom opened the gate for Mary.",
-      "translation": "Том открыл Мэри ворота.",
       "language": "en"
     },
     {
@@ -418,18 +760,6 @@
       "language": "en"
     },
     {
-      "id": "pb_attheairport_1_19",
-      "word": "Tom is a security specialist.",
-      "translation": "Том — специалист по безопасности.",
-      "language": "en"
-    },
-    {
-      "id": "pb_attheairport_1_20",
-      "word": "Tom pushed the gate open.",
-      "translation": "Том распахнул ворота.",
-      "language": "en"
-    },
-    {
       "id": "pb_attheairport_1_21",
       "word": "I stepped aside so he could pass.",
       "translation": "Я отошёл в сторону, чтобы он смог пройти.",
@@ -472,21 +802,9 @@
       "language": "en"
     },
     {
-      "id": "pb_attheairport_1_28",
-      "word": "Tom was waiting at the gate.",
-      "translation": "Том ждал у ворот.",
-      "language": "en"
-    },
-    {
       "id": "pb_attheairport_1_29",
       "word": "A customs official asked me to open my suitcase.",
       "translation": "Таможенник попросил меня открыть чемодан.",
-      "language": "en"
-    },
-    {
-      "id": "pb_attheairport_1_30",
-      "word": "Does Tom have a pass?",
-      "translation": "У Тома есть пропуск?",
       "language": "en"
     },
     {
@@ -505,12 +823,6 @@
       "id": "pb_attheairport_1_33",
       "word": "Have you ever tried skateboarding?",
       "translation": "Ты когда-нибудь пробовала кататься на скейтборде?",
-      "language": "en"
-    },
-    {
-      "id": "pb_attheairport_1_34",
-      "word": "Tom walked Mary to the gate.",
-      "translation": "Том проводил Мэри до ворот.",
       "language": "en"
     },
     {
@@ -622,12 +934,6 @@
       "language": "en"
     },
     {
-      "id": "pb_attheairport_2_3",
-      "word": "Tom pushed open the gate.",
-      "translation": "Том распахнул ворота.",
-      "language": "en"
-    },
-    {
       "id": "pb_attheairport_2_4",
       "word": "You can't take any excess baggage on the plane.",
       "translation": "Вы не можете брать с собой в самолёт багаж сверх нормы.",
@@ -664,12 +970,6 @@
       "language": "en"
     },
     {
-      "id": "pb_attheairport_2_10",
-      "word": "Tom is obsessed with security.",
-      "translation": "Том помешан на безопасности.",
-      "language": "en"
-    },
-    {
       "id": "pb_attheairport_2_11",
       "word": "Where is the check-in counter?",
       "translation": "Где стойка регистрации?",
@@ -688,12 +988,6 @@
       "language": "en"
     },
     {
-      "id": "pb_attheairport_2_14",
-      "word": "Tom is going to investigate.",
-      "translation": "Том проведёт расследование.",
-      "language": "en"
-    },
-    {
       "id": "pb_attheairport_2_15",
       "word": "All things must pass.",
       "translation": "Всё когда-нибудь проходит.",
@@ -709,12 +1003,6 @@
       "id": "pb_attheairport_2_17",
       "word": "Can you prove your claim?",
       "translation": "Ты можешь доказать свое утверждение?",
-      "language": "en"
-    },
-    {
-      "id": "pb_attheairport_2_18",
-      "word": "Tom is waiting at the gate.",
-      "translation": "Том ждёт у ворот.",
       "language": "en"
     },
     {
@@ -754,27 +1042,9 @@
       "language": "en"
     },
     {
-      "id": "pb_attheairport_2_25",
-      "word": "Tom could pass for a teenager.",
-      "translation": "Том мог бы сойти за подростка.",
-      "language": "en"
-    },
-    {
-      "id": "pb_attheairport_2_26",
-      "word": "Tom and Mary were among the new arrivals.",
-      "translation": "Том и Мэри были среди вновь прибывших.",
-      "language": "en"
-    },
-    {
       "id": "pb_attheairport_2_27",
       "word": "Pass me the pen.",
       "translation": "Передайте мне ручку.",
-      "language": "en"
-    },
-    {
-      "id": "pb_attheairport_2_28",
-      "word": "Tom looked at his compass.",
-      "translation": "Том посмотрел на свой компас.",
       "language": "en"
     },
     {
@@ -823,12 +1093,6 @@
       "id": "pb_attheairport_2_36",
       "word": "The gate is locked.",
       "translation": "Ворота заперты.",
-      "language": "en"
-    },
-    {
-      "id": "pb_attheairport_2_37",
-      "word": "Tom gave Mary some advice on how to pass multiple-choice tests.",
-      "translation": "Том подсказал Мэри, как проходить тесты с несколькими вариантами ответа.",
       "language": "en"
     },
     {
@@ -910,18 +1174,6 @@
       "language": "en"
     },
     {
-      "id": "pb_attheairport_3_1",
-      "word": "Tom told me to shut the gate.",
-      "translation": "Том сказал мне закрыть ворота.",
-      "language": "en"
-    },
-    {
-      "id": "pb_attheairport_3_2",
-      "word": "Tom tried to pass off an imitation for the original.",
-      "translation": "Том старался выдать подделку за подлинник.",
-      "language": "en"
-    },
-    {
       "id": "pb_attheairport_3_3",
       "word": "Open the gate.",
       "translation": "Открой ворота.",
@@ -931,12 +1183,6 @@
       "id": "pb_attheairport_3_4",
       "word": "Did you shut the gate?",
       "translation": "Ты закрыл ворота?",
-      "language": "en"
-    },
-    {
-      "id": "pb_attheairport_3_5",
-      "word": "Tom stepped aside, letting Mary pass.",
-      "translation": "Том отступил в сторону, давая Мэри пройти.",
       "language": "en"
     },
     {
@@ -964,21 +1210,9 @@
       "language": "en"
     },
     {
-      "id": "pb_attheairport_3_10",
-      "word": "Tom will pass.",
-      "translation": "Том пройдёт.",
-      "language": "en"
-    },
-    {
       "id": "pb_attheairport_3_11",
       "word": "They were waiting for the gate to open.",
       "translation": "Они ждали, когда откроются ворота.",
-      "language": "en"
-    },
-    {
-      "id": "pb_attheairport_3_12",
-      "word": "Tom installed security cameras on his property to deter thieves.",
-      "translation": "Том установил на своём участке скрытые камеры для отпугивания воров.",
       "language": "en"
     },
     {
@@ -1015,12 +1249,6 @@
       "id": "pb_attheairport_3_18",
       "word": "Many old customs are gradually dying out.",
       "translation": "Многие старинные обычаи постепенно отмирают.",
-      "language": "en"
-    },
-    {
-      "id": "pb_attheairport_3_19",
-      "word": "Tom called security.",
-      "translation": "Том вызвал охрану.",
       "language": "en"
     },
     {

@@ -1,8 +1,266 @@
 {
   "id": "phrasebook-directionsnavigation",
   "name": "Directions & Navigation",
-  "description": "Phrasebook for Directions & Navigation",
+  "description": "Спросить дорогу и объяснить путь — как это делают носители",
   "entries": [
+    {
+      "id": "pbq_directions_0",
+      "word": "Excuse me, could you tell me how to get to the station?",
+      "translation": "Извините, не скажете, как добраться до вокзала?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_1",
+      "word": "How do I get to the city center from here?",
+      "translation": "Как попасть отсюда в центр города?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_2",
+      "word": "What’s the best way to the museum?",
+      "translation": "Как лучше всего добраться до музея?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_3",
+      "word": "Is it far from here?",
+      "translation": "Это далеко отсюда?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_4",
+      "word": "Is it within walking distance?",
+      "translation": "Это можно дойти пешком?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_5",
+      "word": "It’s about a ten-minute walk.",
+      "translation": "Это минут десять пешком.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_6",
+      "word": "Go straight ahead.",
+      "translation": "Идите прямо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_7",
+      "word": "Go straight until the traffic lights.",
+      "translation": "Идите прямо до светофора.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_8",
+      "word": "Turn left at the corner.",
+      "translation": "Поверните налево на углу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_9",
+      "word": "Turn right at the second crossing.",
+      "translation": "Поверните направо на втором перекрёстке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_10",
+      "word": "Cross the street at the crosswalk.",
+      "translation": "Перейдите дорогу по пешеходному переходу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_11",
+      "word": "Go past the bank and then turn left.",
+      "translation": "Пройдите мимо банка и поверните налево.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_12",
+      "word": "It's just around the corner.",
+      "translation": "Это прямо за углом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_13",
+      "word": "It's across the street.",
+      "translation": "Это через дорогу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_14",
+      "word": "It's next to the pharmacy.",
+      "translation": "Это рядом с аптекой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_15",
+      "word": "It's opposite the church.",
+      "translation": "Это напротив церкви.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_16",
+      "word": "It's between the café and the shop.",
+      "translation": "Это между кафе и магазином.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_17",
+      "word": "Take the second street on the right.",
+      "translation": "Сверните во вторую улицу справа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_18",
+      "word": "Follow this road for about a mile.",
+      "translation": "Идите по этой дороге примерно милю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_19",
+      "word": "You can't miss it.",
+      "translation": "Вы его точно не пропустите.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_20",
+      "word": "Am I going the right way?",
+      "translation": "Я иду в правильном направлении?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_21",
+      "word": "Did I miss my stop?",
+      "translation": "Я проехал свою остановку?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_22",
+      "word": "You’re going in the wrong direction.",
+      "translation": "Вы движетесь не в том направлении.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_23",
+      "word": "You need to go back two blocks.",
+      "translation": "Вам нужно вернуться на два квартала назад.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_24",
+      "word": "Sorry, I’m not from around here.",
+      "translation": "Извините, я не местный.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_25",
+      "word": "I’m afraid I don’t know this area.",
+      "translation": "Боюсь, я не знаю этот район.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_26",
+      "word": "Let me check the map.",
+      "translation": "Дайте посмотрю на карте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_27",
+      "word": "Let’s use the GPS.",
+      "translation": "Давай воспользуемся навигатором.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_28",
+      "word": "Recalculate the route, please.",
+      "translation": "Пересчитайте маршрут, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_29",
+      "word": "Where am I on this map?",
+      "translation": "Где я на этой карте?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_30",
+      "word": "Could you show me on the map where we are?",
+      "translation": "Можете показать на карте, где мы?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_31",
+      "word": "Is there a shortcut?",
+      "translation": "Есть короткая дорога?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_32",
+      "word": "Which side of the street is the entrance on?",
+      "translation": "С какой стороны улицы вход?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_33",
+      "word": "Is this the entrance to the metro?",
+      "translation": "Это вход в метро?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_34",
+      "word": "How many stops from here?",
+      "translation": "Сколько остановок отсюда?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_35",
+      "word": "Get off at the third stop.",
+      "translation": "Выйдете на третьей остановке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_36",
+      "word": "Is this seat facing forward?",
+      "translation": "Это место по ходу движения?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_37",
+      "word": "Keep left at the fork.",
+      "translation": "На развилке держитесь левее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_38",
+      "word": "Take the escalator down.",
+      "translation": "Спуститесь по эскалатору.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_39",
+      "word": "The elevator is to your right.",
+      "translation": "Лифт справа от вас.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_40",
+      "word": "Follow the signs to the exits.",
+      "translation": "Следуйте по указателям к выходам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_41",
+      "word": "Lost? Need help finding something?",
+      "translation": "Заблудились? Помочь что-нибудь найти?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_42",
+      "word": "Yes, please! I’m looking for platform five.",
+      "translation": "Да, пожалуйста! Я ищу пятую платформу.",
+      "language": "en"
+    },
     {
       "id": "pb_directionsnavigation_0_0",
       "word": "It's not your turn.",
@@ -13,12 +271,6 @@
       "id": "pb_directionsnavigation_0_1",
       "word": "Let's get one thing straight first.",
       "translation": "Давай проясним кое-что сразу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_0_2",
-      "word": "Tom really does detest giving speeches in front of large audiences.",
-      "translation": "Том по-настоящему ненавидит выступать с речью перед большой аудиторией.",
       "language": "en"
     },
     {
@@ -46,33 +298,9 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_0_7",
-      "word": "Tom doesn't know why Mary left.",
-      "translation": "Том не знает, почему Мэри ушла.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_0_8",
       "word": "He has played his card out of turn.",
       "translation": "Он разыграл свою карту вне очереди.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_0_9",
-      "word": "Tom was standing in front of Mary.",
-      "translation": "Том стоял напротив Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_0_10",
-      "word": "Tom left his keys in the ignition.",
-      "translation": "Том оставил ключи в замке зажигания.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_0_11",
-      "word": "It seems that Tom is behind this.",
-      "translation": "Похоже, что за этим стоит Том.",
       "language": "en"
     },
     {
@@ -100,21 +328,9 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_0_16",
-      "word": "Tom spent three years behind bars.",
-      "translation": "Том три года провёл за решёткой.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_0_17",
       "word": "There's a lot left to talk about.",
       "translation": "Нам ещё о многом надо поговорить.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_0_18",
-      "word": "Tom might've left already.",
-      "translation": "Том мог уже уйти.",
       "language": "en"
     },
     {
@@ -130,45 +346,15 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_0_21",
-      "word": "Tom lives somewhere near the park.",
-      "translation": "Том живет где-то неподалёку от парка.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_0_22",
-      "word": "Do you know when Tom will return?",
-      "translation": "Вы знаете, когда Том вернётся?",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_0_23",
       "word": "That isn't very close.",
       "translation": "Это не очень близко.",
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_0_24",
-      "word": "Tom was standing near the entrance.",
-      "translation": "Том стоял рядом со входом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_0_25",
-      "word": "I can't leave Tom behind.",
-      "translation": "Я не могу оставить Тома.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_0_26",
       "word": "Cross yourself and say a prayer.",
       "translation": "Перекрестись и прочитай молитву.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_0_27",
-      "word": "It's just around the corner.",
-      "translation": "Прямо за углом.",
       "language": "en"
     },
     {
@@ -187,12 +373,6 @@
       "id": "pb_directionsnavigation_0_30",
       "word": "How far is it from here to Boston?",
       "translation": "Как далеко отсюда до Бостона?",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_0_31",
-      "word": "You can't seat Tom next to Mary.",
-      "translation": "Ты не можешь посадить Тома рядом с Мэри.",
       "language": "en"
     },
     {
@@ -226,12 +406,6 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_0_37",
-      "word": "Tom has left for good.",
-      "translation": "Том ушёл насовсем.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_0_38",
       "word": "Who's behind this?",
       "translation": "Кто за этим стоит?",
@@ -256,21 +430,9 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_0_42",
-      "word": "Tom left something on your desk.",
-      "translation": "Том что-то оставил у тебя на столе.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_0_43",
       "word": "It's all over between us.",
       "translation": "Между нами всё кончено.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_0_44",
-      "word": "What did Tom give you in return?",
-      "translation": "Что Том дал тебе взамен?",
       "language": "en"
     },
     {
@@ -289,18 +451,6 @@
       "id": "pb_directionsnavigation_0_47",
       "word": "Now it's our turn.",
       "translation": "Теперь наша очередь.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_0_48",
-      "word": "Tom left Boston three years ago.",
-      "translation": "Том уехал из Бостона три года назад.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_0_49",
-      "word": "Tom left that for you.",
-      "translation": "Том оставил это тебе.",
       "language": "en"
     },
     {
@@ -328,12 +478,6 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_1_4",
-      "word": "Tom wasn't standing next to Mary.",
-      "translation": "Том стоял не рядом с Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_1_5",
       "word": "The beach isn't far from here.",
       "translation": "Пляж отсюда недалеко.",
@@ -349,12 +493,6 @@
       "id": "pb_directionsnavigation_1_7",
       "word": "How much candy do we have left?",
       "translation": "Сколько у нас осталось конфет?",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_1_8",
-      "word": "Tom wanted to turn himself in.",
-      "translation": "Том хотел сдаться правосудию.",
       "language": "en"
     },
     {
@@ -376,69 +514,15 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_1_12",
-      "word": "Tom left just before Mary did.",
-      "translation": "Том ушёл прямо перед Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_1_13",
-      "word": "Tom has just left.",
-      "translation": "Том только что ушёл.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_1_14",
-      "word": "Only Tom left early.",
-      "translation": "Только Том рано ушёл.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_1_15",
-      "word": "Tom only has a few close friends.",
-      "translation": "У Тома всего несколько близких друзей.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_1_16",
       "word": "Someone is hiding in the corner.",
       "translation": "Кто-то прячется в углу.",
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_1_17",
-      "word": "Tom remained behind.",
-      "translation": "Том остался позади.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_1_18",
       "word": "The two left.",
       "translation": "Оба ушли.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_1_19",
-      "word": "Tom decided not to sit next to Mary.",
-      "translation": "Том решил не садиться рядом с Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_1_20",
-      "word": "Tom now lives near Boston.",
-      "translation": "Том сейчас живёт недалеко от Бостона.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_1_21",
-      "word": "Tom was sitting behind me.",
-      "translation": "Том сидел за мной.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_1_22",
-      "word": "Tom has already left for Australia.",
-      "translation": "Том уже уехал в Австралию.",
       "language": "en"
     },
     {
@@ -460,12 +544,6 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_1_26",
-      "word": "I was directly behind Tom.",
-      "translation": "Я был прямо за Томом.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_1_27",
       "word": "It is next to impossible.",
       "translation": "Это почти невозможно.",
@@ -484,12 +562,6 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_1_30",
-      "word": "Tom and Mary were close friends.",
-      "translation": "Том и Мэри были близкими друзьями.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_1_31",
       "word": "We left nothing to chance.",
       "translation": "Мы ничего не пустили на самотёк.",
@@ -499,24 +571,6 @@
       "id": "pb_directionsnavigation_1_32",
       "word": "There wasn't anybody left but me.",
       "translation": "Никого не осталось, кроме меня.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_1_33",
-      "word": "Tom's quarters are near the camp.",
-      "translation": "Жильё Тома находится недалеко от лагеря.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_1_34",
-      "word": "Tom spent a few years behind bars.",
-      "translation": "Том провёл несколько лет за решёткой.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_1_35",
-      "word": "Tom didn't turn off the lights.",
-      "translation": "Том не выключил свет.",
       "language": "en"
     },
     {
@@ -541,12 +595,6 @@
       "id": "pb_directionsnavigation_1_39",
       "word": "Who's hiding behind the curtains?",
       "translation": "Кто прячется за шторами?",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_1_40",
-      "word": "Tom has no close friends.",
-      "translation": "У Тома нет близких друзей.",
       "language": "en"
     },
     {
@@ -580,39 +628,15 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_1_46",
-      "word": "Tom heard something behind him.",
-      "translation": "Том услышал что-то позади себя.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_1_47",
       "word": "You forgot to turn off the light.",
       "translation": "Ты забыл выключить свет.",
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_1_48",
-      "word": "Tom and I are very close friends.",
-      "translation": "Мы с Томом очень близкие друзья.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_1_49",
       "word": "Can you turn on the light?",
       "translation": "Вы можете включить свет?",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_2_0",
-      "word": "Tom prayed for Mary's safe return.",
-      "translation": "Том молился за благополучное возвращение Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_2_1",
-      "word": "Tom sat between us.",
-      "translation": "Том сидел между нами.",
       "language": "en"
     },
     {
@@ -637,12 +661,6 @@
       "id": "pb_directionsnavigation_2_5",
       "word": "What is the difference between A and B?",
       "translation": "Какая разница между А и Б?",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_2_6",
-      "word": "Tom didn't even notice Mary had left.",
-      "translation": "Том даже не заметил, что Мэри ушла.",
       "language": "en"
     },
     {
@@ -682,18 +700,6 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_2_13",
-      "word": "Did you even notice that Tom had left?",
-      "translation": "Ты хоть заметил, что Том ушел?",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_2_14",
-      "word": "Tom and Mary left the bar together.",
-      "translation": "Том и Мэри ушли из бара вместе.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_2_15",
       "word": "How far did it go?",
       "translation": "Как далеко это зашло?",
@@ -706,33 +712,9 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_2_17",
-      "word": "It was Tom's and my turn.",
-      "translation": "Была наша с Томом очередь.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_2_18",
       "word": "The restrooms are on the left.",
       "translation": "Туалеты слева.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_2_19",
-      "word": "I can't get a straight answer from Tom.",
-      "translation": "Я не могу добиться от Тома прямого ответа.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_2_20",
-      "word": "Tom didn't say when he would return.",
-      "translation": "Том не сказал, когда вернётся.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_2_21",
-      "word": "Tom left without saying anything.",
-      "translation": "Том ушёл, ничего не сказав.",
       "language": "en"
     },
     {
@@ -742,33 +724,9 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_2_23",
-      "word": "Mary walked first, and Tom came behind.",
-      "translation": "Впереди шла Мэри, а за ней шёл Том.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_2_24",
-      "word": "Tom is living near Boston.",
-      "translation": "Том живёт неподалёку от Бостона.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_2_25",
       "word": "Do you want me to turn off the lights?",
       "translation": "Вы хотите, чтобы я выключил свет?",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_2_26",
-      "word": "I sat near Tom.",
-      "translation": "Я сидел рядом с Томом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_2_27",
-      "word": "Tom left early to attend a funeral.",
-      "translation": "Том ушёл пораньше, чтобы пойти на похороны.",
       "language": "en"
     },
     {
@@ -790,21 +748,9 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_2_31",
-      "word": "I wonder whether Tom has already left.",
-      "translation": "Интересно, ушёл ли уже Том.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_2_32",
       "word": "Young people tend to take things too far.",
       "translation": "Молодые люди склонны к юношескому максимализму.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_2_33",
-      "word": "I wonder whether or not Tom has already left.",
-      "translation": "Интересно, ушёл ли уже Том.",
       "language": "en"
     },
     {
@@ -826,39 +772,15 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_2_37",
-      "word": "We're not far from Tom's.",
-      "translation": "Мы недалеко от дома Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_2_38",
-      "word": "Tom fired a couple of shots in our direction.",
-      "translation": "Том сделал несколько выстрелов в нашем направлении.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_2_39",
       "word": "I'll walk with you as far as the supermarket.",
       "translation": "Я дойду с тобой до супермаркета.",
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_2_40",
-      "word": "Tom left Boston three months ago.",
-      "translation": "Том уехал из Бостона три месяца назад.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_2_41",
       "word": "We left early.",
       "translation": "Мы ушли пораньше.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_2_42",
-      "word": "Tom stood close to Mary.",
-      "translation": "Том стоял близко к Мэри.",
       "language": "en"
     },
     {
@@ -898,21 +820,9 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_2_49",
-      "word": "Tom lives near you.",
-      "translation": "Том живёт недалеко от тебя.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_3_0",
       "word": "Do you know how to turn this device on?",
       "translation": "Ты знаешь, как включается этот прибор?",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_3_1",
-      "word": "Something happened between Tom and Mary.",
-      "translation": "Между Томом и Мэри что-то произошло.",
       "language": "en"
     },
     {
@@ -952,12 +862,6 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_3_8",
-      "word": "Tom, how old were you when you left Australia?",
-      "translation": "Том, сколько тебе было лет, когда ты уехал из Австралии?",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_3_9",
       "word": "There were no seats left.",
       "translation": "Мест больше не было.",
@@ -970,12 +874,6 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_3_11",
-      "word": "Things didn't turn out the way Tom expected.",
-      "translation": "Всё вышло не так, как Том ожидал.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_3_12",
       "word": "She sat next to him.",
       "translation": "Она села рядом с ним.",
@@ -985,12 +883,6 @@
       "id": "pb_directionsnavigation_3_13",
       "word": "Sorry, but I don't want to sit next to you.",
       "translation": "Прости, но я не хочу садиться рядом с тобой.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_3_14",
-      "word": "I figured you might know why Tom left early.",
-      "translation": "Я считал, что вы, возможно, знаете, почему Том ушёл рано.",
       "language": "en"
     },
     {
@@ -1009,12 +901,6 @@
       "id": "pb_directionsnavigation_3_17",
       "word": "I thought if I left Boston, I could forget you.",
       "translation": "Я думал, что если уеду из Бостона, то смогу тебя забыть.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_3_18",
-      "word": "Tom lives near the park.",
-      "translation": "Том живёт рядом с парком.",
       "language": "en"
     },
     {
@@ -1057,12 +943,6 @@
       "id": "pb_directionsnavigation_3_25",
       "word": "This dictionary is by far the best.",
       "translation": "Этот словарь самый лучший.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_3_26",
-      "word": "Tom didn't notice that Mary had left.",
-      "translation": "Том не заметил, что Мэри ушла.",
       "language": "en"
     },
     {
@@ -1126,12 +1006,6 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_3_37",
-      "word": "Tom hasn't told me when he'll return.",
-      "translation": "Том не сказал мне, когда вернётся.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_3_38",
       "word": "Which direction will he choose?",
       "translation": "Какое он выберет направление?",
@@ -1141,12 +1015,6 @@
       "id": "pb_directionsnavigation_3_39",
       "word": "Did you close your eyes?",
       "translation": "Закрыл глаза?",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_3_40",
-      "word": "Tom hid behind the couch.",
-      "translation": "Том спрятался за диваном.",
       "language": "en"
     },
     {
@@ -1162,27 +1030,9 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_3_43",
-      "word": "Tom doesn't live far from here.",
-      "translation": "Том живёт недалеко отсюда.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_3_44",
-      "word": "Tom held his hands in front of the vent.",
-      "translation": "Том держал руки перед вентиляционным отверстием.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_3_45",
       "word": "I could hardly close the suitcase.",
       "translation": "Я едва смог закрыть чемодан.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_3_46",
-      "word": "Tom took a seat next to Mary on the bench.",
-      "translation": "Том сел на скамейку рядом с Мэри.",
       "language": "en"
     },
     {
@@ -1228,27 +1078,9 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_4_4",
-      "word": "Tom eats anything Mary puts in front of him.",
-      "translation": "Фома ест всё, что Маша кладёт перед ним.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_4_5",
-      "word": "Tom sat in front of Mary.",
-      "translation": "Том сел перед Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_4_6",
       "word": "The café is just around the corner.",
       "translation": "Кафе прямо тут за углом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_4_7",
-      "word": "How far can Tom be trusted?",
-      "translation": "Насколько Тому можно доверять?",
       "language": "en"
     },
     {
@@ -1264,33 +1096,15 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_4_10",
-      "word": "How far away is Tom?",
-      "translation": "Как далеко находится Том?",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_4_11",
       "word": "I grew up not too far from here.",
       "translation": "Я вырос неподалёку отсюда.",
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_4_12",
-      "word": "Tom has left.",
-      "translation": "Том ушёл.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_4_13",
       "word": "He gave me a push and got ahead of me.",
       "translation": "Он меня толкнул и прошёл передо мной.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_4_14",
-      "word": "Tom is sitting in front of the TV.",
-      "translation": "Том сидит перед телевизором.",
       "language": "en"
     },
     {
@@ -1306,24 +1120,6 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_4_17",
-      "word": "I'm glad Tom left early.",
-      "translation": "Я рад, что Том ушёл пораньше.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_4_18",
-      "word": "Tom and the others left early.",
-      "translation": "Фома и остальные ушли рано.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_4_19",
-      "word": "Cross Tom off the list.",
-      "translation": "Вычеркни Тома из списка.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_4_20",
       "word": "What's the difference between sarcasm and irony?",
       "translation": "Чем сарказм отличается от иронии?",
@@ -1333,12 +1129,6 @@
       "id": "pb_directionsnavigation_4_21",
       "word": "It was a close call.",
       "translation": "Мы были на волоске.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_4_22",
-      "word": "Tom is running a little behind.",
-      "translation": "Том немного отстаёт.",
       "language": "en"
     },
     {
@@ -1357,12 +1147,6 @@
       "id": "pb_directionsnavigation_4_25",
       "word": "Wait your turn.",
       "translation": "Подождите своей очереди.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_4_26",
-      "word": "I'll turn it over to Tom.",
-      "translation": "Я передам это Тому.",
       "language": "en"
     },
     {
@@ -1402,18 +1186,6 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_4_33",
-      "word": "Tom had no one to turn to for advice.",
-      "translation": "Тому было не к кому обратиться за советом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_4_34",
-      "word": "Tom left without anyone noticing.",
-      "translation": "Том ушёл незамеченным.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_4_35",
       "word": "It's your turn.",
       "translation": "Теперь твоя очередь.",
@@ -1426,27 +1198,9 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_4_37",
-      "word": "Tom wanted to sit next to Mary.",
-      "translation": "Том хотел сидеть рядом с Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_4_38",
-      "word": "I suspect that Tom has already left for Boston.",
-      "translation": "Подозреваю, Том уже уехал в Бостон.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_4_39",
       "word": "That is going too far.",
       "translation": "Это заходит уже слишком далеко.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_4_40",
-      "word": "Tom has left Boston.",
-      "translation": "Том уехал из Бостона.",
       "language": "en"
     },
     {
@@ -1459,12 +1213,6 @@
       "id": "pb_directionsnavigation_4_42",
       "word": "Wait here until I return.",
       "translation": "Жди здесь, пока я не вернусь.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_4_43",
-      "word": "Do you want to be near Tom?",
-      "translation": "Ты хочешь быть рядом с Томом?",
       "language": "en"
     },
     {
@@ -1486,45 +1234,15 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_4_47",
-      "word": "Tom had no one else to turn to.",
-      "translation": "Тому было больше не к кому обратиться.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_4_48",
       "word": "I live near you.",
       "translation": "Я живу рядом с тобой.",
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_4_49",
-      "word": "I shook hands with Tom and left.",
-      "translation": "Я пожал Тому руку и вышел.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_5_0",
       "word": "It was really close.",
       "translation": "Это было действительно близко.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_5_1",
-      "word": "Tom left Boston three days ago.",
-      "translation": "Том уехал из Бостона три дня назад.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_5_2",
-      "word": "Tom sat in the front row.",
-      "translation": "Том сел в первом ряду.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_5_3",
-      "word": "I suspect Tom has already left Australia.",
-      "translation": "Подозреваю, Том уже уехал из Австралии.",
       "language": "en"
     },
     {
@@ -1558,18 +1276,6 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_5_9",
-      "word": "Tom hid behind a curtain.",
-      "translation": "Том спрятался за шторой.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_5_10",
-      "word": "Tom is between twenty and thirty years old.",
-      "translation": "Тому где-то от двадцати до тридцати лет.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_5_11",
       "word": "This English essay is far from perfect.",
       "translation": "Это сочинение на английском весьма далеко от совершенства.",
@@ -1588,12 +1294,6 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_5_14",
-      "word": "Tom has no one to turn to.",
-      "translation": "Тому не к кому обратиться.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_5_15",
       "word": "I shall return.",
       "translation": "Я вернусь.",
@@ -1606,27 +1306,9 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_5_17",
-      "word": "Tom and Mary are close relatives.",
-      "translation": "Том и Мэри близкие родственники.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_5_18",
       "word": "No one had anything left to say.",
       "translation": "Никому больше нечего было сказать.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_5_19",
-      "word": "Tom asked Mary to turn off the light.",
-      "translation": "Том попросил Мэри выключить свет.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_5_20",
-      "word": "Tom doesn't live far away.",
-      "translation": "Том не так далеко живёт.",
       "language": "en"
     },
     {
@@ -1660,12 +1342,6 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_5_26",
-      "word": "Tom left some dirty dishes in the sink­.",
-      "translation": "Том оставил в раковине грязную посуду.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_5_27",
       "word": "You are going too far.",
       "translation": "Вы заходите слишком далеко.",
@@ -1696,12 +1372,6 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_5_32",
-      "word": "I stayed close to Tom.",
-      "translation": "Я держался рядом с Томом.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_5_33",
       "word": "I used to live not far from here.",
       "translation": "Я когда-то жил здесь неподалёку.",
@@ -1711,18 +1381,6 @@
       "id": "pb_directionsnavigation_5_34",
       "word": "I finally left.",
       "translation": "Я наконец ушёл.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_5_35",
-      "word": "Tom sat down next to Mary.",
-      "translation": "Том сел рядом с Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_5_36",
-      "word": "Tom has a scar on his left cheek.",
-      "translation": "У Тома шрам на левой щеке.",
       "language": "en"
     },
     {
@@ -1744,21 +1402,9 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_5_40",
-      "word": "Everyone except Tom and Mary left.",
-      "translation": "Все ушли, кроме Тома и Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_5_41",
       "word": "There is no milk left.",
       "translation": "Молоко закончилось.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_5_42",
-      "word": "Tom hid himself behind the curtain.",
-      "translation": "Том спрятался за занавеской.",
       "language": "en"
     },
     {
@@ -1780,39 +1426,9 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_5_46",
-      "word": "Tom just wanted to be left alone.",
-      "translation": "Том хотел только, чтобы его оставили в покое.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_5_47",
-      "word": "Tom sat down next to me.",
-      "translation": "Том сел рядом со мной.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_5_48",
-      "word": "Tom sat on a stool in the corner.",
-      "translation": "Том сел на табуретку в углу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_5_49",
-      "word": "I know Tom has already left for Boston.",
-      "translation": "Я знаю, что Том уже отправился в Бостон.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_6_0",
       "word": "Turn the flame down low.",
       "translation": "Сделай огонь поменьше.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_6_1",
-      "word": "Tom and Mary fell behind.",
-      "translation": "Том с Мэри отстали.",
       "language": "en"
     },
     {
@@ -1822,45 +1438,9 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_6_3",
-      "word": "Tom is too far away.",
-      "translation": "Том слишком далеко.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_6_4",
-      "word": "Tom, I want you to close your eyes.",
-      "translation": "Том, я хочу, чтобы ты закрыл глаза.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_6_5",
-      "word": "Tom left Mary behind.",
-      "translation": "Том оставил Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_6_6",
       "word": "Why didn't you get one before we left?",
       "translation": "Почему ты не взял его, прежде чем мы ушли?",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_6_7",
-      "word": "Tom arrived after I left.",
-      "translation": "Том приехал после того, как я ушёл.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_6_8",
-      "word": "Tom hid behind the sofa.",
-      "translation": "Том спрятался за диваном.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_6_9",
-      "word": "Tom hasn't been the same since you left him.",
-      "translation": "Том сам не свой с тех пор, как ты от него ушла.",
       "language": "en"
     },
     {
@@ -1879,12 +1459,6 @@
       "id": "pb_directionsnavigation_6_12",
       "word": "There's still a little milk left in this glass.",
       "translation": "В этом стакане ещё осталось немного молока.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_6_13",
-      "word": "Don't tell me you left Tom at the bar.",
-      "translation": "Только не говорите мне, что вы оставили Тома в баре.",
       "language": "en"
     },
     {
@@ -1909,12 +1483,6 @@
       "id": "pb_directionsnavigation_6_17",
       "word": "We haven't had any complaints so far.",
       "translation": "Пока что к нам никаких жалоб не поступало.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_6_18",
-      "word": "Tom didn't know which way to turn.",
-      "translation": "Том не знал, в какую сторону повернуть.",
       "language": "en"
     },
     {
@@ -1966,21 +1534,9 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_6_27",
-      "word": "Tom broke his left wrist.",
-      "translation": "Том сломал левое запястье.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_6_28",
       "word": "I thought you'd gone and left me.",
       "translation": "Я думала, что ты ушёл и бросил меня.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_6_29",
-      "word": "Tom came after everybody else had left.",
-      "translation": "Том пришёл, когда все уже ушли.",
       "language": "en"
     },
     {
@@ -2002,27 +1558,9 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_6_33",
-      "word": "Has something happened between you and Tom?",
-      "translation": "Между тобой и Томом что-то произошло?",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_6_34",
       "word": "In front of the university, there are some bookstores.",
       "translation": "Напротив университета есть несколько книжных магазинов.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_6_35",
-      "word": "Tom told me you left.",
-      "translation": "Том сказал мне, что ты ушёл.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_6_36",
-      "word": "Tom got up and left.",
-      "translation": "Том встал и ушёл.",
       "language": "en"
     },
     {
@@ -2074,39 +1612,15 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_6_45",
-      "word": "Tom apparently left early.",
-      "translation": "Том, очевидно, ушёл пораньше.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_6_46",
       "word": "He left immediately.",
       "translation": "Он сразу же уехал.",
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_6_47",
-      "word": "Tom is the boy sitting next to Mary.",
-      "translation": "Том - мальчик, сидящий рядом с Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_6_48",
       "word": "Did you turn off the iron?",
       "translation": "Ты утюг выключил?",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_6_49",
-      "word": "Tom and Mary stood very close to each other.",
-      "translation": "Том и Мэри стояли очень близко друг к другу.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_7_0",
-      "word": "Both Tom and I left Australia in 2013.",
-      "translation": "Мы с Томом оба уехали из Австралии в две тысячи тринадцатом.",
       "language": "en"
     },
     {
@@ -2143,12 +1657,6 @@
       "id": "pb_directionsnavigation_7_6",
       "word": "We've gone too far.",
       "translation": "Мы зашли слишком далеко.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_7_7",
-      "word": "Tom sat in the corner and cried.",
-      "translation": "Том сидел в углу и плакал.",
       "language": "en"
     },
     {
@@ -2194,18 +1702,6 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_7_15",
-      "word": "Tom didn't go far.",
-      "translation": "Том далеко не ушёл.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_7_16",
-      "word": "Tom stood between John and Mary.",
-      "translation": "Том стоял между Джоном и Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_7_17",
       "word": "No one went near him.",
       "translation": "К нему никто не подошёл.",
@@ -2218,12 +1714,6 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_7_19",
-      "word": "Tom left first.",
-      "translation": "Том уехал первым.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_7_20",
       "word": "He got up and left in the middle of the discussion.",
       "translation": "Он встал и вышел в середине обсуждения.",
@@ -2233,12 +1723,6 @@
       "id": "pb_directionsnavigation_7_21",
       "word": "I knocked on the front door, but there was no answer.",
       "translation": "Я постучал в дверь, но никто не отозвался.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_7_22",
-      "word": "I'm sitting next to Tom.",
-      "translation": "Я сижу рядом с Томом.",
       "language": "en"
     },
     {
@@ -2308,39 +1792,9 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_7_34",
-      "word": "Tom and I became close friends.",
-      "translation": "Мы с Томом стали близкими друзьями.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_7_35",
-      "word": "I was very close to Tom.",
-      "translation": "Я был совсем рядом с Томом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_7_36",
-      "word": "Except for Tom, everyone has left.",
-      "translation": "Все, кроме Тома, ушли.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_7_37",
-      "word": "Tom left out no details.",
-      "translation": "Том не упустил никаких подробностей.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_7_38",
       "word": "No one knows how things will turn out.",
       "translation": "Никто не знает, чем всё закончится.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_7_39",
-      "word": "I suspect that Tom has already left for Australia.",
-      "translation": "Подозреваю, Том уже уехал в Австралию.",
       "language": "en"
     },
     {
@@ -2362,27 +1816,9 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_7_43",
-      "word": "Tom is going to try to find out why Mary left.",
-      "translation": "Том попробует выяснить, почему Мэри ушла.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_7_44",
       "word": "You left the fridge open.",
       "translation": "Ты оставил холодильник открытым.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_7_45",
-      "word": "Tom criticized Mary in front of everyone.",
-      "translation": "Том раскритиковал Мэри перед всеми.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_7_46",
-      "word": "Tom is very close.",
-      "translation": "Том очень замкнутый.",
       "language": "en"
     },
     {
@@ -2410,12 +1846,6 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_8_1",
-      "word": "Tom didn't even realize Mary had left.",
-      "translation": "Том даже не понял, что Мэри ушла.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_8_2",
       "word": "They left the problem unsolved.",
       "translation": "Они оставили проблему нерешённой.",
@@ -2434,27 +1864,9 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_8_5",
-      "word": "Tom didn't say when he'd return.",
-      "translation": "Том не сказал, когда вернётся.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_8_6",
       "word": "They are very far away.",
       "translation": "Они очень далеко.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_8_7",
-      "word": "The person standing near the gate is Tom.",
-      "translation": "Человек, стоящий около ворот, - это Том.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_8_8",
-      "word": "Tom doesn't know why Mary left Boston.",
-      "translation": "Том не знает, почему Мэри уехала из Бостона.",
       "language": "en"
     },
     {
@@ -2494,33 +1906,9 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_8_15",
-      "word": "Tom lives not far from me.",
-      "translation": "Том живёт недалеко от меня.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_8_16",
-      "word": "I live near Tom.",
-      "translation": "Я живу рядом с Томом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_8_17",
-      "word": "I wonder if Tom has already left.",
-      "translation": "Интересно, ушёл ли уже Том.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_8_18",
       "word": "If you have something to say, go ahead and say it.",
       "translation": "Если тебе есть что сказать, давай говори.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_8_19",
-      "word": "Tom was signing autographs in front of the theater.",
-      "translation": "Том раздавал автографы перед входом в театр.",
       "language": "en"
     },
     {
@@ -2530,21 +1918,9 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_8_21",
-      "word": "Tom is doing well so far.",
-      "translation": "У Тома пока всё хорошо.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_8_22",
       "word": "Turn the fan on.",
       "translation": "Включите вентилятор.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_8_23",
-      "word": "Did Tom ask for anything in return?",
-      "translation": "Том просил что-то взамен?",
       "language": "en"
     },
     {
@@ -2584,12 +1960,6 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_8_30",
-      "word": "Tom left soon after.",
-      "translation": "Том ушёл вскоре после этого.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_8_31",
       "word": "They heard a noise behind them.",
       "translation": "Они услышали за спиной шум.",
@@ -2602,45 +1972,15 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_8_33",
-      "word": "Tom left immediately.",
-      "translation": "Том сразу ушёл.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_8_34",
       "word": "How far is it from here to there?",
       "translation": "Какое расстояние отсюда дотуда?",
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_8_35",
-      "word": "Tom left three days ago.",
-      "translation": "Том уехал три дня назад.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_8_36",
-      "word": "Tom and Mary were John's close friends.",
-      "translation": "Том и Мэри были близкими друзьями Джона.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_8_37",
-      "word": "Tom grew up near a lake, but he isn't a good swimmer.",
-      "translation": "Том вырос рядом с озером, но плавает он не очень хорошо.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_8_38",
       "word": "It's not too far.",
       "translation": "Это не слишком далеко.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_8_39",
-      "word": "Tom believes in equality between women and men.",
-      "translation": "Том верит в равенство между мужчинами и женщинами.",
       "language": "en"
     },
     {
@@ -2668,12 +2008,6 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_8_44",
-      "word": "I didn't know why Tom left.",
-      "translation": "Я не знал, почему Том ушёл.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_8_45",
       "word": "What's the difference between Cantonese and Mandarin?",
       "translation": "В чём разница между кантонским диалектом и путунхуа?",
@@ -2689,24 +2023,6 @@
       "id": "pb_directionsnavigation_8_47",
       "word": "Do you live close to here?",
       "translation": "Ты тут рядом живёшь?",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_8_48",
-      "word": "Tom packed up his belongings and left.",
-      "translation": "Том собрал свои вещи и ушёл.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_8_49",
-      "word": "Tom snuck up behind Mary.",
-      "translation": "Том незаметно подкрался к Мэри сзади.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_9_0",
-      "word": "Tom stood between Mary and John.",
-      "translation": "Том стоял между Мэри и Джоном.",
       "language": "en"
     },
     {
@@ -2728,21 +2044,9 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_9_4",
-      "word": "Tom sat next to Mary.",
-      "translation": "Том сидел рядом с Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_9_5",
       "word": "Follow behind me.",
       "translation": "Следуйте за мной.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_9_6",
-      "word": "Tom had to turn down the offer.",
-      "translation": "Тому пришлось отклонить предложение.",
       "language": "en"
     },
     {
@@ -2770,18 +2074,6 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_9_11",
-      "word": "Tom left on a bicycle.",
-      "translation": "Том уехал на велосипеде.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_9_12",
-      "word": "Tom sat next to us.",
-      "translation": "Том сидел рядом с нами.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_9_13",
       "word": "Resume reading where you left off.",
       "translation": "Возобновите чтение с того места, где вы остановились.",
@@ -2803,12 +2095,6 @@
       "id": "pb_directionsnavigation_9_16",
       "word": "We're nowhere near ready.",
       "translation": "Мы совсем не готовы.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_9_17",
-      "word": "Tom and Mary have left.",
-      "translation": "Том и Мэри ушли.",
       "language": "en"
     },
     {
@@ -2836,33 +2122,9 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_9_22",
-      "word": "Tom and I used to be close friends.",
-      "translation": "Когда-то мы с Томом были близкими друзьями.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_9_23",
-      "word": "As far as I know, Tom can be trusted.",
-      "translation": "Насколько я знаю, Тому можно доверять.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_9_24",
       "word": "The plane left after a three-hour delay.",
       "translation": "Самолёт вылетел с трехчасовым опозданием.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_9_25",
-      "word": "Tom left without warning.",
-      "translation": "Том уехал без предупреждения.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_9_26",
-      "word": "I was sitting behind Tom.",
-      "translation": "Я сидел за Томом.",
       "language": "en"
     },
     {
@@ -2875,12 +2137,6 @@
       "id": "pb_directionsnavigation_9_28",
       "word": "Don't turn around.",
       "translation": "Не оборачивайся.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_9_29",
-      "word": "Tom and Mary were sitting next to each other on the plane.",
-      "translation": "Том и Мэри сидели на соседних сидениях в самолёте.",
       "language": "en"
     },
     {
@@ -2938,69 +2194,15 @@
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_9_39",
-      "word": "Tom is now behind bars.",
-      "translation": "Том сейчас за решёткой.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_9_40",
-      "word": "Not knowing what to do, Tom left.",
-      "translation": "Не зная, что делать, Том ушёл.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_9_41",
-      "word": "Tom left me alone there.",
-      "translation": "Том оставил меня там одного.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_9_42",
-      "word": "Tom left at 2:30, so he should've arrived in Boston by now.",
-      "translation": "Том выехал в половине третьего, так что сейчас он уже должен быть в Бостоне.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_9_43",
-      "word": "Tom lives near Mary.",
-      "translation": "Том живёт неподалёку от Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_9_44",
       "word": "Can you turn your TV down?",
       "translation": "Можешь сделать телевизор потише?",
       "language": "en"
     },
     {
-      "id": "pb_directionsnavigation_9_45",
-      "word": "I'm behind Tom.",
-      "translation": "Я за Томом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_9_46",
-      "word": "I know Tom has already left Boston.",
-      "translation": "Я знаю, Том уже уехал из Бостона.",
-      "language": "en"
-    },
-    {
       "id": "pb_directionsnavigation_9_47",
       "word": "You'll go far.",
       "translation": "Ты далеко пойдёшь.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_9_48",
-      "word": "Tom apologized and left.",
-      "translation": "Том извинился и ушёл.",
-      "language": "en"
-    },
-    {
-      "id": "pb_directionsnavigation_9_49",
-      "word": "Tom has also left.",
-      "translation": "Том тоже ушёл.",
       "language": "en"
     }
   ]

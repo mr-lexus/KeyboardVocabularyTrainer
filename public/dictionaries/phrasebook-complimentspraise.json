@@ -1,12 +1,270 @@
 {
   "id": "phrasebook-complimentspraise",
   "name": "Compliments & Praise",
-  "description": "Phrasebook for Compliments & Praise",
+  "description": "Комплименты и похвала — искренние фразы для живого общения",
   "entries": [
     {
-      "id": "pb_complimentspraise_0_0",
-      "word": "Tom would make an excellent spy.",
-      "translation": "Из Тома бы вышел отличный шпион.",
+      "id": "pbq_compliments_0",
+      "word": "You look great today!",
+      "translation": "Ты сегодня прекрасно выглядишь!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_1",
+      "word": "I love your dress!",
+      "translation": "Мне очень нравится твоё платье!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_2",
+      "word": "Nice haircut!",
+      "translation": "Классная стрижка!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_3",
+      "word": "Have you been working out?",
+      "translation": "Ты что, ходишь в спортзал?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_4",
+      "word": "You’ve lost weight, haven’t you?",
+      "translation": "Ты похудел, разве нет?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_5",
+      "word": "That color suits you.",
+      "translation": "Этот цвет вам идёт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_6",
+      "word": "This suits you perfectly.",
+      "translation": "Это вам идеально подходит.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_7",
+      "word": "You have excellent taste.",
+      "translation": "У вас отличный вкус.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_8",
+      "word": "Your English is very good!",
+      "translation": "У вас очень хороший английский!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_9",
+      "word": "You speak English fluently.",
+      "translation": "Вы свободно говорите по-английски.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_10",
+      "word": "Wow, impressive!",
+      "translation": "Ух ты, впечатляет!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_11",
+      "word": "That’s amazing!",
+      "translation": "Это потрясающе!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_12",
+      "word": "You did a great job!",
+      "translation": "Ты отлично справился!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_13",
+      "word": "Well done!",
+      "translation": "Молодец! Отлично сделано!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_14",
+      "word": "Keep up the good work!",
+      "translation": "Продолжай в том же духе!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_15",
+      "word": "I’m proud of you.",
+      "translation": "Я тобой горжусь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_16",
+      "word": "You nailed it!",
+      "translation": "Ты сделал это блестяще!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_17",
+      "word": "Brilliant idea!",
+      "translation": "Блестящая идея!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_18",
+      "word": "What a talented person you are!",
+      "translation": "Какой же ты талантливый человек!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_19",
+      "word": "You’re a natural.",
+      "translation": "У тебя врождённый талант.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_20",
+      "word": "You have a gift for this.",
+      "translation": "У тебя талант к этому.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_21",
+      "word": "This is delicious! Did you cook it yourself?",
+      "translation": "Это восхитительно! Вы сами готовили?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_22",
+      "word": "Your cooking is out of this world.",
+      "translation": "Твоя готовка — нечто невероятное.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_23",
+      "word": "The food was superb.",
+      "translation": "Еда была превосходной.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_24",
+      "word": "What a beautiful home!",
+      "translation": "Какой красивый дом!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_25",
+      "word": "You have such a cozy place.",
+      "translation": "У тебя такой уютный дом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_26",
+      "word": "Great photo! Where was it taken?",
+      "translation": "Отличное фото! Где оно сделано?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_27",
+      "word": "Thank you, that’s very kind of you to say.",
+      "translation": "Спасибо, это очень мило с вашей стороны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_28",
+      "word": "Oh, thank you! That means a lot.",
+      "translation": "Ой, спасибо! Это много для меня значит.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_29",
+      "word": "Thanks, you just made my day.",
+      "translation": "Спасибо, ты осчастливил меня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_30",
+      "word": "You’re too kind.",
+      "translation": "Вы слишком добры.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_31",
+      "word": "You flatter me.",
+      "translation": "Вы меня льстите.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_32",
+      "word": "Coming from you, that means a lot.",
+      "translation": "Для вас это особенно приятно слышать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_33",
+      "word": "Likewise!",
+      "translation": "Взаимно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_34",
+      "word": "Right back at you!",
+      "translation": "И вам того же!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_35",
+      "word": "Stop it, you’re making me blush.",
+      "translation": "Хватит, у меня уже румянец.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_36",
+      "word": "You deserve it.",
+      "translation": "Вы это заслужили.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_37",
+      "word": "You’ve earned it.",
+      "translation": "Ты этого добился.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_38",
+      "word": "Hats off to you!",
+      "translation": "Снимаю перед вами шляпу!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_39",
+      "word": "My respect!",
+      "translation": "Моё уважение!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_40",
+      "word": "Outstanding performance!",
+      "translation": "Великолепное выступление!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_41",
+      "word": "What a show!",
+      "translation": "Что за представление!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_42",
+      "word": "Encore! Encore!",
+      "translation": "Браво! Ещё раз!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_compliments_43",
+      "word": "That deserves a round of applause.",
+      "translation": "Это заслуживает аплодисментов.",
       "language": "en"
     },
     {
@@ -34,21 +292,9 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_0_5",
-      "word": "Tom and Mary aren't perfect.",
-      "translation": "Том и Мэри не идеальны.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_0_6",
       "word": "That suit looks great on you.",
       "translation": "Этот костюм отлично на тебе смотрится.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_0_7",
-      "word": "Tom is an excellent musician.",
-      "translation": "Том - превосходный музыкант.",
       "language": "en"
     },
     {
@@ -58,45 +304,15 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_0_9",
-      "word": "Tom is going to be proud of me.",
-      "translation": "Том будет мной гордиться.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_0_10",
-      "word": "Tom is an excellent guitarist.",
-      "translation": "Том — превосходный гитарист.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_0_11",
       "word": "What a great accomplishment!",
       "translation": "Какое большое достижение!",
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_0_12",
-      "word": "I thought Tom was fantastic.",
-      "translation": "Я подумал, что Том невероятен.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_0_13",
       "word": "What are you the most proud of?",
       "translation": "Чем вы больше всего гордитесь?",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_0_14",
-      "word": "I have great respect for Tom.",
-      "translation": "Я испытываю огромное уважение к Тому.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_0_15",
-      "word": "I see great potential in Tom.",
-      "translation": "Я вижу в Томе большой потенциал.",
       "language": "en"
     },
     {
@@ -118,24 +334,6 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_0_19",
-      "word": "Both Tom and Mary are very proud of you.",
-      "translation": "Том и Мэри оба очень тобой гордятся.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_0_20",
-      "word": "Tom speaks excellent French.",
-      "translation": "Том отлично говорит по-французски.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_0_21",
-      "word": "Tom makes an excellent martini.",
-      "translation": "Том делает отличное мартини.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_0_22",
       "word": "Be proud of your accomplishments.",
       "translation": "Гордись своими достижениями.",
@@ -154,21 +352,9 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_0_25",
-      "word": "Tom is a wonderful person, isn't he?",
-      "translation": "Том - замечательный человек, правда?",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_0_26",
       "word": "He ran a great risk in the jungle.",
       "translation": "Он подвергся большому риску в джунглях.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_0_27",
-      "word": "Tom has an excellent memory.",
-      "translation": "У Тома отличная память.",
       "language": "en"
     },
     {
@@ -193,24 +379,6 @@
       "id": "pb_complimentspraise_0_31",
       "word": "There are no perfect people.",
       "translation": "Идеальных людей нет.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_0_32",
-      "word": "Everybody thinks Tom is a genius.",
-      "translation": "Все думают, что Том - гений.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_0_33",
-      "word": "Tom spoke almost perfect French.",
-      "translation": "Том говорил почти на идеальном французском.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_0_34",
-      "word": "Tom reads a great deal.",
-      "translation": "Том много читает.",
       "language": "en"
     },
     {
@@ -250,12 +418,6 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_0_41",
-      "word": "Tom's French is excellent.",
-      "translation": "Французский Тома превосходен.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_0_42",
       "word": "You look fantastic.",
       "translation": "Ты выглядишь фантастически.",
@@ -265,12 +427,6 @@
       "id": "pb_complimentspraise_0_43",
       "word": "You'll be perfect for this.",
       "translation": "Ты бы прекрасно подошёл для этого.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_0_44",
-      "word": "Tom spoke perfect French.",
-      "translation": "Том говорил на идеальном французском.",
       "language": "en"
     },
     {
@@ -298,18 +454,6 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_0_49",
-      "word": "I know that Tom is a genius.",
-      "translation": "Я знаю, что Том - гений.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_1_0",
-      "word": "Don't you see how wonderful Tom is?",
-      "translation": "Разве ты не видишь, какой Том замечательный?",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_1_1",
       "word": "India was governed by Great Britain for many years.",
       "translation": "Много лет Индией управляла Великобритания.",
@@ -334,30 +478,6 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_1_5",
-      "word": "Tom isn't perfect.",
-      "translation": "Том не идеальный.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_1_6",
-      "word": "Tom is no genius.",
-      "translation": "Том не гений.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_1_7",
-      "word": "Tom is proud of his sons.",
-      "translation": "Том гордится своими сыновьями.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_1_8",
-      "word": "Tom was proud.",
-      "translation": "Том был горд.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_1_9",
       "word": "She is proud of her students.",
       "translation": "Она гордится своими студентами.",
@@ -376,33 +496,15 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_1_12",
-      "word": "Tom must be proud of you.",
-      "translation": "Том, должно быть, вами гордится.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_1_13",
       "word": "Frogs are such amazing creatures.",
       "translation": "Лягушки - такие удивительные существа.",
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_1_14",
-      "word": "I'm proud of Tom.",
-      "translation": "Я горжусь Томом.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_1_15",
       "word": "I'm really proud of these kids.",
       "translation": "Я очень горжусь этими детьми.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_1_16",
-      "word": "I was really proud of Tom.",
-      "translation": "Я по-настоящему гордился Томом.",
       "language": "en"
     },
     {
@@ -472,12 +574,6 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_1_28",
-      "word": "Tom was perfect.",
-      "translation": "Том был безупречен.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_1_29",
       "word": "His Japanese is almost perfect.",
       "translation": "Его японский почти идеален.",
@@ -496,39 +592,15 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_1_32",
-      "word": "Tom said he's proud of Mary.",
-      "translation": "Том сказал, что он гордится Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_1_33",
       "word": "You have an excellent memory.",
       "translation": "У тебя отличная память.",
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_1_34",
-      "word": "Aren't you proud of Tom?",
-      "translation": "Ты не гордишься Томом?",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_1_35",
       "word": "They're great kids.",
       "translation": "Они замечательные дети.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_1_36",
-      "word": "We're extremely proud of Tom.",
-      "translation": "Мы очень горды Томом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_1_37",
-      "word": "Great job, Tom.",
-      "translation": "Отличная работа, Том.",
       "language": "en"
     },
     {
@@ -574,21 +646,9 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_1_45",
-      "word": "Tom was as proud as a peacock.",
-      "translation": "Том был горд, как павлин.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_1_46",
       "word": "This is a great theory.",
       "translation": "Это отличная теория.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_1_47",
-      "word": "Tom will be so proud of you.",
-      "translation": "Том будет так тобой гордиться.",
       "language": "en"
     },
     {
@@ -616,12 +676,6 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_2_2",
-      "word": "Tom is an amazing guitarist.",
-      "translation": "Том — изумительный гитарист.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_2_3",
       "word": "Don't miss this amazing opportunity.",
       "translation": "Не упусти эту удивительную возможность.",
@@ -631,12 +685,6 @@
       "id": "pb_complimentspraise_2_4",
       "word": "You're a wonderful guy.",
       "translation": "Ты чудесный парень.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_2_5",
-      "word": "Both Tom and I are very proud of you.",
-      "translation": "Мы с Томом оба тобой очень гордимся.",
       "language": "en"
     },
     {
@@ -658,21 +706,9 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_2_9",
-      "word": "Tom is in excellent health.",
-      "translation": "У Тома прекрасное здоровье.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_2_10",
       "word": "I hope you had a great weekend.",
       "translation": "Надеюсь, ты отлично провёл выходные.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_2_11",
-      "word": "Tom looks fantastic.",
-      "translation": "Том выглядит фантастически.",
       "language": "en"
     },
     {
@@ -718,12 +754,6 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_2_19",
-      "word": "Tom must be very proud.",
-      "translation": "Том, должно быть, очень горд.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_2_20",
       "word": "You should be proud of what you've accomplished.",
       "translation": "Ты должен гордиться тем, чего достиг.",
@@ -736,33 +766,9 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_2_22",
-      "word": "Tom is a perfect stranger to me.",
-      "translation": "Я совершенно не знаю Тома.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_2_23",
-      "word": "Tom thinks I'm missing a great opportunity.",
-      "translation": "Том думает, что я упускаю отличную возможность.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_2_24",
-      "word": "It was great working with Tom.",
-      "translation": "С Томом было здорово работать.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_2_25",
       "word": "It's well done.",
       "translation": "Хорошая работа.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_2_26",
-      "word": "Tom was proud of you.",
-      "translation": "Том гордился тобой.",
       "language": "en"
     },
     {
@@ -772,27 +778,9 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_2_28",
-      "word": "Tom is wonderful.",
-      "translation": "Том замечательный.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_2_29",
       "word": "I'm so proud.",
       "translation": "Я так горд.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_2_30",
-      "word": "Tom's French isn't perfect.",
-      "translation": "Французский Тома не идеален.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_2_31",
-      "word": "Tom is proud of his good grades.",
-      "translation": "Том гордится своими хорошими оценками.",
       "language": "en"
     },
     {
@@ -826,33 +814,15 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_2_37",
-      "word": "Tom said that he felt wonderful.",
-      "translation": "Том сказал, что замечательно себя чувствует.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_2_38",
       "word": "He's proud of his good grades.",
       "translation": "Он гордится своими хорошими оценками.",
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_2_39",
-      "word": "Tom is perfect.",
-      "translation": "Том совершенен.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_2_40",
       "word": "I'm so proud of you.",
       "translation": "Я так горжусь тобой.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_2_41",
-      "word": "Tom is an excellent marksman.",
-      "translation": "Том — отличный стрелок.",
       "language": "en"
     },
     {
@@ -868,12 +838,6 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_2_44",
-      "word": "Tom is an excellent skier.",
-      "translation": "Том — отличный лыжник.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_2_45",
       "word": "Bananas are an excellent source of potassium.",
       "translation": "Бананы — прекрасный источник калия.",
@@ -883,12 +847,6 @@
       "id": "pb_complimentspraise_2_46",
       "word": "A great many people attended his funeral.",
       "translation": "Огромное число людей пришли на его похороны.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_2_47",
-      "word": "Tom is very proud of Mary.",
-      "translation": "Том очень гордится Мэри.",
       "language": "en"
     },
     {
@@ -940,18 +898,6 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_3_6",
-      "word": "Tom was in a great hurry.",
-      "translation": "Том ужасно спешил.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_3_7",
-      "word": "You and Tom would make a perfect couple.",
-      "translation": "Вы с Томом были бы идеальной парой.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_3_8",
       "word": "She's an excellent brain surgeon.",
       "translation": "Она прекрасный нейрохирург.",
@@ -961,12 +907,6 @@
       "id": "pb_complimentspraise_3_9",
       "word": "You're great at this.",
       "translation": "У тебя это отлично получается.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_3_10",
-      "word": "Tom would be so proud of you.",
-      "translation": "Том так бы тобой гордился.",
       "language": "en"
     },
     {
@@ -1000,21 +940,9 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_3_16",
-      "word": "Tom is proud of Mary.",
-      "translation": "Том гордится Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_3_17",
       "word": "You're a real genius.",
       "translation": "Ты настоящий гений.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_3_18",
-      "word": "Tom is making great progress in French.",
-      "translation": "Том делает большие успехи в изучении французского.",
       "language": "en"
     },
     {
@@ -1045,12 +973,6 @@
       "id": "pb_complimentspraise_3_23",
       "word": "Life is not perfect.",
       "translation": "Жизнь не идеальна.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_3_24",
-      "word": "Tom is incredibly brilliant.",
-      "translation": "Том невероятно умён.",
       "language": "en"
     },
     {
@@ -1162,24 +1084,6 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_3_43",
-      "word": "We're proud of Tom.",
-      "translation": "Мы гордимся Томом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_3_44",
-      "word": "Tom is perfect for you.",
-      "translation": "Том идеально тебе подходит.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_3_45",
-      "word": "Tom's grades are excellent.",
-      "translation": "У Тома превосходные оценки.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_3_46",
       "word": "No one is perfect.",
       "translation": "Никто не совершенен.",
@@ -1192,45 +1096,15 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_3_48",
-      "word": "Tom said he felt wonderful.",
-      "translation": "Том сказал, что замечательно себя чувствует.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_3_49",
       "word": "He was destined to become a great musician.",
       "translation": "Ему было суждено стать великим музыкантом.",
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_4_0",
-      "word": "Tom is either an idiot or a genius.",
-      "translation": "Том или идиот, или гений.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_4_1",
       "word": "He reads a great deal.",
       "translation": "Он очень много читает.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_4_2",
-      "word": "I know that Tom isn't a genius.",
-      "translation": "Я знаю, что Том не гений.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_4_3",
-      "word": "Tom is a wonderful dancer.",
-      "translation": "Том — замечательный танцор.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_4_4",
-      "word": "Tom has an excellent reputation.",
-      "translation": "У Тома блестящая репутация.",
       "language": "en"
     },
     {
@@ -1264,24 +1138,6 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_4_10",
-      "word": "Tom would've been very proud of you.",
-      "translation": "Том тобой бы очень гордился.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_4_11",
-      "word": "Tom wanted everything to be perfect.",
-      "translation": "Том хотел, чтобы всё было идеально.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_4_12",
-      "word": "Tom is an amazing man.",
-      "translation": "Том — удивительный человек.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_4_13",
       "word": "That sounds awesome.",
       "translation": "Звучит потрясающе.",
@@ -1306,21 +1162,9 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_4_17",
-      "word": "Everyone thinks that Tom is a genius.",
-      "translation": "Все думают, что Том - гений.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_4_18",
       "word": "He is in great trouble.",
       "translation": "У него большие проблемы.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_4_19",
-      "word": "Tom was very proud.",
-      "translation": "Том был очень горд.",
       "language": "en"
     },
     {
@@ -1366,12 +1210,6 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_4_27",
-      "word": "Tom has excellent reflexes.",
-      "translation": "У Тома отличные рефлексы.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_4_28",
       "word": "It was a great shock to me.",
       "translation": "Это был для меня настоящий шок.",
@@ -1381,18 +1219,6 @@
       "id": "pb_complimentspraise_4_29",
       "word": "I'm really proud of my students.",
       "translation": "Я очень горжусь своими учениками.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_4_30",
-      "word": "Tom was a great guy.",
-      "translation": "Том был отличным парнем.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_4_31",
-      "word": "It's amazing that Tom survived.",
-      "translation": "Поразительно, что Том выжил.",
       "language": "en"
     },
     {
@@ -1420,12 +1246,6 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_4_36",
-      "word": "Tom wasn't perfect.",
-      "translation": "Том не был идеален.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_4_37",
       "word": "He's not perfect.",
       "translation": "Он не безупречен.",
@@ -1435,12 +1255,6 @@
       "id": "pb_complimentspraise_4_38",
       "word": "That was amazing.",
       "translation": "Это было изумительно.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_4_39",
-      "word": "Tom speaks perfect French.",
-      "translation": "Том прекрасно говорит по-французски.",
       "language": "en"
     },
     {
@@ -1600,12 +1414,6 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_5_16",
-      "word": "Everybody thinks that Tom is a genius.",
-      "translation": "Все думают, что Том - гений.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_5_17",
       "word": "I have wonderful memories of Boston.",
       "translation": "У меня чудесные воспоминания о Бостоне.",
@@ -1615,12 +1423,6 @@
       "id": "pb_complimentspraise_5_18",
       "word": "I'm proud of my dad.",
       "translation": "Я горжусь своим отцом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_5_19",
-      "word": "Tom is a great administrator.",
-      "translation": "Том - отличный администратор.",
       "language": "en"
     },
     {
@@ -1636,12 +1438,6 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_5_22",
-      "word": "Tom said I looked fantastic.",
-      "translation": "Том сказал, что я фантастически выгляжу.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_5_23",
       "word": "What a fantastic coincidence!",
       "translation": "Какое фантастическое совпадение!",
@@ -1651,12 +1447,6 @@
       "id": "pb_complimentspraise_5_24",
       "word": "We're both very proud of you.",
       "translation": "Мы оба тобой очень гордимся.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_5_25",
-      "word": "Is Tom a genius?",
-      "translation": "Том гений?",
       "language": "en"
     },
     {
@@ -1714,12 +1504,6 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_5_35",
-      "word": "Tom says that he has the perfect marriage.",
-      "translation": "Том говорит, что у него идеальный брак.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_5_36",
       "word": "It is a great honor to be invited.",
       "translation": "Быть приглашённым для меня большая честь.",
@@ -1744,21 +1528,9 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_5_40",
-      "word": "I was proud of Tom.",
-      "translation": "Я гордился Томом.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_5_41",
       "word": "We're not perfect.",
       "translation": "Мы несовершенны.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_5_42",
-      "word": "I don't consider Tom a great man.",
-      "translation": "Я не считаю Тома великим человеком.",
       "language": "en"
     },
     {
@@ -1771,30 +1543,6 @@
       "id": "pb_complimentspraise_5_44",
       "word": "You smell wonderful.",
       "translation": "Ты чудесно пахнешь.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_5_45",
-      "word": "It was so great to talk to Tom.",
-      "translation": "Было так здорово поговорить с Томом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_5_46",
-      "word": "Tom seems like a great guy.",
-      "translation": "Кажется, Том замечательный парень.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_5_47",
-      "word": "Tom is proud of what he's done.",
-      "translation": "Том гордится тем, что сделал.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_5_48",
-      "word": "I'm really proud of Tom.",
-      "translation": "Я очень горжусь Томом.",
       "language": "en"
     },
     {
@@ -1828,12 +1576,6 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_6_4",
-      "word": "It was great talking to Tom.",
-      "translation": "Здорово было пообщаться с Томом.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_6_5",
       "word": "They make a perfect couple.",
       "translation": "Они идеальная пара.",
@@ -1846,27 +1588,9 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_6_7",
-      "word": "Tom makes great burgers.",
-      "translation": "Том готовит отличные гамбургеры.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_6_8",
       "word": "I know that I'm not perfect.",
       "translation": "Я знаю, что я не идеален.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_6_9",
-      "word": "Tom is really proud of Mary.",
-      "translation": "Том по-настоящему гордится Мэри.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_6_10",
-      "word": "I knew Tom was a genius.",
-      "translation": "Я знал, что Том гений.",
       "language": "en"
     },
     {
@@ -1900,21 +1624,9 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_6_16",
-      "word": "Everyone thinks Tom is a genius.",
-      "translation": "Все думают, что Том - гений.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_6_17",
       "word": "Who among us is perfect?",
       "translation": "Кто из нас совершенен?",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_6_18",
-      "word": "Tom and Mary are perfect for each other.",
-      "translation": "Том и Мэри идеально друг другу подходят.",
       "language": "en"
     },
     {
@@ -1927,12 +1639,6 @@
       "id": "pb_complimentspraise_6_20",
       "word": "Our relations with our director are excellent.",
       "translation": "У нас прекрасные отношения с нашим директором.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_6_21",
-      "word": "Tom was brilliant.",
-      "translation": "Том был великолепен.",
       "language": "en"
     },
     {
@@ -1978,12 +1684,6 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_6_29",
-      "word": "Tom has a wonderful voice.",
-      "translation": "У Тома замечательный голос.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_6_30",
       "word": "It'll be wonderful.",
       "translation": "Это будет замечательно.",
@@ -1999,12 +1699,6 @@
       "id": "pb_complimentspraise_6_32",
       "word": "On the surface, it looks perfect to me.",
       "translation": "На первый взгляд, как по мне, выглядит отлично.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_6_33",
-      "word": "It takes great courage to do what Tom did.",
-      "translation": "На то, что сделал Том, нужно большое мужество.",
       "language": "en"
     },
     {
@@ -2032,12 +1726,6 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_6_38",
-      "word": "Tom is a genius.",
-      "translation": "Том - гений.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_6_39",
       "word": "You've been wonderful.",
       "translation": "Вы были великолепны.",
@@ -2047,12 +1735,6 @@
       "id": "pb_complimentspraise_6_40",
       "word": "Tell her that I am proud of her.",
       "translation": "Скажи ей, что я ей горжусь.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_6_41",
-      "word": "Tom thinks Mary is amazing.",
-      "translation": "Том считает Мэри удивительной.",
       "language": "en"
     },
     {
@@ -2071,18 +1753,6 @@
       "id": "pb_complimentspraise_6_44",
       "word": "It was quite fantastic.",
       "translation": "Было просто великолепно.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_6_45",
-      "word": "Tom described what happened in great detail.",
-      "translation": "Том очень подробно описал произошедшее.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_6_46",
-      "word": "Tom and Mary are a great couple.",
-      "translation": "Том и Мэри — отличная пара.",
       "language": "en"
     },
     {
@@ -2116,12 +1786,6 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_7_2",
-      "word": "Tom speaks excellent French, but his English isn't very good.",
-      "translation": "У Тома превосходный французский, но его английский не так хорош.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_7_3",
       "word": "It isn't something that I'm proud of.",
       "translation": "Это не то, чем я горжусь.",
@@ -2140,21 +1804,9 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_7_6",
-      "word": "I'm proud of you, Tom.",
-      "translation": "Я горжусь тобой, Том.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_7_7",
       "word": "I'm very proud of our students.",
       "translation": "Я очень горжусь нашими студентами.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_7_8",
-      "word": "I want to make Tom proud of me.",
-      "translation": "Я хочу, чтобы Том гордился мной.",
       "language": "en"
     },
     {
@@ -2167,18 +1819,6 @@
       "id": "pb_complimentspraise_7_10",
       "word": "\"Have a great weekend!\" \"Same to you!\"",
       "translation": "\"Отличных выходных!\" - \"Тебе тоже!\"",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_7_11",
-      "word": "Tom is proud of his students.",
-      "translation": "Том гордится своими учениками.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_7_12",
-      "word": "Tom acted like a perfect gentleman.",
-      "translation": "Том вёл себя как идеальный джентльмен.",
       "language": "en"
     },
     {
@@ -2203,12 +1843,6 @@
       "id": "pb_complimentspraise_7_16",
       "word": "That's what I'm so proud of.",
       "translation": "Вот чем я так горжусь.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_7_17",
-      "word": "I'm real proud of Tom.",
-      "translation": "Я очень горжусь Томом.",
       "language": "en"
     },
     {
@@ -2248,12 +1882,6 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_7_24",
-      "word": "Tom's speech was excellent.",
-      "translation": "Речь Тома была превосходна.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_7_25",
       "word": "These flowers smell wonderful.",
       "translation": "Эти цветы пахнут великолепно.",
@@ -2272,24 +1900,6 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_7_28",
-      "word": "Tom was a genius.",
-      "translation": "Том был гением.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_7_29",
-      "word": "Tom is a great guy.",
-      "translation": "Том - отличный парень.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_7_30",
-      "word": "Tom would be proud of you.",
-      "translation": "Том гордился бы вами.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_7_31",
       "word": "I want you to be proud of me.",
       "translation": "Я хочу, чтобы ты мной гордился.",
@@ -2302,21 +1912,9 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_7_33",
-      "word": "Tom is very proud of you.",
-      "translation": "Том тобой очень гордится.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_7_34",
       "word": "You'd make a great psychologist.",
       "translation": "Из тебя бы вышел отличный психолог.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_7_35",
-      "word": "Tom has excellent hearing.",
-      "translation": "У Тома отличный слух.",
       "language": "en"
     },
     {
@@ -2362,33 +1960,9 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_7_43",
-      "word": "We're all very proud of Tom.",
-      "translation": "Мы все очень гордимся Томом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_7_44",
-      "word": "Tom would be very proud of you.",
-      "translation": "Том бы вами очень гордился.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_7_45",
       "word": "Isn't it wonderful?",
       "translation": "Разве не замечательно?",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_7_46",
-      "word": "Tom made a great deal.",
-      "translation": "Том сделал великое дело.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_7_47",
-      "word": "Tom is an excellent dancer.",
-      "translation": "Том - великолепный танцор.",
       "language": "en"
     },
     {
@@ -2434,12 +2008,6 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_8_5",
-      "word": "You must be so proud of Tom.",
-      "translation": "Ты, должно быть, так гордишься Томом.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_8_6",
       "word": "She is great at skiing.",
       "translation": "Она прекрасно ездит на лыжах.",
@@ -2449,12 +2017,6 @@
       "id": "pb_complimentspraise_8_7",
       "word": "Beethoven was a great musician.",
       "translation": "Бетховен был великим музыкантом.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_8_8",
-      "word": "Tom will be very proud of you.",
-      "translation": "Том будет тобой очень гордиться.",
       "language": "en"
     },
     {
@@ -2470,21 +2032,9 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_8_11",
-      "word": "Tom has a brilliant future.",
-      "translation": "У Тома блестящее будущее.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_8_12",
       "word": "The flowers smell wonderful.",
       "translation": "Цветы чудесно пахнут.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_8_13",
-      "word": "Tom is a perfect gentleman.",
-      "translation": "Том - настоящий джентльмен.",
       "language": "en"
     },
     {
@@ -2500,21 +2050,9 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_8_16",
-      "word": "Tell Tom that I'm proud of him.",
-      "translation": "Скажи Тому, что я им горжусь.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_8_17",
       "word": "This is considered to be a matter of great importance.",
       "translation": "Это считается делом огромной важности.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_8_18",
-      "word": "Tom was a perfect gentleman.",
-      "translation": "Том был настоящим джентльменом.",
       "language": "en"
     },
     {
@@ -2536,18 +2074,6 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_8_22",
-      "word": "Tom thinks that I'm missing a great opportunity.",
-      "translation": "Том думает, что я упускаю отличную возможность.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_8_23",
-      "word": "Tom is the perfect man for Mary.",
-      "translation": "Том — идеальный мужчина для Мэри.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_8_24",
       "word": "The circus has a wonderful collection of wild animals.",
       "translation": "В цирке замечательная коллекция диких животных.",
@@ -2566,12 +2092,6 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_8_27",
-      "word": "I'm so proud of Tom.",
-      "translation": "Я так горжусь Томом.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_8_28",
       "word": "That was so amazing.",
       "translation": "Это было так удивительно.",
@@ -2587,12 +2107,6 @@
       "id": "pb_complimentspraise_8_30",
       "word": "She's not perfect.",
       "translation": "Она не идеальна.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_8_31",
-      "word": "I know Tom isn't a genius.",
-      "translation": "Я знаю, что Том не гений.",
       "language": "en"
     },
     {
@@ -2680,18 +2194,6 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_8_46",
-      "word": "Isn't Tom wonderful?",
-      "translation": "Ну разве Том не замечательный?",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_8_47",
-      "word": "Tom, you're a genius.",
-      "translation": "Том, ты гений.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_8_48",
       "word": "Her English is excellent.",
       "translation": "Её английский совершенен.",
@@ -2707,12 +2209,6 @@
       "id": "pb_complimentspraise_9_0",
       "word": "He has aged a great deal lately.",
       "translation": "Он очень постарел за последнее время.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_9_1",
-      "word": "You must be very proud of Tom.",
-      "translation": "Ты, должно быть, очень гордишься Томом.",
       "language": "en"
     },
     {
@@ -2758,12 +2254,6 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_9_9",
-      "word": "Tom is a wonderful young man.",
-      "translation": "Том - чудесный молодой человек.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_9_10",
       "word": "He was perfect.",
       "translation": "Он был безупречен.",
@@ -2788,30 +2278,6 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_9_14",
-      "word": "Tom has a fantastic voice.",
-      "translation": "У Тома фантастический голос.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_9_15",
-      "word": "Tom is a wonderful kid.",
-      "translation": "Том - замечательный ребёнок.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_9_16",
-      "word": "Tom and Mary would make a perfect couple.",
-      "translation": "Из Тома и Мэри вышла бы отличная пара.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_9_17",
-      "word": "Tom is a musical genius.",
-      "translation": "Том - музыкальный гений.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_9_18",
       "word": "Genius is one percent inspiration and ninety-nine percent perspiration.",
       "translation": "Гений — это один процент вдохновения и девяносто девять процентов пота.",
@@ -2830,21 +2296,9 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_9_21",
-      "word": "Tom has great potential.",
-      "translation": "У Тома большой потенциал.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_9_22",
       "word": "I'm not proud of this.",
       "translation": "Я этим не горжусь.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_9_23",
-      "word": "Tom and I are both very proud of you.",
-      "translation": "И я, и Том очень гордимся тобой.",
       "language": "en"
     },
     {
@@ -2890,12 +2344,6 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_9_31",
-      "word": "Tom would be so proud.",
-      "translation": "Том бы так гордился.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_9_32",
       "word": "You have excellent vision. Why are you wearing glasses?",
       "translation": "У Вас отличное зрение. Почему Вы в очках?",
@@ -2920,12 +2368,6 @@
       "language": "en"
     },
     {
-      "id": "pb_complimentspraise_9_36",
-      "word": "Tom is the perfect guy for you.",
-      "translation": "Том — идеальный парень для тебя.",
-      "language": "en"
-    },
-    {
       "id": "pb_complimentspraise_9_37",
       "word": "You've got an excellent memory.",
       "translation": "У тебя отличная память.",
@@ -2935,12 +2377,6 @@
       "id": "pb_complimentspraise_9_38",
       "word": "She was perfect.",
       "translation": "Она была безупречна.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_9_39",
-      "word": "Tom is a great motocross rider.",
-      "translation": "Том - великий мотогонщик.",
       "language": "en"
     },
     {
@@ -2959,12 +2395,6 @@
       "id": "pb_complimentspraise_9_42",
       "word": "I have a wonderful life.",
       "translation": "У меня чудесная жизнь.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_9_43",
-      "word": "I owe Tom a great deal.",
-      "translation": "Я многим обязана Тому.",
       "language": "en"
     },
     {
@@ -2989,12 +2419,6 @@
       "id": "pb_complimentspraise_9_47",
       "word": "It was a perfect plan.",
       "translation": "Это был идеальный план.",
-      "language": "en"
-    },
-    {
-      "id": "pb_complimentspraise_9_48",
-      "word": "Tom is really proud of his kids.",
-      "translation": "Том очень гордится своими детьми.",
       "language": "en"
     },
     {
