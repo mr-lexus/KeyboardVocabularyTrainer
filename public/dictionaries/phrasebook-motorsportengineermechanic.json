@@ -5,115 +5,115 @@
   "entries": [
     {
       "id": "pbq_motorsportengineermechanic_0",
-      "word": "Setup sheet updated every session logged.",
+      "word": "The setup sheet is updated and logged every session.",
       "translation": "Лист настроек обновляется и логируется каждую сессию.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_1",
-      "word": "Baseline setup saved comparison reference point.",
+      "word": "A baseline setup is saved as a comparison reference point.",
       "translation": "Сохранена базовая настройка для сравнения.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_2",
-      "word": "Camber angle negative improves cornering grip.",
+      "word": "Negative camber improves cornering grip.",
       "translation": "Отрицательный развал улучшает сцепление в повороте.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_3",
-      "word": "Camber gain dynamic loading corners calculated.",
+      "word": "Camber gain under dynamic cornering loads is calculated.",
       "translation": "Динамическое изменение развала в поворотах рассчитано.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_4",
-      "word": "Excessive camber overheats inner shoulder.",
+      "word": "Excessive camber overheats the inner shoulder.",
       "translation": "Чрезмерный развал перегревает внутреннюю кромку.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_5",
-      "word": "Caster angle self-centering steering feel.",
+      "word": "Caster angle provides self-centering steering feel.",
       "translation": "Кастер даёт самовозврат руля и его «чувство».",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_6",
-      "word": "Toe settings front toe-out sharpens turn-in.",
+      "word": "Front toe-out settings sharpen turn-in.",
       "translation": "Схождение наружу спереди заостряет реакцию.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_7",
-      "word": "Rear toe-in stabilises under braking phases.",
+      "word": "Rear toe-in stabilises the car under braking.",
       "translation": "Схождение внутрь сзади стабилизирует торможение.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_8",
-      "word": "Bump steer minimised tie rod geometry corrected.",
+      "word": "Bump steer is minimised by correcting tie rod geometry.",
       "translation": "Подруливание устранено коррекцией геометрии рулевых тяг.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_9",
-      "word": "Ackermann geometry inner wheel steers tighter.",
+      "word": "Ackermann geometry makes the inner wheel steer tighter.",
       "translation": "Геометрия Аккермана: внутреннее колесо поворачивает круче.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_10",
-      "word": "Roll centre height migration analysed corners.",
+      "word": "Roll centre height migration is analysed through corners.",
       "translation": "Миграцию центров крена анализируют в поворотах.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_11",
-      "word": "Anti-roll bars adjustable blades cockpit dial.",
+      "word": "Anti-roll bars adjust via blade levers right from the cockpit.",
       "translation": "Стабилизаторы регулируются лопастями прямо из кабины!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_12",
-      "word": "ARB stiffness distribution front rear balance shifts.",
+      "word": "ARB stiffness distribution shifts the front-rear balance.",
       "translation": "Жёсткость антиролл-баров меняет баланс осями.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_13",
-      "word": "Spring rates linear versus progressive chosen application.",
+      "word": "Linear versus progressive spring rates are chosen per application.",
       "translation": "Пружины линейные или прогрессивные — под задачу.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_14",
-      "word": "Motion ratio wheel travel damper stroke ratio computed.",
+      "word": "The motion ratio of wheel travel to damper stroke is computed.",
       "translation": "Передаточное отношение хода колеса к штоку посчитано.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_15",
-      "word": "Ride height rake angle diffuser efficiency linked.",
+      "word": "Ride height and rake angle are linked to diffuser efficiency.",
       "translation": "Клиренс и рэйк напрямую влияют на диффузор.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_16",
-      "word": "Tethered ride height lasers live measurement.",
+      "word": "Tethered ride height lasers give live measurement.",
       "translation": "Клиренс меряется лазерами в реальном времени!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_17",
-      "word": "Third spring element controls heave stiffness separately.",
+      "word": "The third spring element controls heave stiffness separately.",
       "translation": "Третья пружина управляет жёсткостью при клевках отдельно.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_18",
-      "word": "Heave pitch braking acceleration decoupled roll.",
+      "word": "Heave and pitch from braking or acceleration are decoupled from roll.",
       "translation": "Он отделяет клевки от боковых кренов.",
       "language": "en"
     },
@@ -131,2587 +131,2587 @@
     },
     {
       "id": "pbq_motorsportengineermechanic_21",
-      "word": "High-speed low-speed damper adjusters separated circuits.",
+      "word": "High-speed and low-speed damper adjusters sit on separated circuits.",
       "translation": "Быстрые и медленные клики демпферов — отдельные контуры.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_22",
-      "word": "Digressive piston discs flow curves mapped.",
+      "word": "Digressive piston disc flow curves are mapped.",
       "translation": "Характеристики поршней демпферов протарированы.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_23",
-      "word": "Bump stops progressive engagement end travel cushioning.",
+      "word": "Bump stops engage progressively to cushion end of travel.",
       "translation": "Отбойники плавно вступают в конце хода.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_24",
-      "word": "Packers installed heavy kerb strikes protection.",
+      "word": "Packers are installed to protect against heavy kerb strikes.",
       "translation": "Пакеры защищают от жёстких ударов о поребрики.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_25",
-      "word": "Pushrod pullrod suspension layouts packaging driven.",
+      "word": "Pushrod or pullrod suspension layouts are packaging driven.",
       "translation": "Тип подвески push/pull-rod диктует компоновка.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_26",
-      "word": "Kinematics camber curves throughout travel optimised.",
+      "word": "Suspension kinematics optimise camber curves throughout the travel.",
       "translation": "Кинематика: кривые развала оптимизированы по всему ходу.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_27",
-      "word": "Instant centre calculation linkage geometry derived.",
+      "word": "The instant centre is derived from linkage geometry calculations.",
       "translation": "Мгновенный центр вращения выведен из геометрии рычагов.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_28",
-      "word": "Unsprung mass minimised wheel assembly lightweight.",
+      "word": "Unsprung mass is minimised with lightweight wheel assemblies.",
       "translation": "Неподрессоренные массы минимизированы лёгкими колёсными узлами.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_29",
-      "word": "Uprights machined billet titanium exotic spec.",
+      "word": "Uprights machined from billet titanium are exotic spec.",
       "translation": "Кулаки фрезерованы из титана — экзотика!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_30",
-      "word": "Aero map wind tunnel correlation track validated.",
+      "word": "The wind tunnel aero map is validated against the track.",
       "translation": "Аэрокарту трубы сверили с трассой — корреляция подтверждена.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_31",
-      "word": "Downforce drag tradeoff L/D ratio optimised.",
+      "word": "The downforce-drag tradeoff optimises the L/D ratio.",
       "translation": "Оптимизируем отношение прижимной силы к сопротивлению.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_32",
-      "word": "Coefficient lift Cl measured pressure taps distributed.",
+      "word": "The lift coefficient Cl is measured with distributed pressure taps.",
       "translation": "Коэффициент прижимной силы меряют датчиками давления.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_33",
-      "word": "Diffuser ramps expansion controlled flow separation delayed.",
+      "word": "Diffuser ramps control expansion and delay flow separation.",
       "translation": "Рампы диффузора задерживают отрыв потока.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_34",
-      "word": "Vortex generators energise boundary layer attached.",
+      "word": "Vortex generators energise the boundary layer to keep flow attached.",
       "translation": "Вихрегенераторы подпитывают пограничный слой.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_35",
-      "word": "Y250 vortex management crucial downstream surfaces.",
+      "word": "Y250 vortex management is crucial for downstream surfaces.",
       "translation": "Вихрь Y250 критичен для всех поверхностей по потоку.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_36",
-      "word": "Stalled wing sudden downforce loss explained CFD.",
+      "word": "A stalled wing's sudden downforce loss is explained by CFD.",
       "translation": "Срыв крыла и потеря прижимки смоделированы в CFD.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_37",
-      "word": "Dirty air turbulent wake following car loses grip.",
+      "word": "In dirty air, the following car loses grip in the turbulent wake.",
       "translation": "В грязном воздухе прижимка падает.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_38",
-      "word": "Ground effect floor tunnels venturi acceleration.",
+      "word": "Ground effect floor tunnels accelerate flow like a venturi.",
       "translation": "Гранд-эффект: тоннели пола работают как труба Вентури!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_39",
-      "word": "Sealing the floor skid plank wear monitored.",
+      "word": "Floor sealing is monitored through skid plank wear.",
       "translation": "Герметичность пола контролируется износом планки.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_40",
-      "word": "Rear wing DRS flap opens straightline drag reduction.",
+      "word": "Rear wing DRS flaps open on straights to cut drag.",
       "translation": "DRS открывает створку крыла, снижая сопротивление!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_41",
-      "word": "Beam wing lower element diffuser upwash manages.",
+      "word": "The beam wing's lower element manages diffuser upwash.",
       "translation": "Бим-крыло управляет потоками над диффузором.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_42",
-      "word": "Endplate design vortex shedding characteristics tuned.",
+      "word": "Endplate design tunes vortex shedding characteristics.",
       "translation": "Торцевые пластины настроены на нужный сход вихрей.",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_43",
-      "word": "Louvers pressure equalisation slots cooling airflow routed.",
+      "word": "Louvers equalise pressure while routing cooling airflow.",
       "translation": "Жалюзи выравнивают давление и направляют охлаждение!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_44",
-      "word": "Brake ducts aero sensitive regulations restricted shapes.",
+      "word": "Brake ducts are aero sensitive, so regulations restrict their shapes.",
       "translation": "Формы воздуховодов тормозов жёстко регламентированы!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_45",
-      "word": "Cfd iterations thousands compute cluster nights running.",
+      "word": "Thousands of CFD iterations run on compute clusters overnight.",
       "translation": "CFD-итерации гоняются на кластере ночами.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_46",
-      "word": "Correlation issues wind tunnel track discrepancies investigated.",
+      "word": "Correlation issues between wind tunnel and track are investigated constantly.",
       "translation": "Корреляция трубы с трассой — вечная головная боль.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_47",
-      "word": "Tyre compound ranges C0 hardest C8 softest updated.",
+      "word": "The compound range spans from hardest C0 to softest C8.",
       "translation": "Диапазон компаундов: от жёсткого C0 до мягкого C8!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_48",
-      "word": "Operating window temperature grip curve narrow precise.",
+      "word": "The temperature operating window on the grip curve is narrow and precise.",
       "translation": "Температурное окно резины узкое и точное!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_49",
-      "word": "Blanket warmers regulated eighty degrees maximum permitted.",
+      "word": "Blanket warmers are regulated with eighty degrees maximum permitted.",
       "translation": "Прогрев разрешён максимум на восьмидесяти градусах!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_50",
-      "word": "Pressure targets cold set hot achieved predictably.",
+      "word": "Cold pressure targets are set so hot pressures land predictably.",
       "translation": "Холодные давления выставлены так, под прогноз горячих значений.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_51",
-      "word": "Gas expansion heating pressure rise calculated.",
+      "word": "The pressure rise from gas expansion heating is calculated in advance.",
       "translation": "Рост давления от нагрева рассчитан заранее!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_52",
-      "word": "Carcass construction radial belts steel textile layers.",
+      "word": "Carcass construction uses radial belts of steel and textile layers.",
       "translation": "Каркас радиальный: стальные и текстильные слои!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_53",
-      "word": "Contact patch deformation load sensitivity mapped.",
+      "word": "Contact patch deformation and load sensitivity are mapped.",
       "translation": "Деформацию пятна контакта картировали по нагрузкам!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_54",
-      "word": "Slip angle peak grip beyond drops sharply.",
+      "word": "Beyond the peak slip angle, grip drops sharply.",
       "translation": "За пиковым углом скольжения сцепление резко падает!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_55",
-      "word": "Load sensitivity rubber less grip doubling load.",
+      "word": "Rubber is load sensitive: doubling load gives less than double grip.",
       "translation": "Резина капризна: двойная нагрузка не даёт двойного сцепления.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_56",
-      "word": "Thermocouple core temperature infrared surface dual readings.",
+      "word": "Thermocouples read core temperature while infrared reads the surface.",
       "translation": "Температуру меряют термопарой в сердце и ИК по поверхности!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_57",
-      "word": "Camber wear diagnosis inner shoulder graining patterns.",
+      "word": "Camber wear diagnosis reads inner shoulder graining patterns.",
       "translation": "Износ по внутреннему борту — читается по зернистости.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_58",
-      "word": "Blistering internal gas pockets overheating symptom.",
+      "word": "Blistering comes from internal gas pockets — an overheating symptom.",
       "translation": "Блистеринг: пузыри изнутри — признак перегрева!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_59",
-      "word": "Graining surface rolling sliding abrasion temporary layer.",
+      "word": "Graining is a temporary surface layer from rolling and sliding abrasion.",
       "translation": "Грайнинг — абразивный слой от скольжений, временный!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_60",
-      "word": "Flat spotting locked wheels vibration permanent.",
+      "word": "Flat spotting from locked wheels causes permanent vibration.",
       "translation": "Лысина от блокировки — остаётся до замены.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_61",
-      "word": "Degradation modelling stint length predictions refined.",
+      "word": "Degradation modelling refines stint length predictions.",
       "translation": "Модель деградации предсказывает длину стинта.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_62",
-      "word": "Telemetry channels hundreds sampled kilohertz rates.",
+      "word": "Hundreds of telemetry channels sample at kilohertz rates.",
       "translation": "Сотни каналов телеметрии пишутся с килогерцами!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_63",
-      "word": "Throttle brake traces overlay comparison drivers laps.",
+      "word": "Throttle and brake traces overlay for driver-to-lap comparison.",
       "translation": "Графики газа и тормоза накладывают друг на друга.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_64",
-      "word": "Corner apex speed minimum velocity analysis.",
+      "word": "Corner apex speed analysis finds the minimum velocity per turn.",
       "translation": "Анализ минимальной скорости в апексе каждого поворота!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_65",
-      "word": "Sector delta timing differences quantified precisely.",
+      "word": "Sector delta timing differences are quantified precisely.",
       "translation": "Потери по секторам квантифицированы точно!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_66",
-      "word": "Histograms damper travel distributions reviewed setup.",
+      "word": "Damper travel histograms are reviewed against the setup.",
       "translation": "Гистограммы ходов демпферов сверяют с сетапом!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_67",
-      "word": "G-G diagram friction circle utilisation visualised.",
+      "word": "The G-G diagram visualises friction circle utilisation.",
       "translation": "Диаграмма G-G визуализирует круг сцепления!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_68",
-      "word": "Combined loading braking cornering limits envelope edge.",
+      "word": "Combined braking and cornering loading works at the envelope edge.",
       "translation": "Торможение в повороте — работа на границе круга.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_69",
-      "word": "Ride height sensors laser displacement accurate millimeters.",
+      "word": "Laser displacement ride height sensors are accurate to millimeters.",
       "translation": "Лазерные датчики клиренса точны до миллиметра!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_70",
-      "word": "Strain gauges suspension loads measured directly.",
+      "word": "Strain gauges measure suspension loads directly.",
       "translation": "Тензодатчики измеряют нагрузки подвески напрямую!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_71",
-      "word": "Wheel force transducers expensive rare precious data.",
+      "word": "Wheel force transducers are expensive and rare, but the data is precious.",
       "translation": "Датчики сил на колесе дорогостоящи, но данные уникальны.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_72",
-      "word": "Infrared tyre cameras temperature distribution maps live.",
+      "word": "Infrared tyre cameras map temperature distribution live.",
       "translation": "ИК-камеры рисуют карту температур резины вживую!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_73",
-      "word": "Flow-vis paint airstream visualization debugging aero.",
+      "word": "Flow-vis paint visualises the airstream when debugging aero.",
       "translation": "Флоу-виз краской отлаживают аэродинамику!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_74",
-      "word": "Kiel probes rake total pressure measurements arrays.",
+      "word": "Kiel probe rakes measure total pressure in arrays.",
       "translation": "Насадки Киля меряют полное давление массивом!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_75",
-      "word": "Pitot static system airspeed calibration verified.",
+      "word": "The pitot-static system's airspeed calibration is verified.",
       "translation": "Приёмник давления проверяют перед выездом.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_76",
-      "word": "Engine mapping strategies torque delivery profiles selectable.",
+      "word": "Engine mapping strategies offer selectable torque delivery profiles.",
       "translation": "Карты мотора: выбираемые профили отдачи момента!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_77",
-      "word": "Torque requests pedal position mapped calibrated.",
+      "word": "Torque requests are mapped and calibrated to pedal position.",
       "translation": "Запрос момента от педали откалиброван!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_78",
-      "word": "Boost pressure turbocharged engines regulated wastegate.",
+      "word": "Boost pressure on turbocharged engines is regulated by the wastegate.",
       "translation": "Наддув турбо регулируется вейстгейтом!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_79",
-      "word": "MGU-K recovery deployment deployment lap strategy automated.",
+      "word": "MGU-K recovery and deployment follow an automated lap strategy.",
       "translation": "Возврат и deploy MGU-K автоматизированы по стратегии!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_80",
-      "word": "MGU-H turbine harvesting exhaust energy clever loophole.",
+      "word": "The MGU-H harvests exhaust energy from the turbine — a clever loophole.",
       "translation": "MGU-H черпает энергию из турбины — гениальная инженерная лазейка.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_81",
-      "word": "Energy store density lithium cells thermal management critical.",
+      "word": "Energy store density matters, but lithium cell thermal management is critical.",
       "translation": "Плотность батарей важна, но терморежим критичнее!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_82",
-      "word": "Fuel flow meter restrictor maximum kilograms hourly enforced.",
+      "word": "A fuel flow meter enforces the maximum kilograms per hour.",
       "translation": "Расход топлива ограничен килограммами в час жёстко!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_83",
-      "word": "Combustion efficiency detonation margins knock sensors guard.",
+      "word": "Knock sensors guard detonation margins for combustion efficiency.",
       "translation": "Детонационные датчики охраняют запас до детонации!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_84",
-      "word": "Exhaust energy turbine driving compressor shaft coupled.",
+      "word": "The exhaust energy turbine drives the compressor through a coupled shaft.",
       "translation": "Турбина приводит компрессор общим валом!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_85",
-      "word": "Gear ratios homologated season fixed selection eight.",
+      "word": "Gear ratios are homologated for the season with a fixed selection of eight.",
       "translation": "Передаточные числа гомологированы на сезон: восемь пар!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_86",
-      "word": "Dog rings engagement barrels machined tolerances micron.",
+      "word": "Dog rings and engagement barrels are machined to micron tolerances.",
       "translation": "Кулачковые муфты изготовлены с допуском в микроны!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_87",
-      "word": "Shift barrels profiled engagement sequence programmed cuts.",
+      "word": "Shift barrels are profiled with programmed ignition cuts in the sequence.",
       "translation": "Барабан переключений профилирован под отсечки!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_88",
-      "word": "Hydraulic systems high pressure lines braided stainless.",
+      "word": "Hydraulic systems run high-pressure lines in braided stainless.",
       "translation": "Гидравлика: высоконапорные линии в оплётке!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_89",
-      "word": "Leakdown tests performed post-session reliability checks.",
+      "word": "Leakdown tests are performed post-session as reliability checks.",
       "translation": "Тесты на утечки после каждой сессии!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_90",
-      "word": "Wiring loom harnesses custom loomed heat shielded.",
+      "word": "Wiring loom harnesses are custom loomed and heat shielded.",
       "translation": "Жгуты проводки собираются вручную с термозащитой!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_91",
-      "word": "Connector corrosion intermittent faults traced multimeter.",
+      "word": "Intermittent faults get traced to corroded connectors with a multimeter.",
       "translation": "Прерывистые глюки прослежены до окисленного разъёма.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_92",
-      "word": "CAN bus messages priority arbitration network topology.",
+      "word": "CAN bus messages arbitrate priority across the network topology.",
       "translation": "Шина CAN: приоритеты сообщений и топология сети!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_93",
-      "word": "ECU firmware flashed overnight parameter updates applied.",
+      "word": "ECU firmware is flashed overnight with parameter updates applied.",
       "translation": "Прошивку ЭБУ обновили параметрами за ночь!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_94",
-      "word": "Sensor calibration offsets zeroed pre-run procedures.",
+      "word": "Sensor calibration offsets are zeroed in pre-run procedures.",
       "translation": "Калибровочные нули датчиков сброшены перед выездом!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_95",
-      "word": "Redundancy critical systems backup paths engineered.",
+      "word": "Redundancy engineers backup paths for critical systems.",
       "translation": "Критические системы задублированы резервными путями!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_96",
-      "word": "Failure mode analysis FMEA spreadsheets risk ranked.",
+      "word": "FMEA spreadsheets rank failure mode risks.",
       "translation": "FMEA-таблицы ранжируют риски отказов!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_97",
-      "word": "Mean time between failures MTBF tracked components lifecycle.",
+      "word": "MTBF is tracked across each component lifecycle.",
       "translation": "MTBF компонентов отслеживается весь жизненный цикл!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_98",
-      "word": "Preventive maintenance schedules hours mileage based intervals.",
+      "word": "Preventive maintenance schedules use hour and mileage based intervals.",
       "translation": "Регламент ТО по часам и пробегам!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_99",
-      "word": "Crack testing dye penetrant ultrasonic inspections scheduled.",
+      "word": "Crack testing schedules dye penetrant and ultrasonic inspections.",
       "translation": "Дефектоскопию делают пенетрантом и ультразвуком по графику!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_100",
-      "word": "Fatigue life cycles aluminium components tracked replaced.",
+      "word": "Fatigue life cycles of aluminium parts are tracked until replacement.",
       "translation": "Ресурс алюминиевых деталей трекают по циклам.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_101",
-      "word": "Carbon fibre layup prepreg plies orientation specified laminate.",
+      "word": "Carbon fibre layup specifies prepreg plies orientation in the laminate.",
       "translation": "Укладка карбона: препреги, ориентация слоёв по спецификации!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_102",
-      "word": "Autoclave cure vacuum bagged pressure temperature cycles.",
+      "word": "Autoclave curing vacuum bags through pressure and temperature cycles.",
       "translation": "Автоклав: вакуумный мешок, давление, температурные циклы!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_103",
-      "word": "Non-destructive testing NDT ultrasound carbon delamination detection.",
+      "word": "NDT ultrasound detects carbon delamination non-destructively.",
       "translation": "Ультразвук ищет расслоения композита неразрушающе.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_104",
-      "word": "Jig fixtures alignment tolerances build accuracy guaranteed.",
+      "word": "Jig fixtures guarantee build accuracy through alignment tolerances.",
       "translation": "Стапеля гарантируют точность сборки допусками!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_105",
-      "word": "CNC machining five-axis components complex geometries milled.",
+      "word": "Five-axis CNC machining mills components with complex geometries.",
       "translation": "Пятиосевой ЧПУ фрезерует сложнейшие геометрии!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_106",
-      "word": "TIG welding titanium inconel exhaust fabrication artistry.",
+      "word": "TIG welding titanium and Inconel exhausts is fabrication artistry.",
       "translation": "TIG-сварка титана и инконеля — искусство!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_107",
-      "word": "Rapid prototyping printed tooling iteration speed advantage.",
+      "word": "Rapid prototyping with printed tooling speeds up iterations.",
       "translation": "Быстрое прототипирование ускоряет итерации!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_108",
-      "word": "Spares inventory logistics freight flyaway kits packed.",
+      "word": "Spares inventory logistics packs flyaway kits for freight.",
       "translation": "Логистика запчастей: флайэвей-киты собраны!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_109",
-      "word": "Flyaway races equipment containers shipped sea freight early.",
+      "word": "Flyaway race equipment containers ship by sea freight early.",
       "translation": "Оборудование дальних этапов отправляются морем сильно заранее.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_110",
-      "word": "Garage build-up tuesday teardown sunday night turnaround.",
+      "word": "Garage build-up lands Tuesday with teardown Sunday night — a fast turnaround.",
       "translation": "Гараж собирают ко вторнику, разбор в ночь воскресенья!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_111",
-      "word": "Pit gantry telemetry screens engineers headsets comms wired.",
+      "word": "The pit gantry wires telemetry screens and engineers' headset comms.",
       "translation": "Гантри: экраны телеметрии, проводные гарнитуры инженеров!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_112",
-      "word": "Pit wall strategy engineers statisticians weather radar monitoring.",
+      "word": "The pit wall runs strategy engineers, statisticians and weather radar monitoring.",
       "translation": "На стене: стратеги, статистики и радар погоды!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_113",
-      "word": "Monte Carlo simulations outcome probabilities stints modelled.",
+      "word": "Monte Carlo simulations model stint outcome probabilities.",
       "translation": "Монте-Карло моделирует вероятности исходов стинтов!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_114",
-      "word": "Undercut window delta calculated laps fresher tyres advantage.",
+      "word": "The undercut window delta counts laps of fresher-tyre advantage.",
       "translation": "Окно андерката: в долях секунды на круг.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_115",
-      "word": "Tyre deg extrapolation remaining laps confidence interval.",
+      "word": "Tyre deg extrapolation projects remaining laps with a confidence interval.",
       "translation": "Деградация экстраполирована с доверительным интервалом!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_116",
-      "word": "Traffic prediction gaps ahead behind fuel-corrected pace.",
+      "word": "Traffic prediction uses fuel-corrected pace for gaps ahead and behind.",
       "translation": "Прогноз трафика с поправкой на топливо!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_117",
-      "word": "Safety car probability historical likelihood factored decisions.",
+      "word": "Safety car probability factors historical likelihood into decisions.",
       "translation": "Вероятность сейфти учитывается в решениях.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_118",
-      "word": "Weather radar nowcast precipitation arrival sectors minutes.",
+      "word": "Weather radar nowcasts precipitation arrival by sector in minutes.",
       "translation": "Наукаст радара: дождь по секторам в минутах!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_119",
-      "word": "Crosswind gusts impact high-speed stability noted.",
+      "word": "Crosswind gusts impact high-speed stability, so it is noted.",
       "translation": "Порывы бокового ветра влияют на стабильность!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_120",
-      "word": "Track temperature infrared gun readings surface variance shaded.",
+      "word": "Infrared gun readings track surface temperature, though shade skews variance.",
       "translation": "Температуру трассы меряют ИК-пистолетом, тень искажает!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_121",
-      "word": "Wind direction downforce apparent balance shift flagged.",
+      "word": "Wind direction shifts apparent balance, so it gets flagged.",
       "translation": "Смена ветра сдвигает аэробаланс — помечено!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_122",
-      "word": "Parc ferme restrictions setup changes forbidden qualifying onward.",
+      "word": "Parc ferme restrictions forbid setup changes from qualifying onward.",
       "translation": "После квалификации сетап заморожен.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_123",
-      "word": "Open parc ferme wet race conditions exception allowed.",
+      "word": "Open parc ferme allows changes in wet race conditions.",
       "translation": "В мокрой гонке разрешают изменения.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_124",
-      "word": "Brake migration management torque vectoring software compensated.",
+      "word": "Brake migration is compensated by torque vectoring software management.",
       "translation": "Миграцию тормозов компенсирует софт распределением момента!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_125",
-      "word": "Brake by wire systems rear axle blending regen.",
+      "word": "Brake-by-wire systems blend regen on the rear axle.",
       "translation": "Brake-by-wire смешивает рекуперацию с гидравликой на задней оси!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_126",
-      "word": "Differential settings entry mid exit phases adjustable steering wheel.",
+      "word": "Differential settings for entry, mid and exit phases adjust on the steering wheel.",
       "translation": "Настройки дифференциала по фазам — на руле!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_127",
-      "word": "Steering wheel rotary knobs switches menus memorised blind.",
+      "word": "Steering wheel rotary knobs, switches and menus are memorised blind.",
       "translation": "Все крутилки руля наизусть, вслепую!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_128",
-      "word": "Clutch bite point paddle adjusted conditions launch.",
+      "word": "The clutch bite point paddle adjusts to launch conditions.",
       "translation": "Точку схватывания подстраивают под условия старта!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_129",
-      "word": "Torque deploy maps overtaking defensive switching rapid.",
+      "word": "Torque deploy maps switch rapidly between overtaking and defending.",
       "translation": "Карты момента переключаются мгновенно.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_130",
-      "word": "Wheel tethers retention cables regulation mandatory safety.",
+      "word": "Wheel tether retention cables are regulation-mandatory safety items.",
       "translation": "Страховочные тросы колёс обязательны по регламенту!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_131",
-      "word": "Crash structures homologated impact tests certified annually.",
+      "word": "Crash structures are homologated and certified by annual impact tests.",
       "translation": "Краш-структуры сертифицируются краш-тестами ежегодно!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_132",
-      "word": "Survival cell monocoque carbon tub intrusion protected.",
+      "word": "The survival cell monocoque protects against intrusion with its carbon tub.",
       "translation": "Монокок защищает от внедрения — карбоновая ванна!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_133",
-      "word": "Halo device deflection test tyre barrier 125kN.",
+      "word": "The halo device passes a 125kN deflection test against a tyre barrier.",
       "translation": "Halo выдерживает нагрузку — 125 килоньютонов!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_134",
-      "word": "Headrest foam densities custom fitted impressions.",
+      "word": "Headrest foam densities are custom fitted to impressions.",
       "translation": "Поролоны подголовника подобраны под отпечаток головы!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_135",
-      "word": "Seat fitting foam bag moulded body contours exact.",
+      "word": "Seat fitting moulds a foam bag exactly to body contours.",
       "translation": "Кресло формуют мешком с пеной точно по телу!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_136",
-      "word": "Extractability medical crew timed sub-seven seconds target.",
+      "word": "Medical crew extractability targets sub-seven seconds, timed.",
       "translation": "Эвакуация: цель менее семи секунд!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_137",
-      "word": "Fire suppression plumbed nozzles cockpit engine bay fuel cell.",
+      "word": "Plumbed fire suppression nozzles cover cockpit, engine bay and fuel cell.",
       "translation": "Огнетушение распыляет в кокпит, на мотор и бак!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_138",
-      "word": "Fuel cell flexible bladder puncture resistant FIA spec.",
+      "word": "The fuel cell is a puncture-resistant flexible bladder to FIA spec.",
       "translation": "Топливный бак — гибкий пузырь по спецификации FIA!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_139",
-      "word": "Refuelling banned some series refueller rig others permitted.",
+      "word": "Refuelling is banned in some series and permitted with rigs in others.",
       "translation": "Заправка в гонке разрешена не везде.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_140",
-      "word": "Dry break couplings spill-free connection high flow rates.",
+      "word": "Dry-break couplings connect spill-free at high flow rates.",
       "translation": "Dry-break соединения: без пролива, высокий расход!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_141",
-      "word": "Gravity feed versus pressurised refuelling regulations differ.",
+      "word": "Gravity feed versus pressurised refuelling — regulations differ.",
       "translation": "Самотёк против давления — правила различаются!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_142",
-      "word": "Fuel temperature ambient equilibrium cheating scandals history lessons.",
+      "word": "Fuel temperature ambient equilibrium carries history lessons from cheating scandals.",
       "translation": "История с «прохладным» топливом — уроки скандалов!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_143",
-      "word": "Tyre warmer blankets unplugged three hours before stint rules.",
+      "word": "Rules make tyre warmer blankets unplugged three hours before a stint.",
       "translation": "Термочехлы снимают строго за три часа.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_144",
-      "word": "Wheel blanket covers rims brake discs heat retained.",
+      "word": "Wheel blanket covers retain heat in rims and brake discs.",
       "translation": "Чехлы на колёса сохраняют тепло дисков!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_145",
-      "word": "Tire trolley marshalling organised chaos garage rhythm.",
+      "word": "Tire trolley marshalling is organised chaos in garage rhythm.",
       "translation": "Тележки резины: организованный хаос гаражного ритма!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_146",
-      "word": "Scanned barcode compounds allocation tracked strictly.",
+      "word": "Scanned barcodes track compound allocation strictly.",
       "translation": "Каждый комплект сканируется — учёт строгий!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_147",
-      "word": "Set history laps usage logged database queried instantly.",
+      "word": "Set history logs laps used, queryable instantly in the database.",
       "translation": "История комплектов в базе — запрос мгновенный!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_148",
-      "word": "Fresh set scrubbed used options strategic decisions.",
+      "word": "Fresh, scrubbed or used sets are strategic decisions.",
       "translation": "Новый / scrubbed / used — выбор стратегов.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_149",
-      "word": "Qualifying sim runs practice starts repeated until perfect.",
+      "word": "Qualifying sim runs repeat practice starts until perfect.",
       "translation": "Симуляция квалификации и старты — до идеала.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_150",
-      "word": "Mechanic finger tape hands scarred knuckles pride badges.",
+      "word": "Mechanics tape fingers; scarred knuckles become pride badges.",
       "translation": "Пальцы механиков в пластырях — профессиональные медали.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_151",
-      "word": "Toolbox shadows foamed outlines every tool accounted.",
+      "word": "Toolbox shadows and foamed outlines keep every tool accounted.",
       "translation": "Тени инструментов в ящиках: каждый на своём месте!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_152",
-      "word": "FOD foreign object debris sweeps pre-session mandatory walks.",
+      "word": "FOD sweeps mean mandatory pre-session walks for foreign object debris.",
       "translation": "Сбор FOD перед сессией — обязательный обход!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_153",
-      "word": "Fireproof overalls nomex layers rated certifications checked laundry.",
+      "word": "Fireproof Nomex overalls have rated certifications checked at laundry.",
       "translation": "Огнестойкие комбинезоны проверяются при каждой стирке.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_154",
-      "word": "Ear defenders radio clamps mechanics hearing protected decibels.",
+      "word": "Ear defenders with radio clamps protect mechanics' hearing from decibels.",
       "translation": "Наушники с рацией защищают слух от децибел!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_155",
-      "word": "Jack man lightning lifts practice repetitions daily.",
+      "word": "The jack man practises lightning lifts with daily repetitions.",
       "translation": "Джекман тренирует скоростные подъёмы каждый день.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_156",
-      "word": "Front jack lever catch release simultaneous choreography.",
+      "word": "The front jack lever catches and releases in simultaneous choreography.",
       "translation": "Передний домкрат: захват и сброс одним движением!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_157",
-      "word": "Wheel gun torque settings precise over-torque stripped threads disaster.",
+      "word": "Wheel gun torque settings are precise — over-torque strips threads into disaster.",
       "translation": "Момент гайковёрта точен: перетяжка = сорванная резьба!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_158",
-      "word": "Backup gunman ready primary failure drills rehearsed.",
+      "word": "A backup gunman stands ready, with primary-failure drills rehearsed.",
       "translation": "Дублёр гайковёрта готов — дриллы на отказ!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_159",
-      "word": "Human error margin zero aspiration perfection culture instilled.",
+      "word": "A zero human error margin aspiration instils a perfection culture.",
       "translation": "Стремимся к нулю ошибок — культура команды.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_160",
-      "word": "Debrief notes action items owners assigned deadlines.",
+      "word": "Debrief notes assign action item owners and deadlines.",
       "translation": "По дебрифу: пункты, ответственные, дедлайны!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_161",
-      "word": "Kaizen continuous improvement philosophy incremental gains accumulated.",
+      "word": "Kaizen philosophy accumulates incremental gains through continuous improvement.",
       "translation": "Кайдзен: малые улучшения накапливаются в победу!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_162",
-      "word": "Budget cap compliance cost audits forensic accounting era.",
+      "word": "Budget cap compliance brings a forensic accounting era of cost audits.",
       "translation": "Эра бюджетного потолка: форензик-аудит расходов.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_163",
-      "word": "Development tokens restricted upgrades areas limited allocated.",
+      "word": "Development tokens limit how upgrade areas are allocated.",
       "translation": "Жетоны разработки ограничивают направления апгрейдов!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_164",
-      "word": "Homologation deadline freeze dates component designs locked.",
+      "word": "Homologation deadline freezes lock component designs on dates.",
       "translation": "Дедлайн гомологации замораживает конструкции!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_165",
-      "word": "Technical directive clarifications mid-season interpretations shifted.",
+      "word": "Technical directives shift interpretations with mid-season clarifications.",
       "translation": "Технические директивы меняют толкования среди сезона!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_166",
-      "word": "Loophole exploitation ingenuity celebrated closed promptly regulators.",
+      "word": "Loophole exploitation celebrates engineer ingenuity until regulators close it promptly.",
       "translation": "Лазейки славят инженеров, но быстро закрывают.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_167",
-      "word": "Grey areas legality interpretations argued tribunals.",
+      "word": "Grey areas of legality get argued in tribunals.",
       "translation": "Серые зоны легальности спорятся в трибуналах!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_168",
-      "word": "Sporting regulations appendix definitions precise legal language.",
+      "word": "Sporting regulations appendices define terms in precise legal language.",
       "translation": "Спортрегламент: приложения с юридически точными определениями!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_169",
-      "word": "Steward enquiries driver statements evidence video loops submitted.",
+      "word": "Steward enquiries take driver statements and submitted video loop evidence.",
       "translation": "В разбирательства сдают заявления пилотов и видео!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_170",
-      "word": "Right of review petition fourteen days deadline strict.",
+      "word": "The right of review petitions within a strict fourteen-day deadline.",
       "translation": "Право пересмотра — строго за четырнадцать дней!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_171",
-      "word": "Corner weighting scales balanced cross weights calculated.",
+      "word": "Corner weighting balances scales and calculates cross weights.",
       "translation": "Взвешивание по углам: посчитаны диагональные нагрузки (cross weight).",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_172",
-      "word": "Wedge adjustments diagonal percentage tuned handling.",
+      "word": "Wedge adjustments tune handling through diagonal percentage.",
       "translation": "Клин (wedge): настройка диагонали меняет характер!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_173",
-      "word": "Bump steer rig maps toe change through travel.",
+      "word": "The bump steer rig maps toe change through travel.",
       "translation": "Стенд бамштира картирует схождение по ходу подвески!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_174",
-      "word": "K and C test kinematics compliance measured systematically.",
+      "word": "K and C tests measure kinematics and compliance systematically.",
       "translation": "K&C-стенд меряет кинематику и податливости системно!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_175",
-      "word": "Compliance steer bushings deflection unwanted toe introduced.",
+      "word": "Compliance steer from bushing deflection introduces unwanted toe.",
       "translation": "Податливость сайлентблоков вносит паразитное подруливание!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_176",
-      "word": "Anti-dive anti-squat geometries braking acceleration reactions tuned.",
+      "word": "Anti-dive and anti-squat geometries tune braking and acceleration reactions.",
       "translation": "Антиклевок и антисед настроены на реакции торможения/разгона!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_177",
-      "word": "Roll stiffness distribution lateral load transfer split computed.",
+      "word": "Roll stiffness distribution computes the lateral load transfer split.",
       "translation": "Распределение бокового переноса веса посчитано по осям!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_178",
-      "word": "Load transfer tyres sensitivity balance tuning fundamental.",
+      "word": "Load transfer sensitivity is fundamental to balance tuning.",
       "translation": "Перенос веса — фундамент настройки баланса!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_179",
-      "word": "Damper dyno plots force velocity curves verified build specs.",
+      "word": "Damper dyno plots verify force velocity curves against build specs.",
       "translation": "Динамометр демпферов подтвердил кривые сила-скорость!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_180",
-      "word": "Dyno plotting compression rebound sweeps temperatures controlled.",
+      "word": "Dyno plotting sweeps compression and rebound under controlled temperatures.",
       "translation": "Протяжки сжатия/отбоя сняты при контролируемой температуре!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_181",
-      "word": "Gas spring nitrogen pressure preloads shaft top-out.",
+      "word": "Gas spring nitrogen pressure preloads the shaft top-out.",
       "translation": "Газовый упор с азотом предзаряжает шток!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_182",
-      "word": "Potentiometer linear pots ride height logging channels wired.",
+      "word": "Linear potentiometer pots wire ride height logging channels.",
       "translation": "Линейные потенциометры хода подключены в логгер!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_183",
-      "word": "Gurney flap small strip drag penalty downforce gain tradeoff.",
+      "word": "A Gurney flap trades a small drag penalty for downforce gain.",
       "translation": "Гурни-флап: полоска, дающая прижимку ценой сопротивления!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_184",
-      "word": "Dive planes canards front downforce local load added.",
+      "word": "Dive planes and canards add local front downforce load.",
       "translation": "Канарды добавляют локальную прижимную силу спереди!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_185",
-      "word": "Splitter wear plate skid contact managed ride height.",
+      "word": "Splitter wear plates manage skid contact with ride height.",
       "translation": "Сплиттер скользит по земле — следим за клиренсом!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_186",
-      "word": "Under strays vortex control floor edges fences guided.",
+      "word": "Floor edge fences guide strays for vortex control.",
       "translation": "Верт. перегородки пола ведут вихри.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_187",
-      "word": "Radiator core thickness pressure drop cooling tradeoff optimised.",
+      "word": "Radiator core thickness optimises the pressure drop versus cooling tradeoff.",
       "translation": "Толщина радиатора: компромисс охлаждения и потерь!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_188",
-      "word": "Ducting inlet area momentum capture efficiency losses minimised.",
+      "word": "Ducting minimises losses while capturing inlet momentum efficiently.",
       "translation": "Воздухозаборники: захват потока без потерь!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_189",
-      "word": "Heat exchanger effectiveness NTU method sized.",
+      "word": "Heat exchanger effectiveness is sized with the NTU method.",
       "translation": "Теплообменник рассчитан методом NTU!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_190",
-      "word": "Oil cooler thermostatic bypass warmup rapid stabilised.",
+      "word": "Oil cooler thermostatic bypass stabilises after rapid warmup.",
       "translation": "Термостат масляного кулера ускоряет прогрев!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_191",
-      "word": "Carbon-carbon brake discs operating window thousand degrees.",
+      "word": "Carbon-carbon brake discs operate around a thousand degrees.",
       "translation": "Карбон-карбон диски работают около тысячи градусов!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_192",
-      "word": "Pad compound friction coefficient temperature dependent curves.",
+      "word": "Pad compound friction coefficient follows temperature dependent curves.",
       "translation": "Коэффициент трения колодок зависит от температуры кривой!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_193",
-      "word": "Bias bar pedal box mechanical leverage adjusted.",
+      "word": "The bias bar adjusts mechanical leverage in the pedal box.",
       "translation": "Балансир педального узла меняет распределение тормозов!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_194",
-      "word": "Master cylinder bores sizing pedal ratio force multiplication.",
+      "word": "Master cylinder bores size pedal ratio force multiplication.",
       "translation": "Диаметры главных цилиндров и передаточное педали!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_195",
-      "word": "Brake duct scoops directed airflow disc face vanes.",
+      "word": "Brake duct scoops direct airflow onto the disc face with vanes.",
       "translation": "Скобы воздуховодов направляют поток на диск!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_196",
-      "word": "Final drive ratio choice track layout top speed.",
+      "word": "Final drive ratio choice matches track layout and top speed.",
       "translation": "Главная пара выбирается под трассу и максималку!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_197",
-      "word": "Limited slip ramps angles coast power phases differentiated.",
+      "word": "Limited slip ramp angles differentiate coast and power phases.",
       "translation": "Углы рамп LSD различают тягу и выбег!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_198",
-      "word": "Preload clutch pack static locking baseline setting.",
+      "word": "Clutch pack preload sets the static locking baseline.",
       "translation": "Преднатяг пакета — статическая база блокировки!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_199",
-      "word": "Gearbox casing machined from billet magnesium lightweight.",
+      "word": "The gearbox casing is machined from lightweight billet magnesium.",
       "translation": "Картер коробки отфрезерован из магния!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_200",
-      "word": "Synchro rings brass friction cones replaced intervals.",
+      "word": "Brass synchro rings friction cones get replaced at intervals.",
       "translation": "Латунные кольца синхронизаторов меняют по регламенту!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_201",
-      "word": "Driveshafts torsional fatigue cracks dye checked.",
+      "word": "Driveshafts get dye checked for torsional fatigue cracks.",
       "translation": "Полуоси проверяют проникающей краской на усталость!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_202",
-      "word": "CV joints grease packed boots clamped zip ties motorsport spec.",
+      "word": "CV joints pack grease with boots clamped by motorsport spec zip ties.",
       "translation": "ШРУСы набиты смазкой, пыльники стянуты хомутами!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_203",
-      "word": "Data acquisition unit DAQ sampled synchronised GPS time base.",
+      "word": "The data acquisition unit samples synchronised to GPS time base.",
       "translation": "Сборщик данных синхронизирован по времени GPS!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_204",
-      "word": "IMU gyros accelerometers six-axis body motion captured.",
+      "word": "IMU gyros and accelerometers capture six-axis body motion.",
       "translation": "ИМУ: шестикоординатное движение кузова записано!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_205",
-      "word": "Wheel speed sensors ABS traction inputs per corner counted.",
+      "word": "Wheel speed sensors count per corner for ABS and traction inputs.",
       "translation": "Датчики колёс на каждое колесо — для ABS и тяги!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_206",
-      "word": "Strain gauged steering wheel driver torque measured directly.",
+      "word": "A strain gauged steering wheel measures driver torque directly.",
       "translation": "Руль с тензодатчиками меряет усилие рук пилота!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_207",
-      "word": "GPS speed traces compared wheel speed slip ratios derived.",
+      "word": "GPS speed traces compare wheel speed to derive slip ratios.",
       "translation": "Скорости GPS и колёс дают проскальзывание!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_208",
-      "word": "Ride height correlation pitch heave derived accelerometers.",
+      "word": "Ride height correlation derives pitch and heave from accelerometers.",
       "translation": "Клевки выводятся из акселерометров корреляцией!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_209",
-      "word": "Python analysis scripts pandas notebooks lap math automated.",
+      "word": "Python analysis scripts automate lap math in pandas notebooks.",
       "translation": "Анализ на Python: pandas-ноутбуки автоматизируют математику круга!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_210",
-      "word": "Stochastic safety car models probability distributions simulated.",
+      "word": "Stochastic safety car models simulate probability distributions.",
       "translation": "Стохастические модели вероятности сейфти смоделированы!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_211",
-      "word": "Optimisation solver stint lengths tyre compounds global optimum search.",
+      "word": "Optimisation solvers search global optima over stint lengths and compounds.",
       "translation": "Оптимизатор ищет лучший план стинтов и компаундов!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_212",
-      "word": "Live strategy engine recalculated every sector crossing.",
+      "word": "The live strategy engine recalculates every sector crossing.",
       "translation": "Стратегический движок пересчитывается каждый сектор!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_213",
-      "word": "Decision trees contingency branches pre-computed scenarios.",
+      "word": "Decision trees pre-compute contingency branches for scenarios.",
       "translation": "Деревья решений: ветки сценариев посчитаны заранее!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_214",
-      "word": "Tyre thermodynamics viscoelastic hysteresis heat generation modelled.",
+      "word": "Tyre thermodynamics model heat generation from viscoelastic hysteresis.",
       "translation": "Вязкоупругий гистерезис резины генерирует тепло — модель построена!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_215",
-      "word": "Glass transition temperature rubber stiffness regime shifts.",
+      "word": "Glass transition temperature shifts rubber stiffness regimes.",
       "translation": "Стеклование резины меняет её жёсткость!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_216",
-      "word": "Molecular adhesion micro-hysteresis grip mechanisms explained tribology.",
+      "word": "Tribology explains grip through molecular adhesion and micro-hysteresis.",
       "translation": "Трибология объясняет сцепление адгезией и микрогистерезисом!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_217",
-      "word": "Fuel density checked hydrometer volume corrections temperature.",
+      "word": "Fuel density gets checked by hydrometer with temperature volume corrections.",
       "translation": "Плотность топлива меряют ареометром с поправкой на температуру!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_218",
-      "word": "Octane rating knock resistance fuel chemistry fundamentals.",
+      "word": "Octane rating measures knock resistance in fuel chemistry fundamentals.",
       "translation": "Октановое число — стойкость к детонации!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_219",
-      "word": "Distillation curve volatility profile matched engine requirements.",
+      "word": "The distillation curve matches volatility profile to engine requirements.",
       "translation": "Кривая разгонки топлива подобрана под мотор!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_220",
-      "word": "Heat treatment quench temper steel components properties tailored.",
+      "word": "Heat treatment quenches and tempers steel components to tailored properties.",
       "translation": "Закалка и отпуск задают свойства стали!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_221",
-      "word": "Anodising corrosion protection colour coded parts identification.",
+      "word": "Anodising protects against corrosion and colour codes parts identification.",
       "translation": "Анодировка защищает и цветом кодирует детали!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_222",
-      "word": "DLC coating diamond-like carbon friction reduction valvetrain.",
+      "word": "DLC diamond-like carbon coating reduces valvetrain friction.",
       "translation": "DLC-покрытие снижает трение в ГРМ!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_223",
-      "word": "Metrology CMM coordinate measuring machine tolerances verified.",
+      "word": "Metrology CMM verifies tolerances with coordinate measurements.",
       "translation": "КИМ сверяет допуски координатными измерениями!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_224",
-      "word": "GD&T geometric dimensioning tolerancing stack ups analysed.",
+      "word": "GD&T stack ups analyse geometric dimensioning and tolerancing.",
       "translation": "Допуски формы и расположения анализируют размерные цепи!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_225",
-      "word": "CAD assemblies parametric models revisions controlled PLM system.",
+      "word": "CAD assemblies keep parametric models under PLM revision control.",
       "translation": "CAD-сборки параметрические, ревизии под контролем PLM!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_226",
-      "word": "Design office release process sign-offs gated milestones.",
+      "word": "The design office release process gates sign-offs at milestones.",
       "translation": "Выпуск конструкции проходит шлюзы согласований!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_227",
-      "word": "Wind tunnel rolling road belt boundary layer suction simulated.",
+      "word": "Wind tunnel rolling road belts simulate the ground with boundary layer suction.",
       "translation": "В трубе бегущая дорога с отсосом слоя имитирует землю!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_228",
-      "word": "Model scale sixty percent full scale correlation coefficients applied.",
+      "word": "Sixty percent scale models apply full scale correlation coefficients.",
       "translation": "Модель 60% масштаба с коэффициентами корреляции!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_229",
-      "word": "HPC cluster compute hours budget allocated CFD campaigns prioritised.",
+      "word": "HPC compute hour budgets allocate CFD campaigns by priority.",
       "translation": "Часы HPC-кластера распределяют между CFD-кампаниями!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_230",
-      "word": "LES RANS turbulence modelling fidelity versus cost decisions.",
+      "word": "LES versus RANS decides fidelity against cost in turbulence modelling.",
       "translation": "LES против RANS: точность или стоимость расчёта!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_231",
-      "word": "Mesh refinement wake regions adaptive resolution convergence studied.",
+      "word": "Mesh refinement studies convergence with adaptive wake resolution.",
       "translation": "Сетка сгущается в следе — изучена сходимость!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_232",
-      "word": "Driver-in-the-loop simulator correlated vehicle model validated.",
+      "word": "The driver-in-the-loop simulator validates the correlated vehicle model.",
       "translation": "Модель машины валидирована симулятором с человеком в контуре!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_233",
-      "word": "Six-post rig shaker input road profiles replayed frequencies.",
+      "word": "Six-post rigs replay road profile shaker inputs across frequencies.",
       "translation": "Шестиштоковый стенд проигрывает дорожные профили!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_234",
-      "word": "Objective handling metrics yaw rate response gains quantified.",
+      "word": "Objective handling metrics quantify yaw rate response gains.",
       "translation": "Объективные метрики управляемости квантифицированы!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_235",
-      "word": "Steering entropy workload metric driver effort assessed.",
+      "word": "Steering entropy assesses driver effort as a workload metric.",
       "translation": "«Энтропия руля оценивает нагрузку на водителя!»",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_236",
-      "word": "Driver ratings subjective feedback scaled objective correlations sought.",
+      "word": "Driver ratings scale subjective feedback for objective correlations.",
       "translation": "Субъективные оценки пилота коррелируют с объективными данными!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_237",
-      "word": "Feedback translation language precise technical vocabulary essential.",
+      "word": "Feedback translation into precise technical vocabulary is essential.",
       "translation": "Перевод слов пилота в точные термины — мастерство инженера!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_238",
-      "word": "Understeer gradient definition steady-state cornering analysis.",
+      "word": "Understeer gradient definition anchors steady-state cornering analysis.",
       "translation": "Градиент недостаточной поворачиваемости определён формулой!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_239",
-      "word": "Characteristic speed neutral steer point bicycle model theory.",
+      "word": "Characteristic speed comes from neutral steer point bicycle model theory.",
       "translation": "Характеристическая скорость из велосипедной модели!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_240",
-      "word": "Reliability post-mortem root cause five whys methodology applied.",
+      "word": "Reliability post-mortems apply five whys root cause methodology.",
       "translation": "Разбор отказа методом пяти «почему»!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_241",
-      "word": "Fishbone diagram cause categories sorted systematic investigation.",
+      "word": "Fishbone diagrams sort cause categories for systematic investigation.",
       "translation": "Диаграмма Исикавы сортирует причины системно!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_242",
-      "word": "Corrective actions verified effectiveness closure confirmed audits.",
+      "word": "Corrective actions verify effectiveness until audits confirm closure.",
       "translation": "Корректирующие действия закрыты после проверки аудитом!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_243",
-      "word": "Spares logistics lead times suppliers expedited freight critical.",
+      "word": "Spares logistics expedites critical freight on supplier lead times.",
       "translation": "Критичные запчасти летят экспресс-грузом от поставщиков!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_244",
-      "word": "Machine shop lathe milling welding fabrication turnaround overnight.",
+      "word": "The machine shop turns lathe, milling and welding around overnight.",
       "translation": "Цех: токарка, фрезеровка, сварка — работа за ночь!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_245",
-      "word": "Composite repair vacuum bagging patch cure oven scheduled.",
+      "word": "Composite repair schedules patch cure ovens with vacuum bagging.",
       "translation": "Ремонт композита: заплата, вакуум, печь по графику!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_246",
-      "word": "Paint shop livery wraps vinyl versus paint durability debates.",
+      "word": "Paint shop debates vinyl wrap versus paint livery durability.",
       "translation": "Ливрея: виниловая плёнка или краска — вечный спор!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_247",
-      "word": "Decal placement sponsors contractual positions exact millimetres.",
+      "word": "Decal placement hits sponsor contractual positions to exact millimetres.",
       "translation": "Позиции спонсорских наклеек прописаны до миллиметра!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_248",
-      "word": "Weighbridge random selection post-session compliance verified publicly.",
+      "word": "Weighbridge random selection verifies compliance publicly post-session.",
       "translation": "Взвешивание выборочное, публичное, обязательное!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_249",
-      "word": "Fuel sample sealed tamper evident couriered laboratory analysed.",
+      "word": "Sealed fuel samples couriered tamper-evident to the laboratory.",
       "translation": "Проба топлива опечатана и ушла в лабораторию!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_250",
-      "word": "Oil sample spectroanalysis wear metals engine health trended.",
+      "word": "Oil sample spectroanalysis trends wear metals for engine health.",
       "translation": "Спектроанализ масла показывает износ металлов мотора!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_251",
-      "word": "Borescope inspections cylinder walls valve seats documented.",
+      "word": "Borescope inspections document cylinder walls and valve seats.",
       "translation": "Эндоскоп осмотрел цилиндры и клапаны — всё задокументировано!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_252",
-      "word": "Compression leak-down test cylinder sealing percentages recorded.",
+      "word": "Compression leak-down tests record cylinder sealing percentages.",
       "translation": "Тест на утечки зафиксировал герметичность цилиндров!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_253",
-      "word": "Valve clearance shim bucket adjustments micrometer measured.",
+      "word": "Valve clearance shim bucket adjustments measured by micrometer.",
       "translation": "Зазоры клапанов выставляли микрометром под шайбы!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_254",
-      "word": "Camshaft profiles duration lift lobe separation explained.",
+      "word": "Camshaft profiles explained through duration, lift and lobe separation.",
       "translation": "Распредвалы: подъём, фазы, перекрытие — разъяснено!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_255",
-      "word": "Variable valve timing strategies power bands widened modern.",
+      "word": "Modern variable valve timing strategies widen power bands.",
       "translation": "VVT расширяет рабочую полосу современных моторов!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_256",
-      "word": "Throttle bodies individual butterflies synchronised vacuum balanced.",
+      "word": "Individual throttle body butterflies synchronise with vacuum balancing.",
       "translation": "Дроссели синхронизированы балансировкой вакуума!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_257",
-      "word": "Injectors flow matched sets spray patterns bench tested.",
+      "word": "Flow matched injector sets bench test spray patterns.",
       "translation": "Форсанки подобраны по расходу, факел проверен на стенде!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_258",
-      "word": "Ignition coils dwell time spark energy mapped cylinders individually.",
+      "word": "Ignition coils map dwell time and spark energy per cylinder.",
       "translation": "Катушки: время накопления и энергия искры по цилиндрам!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_259",
-      "word": "Knock detection retard maps individual cylinders protected margins.",
+      "word": "Knock detection retard maps protect each cylinder with margins.",
       "translation": "Детонационные карты защищают каждый цилиндр с запасом!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_260",
-      "word": "Coolant de-aeration tank bleeding trapped air purged systematically.",
+      "word": "Coolant de-aeration tanks purge trapped air systematically.",
       "translation": "Систему охлаждения развоздушили полностью!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_261",
-      "word": "Pressure cap ratings boil-over margin headroom calculated.",
+      "word": "Pressure cap ratings calculate boil-over margin headroom.",
       "translation": "Крышка радиатора держит запас до кипения!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_262",
-      "word": "Thermostat opening temperatures graded climate specific rounds.",
+      "word": "Thermostat opening temperatures grade climate specific rounds.",
       "translation": "Термостаты подбирают под климат этапа!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_263",
-      "word": "Intercooler charge cooling density gains measured delta.",
+      "word": "Intercooler charge cooling measures density gains as delta.",
       "translation": "Интеркулер: замерили прирост плотности заряда!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_264",
-      "word": "Water-meth injection charge cooling knock suppression aftermarket.",
+      "word": "Water-meth injection suppresses knock as an aftermarket charge cooler.",
       "translation": "Впрыск водометаноловой смеси гасит детонацию.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_265",
-      "word": "Boost creep wastegate sizing recirculation routing fixed.",
+      "word": "Boost creep got fixed with wastegate sizing and recirculation routing.",
       "translation": "Boost creep вылечили правильным вейстгейтом!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_266",
-      "word": "Blow-off valves compressor surge protection flutter damage prevented.",
+      "word": "Blow-off valves prevent compressor surge flutter damage.",
       "translation": "Блоуофф защищает компрессор от помпажа!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_267",
-      "word": "Exhaust header lengths primary tube tuning scavenging pulses.",
+      "word": "Exhaust header lengths tune scavenging pulses in primary tubes.",
       "translation": "Длины труб выпускного коллектора настраивают продувку!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_268",
-      "word": "Collector merge collector design pulse interaction optimised.",
+      "word": "Merge collector design optimises pulse interaction.",
       "translation": "Коллектор-«улитка» оптимизирует взаимодействие импульсов!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_269",
-      "word": "Backpressure myths torque losses reality nuanced explanation.",
+      "word": "Backpressure myths meet nuanced reality of torque losses.",
       "translation": "Миф о «нужном» подпоре выхлопа опровергнут с нюансами.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_270",
-      "word": "Sound regulations dB meters drive-by noise tested homologation.",
+      "word": "Sound regulations homologate drive-by noise with dB meters.",
       "translation": "Замер шума drive-by — часть гомологации!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_271",
-      "word": "Chamber resonance Helmholtz absorbers drone elimination designed.",
+      "word": "Helmholtz absorber chamber resonance designs eliminate drone.",
       "translation": "Резонаторы Гельмгольца убрали дрон выхлопа!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_272",
-      "word": "Clutch pedal feel hydraulic actuation consistency bled perfect.",
+      "word": "Clutch pedal feel bled perfect with hydraulic actuation consistency.",
       "translation": "Педаль сцепления после прокачки идеальна!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_273",
-      "word": "Twin disc clutch organic versus sintered engagement character.",
+      "word": "Twin disc clutches choose organic versus sintered engagement character.",
       "translation": "Двухдисковое сцепление: органика против спечённого металла!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_274",
-      "word": "Flywheel mass inertia throttle response rotational savings felt.",
+      "word": "Flywheel mass inertia savings felt in throttle response.",
       "translation": "Лёгкий маховик: отклик газа ощутимо живее!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_275",
-      "word": "Starter integration seamless pit stall restarts reliable.",
+      "word": "Starter integration makes pit stall restarts reliable and seamless.",
       "translation": "Стартер надёжен для рестартов в пит-лейне!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_276",
-      "word": "Alternator output electrical loads balancing battery drain monitored.",
+      "word": "Alternator output balances electrical loads while battery drain monitored.",
       "translation": "Баланс генератора и потребителей следят за батареей!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_277",
-      "word": "Wiring diagram colour codes traced continuity harness repairs.",
+      "word": "Wiring diagrams trace continuity through colour coded harness repairs.",
       "translation": "Жгуты ремонтируют по цветовым схемам с прозвонкой!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_278",
-      "word": "Solder joints heat shrink weatherproof connectors motorsport grade.",
+      "word": "Solder joints shrink-wrap weatherproof with motorsport grade connectors.",
       "translation": "Соединения: пайка + термоусадка, разъёмы мотоспорт-класса!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_279",
-      "word": "Relay panels switched circuits fused distribution boards organised.",
+      "word": "Relay panels organise fused distribution boards for switched circuits.",
       "translation": "Релейные панели и предохранители разложены по полочкам!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_280",
-      "word": "Ground straps engine chassis bonding resistance milliohms verified.",
+      "word": "Ground straps verify engine chassis bonding resistance to milliohms.",
       "translation": "Массы проверены до миллиом между мотором и кузовом!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_281",
-      "word": "Electrical noise shielding sensor signals twisted pairs run.",
+      "word": "Electrical noise shielding runs sensor signals in twisted pairs.",
       "translation": "Сигнальные провода — витые пары со экраном!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_282",
-      "word": "Sample rate aliasing Nyquist frequency lessons learned filtering.",
+      "word": "Sample rate aliasing taught Nyquist frequency filtering lessons.",
       "translation": "Алиасинг и Найквист: уроки фильтрации сигналов!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_283",
-      "word": "Low-pass filters analog anti-aliasing stages hardware implemented.",
+      "word": "Analog anti-aliasing low-pass stages implemented in hardware.",
       "translation": "Антиалиасинговые ФНЧ реализованы аппаратно!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_284",
-      "word": "Sensor drift calibration schedules offsets logged trends watched.",
+      "word": "Sensor drift calibration schedules log offsets and watch trends.",
       "translation": "Дрейф датчиков отслеживают графиками калибровок!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_285",
-      "word": "Redundant sensors voting logic disagreement flagged maintenance.",
+      "word": "Redundant sensors vote logic, flagging disagreement for maintenance.",
       "translation": "Дублирующие сенсоры голосуют — расхождения идут в ремонт!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_286",
-      "word": "Fail-safe states defined degraded modes limped safely.",
+      "word": "Fail-safe states define degraded modes that limp safely.",
       "translation": "Отказные режимы позволяют дотянуть до боксов.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_287",
-      "word": "Limp home mode power restricted strategy protected finish.",
+      "word": "Limp home mode restricts power to protect a strategy finish.",
       "translation": "Limp mode: урезанная мощность ради финиша.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_288",
-      "word": "Retirement decision calculus points versus risk engine life assessed.",
+      "word": "Retirement decisions weigh points against risk and engine life.",
       "translation": "Сход или риск: взвешивают очки и ресурс мотора!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_289",
-      "word": "Engine life cycle hours banked penalties grid implications planned.",
+      "word": "Engine life cycle hours banked plan grid penalty implications.",
       "translation": "Ресурс моторов в часах учитывая штрафы на решётке.!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_290",
-      "word": "Pool of engines allocation matrix rounds optimised.",
+      "word": "The engine pool allocation matrix optimises rounds.",
       "translation": "Матрицу распределения моторов по этапам оптимизировали!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_291",
-      "word": "Sealed engines opened only FIA witnessed procedures void otherwise.",
+      "word": "Sealed engines open only under FIA witnessed procedures or void.",
       "translation": "Моторы вскрывают только под наблюдением FIA!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_292",
-      "word": "Telemetric downloads encrypted secure transfer paddock offices.",
+      "word": "Telemetry downloads encrypt secure transfers to paddock offices.",
       "translation": "Выгрузки телеметрии шифруются до офиса в паддоке!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_293",
-      "word": "Confidentiality agreements engineers poaching wars talent market fierce.",
+      "word": "Confidentiality agreements guard engineers in fierce poaching wars.",
       "translation": "NDA инженеров: войны за таланты жестоки!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_294",
-      "word": "Garden path leave clauses gardening leave enforced contracts.",
+      "word": "Garden path leave clauses enforce gardening leave in contracts.",
       "translation": "Gardening leave в контрактах — сиди дома год!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_295",
-      "word": "Knowledge transfer handover documents successors detailed onboarding.",
+      "word": "Knowledge transfer hands successors detailed handover documents.",
       "translation": "Передача знаний преемнику — подробный онбординг!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_296",
-      "word": "Team culture meritocracy ideas hierarchy flat brainstorming sessions.",
+      "word": "Team culture meritocracy flattens hierarchy in brainstorming sessions.",
       "translation": "Меритократия идей: плоская иерархия брейнштормов!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_297",
-      "word": "Blameless culture mistakes learning opportunities framed constructively.",
+      "word": "Blameless culture frames mistakes as learning opportunities.",
       "translation": "Безвинная культура: ошибки как уроки!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_298",
-      "word": "Sleep rotas endurance events engineers rotation shifts managed.",
+      "word": "Sleep rotas manage engineer rotation shifts across endurance events.",
       "translation": "На эндуранс ротации сна инженеров расписаны!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_299",
-      "word": "Caffeine intake monitoring health safety occupational limits respected.",
+      "word": "Caffeine intake monitoring respects occupational health limits.",
       "translation": "За кофеином следят: лимиты здоровья уважают!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_300",
-      "word": "Adrenaline finish line celebrations brief reset Monday morning.",
+      "word": "Adrenaline finish line celebrations stay brief before Monday resets.",
       "translation": "Адреналин финиша короток — утром понедельника всё заново!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_301",
-      "word": "Next project kickoff debrief archive institutional knowledge stored.",
+      "word": "Next project kickoffs archive debriefs as institutional knowledge.",
       "translation": "Архив дебрифов — институциональная память команды!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_302",
-      "word": "Telemetry overlay comparison laps colour coded driver differences visible instantly.",
+      "word": "Telemetry overlay comparisons colour code laps showing driver differences instantly.",
       "translation": "Цветные наложения кругов показывают разницу пилотов мгновенно!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_303",
-      "word": "Brake pressure traces modulation style smooth versus aggressive quantified.",
+      "word": "Brake pressure traces quantify modulation styles smooth versus aggressive.",
       "translation": "Модуляцию тормозов квантифицируют: плавную против агрессивной!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_304",
-      "word": "Throttle application gradients corner exit phases analysed traction correlated.",
+      "word": "Throttle application gradients analyse corner exit phases correlated with traction.",
       "translation": "Профили газа на выходе сверяют с тракцией!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_305",
-      "word": "Steering angle traces counter-steer corrections measured degrees fractions.",
+      "word": "Steering angle traces measure counter-steer corrections to degree fractions.",
       "translation": "Углы контрруления меряют с точностью до долей градуса!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_306",
-      "word": "Gear shift points optimised engine torque band exploitation maximised.",
+      "word": "Gear shift points optimise engine torque band exploitation maximised.",
       "translation": "Точки переключений выжали максимум из полки момента!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_307",
-      "word": "Shift duration milliseconds seamless torque cuts invisible spectators felt drivers.",
+      "word": "Shift durations cut milliseconds seamlessly — invisible to spectators, felt by drivers.",
       "translation": "Переключение за миллисекунды: зрители не видят, пилоты чувствуют!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_308",
-      "word": "Launch strategy wheelspin targets clutch temperature management calibrated conditions.",
+      "word": "Launch strategy calibrates wheelspin targets against clutch temperature conditions.",
       "translation": "Стартовые карты калибруют под температуру сцепления!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_309",
-      "word": "Clutch temp data overheating launches avoided failures prevented proactive.",
+      "word": "Clutch temp data proactively avoids overheated launches preventing failures.",
       "translation": "Данные температуры сцепления предотвращают прогар проактивно!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_310",
-      "word": "Turbo lag minimised anti-lag strategies combustion instability tradeoffs managed.",
+      "word": "Turbo lag minimises through anti-lag strategies managing combustion instability tradeoffs.",
       "translation": "Антилаг убирает турбояму ценой нестабильности горения!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_311",
-      "word": "Wastegate duty cycles boost curves mapped altitude corrected automatically.",
+      "word": "Wastegate duty cycles map boost curves altitude corrected automatically.",
       "translation": "Кривые буста автоматически корректируются по высоте!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_312",
-      "word": "Air-fuel ratios lambda sensors closed loop control narrowband wideband hybrid.",
+      "word": "Lambda sensors close the loop on air-fuel ratios across narrowband wideband hybrids.",
       "translation": "Лямбда-зонды держат смесь в замкнутом контуре!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_313",
-      "word": "Combustion phasing knock window margins safety combustion stability monitored cycles.",
+      "word": "Combustion phasing monitors stability cycle by cycle inside knock window margins.",
       "translation": "Стабильность горения мониторится цикл за циклом!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_314",
-      "word": "Cylinder deactivation strategies fuel economy cruising modes experimental endurance.",
+      "word": "Cylinder deactivation strategies experiment with fuel economy in endurance cruising modes.",
       "translation": "Отключение цилиндров экономит топливо в эндурансе!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_315",
-      "word": "Thermal imaging exhaust headers distribution unevenness header design flaws revealed.",
+      "word": "Thermal imaging revealed header design flaws through uneven exhaust distribution.",
       "translation": "Тепловизор вскрыл неравномерность коллектора!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_316",
-      "word": "Coolant flow simulations cavitation risks water pump speeds analysed.",
+      "word": "Coolant flow simulations analyse cavitation risks across water pump speeds.",
       "translation": "Симуляции потока охлаждения нашли кавитацию помпы!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_317",
-      "word": "Pressure caps boil-over margins elevation adjusted atmospheric corrections.",
+      "word": "Pressure caps adjust boil-over margins with elevation atmospheric corrections.",
       "translation": "Давление крышки радиатора скорректировали под высоту!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_318",
-      "word": "Oil starvation pickup baffling sloshing sustained corners engineered solutions.",
+      "word": "Oil starvation gets engineered away with pickup baffling against sustained corner sloshing.",
       "translation": "Маслозаборник с перегородками не голодает в затяжных поворотах!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_319",
-      "word": "Dry sump scavenging stages multi-stage pumps vertical g-forces handled.",
+      "word": "Dry sump multi-stage scavenging pumps handle vertical g-forces.",
       "translation": "Сухой каркас с многоступенчатой откачкой держит вертикальные перегрузки!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_320",
-      "word": "Accumulator pre-charged air buffer oil pressure dips corner exits.",
+      "word": "Accumulators pre-charge air buffers against oil pressure dips at corner exits.",
       "translation": "Аккумулятор давления страхует провалы масла на выходе!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_321",
-      "word": "Filter magnet plugs ferrous debris inspection intervals shortened wear suspected.",
+      "word": "Magnetic filter plugs shorten inspection intervals when wear is suspected.",
       "translation": "Магнитные пробки сокращают интервалы при подозрении на износ!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_322",
-      "word": "Spectrometric oil analysis scheduled trending wear metals early warnings.",
+      "word": "Spectrometric oil analysis schedules trend wear metals for early warnings.",
       "translation": "Спектрометрия масла предупреждает об износе заранее!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_323",
-      "word": "Filter clogging differential pressures monitored bypass valve opening flagged.",
+      "word": "Filter clogging monitors differential pressures flagging bypass valve opening.",
       "translation": "Забитый фильтр видно по перепаду давления до открытия байпаса!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_324",
-      "word": "Breather systems crankcase vacuum regulation ring seal efficiency optimised.",
+      "word": "Breather systems regulate crankcase vacuum optimising ring seal efficiency.",
       "translation": "Вакуум в картере оптимизирует кольцевое уплотнение!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_325",
-      "word": "Windage losses crankshaft counterweights oil bath drag minimised shaping pans.",
+      "word": "Windage losses minimise shaping pans against crankshaft oil bath drag.",
       "translation": "Форма поддона минимизирует потери маховика о масло!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_326",
-      "word": "Crankcase evacuation vacuum pumps horsepower gains parasitic losses balanced.",
+      "word": "Crankcase evacuation vacuum pumps balance horsepower gains against parasitic losses.",
       "translation": "Вакуумный насос картера балансирует мощность и паразитные потери!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_327",
-      "word": "Harmonic balancer torsional vibration dampener crankshaft resonance protection critical high rpm.",
+      "word": "Harmonic balancers protect crankshaft resonance critically at high rpm.",
       "translation": "Демпфер коленвала защищает от резонанса на высоких оборотах!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_328",
-      "word": "Flywheel lightening rotational inertia reductions throttle response gains stall risk tradeoffs.",
+      "word": "Flywheel lightening trades rotational inertia throttle response gains against stall risk.",
       "translation": "Облегчённый маховик: отклик плюс, риск глохнущего старта минус!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_329",
-      "word": "Balancing rotating assemblies blueprinted engines harmonics smoothed tolerances precision.",
+      "word": "Balancing rotating assemblies smooths blueprinted engine harmonics with precision tolerances.",
       "translation": "Балансировка узлов сглаживает гармонику собранного мотора!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_330",
-      "word": "Blueprinting specifications tighter than production tolerances hand-selected components matched sets.",
+      "word": "Blueprinting matches hand-selected component sets tighter than production tolerances.",
       "translation": "Блюпринтинг: компоненты подобраны точнее заводских допусков!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_331",
-      "word": "Port matching manifold heads airflow continuity transitions smooth turbulence minimised.",
+      "word": "Port matching smooths manifold head transitions minimising turbulence.",
       "translation": "Совмещение каналов впуска и ГБЦ убирает турбулентность!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_332",
-      "word": "Valve seat angles three-angle cuts flow benches validated improvements percentages documented.",
+      "word": "Three-angle valve seat cuts documented flow bench improvement percentages.",
       "translation": "Трёхугольная обработка сёдел подтверждена на проточном стенде цифрами!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_333",
-      "word": "Cam timing degree wheel dialed zero lash precise phase relationships set.",
+      "word": "Cam timing dials degree wheels setting precise phase relationships at zero lash.",
       "translation": "Фазы распредвала выставлены по градусному колесу точно!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_334",
-      "word": "Rocker arm ratios geometry leverage multiplication calculated lift achieved verified dial indicator.",
+      "word": "Rocker arm ratios verify achieved lift with dial indicators.",
       "translation": "Передаточное число рокеров проверено индикатором!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_335",
-      "word": "Spring pressures coil bind margin safety checked installed heights measured.",
+      "word": "Spring pressures check coil bind safety margins measuring installed heights.",
       "translation": "Проверили пружины клапанов: зазор до витков замерен!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_336",
-      "word": "Retainer titanium lightweight reciprocating mass reduced rev ceiling raised safely.",
+      "word": "Titanium retainers reduce reciprocating mass raising rev ceilings safely.",
       "translation": "Титановые тарелки подняли безопасные обороты!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_337",
-      "word": "Valve train harmonics flutter onset rpm limits discovered destructive testing sacrificed.",
+      "word": "Valve train harmonics discovered flutter onset rpm limits through destructive sacrifice testing.",
       "translation": "Флаттер клапанов нашли разрушительными тестами жертвы!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_338",
-      "word": "Head gasket multi-layer steel MLS torque sequences specified stage tightening.",
+      "word": "Head gaskets specify MLS torque sequences in staged tightening.",
       "translation": "MLS-прокладка затягивается ступенчатым моментом по схеме!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_339",
-      "word": "Deck surfaces flatness straightedge feeler gauges verified warping ruled out.",
+      "word": "Deck surface flatness verifies straightedge feeler gauges ruling out warping.",
       "translation": "Плоскость блока повернули линейкой и щупами!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_340",
-      "word": "Thread inserts helicoil stripped holes repaired stronger-than-original fixes common.",
+      "word": "Helicoil thread inserts repair stripped holes stronger than original.",
       "translation": "Helicoil чинит сорванную резьбу прочнее завода!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_341",
-      "word": "Torque-to-yield bolts single use stretch measured replaced mandatory.",
+      "word": "Torque-to-yield bolts are single use with mandatory stretch measured replacement.",
       "translation": "Болты ТТУ одноразовые: вытяжка измерена, замена обязательна!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_342",
-      "word": "Fastener lubrication friction coefficients torque values affected dry oiled spec differences.",
+      "word": "Fastener lubrication changes friction coefficients so dry oiled specs differ.",
       "translation": "Смазка крепежа меняет моменты затяжки — читай спецификацию!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_343",
-      "word": "Wire loom crossings electromagnetic interference twisted shielded routed away ignition.",
+      "word": "Wire loom crossings route twisted shielded pairs away from ignition interference.",
       "translation": "Жгуты дальше зажигания: витые пары против наводок!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_344",
-      "word": "Ground loops hum elimination star grounding topology implemented electrical noise silenced.",
+      "word": "Star grounding topology eliminated hum silencing electrical noise loops.",
       "translation": "Звезда заземления убрала фон электросети!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_345",
-      "word": "CAN termination resistors bus stability reflections eliminated message integrity preserved.",
+      "word": "CAN termination resistors stabilised the bus preserving message integrity.",
       "translation": "Терминаторы CAN стабилизировали шину и целостность сообщений!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_346",
-      "word": "Firmware rollback procedures bricked units recovered bootloader rescue modes.",
+      "word": "Firmware rollback procedures recover bricked units through bootloader rescue modes.",
       "translation": "Окирпиченные блоки спасли через режим бутлоадера!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_347",
-      "word": "Version control changelogs parameter diffs audited regression hunting systematic.",
+      "word": "Version control changelogs audit parameter diffs hunting regressions systematically.",
       "translation": "Версионирование параметров помогает ловить регрессии системно!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_348",
-      "word": "Simulator correlation rigs actuator fidelity motion cueing tuning subjective objectivity blended.",
+      "word": "Simulator correlation rigs blend subjective motion cueing tuning with objectivity.",
       "translation": "Настройка моушн-куинга: субъективные ощущения плюс объективность!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_349",
-      "word": "Seven-post rig aerodynamic load simulation pitch heave frequency response mapped.",
+      "word": "Seven-post rigs map pitch heave frequency response simulating aerodynamic loads.",
       "translation": "Семиштоковый стенд имитирует аэродинамику частотным откликом!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_350",
-      "word": "Tyre model fitting Pacejka magic formula coefficients curve fitted measured data.",
+      "word": "Tyre model fitting curve fits Pacejka magic formula coefficients to measured data.",
       "translation": "Коэффициенты «магической формулы» Пачейки сняли с данных!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_351",
-      "word": "Slip curve validation flat plank testers controlled surface speeds.",
+      "word": "Slip curve validation runs flat plank testers at controlled surface speeds.",
       "translation": "Кривые скольжения валидировали плоскими стендами!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_352",
-      "word": "Thermal model tyre heat cycles compound behaviour predicted lap one accuracy improved.",
+      "word": "Thermal models predict tyre compound behaviour improving lap one accuracy.",
       "translation": "Термомодель предсказывает поведение резины уже на первом круге!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_353",
-      "word": "Pressure build prediction ambient track temperature inputs confidence growing iterations.",
+      "word": "Pressure build predictions grow confidence iterating ambient track temperature inputs.",
       "translation": "Прогноз роста давления уточнялся с каждой итерацией!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_354",
-      "word": "Machine learning pattern recognition setup optimisation datasets mined insights emerging.",
+      "word": "Machine learning mines setup optimisation datasets for emerging insights.",
       "translation": "Машинное обучение майнит инсайты из датасетов сетапов!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_355",
-      "word": "Neural networks suspension tuning suggestions generated human engineers validated sceptically.",
+      "word": "Neural networks generate suspension suggestions human engineers validate sceptically.",
       "translation": "Нейросети советуют настройки — инженеры проверяют скептично!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_356",
-      "word": "Digital twins virtual cars physical fleet mirrored telemetry fed continuously.",
+      "word": "Digital twins mirror physical fleets fed continuously by telemetry.",
       "translation": "Цифровые двойники машин питаются телеметрией непрерывно!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_357",
-      "word": "Predictive maintenance algorithms failure forecasting parts replaced preemptively downtime minimised.",
+      "word": "Predictive maintenance algorithms forecast failures replacing parts preemptively.",
       "translation": "Предиктивное обслуживание меняет детали до отказа!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_358",
-      "word": "Supply chain JIT just-in-time delivery risks buffers stock levels balanced costs.",
+      "word": "JIT supply chains balance delivery risks against buffer stock costs.",
       "translation": "JIT-поставки балансируют риски и складские затраты!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_359",
-      "word": "Custom fabrication lead times carbon parts cure cycles schedule constraints planned around.",
+      "word": "Custom fabrication plans around carbon cure cycle schedule constraints.",
       "translation": "График ремонта карбона строится вокруг циклов автоклава!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_360",
-      "word": "Quality assurance sign-offs traceability serial numbers every component logged lifetime.",
+      "word": "Quality assurance sign-offs log every component serial number lifetime traceability.",
       "translation": "Каждая деталь прослеживается по серийнику всю жизнь!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_361",
-      "word": "Recall campaigns fault clusters identified fleet-wide notifications rectifications scheduled prioritised safety.",
+      "word": "Recall campaigns prioritise fleet safety scheduling rectifications after fault clusters identified.",
       "translation": "Отзывные кампании приоритизируют безопасность парка машин!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_362",
-      "word": "Knowledge base wiki internal engineering tribal wisdom documented turnover-proof.",
+      "word": "Internal engineering wikis document tribal wisdom turnover-proof.",
       "translation": "Внутренняя вики сохраняет племенную мудрость инженеров!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_363",
-      "word": "Apprenticeship programmes junior wrenchers mentored hands-on skills passed generations craft preserved.",
+      "word": "Apprenticeship programmes mentor junior wrenchers passing craft generations hands-on.",
       "translation": "Подмастерья перенимают ремесло у мастеров — ремесло живёт!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_364",
-      "word": "Tool investments quality spanners torque instruments calibration certificates current budgets justified reliability.",
+      "word": "Quality tool investments justify budgets through calibration certified reliability.",
       "translation": "Хороший инструмент с сертификатами оправдан надёжностью!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_365",
-      "word": "Workshop organisation shadow boards cleanliness 5S methodologies adopted Japanese efficiency imported.",
+      "word": "Workshop organisation adopts Japanese 5S shadow board efficiency.",
       "translation": "5S из Японии: чистота и порядок цеха!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_366",
-      "word": "Ergonomics workstation heights repetitive strain injuries prevention posture awareness long nights.",
+      "word": "Workstation ergonomics prevents repetitive strain injuries through posture awareness.",
       "translation": "Эргономика рабочих мест бережёт спины в долгие ночи!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_367",
-      "word": "Night shift circadian lighting brightness tuned alertness maintained health considered.",
+      "word": "Night shift circadian lighting tunes brightness maintaining alertness considerately.",
       "translation": "Циркадный свет ночным сменам держит бодрость бережно!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_368",
-      "word": "Catering late crews nutrition fuelled mistakes fatigue errors minimised fed well.",
+      "word": "Late crew catering fuels well minimising fatigue mistakes.",
       "translation": "Сытые ночные смены ошибаются реже — кормите людей!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_369",
-      "word": "Psychological safety speaking up concerns hierarchy flattened junior voices heard valuable catches.",
+      "word": "Psychological safety flattens hierarchy so junior voices catch valuable issues.",
       "translation": "Джун может остановить выпуск — его голос слышат!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_370",
-      "word": "Aero rakes sensor arrays flow field mapping sessions dedicated.",
+      "word": "Aero rakes map flow fields in dedicated sensor array sessions.",
       "translation": "Аэро-грабли картографируют потоки в специальных сессиях!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_371",
-      "word": "Pressure tap tubing routed hundreds channels scanner banks multiplexed.",
+      "word": "Pressure tap tubing routes hundreds of channels into multiplexed scanner banks.",
       "translation": "Сотни трубок датчиков давления идут в мультиплексоры!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_372",
-      "word": "Bib nose assemblies quick change aero configurations swapped between runs.",
+      "word": "Bib nose assemblies swap quick change aero configurations between runs.",
       "translation": "Носовые секции меняют между заездами ради конфигураций!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_373",
-      "word": "Ride height plates reference plane datum measurements consistency checked.",
+      "word": "Ride height plates check reference plane datum measurement consistency.",
       "translation": "Опорную плоскость клиренса сверяют каждый раз!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_374",
-      "word": "Starter trolley cart batteries charged jump ready grid.",
+      "word": "Starter trolley cart batteries charge jump ready for the grid.",
       "translation": "Пусковая тележка заряжена для старта с поля!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_375",
-      "word": "Fuel cell bladder inspection internal baffles integrity certified periodic.",
+      "word": "Fuel cell bladder inspections certify internal baffle integrity periodically.",
       "translation": "Бак с перегородками сертифицируют периодически!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_376",
-      "word": "Fire bottle pressure gauges weight checks serviced annually certified tags.",
+      "word": "Fire bottle pressure gauges get annual weight checks with certified tags.",
       "translation": "Огнетушители обслуживают и вешают бирки ежегодно!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_377",
-      "word": "Helmet FIA 8860 standard latest homologation sticker verified scrutineering.",
+      "word": "Helmet FIA 8860 homologation stickers verify at scrutineering.",
       "translation": "Шлем последнего стандарта FIA проверяют на техконтроле!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_378",
-      "word": "Hans anchors tethers shoulder harness routing angles measured spec.",
+      "word": "HANS anchors measure shoulder harness routing angles to spec.",
       "translation": "Углы крепления Ханса вымерены по спецификации!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_379",
-      "word": "Roll hoop padding impact foam densities compressible limits replaced compressed.",
+      "word": "Roll hoop padding replaces compressed impact foam beyond limits.",
       "translation": "Смятые подушки каркаса заменяют на новые!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_380",
-      "word": "Mirror glass convex wide angle positioning blind spots eliminated adjustments.",
+      "word": "Convex wide angle mirror glass eliminates blind spots through adjustments.",
       "translation": "Выпуклые зеркала убирают слепые точки регулировками!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_381",
-      "word": "Rain light LED rear fog intensity regulations visibility tested.",
+      "word": "Rain light LED rear fog intensity tests against visibility regulations.",
       "translation": "Дождевой фонарь проверяют на соответствие видимости!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_382",
-      "word": "Wheel tethers tensile tested cables frayed replaced preventive.",
+      "word": "Wheel tethers tensile test cables replacing frayed ones preventively.",
       "translation": "Изношенные тросы колёс меняют превентивно!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_383",
-      "word": "Upright crack detection magnaflux penetrant inspections suspension pick-ups critical.",
+      "word": "Upright crack detection magnafluxes critical suspension pick-ups with penetrant inspections.",
       "translation": "Критичные узлы подвески проверяют магнитопорошковым методом!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_384",
-      "word": "Pushrod lengths adjustable turnbuckles locknuts secured alignment set.",
+      "word": "Pushrod lengths adjust turnbuckles with locknuts secured and alignment set.",
       "translation": "Штоки регулируются стяжками, контрги зафиксированы!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_385",
-      "word": "Caster shim stacks geometry altered trial error documented iterations logged.",
+      "word": "Caster shim stacks document trial error iterations in logged geometry changes.",
       "translation": "Прокладки кастера: итерации задокументированы!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_386",
-      "word": "Steering rack ratio quickened turns lock-to-lock reduced feedback tradeoff noted.",
+      "word": "Steering rack quickening reduces turns lock-to-lock trading away feedback.",
       "translation": "Быстрый рулевой редуктор: меньше оборотов, меньше обратной связи!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_387",
-      "word": "Power steering pump pressure relief valve settings driver feel tuned.",
+      "word": "Power steering pump relief valves tune driver feel settings.",
       "translation": "Клапан ГУР настраивают под «чувство» пилота!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_388",
-      "word": "Electric power steering maps variable assistance speed sensitive programmed.",
+      "word": "Electric power steering maps program speed sensitive variable assistance.",
       "translation": "EPS-карты меняют помощь от скорости программно!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_389",
-      "word": "Brake disc thickness micrometer measured minimum wear limits enforced strictly.",
+      "word": "Brake disc thickness micrometer measurements enforce minimum wear limits strictly.",
       "translation": "Толщину диска меряют микрометром — лимит строго!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_390",
-      "word": "Pad wear indicators acoustic sensors wireless telemetry alerts pit wall.",
+      "word": "Pad wear indicator acoustic sensors send wireless telemetry alerts to the pit wall.",
       "translation": "Беспроводные датчики колодок сигналят на стену!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_391",
-      "word": "Fluid lines AN fittings sizes dash numbers confusion avoided charts referenced.",
+      "word": "AN fitting dash number charts avoid fluid line size confusion.",
       "translation": "Таблицы размеров AN-фитингов спасают от путаницы!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_392",
-      "word": "Line bending tools kinks avoided flow restrictions prevented smooth radii.",
+      "word": "Line bending tools prevent kinks keeping smooth radii for flow.",
       "translation": "Трубки гнут с плавными радиусами без заломов!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_393",
-      "word": "Flaring tools double flare single bubble types brake fuel specific.",
+      "word": "Flaring tools choose double or bubble types specific to brake fuel lines.",
       "translation": "Разновидности развальцовок: двойная для тормозов, пузырьковая для топлива!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_394",
-      "word": "Leak down spray soapy water bubbles bubbles bubbles hunt.",
+      "word": "Leak down hunts bubbles with soapy water spray.",
       "translation": "Мыльная пена выдаёт утечки пузырями!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_395",
-      "word": "Vacuum leaks smoke machines diagnostics intake tract post-throttle hunting idle.",
+      "word": "Vacuum leak smoke machines diagnose intake tracts hunting post-throttle idle issues.",
       "translation": "Дым-машина ищет подсос воздуха за дросселем!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_396",
-      "word": "Compression test gauge readings cylinder variance percentages logged trended.",
+      "word": "Compression test gauges log cylinder variance percentages as trends.",
       "translation": "Компрессию логируют, разброс по цилиндрам трендят!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_397",
-      "word": "Leak-down tester percentage loss cylinder diagnosis valves rings head gasket differentiated.",
+      "word": "Leak-down testers differentiate valve ring head gasket losses by cylinder percentage.",
       "translation": "Тест на утечки различает клапаны, кольца и прокладку!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_398",
-      "word": "Camshaft lobe wear profile gauge comparisons new specs deviations flagged.",
+      "word": "Camshaft lobe wear flags deviations against new spec profile gauges.",
       "translation": "Износ кулачков сравнивают с эталонным профилем!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_399",
-      "word": "Valve guide wear stem play dial indicator wobble measured replaced exceeded.",
+      "word": "Valve guide wear measures stem play wobble by dial indicator replacing exceeded ones.",
       "translation": "Люфт стеммов клапанов замеряли — превышение, замена!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_400",
-      "word": "Seat recession depth measurement valve closing geometry altered heads machined resurfaced.",
+      "word": "Seat recession depth alters valve closing geometry until heads machine resurfaced.",
       "translation": "Просадку сёдел фрезеруют обратно в геометрию!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_401",
-      "word": "Head resurfacing mill cuts thousandths precise surface finish RA specified gasket seal.",
+      "word": "Head resurfacing mill cuts thousandths specifying surface finish RA for gasket seal.",
       "translation": "Фрезеровка головы выдерживает шероховатость под прокладку!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_402",
-      "word": "Block deck decking squaring bore honing torque plate simulation distortion prevention.",
+      "word": "Block decking squares bores honing under torque plate simulation preventing distortion.",
       "translation": "Гильзовка и хонинг под пластиной имитируют сборку!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_403",
-      "word": "Piston-to-wall clearance feeler gauges measured expansion rates alloy specific calculated.",
+      "word": "Piston-to-wall clearance calculates alloy specific expansion rates measured by feeler gauges.",
       "translation": "Зазор поршень-стенка считают по расширению сплава!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_404",
-      "word": "Ring end gap file fitted positions staggered orientation blow-by minimised assembly.",
+      "word": "Ring end gaps file fit staggered orientations minimising blow-by on assembly.",
       "translation": "Замки колец разведены по кругу — минимум прорыва газов!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_405",
-      "word": "Wrist pin fit circlip orientation gaps positioned away cutouts practice.",
+      "word": "Wrist pin circlips position gaps away from cutouts by practice.",
       "translation": "Стопорные кольца ставят замками от выборок!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_406",
-      "word": "Rod bolt stretch gauge measured yield limits fasteners discarded singles reuse never.",
+      "word": "Rod bolt stretch gauges discard yielded fasteners — singles never reused.",
       "translation": "Болты шатунов одноразовые: вытяжку меряем, повторно не ставим!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_407",
-      "word": "Big end bore ovality measurement crank journal polishing microfinishing surfaces restored.",
+      "word": "Big end bore ovality restores crank journals through microfinishing polish.",
       "translation": "Овальность постели правится полировкой шеек!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_408",
-      "word": "Crank grinding undersize bearings oversize matched sets machined emergency saves races.",
+      "word": "Crank grinding machines undersize bearings matched oversize sets saving race weekends.",
       "translation": "Шейки шлифуют в ремонтный размер — спасает гоночный уик-энд!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_409",
-      "word": "Balancing machine bobweights pistons rods matched grams fractions precision obsessive.",
+      "word": "Balancing machines match pistons rods bobweights obsessively to gram fractions.",
       "translation": "Балансировочный станок сводит узлы с точностью до долей грамма!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_410",
-      "word": "Zero balancing rotating assembly harmonics cancellation counterweighted shafts smoothness high rpm reward.",
+      "word": "Zero balancing counterweights cancel harmonics rewarding smoothness at high rpm.",
       "translation": "Противовесы гасят гармонику — плавность на высоких оборотах!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_411",
-      "word": "Oil pan capacity extended sumps pickup relocated cornering starvation solved engineering.",
+      "word": "Extended sump oil pans relocate pickups engineering away cornering starvation.",
       "translation": "Углублённый поддон с переносом заборника решил голодание в поворотах!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_412",
-      "word": "Accusump pre-oiler turbos bearing protection startup shutdown sequences ritual.",
+      "word": "Accusump pre-oilers protect turbo bearings through startup shutdown rituals.",
       "translation": "Аккумулятор масла защищает турбину при старте и остановке!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_413",
-      "word": "Turbo timer cooldown cycles bearing coking prevention longevity practice disciplined drivers.",
+      "word": "Turbo timer cooldown cycles prevent bearing coking for disciplined drivers.",
       "translation": "Дисциплинированные водители гоняют турботаймер против закоксовки!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_414",
-      "word": "Boost controller manual MBC ball spring versus electronic solenoid duty cycle precision.",
+      "word": "Boost controllers compare manual ball spring against electronic solenoid duty cycle precision.",
       "translation": "Механический и электронный буст-контроллер: точность соленоида!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_415",
-      "word": "Dyno jet inertia versus load-bearing dynos numbers differ calibration wars forums.",
+      "word": "Inertia versus load-bearing dynos spark calibration wars over differing numbers.",
       "translation": "Споры инерционных и нагрузочных дино-стендов не утихают!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_416",
-      "word": "Correction factors SAE DIN weather standardised comparison fair numbers published.",
+      "word": "SAE DIN correction factors standardise weather for fair published comparisons.",
       "translation": "Поправки SAE/DIN делают цифры сравнимыми честно!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_417",
-      "word": "Dyno queen garage queen cars trailered shows polished never driven tongue-in-cheek culture.",
+      "word": "Dyno queen garage queens trailer to shows polished never driven in tongue-in-cheek culture.",
       "translation": "«Гаражные королевы» — блестящие, но не езженные (шутка культуры)!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_418",
-      "word": "Trickle chargers long-term storage battery maintainers winterized fleets prepared springs.",
+      "word": "Trickle chargers maintain batteries winterizing fleets ready for spring.",
       "translation": "Трикл-чейджеры готовят зимующие машины к весне!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_419",
-      "word": "Fuel stabilisers storage tanks condensation prevention gumming carb jets avoided seasons.",
+      "word": "Fuel stabilisers prevent tank condensation avoiding gummed carb jets across seasons.",
       "translation": "Стабилизатор топлива спасает жиклёры от загустения зимой!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_420",
-      "word": "Fogging oil cylinders internal coating storage corrosion prevention rituals classic collections.",
+      "word": "Fogging oil coats cylinders internally as classic collection storage corrosion rituals.",
       "translation": "Консервация цилиндров маслом — ритуал классических коллекций!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_421",
-      "word": "Battery disconnect switches parasitic drain eliminated storage periods fire safety garages insurance required.",
+      "word": "Battery disconnect switches eliminate parasitic drain as garage insurance requires.",
       "translation": "Отключатели массы обязательны по требованиям страховки!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_422",
-      "word": "Tyre cradles flat spotting prevention storage stacks rotated periodically shapes preserved.",
+      "word": "Tyre cradles prevent flat spotting rotating storage stacks periodically preserving shapes.",
       "translation": "Кронштейны под шины сохраняют их форму на хранении!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_423",
-      "word": "Car covers breathing fabric moisture trapped mildew prevention cotton vs synthetics debates.",
+      "word": "Breathable car covers debate cotton versus synthetics against trapped moisture mildew.",
       "translation": "Дышащие чехлы против плесени: хлопок или синтетика — спорят!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_424",
-      "word": "Detailing clay bar contaminants paint decontamination ceramic coatings hydrophobic applied professional.",
+      "word": "Detailing clay bars decontaminate paint before professional hydrophobic ceramic coatings apply.",
       "translation": "Глина для деталей и керамика — профессиональный уход!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_425",
-      "word": "Paint correction polishing compounds swirl removal machine polisher skills developed patient.",
+      "word": "Paint correction polishing compounds develop patient machine polisher swirl removal skills.",
       "translation": "Полировка убирает голограммы — навык нарабатывается терпением!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_426",
-      "word": "Paint depth gauge readings clear coat margins resprays history revealed buyers informed.",
+      "word": "Paint depth gauge readings reveal respray histories informing buyers of clear coat margins.",
       "translation": "Толщиномер краски раскрывает историю перекрасов покупателю!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_427",
-      "word": "VIN chassis number matching originality verification collectors values determined authenticity paramount.",
+      "word": "VIN chassis number matching determines collector values where authenticity is paramount.",
       "translation": "Совпадение VIN определяет ценность коллекционной машины!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_428",
-      "word": "Heritage certificates manufacturers archives build sheets documented provenance authenticated valued premiums.",
+      "word": "Heritage certificates authenticate provenance through manufacturer archive build sheets earning premiums.",
       "translation": "Архивные build sheets подтверждают происхождение и цену!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_429",
-      "word": "Corner weights adjusted scales balanced diagonals verified twice.",
+      "word": "Corner weights adjusted balancing scales verifying diagonals twice.",
       "translation": "Весовые диагонали выверены на весах дважды!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_430",
-      "word": "Setup changes logged app revision history compared sessions.",
+      "word": "Setup changes log app revision history compared across sessions.",
       "translation": "Изменения сетапа логируются приложением между сессиями!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_431",
-      "word": "Wheel alignment laser gauges toe camber measured garage.",
+      "word": "Wheel alignment laser gauges measure toe camber in the garage.",
       "translation": "Развал-сходимость в гараже меряют лазером!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_432",
-      "word": "Damper dyno graphs force velocity curves matched spec sheets.",
+      "word": "Damper dyno graphs match force velocity curves against spec sheets.",
       "translation": "Кривые демпферов сверены со спецификацией!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_433",
-      "word": "Spring compressors safe handling procedures goggles gloves mandated.",
+      "word": "Spring compressors mandate goggles gloves safe handling procedures.",
       "translation": "Пружины сжимают только в очках и перчатках!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_434",
-      "word": "Brake fluid DOT rating boiling points wet dry explained.",
+      "word": "Brake fluid DOT ratings explain wet dry boiling points.",
       "translation": "Классы тормозной жидкости: точки кипения сухая/влажная!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_435",
-      "word": "Brake lines braided stainless firm pedal feel upgraded.",
+      "word": "Braided stainless brake lines upgraded firm pedal feel.",
       "translation": "Армированные линии дали твёрдую педаль!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_436",
-      "word": "Caliper piston seals rebuild kits service intervals logged.",
+      "word": "Caliper piston seal rebuild kits log service intervals.",
       "translation": "Ремкомплекты суппортов меняют по интервалам!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_437",
-      "word": "Rotor runout dial indicator measured warp limits respected.",
+      "word": "Rotor runout dial indicators measure respecting warp limits.",
       "translation": "Биение диска меряют индикатором — лимиты соблюдены!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_438",
-      "word": "Hub faces cleaned corrosion debris torqued specs achieved.",
+      "word": "Hub faces cleaned of corrosion debris achieved torque specs.",
       "translation": "Ступицы очищены, моменты затяжки достигнуты!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_439",
-      "word": "Wheel bearing preload adjusted play eliminated lifespan extended.",
+      "word": "Wheel bearing preload adjustments eliminated play extending lifespan.",
       "translation": "Преднатяг ступичных подшипников убрал люфт — ресурс выше!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_440",
-      "word": "Ball joints grease nipples serviced squeaks eliminated proactively.",
+      "word": "Ball joint grease nipples serviced proactively eliminating squeaks.",
       "translation": "Шаровые опоры смазаны — скрипы устранены заранее!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_441",
-      "word": "Tie rod ends replaced alignment performed immediately after.",
+      "word": "Tie rod ends replaced followed immediately by alignment.",
       "translation": "После замены рулевых наконечников — сразу сход-развал!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_442",
-      "word": "Bushings polyurethane versus rubber stiffness longevity tradeoffs discussed.",
+      "word": "Polyurethane versus rubber bushings discussed stiffness longevity tradeoffs.",
       "translation": "Полиуретан против резины: жёсткость против ресурса!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_443",
-      "word": "Subframe bolts torque sequence chassis alignment preserved.",
+      "word": "Subframe bolt torque sequences preserved chassis alignment.",
       "translation": "Моменты подтяжки подрамника сохранили геометрию!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_444",
-      "word": "Exhaust manifold gaskets blown symptoms hissing power loss.",
+      "word": "Blown exhaust manifold gaskets hiss symptoms losing power.",
       "translation": "Прогар прокладки коллектора: шипение и потеря тяги!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_445",
-      "word": "Lambda sensor response time sluggish replacement restored economy.",
+      "word": "Sluggish lambda sensor response time restored economy on replacement.",
       "translation": "Вялый лямбда-зонд поменяли — расход вернулся в норму!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_446",
-      "word": "Catalytic converter backpressure tested restriction diagnosed power recovered.",
+      "word": "Catalytic converter backpressure tests diagnosed restriction recovering power.",
       "translation": "Забитый катализатор диагностировали — мощность вернулась!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_447",
-      "word": "Fuel pump flow rate tested delivery pressure specifications verified.",
+      "word": "Fuel pump flow rate tests verified delivery pressure specifications.",
       "translation": "Производительность бензонасоса проверена по давлению!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_448",
-      "word": "Injector cleaning ultrasonic bath spray patterns restored even.",
+      "word": "Ultrasonic injector cleaning baths restored even spray patterns.",
       "translation": "Форсунки отмыли ультразвуком — факел стал ровным!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_449",
-      "word": "Throttle body cleaned idle air control relearn procedure.",
+      "word": "Throttle body cleaned then relearned idle air control procedure.",
       "translation": "Дроссель почистили, адаптацию холостого хода выполнили!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_450",
-      "word": "Air filter restriction indicator inspected replaced dusty rounds.",
+      "word": "Air filter restriction indicators inspected replaced after dusty rounds.",
       "translation": "Индикатор забитости воздушного фильтра сменили после пыльных этапов!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_451",
-      "word": "PCV valve function tested crankcase ventilation verified.",
+      "word": "PCV valve function tested verifying crankcase ventilation.",
       "translation": "Клапан PCV проверили — вентиляция картера работает!",
       "language": "en"
     },
@@ -2723,139 +2723,139 @@
     },
     {
       "id": "pbq_motorsportengineermechanic_453",
-      "word": "Ignition coil pack misfire diagnosis swap test confirmed.",
+      "word": "Ignition coil pack misfire diagnosis confirmed through swap testing.",
       "translation": "Пропуски зажигания нашли перестановкой катушки!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_454",
-      "word": "Timing chain tensioner rattle startup cold replaced preventive.",
+      "word": "Cold startup timing chain tensioner rattle replaced preventively.",
       "translation": "Грохот натяжителя цепи на холодную — заменили превентивно!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_455",
-      "word": "Cam phaser solenoid oil sludge contamination cleaned screens.",
+      "word": "Cam phaser solenoid oil sludge contamination cleaned its screens.",
       "translation": "Соленоид фазовращателя прочистили от отложений!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_456",
-      "word": "Oil passages flushed sludge buildup prevention maintenance neglected history.",
+      "word": "Oil passages flushed preventing sludge buildup from neglected maintenance history.",
       "translation": "Масляные каналы промыли — история запущенного ТО!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_457",
-      "word": "Gasket surfaces scraped sealant residue removed acetone wiped.",
+      "word": "Gasket surfaces scraped removing sealant residue wiped with acetone.",
       "translation": "Старый герметик соскоблили, обезжирили ацетоном!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_458",
-      "word": "Fastener torque wrench calibrated annual certification sticker current.",
+      "word": "Torque wrenches carry current annual calibration certification stickers.",
       "translation": "Динамометрический ключ откалиброван — бирка свежая!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_459",
-      "word": "Thread locker medium strength applied vibration prone fasteners.",
+      "word": "Medium strength thread locker applied to vibration prone fasteners.",
       "translation": "Фиксатор резьбы средней силы на вибронагруженных соединениях!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_460",
-      "word": "Circlip pliers bent tips awkward access angles mastered.",
+      "word": "Bent tip circlip pliers mastered awkward access angles.",
       "translation": "Изогнутые пассатижи для стопорных колец освоены!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_461",
-      "word": "Bearing press adapters sized correctly housings undamaged installed.",
+      "word": "Bearing press adapters sized correctly installed housings undamaged.",
       "translation": "Подшипники запрессовали правильными оправками без повреждений!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_462",
-      "word": "Shim stock assorted thicknesses gaps measured selection precise.",
+      "word": "Assorted shim stock thicknesses select precise measured gaps.",
       "translation": "Набор регулировочных пластин подбирает точные зазоры!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_463",
-      "word": "Feeler gauge blade sets valve clearances verified cold engine.",
+      "word": "Feeler gauge blade sets verify valve clearances on cold engines.",
       "translation": "Щупы проверяют клапанные зазоры на холодном моторе!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_464",
-      "word": "Micrometer outside diameter journals measured thousandths recorded.",
+      "word": "Outside micrometers measure journal diameters recording thousandths.",
       "translation": "Шейки замерены микрометром до тысячных долей!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_465",
-      "word": "Bore gauge telescoping cylinders ovality taper detected honing required.",
+      "word": "Telescoping bore gauges detect cylinder ovality taper requiring honing.",
       "translation": "Нутромер нашёл овальность цилиндров — нужен хонинг!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_466",
-      "word": "Plastigauge crushed bearing clearance measured reading card compared.",
+      "word": "Crushed Plastigauge measures bearing clearance comparing reading cards.",
       "translation": "Пластилиновый замер дал зазор вкладышей по шкале!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_467",
-      "word": "Assembly lube cam lobes lifters initial start protection coated.",
+      "word": "Assembly lube coats cam lobes lifters protecting initial starts.",
       "translation": "Смазка сборки защищает распредвал при первом пуске!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_468",
-      "word": "Priming oil system pre-start drill rotated pressure verified.",
+      "word": "Pre-start priming drills rotate the oil system verifying pressure.",
       "translation": "Масло прокачали до старта — давление подтверждено!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_469",
-      "word": "Break-in procedure varied throttle first heat cycle documented.",
+      "word": "Break-in procedures document varied throttle first heat cycles.",
       "translation": "Обкатка: переменный газ первый прогрев — всё записано!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_470",
-      "word": "Fluids topped coolant brake clutch power steering reservoirs levels marked.",
+      "word": "Fluids topped marking coolant brake clutch steering reservoir levels.",
       "translation": "Все жидкости долиты до меток бачков!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_471",
-      "word": "Vacuum hoses routed away exhaust heat zip tied loomed.",
+      "word": "Vacuum hoses routed away exhaust heat zip tied into looms.",
       "translation": "Вакуумные трубки увёл от выхлопа и уложил!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_472",
-      "word": "Heat sleeve shielding fuel lines proximity hot parts separated.",
+      "word": "Heat sleeve shielding separates fuel lines from hot parts proximity.",
       "translation": "Топливные линии термочехлом отделены от горячих частей!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_473",
-      "word": "Clutch slave cylinder bled firm pedal engagement point consistent.",
+      "word": "Clutch slave cylinder bled firm giving consistent engagement points.",
       "translation": "Рабочий цилиндр сцепления прокачан — педаль стабильна!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_474",
-      "word": "Flywheel resurfaced step height specification within tolerances confirmed.",
+      "word": "Flywheel resurfaced confirming step height within specification tolerances.",
       "translation": "Маховик проточен — высота ступеньки в допуске!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_475",
-      "word": "Pilot bearing bushing removed puller slide hammer technique mastered.",
+      "word": "Pilot bearing bushings removed mastering puller slide hammer technique.",
       "translation": "Выжимной подшипник выпрессован съёмщиком — техника освоена!",
       "language": "en"
     },
@@ -2867,37 +2867,37 @@
     },
     {
       "id": "pbq_motorsportengineermechanic_477",
-      "word": "Gear oil GL rated viscosity specified synthetic changed intervals.",
+      "word": "GL rated synthetic gear oil changes follow specified viscosity intervals.",
       "translation": "Трансмиссионное масло GL синтетика меняют по регламенту!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_478",
-      "word": "Differential preload shim stacks adjusted turning force measured.",
+      "word": "Differential preload shim stacks adjusted measuring turning force.",
       "translation": "Преднатяг дифференциала настроен, момент вращения замерен!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_479",
-      "word": "Axle stubs splined insertion greased circlips seated audibly clicked.",
+      "word": "Splined axle stubs inserted greased seating circlips audibly clicking.",
       "translation": "Полуоси вставлены со смазкой, стопоры щёлкнули!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_480",
-      "word": "Lug nut torque star pattern rechecked fifty miles rule.",
+      "word": "Lug nut torque star pattern rechecked by the fifty miles rule.",
       "translation": "Момент колёс перепроверяют через пятьдесят миль!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_481",
-      "word": "Alignment thrust angle rear axle referenced centring steering wheel.",
+      "word": "Alignment thrust angles reference rear axles centring steering wheels.",
       "translation": "Углы задней оси выставлены — руль встал ровно!",
       "language": "en"
     },
     {
       "id": "pbq_motorsportengineermechanic_482",
-      "word": "Test drive shakedown listen feel diagnose post-repair validation.",
+      "word": "Test drive shakedowns listen feel diagnose validating post-repair work.",
       "translation": "Тест-драйв после ремонта: слушай, чувствуй, проверяй!",
       "language": "en"
     }
