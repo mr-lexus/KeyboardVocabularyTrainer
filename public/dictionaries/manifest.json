@@ -421,7 +421,7 @@
       "name": "Shopping & Money",
       "description": "Покупки: вопросы к продавцу, оплата, возврат, торг на рынке",
       "file": "dictionaries/phrasebook-shoppingmoney.json",
-      "wordCount": 420,
+      "wordCount": 500,
       "emoji": "🛍️"
     },
     {
@@ -429,7 +429,7 @@
       "name": "Emergency & Health",
       "description": "Экстренные ситуации: вызов помощи, пожар, полиция, аптечка",
       "file": "dictionaries/phrasebook-emergencyhealth.json",
-      "wordCount": 351,
+      "wordCount": 405,
       "emoji": "🚑"
     },
     {
@@ -437,7 +437,7 @@
       "name": "Small Talk & Basics",
       "description": "Приветствия, знакомство, разговоры ни о чём — база живого общения",
       "file": "dictionaries/phrasebook-smalltalkbasics.json",
-      "wordCount": 468,
+      "wordCount": 500,
       "emoji": "💬"
     },
     {
@@ -445,7 +445,7 @@
       "name": "Work & Business",
       "description": "Работа: совещания, дедлайны, обсуждение задач, офисные разговоры",
       "file": "dictionaries/phrasebook-workbusiness.json",
-      "wordCount": 432,
+      "wordCount": 500,
       "emoji": "💼"
     },
     {
@@ -493,7 +493,7 @@
       "name": "Technology & Internet",
       "description": "Техника и интернет: проблемы, поддержка, настройка",
       "file": "dictionaries/phrasebook-technologyinternet.json",
-      "wordCount": 401,
+      "wordCount": 500,
       "emoji": "💻"
     },
     {
@@ -501,7 +501,7 @@
       "name": "Time & Dates",
       "description": "Время, даты и договорённости о встречах — живые разговорные формулы",
       "file": "dictionaries/phrasebook-timedates.json",
-      "wordCount": 398,
+      "wordCount": 500,
       "emoji": "🕒"
     },
     {
@@ -509,7 +509,7 @@
       "name": "Feelings & Emotions",
       "description": "Как рассказать о своих чувствах и эмоциях по-английски",
       "file": "dictionaries/phrasebook-feelingsemotions.json",
-      "wordCount": 351,
+      "wordCount": 410,
       "emoji": "😊"
     },
     {
@@ -749,7 +749,7 @@
       "name": "Romance & Dating",
       "description": "Свидания и отношения: знакомство, комплименты, приглашения",
       "file": "dictionaries/phrasebook-romancedating.json",
-      "wordCount": 303,
+      "wordCount": 347,
       "emoji": "💘"
     },
     {
@@ -781,7 +781,7 @@
       "name": "Opinions & Arguments",
       "description": "Как выразить мнение, согласиться или возразить в живом разговоре",
       "file": "dictionaries/phrasebook-opinionsarguments.json",
-      "wordCount": 382,
+      "wordCount": 500,
       "emoji": "🗣️"
     },
     {
@@ -789,7 +789,7 @@
       "name": "Directions & Navigation",
       "description": "Спросить дорогу и объяснить путь — как это делают носители",
       "file": "dictionaries/phrasebook-directionsnavigation.json",
-      "wordCount": 367,
+      "wordCount": 427,
       "emoji": "🧭"
     },
     {
@@ -797,7 +797,7 @@
       "name": "Compliments & Praise",
       "description": "Комплименты и похвала — искренние фразы для живого общения",
       "file": "dictionaries/phrasebook-complimentspraise.json",
-      "wordCount": 404,
+      "wordCount": 500,
       "emoji": "🌟"
     },
     {
@@ -805,7 +805,7 @@
       "name": "Apologies & Forgiveness",
       "description": "Извинения и прощение — от лёгкого «извини» до серьёзных ситуаций",
       "file": "dictionaries/phrasebook-apologiesforgiveness.json",
-      "wordCount": 393,
+      "wordCount": 500,
       "emoji": "🙏"
     },
     {
@@ -813,7 +813,7 @@
       "name": "Requests & Permissions",
       "description": "Вежливые просьбы, разрешения и одолжения — как просят носители",
       "file": "dictionaries/phrasebook-requestspermissions.json",
-      "wordCount": 401,
+      "wordCount": 500,
       "emoji": "🙋"
     },
     {
@@ -821,7 +821,7 @@
       "name": "Offers & Invitations",
       "description": "Приглашения, планы с друзьями, предложение помощи",
       "file": "dictionaries/phrasebook-offersinvitations.json",
-      "wordCount": 462,
+      "wordCount": 500,
       "emoji": "🤝"
     },
     {
@@ -829,7 +829,7 @@
       "name": "Advice & Suggestions",
       "description": "Советы и рекомендации — как их дают и принимают в реальной речи",
       "file": "dictionaries/phrasebook-advicesuggestions.json",
-      "wordCount": 392,
+      "wordCount": 500,
       "emoji": "💡"
     },
     {
@@ -877,7 +877,7 @@
       "name": "At the Airport",
       "description": "Аэропорт: регистрация, контроль, посадка, багаж — живые фразы",
       "file": "dictionaries/phrasebook-attheairport.json",
-      "wordCount": 216,
+      "wordCount": 331,
       "emoji": "🛫"
     },
     {
@@ -885,7 +885,7 @@
       "name": "At the Restaurant",
       "description": "Ресторан от начала до конца: столик, заказ, претензии, счёт",
       "file": "dictionaries/phrasebook-attherestaurant.json",
-      "wordCount": 204,
+      "wordCount": 362,
       "emoji": "🍴"
     },
     {
@@ -893,7 +893,7 @@
       "name": "At the Hotel",
       "description": "В отеле: заселение, услуги, проблемы и выселение",
       "file": "dictionaries/phrasebook-atthehotel.json",
-      "wordCount": 60,
+      "wordCount": 221,
       "emoji": "🛏️"
     },
     {
@@ -901,7 +901,7 @@
       "name": "At the Bank",
       "description": "В банке и у банкомата: счета, переводы, обмен валюты",
       "file": "dictionaries/phrasebook-atthebank.json",
-      "wordCount": 46,
+      "wordCount": 179,
       "emoji": "💳"
     },
     {
@@ -909,7 +909,7 @@
       "name": "At the Doctor",
       "description": "У врача: жалобы, симптомы, лечение и рецепты",
       "file": "dictionaries/phrasebook-atthedoctor.json",
-      "wordCount": 218,
+      "wordCount": 329,
       "emoji": "🩺"
     },
     {
@@ -917,7 +917,7 @@
       "name": "Job Interview",
       "description": "Собеседование: самопрезентация, типичные вопросы и ответы",
       "file": "dictionaries/phrasebook-jobinterview.json",
-      "wordCount": 412,
+      "wordCount": 500,
       "emoji": "🤝"
     },
     {
@@ -965,7 +965,7 @@
       "name": "Social Media & Chat",
       "description": "Чаты и соцсети: переписка, реакции, живой сленг сообщений",
       "file": "dictionaries/phrasebook-socialmediachat.json",
-      "wordCount": 417,
+      "wordCount": 500,
       "emoji": "📱"
     },
     {
@@ -989,7 +989,7 @@
       "name": "Transportation: Train & Subway",
       "description": "Поезда и метро — билеты, платформы, расписание, пересадки",
       "file": "dictionaries/phrasebook-transportationtrainsubway.json",
-      "wordCount": 91,
+      "wordCount": 190,
       "emoji": "🚆"
     },
     {
@@ -997,7 +997,7 @@
       "name": "Transportation: Bus & Taxi",
       "description": "Такси и автобус — заказ, маршрут, оплата, остановки",
       "file": "dictionaries/phrasebook-transportationbustaxi.json",
-      "wordCount": 400,
+      "wordCount": 500,
       "emoji": "🚌"
     },
     {
@@ -1171,9 +1171,9 @@
     {
       "id": "phrasebook-programminglanguages",
       "name": "Programming Languages",
-      "description": "Phrasebook for Programming Languages",
+      "description": "Разговорник разработчика: языки, стек, код-ревью и собеседования",
       "file": "dictionaries/phrasebook-programminglanguages.json",
-      "wordCount": 14,
+      "wordCount": 78,
       "emoji": "🧑‍💻"
     },
     {
@@ -1309,39 +1309,39 @@
       "name": "Barbershop & Haircut",
       "description": "Парикмахерская: стрижка, борода, укладка — как объяснить желание",
       "file": "dictionaries/phrasebook-barbershophaircut.json",
-      "wordCount": 96,
+      "wordCount": 199,
       "emoji": "💈"
     },
     {
       "id": "phrasebook-motorsportspectator",
       "name": "Motorsport (Spectator)",
-      "description": "Phrasebook for Motorsport (Spectator)",
+      "description": "Язык болельщика: билеты, трибуны, фан-зоны, автографы и гоночные термины",
       "file": "dictionaries/phrasebook-motorsportspectator.json",
-      "wordCount": 18,
+      "wordCount": 500,
       "emoji": "🏁"
     },
     {
       "id": "phrasebook-motorsportengineermechanic",
       "name": "Motorsport (Engineer & Mechanic)",
-      "description": "Phrasebook for Motorsport (Engineer & Mechanic)",
+      "description": "Инженерия автоспорта: настройки шасси, аэродинамика, резина, телеметрия, пит-экипаж",
       "file": "dictionaries/phrasebook-motorsportengineermechanic.json",
-      "wordCount": 16,
+      "wordCount": 483,
       "emoji": "⚙️"
     },
     {
       "id": "phrasebook-motorsportdriver",
       "name": "Motorsport (Driver)",
-      "description": "Phrasebook for Motorsport (Driver)",
+      "description": "Язык гонщика: радио-переговоры с инженером, старт, обгоны, резина, штрафы",
       "file": "dictionaries/phrasebook-motorsportdriver.json",
-      "wordCount": 27,
+      "wordCount": 506,
       "emoji": "🏎️"
     },
     {
       "id": "phrasebook-aviationflying",
       "name": "Aviation & Flying",
-      "description": "Phrasebook for Aviation & Flying",
+      "description": "Авиация: полёты, кабина, связь с диспетчером, аэродромный словарь",
       "file": "dictionaries/phrasebook-aviationflying.json",
-      "wordCount": 36,
+      "wordCount": 94,
       "emoji": "🛩️"
     },
     {
@@ -1381,7 +1381,7 @@
       "name": "Short-term Rental",
       "description": "Съём жилья: переписка с хозяином, заезд, бытовые вопросы",
       "file": "dictionaries/phrasebook-airbnbrental.json",
-      "wordCount": 40,
+      "wordCount": 148,
       "emoji": "🏡"
     },
     {
@@ -1389,7 +1389,7 @@
       "name": "Lost Items & Theft",
       "description": "Что-то потерялось или украли: как сообщить и что говорить",
       "file": "dictionaries/phrasebook-lostitems.json",
-      "wordCount": 36,
+      "wordCount": 76,
       "emoji": "🧳"
     },
     {
@@ -1397,7 +1397,7 @@
       "name": "Phone & Video Calls",
       "description": "Телефонные разговоры и видеозвонки: представление, связь, прощание",
       "file": "dictionaries/phrasebook-phonecalls.json",
-      "wordCount": 46,
+      "wordCount": 89,
       "emoji": "📞"
     },
     {
@@ -1405,7 +1405,7 @@
       "name": "Café & Bar",
       "description": "Кафе и бар: кофе навынос, перекус, напитки за стойкой",
       "file": "dictionaries/phrasebook-cafebar.json",
-      "wordCount": 48,
+      "wordCount": 151,
       "emoji": "☕"
     },
     {
@@ -1413,7 +1413,7 @@
       "name": "Supermarket",
       "description": "Продуктовый магазин: поиск товаров, вес, оплата, пакеты",
       "file": "dictionaries/phrasebook-supermarket.json",
-      "wordCount": 42,
+      "wordCount": 149,
       "emoji": "🛒"
     },
     {
@@ -1421,7 +1421,7 @@
       "name": "Clothing Store",
       "description": "Магазин одежды: размеры, примерка, цвет и фасон",
       "file": "dictionaries/phrasebook-clothingshop.json",
-      "wordCount": 44,
+      "wordCount": 157,
       "emoji": "👗"
     },
     {
@@ -1429,8 +1429,80 @@
       "name": "Email & Messages",
       "description": "Электронные письма: приветствия, вежливые формулировки, подпись",
       "file": "dictionaries/phrasebook-emailphrases.json",
-      "wordCount": 46,
+      "wordCount": 90,
       "emoji": "✉️"
+    },
+    {
+      "id": "phrasebook-presentations",
+      "name": "Presentations & Speaking",
+      "description": "Презентации и публичные выступления: слайды, вопросы зала, работа с волнением",
+      "file": "dictionaries/phrasebook-presentations.json",
+      "wordCount": 100,
+      "emoji": "🎤"
+    },
+    {
+      "id": "phrasebook-negotiations",
+      "name": "Negotiations & Deals",
+      "description": "Переговоры и сделки: условия, уступки, торги и закрытие договорённостей",
+      "file": "dictionaries/phrasebook-negotiations.json",
+      "wordCount": 74,
+      "emoji": "🤝"
+    },
+    {
+      "id": "phrasebook-homerepairs",
+      "name": "Home Repairs & Plumbers",
+      "description": "Вызов мастеров: сантехник, электрик, мелкий ремонт и общение с подрядчиком",
+      "file": "dictionaries/phrasebook-homerepairs.json",
+      "wordCount": 104,
+      "emoji": "🛠️"
+    },
+    {
+      "id": "phrasebook-carservice",
+      "name": "Car Trouble & Mechanic",
+      "description": "Машина сломалась: СТО, диагностика, запчасти, шины и эвакуатор",
+      "file": "dictionaries/phrasebook-carservice.json",
+      "wordCount": 93,
+      "emoji": "🔧"
+    },
+    {
+      "id": "phrasebook-petvet",
+      "name": "Vet & Pet Care",
+      "description": "Ветеринар и уход за питомцем: приём, симптомы, прививки, груминг",
+      "file": "dictionaries/phrasebook-petvet.json",
+      "wordCount": 69,
+      "emoji": "🐾"
+    },
+    {
+      "id": "phrasebook-parenting",
+      "name": "School & Parenting",
+      "description": "Школа и дети: собрания, разговоры с учителями, уроки, режим",
+      "file": "dictionaries/phrasebook-parenting.json",
+      "wordCount": 64,
+      "emoji": "🎒"
+    },
+    {
+      "id": "phrasebook-movinghouse",
+      "name": "Moving House",
+      "description": "Переезд: коробки, грузчики, транспорт, соседи и новоселье",
+      "file": "dictionaries/phrasebook-movinghouse.json",
+      "wordCount": 50,
+      "emoji": "📦"
+    },
+    {
+      "id": "phrasebook-weddings",
+      "name": "Weddings & Toasts",
+      "description": "Свадьбы и торжества: приглашения, поздравления, тосты, подарки",
+      "file": "dictionaries/phrasebook-weddings.json",
+      "wordCount": 50,
+      "emoji": "💍"
+    },
+    {
+      "id": "phrasebook-simracing",
+      "name": "Sim Racing",
+      "description": "Симрейсинг: рули и педали, FFB, iRacing и рейтинги, лиги, стримы, сленг",
+      "file": "dictionaries/phrasebook-simracing.json",
+      "wordCount": 291,
+      "emoji": "🎮"
     }
   ]
 }
