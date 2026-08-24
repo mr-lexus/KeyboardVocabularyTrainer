@@ -397,7 +397,7 @@
       "name": "Travel & Transport",
       "description": "Phrasebook for Travel & Transport",
       "file": "dictionaries/phrasebook-traveltransport.json",
-      "wordCount": 500,
+      "wordCount": 403,
       "emoji": "✈️"
     },
     {
@@ -405,7 +405,7 @@
       "name": "Hotel & Accommodation",
       "description": "Phrasebook for Hotel & Accommodation",
       "file": "dictionaries/phrasebook-hotelaccommodation.json",
-      "wordCount": 500,
+      "wordCount": 350,
       "emoji": "🏨"
     },
     {
@@ -413,39 +413,39 @@
       "name": "Restaurant & Food",
       "description": "Phrasebook for Restaurant & Food",
       "file": "dictionaries/phrasebook-restaurantfood.json",
-      "wordCount": 500,
+      "wordCount": 397,
       "emoji": "🍽️"
     },
     {
       "id": "phrasebook-shoppingmoney",
       "name": "Shopping & Money",
-      "description": "Phrasebook for Shopping & Money",
+      "description": "Покупки: вопросы к продавцу, оплата, возврат, торг на рынке",
       "file": "dictionaries/phrasebook-shoppingmoney.json",
-      "wordCount": 500,
+      "wordCount": 420,
       "emoji": "🛍️"
     },
     {
       "id": "phrasebook-emergencyhealth",
       "name": "Emergency & Health",
-      "description": "Phrasebook for Emergency & Health",
+      "description": "Экстренные ситуации: вызов помощи, пожар, полиция, аптечка",
       "file": "dictionaries/phrasebook-emergencyhealth.json",
-      "wordCount": 500,
+      "wordCount": 351,
       "emoji": "🚑"
     },
     {
       "id": "phrasebook-smalltalkbasics",
       "name": "Small Talk & Basics",
-      "description": "Phrasebook for Small Talk & Basics",
+      "description": "Приветствия, знакомство, разговоры ни о чём — база живого общения",
       "file": "dictionaries/phrasebook-smalltalkbasics.json",
-      "wordCount": 500,
+      "wordCount": 468,
       "emoji": "💬"
     },
     {
       "id": "phrasebook-workbusiness",
       "name": "Work & Business",
-      "description": "Phrasebook for Work & Business",
+      "description": "Работа: совещания, дедлайны, обсуждение задач, офисные разговоры",
       "file": "dictionaries/phrasebook-workbusiness.json",
-      "wordCount": 500,
+      "wordCount": 432,
       "emoji": "💼"
     },
     {
@@ -453,7 +453,7 @@
       "name": "Education & Study",
       "description": "Phrasebook for Education & Study",
       "file": "dictionaries/phrasebook-educationstudy.json",
-      "wordCount": 500,
+      "wordCount": 354,
       "emoji": "🎓"
     },
     {
@@ -461,7 +461,7 @@
       "name": "Hobbies & Free Time",
       "description": "Phrasebook for Hobbies & Free Time",
       "file": "dictionaries/phrasebook-hobbiesfreetime.json",
-      "wordCount": 500,
+      "wordCount": 348,
       "emoji": "🎨"
     },
     {
@@ -469,7 +469,7 @@
       "name": "Family & Relationships",
       "description": "Phrasebook for Family & Relationships",
       "file": "dictionaries/phrasebook-familyrelationships.json",
-      "wordCount": 500,
+      "wordCount": 327,
       "emoji": "👨‍👩‍👧‍👦"
     },
     {
@@ -477,7 +477,7 @@
       "name": "Home & Living",
       "description": "Phrasebook for Home & Living",
       "file": "dictionaries/phrasebook-homeliving.json",
-      "wordCount": 500,
+      "wordCount": 342,
       "emoji": "🏠"
     },
     {
@@ -485,31 +485,31 @@
       "name": "Nature & Weather",
       "description": "Phrasebook for Nature & Weather",
       "file": "dictionaries/phrasebook-natureweather.json",
-      "wordCount": 500,
+      "wordCount": 408,
       "emoji": "🌤️"
     },
     {
       "id": "phrasebook-technologyinternet",
       "name": "Technology & Internet",
-      "description": "Phrasebook for Technology & Internet",
+      "description": "Техника и интернет: проблемы, поддержка, настройка",
       "file": "dictionaries/phrasebook-technologyinternet.json",
-      "wordCount": 500,
+      "wordCount": 401,
       "emoji": "💻"
     },
     {
       "id": "phrasebook-timedates",
       "name": "Time & Dates",
-      "description": "Phrasebook for Time & Dates",
+      "description": "Время, даты и договорённости о встречах — живые разговорные формулы",
       "file": "dictionaries/phrasebook-timedates.json",
-      "wordCount": 500,
+      "wordCount": 398,
       "emoji": "🕒"
     },
     {
       "id": "phrasebook-feelingsemotions",
       "name": "Feelings & Emotions",
-      "description": "Phrasebook for Feelings & Emotions",
+      "description": "Как рассказать о своих чувствах и эмоциях по-английски",
       "file": "dictionaries/phrasebook-feelingsemotions.json",
-      "wordCount": 500,
+      "wordCount": 351,
       "emoji": "😊"
     },
     {
@@ -517,7 +517,7 @@
       "name": "Arts & Culture",
       "description": "Phrasebook for Arts & Culture",
       "file": "dictionaries/phrasebook-artsculture.json",
-      "wordCount": 500,
+      "wordCount": 393,
       "emoji": "🎭"
     },
     {
@@ -525,7 +525,7 @@
       "name": "Law & Order",
       "description": "Phrasebook for Law & Order",
       "file": "dictionaries/phrasebook-laworder.json",
-      "wordCount": 500,
+      "wordCount": 310,
       "emoji": "⚖️"
     },
     {
@@ -533,7 +533,7 @@
       "name": "Science & Space",
       "description": "Phrasebook for Science & Space",
       "file": "dictionaries/phrasebook-sciencespace.json",
-      "wordCount": 500,
+      "wordCount": 428,
       "emoji": "🚀"
     },
     {
@@ -541,7 +541,7 @@
       "name": "Politics & Society",
       "description": "Phrasebook for Politics & Society",
       "file": "dictionaries/phrasebook-politicssociety.json",
-      "wordCount": 500,
+      "wordCount": 410,
       "emoji": "🏛️"
     },
     {
@@ -549,7 +549,7 @@
       "name": "Clothing & Fashion",
       "description": "Phrasebook for Clothing & Fashion",
       "file": "dictionaries/phrasebook-clothingfashion.json",
-      "wordCount": 500,
+      "wordCount": 319,
       "emoji": "👗"
     },
     {
@@ -557,7 +557,7 @@
       "name": "Body Parts",
       "description": "Phrasebook for Body Parts",
       "file": "dictionaries/phrasebook-bodyparts.json",
-      "wordCount": 500,
+      "wordCount": 311,
       "emoji": "🧍"
     },
     {
@@ -565,7 +565,7 @@
       "name": "Colors & Shapes",
       "description": "Phrasebook for Colors & Shapes",
       "file": "dictionaries/phrasebook-colorsshapes.json",
-      "wordCount": 500,
+      "wordCount": 359,
       "emoji": "🎨"
     },
     {
@@ -573,7 +573,7 @@
       "name": "Animals & Pets",
       "description": "Phrasebook for Animals & Pets",
       "file": "dictionaries/phrasebook-animalspets.json",
-      "wordCount": 500,
+      "wordCount": 374,
       "emoji": "🐾"
     },
     {
@@ -581,7 +581,7 @@
       "name": "Sports & Fitness",
       "description": "Phrasebook for Sports & Fitness",
       "file": "dictionaries/phrasebook-sportsfitness.json",
-      "wordCount": 500,
+      "wordCount": 328,
       "emoji": "⚽️"
     },
     {
@@ -589,7 +589,7 @@
       "name": "Driving & Road",
       "description": "Phrasebook for Driving & Road",
       "file": "dictionaries/phrasebook-drivingroad.json",
-      "wordCount": 500,
+      "wordCount": 327,
       "emoji": "🚗"
     },
     {
@@ -597,7 +597,7 @@
       "name": "Finance & Banking",
       "description": "Phrasebook for Finance & Banking",
       "file": "dictionaries/phrasebook-financebanking.json",
-      "wordCount": 500,
+      "wordCount": 402,
       "emoji": "🏦"
     },
     {
@@ -605,7 +605,7 @@
       "name": "Media & News",
       "description": "Phrasebook for Media & News",
       "file": "dictionaries/phrasebook-medianews.json",
-      "wordCount": 500,
+      "wordCount": 408,
       "emoji": "📺"
     },
     {
@@ -613,7 +613,7 @@
       "name": "Environment & Ecology",
       "description": "Phrasebook for Environment & Ecology",
       "file": "dictionaries/phrasebook-environmentecology.json",
-      "wordCount": 289,
+      "wordCount": 209,
       "emoji": "🌍"
     },
     {
@@ -621,7 +621,7 @@
       "name": "Communication & Post",
       "description": "Phrasebook for Communication & Post",
       "file": "dictionaries/phrasebook-communicationpost.json",
-      "wordCount": 500,
+      "wordCount": 317,
       "emoji": "📮"
     },
     {
@@ -629,7 +629,7 @@
       "name": "Cooking & Recipes",
       "description": "Phrasebook for Cooking & Recipes",
       "file": "dictionaries/phrasebook-cookingrecipes.json",
-      "wordCount": 500,
+      "wordCount": 388,
       "emoji": "🍳"
     },
     {
@@ -637,7 +637,7 @@
       "name": "Geography & Places",
       "description": "Phrasebook for Geography & Places",
       "file": "dictionaries/phrasebook-geographyplaces.json",
-      "wordCount": 500,
+      "wordCount": 411,
       "emoji": "🗺️"
     },
     {
@@ -645,7 +645,7 @@
       "name": "Religion & Beliefs",
       "description": "Phrasebook for Religion & Beliefs",
       "file": "dictionaries/phrasebook-religionbeliefs.json",
-      "wordCount": 500,
+      "wordCount": 369,
       "emoji": "🕊️"
     },
     {
@@ -653,7 +653,7 @@
       "name": "Military & War",
       "description": "Phrasebook for Military & War",
       "file": "dictionaries/phrasebook-militarywar.json",
-      "wordCount": 500,
+      "wordCount": 348,
       "emoji": "🪖"
     },
     {
@@ -661,7 +661,7 @@
       "name": "Architecture & Buildings",
       "description": "Phrasebook for Architecture & Buildings",
       "file": "dictionaries/phrasebook-architecturebuildings.json",
-      "wordCount": 500,
+      "wordCount": 369,
       "emoji": "🏛️"
     },
     {
@@ -669,7 +669,7 @@
       "name": "Agriculture & Farming",
       "description": "Phrasebook for Agriculture & Farming",
       "file": "dictionaries/phrasebook-agriculturefarming.json",
-      "wordCount": 300,
+      "wordCount": 240,
       "emoji": "🌾"
     },
     {
@@ -677,7 +677,7 @@
       "name": "Medicine & Diseases",
       "description": "Phrasebook for Medicine & Diseases",
       "file": "dictionaries/phrasebook-medicinediseases.json",
-      "wordCount": 500,
+      "wordCount": 351,
       "emoji": "💊"
     },
     {
@@ -685,7 +685,7 @@
       "name": "Tools & Equipment",
       "description": "Phrasebook for Tools & Equipment",
       "file": "dictionaries/phrasebook-toolsequipment.json",
-      "wordCount": 500,
+      "wordCount": 319,
       "emoji": "🛠️"
     },
     {
@@ -693,7 +693,7 @@
       "name": "Mathematics & Numbers",
       "description": "Phrasebook for Mathematics & Numbers",
       "file": "dictionaries/phrasebook-mathematicsnumbers.json",
-      "wordCount": 500,
+      "wordCount": 397,
       "emoji": "🔢"
     },
     {
@@ -701,7 +701,7 @@
       "name": "Space & Astronomy",
       "description": "Phrasebook for Space & Astronomy",
       "file": "dictionaries/phrasebook-spaceastronomy.json",
-      "wordCount": 78,
+      "wordCount": 58,
       "emoji": "🪐"
     },
     {
@@ -709,7 +709,7 @@
       "name": "Music & Instruments",
       "description": "Phrasebook for Music & Instruments",
       "file": "dictionaries/phrasebook-musicinstruments.json",
-      "wordCount": 500,
+      "wordCount": 313,
       "emoji": "🎵"
     },
     {
@@ -717,7 +717,7 @@
       "name": "Literature & Books",
       "description": "Phrasebook for Literature & Books",
       "file": "dictionaries/phrasebook-literaturebooks.json",
-      "wordCount": 500,
+      "wordCount": 401,
       "emoji": "📚"
     },
     {
@@ -725,7 +725,7 @@
       "name": "History & Past",
       "description": "Phrasebook for History & Past",
       "file": "dictionaries/phrasebook-historypast.json",
-      "wordCount": 500,
+      "wordCount": 352,
       "emoji": "⏳"
     },
     {
@@ -733,7 +733,7 @@
       "name": "Fantasy & Magic",
       "description": "Phrasebook for Fantasy & Magic",
       "file": "dictionaries/phrasebook-fantasymagic.json",
-      "wordCount": 500,
+      "wordCount": 310,
       "emoji": "🧙"
     },
     {
@@ -741,15 +741,15 @@
       "name": "Humor & Jokes",
       "description": "Phrasebook for Humor & Jokes",
       "file": "dictionaries/phrasebook-humorjokes.json",
-      "wordCount": 500,
+      "wordCount": 384,
       "emoji": "😂"
     },
     {
       "id": "phrasebook-romancedating",
       "name": "Romance & Dating",
-      "description": "Phrasebook for Romance & Dating",
+      "description": "Свидания и отношения: знакомство, комплименты, приглашения",
       "file": "dictionaries/phrasebook-romancedating.json",
-      "wordCount": 500,
+      "wordCount": 303,
       "emoji": "💘"
     },
     {
@@ -757,7 +757,7 @@
       "name": "Holidays & Celebrations",
       "description": "Phrasebook for Holidays & Celebrations",
       "file": "dictionaries/phrasebook-holidayscelebrations.json",
-      "wordCount": 500,
+      "wordCount": 302,
       "emoji": "🎉"
     },
     {
@@ -765,7 +765,7 @@
       "name": "Describing People",
       "description": "Phrasebook for Describing People",
       "file": "dictionaries/phrasebook-describingpeople.json",
-      "wordCount": 500,
+      "wordCount": 316,
       "emoji": "👤"
     },
     {
@@ -773,63 +773,63 @@
       "name": "Daily Routine",
       "description": "Phrasebook for Daily Routine",
       "file": "dictionaries/phrasebook-dailyroutine.json",
-      "wordCount": 500,
+      "wordCount": 355,
       "emoji": "🌅"
     },
     {
       "id": "phrasebook-opinionsarguments",
       "name": "Opinions & Arguments",
-      "description": "Phrasebook for Opinions & Arguments",
+      "description": "Как выразить мнение, согласиться или возразить в живом разговоре",
       "file": "dictionaries/phrasebook-opinionsarguments.json",
-      "wordCount": 500,
+      "wordCount": 382,
       "emoji": "🗣️"
     },
     {
       "id": "phrasebook-directionsnavigation",
       "name": "Directions & Navigation",
-      "description": "Phrasebook for Directions & Navigation",
+      "description": "Спросить дорогу и объяснить путь — как это делают носители",
       "file": "dictionaries/phrasebook-directionsnavigation.json",
-      "wordCount": 500,
+      "wordCount": 367,
       "emoji": "🧭"
     },
     {
       "id": "phrasebook-complimentspraise",
       "name": "Compliments & Praise",
-      "description": "Phrasebook for Compliments & Praise",
+      "description": "Комплименты и похвала — искренние фразы для живого общения",
       "file": "dictionaries/phrasebook-complimentspraise.json",
-      "wordCount": 500,
+      "wordCount": 404,
       "emoji": "🌟"
     },
     {
       "id": "phrasebook-apologiesforgiveness",
       "name": "Apologies & Forgiveness",
-      "description": "Phrasebook for Apologies & Forgiveness",
+      "description": "Извинения и прощение — от лёгкого «извини» до серьёзных ситуаций",
       "file": "dictionaries/phrasebook-apologiesforgiveness.json",
-      "wordCount": 500,
+      "wordCount": 393,
       "emoji": "🙏"
     },
     {
       "id": "phrasebook-requestspermissions",
       "name": "Requests & Permissions",
-      "description": "Phrasebook for Requests & Permissions",
+      "description": "Вежливые просьбы, разрешения и одолжения — как просят носители",
       "file": "dictionaries/phrasebook-requestspermissions.json",
-      "wordCount": 500,
+      "wordCount": 401,
       "emoji": "🙋"
     },
     {
       "id": "phrasebook-offersinvitations",
       "name": "Offers & Invitations",
-      "description": "Phrasebook for Offers & Invitations",
+      "description": "Приглашения, планы с друзьями, предложение помощи",
       "file": "dictionaries/phrasebook-offersinvitations.json",
-      "wordCount": 500,
+      "wordCount": 462,
       "emoji": "🤝"
     },
     {
       "id": "phrasebook-advicesuggestions",
       "name": "Advice & Suggestions",
-      "description": "Phrasebook for Advice & Suggestions",
+      "description": "Советы и рекомендации — как их дают и принимают в реальной речи",
       "file": "dictionaries/phrasebook-advicesuggestions.json",
-      "wordCount": 500,
+      "wordCount": 392,
       "emoji": "💡"
     },
     {
@@ -837,7 +837,7 @@
       "name": "Complaints & Dissatisfaction",
       "description": "Phrasebook for Complaints & Dissatisfaction",
       "file": "dictionaries/phrasebook-complaintsdissatisfaction.json",
-      "wordCount": 500,
+      "wordCount": 350,
       "emoji": "😠"
     },
     {
@@ -845,7 +845,7 @@
       "name": "Promises & Commitments",
       "description": "Phrasebook for Promises & Commitments",
       "file": "dictionaries/phrasebook-promisescommitments.json",
-      "wordCount": 500,
+      "wordCount": 366,
       "emoji": "🤞"
     },
     {
@@ -853,7 +853,7 @@
       "name": "Sympathy & Condolences",
       "description": "Phrasebook for Sympathy & Condolences",
       "file": "dictionaries/phrasebook-sympathycondolences.json",
-      "wordCount": 100,
+      "wordCount": 74,
       "emoji": "💐"
     },
     {
@@ -861,7 +861,7 @@
       "name": "Idioms & Proverbs",
       "description": "Phrasebook for Idioms & Proverbs",
       "file": "dictionaries/phrasebook-idiomsproverbs.json",
-      "wordCount": 145,
+      "wordCount": 111,
       "emoji": "🧩"
     },
     {
@@ -869,55 +869,55 @@
       "name": "Slang & Informal",
       "description": "Phrasebook for Slang & Informal",
       "file": "dictionaries/phrasebook-slanginformal.json",
-      "wordCount": 167,
+      "wordCount": 97,
       "emoji": "😎"
     },
     {
       "id": "phrasebook-attheairport",
       "name": "At the Airport",
-      "description": "Phrasebook for At the Airport",
+      "description": "Аэропорт: регистрация, контроль, посадка, багаж — живые фразы",
       "file": "dictionaries/phrasebook-attheairport.json",
-      "wordCount": 178,
+      "wordCount": 216,
       "emoji": "🛫"
     },
     {
       "id": "phrasebook-attherestaurant",
       "name": "At the Restaurant",
-      "description": "Phrasebook for At the Restaurant",
+      "description": "Ресторан от начала до конца: столик, заказ, претензии, счёт",
       "file": "dictionaries/phrasebook-attherestaurant.json",
-      "wordCount": 190,
+      "wordCount": 204,
       "emoji": "🍴"
     },
     {
       "id": "phrasebook-atthehotel",
       "name": "At the Hotel",
-      "description": "Phrasebook for At the Hotel",
+      "description": "В отеле: заселение, услуги, проблемы и выселение",
       "file": "dictionaries/phrasebook-atthehotel.json",
-      "wordCount": 35,
+      "wordCount": 60,
       "emoji": "🛏️"
     },
     {
       "id": "phrasebook-atthebank",
       "name": "At the Bank",
-      "description": "Phrasebook for At the Bank",
+      "description": "В банке и у банкомата: счета, переводы, обмен валюты",
       "file": "dictionaries/phrasebook-atthebank.json",
-      "wordCount": 21,
+      "wordCount": 46,
       "emoji": "💳"
     },
     {
       "id": "phrasebook-atthedoctor",
       "name": "At the Doctor",
-      "description": "Phrasebook for At the Doctor",
+      "description": "У врача: жалобы, симптомы, лечение и рецепты",
       "file": "dictionaries/phrasebook-atthedoctor.json",
-      "wordCount": 234,
+      "wordCount": 218,
       "emoji": "🩺"
     },
     {
       "id": "phrasebook-jobinterview",
       "name": "Job Interview",
-      "description": "Phrasebook for Job Interview",
+      "description": "Собеседование: самопрезентация, типичные вопросы и ответы",
       "file": "dictionaries/phrasebook-jobinterview.json",
-      "wordCount": 500,
+      "wordCount": 412,
       "emoji": "🤝"
     },
     {
@@ -925,7 +925,7 @@
       "name": "Real Estate & Housing",
       "description": "Phrasebook for Real Estate & Housing",
       "file": "dictionaries/phrasebook-realestatehousing.json",
-      "wordCount": 100,
+      "wordCount": 65,
       "emoji": "🏘️"
     },
     {
@@ -933,7 +933,7 @@
       "name": "Crime & Police",
       "description": "Phrasebook for Crime & Police",
       "file": "dictionaries/phrasebook-crimepolice.json",
-      "wordCount": 350,
+      "wordCount": 174,
       "emoji": "🚓"
     },
     {
@@ -941,7 +941,7 @@
       "name": "Hobbies: Photography",
       "description": "Phrasebook for Hobbies: Photography",
       "file": "dictionaries/phrasebook-hobbiesphotography.json",
-      "wordCount": 500,
+      "wordCount": 333,
       "emoji": "📸"
     },
     {
@@ -949,7 +949,7 @@
       "name": "Hobbies: Gardening",
       "description": "Phrasebook for Hobbies: Gardening",
       "file": "dictionaries/phrasebook-hobbiesgardening.json",
-      "wordCount": 72,
+      "wordCount": 49,
       "emoji": "🪴"
     },
     {
@@ -957,15 +957,15 @@
       "name": "Computers & Software",
       "description": "Phrasebook for Computers & Software",
       "file": "dictionaries/phrasebook-computerssoftware.json",
-      "wordCount": 147,
+      "wordCount": 125,
       "emoji": "🖥️"
     },
     {
       "id": "phrasebook-socialmediachat",
       "name": "Social Media & Chat",
-      "description": "Phrasebook for Social Media & Chat",
+      "description": "Чаты и соцсети: переписка, реакции, живой сленг сообщений",
       "file": "dictionaries/phrasebook-socialmediachat.json",
-      "wordCount": 500,
+      "wordCount": 417,
       "emoji": "📱"
     },
     {
@@ -973,7 +973,7 @@
       "name": "Personal Care & Hygiene",
       "description": "Phrasebook for Personal Care & Hygiene",
       "file": "dictionaries/phrasebook-personalcarehygiene.json",
-      "wordCount": 250,
+      "wordCount": 174,
       "emoji": "🧼"
     },
     {
@@ -981,23 +981,23 @@
       "name": "Household Chores",
       "description": "Phrasebook for Household Chores",
       "file": "dictionaries/phrasebook-householdchores.json",
-      "wordCount": 248,
+      "wordCount": 189,
       "emoji": "🧹"
     },
     {
       "id": "phrasebook-transportationtrainsubway",
       "name": "Transportation: Train & Subway",
-      "description": "Phrasebook for Transportation: Train & Subway",
+      "description": "Поезда и метро — билеты, платформы, расписание, пересадки",
       "file": "dictionaries/phrasebook-transportationtrainsubway.json",
-      "wordCount": 70,
+      "wordCount": 91,
       "emoji": "🚆"
     },
     {
       "id": "phrasebook-transportationbustaxi",
       "name": "Transportation: Bus & Taxi",
-      "description": "Phrasebook for Transportation: Bus & Taxi",
+      "description": "Такси и автобус — заказ, маршрут, оплата, остановки",
       "file": "dictionaries/phrasebook-transportationbustaxi.json",
-      "wordCount": 500,
+      "wordCount": 400,
       "emoji": "🚌"
     },
     {
@@ -1005,7 +1005,7 @@
       "name": "School & Classroom",
       "description": "Phrasebook for School & Classroom",
       "file": "dictionaries/phrasebook-schoolclassroom.json",
-      "wordCount": 500,
+      "wordCount": 399,
       "emoji": "🏫"
     },
     {
@@ -1013,7 +1013,7 @@
       "name": "Pets: Dogs & Cats",
       "description": "Phrasebook for Pets: Dogs & Cats",
       "file": "dictionaries/phrasebook-petsdogscats.json",
-      "wordCount": 100,
+      "wordCount": 72,
       "emoji": "🐶"
     },
     {
@@ -1021,7 +1021,7 @@
       "name": "Law & Court",
       "description": "Phrasebook for Law & Court",
       "file": "dictionaries/phrasebook-lawcourt.json",
-      "wordCount": 120,
+      "wordCount": 92,
       "emoji": "⚖️"
     },
     {
@@ -1029,7 +1029,7 @@
       "name": "Politics & Elections",
       "description": "Phrasebook for Politics & Elections",
       "file": "dictionaries/phrasebook-politicselections.json",
-      "wordCount": 71,
+      "wordCount": 61,
       "emoji": "🗳️"
     },
     {
@@ -1037,7 +1037,7 @@
       "name": "Economy & Trade",
       "description": "Phrasebook for Economy & Trade",
       "file": "dictionaries/phrasebook-economytrade.json",
-      "wordCount": 148,
+      "wordCount": 127,
       "emoji": "📈"
     },
     {
@@ -1045,7 +1045,7 @@
       "name": "Religion & Spirituality",
       "description": "Phrasebook for Religion & Spirituality",
       "file": "dictionaries/phrasebook-religionspirituality.json",
-      "wordCount": 25,
+      "wordCount": 18,
       "emoji": "🙏"
     },
     {
@@ -1053,7 +1053,7 @@
       "name": "Geography & Landscapes",
       "description": "Phrasebook for Geography & Landscapes",
       "file": "dictionaries/phrasebook-geographylandscapes.json",
-      "wordCount": 222,
+      "wordCount": 157,
       "emoji": "🏔️"
     },
     {
@@ -1061,7 +1061,7 @@
       "name": "Science & Physics",
       "description": "Phrasebook for Science & Physics",
       "file": "dictionaries/phrasebook-sciencephysics.json",
-      "wordCount": 47,
+      "wordCount": 34,
       "emoji": "🔬"
     },
     {
@@ -1069,7 +1069,7 @@
       "name": "Mathematics & Geometry",
       "description": "Phrasebook for Mathematics & Geometry",
       "file": "dictionaries/phrasebook-mathematicsgeometry.json",
-      "wordCount": 175,
+      "wordCount": 152,
       "emoji": "📐"
     },
     {
@@ -1077,7 +1077,7 @@
       "name": "History & Empires",
       "description": "Phrasebook for History & Empires",
       "file": "dictionaries/phrasebook-historyempires.json",
-      "wordCount": 27,
+      "wordCount": 26,
       "emoji": "📜"
     },
     {
@@ -1085,7 +1085,7 @@
       "name": "Art & Painting",
       "description": "Phrasebook for Art & Painting",
       "file": "dictionaries/phrasebook-artpainting.json",
-      "wordCount": 25,
+      "wordCount": 17,
       "emoji": "🎨"
     },
     {
@@ -1093,7 +1093,7 @@
       "name": "Technology & Gadgets",
       "description": "Phrasebook for Technology & Gadgets",
       "file": "dictionaries/phrasebook-technologygadgets.json",
-      "wordCount": 49,
+      "wordCount": 39,
       "emoji": "🔌"
     },
     {
@@ -1101,7 +1101,7 @@
       "name": "Internet & Websites",
       "description": "Phrasebook for Internet & Websites",
       "file": "dictionaries/phrasebook-internetwebsites.json",
-      "wordCount": 50,
+      "wordCount": 46,
       "emoji": "🌐"
     },
     {
@@ -1109,7 +1109,7 @@
       "name": "Vehicles & Transport",
       "description": "Phrasebook for Vehicles & Transport",
       "file": "dictionaries/phrasebook-vehiclestransport.json",
-      "wordCount": 500,
+      "wordCount": 344,
       "emoji": "🛵"
     },
     {
@@ -1117,7 +1117,7 @@
       "name": "Materials & Substances",
       "description": "Phrasebook for Materials & Substances",
       "file": "dictionaries/phrasebook-materialssubstances.json",
-      "wordCount": 247,
+      "wordCount": 178,
       "emoji": "🧱"
     },
     {
@@ -1125,7 +1125,7 @@
       "name": "Tools & Hardware",
       "description": "Phrasebook for Tools & Hardware",
       "file": "dictionaries/phrasebook-toolshardware.json",
-      "wordCount": 42,
+      "wordCount": 36,
       "emoji": "🧰"
     },
     {
@@ -1133,7 +1133,7 @@
       "name": "Office & Stationery",
       "description": "Phrasebook for Office & Stationery",
       "file": "dictionaries/phrasebook-officestationery.json",
-      "wordCount": 43,
+      "wordCount": 37,
       "emoji": "🖇️"
     },
     {
@@ -1141,7 +1141,7 @@
       "name": "Furniture & Decor",
       "description": "Phrasebook for Furniture & Decor",
       "file": "dictionaries/phrasebook-furnituredecor.json",
-      "wordCount": 192,
+      "wordCount": 114,
       "emoji": "🛋️"
     },
     {
@@ -1149,7 +1149,7 @@
       "name": "Clothes & Accessories",
       "description": "Phrasebook for Clothes & Accessories",
       "file": "dictionaries/phrasebook-clothesaccessories.json",
-      "wordCount": 500,
+      "wordCount": 322,
       "emoji": "👔"
     },
     {
@@ -1157,7 +1157,7 @@
       "name": "Food & Ingredients",
       "description": "Phrasebook for Food & Ingredients",
       "file": "dictionaries/phrasebook-foodingredients.json",
-      "wordCount": 500,
+      "wordCount": 367,
       "emoji": "🥕"
     },
     {
@@ -1165,7 +1165,7 @@
       "name": "Drinks & Beverages",
       "description": "Phrasebook for Drinks & Beverages",
       "file": "dictionaries/phrasebook-drinksbeverages.json",
-      "wordCount": 500,
+      "wordCount": 347,
       "emoji": "🥤"
     },
     {
@@ -1173,7 +1173,7 @@
       "name": "Programming Languages",
       "description": "Phrasebook for Programming Languages",
       "file": "dictionaries/phrasebook-programminglanguages.json",
-      "wordCount": 28,
+      "wordCount": 14,
       "emoji": "🧑‍💻"
     },
     {
@@ -1181,7 +1181,7 @@
       "name": "Movies & Cinema",
       "description": "Phrasebook for Movies & Cinema",
       "file": "dictionaries/phrasebook-moviescinema.json",
-      "wordCount": 119,
+      "wordCount": 89,
       "emoji": "🍿"
     },
     {
@@ -1189,7 +1189,7 @@
       "name": "Fitness & Gym",
       "description": "Phrasebook for Fitness & Gym",
       "file": "dictionaries/phrasebook-fitnessgym.json",
-      "wordCount": 270,
+      "wordCount": 188,
       "emoji": "🏋️"
     },
     {
@@ -1197,7 +1197,7 @@
       "name": "Mythology & Folklore",
       "description": "Phrasebook for Mythology & Folklore",
       "file": "dictionaries/phrasebook-mythologyfolklore.json",
-      "wordCount": 83,
+      "wordCount": 45,
       "emoji": "🦄"
     },
     {
@@ -1205,7 +1205,7 @@
       "name": "Philosophy & Ethics",
       "description": "Phrasebook for Philosophy & Ethics",
       "file": "dictionaries/phrasebook-philosophyethics.json",
-      "wordCount": 500,
+      "wordCount": 322,
       "emoji": "🤔"
     },
     {
@@ -1213,7 +1213,7 @@
       "name": "Psychology & Mind",
       "description": "Phrasebook for Psychology & Mind",
       "file": "dictionaries/phrasebook-psychologymind.json",
-      "wordCount": 500,
+      "wordCount": 297,
       "emoji": "🧠"
     },
     {
@@ -1221,7 +1221,7 @@
       "name": "Linguistics & Languages",
       "description": "Phrasebook for Linguistics & Languages",
       "file": "dictionaries/phrasebook-linguisticslanguages.json",
-      "wordCount": 333,
+      "wordCount": 264,
       "emoji": "🗣️"
     },
     {
@@ -1229,7 +1229,7 @@
       "name": "Anthropology & Cultures",
       "description": "Phrasebook for Anthropology & Cultures",
       "file": "dictionaries/phrasebook-anthropologycultures.json",
-      "wordCount": 80,
+      "wordCount": 71,
       "emoji": "🌍"
     },
     {
@@ -1237,7 +1237,7 @@
       "name": "Sociology & Demographics",
       "description": "Phrasebook for Sociology & Demographics",
       "file": "dictionaries/phrasebook-sociologydemographics.json",
-      "wordCount": 122,
+      "wordCount": 91,
       "emoji": "👥"
     },
     {
@@ -1245,7 +1245,7 @@
       "name": "Economics & Markets",
       "description": "Phrasebook for Economics & Markets",
       "file": "dictionaries/phrasebook-economicsmarkets.json",
-      "wordCount": 70,
+      "wordCount": 63,
       "emoji": "💹"
     },
     {
@@ -1253,7 +1253,7 @@
       "name": "Business & Management",
       "description": "Phrasebook for Business & Management",
       "file": "dictionaries/phrasebook-businessmanagement.json",
-      "wordCount": 500,
+      "wordCount": 401,
       "emoji": "📊"
     },
     {
@@ -1261,7 +1261,7 @@
       "name": "Marketing & Advertising",
       "description": "Phrasebook for Marketing & Advertising",
       "file": "dictionaries/phrasebook-marketingadvertising.json",
-      "wordCount": 420,
+      "wordCount": 257,
       "emoji": "📢"
     },
     {
@@ -1269,7 +1269,7 @@
       "name": "Public Relations & Media",
       "description": "Phrasebook for Public Relations & Media",
       "file": "dictionaries/phrasebook-publicrelationsmedia.json",
-      "wordCount": 92,
+      "wordCount": 70,
       "emoji": "🎙️"
     },
     {
@@ -1277,7 +1277,7 @@
       "name": "Camping & Outdoors",
       "description": "Phrasebook for Camping & Outdoors",
       "file": "dictionaries/phrasebook-campingoutdoors.json",
-      "wordCount": 167,
+      "wordCount": 118,
       "emoji": "🏕️"
     },
     {
@@ -1285,7 +1285,7 @@
       "name": "Beach & Ocean",
       "description": "Phrasebook for Beach & Ocean",
       "file": "dictionaries/phrasebook-beachocean.json",
-      "wordCount": 387,
+      "wordCount": 212,
       "emoji": "🏖️"
     },
     {
@@ -1293,7 +1293,7 @@
       "name": "Winter & Snow",
       "description": "Phrasebook for Winter & Snow",
       "file": "dictionaries/phrasebook-wintersnow.json",
-      "wordCount": 500,
+      "wordCount": 341,
       "emoji": "⛄"
     },
     {
@@ -1301,15 +1301,15 @@
       "name": "Desserts & Sweets",
       "description": "Phrasebook for Desserts & Sweets",
       "file": "dictionaries/phrasebook-dessertssweets.json",
-      "wordCount": 200,
+      "wordCount": 135,
       "emoji": "🍰"
     },
     {
       "id": "phrasebook-barbershophaircut",
       "name": "Barbershop & Haircut",
-      "description": "Phrasebook for Barbershop & Haircut",
+      "description": "Парикмахерская: стрижка, борода, укладка — как объяснить желание",
       "file": "dictionaries/phrasebook-barbershophaircut.json",
-      "wordCount": 121,
+      "wordCount": 96,
       "emoji": "💈"
     },
     {
@@ -1317,7 +1317,7 @@
       "name": "Motorsport (Spectator)",
       "description": "Phrasebook for Motorsport (Spectator)",
       "file": "dictionaries/phrasebook-motorsportspectator.json",
-      "wordCount": 22,
+      "wordCount": 18,
       "emoji": "🏁"
     },
     {
@@ -1325,7 +1325,7 @@
       "name": "Motorsport (Engineer & Mechanic)",
       "description": "Phrasebook for Motorsport (Engineer & Mechanic)",
       "file": "dictionaries/phrasebook-motorsportengineermechanic.json",
-      "wordCount": 39,
+      "wordCount": 16,
       "emoji": "⚙️"
     },
     {
@@ -1333,7 +1333,7 @@
       "name": "Motorsport (Driver)",
       "description": "Phrasebook for Motorsport (Driver)",
       "file": "dictionaries/phrasebook-motorsportdriver.json",
-      "wordCount": 50,
+      "wordCount": 27,
       "emoji": "🏎️"
     },
     {
@@ -1341,7 +1341,7 @@
       "name": "Aviation & Flying",
       "description": "Phrasebook for Aviation & Flying",
       "file": "dictionaries/phrasebook-aviationflying.json",
-      "wordCount": 44,
+      "wordCount": 36,
       "emoji": "🛩️"
     },
     {
@@ -1349,7 +1349,7 @@
       "name": "Bicycles & Cycling",
       "description": "Phrasebook for Bicycles & Cycling",
       "file": "dictionaries/phrasebook-bicyclescycling.json",
-      "wordCount": 173,
+      "wordCount": 77,
       "emoji": "🚲"
     },
     {
@@ -1357,7 +1357,7 @@
       "name": "Fishing & Angling",
       "description": "Phrasebook for Fishing & Angling",
       "file": "dictionaries/phrasebook-fishingangling.json",
-      "wordCount": 276,
+      "wordCount": 158,
       "emoji": "🎣"
     },
     {
@@ -1365,7 +1365,7 @@
       "name": "Video Games (Shooters & Action)",
       "description": "Phrasebook for Video Games (Shooters & Action)",
       "file": "dictionaries/phrasebook-videogamesshootersaction.json",
-      "wordCount": 50,
+      "wordCount": 33,
       "emoji": "🔫"
     },
     {
@@ -1373,8 +1373,64 @@
       "name": "Video Games (RPG & Strategy)",
       "description": "Phrasebook for Video Games (RPG & Strategy)",
       "file": "dictionaries/phrasebook-videogamesrpgstrategy.json",
-      "wordCount": 248,
+      "wordCount": 143,
       "emoji": "🛡️"
+    },
+    {
+      "id": "phrasebook-airbnbrental",
+      "name": "Short-term Rental",
+      "description": "Съём жилья: переписка с хозяином, заезд, бытовые вопросы",
+      "file": "dictionaries/phrasebook-airbnbrental.json",
+      "wordCount": 40,
+      "emoji": "🏡"
+    },
+    {
+      "id": "phrasebook-lostitems",
+      "name": "Lost Items & Theft",
+      "description": "Что-то потерялось или украли: как сообщить и что говорить",
+      "file": "dictionaries/phrasebook-lostitems.json",
+      "wordCount": 36,
+      "emoji": "🧳"
+    },
+    {
+      "id": "phrasebook-phonecalls",
+      "name": "Phone & Video Calls",
+      "description": "Телефонные разговоры и видеозвонки: представление, связь, прощание",
+      "file": "dictionaries/phrasebook-phonecalls.json",
+      "wordCount": 46,
+      "emoji": "📞"
+    },
+    {
+      "id": "phrasebook-cafebar",
+      "name": "Café & Bar",
+      "description": "Кафе и бар: кофе навынос, перекус, напитки за стойкой",
+      "file": "dictionaries/phrasebook-cafebar.json",
+      "wordCount": 48,
+      "emoji": "☕"
+    },
+    {
+      "id": "phrasebook-supermarket",
+      "name": "Supermarket",
+      "description": "Продуктовый магазин: поиск товаров, вес, оплата, пакеты",
+      "file": "dictionaries/phrasebook-supermarket.json",
+      "wordCount": 42,
+      "emoji": "🛒"
+    },
+    {
+      "id": "phrasebook-clothingshop",
+      "name": "Clothing Store",
+      "description": "Магазин одежды: размеры, примерка, цвет и фасон",
+      "file": "dictionaries/phrasebook-clothingshop.json",
+      "wordCount": 44,
+      "emoji": "👗"
+    },
+    {
+      "id": "phrasebook-emailphrases",
+      "name": "Email & Messages",
+      "description": "Электронные письма: приветствия, вежливые формулировки, подпись",
+      "file": "dictionaries/phrasebook-emailphrases.json",
+      "wordCount": 46,
+      "emoji": "✉️"
     }
   ]
 }
