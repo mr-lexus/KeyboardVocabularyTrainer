@@ -4,6 +4,642 @@
   "description": "Фразы о мифологии и фольклоре: боги, легенды, сказания, символы. Для чтения мифов и культурных бесед.",
   "entries": [
     {
+      "id": "pbq_mythologyfolklore_0",
+      "word": "Every culture explains thunder somehow.",
+      "translation": "Каждая культура как-то объясняет гром.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_1",
+      "word": "Zeus ruled Olympus with temper and lightning.",
+      "translation": "Зевс правил Олимпом с помощью грозы и характера.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_2",
+      "word": "Hera punished his infidelities creatively.",
+      "translation": "Гера творчески мстила за его измены.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_3",
+      "word": "Prometheus stole fire and paid eternally for it.",
+      "translation": "Прометей украл огонь и платил за это вечно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_4",
+      "word": "Odysseus took ten years to sail home.",
+      "translation": "Одиссей добирался домой десять лет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_5",
+      "word": "The Trojan Horse remains history most famous ruse.",
+      "translation": "Троянский конь остаётся самой знаменитой хитростью в истории.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_6",
+      "word": "Sirens sang sailors onto the rocks.",
+      "translation": "Сирены пением вели моряков на скалы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_7",
+      "word": "Icarus ignored his father and melted his wings.",
+      "translation": "Икар ослушался отца и расплавил крылья.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_8",
+      "word": "Medusa turned onlookers into stone.",
+      "translation": "Медуза обращала смотрящих в камень.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_9",
+      "word": "Perseus won by reflection rather than force.",
+      "translation": "Персей победил отражением, а не силой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_10",
+      "word": "Heracles completed twelve labours as penance.",
+      "translation": "Геракл совершил двенадцать подвигов во искупление.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_11",
+      "word": "Achilles strength hid one vulnerable heel.",
+      "translation": "В силе Ахиллеса таилась одна уязвимая пятка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_12",
+      "word": "Norse gods knew their doom in advance.",
+      "translation": "Скандинавские боги знали свою гибель заранее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_13",
+      "word": "Odin traded an eye for wisdom.",
+      "translation": "Один отдал глаз за мудрость.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_14",
+      "word": "Thor lifts a hammer worth lifting.",
+      "translation": "Тор поднимает молот, который стоит того.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_15",
+      "word": "Loki tricks first and apologises never.",
+      "translation": "Локи сначала хитрит и никогда не извиняется.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_16",
+      "word": "Ragnarok ends the world and begins another.",
+      "translation": "Рагнарёк заканчивает мир и начинает новый.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_17",
+      "word": "Yggdrasil connects nine worlds through its branches.",
+      "translation": "Иггдрасиль соединяет девять миров своими ветвями.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_18",
+      "word": "Ravens bring Odin news every morning.",
+      "translation": "Вороны приносят Одину новости каждое утро.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_19",
+      "word": "Valhalla feasts await the brave fallen.",
+      "translation": "В Вальхалле пиршества ждут храбрых павших.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_20",
+      "word": "Egyptian gods judged hearts against a feather.",
+      "translation": "Египетские боги взвешивали сердца против пера.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_21",
+      "word": "Anubis guided souls through the underworld.",
+      "translation": "Анубис проводил души через загробный мир.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_22",
+      "word": "Ra sailed the sun across the sky daily.",
+      "translation": "Ра ежедневно вёз солнце через небо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_23",
+      "word": "The Nile flooded because Isis wept, legends say.",
+      "translation": "Нил разливался от слёз Исиды, говорят легенды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_24",
+      "word": "The Sphinx asked riddles with deadly stakes.",
+      "translation": "Сфинкс загадывал загадки ценой жизни.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_25",
+      "word": "Gilgamesh sought immortality and found wisdom instead.",
+      "translation": "Гильгамеш искал бессмертие, а нашёл мудрость.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_26",
+      "word": "Flood stories appear across a dozen traditions.",
+      "translation": "Истории потопа встречаются в десятке традиций.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_27",
+      "word": "Hindu epics run longer than any western saga.",
+      "translation": "Индуистские эпосы длиннее любых западных саг.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_28",
+      "word": "Krishna advised duty without attachment to results.",
+      "translation": "Кришна советовал исполнять долг без привязанности к плодам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_29",
+      "word": "Shiva dances destruction into creation.",
+      "translation": "Шива танцем превращает разрушение в созидание.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_30",
+      "word": "Ganesha removes obstacles before journeys begin.",
+      "translation": "Ганеша убирает препятствия перед началом пути.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_31",
+      "word": "The Monkey King rebelled against heaven itself.",
+      "translation": "Царь обезьян восстал против самого неба.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_32",
+      "word": "Journey narratives shape half the worlds folklore.",
+      "translation": "Сюжет странствия лежит в половине мирового фольклора.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_33",
+      "word": "Dragons guard treasure in Europe and bring rain in Asia.",
+      "translation": "В Европе драконы сторожат сокровища, в Азии приносят дождь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_34",
+      "word": "Phoenixes rebuild themselves from their own ashes.",
+      "translation": "Фениксы возрождаются из собственного пепла.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_35",
+      "word": "Medieval lore insisted only maidens could catch unicorns.",
+      "translation": "Средневековые поверья настаивали: единорога ловит лишь дева.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_36",
+      "word": "Mermaids lured with beauty and drowned without mercy.",
+      "translation": "Русалки манили красотой и топили без пощады.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_37",
+      "word": "Vampires fear daylight and uninvited entry both.",
+      "translation": "Вампиров страшен и дневной свет, и вход без приглашения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_38",
+      "word": "Werewolf tales explained the madness of full moons.",
+      "translation": "Истории об оборотнях объясняли безумие полнолуния.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_39",
+      "word": "Ghosts linger over unfinished business, all stories agree.",
+      "translation": "Призраки остаются из-за незавершённых дел — так согласны все истории.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_40",
+      "word": "Banshee wails foretold deaths in Irish folklore.",
+      "translation": "Стоны банши предвещали смерть в ирландском фольклоре.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_41",
+      "word": "Leprechauns allegedly guard gold at rainbow ends.",
+      "translation": "Лепреконы якобы стерегут золото у конца радуги.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_42",
+      "word": "Fairies demanded respect and occasionally stole children.",
+      "translation": "Феи требовали уважения и порой похищали детей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_43",
+      "word": "Changelings explained babies who cried differently.",
+      "translation": "Подменышами объясняли младенцев с непривычным плачем.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_44",
+      "word": "House spirits rewarded cleanliness and punished rudeness.",
+      "translation": "Домовые награждали за чистоту и наказывали за грубость.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_45",
+      "word": "The domovoi lived behind the stove in Slavic homes.",
+      "translation": "Домовой жил за печью в славянских избах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_46",
+      "word": "Baba Yaga hut walks on chicken legs.",
+      "translation": "Изба Бабы-Яги ходит на курьих ножках.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_47",
+      "word": "Koschei hid his death inside a needle.",
+      "translation": "Кощей спрятал смерть в игле.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_48",
+      "word": "Firebird feathers begin quests and complicate them.",
+      "translation": "Перо Жар-птицы начинает поход и усложняет его.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_49",
+      "word": "Vasilisa outwitted the witch with kindness and skulls.",
+      "translation": "Василиса перехитрила ведьму добротой и черепами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_50",
+      "word": "Urban legends thrive on friend of a friend sources.",
+      "translation": "Городские легенды процветают на историях «знакомого знакомого».",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_51",
+      "word": "Alligators in sewers swam from tabloids into folklore.",
+      "translation": "Аллигаторы в канализации приплыли из жёлтой прессы в фольклор.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_52",
+      "word": "Chain letters threatened luck and promised riches.",
+      "translation": "Письма счастья грозили неудачей и обещали богатство.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_53",
+      "word": "Campfire stories grow taller with every retelling.",
+      "translation": "Истории у костра растут с каждым пересказом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_54",
+      "word": "Local legends mark every old bridge and well.",
+      "translation": "У каждого старого моста и колодца есть своя легенда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_55",
+      "word": "Founding myths flatter cities into destinies.",
+      "translation": "Мифы об основании льстят городам, превращая их в судьбы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_56",
+      "word": "Romulus killed Remus over a city line.",
+      "translation": "Ромул убил Рема из-за городской черты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_57",
+      "word": "Creation myths answer questions children ask first.",
+      "translation": "Мифы о творении отвечают на первые вопросы детей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_58",
+      "word": "Trickster tales teach rules by breaking them.",
+      "translation": "Сказки о трикстерах учат правилам, нарушая их.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_59",
+      "word": "Coyote stories laugh at cleverness gone wrong.",
+      "translation": "Истории о Койоте смеются над умом не в ту сторону.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_60",
+      "word": "Anansi carried stories from heaven in a clay pot.",
+      "translation": "Ананси принёс сказки с небес в глиняном горшке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_61",
+      "word": "Raven stole the sun for the first people.",
+      "translation": "Ворон украл солнце для первых людей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_62",
+      "word": "Thunderbirds battled water monsters above the plains.",
+      "translation": "Гром-птицы сражались с водяными чудищами над прериями.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_63",
+      "word": "Quetzalcoatl promised return and changed history anyway.",
+      "translation": "Кетцалькоатль обещал вернуться и невольно изменил историю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_64",
+      "word": "Myths encode seasons, stars and harvests.",
+      "translation": "Мифы кодируют времена года, звёзды и урожаи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_65",
+      "word": "Constellation stories map heroes onto the sky.",
+      "translation": "Созвездия расселяют героев по небу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_66",
+      "word": "Orion hunts across winter skies worldwide.",
+      "translation": "Орион охотится в зимнем небе по всему миру.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_67",
+      "word": "The Big Dipper doubles as a drinking gourd in songs.",
+      "translation": "Большая Медведица в песнях служит ещё и ковшом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_68",
+      "word": "Folk heroes outsized their historical originals.",
+      "translation": "Фольклорные герои больше своих исторических прототипов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_69",
+      "word": "Paul Bunyan logged forests with one blue ox.",
+      "translation": "Пол Баньян валил леса с одним синим быком.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_70",
+      "word": "Robin Hood robbed rich coaches on forest roads.",
+      "translation": "Робин Гуд грабил богатые кареты на лесных дорогах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_71",
+      "word": "Outlaws become folk heroes when laws feel unjust.",
+      "translation": "Разбойники становятся народными героями, когда законы кажутся несправедливыми.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_72",
+      "word": "Proverbs compress folklore into portable wisdom.",
+      "translation": "Пословицы спрессовывают фольклор в переносную мудрость.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_73",
+      "word": "Riddles sharpened wits at long winter evenings.",
+      "translation": "Загадки оттачивали умы долгими зимними вечерами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_74",
+      "word": "Lullabies smuggle old fears into soft melodies.",
+      "translation": "Колыбельные проносят древние страхи сквозь нежные мелодии.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_75",
+      "word": "Wedding rituals borrow fertility symbols shamelessly.",
+      "translation": "Свадебные обряды бесстыдно заимствуют символы плодородия.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_76",
+      "word": "Harvest festivals thank whatever provided the harvest.",
+      "translation": "Праздники урожая благодарят того, кто послал урожай.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_77",
+      "word": "Masked processions scare winters back into hiding.",
+      "translation": "Маскарадные шествия пугают зиму обратно в укрытие.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_78",
+      "word": "Carved pumpkins originally guarded against wandering spirits.",
+      "translation": "Резные тыквы изначально стерегли от блуждающих духов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_79",
+      "word": "Mistletoe meant peace between enemies in older customs.",
+      "translation": "Омела в старых обычаях значила мир между врагами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_80",
+      "word": "Amulets trade fear for something to hold.",
+      "translation": "Амулеты меняют страх на то, что можно держать в руках.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_81",
+      "word": "Evil eye beads decorate cradles and dashboards alike.",
+      "translation": "Глазки от сглаза украшают и колыбели, и торпеды машин.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_82",
+      "word": "Crossroads carry supernatural weight everywhere.",
+      "translation": "Перекрёстки везде имеют сверхъестественный вес.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_83",
+      "word": "Thresholds deserve respect in half the worlds tales.",
+      "translation": "Порог требует уважения в половине мировых сказок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_84",
+      "word": "Mirrors face walls in houses of mourning.",
+      "translation": "Зеркала завешивают в домах скорби.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_85",
+      "word": "Salt spilled over shoulders undoes small bad lucks.",
+      "translation": "Просыпанную соль бросают через плечо от мелких бед.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_86",
+      "word": "Knocking on wood hedges every confident sentence.",
+      "translation": "Стук по дереву подстраховывает каждую самоуверенную фразу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_87",
+      "word": "Wishes on falling stars arrive unverified.",
+      "translation": "Желания под падающими звёздами исполняются без гарантий.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_88",
+      "word": "Birthday candles demand secrecy and lung capacity.",
+      "translation": "Свечки на торте требуют секретности и объёма лёгких.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_89",
+      "word": "Fortune cookies invented tradition newer than the telephone.",
+      "translation": "Печенье с предсказаниями моложе телефона, хотя притворяется традицией.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_90",
+      "word": "Tarot decks read narratives more than futures.",
+      "translation": "Карты таро читают скорее сюжеты, чем будущее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_91",
+      "word": "Palm readers find lifelines wherever hands differ.",
+      "translation": "Хироманты находят линии жизни на любых ладонях.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_92",
+      "word": "Superstition survives because being wrong costs nothing.",
+      "translation": "Суеверия живут, потому что ошибка ничего не стоит.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_93",
+      "word": "Scholars collect variants of the same tale worldwide.",
+      "translation": "Учёные собирают варианты одних и тех же сказаний по всему миру.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_94",
+      "word": "Comparative mythology finds brothers under different names.",
+      "translation": "Сравнительная мифология находит братьев под разными именами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_95",
+      "word": "Joseph Campbell called it the heros journey.",
+      "translation": "Джозеф Кэмпбелл назвал это путешествием героя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_96",
+      "word": "Retellings keep old gods employed in new novels.",
+      "translation": "Пересказы дают старым богам работу в новых романах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_97",
+      "word": "Mythology survives because humans never stop asking why.",
+      "translation": "Мифология выжила, потому что люди не перестают спрашивать почему.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_98",
+      "word": "Epic poetry began as memory before writing existed.",
+      "translation": "Эпическая поэзия началась как память, ещё до письменности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_99",
+      "word": "Bards carried genealogies inside rhymed verses.",
+      "translation": "Барды носили родословные в рифмованных строках.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_100",
+      "word": "Homer asked the muse for help out loud.",
+      "translation": "Гомер вслух просил музу о помощи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_101",
+      "word": "Invocation openings still echo in fantasy prologues.",
+      "translation": "Зачины-призывы всё ещё звучат в прологах фэнтези.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_102",
+      "word": "Kalevala verses built Finnish identity from songs.",
+      "translation": "Калевала строила финскую идентичность из песен.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_103",
+      "word": "National epics surface whenever identities need anchors.",
+      "translation": "Национальные эпосы всплывают, когда идентичности нужны якоря.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_104",
+      "word": "Beowulf monsters mirror the fears of their age.",
+      "translation": "Чудовища Беовульфа отражают страхи своей эпохи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_mythologyfolklore_105",
+      "word": "Grendel envied joy he could never join.",
+      "translation": "Грендель завидовал радости, к которой не мог присоединиться.",
+      "language": "en"
+    },
+    {
       "id": "pb_mythologyfolklore_0_3",
       "word": "I'm a vampire.",
       "translation": "Я вампир.",

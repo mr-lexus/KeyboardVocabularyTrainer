@@ -4,6 +4,672 @@
   "description": "Фразы из шутеров и экшен-игр: матч, команда, тактика, стриминг. Для геймеров и игровых чатов.",
   "entries": [
     {
+      "id": "pbq_videogamesshootersaction_0",
+      "word": "Enemy spotted near the north exit.",
+      "translation": "Противник замечен у северного выхода.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_1",
+      "word": "Cover me while I reload.",
+      "translation": "Прикрой, я перезаряжаюсь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_2",
+      "word": "I am pushing the objective now.",
+      "translation": "Я иду на точку сейчас.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_3",
+      "word": "Hold this angle and wait for them.",
+      "translation": "Держи этот угол и жди их.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_4",
+      "word": "Flanking around through the basement.",
+      "translation": "Обхожу через подвал.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_5",
+      "word": "Two enemies left on the scoreboard.",
+      "translation": "На табло осталось двое противников.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_6",
+      "word": "Reload behind cover, not in the open.",
+      "translation": "Перезаряжайся за укрытием, а не на открытом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_7",
+      "word": "Headshot through the smoke, lucky shot.",
+      "translation": "Хедшот сквозь дым — повезло.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_8",
+      "word": "Their sniper is watching mid lane.",
+      "translation": "Их снайпер следит за центром карты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_9",
+      "word": "Smoke grenade out, move through quickly.",
+      "translation": "Дымовая граната брошена, быстро идём.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_10",
+      "word": "Flashbang incoming, look away.",
+      "translation": "Светошумовая летит, отвернись.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_11",
+      "word": "Defuse the bomb before the timer ends.",
+      "translation": "Разминируй бомбу до конца таймера.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_12",
+      "word": "Plant is down, defend the site.",
+      "translation": "Бомба установлена, защищаем точку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_13",
+      "word": "Rotate to B, they are stacking A.",
+      "translation": "Переходи на B, они стекуются на A.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_14",
+      "word": "Save your utility for the retake.",
+      "translation": "Береги гранаты для ретейка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_15",
+      "word": "Economy round, we buy pistols only.",
+      "translation": "Экономический раунд, покупаем только пистолеты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_16",
+      "word": "Full buy next round, save what you have.",
+      "translation": "Полная закупка в следующем раунде, сохраняй оружие.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_17",
+      "word": "Drop me a weapon at spawn.",
+      "translation": "Скинь мне оружие на респавне.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_18",
+      "word": "Nice clutch, one versus three.",
+      "translation": "Красивый клатч, один против трёх.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_19",
+      "word": "That was pure luck, admit it.",
+      "translation": "Это была чистая удача, признай.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_20",
+      "word": "My ping spiked right at the worst moment.",
+      "translation": "Пинг подскочил в худший момент.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_21",
+      "word": "Lag cost us the whole round.",
+      "translation": "Лаг стоил нам всего раунда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_22",
+      "word": "Hit registration feels off tonight.",
+      "translation": "Регистрация попаданий сегодня хромает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_23",
+      "word": "Aim down sights before peeking corners.",
+      "translation": "Целься через прицел, прежде чем выглядывать из-за угла.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_24",
+      "word": "Pre-aim common angles to win duels.",
+      "translation": "Забирай углы с заранее наведённым прицелом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_25",
+      "word": "Crosshair placement wins more fights than reflexes.",
+      "translation": "Правильное положение прицела выигрывает больше дуэлей, чем реакция.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_26",
+      "word": "Strafe while shooting to dodge headshots.",
+      "translation": "Стрейфься во время стрельбы, чтобы уходить от хедшотов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_27",
+      "word": "Counter strafing stops movement for accurate shots.",
+      "translation": "Контрстрейф останавливает движение для точного выстрела.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_28",
+      "word": "Spray control separates ranks more than aim.",
+      "translation": "Контроль отдачи разделяет ранги сильнее, чем аим.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_29",
+      "word": "Tap fire at range, spray up close.",
+      "translation": "На дистанции стреляй одиночными, вблизи — очередями.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_30",
+      "word": "Recoil patterns climb then drift sideways.",
+      "translation": "Отдача сначала идёт вверх, потом уводит вбок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_31",
+      "word": "Learn the recoil pattern in practice range.",
+      "translation": "Выучи паттерн отдачи на тренировочном полигоне.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_32",
+      "word": "Sound cues reveal footsteps through walls.",
+      "translation": "Звук выдаёт шаги сквозь стены.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_33",
+      "word": "Walk quietly when they listen for runners.",
+      "translation": "Иди тихо, когда они слушают бегущих.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_34",
+      "word": "Crouch walking silences footsteps almost completely.",
+      "translation": "Шаги почти полностью замолкают на корточках.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_35",
+      "word": "Use headphones, speakers hide directions.",
+      "translation": "Играй в наушниках — колонки прячут направление.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_36",
+      "word": "Team composition needs a healer badly.",
+      "translation": "Нашему составу отчаянно нужен хилер.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_37",
+      "word": "Ultimate abilities ready in thirty seconds.",
+      "translation": "Ультимейты будут готовы через тридцать секунд.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_38",
+      "word": "Combo your ultimate with mine.",
+      "translation": "Соедини свой ультимейт с моим.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_39",
+      "word": "Focus fire the support first.",
+      "translation": "Сначала сфокусируйте урон на поддержке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_40",
+      "word": "Peel for our sniper, he is getting dived.",
+      "translation": "Прикройте снайпера, на него прыгают.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_41",
+      "word": "Spawn camping ruins casual matches.",
+      "translation": "Кемпинг респавна портит казуальные матчи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_42",
+      "word": "Teabagging says more about you than your skill.",
+      "translation": "Тибэгинг говорит о вас больше, чем ваш скилл.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_43",
+      "word": "GG WP, that was a clean match.",
+      "translation": "Хорошая игра, чистый матч.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_44",
+      "word": "Report that player for team killing.",
+      "translation": "Пожалуйтесь на игрока за тимкилл.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_45",
+      "word": "Toxic chat mutes improve my winrate honestly.",
+      "translation": "Мут токсичного чата честно улучшает мой винрейт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_46",
+      "word": "Ranked season resets next week.",
+      "translation": "Рейтинговый сезон сбрасывается на следующей неделе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_47",
+      "word": "Placement matches decide your starting rank.",
+      "translation": "Матчи плейсментов определяют стартовый ранг.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_48",
+      "word": "Smurfs ruin low rank lobbies.",
+      "translation": "Смурфы портят лобби низких рангов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_49",
+      "word": "Matchmaking put us against a five stack.",
+      "translation": "Подбор игроков выставил нас против пятёрки друзей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_50",
+      "word": "Battle pass tiers grind faster with challenges.",
+      "translation": "Боевой пропуск качается быстрее через задания.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_51",
+      "word": "Daily challenges expire in four hours.",
+      "translation": "Ежедневные задания истекают через четыре часа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_52",
+      "word": "Skin market prices fluctuate like stocks.",
+      "translation": "Цены на скины колеблются как биржевые котировки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_53",
+      "word": "That knife skin cost more than my monitor.",
+      "translation": "Тот скин ножа стоил дороже моего монитора.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_54",
+      "word": "Cosmetics change nothing but confidence everything.",
+      "translation": "Косметика не меняет ничего, кроме уверенности — всё.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_55",
+      "word": "DLC maps split the player base again.",
+      "translation": "Карточки DLC снова разделили комьюнити.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_56",
+      "word": "Patch notes nerfed my main weapon.",
+      "translation": "Патчноуты занерфили моё основное оружие.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_57",
+      "word": "The meta shifted after the balance patch.",
+      "translation": "Мета сменилась после патча баланса.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_58",
+      "word": "Speedrunners beat this campaign in forty minutes.",
+      "translation": "Спидраннеры проходят эту кампанию за сорок минут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_59",
+      "word": "Difficulty settings exist, use them proudly.",
+      "translation": "Уровни сложности существуют — пользуйся ими с гордостью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_60",
+      "word": "Checkpoint saves rescued my three hour progress.",
+      "translation": "Чекпоинты спасли мои три часа прогресса.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_61",
+      "word": "Quick time events interrupt cutscenes annoyingly.",
+      "translation": "QTE раздражающе прерывают катсцены.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_62",
+      "word": "Boss fight phase two adds new attack patterns.",
+      "translation": "Во второй фазе босс добавляет новые атаки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_63",
+      "word": "Learn the dodge timing before attacking.",
+      "translation": "Выучи тайминг уворота, прежде чем атаковать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_64",
+      "word": "Parry windows feel generous in this game.",
+      "translation": "Окна парирования в этой игре щедрые.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_65",
+      "word": "Stealth missions fail loudly within seconds.",
+      "translation": "Стелс-миссии громко проваливаются за секунды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_66",
+      "word": "Alerted guards remember your last position.",
+      "translation": "Встревоженные охранники помнят последнюю позицию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_67",
+      "word": "Open world games drown players in icons.",
+      "translation": "Опенворлд игры топят игроков в иконках.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_68",
+      "word": "Fast travel unlocks after discovering towers.",
+      "translation": "Быстрое перемещение открывается после захвата башен.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_69",
+      "word": "Side quests outshine main stories sometimes.",
+      "translation": "Побочные квесты иногда затмевают основной сюжет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_70",
+      "word": "New game plus carries gear into harder runs.",
+      "translation": "Новая игра плюс переносит снаряжение в сложный заход.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_71",
+      "word": "Frame drops hit during explosion heavy scenes.",
+      "translation": "Просадки кадров случаются в сценах со взрывами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_72",
+      "word": "Uncapped frame rates tear on older monitors.",
+      "translation": "Незаблокированный фреймрейт рвёт картинку на старых мониторах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_73",
+      "word": "Field of view settings widen survival odds.",
+      "translation": "Расширенный FOV повышает шансы на выживание.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_74",
+      "word": "Motion sickness fades with higher FOV values.",
+      "translation": "Укачивание проходит при большем поле зрения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_75",
+      "word": "Controller aim assist sparks eternal debates.",
+      "translation": "Ассист прицеливания на геймпаде порождает вечные споры.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_76",
+      "word": "Keyboard and mouse players dominate crossplay lobbies.",
+      "translation": "Клавомышь доминирует в кроссплейных лобби.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_77",
+      "word": "Sensitivity settings take weeks to settle.",
+      "translation": "Чувствительность подбирается неделями.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_78",
+      "word": "Lower sensitivity favours precision over flicks.",
+      "translation": "Низкая чувствительность любит точность, а не резкие движения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_79",
+      "word": "Streaming overlays hide health bars from viewers.",
+      "translation": "Стрим-оверлеи прячут полоски здоровья от зрителей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_80",
+      "word": "Chat backscreens show donations during clutch moments.",
+      "translation": "Экран чата показывает донаты в моменты клатчей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_81",
+      "word": "Clip that play before it disappears.",
+      "translation": "Записывай этот момент, пока он не исчез.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_82",
+      "word": "Highlights compile themselves into weekly videos.",
+      "translation": "Хайлайты сами собираются в недельные видео.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_83",
+      "word": "Esports casters hype crowd reactions professionally.",
+      "translation": "Комментаторы киберспорта профессионально разгоняют реакции толпы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_84",
+      "word": "LAN tournaments eliminate every excuse except skill.",
+      "translation": "LAN-турниры убирают все отговорки, кроме скилла.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_85",
+      "word": "Practice routines beat raw talent eventually.",
+      "translation": "Тренировочные рутины со временем побеждают сырой талант.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_86",
+      "word": "Aim trainers warm up wrists before ranked.",
+      "translation": "Аим-тренажёры разогревают запястье перед рейтингом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_87",
+      "word": "Deathmatch warms reflexes better than bots.",
+      "translation": "Дезматч греет рефлексы лучше ботов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_88",
+      "word": "Reviewing replays exposes habits you never noticed.",
+      "translation": "Разбор реплеев вскрывает привычки, которых вы не замечали.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_89",
+      "word": "Take breaks, tilt loses more games than lag.",
+      "translation": "Делайте паузы — тильт проигрывает больше матчей, чем лаг.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_90",
+      "word": "One more game means five more games.",
+      "translation": "«Ещё одна игра» значит «ещё пять игр».",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_91",
+      "word": "Sleep beats grinding ranks at two in the morning.",
+      "translation": "Сон важнее гринда рангов в два часа ночи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_92",
+      "word": "Bunny hopping carries momentum across old maps.",
+      "translation": "Распрыжка несёт импульс через старые карты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_93",
+      "word": "Rocket jumps trade health for shortcuts.",
+      "translation": "Ракетные прыжки меняют здоровье на короткие пути.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_94",
+      "word": "Movement shooters reward mastery of slides and dashes.",
+      "translation": "В подвижных шутерах мастерство слайдов и рывков решает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_95",
+      "word": "Wall running rewrites map routes entirely.",
+      "translation": "Бег по стенам полностью переписывает маршруты карт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_96",
+      "word": "Head glitching abuses cover geometry shamelessly.",
+      "translation": "Хедглейтинг бесстыдно использует геометрию укрытий.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_97",
+      "word": "Peekers advantage favours whoever moves first.",
+      "translation": "Преимущество выглядывающего на стороне того, кто двигается первым.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_98",
+      "word": "Pre-firing corners catches holders off guard.",
+      "translation": "Выстрел в угол до появления застаёт держащих врасплох.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_99",
+      "word": "Jump shots land where enemies never expect.",
+      "translation": "Прыжковые выстрелы ложатся там, где их не ждут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_100",
+      "word": "Quick switching cancels reload animations faster.",
+      "translation": "Быстрая смена оружия отменяет анимацию перезарядки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_101",
+      "word": "Weapon loadouts balance range against mobility.",
+      "translation": "Лоадауты балансируют дальность против мобильности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_102",
+      "word": "Shotguns dominate stairwells and doorways.",
+      "translation": "Дробовики правят лестницами и дверными проёмами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_103",
+      "word": "Sniper glints betray positions across whole maps.",
+      "translation": "Блеск прицела снайпера выдаёт позицию через всю карту.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_104",
+      "word": "Quick scoping turns snipers into aggressive duelists.",
+      "translation": "Куикскоп превращает снайпера в агрессивного дуэлянта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_105",
+      "word": "Hardcore modes remove HUDs and second chances.",
+      "translation": "Хардкорные режимы убирают интерфейс и вторые шансы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_106",
+      "word": "Friendly fire teaches trigger discipline painfully.",
+      "translation": "Огонь по своим больно учит дисциплине спускового крючка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_107",
+      "word": "Spectator mode doubles as free coaching.",
+      "translation": "Режим наблюдателя работает как бесплатный коучинг.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_108",
+      "word": "Kill cams reveal exactly where you were outplayed.",
+      "translation": "Killcam показывает, где именно вас переиграли.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_109",
+      "word": "Score streaks reward survival over aggression.",
+      "translation": "Серии очков награждают выживание, а не агрессию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_videogamesshootersaction_110",
+      "word": "Objective players win matches stat screens forget.",
+      "translation": "Игроки на цели выигрывают матчи, которых не видно в таблице.",
+      "language": "en"
+    },
+    {
       "id": "pb_videogamesshootersaction_0_0",
       "word": "I'm out of ammo.",
       "translation": "У меня кончились патроны.",

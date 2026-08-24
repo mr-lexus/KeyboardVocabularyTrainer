@@ -61,6 +61,7 @@ import { topups as tMsFinalFill } from './core/topup-ms-finalfill.mjs';
 // Fill-up batches for the thinnest phrasebooks (registered LAST so legacy
 // topics keep global-dedupe priority).
 import { artpainting, religionspirituality, sciencephysics, historyempires, technologygadgets, internetwebsites } from './core/fill-thin-a.mjs';
+import { toolshardware, officestationery, mythologyfolklore, videogamesshootersaction, hobbiesgardening } from './core/fill-thin-b.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -109,6 +110,12 @@ const TOPICS = {
   historyempires,
   technologygadgets,
   internetwebsites,
+  // thin-dictionary fill-ups (part B) — must stay LAST for dedupe priority
+  toolshardware,
+  officestationery,
+  mythologyfolklore,
+  videogamesshootersaction,
+  hobbiesgardening,
 };
 
 // Merge every top-up batch into its base topic (order: base phrases first).

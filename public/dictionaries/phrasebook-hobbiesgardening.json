@@ -4,6 +4,684 @@
   "description": "Фразы о садоводстве: растения, уход, грядки, семена. Для дачи, сада и цветников.",
   "entries": [
     {
+      "id": "pbq_hobbiesgardening_0",
+      "word": "The tomatoes finally ripened this week.",
+      "translation": "Помидоры наконец созрели на этой неделе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_1",
+      "word": "Water deeply but not too often.",
+      "translation": "Поливайте глубоко, но не слишком часто.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_2",
+      "word": "Morning watering beats evening watering for leaves.",
+      "translation": "Утренний полив полезнее для листьев вечернего.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_3",
+      "word": "Mulch keeps moisture in and weeds out.",
+      "translation": "Мульча держит влагу и не пускает сорняки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_4",
+      "word": "Compost transforms kitchen scraps into black gold.",
+      "translation": "Компост превращает кухонные отходы в чёрное золото.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_5",
+      "word": "Turn the compost pile every couple of weeks.",
+      "translation": "Переворачивайте компостную кучу раз в пару недель.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_6",
+      "word": "Worms in the soil mean healthy ground.",
+      "translation": "Черви в земле значат здоровую почву.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_7",
+      "word": "Test your soil pH before planting anything fussy.",
+      "translation": "Проверьте кислотность почвы перед посадкой капризных растений.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_8",
+      "word": "Acid loving blueberries sulk in alkaline beds.",
+      "translation": "Голубика любит кислую почву и дуется в щелочных грядках.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_9",
+      "word": "Crop rotation prevents soil exhaustion.",
+      "translation": "Севооборот спасает почву от истощения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_10",
+      "word": "Never plant tomatoes where potatoes grew last year.",
+      "translation": "Не сажайте помидоры там, где в прошлом году рос картофель.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_11",
+      "word": "Legumes feed nitrogen back into the soil.",
+      "translation": "Бобовые возвращают азот в землю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_12",
+      "word": "Hardening off seedlings takes a patient week.",
+      "translation": "Закаливание рассады занимает терпеливую неделю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_13",
+      "word": "Seedlings stretch leggy toward insufficient light.",
+      "translation": "Рассада вытягивается от нехватки света.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_14",
+      "word": "Grow lights rescue February seed trays.",
+      "translation": "Фитолампы спасают февральские лотки с рассадой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_15",
+      "word": "Label your seedlings or guess forever.",
+      "translation": "Подписывайте рассаду или гадайте вечно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_16",
+      "word": "Thin the seedlings so survivors thrive.",
+      "translation": "Прореживайте всходы, чтобы выжившие крепли.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_17",
+      "word": "Pruning shears need sharpening every spring.",
+      "translation": "Секатор нужно точить каждую весну.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_18",
+      "word": "Cut just above an outward facing bud.",
+      "translation": "Режьте чуть выше почки, смотрящей наружу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_19",
+      "word": "Deadheading spent blooms forces new flowers.",
+      "translation": "Удаление отцветших бутонов гонит новые цветы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_20",
+      "word": "Roses forgive clumsy pruning surprisingly often.",
+      "translation": "Розы удивительно часто просят неуклюжую обрезку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_21",
+      "word": "Late frost nipped my peach blossoms again.",
+      "translation": "Поздний заморозок опять прихватил персиковый цвет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_22",
+      "word": "Frost blankets save tender plants overnight.",
+      "translation": "Укрывные полотна спасают нежные растения за ночь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_23",
+      "word": "Harden your heart and thin the carrot rows.",
+      "translation": "Будьте тверды и проредите ряды моркови.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_24",
+      "word": "Weeds pull easiest after rain.",
+      "translation": "Сорняки легче всего выдёргиваются после дождя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_25",
+      "word": "Mulching now saves weeding later.",
+      "translation": "Замульчируйте сейчас — меньше прополки потом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_26",
+      "word": "Groundcover plants crowd out invaders naturally.",
+      "translation": "Почвопокровные естественным образом теснят захватчиков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_27",
+      "word": "Slugs devoured my seedlings overnight.",
+      "translation": "Слизни съели мою рассаду за ночь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_28",
+      "word": "Beer traps catch slugs humanely enough.",
+      "translation": "Пивные ловушки ловят слизней достаточно гуманно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_29",
+      "word": "Copper tape repels snails off raised beds.",
+      "translation": "Медная лента отпугивает улиток с высоких грядок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_30",
+      "word": "Aphids farm ants and ants farm aphids.",
+      "translation": "Тля доит муравьёв, а муравьи пасут тлю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_31",
+      "word": "Ladybugs devour aphids by the hundreds.",
+      "translation": "Божьи коровки пожирают тлю сотнями.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_32",
+      "word": "Neem oil handles most soft bodied pests.",
+      "translation": "Нимовое масло справляется с большинством мягкотелых вредителей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_33",
+      "word": "Beneficial insects need alternatives to poison.",
+      "translation": "Полезным насекомым нужна альтернатива яду.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_34",
+      "word": "Pollinator flowers feed the bees that feed you.",
+      "translation": "Цветы для опылителей кормят пчёл, которые кормят вас.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_35",
+      "word": "No bees means no zucchini, simple arithmetic.",
+      "translation": "Нет пчёл — нет кабачков, простая арифметика.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_36",
+      "word": "Hand pollination works with a small paintbrush.",
+      "translation": "Ручное опыление работает маленькой кисточкой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_37",
+      "word": "Greenhouse humidity breeds mildew if unventilated.",
+      "translation": "Влажность в теплице плодит мучнистую росу без проветривания.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_38",
+      "word": "Open the greenhouse doors before noon heat.",
+      "translation": "Открывайте теплицу до полуденной жары.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_39",
+      "word": "Tomatoes crack from irregular watering schedules.",
+      "translation": "Помидоры трескаются от нерегулярного полива.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_40",
+      "word": "Cucumbers drink more than any other crop here.",
+      "translation": "Огурцы пьют больше всех культур на этом участке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_41",
+      "word": "Zucchini overwhelms gardens and neighbours alike.",
+      "translation": "Кабачки заваливают и сады, и соседей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_42",
+      "word": "Lock your car during zucchini season.",
+      "translation": "Закрывайте машину в сезон кабачков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_43",
+      "word": "Herbs thrive on neglect and sunshine.",
+      "translation": "Травы процветают на пренебрежении и солнце.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_44",
+      "word": "Basil pinches back into bushy shapes.",
+      "translation": "Базилик отщипыванием становится пышным кустиком.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_45",
+      "word": "Mint invades everything unless potted separately.",
+      "translation": "Мята захватывает всё, если не посадить её отдельно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_46",
+      "word": "Rosemary hates wet feet in winter.",
+      "translation": "Розмарин ненавидит мокрые корни зимой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_47",
+      "word": "Perennials return like old friends each spring.",
+      "translation": "Многолетники возвращаются каждую весну как старые друзья.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_48",
+      "word": "Divide overcrowded perennials in autumn.",
+      "translation": "Делите заросшие многолетники осенью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_49",
+      "word": "Bulbs plant pointy side up in autumn holes.",
+      "translation": "Луковицы сажают острым концом вверх в осенние лунки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_50",
+      "word": "Squirrels relocate tulip bulbs as a hobby.",
+      "translation": "Белки пересаживают тюльпановые луковицы как хобби.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_51",
+      "word": "Daffodils naturalise into cheerful drifts.",
+      "translation": "Нарциссы дичают в весёлые полянки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_52",
+      "word": "Spring cleanup waits until pollinators wake.",
+      "translation": "Весеннюю уборку откладывают, пока не проснутся опылители.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_53",
+      "word": "Leaf litter shelters overwintering butterflies.",
+      "translation": "Опавшие листья укрывают зимующих бабочек.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_54",
+      "word": "Raised beds warm earlier than ground soil.",
+      "translation": "Высокие грядки прогреваются раньше открытой земли.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_55",
+      "word": "Vertical gardening multiplies tiny balconies.",
+      "translation": "Вертикальное озеленение умножает крошечные балконы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_56",
+      "word": "Container gardening demands daily summer watering.",
+      "translation": "Контейнерное садоводство требует ежедневного летнего полива.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_57",
+      "word": "Drainage holes matter more than pretty pots.",
+      "translation": "Дренажные отверстия важнее красивых горшков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_58",
+      "word": "Overwatering kills more houseplants than drought.",
+      "translation": "Перелив убивает комнатные растения чаще засухи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_59",
+      "word": "Stick a finger in the soil before every watering.",
+      "translation": "Проверяйте почву пальцем перед каждым поливом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_60",
+      "word": "Yellowing leaves whisper overwatering confessions.",
+      "translation": "Желтеющие листья шепчутся о переливе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_61",
+      "word": "Repot rootbound plants into slightly larger homes.",
+      "translation": "Пересаживайте растения с оплётёнными корнями чуть в большие горшки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_62",
+      "word": "Terracotta breathes, plastic holds water longer.",
+      "translation": "Терракота дышит, пластик дольше держит воду.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_63",
+      "word": "Propagation turns one pothos into fifteen gifts.",
+      "translation": "Размножение превращает одно растение в пятнадцать подарков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_64",
+      "word": "Water roots grow differently than soil roots.",
+      "translation": "Водные корни растут иначе, чем земляные.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_65",
+      "word": "Monstera fenestrations appear with maturity and light.",
+      "translation": "Разрезы монстеры появляются со зрелостью и светом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_66",
+      "word": "Dust blocks light, wipe broad leaves monthly.",
+      "translation": "Пыль блокирует свет — протирайте широкие листья ежемесячно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_67",
+      "word": "Rotating pots keeps growth even toward windows.",
+      "translation": "Поворачивайте горшки для ровного роста к окну.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_68",
+      "word": "South windows scorch shade lovers.",
+      "translation": "Южные окна обжигают тенелюбивые растения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_69",
+      "word": "Humidity trays fake tropical comfort cheaply.",
+      "translation": "Поддоны с влажностью дёшево имитируют тропики.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_70",
+      "word": "Grouping plants raises local humidity naturally.",
+      "translation": "Группировка растений естественно повышает влажность вокруг.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_71",
+      "word": "Fertilise weakly weekly during growing season.",
+      "translation": "Подкармливайте слабым раствором еженедельно в сезон роста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_72",
+      "word": "Flush salts from pots every few months.",
+      "translation": "Промывайте соли из горшков каждые несколько месяцев.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_73",
+      "word": "Pruning fear kills more bonsai than neglect.",
+      "translation": "Страх обрезки губит бонсай чаще заброшенности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_74",
+      "word": "Bonsai patience measures decades not weekends.",
+      "translation": "Бонсай измеряется десятилетиями, а не выходными.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_75",
+      "word": "Wiring branches bends character into trunks.",
+      "translation": "Проволока вносит характер в стволы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_76",
+      "word": "Japanese gardens compose silence with stones.",
+      "translation": "Японские сады сочиняют тишину камнями.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_77",
+      "word": "Rock gardens suit slopes nothing else wants.",
+      "translation": "Каменистые сады устраивают склоны, которые никто не хотел.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_78",
+      "word": "Alpine plants hate wet winters more than cold.",
+      "translation": "Альпийцам мокрая зима страшнее холода.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_79",
+      "word": "Wildflower meadows replace hungry lawns beautifully.",
+      "translation": "Луговые травы красиво заменяют прожорливые газоны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_80",
+      "word": "Lawns drink more than any vegetable bed.",
+      "translation": "Газоны пьют больше любой овощной грядки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_81",
+      "word": "Clover lawns feed bees and survive drought.",
+      "translation": "Клеверный газон кормит пчёл и переживает засуху.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_82",
+      "word": "Grasscycling returns clippings as free fertiliser.",
+      "translation": "Мульчирование травы возвращает скошенное как бесплатное удобрение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_83",
+      "word": "Sharpen mower blades or grass tears brown.",
+      "translation": "Точите ножи газонокосилки, иначе трава рвётся и буреет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_84",
+      "word": "Fruit trees need winter pruning while dormant.",
+      "translation": "Плодовым деревьям нужна зимняя обрезка в покое.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_85",
+      "word": "Thinning apples produces fewer but bigger fruit.",
+      "translation": "Прореживание яблок даёт меньше плодов, но крупнее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_86",
+      "word": "Grafting joins varieties onto hardy roots.",
+      "translation": "Прививка соединяет сорта с выносливыми корнями.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_87",
+      "word": "Strawberries send runners like escape plans.",
+      "translation": "Земляника пускает усы как планы побега.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_88",
+      "word": "Netting defends berries from birds better than scarecrows.",
+      "translation": "Сетка защищает ягоды от птиц лучше пугал.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_89",
+      "word": "Raspberries fruit on canes of specific ages.",
+      "translation": "Малина плодоносит на побегах определённого возраста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_90",
+      "word": "Rhubarb leaves are poisonous, stalks are pie.",
+      "translation": "Листья ревеня ядовиты, черешки идут в пирог.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_91",
+      "word": "Asparagus beds wait three years for first harvest.",
+      "translation": "Грядки спаржи ждут первого урожая три года.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_92",
+      "word": "Patience is the heaviest tool in the shed.",
+      "translation": "Терпение — самый тяжёлый инструмент в сарае.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_93",
+      "word": "Gardens teach failure gently and repeatedly.",
+      "translation": "Сады мягко и настойчиво учат терпеть неудачи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_94",
+      "word": "Every gardener buries a few plants as tuition.",
+      "translation": "Каждый садовод хоронит несколько растений как плату за обучение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_95",
+      "word": "Volunteer squash appeared where compost got dumped.",
+      "translation": "Тыква-самосёд выросла там, где вывалили компост.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_96",
+      "word": "Gardening journals reveal patterns memory forgets.",
+      "translation": "Садовый дневник показывает закономерности, которые память забывает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_97",
+      "word": "Photograph the beds monthly to track changes.",
+      "translation": "Фотографируйте грядки ежемесячно, чтобы видеть перемены.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_98",
+      "word": "Seed swaps spread varieties and friendships equally.",
+      "translation": "Обмен семенами распространяет сорта и дружбу одинаково.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_99",
+      "word": "Heirloom seeds carry stories alongside flavours.",
+      "translation": "Семена наследуемых сортов несут истории вместе со вкусом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_100",
+      "word": "Hybrid seeds rarely reproduce true to type.",
+      "translation": "Гибридные семена редко повторяют родителей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_101",
+      "word": "Saving seeds closes the loop gloriously.",
+      "translation": "Свои семена красиво замыкают круг.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_102",
+      "word": "Community gardens grow vegetables and neighbourhoods together.",
+      "translation": "Общественные сады растят овощи вместе с соседством.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_103",
+      "word": "Garden tours judge lawns less than they think.",
+      "translation": "Садовые туры судят газоны меньше, чем им кажется.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_104",
+      "word": "The best fertiliser is the gardener shadow, they say.",
+      "translation": "Лучшее удобрение — тень садовода, говорят они.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_105",
+      "word": "Nothing tastes like a tomato still warm from sun.",
+      "translation": "Ничто не сравнится с помидором, ещё тёплым от солнца.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_106",
+      "word": "Rain barrels catch roof water for dry weeks.",
+      "translation": "Дождевые бочки копят воду с крыши на сухие недели.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_107",
+      "word": "Drip irrigation sips quietly where sprinklers waste.",
+      "translation": "Капельный полив пьёт тихо там, где спринклеры разбазаривают.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_108",
+      "word": "Soaker hoses weep moisture along entire rows.",
+      "translation": "Поливальные шланги сочатся влагой вдоль целых рядов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_109",
+      "word": "Watering cans aim gentler than any hose nozzle.",
+      "translation": "Лейка льёт нежнее любой насадки шланга.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_110",
+      "word": "Greywater from kitchens waters ornamentals happily.",
+      "translation": "Серая вода с кухни радует декоративные посадки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_111",
+      "word": "Succession sowing keeps salads coming all summer.",
+      "translation": "Повторные посевы держат салаты всё лето.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_hobbiesgardening_112",
+      "word": "Catch cropping squeezes harvests between seasons.",
+      "translation": "Промежуточные посевы впритык собирают урожаи между сезонами.",
+      "language": "en"
+    },
+    {
       "id": "pb_hobbiesgardening_0_0",
       "word": "Don't trample on the grass.",
       "translation": "По газону не ходить.",

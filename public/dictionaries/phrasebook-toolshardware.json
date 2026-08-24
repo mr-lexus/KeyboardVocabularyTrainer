@@ -4,6 +4,618 @@
   "description": "Фразы об инструментах и оснастке: дрели, крепёж, измерения, мастерская. Для ремонта и поделок своими руками.",
   "entries": [
     {
+      "id": "pbq_toolshardware_0",
+      "word": "Pass me the screwdriver with the flat head.",
+      "translation": "Подай мне отвёртку с плоским жалом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_1",
+      "word": "The Phillips head strips easily if you rush.",
+      "translation": "Крестовое шлиц легко срывается, если торопиться.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_2",
+      "word": "Turn it clockwise to tighten, counterclockwise to loosen.",
+      "translation": "По часовой — затягивать, против — откручивать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_3",
+      "word": "This bolt needs a ten millimetre socket.",
+      "translation": "Этот болт требует головку на десять миллиметров.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_4",
+      "word": "Socket sets save trips back to the toolbox.",
+      "translation": "Наборы головок избавляют от ходьбы к ящику с инструментами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_5",
+      "word": "The ratchet clicks when it reaches torque.",
+      "translation": "Трещотка щёлкает при достижении момента.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_6",
+      "word": "An adjustable wrench slips under real pressure.",
+      "translation": "Разводной ключ проскальзывает под серьёзной нагрузкой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_7",
+      "word": "Ring spanners grip better than open ends.",
+      "translation": "Кольцевые ключи держат лучше рожковых.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_8",
+      "word": "Hex keys live in every furniture flatpack.",
+      "translation": "Шестигранники живут в каждой плоской упаковке мебели.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_9",
+      "word": "The allen key rounded off halfway through assembly.",
+      "translation": "Шестигранник округлился посреди сборки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_10",
+      "word": "Pliers grip, cutters cut, never confuse their jobs.",
+      "translation": "Пассатижи держат, кусачки режут — не путайте их работу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_11",
+      "word": "Needle nose pliers reach into tight corners.",
+      "translation": "Длинногубцы достают в узких местах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_12",
+      "word": "Locking pliers clamp like a third hand.",
+      "translation": "Струбцины-пассатижи работают как третья рука.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_13",
+      "word": "Wire strippers gauge insulation perfectly every time.",
+      "translation": "Стрипперы каждый раз идеально снимают изоляцию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_14",
+      "word": "Crimping lugs requires the right die size.",
+      "translation": "Обжим наконечников требует правильного размера матрицы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_15",
+      "word": "The drill bit wandered across the tile surface.",
+      "translation": "Сверло ушло в сторону по плитке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_16",
+      "word": "Mark your drill points with a centre punch first.",
+      "translation": "Размечайте точки сверления кернером заранее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_17",
+      "word": "Masonry bits hammer through brick effortlessly.",
+      "translation": "Буры по бетону проходят кирпич без усилий.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_18",
+      "word": "Drill pilot holes before driving screws near edges.",
+      "translation": "Сверлите направляющие отверстия перед шурупами у краёв.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_19",
+      "word": "The clutch setting prevents overdriving screws.",
+      "translation": "Регулировка муфты не даёт перетянуть шурупы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_20",
+      "word": "Impact drivers eat long deck screws for breakfast.",
+      "translation": "Гайковёрт щёлкает длинные саморезы как орешки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_21",
+      "word": "Counterbore the holes so heads sit flush.",
+      "translation": "Зенкуйте отверстия, чтобы шляпки сидели заподлицо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_22",
+      "word": "Hole saws cut circles where spade bits tear.",
+      "translation": "Коронки режут круги там, где перки рвут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_23",
+      "word": "Step drills enlarge holes in thin metal neatly.",
+      "translation": "Ступенчатые свёрла аккуратно расширяют дырки в тонком металле.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_24",
+      "word": "Clamp your workpiece before anything else.",
+      "translation": "Закрепите заготовку струбциной прежде всего остального.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_25",
+      "word": "You can never own too many clamps.",
+      "translation": "Струбцин много не бывает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_26",
+      "word": "The vice grips the bench and the bench grips everything.",
+      "translation": "Тиски держат верстак, а верстак держит всё.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_27",
+      "word": "Measure twice, cut once, regret neither.",
+      "translation": "Семь раз отмерь, один отрежь — и ни о чём не жалей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_28",
+      "word": "The tape measure hook slides to account for its thickness.",
+      "translation": "Зацеп рулетки двигается, учитывая собственную толщину.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_29",
+      "word": "Combination squares check ninety degrees instantly.",
+      "translation": "Комбинированные угольники мгновенно проверяют прямой угол.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_30",
+      "word": "A centred spirit level bubble means truly level.",
+      "translation": "Пузырёк уровня в центре значит ровно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_31",
+      "word": "Laser levels project lines across whole rooms.",
+      "translation": "Лазерные уровни проецируют линии через всю комнату.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_32",
+      "word": "Calipers measure inside, outside and depth.",
+      "translation": "Штангенциркуль меряет внутри, снаружи и глубину.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_33",
+      "word": "Digital calipers switch between millimetres and inches.",
+      "translation": "Цифровой штангенциркуль переключает миллиметры и дюймы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_34",
+      "word": "Feeler gauges set spark plug gaps precisely.",
+      "translation": "Щупы точно выставляют зазоры свечей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_35",
+      "word": "The stud finder beeped twice above the fireplace.",
+      "translation": "Детектор каркаса дважды пискнул над камином.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_36",
+      "word": "Studs sit sixteen inches apart in most walls.",
+      "translation": "Стойки каркаса стоят обычно в шестнадцати дюймах друг от друга.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_37",
+      "word": "Anchor plugs hold screws where studs hide away.",
+      "translation": "Дюбели держат шурупы там, где нет стоек.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_38",
+      "word": "Toggle bolts carry heavy shelves on drywall.",
+      "translation": "Анкеры-бабочки держат тяжёлые полки на гипсокартоне.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_39",
+      "word": "Wood screws need clearance in the top piece.",
+      "translation": "Шурупам по дереву нужен зазор в верхней детали.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_40",
+      "word": "Machine threads pair with nuts or tapped holes.",
+      "translation": "Машинная резьба работает с гайками или нарезными отверстиями.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_41",
+      "word": "Thread pitch matters more than diameter sometimes.",
+      "translation": "Шаг резьбы иногда важнее диаметра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_42",
+      "word": "Blue threadlocker keeps bolts from backing out.",
+      "translation": "Синий фиксатор резьбы не даёт болтам откручиваться.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_43",
+      "word": "Never use red threadlocker unless you mean forever.",
+      "translation": "Красный фиксатор используйте, только если хотите навсегда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_44",
+      "word": "Washers distribute load and stop pull-through.",
+      "translation": "Шайбы распределяют нагрузку и не дают продавить.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_45",
+      "word": "Lock washers bite into surfaces under vibration.",
+      "translation": "Пружинные шайбы впиваются в поверхность от вибрации.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_46",
+      "word": "Nylon insert nuts never loosen from shaking.",
+      "translation": "Самоконтрящиеся гайки с нейлоном не откручиваются от тряски.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_47",
+      "word": "Rivets join metal where welding cannot reach.",
+      "translation": "Заклёпки соединяют металл там, куда сварка не дотянется.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_48",
+      "word": "The rivet gun snaps each mandrel satisfyingly.",
+      "translation": "Заклёпочник со щелчком откусывает каждую оправку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_49",
+      "word": "Epoxy fills gaps that fasteners cannot.",
+      "translation": "Эпоксидка заполняет щели, недоступные крепежу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_50",
+      "word": "Two part adhesives demand exact mixing ratios.",
+      "translation": "Двухкомпонентные клеи требуют точной пропорции смешивания.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_51",
+      "word": "Sand the surface before gluing anything seriously.",
+      "translation": "Шлифуйте поверхность перед любой серьёзной склейкой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_52",
+      "word": "Degrease with alcohol before applying tape.",
+      "translation": "Обезжирьте спиртом перед наклейкой ленты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_53",
+      "word": "Double sided tape holds surprisingly heavy mirrors.",
+      "translation": "Двусторонний скотч держит на удивление тяжёлые зеркала.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_54",
+      "word": "The utility knife blade snapped mid-cut.",
+      "translation": "Лезвие канцелярского ножа сломалось посреди реза.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_55",
+      "word": "Snap off blades stay sharp segment by segment.",
+      "translation": "Сегментные лезвия остаются острыми сегмент за сегментом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_56",
+      "word": "Handsaws cut straight only with practice.",
+      "translation": "Ручные пилы режут прямо только с практикой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_57",
+      "word": "Hacksaw blade tension matters more than speed.",
+      "translation": "Натяжение полотна ножовки важнее скорости.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_58",
+      "word": "Mitre boxes guide perfect angle cuts.",
+      "translation": "Стусло ведёт пилу под идеальным углом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_59",
+      "word": "Forty-five degree cuts meet into clean corners.",
+      "translation": "Резы под сорок пять градусов сходятся в чистый угол.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_60",
+      "word": "Chisels shave wood only when razor sharp.",
+      "translation": "Стамески строгают дерево только будучи острее бритвы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_61",
+      "word": "Sharpening stones reward ten patient minutes.",
+      "translation": "Точильные камни награждают десять минут терпения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_62",
+      "word": "Dull tools cause more injuries than sharp ones.",
+      "translation": "Тупой инструмент калечит чаще острого.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_63",
+      "word": "Planes leave gossamer shavings when tuned right.",
+      "translation": "Рубанки оставляют паутинную стружку при правильной настройке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_64",
+      "word": "Rasps shape curves where planes refuse.",
+      "translation": "Рашпили формуют кривые там, где рубанк бессилен.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_65",
+      "word": "Files cut in one direction only.",
+      "translation": "Напильники режут только в одну сторону.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_66",
+      "word": "Wire brushes strip rust before painting.",
+      "translation": "Щётки по металлу снимают ржавчину перед покраской.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_67",
+      "word": "Primer seals bare metal against moisture.",
+      "translation": "Грунт защищает голый металл от влаги.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_68",
+      "word": "Masking tape lines crisp paint borders.",
+      "translation": "Малярный скотч даёт чёткие границы краски.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_69",
+      "word": "Drop cloths protect floors from splatter.",
+      "translation": "Укрывные плёнки защищают полы от брызг.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_70",
+      "word": "The soldering iron idles at three hundred degrees.",
+      "translation": "Паяльник держит триста градусов в простое.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_71",
+      "word": "Tin the tip before every joint.",
+      "translation": "Лудите жало перед каждой пайкой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_72",
+      "word": "Flux cleans oxidation so solder flows.",
+      "translation": "Флюс очищает окислы, и припой растекается.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_73",
+      "word": "Cold joints crack under the slightest flex.",
+      "translation": "Холодная пайка трескается от малейшего изгиба.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_74",
+      "word": "Heat shrink tubing insulates connections professionally.",
+      "translation": "Термоусадка изолирует соединения как профессионал.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_75",
+      "word": "Multimeters test voltage continuity and resistance.",
+      "translation": "Мультиметры проверяют напряжение, целостность и сопротивление.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_76",
+      "word": "Always test your multimeter on a known source first.",
+      "translation": "Сначала проверьте мультиметр на известном источнике.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_77",
+      "word": "Turn off the breaker before touching any wiring.",
+      "translation": "Выключите автомат перед любыми работами с проводкой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_78",
+      "word": "Voltage testers light up near live wires.",
+      "translation": "Индикаторы напряжения загораются возле проводов под током.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_79",
+      "word": "Insulated handles rated for a thousand volts exist for reasons.",
+      "translation": "Изолированные рукоятки на тысячу вольт существуют не просто так.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_80",
+      "word": "Ladders lean at a four to one angle safely.",
+      "translation": "Лестницы безопасно стоят под углом четыре к одному.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_81",
+      "word": "Safety glasses cost less than emergency rooms.",
+      "translation": "Защитные очки дешевле приёмного покоя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_82",
+      "word": "Ear protection matters around impact drivers.",
+      "translation": "Защита ушей важна рядом с гайковёртами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_83",
+      "word": "Dust masks filter particles your lungs resent.",
+      "translation": "Респираторы задерживают пыль, которую лёгкие не любят.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_84",
+      "word": "Gloves improve grip but snag near spinning bits.",
+      "translation": "Перчатки улучшают хват, но цепляются за вращающееся сверло.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_85",
+      "word": "Magnetic trays keep small parts from vanishing.",
+      "translation": "Магнитные лотки не дают мелочам исчезать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_86",
+      "word": "Every project loses one screw to the carpet gods.",
+      "translation": "Каждый проект жертвует один шуруп богам ковра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_87",
+      "word": "Organise drawers by size or surrender to chaos.",
+      "translation": "Разложите ящики по размерам или сдайтесь хаосу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_88",
+      "word": "Tool rolls travel lighter than full boxes.",
+      "translation": "Инструментальные рулоны легче полноценных ящиков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_89",
+      "word": "Rust prevention wipes extend tool lifespans for years.",
+      "translation": "Салфетки от ржавчины продлевают жизнь инструментов на годы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_90",
+      "word": "Quality tools hurt once at purchase, cheap ones hurt forever.",
+      "translation": "Хороший инструмент болит один раз при покупке, дешёвый — вечно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_91",
+      "word": "Borrowed tools return cleaner than borrowed.",
+      "translation": "Чужие инструменты возвращают чище, чем брали.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_92",
+      "word": "The workshop rule says put it back where it lives.",
+      "translation": "Правило мастерской: кладите инструмент туда, где он живёт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_93",
+      "word": "Half of DIY is knowing which job to refuse.",
+      "translation": "Половина ремонта — знать, какую работу не браться делать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_94",
+      "word": "Call a professional before water finds the ceiling below.",
+      "translation": "Зовите мастера, пока вода не нашла потолок снизу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_95",
+      "word": "The torque wrench clicks at target tightness.",
+      "translation": "Динамометрический ключ щёлкает при нужной затяжке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_96",
+      "word": "Over-torqued bolts stretch and never trust again.",
+      "translation": "Перетянутые болты тянутся и больше не доверяют.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_97",
+      "word": "Torque specs live in manuals nobody reads first.",
+      "translation": "Моменты затяжки прописаны в мануалах, которые никто не читает заранее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_98",
+      "word": "Penetrating oil loosens rusted bolts overnight.",
+      "translation": "Проникающая смазка отмачивает ржавые болты за ночь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_99",
+      "word": "Heat the nut, cool the bolt, then persuade gently.",
+      "translation": "Грейте гайку, охладите болт, потом мягко уговаривайте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_100",
+      "word": "Broken extractors dig out snapped studs slowly.",
+      "translation": "Экстракторы выкручивают сломанные шпильки медленно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_toolshardware_101",
+      "word": "Left handed drill bits sometimes back broken bolts out.",
+      "translation": "Свёрла с левой спиралью иногда выворачивают сломанные болты.",
+      "language": "en"
+    },
+    {
       "id": "pb_toolshardware_0_1",
       "word": "I need that tape.",
       "translation": "Мне нужна эта плёнка.",

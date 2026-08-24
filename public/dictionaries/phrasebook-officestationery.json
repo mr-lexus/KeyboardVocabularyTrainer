@@ -4,6 +4,660 @@
   "description": "Фразы про офис и канцелярию: бумаги, ручки, печать, организация рабочего места. Для офисной работы и учёбы.",
   "entries": [
     {
+      "id": "pbq_officestationery_0",
+      "word": "Could you lend me a pen for a second?",
+      "translation": "Не одолжишь ручку на секунду?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_1",
+      "word": "This pen writes smoother than it has any right to.",
+      "translation": "Эта ручка пишет плавнее, чем имеет право.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_2",
+      "word": "Ballpoints skip on glossy paper annoyingly.",
+      "translation": "Шариковые ручки раздражающе прерываются на глянцевой бумаге.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_3",
+      "word": "Gel pens bleed through thin notebook pages.",
+      "translation": "Гелевые ручки просвечивают через тонкие страницы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_4",
+      "word": "Fountain pens demand good paper and patience.",
+      "translation": "Перьевые ручки требуют хорошей бумаги и терпения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_5",
+      "word": "My handwriting deteriorates without lined paper.",
+      "translation": "Без линованной бумаги мой почерк разваливается.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_6",
+      "word": "The printer jammed again on page forty-seven.",
+      "translation": "Принтер снова зажевал бумагу на сорок седьмой странице.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_7",
+      "word": "Remove the jammed sheet by pulling slowly upward.",
+      "translation": "Достайте застрявший лист, медленно вытягивая вверх.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_8",
+      "word": "We are out of toner again before the deadline.",
+      "translation": "У нас опять кончился тонер перед дедлайном.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_9",
+      "word": "Shake the cartridge gently to revive fading prints.",
+      "translation": "Слегка встряхните картридж, чтобы оживить бледную печать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_10",
+      "word": "Double-sided printing halves our paper budget.",
+      "translation": "Двусторонняя печать вдвое экономит бюджет бумаги.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_11",
+      "word": "Draft mode saves ink for internal documents.",
+      "translation": "Черновой режим экономит чернила для внутренних документов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_12",
+      "word": "The scanner feeds crooked unless you align the guides.",
+      "translation": "Сканер тянет криво, если не выставить направляющие.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_13",
+      "word": "Scan to PDF keeps pages searchable through OCR.",
+      "translation": "Сканирование в PDF делает страницы доступными для поиска.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_14",
+      "word": "Shredders handle staples but not spiral bindings.",
+      "translation": "Шреддеры пережёвывают скобы, но не спирали.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_15",
+      "word": "Cross-cut shredding protects documents better than strips.",
+      "translation": "Перекрёстное шредирование защищает документы лучше полосок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_16",
+      "word": "Staple removers deserve more appreciation honestly.",
+      "translation": "Антистеплер честно заслуживает больше признания.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_17",
+      "word": "Heavy duty staples bind fifty pages comfortably.",
+      "translation": "Крупные скобы спокойно сшивают пятьдесят страниц.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_18",
+      "word": "Paper clips come in two philosophies, regular and jumbo.",
+      "translation": "Скрепки бывают двух философий: обычные и большие.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_19",
+      "word": "Binder clips grip stacks no clip dares to.",
+      "translation": "Зажимы для бумаг берут такие стопки, какие другим не снились.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_20",
+      "word": "Rubber bands perish into sticky strings within a year.",
+      "translation": "Резинки за год превращаются в липкие нитки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_21",
+      "word": "Highlighter ink fades after a decade in storage.",
+      "translation": "Маркер выцветает за десятилетие хранения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_22",
+      "word": "Yellow highlights the main idea, green means examples.",
+      "translation": "Жёлтый выделяет главное, зелёный — примеры.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_23",
+      "word": "Colour coding notes saved my exam preparation.",
+      "translation": "Цветовая маркировка конспектов спасла мою подготовку к экзамену.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_24",
+      "word": "Sticky notes migrate onto every monitor eventually.",
+      "translation": "Стикеры в итоге расползаются по всем мониторам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_25",
+      "word": "Sticky note adhesive fails on dusty surfaces.",
+      "translation": "Клей стикеров не держит на пыльных поверхностях.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_26",
+      "word": "Index tabs mark chapters in thick binders.",
+      "translation": "Табы-разделители отмечают главы в толстых папках.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_27",
+      "word": "Laminating pouches protect frequently handled sheets.",
+      "translation": "Пакеты для ламинирования защищают часто используемые листы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_28",
+      "word": "The laminator needs two minutes to warm up.",
+      "translation": "Ламинатору нужно две минуты на прогрев.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_29",
+      "word": "Guillotine cutters slice stacks in one pass.",
+      "translation": "Гильотины режут стопки одним движением.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_30",
+      "word": "Rotary trimmers score photos without tearing.",
+      "translation": "Роликовые резаки режут фото без задиров.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_31",
+      "word": "Window envelopes align addresses automatically.",
+      "translation": "Конверты с окошком сами выставляют адрес.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_32",
+      "word": "Registered mail requires signatures upon delivery.",
+      "translation": "Для заказного письма нужна подпись при получении.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_33",
+      "word": "The mailroom sorts internal envelopes by floor.",
+      "translation": "В канцелярии внутренние конверты сортируют по этажам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_34",
+      "word": "Whiteboards ghost if you leave markers on too long.",
+      "translation": "На маркерных досках остаются следы, если не стирать долго.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_35",
+      "word": "Dry erase markers squeak on dirty boards.",
+      "translation": "Маркеры скрипят по грязной доске.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_36",
+      "word": "Flip charts stand ready for brainstorming sessions.",
+      "translation": "Флипчарты наготове для мозговых штурмов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_37",
+      "word": "Push pins hold schedules on cork boards.",
+      "translation": "Кнопки-гвоздики держат расписания на пробковых досках.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_38",
+      "word": "Magnets pin diagrams to whiteboard frames.",
+      "translation": "Магниты крепят схемы к раме доски.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_39",
+      "word": "The hole punch collects confetti nobody empties.",
+      "translation": "Дырокол копит конфетти, которые никто не вытряхивает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_40",
+      "word": "Reinforcement rings rescue torn punch holes.",
+      "translation": "Наклейки-усилители спасают порванные отверстия.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_41",
+      "word": "Archival folders survive decades in storage boxes.",
+      "translation": "Архивные папки переживают десятилетия в коробках.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_42",
+      "word": "Label the spine or lose the folder forever.",
+      "translation": "Подписывайте корешок, иначе потеряете папку навсегда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_43",
+      "word": "Alphabetical filing beats chronological for retrieval.",
+      "translation": "Алфавитный порядок находит документы быстрее хронологического.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_44",
+      "word": "The archive room smells of dust and forgotten deadlines.",
+      "translation": "В архиве пахнет пылью и забытыми дедлайнами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_45",
+      "word": "Retention policies decide what gets shredded when.",
+      "translation": "Политика хранения решает, что и когда уничтожать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_46",
+      "word": "Sign here, initial there, date everywhere.",
+      "translation": "Подпись здесь, инициалы там, дата везде.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_47",
+      "word": "Blue ink distinguishes originals from photocopies.",
+      "translation": "Синие чернила отличают оригиналы от ксерокопий.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_48",
+      "word": "Notarised copies require embossed seals.",
+      "translation": "Нотариальные копии требуют выпуклой печати.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_49",
+      "word": "Date stamps save writing today thrice daily.",
+      "translation": "Датеры спасают от троекратного написания сегодняшнего числа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_50",
+      "word": "Correction fluid dries faster than regrets fade.",
+      "translation": "Замазка сохнет быстрее, чем забываются сожаления.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_51",
+      "word": "Erasable pens rewrite history until heated.",
+      "translation": "Стираемые ручки переписывают историю до нагрева.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_52",
+      "word": "Mechanical pencils click through leads endlessly.",
+      "translation": "Механические карандаши бесконечно щёлкают грифелями.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_53",
+      "word": "HB hardness suits general writing best.",
+      "translation": "Твёрдость HB лучше всего подходит для письма.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_54",
+      "word": "Sketch artists prefer softer grades for shading.",
+      "translation": "Художники любят мягкие грифели за штриховку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_55",
+      "word": "Kneaded erasers lift graphite without residue.",
+      "translation": "Клячки поднимают графит без следов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_56",
+      "word": "Rulers wobble unless pressed firmly.",
+      "translation": "Линейки виляют, если их не прижать крепко.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_57",
+      "word": "Set squares draw angles rulers dream about.",
+      "translation": "Угольники рисуют углы, о которых линейки мечтают.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_58",
+      "word": "Compasses circle homework margins precisely.",
+      "translation": "Циркули точно очерчивают поля домашних заданий.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_59",
+      "word": "Protractors measure angles students argue about.",
+      "translation": "Транспортиры измеряют углы, о которых спорят студенты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_60",
+      "word": "Calculators replaced log tables but not understanding.",
+      "translation": "Калькуляторы заменили таблицы логарифмов, но не понимание.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_61",
+      "word": "Scientific calculators hide functions behind shift keys.",
+      "translation": "Научные калькуляторы прячут функции за клавишей Shift.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_62",
+      "word": "Spare batteries live in the drawer of necessity.",
+      "translation": "Запасные батарейки живут в ящике необходимости.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_63",
+      "word": "Desk organisers corral pens into actual order.",
+      "translation": "Органайзеры загоняют ручки в подобие порядка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_64",
+      "word": "Drawer dividers end the stationery avalanche.",
+      "translation": "Разделители прекращают лавину канцелярии.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_65",
+      "word": "Order supplies before the fiscal year freezes budgets.",
+      "translation": "Заказывайте поставки до заморозки бюджета на конец года.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_66",
+      "word": "Bulk buying staples costs pennies per thousand.",
+      "translation": "Оптом скрепки стоят гроши за тысячу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_67",
+      "word": "Inventory sheets track who borrowed the good scissors.",
+      "translation": "Ведомости следят, кто взял хорошие ножницы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_68",
+      "word": "Good scissors disappear into gift wrapping emergencies.",
+      "translation": "Хорошие ножницы исчезают в упаковочных авралах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_69",
+      "word": "Paper cutter blades dull against staple surprises.",
+      "translation": "Лезвия резаков тупятся о незамеченные скобы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_70",
+      "word": "Recycled paper feeds smoother than expected.",
+      "translation": "Переработанная бумага идёт через принтер лучше ожидаемого.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_71",
+      "word": "Notebooks pile up faster than projects finish.",
+      "translation": "Блокноты копятся быстрее, чем заканчиваются проекты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_72",
+      "word": "One notebook per project or chaos multiplies.",
+      "translation": "Один блокнот на проект, иначе хаос множится.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_73",
+      "word": "Meeting minutes capture decisions, not conversations.",
+      "translation": "Протоколы фиксируют решения, а не разговоры.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_74",
+      "word": "Action items get owners and dates immediately.",
+      "translation": "Задачи сразу получают ответственных и сроки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_75",
+      "word": "Agendas printed beforehand keep meetings honest.",
+      "translation": "Распечатанные заранее повестки делают встречи честнее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_76",
+      "word": "Name tents prevent awkward pointing during introductions.",
+      "translation": "Бейджи-таблички спасают от неловкого тыканья при знакомстве.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_77",
+      "word": "Business card holders spare pockets from bent corners.",
+      "translation": "Визитницы берегут карманы от загнутых уголков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_78",
+      "word": "Letter openers feel delightfully old fashioned.",
+      "translation": "Ножи для писем приятно ощущаются старомодно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_79",
+      "word": "Envelope moisteners beat tongue sealing hygienically.",
+      "translation": "Увлажнители конвертов гигиеничнее заклейки языком.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_80",
+      "word": "Postage meters weigh letters before surprises arrive.",
+      "translation": "Почтовые машины взвешивают письма до неприятных сюрпризов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_81",
+      "word": "Courier pouches travel between branches nightly.",
+      "translation": "Курьерские сумки ездят между филиалами каждую ночь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_82",
+      "word": "Fax machines survive purely out of institutional stubbornness.",
+      "translation": "Факсы живут исключительно на институциональном упрямстве.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_83",
+      "word": "Typewriters click romantically in museum corners now.",
+      "translation": "Печатные машинки теперь романтично щёлкают в музейных углах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_84",
+      "word": "Carbon paper taught generations about copies.",
+      "translation": "Копирка научила поколения понимать, что такое копии.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_85",
+      "word": "Ergonomic pens save wrists during marathon signing.",
+      "translation": "Эргономичные ручки берегут запястья при марафонском подписании.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_86",
+      "word": "Wrist rests make spreadsheets survivable.",
+      "translation": "Подставки для запястий делают таблицы переносимыми.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_87",
+      "word": "Monitor risers align screens with eyes properly.",
+      "translation": "Подставки монитора выставляют экран на уровень глаз.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_88",
+      "word": "Footrests fix chairs built for taller people.",
+      "translation": "Подставки для ног исправляют стулья, сделанные для более высоких.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_89",
+      "word": "A tidy desk signals either discipline or an empty calendar.",
+      "translation": "Аккуратный стол говорит либо о дисциплине, либо о пустом календаре.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_90",
+      "word": "Stationery lovers find joy in blank pages.",
+      "translation": "Любители канцелярии находят радость в чистых страницах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_91",
+      "word": "The first page of any notebook deserves better handwriting.",
+      "translation": "Первая страница блокнота заслуживает лучшего почерка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_92",
+      "word": "Paper weight numbers confuse everyone except printers.",
+      "translation": "Плотность бумаги путает всех, кроме принтеров.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_93",
+      "word": "Eighty gsm sheets feed reliably through office machines.",
+      "translation": "Листы восемьдесят граммов идут через офисную технику без капризов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_94",
+      "word": "Cardstock jams cheap printers every single time.",
+      "translation": "Картон застревает в дешёвых принтерах каждый раз.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_95",
+      "word": "A4 versus Letter formats betray international travellers.",
+      "translation": "Форматы A4 и Letter подставляют международных путешественников.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_96",
+      "word": "Binder rings snap shut on careless fingers.",
+      "translation": "Кольца скоросшивателя защёлкиваются на неосторожных пальцах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_97",
+      "word": "Plastic sleeves protect frequently referenced recipes.",
+      "translation": "Пластиковые файлы берегут часто используемые рецепты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_98",
+      "word": "Tab dividers colour code projects across departments.",
+      "translation": "Разделители размечают проекты по цветам между отделами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_99",
+      "word": "Sticky flags mark pages without committing ink.",
+      "translation": "Флажки помечают страницы без чернил.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_100",
+      "word": "Rubber finger tips speed page flipping dramatically.",
+      "translation": "Напальчники резко ускоряют перелистывание.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_101",
+      "word": "Book stands hold cookbooks open at stubborn pages.",
+      "translation": "Подставки держат поваренные книги на упрямых страницах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_102",
+      "word": "Desk pads cushion wrists and hide old stains.",
+      "translation": "Планшеты на стол смягчают запястья и прячут старые пятна.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_103",
+      "word": "Chair mats glide rolling chairs over carpet.",
+      "translation": "Коврики под кресло катают колёсные стулья по ковру.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_104",
+      "word": "Cable clips route charger wires along desk edges.",
+      "translation": "Клипсы ведут провода зарядок вдоль края стола.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_105",
+      "word": "Whiteboard markers dry uncapped within days.",
+      "translation": "Маркеры высыхают без крышки за считанные дни.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_106",
+      "word": "Permanent marker accidents call for alcohol wipes.",
+      "translation": "Последствия перманентного маркера лечатся спиртовыми салфетками.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_107",
+      "word": "Envelope windows misalign when inserts shift.",
+      "translation": "Окошки конвертов съезжают, если вкладка сместилась.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_officestationery_108",
+      "word": "Return address stamps save winter card marathons.",
+      "translation": "Штампы обратного адреса спасают зимние марафоны открыток.",
+      "language": "en"
+    },
+    {
       "id": "pb_officestationery_0_0",
       "word": "The chair is broken.",
       "translation": "Стул сломан.",
