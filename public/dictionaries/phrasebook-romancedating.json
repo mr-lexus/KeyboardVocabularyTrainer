@@ -108,7 +108,7 @@
     {
       "id": "pbq_dating_17",
       "word": "This might sound cheesy, but…",
-      "translation": "Это может прозвучать банально, но...",
+      "translation": "Это может прозвучать банально, но.",
       "language": "en"
     },
     {
@@ -289,6 +289,270 @@
       "id": "pbq_dating_47",
       "word": "Best wishes to the happy couple!",
       "translation": "Лучшие пожелания счастливой паре!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_48",
+      "word": "Can I join you?",
+      "translation": "Можно присоединюсь?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_49",
+      "word": "Is this seat taken or are you saving it?",
+      "translation": "Это место занято или вы его бережёте?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_50",
+      "word": "What’s a person like you doing in a place like this?",
+      "translation": "Что человек вроде вас делает в таком месте?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_51",
+      "word": "Have we met before?",
+      "translation": "Мы раньше встречались?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_52",
+      "word": "You seem familiar.",
+      "translation": "Ты мне кого-то напоминаешь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_53",
+      "word": "Sorry, I had to come say hi.",
+      "translation": "Извини, просто должен был подойти поздороваться.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_54",
+      "word": "My friends dared me to talk to you.",
+      "translation": "Друзья поспорили, что я подойду к тебе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_55",
+      "word": "Can I get your number?",
+      "translation": "Можно твой номер телефона?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_56",
+      "word": "Give me your number and I’ll text you.",
+      "translation": "Дай номер — я напишу тебе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_57",
+      "word": "Here’s my number, text me.",
+      "translation": "Вот мой номер, напиши мне.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_58",
+      "word": "Are you free this weekend?",
+      "translation": "Ты свободна в эти выходные?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_59",
+      "word": "Dinner, just the two of us?",
+      "translation": "Ужин, только ты и я?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_60",
+      "word": "First date jitters?",
+      "translation": "Волнуешься перед первым свиданием?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_61",
+      "word": "I picked this place specially.",
+      "translation": "Я выбрал это место специально.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_62",
+      "word": "Hope you like Italian food.",
+      "translation": "Надеюсь, ты любишь итальянскую кухню.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_63",
+      "word": "You look even better in person.",
+      "translation": "Вживую ты выглядишь ещё лучше.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_64",
+      "word": "Photos don’t do you justice.",
+      "translation": "Фото тебя не передают.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_65",
+      "word": "Tell me about your perfect Sunday.",
+      "translation": "Расскажи про своё идеальное воскресенье.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_66",
+      "word": "Coffee person or tea person?",
+      "translation": "Ты за кофе или за чай?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_67",
+      "word": "Cat person or dog person?",
+      "translation": "Ты за кошек или за собак?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_68",
+      "word": "Morning runs or evening walks?",
+      "translation": "Утренние пробежки или вечерние прогулки?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_69",
+      "word": "Beach holidays or mountains?",
+      "translation": "Отпуск на море или в горах?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_70",
+      "word": "Sweet tooth?",
+      "translation": "Любишь сладкое?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_71",
+      "word": "Pineapple on pizza — yes or no?",
+      "translation": "Ананасы на пицце — да или нет?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_72",
+      "word": "Serious question: how do you take your coffee?",
+      "translation": "Серьёзный вопрос: какой ты любишь кофе?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_73",
+      "word": "Your playlist says a lot about you.",
+      "translation": "Твой плейлист многое о тебе говорит.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_74",
+      "word": "What song describes your life?",
+      "translation": "Какая песня описывает твою жизнь?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_75",
+      "word": "Any hidden talents?",
+      "translation": "Есть скрытые таланты?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_76",
+      "word": "I bet you were the class clown.",
+      "translation": "Спорю, ты был душой компании в классе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_77",
+      "word": "You give off great energy.",
+      "translation": "От тебя исходит отличная энергия.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_78",
+      "word": "Conversation just flows with you.",
+      "translation": "С тобой разговор льётся сам собой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_79",
+      "word": "I could talk to you for hours.",
+      "translation": "Я мог бы говорить с тобой часами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_80",
+      "word": "Is it weird that I don’t want tonight to end?",
+      "translation": "Странно, что я не хочу, чтобы вечер заканчивался?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_81",
+      "word": "Already planning our next date.",
+      "translation": "Уже планирую наше следующее свидание.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_82",
+      "word": "Next time dinner’s on me.",
+      "translation": "В следующий раз ужин за мой счёт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_83",
+      "word": "Text me when you wake up.",
+      "translation": "Напиши, когда проснёшься.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_84",
+      "word": "Good morning, beautiful.",
+      "translation": "Доброе утро, красавица.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_85",
+      "word": "Slept well? Dreamed of me?",
+      "translation": "Хорошо спала? Мне снилась? (шутл.)",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_86",
+      "word": "You crossed my mind today.",
+      "translation": "Ты сегодня мне вспомнился.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_87",
+      "word": "Thinking of you always makes me smile.",
+      "translation": "Мысли о тебе всегда заставляют улыбаться.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_88",
+      "word": "Every love story is beautiful, but ours is my favorite.",
+      "translation": "Всякая история любви прекрасна, но наша — моя любимая.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_89",
+      "word": "Home is wherever I’m with you.",
+      "translation": "Дом там, где ты рядом со мной.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_90",
+      "word": "You complete me.",
+      "translation": "Ты делаешь меня целым.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dating_91",
+      "word": "Forever isn’t long enough with you.",
+      "translation": "С тобой даже вечность будет короткой.",
       "language": "en"
     },
     {

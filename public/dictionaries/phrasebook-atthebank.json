@@ -214,6 +214,804 @@
       "language": "en"
     },
     {
+      "id": "pbq_bank_35",
+      "word": "I’d like to see a loan officer.",
+      "translation": "Я хотел бы поговорить с кредитным специалистом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_36",
+      "word": "Mortgage pre-approval process?",
+      "translation": "Как проходит предварительное одобрение ипотеки?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_37",
+      "word": "Down payment requirements?",
+      "translation": "Какой нужен первоначальный взнос?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_38",
+      "word": "Fixed or variable rate better now?",
+      "translation": "Что выгоднее сейчас: фикс или плавающая ставка?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_39",
+      "word": "Monthly repayment calculator available?",
+      "translation": "Есть калькулятор ежемесячных платежей?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_40",
+      "word": "Early repayment penalties?",
+      "translation": "Есть штрафы за досрочное погашение?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_41",
+      "word": "Loan application status update?",
+      "translation": "Каков статус моей заявки на кредит?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_42",
+      "word": "Documents verified yesterday.",
+      "translation": "Документы проверили вчера.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_43",
+      "word": "Approved! When are funds released?",
+      "translation": "Одобрено! Когда придут деньги?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_44",
+      "word": "Credit score checked softly or hard?",
+      "translation": "Запрос кредитной истории мягкий или жёсткий?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_45",
+      "word": "Joint account for household bills.",
+      "translation": "Совместный счёт для семейных счетов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_46",
+      "word": "Add my spouse to the account.",
+      "translation": "Добавьте супруга к моему счёту.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_47",
+      "word": "Remove an old authorized user.",
+      "translation": "Удалите старого доверенного пользователя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_48",
+      "word": "Update my contact details.",
+      "translation": "Обновите мои контактные данные.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_49",
+      "word": "Changed address last month.",
+      "translation": "Я сменил адрес в прошлом месяце.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_50",
+      "word": "Statements by email instead of post.",
+      "translation": "Присылайте выписки на почту вместо бумаги.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_51",
+      "word": "Paperless billing enrolled.",
+      "translation": "Подключил безбумажные счета.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_52",
+      "word": "Standing order for rent monthly.",
+      "translation": "Постоянное поручение на аренду ежемесячно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_53",
+      "word": "Direct debit set for utilities.",
+      "translation": "Автоплатёж настроен за коммуналку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_54",
+      "word": "Cancel the recurring payment.",
+      "translation": "Отмените регулярный платёж.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_55",
+      "word": "Dispute this subscription charge.",
+      "translation": "Опротестуйте это списание за подписку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_56",
+      "word": "Chargeback process explained.",
+      "translation": "Объясните процедуру возврата платежа (чарджбэк).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_57",
+      "word": "Merchant refunded partially.",
+      "translation": "Продавец вернул часть суммы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_58",
+      "word": "Remaining balance refunded fully.",
+      "translation": "Остаток вернули полностью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_59",
+      "word": "Currency conversion fee waived?",
+      "translation": "Комиссия за конвертацию отменяется?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_60",
+      "word": "Multi-currency account opening.",
+      "translation": "Открытие мульти валютного счёта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_61",
+      "word": "Hold euros and dollars together.",
+      "translation": "Держать евро и доллары вместе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_62",
+      "word": "Exchange rate locked today.",
+      "translation": "Курс зафиксирован на сегодня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_63",
+      "word": "Wire transfer details confirmed.",
+      "translation": "Реквизиты перевода подтверждены.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_64",
+      "word": "SWIFT code on the statement.",
+      "translation": "SWIFT-код указан в выписке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_65",
+      "word": "Beneficiary bank address required.",
+      "translation": "Нужен адрес банка получателя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_66",
+      "word": "Transfer returned undelivered.",
+      "translation": "Перевод вернулся недоставленным.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_67",
+      "word": "Reissue to corrected details.",
+      "translation": "Переоформите на исправленные реквизиты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_68",
+      "word": "Safe deposit box rental.",
+      "translation": "Аренда банковской ячейки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_69",
+      "word": "Access hours for the vault?",
+      "translation": "Часы доступа к хранилищу?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_70",
+      "word": "Two keys required by policy.",
+      "translation": "По правилам нужны два ключа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_71",
+      "word": "Bank draft for the deposit.",
+      "translation": "Банковский чек для внесения депозита.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_72",
+      "word": "Certified cheque accepted?",
+      "translation": "Принимаете заверенный чек?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_73",
+      "word": "Notary stamp needed here.",
+      "translation": "Здесь нужна нотариальная печать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_74",
+      "word": "Power of attorney registered.",
+      "translation": "Доверенность зарегистрирована.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_75",
+      "word": "Deceased relative account closure.",
+      "translation": "Закрытие счёта умершего родственника.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_76",
+      "word": "Probate documents submitted.",
+      "translation": "Документы о наследстве поданы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_77",
+      "word": "Inheritance transfer processing.",
+      "translation": "Наследственный перевод в обработке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_78",
+      "word": "Financial advisor appointment booked.",
+      "translation": "Записался к финансовому консультанту.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_79",
+      "word": "Investment portfolio review annually.",
+      "translation": "Обзор инвестиционного портфеля ежегодно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_80",
+      "word": "Risk profile questionnaire first.",
+      "translation": "Сначала анкета риск-профиля.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_81",
+      "word": "Conservative option suits me.",
+      "translation": "Консервативный вариант мне подходит.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_82",
+      "word": "Fixed deposit renewal notice.",
+      "translation": "Уведомление о продлении вклада.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_83",
+      "word": "Interest credited monthly.",
+      "translation": "Проценты начисляются ежемесячно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_84",
+      "word": "Take a number and wait for the screen.",
+      "translation": "Возьмите талон и следите за табло.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_85",
+      "word": "Now serving number twenty-seven.",
+      "translation": "Вызывают номер двадцать семь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_86",
+      "word": "Window four is free now.",
+      "translation": "Окно четыре освободилось.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_87",
+      "word": "Consultant will be with you shortly.",
+      "translation": "Консультант скоро подойдёт к вам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_88",
+      "word": "I need to close an old account.",
+      "translation": "Мне нужно закрыть старый счёт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_89",
+      "word": "Remaining balance transferred out.",
+      "translation": "Остаток вывели переводом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_90",
+      "word": "Closure fee waived this time.",
+      "translation": "Комиссию за закрытие отменили в этот раз.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_91",
+      "word": "Account dormant for two years.",
+      "translation": "Счёт неактивен уже два года.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_92",
+      "word": "Reactivate my dormant account.",
+      "translation": "Реактивируйте мой неактивный счёт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_93",
+      "word": "Identity verification video call option?",
+      "translation": "Есть подтверждение личности по видеосвязи?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_94",
+      "word": "Passport scan uploaded successfully.",
+      "translation": "Скан паспорта успешно загружен.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_95",
+      "word": "Selfie check failed twice.",
+      "translation": "Селфи-проверка не прошла дважды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_96",
+      "word": "Better lighting helped pass it.",
+      "translation": "Лучше освещение помогло пройти проверку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_97",
+      "word": "Application approved instantly online.",
+      "translation": "Заявку одобрили мгновенно онлайн.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_98",
+      "word": "Card delivered by courier tomorrow.",
+      "translation": "Карту доставит курьер завтра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_99",
+      "word": "Activate card at any ATM.",
+      "translation": "Активировать карту можно в любом банкомате.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_100",
+      "word": "Set a new PIN at the terminal.",
+      "translation": "Установите новый PIN-код в терминале.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_101",
+      "word": "PIN letter mailed separately.",
+      "translation": "PIN-конверт присылают отдельно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_102",
+      "word": "Contactless limit raised on request.",
+      "translation": "Лимит бесконтактной оплаты подняли по запросу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_103",
+      "word": "Daily withdrawal limit questions?",
+      "translation": "Вопросы по дневному лимиту снятия?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_104",
+      "word": "Raise my daily limit temporarily.",
+      "translation": "Временно поднимите мой дневной лимит.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_105",
+      "word": "Large purchase notification setup.",
+      "translation": "Настройте уведомления о крупных покупках.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_106",
+      "word": "Push notifications enabled instantly.",
+      "translation": "Пуш-уведомления включились сразу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_107",
+      "word": "Suspicious login alert received.",
+      "translation": "Пришёл сигнал о подозрительном входе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_108",
+      "word": "That was me travelling abroad.",
+      "translation": "Это был я, я за границей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_109",
+      "word": "Travel notice added to account.",
+      "translation": "К счёту добавили пометку о поездке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_110",
+      "word": "Foreign transaction fees listed.",
+      "translation": "Комиссии за операции за рубежом перечислены.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_111",
+      "word": "Zero fees travel card upgrade.",
+      "translation": "Апгрейд на карту без комиссий в поездках.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_112",
+      "word": "Currency account balances shown together.",
+      "translation": "Балансы валютных счетов показаны вместе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_113",
+      "word": "Exchange within the app cheaper.",
+      "translation": "Обмен внутри приложения выгоднее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_114",
+      "word": "Rate locked for ten minutes.",
+      "translation": "Курс зафиксирован на десять минут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_115",
+      "word": "Confirmation code sent by SMS.",
+      "translation": "Код подтверждения отправлен по СМС.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_116",
+      "word": "Code never arrived, resend please.",
+      "translation": "Код не пришёл, отправьте снова, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_117",
+      "word": "SMS gateway delays today.",
+      "translation": "Сегодня задержки у СМС-шлюза.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_118",
+      "word": "App crashed mid-transfer!",
+      "translation": "Приложение упало посреди перевода!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_119",
+      "word": "Transfer status shows pending.",
+      "translation": "Перевод висит со статусом «в обработке».",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_120",
+      "word": "Pending since yesterday morning.",
+      "translation": "Висит в обработке с вчерашнего утра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_121",
+      "word": "Support ticket opened about it.",
+      "translation": "Открыл обращение в поддержку по этому поводу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_122",
+      "word": "Escalated to technical team.",
+      "translation": "Передали технической команде.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_123",
+      "word": "Funds returned automatically in three days.",
+      "translation": "Деньги вернутся автоматически через три дня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_124",
+      "word": "Recipient details double-checked.",
+      "translation": "Реквизиты получателя перепроверены.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_125",
+      "word": "Typo in the account number found.",
+      "translation": "Нашлась опечатка в номере счёта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_126",
+      "word": "Corrected details resubmitted.",
+      "translation": "Исправленные реквизиты отправили заново.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_127",
+      "word": "Please amend my standing order amount.",
+      "translation": "Измените сумму моего регулярного платежа, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_128",
+      "word": "Cancel after this month please.",
+      "translation": "Отмените после этого месяца, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_129",
+      "word": "Direct debit guarantee explained.",
+      "translation": "Объяснили гарантии автоплатежа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_130",
+      "word": "Overdraft facility declined politely.",
+      "translation": "Овердрафт вежливо отклонили.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_131",
+      "word": "Credit limit increase reviewed.",
+      "translation": "Рассмотрели заявку на увеличение лимита.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_132",
+      "word": "Income proof requested again.",
+      "translation": "Снова запросили подтверждение дохода.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_133",
+      "word": "Payslips last three months attached.",
+      "translation": "Приложил расчётные листы за три месяца.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_134",
+      "word": "Employment letter stamped signed.",
+      "translation": "Справка с работы с печатью и подписью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_135",
+      "word": "Underwriting decision next week.",
+      "translation": "Решение по кредиту примут на следующей неделе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_136",
+      "word": "Prepayment penalty clause questioned.",
+      "translation": "Спросил про пункт о штрафе за досрочное погашение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_137",
+      "word": "Partial early repayment allowed.",
+      "translation": "Разрешено частичное досрочное погашение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_138",
+      "word": "Recalculate my payment schedule.",
+      "translation": "Пересчитайте мой график платежей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_139",
+      "word": "Shorten term or reduce payment?",
+      "translation": "Сократить срок или уменьшить платёж?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_140",
+      "word": "Refinancing offer from competitor.",
+      "translation": "Конкурент прислал предложение рефинансирования.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_141",
+      "word": "Match their lower rate?",
+      "translation": "Сможете сравняться с их меньшей ставкой?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_142",
+      "word": "Retention team offered better terms.",
+      "translation": "Отдел удержания предложил лучшие условия.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_143",
+      "word": "Contract addendum signed today.",
+      "translation": "Дополнительное соглашение подписано сегодня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_144",
+      "word": "Safe custody items inventoried.",
+      "translation": "Содержимое ячейки описано в описи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_145",
+      "word": "Two keys dual control rule.",
+      "translation": "Правило двух ключей и двойного контроля.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_146",
+      "word": "Lost key penalty charged.",
+      "translation": "Штраф за потерю ключа выставили.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_147",
+      "word": "Bank draft issued for landlord.",
+      "translation": "Банковский чек выписан для арендодателя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_148",
+      "word": "Guarantor forms notarized.",
+      "translation": "Формы поручителя заверены нотариусом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_149",
+      "word": "Student account zero maintenance.",
+      "translation": "У студенческого счёта нет ежемесячной платы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_150",
+      "word": "Graduate card transition automatic.",
+      "translation": "Переход на выпускническую карту автоматический.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_151",
+      "word": "Youth savings bonus interest.",
+      "translation": "Молодёжный вклад с бонусной ставкой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_152",
+      "word": "Round-up savings enabled.",
+      "translation": "Включил округление покупок в копилку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_153",
+      "word": "Auto-invest small amounts weekly.",
+      "translation": "Автоинвест мелких сумм еженедельно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_154",
+      "word": "Portfolio performance quarterly report.",
+      "translation": "Квартальный отчёт по портфелю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_155",
+      "word": "Risk questionnaire retaken annually.",
+      "translation": "Анкету риск-профиля обновляют ежегодно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_156",
+      "word": "Advisory service fee structure.",
+      "translation": "Структура платы за консультации.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_157",
+      "word": "Execution-only pricing suits experienced investors.",
+      "translation": "Опытным инвесторам выгоднее тариф без консультаций.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_158",
+      "word": "Tax statement generated annually.",
+      "translation": "Налоговую справку формируют ежегодно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_159",
+      "word": "Interest earned declared automatically.",
+      "translation": "Доход по вкладам декларируется автоматически.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_160",
+      "word": "Branch closing early Fridays.",
+      "translation": "Отделение рано закрывается по пятницам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_161",
+      "word": "Nearest ATM with cash available.",
+      "translation": "Ближайший банкомат с наличными.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_162",
+      "word": "ATM dispensing only large notes.",
+      "translation": "Банкомат выдаёт только крупные купюры.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_163",
+      "word": "Request smaller denominations inside.",
+      "translation": "Попросите мелкие купюры внутри отделения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_164",
+      "word": "The coin counter is free for customers.",
+      "translation": "Машина для пересчёта монет бесплатна для клиентов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_165",
+      "word": "Queue moving quickly today.",
+      "translation": "Очередь сегодня идёт быстро.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_166",
+      "word": "Friday afternoons busiest time.",
+      "translation": "Пятница после обеда — самое горячее время.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_bank_167",
+      "word": "Mid-morning visits are calmer.",
+      "translation": "Среди утра в отделении спокойнее.",
+      "language": "en"
+    },
+    {
       "id": "pb_atthebank_0_2",
       "word": "I'm a cashier.",
       "translation": "Я кассир.",

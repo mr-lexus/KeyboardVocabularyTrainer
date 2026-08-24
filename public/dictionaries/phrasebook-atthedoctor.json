@@ -352,6 +352,672 @@
       "language": "en"
     },
     {
+      "id": "pbq_doctor_58",
+      "word": "Walk-in clinic hours?",
+      "translation": "В какое время принимает клиника без записи?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_59",
+      "word": "Emergency room or urgent care?",
+      "translation": "В приёмное отделение или в неотложку?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_60",
+      "word": "Which hospital has a night pharmacy?",
+      "translation": "При какой больнице ночная аптека?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_61",
+      "word": "I need a general practitioner.",
+      "translation": "Мне нужен терапевт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_62",
+      "word": "Referral to a specialist, please.",
+      "translation": "Дайте направление к специалисту, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_63",
+      "word": "See a dermatologist about this rash.",
+      "translation": "Хочу показаться дерматологу из-за сыпи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_64",
+      "word": "My tooth is throbbing.",
+      "translation": "У меня пульсирует зуб.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_65",
+      "word": "Broken filling, sharp edge.",
+      "translation": "Выпала пломба, острые края.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_66",
+      "word": "Wisdom teeth coming in early.",
+      "translation": "Зубы мудрости лезут раньше срока.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_67",
+      "word": "Bleeding won’t stop.",
+      "translation": "Кровотечение не останавливается.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_68",
+      "word": "Deep cut, may need stitches.",
+      "translation": "Глубокий порез, возможно нужны швы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_69",
+      "word": "Sprained ankle, swelling fast.",
+      "translation": "Подвернул ногу, быстро растёт отёк.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_70",
+      "word": "Can’t put weight on it.",
+      "translation": "Не могу наступать на ногу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_71",
+      "word": "Fingers numb and tingling.",
+      "translation": "Пальцы немеют и покалывают.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_72",
+      "word": "Blurred vision since morning.",
+      "translation": "С утра размытое зрение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_73",
+      "word": "Ringing in my left ear.",
+      "translation": "Звонит в левом ухе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_74",
+      "word": "Persistent dry cough.",
+      "translation": "Изнуряющий сухой кашель.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_75",
+      "word": "Shortness of breath climbing stairs.",
+      "translation": "Одышка при подъёме по лестнице.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_76",
+      "word": "Chest tightness when stressed.",
+      "translation": "Стеснение в груди при стрессе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_77",
+      "word": "Heart racing for no reason.",
+      "translation": "Сердце колотится без причины.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_78",
+      "word": "Blood pressure machine at home reads high.",
+      "translation": "Домашний тонометр показывает высокое давление.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_79",
+      "word": "Family history of diabetes.",
+      "translation": "В семье есть диабетики (наследственность).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_80",
+      "word": "Both parents hypertensive.",
+      "translation": "У обоих родителей гипертония.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_81",
+      "word": "Vaccinations up to date?",
+      "translation": "Прививки сделаны вовремя?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_82",
+      "word": "Need a flu shot this season.",
+      "translation": "Нужна прививка от гриппа в этом сезоне.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_83",
+      "word": "Tetanus booster after the cut?",
+      "translation": "Нужен ли столбнячный укол после пореза?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_84",
+      "word": "Annual check-up appointment.",
+      "translation": "Ежегодный профилактический осмотр.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_85",
+      "word": "Routine blood work ordered.",
+      "translation": "Назначили стандартный анализ крови.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_86",
+      "word": "Fasting required before the test.",
+      "translation": "Перед анализом нужно быть натощак.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_87",
+      "word": "Urine sample container given.",
+      "translation": "Выдали контейнер для анализа мочи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_88",
+      "word": "X-ray scheduled for Thursday.",
+      "translation": "Рентген назначен на четверг.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_89",
+      "word": "Ultrasound shows nothing alarming.",
+      "translation": "УЗИ не показывает ничего тревожного.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_90",
+      "word": "MRI referral for the knee.",
+      "translation": "Направление на МРТ колена.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_91",
+      "word": "Waiting for lab results.",
+      "translation": "Жду результаты анализов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_92",
+      "word": "Results came back normal.",
+      "translation": "Анализы в норме.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_93",
+      "word": "Borderline cholesterol levels.",
+      "translation": "Холестерин на верхней границе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_94",
+      "word": "Iron deficiency anemia diagnosed.",
+      "translation": "Диагностирована анемия из-за дефицита железа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_95",
+      "word": "Vitamin D critically low.",
+      "translation": "Критически низкий витамин D.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_96",
+      "word": "Prescription refill please.",
+      "translation": "Продлите рецепт, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_97",
+      "word": "Out of medication since Tuesday.",
+      "translation": "Лекарства закончились ещё во вторник.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_98",
+      "word": "Generic version available?",
+      "translation": "Есть дженерик (аналог дешевле)?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_99",
+      "word": "Brand name only, please.",
+      "translation": "Только оригинальный препарат, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_100",
+      "word": "Side effects listed in the leaflet.",
+      "translation": "Побочные эффекты перечислены в инструкции.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_101",
+      "word": "Drowsiness is a known side effect.",
+      "translation": "Сонливость — известный побочный эффект.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_102",
+      "word": "Avoid alcohol while taking these.",
+      "translation": "Не употребляйте алкоголь с этим препаратом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_103",
+      "word": "Do not drive after taking it.",
+      "translation": "После приёма за руль нельзя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_104",
+      "word": "Twice daily with food.",
+      "translation": "Два раза в день во время еды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_105",
+      "word": "Every eight hours exactly.",
+      "translation": "Строго каждые восемь часов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_106",
+      "word": "Finish the full course.",
+      "translation": "Пропейте курс полностью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_107",
+      "word": "Missed a dose — what now?",
+      "translation": "Пропустил приём — что делать?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_108",
+      "word": "Double up next dose?",
+      "translation": "Принять двойную дозу потом?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_109",
+      "word": "Never double doses without advice.",
+      "translation": "Никогда не удваивайте дозу без указания врача.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_110",
+      "word": "Allergic reaction: rash and itching.",
+      "translation": "Аллергическая реакция: сыпь и зуд.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_111",
+      "word": "Swelling of lips — emergency!",
+      "translation": "Отёк губ — это экстренная ситуация!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_112",
+      "word": "Carry an antihistamine always.",
+      "translation": "Всегда носи с собой антигистаминное.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_113",
+      "word": "EpiPen expired last month.",
+      "translation": "ЭпиПен истёк в прошлом месяце.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_114",
+      "word": "Chronic condition managed well.",
+      "translation": "Хроническое заболевание под контролем.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_115",
+      "word": "Regular check-ups every six months.",
+      "translation": "Регулярные осмотры каждые полгода.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_116",
+      "word": "Follow-up visit in two weeks.",
+      "translation": "Повторный приём через две недели.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_117",
+      "word": "Symptoms improving gradually.",
+      "translation": "Симптомы постепенно проходят.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_118",
+      "word": "Fully recovered, thanks doctor.",
+      "translation": "Полностью поправился, спасибо, доктор.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_119",
+      "word": "Family doctor knows full history.",
+      "translation": "Семейный врач знает всю историю болезни.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_120",
+      "word": "Medical records transferred digitally.",
+      "translation": "Карту перевели в электронный вид.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_121",
+      "word": "Second opinion always an option.",
+      "translation": "Второе мнение — всегда вариант.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_122",
+      "word": "Seeking specialist referral letter.",
+      "translation": "Нужно направление к специалисту.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_123",
+      "word": "Waiting room magazines outdated.",
+      "translation": "Журналы в приёмной устаревшие.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_124",
+      "word": "Number called over speaker.",
+      "translation": "Номер вызывают через динамик.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_125",
+      "word": "Vitals measured by nurse first.",
+      "translation": "Медсестра сначала сняла показатели.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_126",
+      "word": "Weight height charted routinely.",
+      "translation": "Рост и вес записывают по стандарту.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_127",
+      "word": "Temperature under armpit old school.",
+      "translation": "Температура подмышкой — по-старинке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_128",
+      "word": "Forehead scanner contactless quick.",
+      "translation": "Бесконтактный сканер лба — быстро.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_129",
+      "word": "Blood drawn skilled phlebotomist.",
+      "translation": "Кровь брал опытный флеболог.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_130",
+      "word": "Vein rollaway challenge admitted.",
+      "translation": "Признался: у меня сложные вены от иглы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_131",
+      "word": "Bruise after blood draw normal.",
+      "translation": "Синяк после забора крови нормален.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_132",
+      "word": "Results portal login emailed.",
+      "translation": "Логин в портал результатов прислали.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_133",
+      "word": "Reference ranges printed beside values.",
+      "translation": "Референсные значения напечатаны рядом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_134",
+      "word": "Out of range flagged red.",
+      "translation": "Отклонения помечены красным.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_135",
+      "word": "Doctor explained each marker patiently.",
+      "translation": "Врач терпеливо объяснил каждый показатель.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_136",
+      "word": "Layman terms much appreciated.",
+      "translation": "Спасибо, что объяснили без терминов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_137",
+      "word": "Jargon-free summary written down.",
+      "translation": "Простое резюме записал для памяти.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_138",
+      "word": "Treatment plan printed signed.",
+      "translation": "План лечения распечатали и подписали.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_139",
+      "word": "Informed consent form read fully.",
+      "translation": "Форму информированного согласия прочитал целиком.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_140",
+      "word": "Procedure risks listed honestly.",
+      "translation": "Риски процедуры перечислили честно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_141",
+      "word": "Anesthesia options discussed openly.",
+      "translation": "Варианты анестезии обсудили открыто.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_142",
+      "word": "Allergic reaction history flagged.",
+      "translation": "История аллергий помечена особо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_143",
+      "word": "Wristband allergy color-coded.",
+      "translation": "Браслет с аллергией выделен цветом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_144",
+      "word": "Pre-op fasting midnight onwards.",
+      "translation": "Перед операцией не есть после полуночи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_145",
+      "word": "Remove jewelry leave valuables home.",
+      "translation": "Украшения снять, ценности оставить дома.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_146",
+      "word": "Hospital gown opening backwards.",
+      "translation": "Больничную рубаху завязывают сзади.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_147",
+      "word": "IV drip drip-drip rhythm soothing oddly.",
+      "translation": "Капельница капает монотонно и успокаивающе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_148",
+      "word": "Nurse call button within reach.",
+      "translation": "Кнопка вызова медсестры под рукой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_149",
+      "word": "Rounds every morning questions answered.",
+      "translation": "Обходы каждое утро, на все отвечают.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_150",
+      "word": "Discharge papers instructions detailed.",
+      "translation": "В выписке подробные рекомендации.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_151",
+      "word": "Sick leave certificate stamped.",
+      "translation": "Больничный лист заверен печатью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_152",
+      "word": "Return to work gradual recommended.",
+      "translation": "Рекомендован постепенный выход на работу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_153",
+      "word": "Physiotherapy sessions twice weekly.",
+      "translation": "Физиотерапия дважды в неделю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_154",
+      "word": "Recovery exercises demonstrated video.",
+      "translation": "Упражнения показали на видео.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_155",
+      "word": "Follow-up MRI scheduled month later.",
+      "translation": "Контрольное МРТ через месяц.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_156",
+      "word": "Scars fade eventually reassured.",
+      "translation": "Успокоили: шрамы со временем бледнеют.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_157",
+      "word": "Silicone gel sheets recommended.",
+      "translation": "Посоветовали силиконовые пластины.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_158",
+      "word": "Sunscreen on scars essential summer.",
+      "translation": "Летом шрамам обязателен крем от солнца.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_159",
+      "word": "Prescription auto-renewal arranged.",
+      "translation": "Настроили автопродление рецептов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_160",
+      "word": "Pharmacy delivery monthly box.",
+      "translation": "Аптека привозит коробочку лекарств ежемесячно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_161",
+      "word": "Pill organizer mornings evenings compartments.",
+      "translation": "Таблетница с отделениями утро/вечер.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_162",
+      "word": "Medication schedule fridge magnet.",
+      "translation": "График приёма на магните холодильника.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_163",
+      "word": "Missed dose guidelines leaflet.",
+      "translation": "В инструкции есть про пропущенный приём.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_164",
+      "word": "Side effects subsided second week.",
+      "translation": "Побочки прошли на второй неделе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_165",
+      "word": "Report unusual reactions immediately.",
+      "translation": "О странных реакциях сообщайте сразу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_166",
+      "word": "Telemedicine video consultation convenient.",
+      "translation": "Телемедицина по видео — очень удобно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_167",
+      "word": "Camera angle throat check remote.",
+      "translation": "Горло осмотрели удалённо через камеру.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_doctor_168",
+      "word": "E-prescription sent to pharmacy directly.",
+      "translation": "Электронный рецепт ушёл прямо в аптеку.",
+      "language": "en"
+    },
+    {
       "id": "pb_atthedoctor_0_1",
       "word": "I've got a doctor's appointment.",
       "translation": "У меня назначен приём у врача.",

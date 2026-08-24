@@ -238,6 +238,600 @@
       "language": "en"
     },
     {
+      "id": "pbq_trainmetro_39",
+      "word": "Round trip to Boston, please.",
+      "translation": "Билет в Бостон и обратно, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_40",
+      "word": "Off-peak tickets are cheaper.",
+      "translation": "Билеты вне часа пик дешевле.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_41",
+      "word": "Peak fares apply until nine.",
+      "translation": "Тариф часа пик действует до девяти.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_42",
+      "word": "Group discount for six people?",
+      "translation": "Есть групповая скидка для шести человек?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_43",
+      "word": "Child ticket half price?",
+      "translation": "Детский билет за полцены?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_44",
+      "word": "Senior discount available?",
+      "translation": "Скидка для пенсионеров есть?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_45",
+      "word": "Validate your card at the yellow reader.",
+      "translation": "Приложите карту к жёлтому валидатору.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_46",
+      "word": "Tap in and tap out.",
+      "translation": "Приложите при входе и при выходе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_47",
+      "word": "Insufficient balance on the card.",
+      "translation": "Недостаточно средств на карте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_48",
+      "word": "Top up the minimum amount.",
+      "translation": "Пополните на минимальную сумму.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_49",
+      "word": "Machine only takes coins.",
+      "translation": "Автомат принимает только монеты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_50",
+      "word": "Ticket inspector coming through.",
+      "translation": "Контролёр идёт по вагону.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_51",
+      "word": "Show your ticket, please.",
+      "translation": "Предъявите билет, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_52",
+      "word": "Fine for riding without a ticket.",
+      "translation": "Штраф за безбилетный проезд.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_53",
+      "word": "I’ll buy one right now.",
+      "translation": "Я куплю билет прямо сейчас.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_54",
+      "word": "Which direction is inbound?",
+      "translation": "В какую сторону в центр (inbound)?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_55",
+      "word": "Outbound platform across the bridge.",
+      "translation": "Платформа «из города» через мост.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_56",
+      "word": "Northbound or southbound?",
+      "translation": "На север или на юг?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_57",
+      "word": "Terminus station, everyone off.",
+      "translation": "Конечная станция, все выходят.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_58",
+      "word": "End of the line, please exit.",
+      "translation": "Конечная остановка, просим выйти.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_59",
+      "word": "Service resumes at five a.m.",
+      "translation": "Движение возобновится в пять утра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_60",
+      "word": "Night buses replace trains tonight.",
+      "translation": "Сегодня ночью поезда заменят ночными автобусами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_61",
+      "word": "Track maintenance this weekend.",
+      "translation": "Ремонт путей в эти выходные.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_62",
+      "word": "Replacement shuttle running.",
+      "translation": "Ходит заменяющий шаттл.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_63",
+      "word": "Delays up to twenty minutes.",
+      "translation": "Задержки до двадцати минут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_64",
+      "word": "Minor delays on all lines.",
+      "translation": "Небольшие задержки на всех линиях.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_65",
+      "word": "Good service on all lines.",
+      "translation": "На всех линиях движение штатное.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_66",
+      "word": "Lifts to street level over there.",
+      "translation": "Лифты на поверхность вон там.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_67",
+      "word": "Stairs are quicker than waiting.",
+      "translation": "По лестнице быстрее, чем ждать лифт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_68",
+      "word": "Watch your head stepping out.",
+      "translation": "Осторожно, не ударитесь головой на выходе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_69",
+      "word": "Priority seats for elderly and disabled.",
+      "translation": "Приоритетные места для пожилых и маломобильных.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_70",
+      "word": "Give up your seat if needed.",
+      "translation": "Уступи место, если требуется.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_71",
+      "word": "Prams and bicycles at the rear car.",
+      "translation": "Коляски и велосипеды — в задний вагон.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_72",
+      "word": "No eating on the platform.",
+      "translation": "На платформе нельзя есть.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_73",
+      "word": "Bin your coffee before boarding.",
+      "translation": "Выбросьте кофе перед посадкой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_74",
+      "word": "Quiet carriage ahead of us.",
+      "translation": "Тихий вагон впереди.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_75",
+      "word": "Phone calls prohibited here.",
+      "translation": "Здесь запрещены телефонные разговоры.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_76",
+      "word": "Headphones on, volume low.",
+      "translation": "Наушники надел, громкость убавил.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_77",
+      "word": "Reserved seating sticker on the window.",
+      "translation": "Наклейка о бронировании мест на окне.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_78",
+      "word": "Unreserved cars fill up fast.",
+      "translation": "Вагоны без брони заполняются быстро.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_79",
+      "word": "Standing room only.",
+      "translation": "Только стоячие места.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_80",
+      "word": "Packed like sardines today.",
+      "translation": "Сегодня битком, как селёдка в бочке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_81",
+      "word": "Squeeze in, there’s room.",
+      "translation": "Втискивайтесь, есть место.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_82",
+      "word": "Next stop: Central Station.",
+      "translation": "Следующая станция: Центральный вокзал.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_83",
+      "word": "Announced stops listed above the door.",
+      "translation": "Список остановок над дверью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_84",
+      "word": "Electronic display shows next stop.",
+      "translation": "Электронное табло показывает следующую станцию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_85",
+      "word": "Change here for line four.",
+      "translation": "Здесь пересадка на четвёртую линию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_86",
+      "word": "Interchange takes about five minutes.",
+      "translation": "Переход занимает около пяти минут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_87",
+      "word": "Exit via the main concourse.",
+      "translation": "Выходите через главный зал.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_88",
+      "word": "Follow the green line overhead.",
+      "translation": "Идите по зелёной линии наверху.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_89",
+      "word": "Ticket machine touchscreen frozen.",
+      "translation": "Экран билетного автомата завис.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_90",
+      "word": "Card reader rejecting my card.",
+      "translation": "Считыватель не принимает мою карту.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_91",
+      "word": "Try inserting chip instead.",
+      "translation": "Попробуйте вставить карту чипом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_92",
+      "word": "Machine gives no change warning.",
+      "translation": "Автомат предупреждает: сдачи нет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_93",
+      "word": "Coins jammed in the slot.",
+      "translation": "Монеты застряли в приёмнике.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_94",
+      "word": "Attendant called to open machine.",
+      "translation": "Позвали сотрудника открыть автомат.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_95",
+      "word": "Refund button for failed purchase.",
+      "translation": "Кнопка возврата при неудачной покупке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_96",
+      "word": "Printed receipt as proof.",
+      "translation": "Распечатал чек как подтверждение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_97",
+      "word": "Season ticket renewal office upstairs.",
+      "translation": "Продление проездного — офис наверху.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_98",
+      "word": "A photo is needed for the monthly pass.",
+      "translation": "Для месячного проездного нужна фотография.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_99",
+      "word": "Pass valid calendar month.",
+      "translation": "Проездной действует календарный месяц.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_100",
+      "word": "Zone boundaries confuse visitors.",
+      "translation": "Границы зон сбивают приезжих с толку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_101",
+      "word": "Extra zone surcharge applies.",
+      "translation": "Есть надбавка за дополнительную зону.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_102",
+      "word": "The inspector fined tourists missing the zone ticket.",
+      "translation": "Контролёр оштрафовал туристов без доплаты за зону.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_103",
+      "word": "Appeal the fine by post.",
+      "translation": "Оспорить штраф можно письмом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_104",
+      "word": "Reduced fares before seven a.m.",
+      "translation": "Скидочные тарифы до семи утра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_105",
+      "word": "Night service runs Fridays and Saturdays only.",
+      "translation": "Ночное сообщение ходит только по пятницам и субботам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_106",
+      "word": "All-night metro on holidays.",
+      "translation": "Метро работает всю ночь в праздники.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_107",
+      "word": "Missed the last connection by a minute.",
+      "translation": "Не хватило одной минуты до последней пересадки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_108",
+      "word": "Taxi split three ways instead.",
+      "translation": "Разделили такси на троих вместо этого.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_109",
+      "word": "Station renamed recently, maps outdated.",
+      "translation": "Станцию переименовали, карты устарели.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_110",
+      "word": "Exit numbering changed too.",
+      "translation": "Нумерацию выходов тоже поменяли.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_111",
+      "word": "Locals still use the old name.",
+      "translation": "Местные всё ещё называют по-старому.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_112",
+      "word": "Announcements crackle unintelligibly.",
+      "translation": "Объявления трещат неразборчиво.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_113",
+      "word": "Platform display updated live.",
+      "translation": "Табло платформы обновляется вживую.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_114",
+      "word": "Countdown clocks per platform.",
+      "translation": "Часы обратного отсчёта на каждой платформе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_115",
+      "word": "Trains run most often during rush hour.",
+      "translation": "Чаще всего поезда ходят в час пик.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_116",
+      "word": "Every ninety seconds in the center.",
+      "translation": "В центре поезда каждые девяносто секунд.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_117",
+      "word": "Late night intervals stretch twenty minutes.",
+      "translation": "Поздним вечером интервалы растут до двадцати минут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_118",
+      "word": "Stand clear of closing doors.",
+      "translation": "Отойдите от закрывающихся дверей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_119",
+      "word": "Door obstruction buzzer sounds.",
+      "translation": "Звучит сигнал при помехе дверям.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_120",
+      "word": "Bag caught in the doors!",
+      "translation": "Сумка застряла в дверях!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_121",
+      "word": "Someone pulled the emergency handle correctly.",
+      "translation": "Аварийный рычаг кто-то применил правильно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_122",
+      "word": "Staff responded within seconds.",
+      "translation": "Персонал отреагировал за секунды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_123",
+      "word": "Platform hump tilts carriage.",
+      "translation": "Горб платформы наклоняет вагон.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_124",
+      "word": "Mind the step down here.",
+      "translation": "Осторожно, здесь ступенька вниз.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_125",
+      "word": "Gap wider at curved platforms.",
+      "translation": "Зазор шире на изогнутых платформах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_126",
+      "word": "Historic stations protected landmarks.",
+      "translation": "Исторические станции — охраняемые памятники.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_127",
+      "word": "The tiled mosaics are worth a detour.",
+      "translation": "Ради мозаик стоит сделать крюк.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_128",
+      "word": "Museum train runs first Sunday.",
+      "translation": "Музейный поезд ходит в первое воскресенье.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_129",
+      "word": "Photography tripods prohibited.",
+      "translation": "Штативы для съёмки запрещены.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_130",
+      "word": "Buskers licensed at entrances.",
+      "translation": "Уличные музыканты лицензированы у входов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_131",
+      "word": "Street cleaners mop nightly.",
+      "translation": "Уборщики моют станции ночью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_132",
+      "word": "Metro museum underground tour booked.",
+      "translation": "Записался на подземную экскурсию музея метро.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_133",
+      "word": "Abandoned ghost station stories.",
+      "translation": "Истории заброшенных станций-призраков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_134",
+      "word": "Construction bypass single track.",
+      "translation": "Из-за стройки — однопутное движение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_135",
+      "word": "Shuttle trains every fifteen minutes.",
+      "translation": "Челночные поезда каждые пятнадцать минут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_136",
+      "word": "Expect weekend closures till May.",
+      "translation": "Закрытия по выходным продлятся до мая.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_trainmetro_137",
+      "word": "Plan extra time for diversions.",
+      "translation": "Закладывайте время на объезды.",
+      "language": "en"
+    },
+    {
       "id": "pb_transportationtrainsubway_0_0",
       "word": "It took us days to track down the problem.",
       "translation": "У нас ушло несколько дней на то, чтобы выявить проблему.",

@@ -42,7 +42,7 @@
     {
       "id": "pbq_email_6",
       "word": "I am writing to inquire about…",
-      "translation": "Пишу вам, чтобы узнать о...",
+      "translation": "Пишу вам, чтобы узнать о.",
       "language": "en"
     },
     {
@@ -54,13 +54,13 @@
     {
       "id": "pbq_email_8",
       "word": "With reference to our conversation…",
-      "translation": "Со ссылкой на наш разговор...",
+      "translation": "Со ссылкой на наш разговор.",
       "language": "en"
     },
     {
       "id": "pbq_email_9",
       "word": "Further to my previous email…",
-      "translation": "В дополнение к моему предыдущему письму...",
+      "translation": "В дополнение к моему предыдущему письму.",
       "language": "en"
     },
     {
@@ -180,7 +180,7 @@
     {
       "id": "pbq_email_29",
       "word": "We regret to inform you that…",
-      "translation": "С сожалением сообщаем, что...",
+      "translation": "С сожалением сообщаем, что.",
       "language": "en"
     },
     {
@@ -277,6 +277,270 @@
       "id": "pbq_email_45",
       "word": "Sent from my iPhone.",
       "translation": "Отправлено с iPhone.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_46",
+      "word": "Thank you for reaching out.",
+      "translation": "Спасибо, что написали нам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_47",
+      "word": "We appreciate your interest.",
+      "translation": "Благодарим за интерес.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_48",
+      "word": "Your enquiry has been received.",
+      "translation": "Ваш запрос получен.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_49",
+      "word": "Processing time five business days.",
+      "translation": "Срок обработки — пять рабочих дней.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_50",
+      "word": "Application status update below.",
+      "translation": "Статус заявки — ниже.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_51",
+      "word": "Please disregard previous message.",
+      "translation": "Пожалуйста, игнорируйте предыдущее письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_52",
+      "word": "Correction appended at bottom.",
+      "translation": "Исправление — в конце письма.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_53",
+      "word": "Typo alert apologies in advance.",
+      "translation": "Возможны опечатки — заранее прошу прощения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_54",
+      "word": "Sent from mobile brevity excused.",
+      "translation": "Пишу с телефона, прошу прощения за краткость.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_55",
+      "word": "Formatting may display differently.",
+      "translation": "Форматирование может отображаться иначе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_56",
+      "word": "Plain text version attached.",
+      "translation": "Прилагаю версию в простом тексте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_57",
+      "word": "Newsletter subscription confirmed welcome aboard.",
+      "translation": "Подписка подтверждена, добро пожаловать!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_58",
+      "word": "Unsubscribe processed instantly sorry to see go.",
+      "translation": "Отписка оформлена; жаль расставаться.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_59",
+      "word": "Resubscribe anytime link works forever.",
+      "translation": "Вернуться можно всегда — ссылка бессрочная.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_60",
+      "word": "Verification code expires ten minutes.",
+      "translation": "Код подтверждения действует десять минут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_61",
+      "word": "Did not request this ignore safely.",
+      "translation": "Если это не вы — просто проигнорируйте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_62",
+      "word": "Security alert unusual location reviewed.",
+      "translation": "Предупреждение о входе с нового места.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_63",
+      "word": "Confirm identity link suspicious inspect.",
+      "translation": "Ссылка подтверждения подозрительна — изучите адрес.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_64",
+      "word": "Legitimate sender domain verified.",
+      "translation": "Домен отправителя проверен — всё чисто.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_65",
+      "word": "Forwarded spam report phishing team.",
+      "translation": "Переслал спам антиспам-команде.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_66",
+      "word": "Blocked sender list updated.",
+      "translation": "Чёрный список отправителей пополнен.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_67",
+      "word": "Filter rules inbox zero achieved.",
+      "translation": "Правилами фильтра держу ящик чистым.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_68",
+      "word": "Labels organize projects colors coded.",
+      "translation": "Ярлыки проектов размечены цветами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_69",
+      "word": "Archive not delete searchable later.",
+      "translation": "Архивируйте, а не удаляйте — поиск спасёт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_70",
+      "word": "Search operators from colon filter mastery.",
+      "translation": "Операторы поиска (from:) мастерство экономит часы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_71",
+      "word": "Auto-reply vacation dates set.",
+      "translation": "Автоответ с датами отпуска настроен.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_72",
+      "word": "Limited access during absence colleague covering.",
+      "translation": "В моё отсутствие отвечает коллега.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_73",
+      "word": "Urgent matters call emergency number provided.",
+      "translation": "Срочное — звоните по указанному телефону.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_74",
+      "word": "Catch up on return Monday backlog.",
+      "translation": "Вернусь в понедельник и разберу накопившееся.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_75",
+      "word": "Meeting invite calendar attachment included.",
+      "translation": "Приглашение в календарь приложено.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_76",
+      "word": "RSVP by end of week please.",
+      "translation": "Подтвердите участие до конца недели.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_77",
+      "word": "Agenda circulated morning prior.",
+      "translation": "Повестка разослана накануне утром.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_78",
+      "word": "Minutes distributed action items bolded.",
+      "translation": "Протокол разослан, поручения выделены.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_79",
+      "word": "Deadline reminder polite nudge attached.",
+      "translation": "Вежливое напоминание о дедлайне внутри.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_80",
+      "word": "Extension requested justified delay.",
+      "translation": "Продление срока запрошено с обоснованием.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_81",
+      "word": "Approved extension one week granted.",
+      "translation": "Одобрили продление на неделю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_82",
+      "word": "Final warning escalation avoided cooperation.",
+      "translation": "Благодаря сотрудничеству избежали эскалации.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_83",
+      "word": "Contract draft revisions tracked changes.",
+      "translation": "Правки договора в режиме рецензирования.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_84",
+      "word": "Accept all changes except clause four.",
+      "translation": "Принять все правки, кроме пункта четыре.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_85",
+      "word": "Redline version attached comparison.",
+      "translation": "Сравнительная версия во вложении.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_86",
+      "word": "Legal reviewed approved wording.",
+      "translation": "Юристы согласовали формулировки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_87",
+      "word": "Signature page printed wet ink required.",
+      "translation": "Страницу подписи печатают — нужна «мокрая» подпись.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_88",
+      "word": "Scan signed copy return today.",
+      "translation": "Отсканируйте подписанный экземпляр сегодня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_email_89",
+      "word": "Original posted courier tracking shared.",
+      "translation": "Оригинал отправлен курьером, трек-номер выслал.",
       "language": "en"
     }
   ]

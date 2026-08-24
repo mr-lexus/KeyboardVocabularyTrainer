@@ -436,6 +436,696 @@
       "language": "en"
     },
     {
+      "id": "pbq_airport_72",
+      "word": "Where is the check-in counter for this airline?",
+      "translation": "Где стойка регистрации этой авиакомпании?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_73",
+      "word": "Online check-in is faster.",
+      "translation": "Онлайн-регистрация быстрее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_74",
+      "word": "Here’s my booking reference.",
+      "translation": "Вот код моего бронирования.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_75",
+      "word": "Could you print my boarding pass?",
+      "translation": "Распечатайте мой посадочный талон, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_76",
+      "word": "Mobile boarding pass will do.",
+      "translation": "Подойдёт посадочный талон в телефоне.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_77",
+      "word": "Is the flight full today?",
+      "translation": "Рейс сегодня полный?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_78",
+      "word": "Any chance of an upgrade?",
+      "translation": "Есть шанс на повышение класса?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_79",
+      "word": "How much for extra legroom?",
+      "translation": "Сколько стоит место с увеличенным пространством для ног?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_80",
+      "word": "Are there middle seats free?",
+      "translation": "Средние места свободны?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_81",
+      "word": "Book me an exit row seat.",
+      "translation": "Забронируйте мне место у аварийного выхода.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_82",
+      "word": "Fragile items in this bag.",
+      "translation": "В этой сумке хрупкие вещи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_83",
+      "word": "Handle with care, please.",
+      "translation": "Обращайтесь осторожно, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_84",
+      "word": "This suitcase exceeds the weight limit.",
+      "translation": "Этот чемодан превышает лимит веса.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_85",
+      "word": "Weigh it again, please.",
+      "translation": "Взвесьте ещё раз, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_86",
+      "word": "Overweight baggage fee?",
+      "translation": "Сколько доплата за перевес багажа?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_87",
+      "word": "Move some items to carry-on.",
+      "translation": "Переложите часть вещей в ручную кладь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_88",
+      "word": "Where do I drop off my bags?",
+      "translation": "Куда сдать чемоданы?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_89",
+      "word": "Bags are checked through to Tokyo.",
+      "translation": "Багаж оформлен до Токио.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_90",
+      "word": "Luggage tag says priority.",
+      "translation": "На багажной бирке пометка «приоритет».",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_91",
+      "word": "Security line moves quickly.",
+      "translation": "Очередь на контроль идёт быстро.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_92",
+      "word": "Which lane for families?",
+      "translation": "Какая полоса для семей с детьми?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_93",
+      "word": "Priority lane for business class.",
+      "translation": "Приоритетная полоса для бизнес-класса.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_94",
+      "word": "Empty your pockets, please.",
+      "translation": "Освободите карманы, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_95",
+      "word": "Laptops out of the bag.",
+      "translation": "Достаньте ноутбуки из сумок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_96",
+      "word": "Liquids must be under one hundred milliliters.",
+      "translation": "Жидкости должны быть меньше ста миллилитров.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_97",
+      "word": "This water bottle has to go.",
+      "translation": "Эту бутылку воды придётся оставить.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_98",
+      "word": "Can I bring an empty bottle through?",
+      "translation": "Можно пронести пустую бутылку?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_99",
+      "word": "Duty-free purchases are allowed.",
+      "translation": "Покупки из duty-free разрешены.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_100",
+      "word": "Sealed bag with receipts, please.",
+      "translation": "Держите их в запечатанном пакете с чеками.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_101",
+      "word": "Random additional screening.",
+      "translation": "Выборочный дополнительный досмотр.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_102",
+      "word": "Follow me for a pat-down.",
+      "translation": "Пройдите за мной для личного досмотра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_103",
+      "word": "Wand check, arms out please.",
+      "translation": "Проход рамкой, руки в стороны, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_104",
+      "word": "Am I clear to go?",
+      "translation": "Я могу проходить?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_105",
+      "word": "You’re all set.",
+      "translation": "Все в порядке, проходите.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_106",
+      "word": "Where can I fill my water bottle?",
+      "translation": "Где можно наполнить бутылку водой?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_107",
+      "word": "Smoking area this way.",
+      "translation": "Курительная зона в ту сторону.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_108",
+      "word": "Prayer room location?",
+      "translation": "Где комната для молитв?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_109",
+      "word": "Kids play area nearby?",
+      "translation": "Где ближайшая детская игровая зона?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_110",
+      "word": "Nursing room on level two.",
+      "translation": "Комната матери и ребёнка на втором уровне.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_111",
+      "word": "Lounges upstairs.",
+      "translation": "Залы ожидания наверху.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_112",
+      "word": "Day pass for the lounge?",
+      "translation": "Можно разовый пропуск в зал ожидания?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_113",
+      "word": "Complimentary lounge access with this card.",
+      "translation": "С этой картой вход в зал бесплатно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_114",
+      "word": "Last call for boarding!",
+      "translation": "Последнее приглашение на посадку!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_115",
+      "word": "Gate change announcement.",
+      "translation": "Объявление о смене выхода.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_116",
+      "word": "Boarding gate moved to C2.",
+      "translation": "Выход перенесён на C2.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_117",
+      "word": "Delay compensation form, please.",
+      "translation": "Дайте форму на компенсацию за задержку, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_118",
+      "word": "Voucher for meals during the delay?",
+      "translation": "Будут ли талоны на питание во время задержки?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_119",
+      "word": "Hotel provided for overnight delay?",
+      "translation": "Отель положен при ночной задержке?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_120",
+      "word": "Rebooking desk is to the left.",
+      "translation": "Стойка перебронирования слева.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_121",
+      "word": "Next available flight tomorrow morning.",
+      "translation": "Следующий рейс завтра утром.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_122",
+      "word": "Put me on standby, please.",
+      "translation": "Запишите меня в лист ожидания, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_123",
+      "word": "Window seat near the wing, ideally.",
+      "translation": "Идеально — место у окна возле крыла.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_124",
+      "word": "Turbulence expected over the mountains.",
+      "translation": "Над горами ожидается турбулентность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_125",
+      "word": "Seatbelt sign is off now.",
+      "translation": "Табло «пристегните ремни» выключено.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_126",
+      "word": "Cabin crew will serve drinks shortly.",
+      "translation": "Бортпроводники скоро предложат напитки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_127",
+      "word": "Headphones in the armrest.",
+      "translation": "Наушники в подлокотнике.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_128",
+      "word": "In-flight magazine in the seat pocket.",
+      "translation": "Журнал в кармане кресла.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_129",
+      "word": "Customs form filled out.",
+      "translation": "Таможенную декларацию заполнил.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_130",
+      "word": "Immigration queue on the right.",
+      "translation": "Очередь на паспортный контроль справа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_131",
+      "word": "E-gates accept our passports.",
+      "translation": "Автоматические ворота принимают наши паспорта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_132",
+      "word": "Stamp my landing card, please.",
+      "translation": "Штамп в карту прибытия, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_133",
+      "word": "Oversized baggage counter this way.",
+      "translation": "Стойка негабаритного багажа сюда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_134",
+      "word": "Musical instrument checked carefully.",
+      "translation": "Музыкальный инструмент сдали аккуратно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_135",
+      "word": "Fragile sticker doubled up.",
+      "translation": "Наклейки «хрупкое» в два слоя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_136",
+      "word": "Sports equipment extra form.",
+      "translation": "На спортинвентарь отдельная форма.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_137",
+      "word": "Bike boxed per airline rules.",
+      "translation": "Велосипед упакован по правилам авиакомпании.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_138",
+      "word": "Stroller gate-checked free.",
+      "translation": "Коляску сдают у трапа бесплатно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_139",
+      "word": "Car seat counts as baggage?",
+      "translation": "Автокресло считается багажом?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_140",
+      "word": "Pet carrier cabin approved.",
+      "translation": "Переноску с питомцем одобрили в салон.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_141",
+      "word": "Veterinary certificate requested.",
+      "translation": "Запросили ветеринарный сертификат.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_142",
+      "word": "Unaccompanied minor wristband attached.",
+      "translation": "Ребёнку без сопровождения надели браслет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_143",
+      "word": "Flight attendant introduction smile.",
+      "translation": "Бортпроводник поприветствовал улыбкой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_144",
+      "word": "Safety demo familiar routine.",
+      "translation": "Инструктаж по безопасности — знакомая рутина.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_145",
+      "word": "Emergency exits counted silently.",
+      "translation": "Про себя посчитал аварийные выходы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_146",
+      "word": "Life vest under your seat.",
+      "translation": "Спасательный жилет под вашим сиденьем.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_147",
+      "word": "Oxygen masks before helping others.",
+      "translation": "Сначала маску себе, затем на детей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_148",
+      "word": "Brace position demonstrated briefly.",
+      "translation": "Показали позу эмерженси.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_149",
+      "word": "Cabin pressure ears popping.",
+      "translation": "От перепада давления закладывает уши.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_150",
+      "word": "Chewing gum helps equalize.",
+      "translation": "Жвачка помогает выровнять давление.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_151",
+      "word": "Yawning opens eustachian tubes.",
+      "translation": "Зевота открывает евстахиевы трубы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_152",
+      "word": "Baby crying during descent normal.",
+      "translation": "Плач младенца при снижении обычное дело.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_153",
+      "word": "Sucking pacifier relieves pressure.",
+      "translation": "Пустышка снимает заложенность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_154",
+      "word": "Landing gear thumps deployed.",
+      "translation": "Шасси выпустились с глухим стуком.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_155",
+      "word": "Flaps extended whining sound.",
+      "translation": "Закрылки гудят при выпуске.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_156",
+      "word": "Runway lights blurring past.",
+      "translation": "Огни полосы сливаются за окном.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_157",
+      "word": "Reverse thrust roaring deceleration.",
+      "translation": "Реверс ревёт при торможении.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_158",
+      "word": "Applause rippled through cabin.",
+      "translation": "По салону прокатились аплодисменты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_159",
+      "word": "Disembark row by row politely.",
+      "translation": "Выходим по рядам, без давки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_160",
+      "word": "Aisle standers blocked overhead bins.",
+      "translation": "Стоявшие в проходе загораживали багажные полки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_161",
+      "word": "Connecting flight departure board check.",
+      "translation": "Проверил табло стыковочных рейсов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_162",
+      "word": "Transit hotel nap booked.",
+      "translation": "Забронировал сон в транзитном отеле.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_163",
+      "word": "Shower lounge refreshed completely.",
+      "translation": "Душ в лаунже вернул к жизни.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_164",
+      "word": "Sleep pods hourly rate reasonable.",
+      "translation": "Капсулы сна — цена за час адекватная.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_165",
+      "word": "Recliner chairs quiet zone corner.",
+      "translation": "Кресла в тихом углу для отдыха.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_166",
+      "word": "Blanket rental vending machine.",
+      "translation": "Плед из вендингового автомата.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_167",
+      "word": "Duty-free bag sealed till boarding.",
+      "translation": "Пакет duty-free не вскрывают до посадки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_168",
+      "word": "Perfume sampling spritz regret.",
+      "translation": "Брызнул парфюм — запах не мой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_169",
+      "word": "Chocolate melts carry-on worry.",
+      "translation": "Шоколад в ручной клади растает!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_170",
+      "word": "Local delicacies gift boxed.",
+      "translation": "Местные деликатесы упаковали в подарок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_171",
+      "word": "Souvenir magnets weight limit.",
+      "translation": "Сувенирные магниты — съедают лимит веса.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_172",
+      "word": "Passport control queue snaking long.",
+      "translation": "Очередь на паспортный контроль змейкой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_173",
+      "word": "Business lane noticeably faster.",
+      "translation": "Деловая полоса заметно быстрее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_174",
+      "word": "Biometric gates no stamps anymore.",
+      "translation": "Биометрические ворота — штампов больше нет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_175",
+      "word": "Entry stamp date double-checked.",
+      "translation": "Перепроверил дату штампа въезда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_176",
+      "word": "Overstay fines researched beforehand.",
+      "translation": "Заранее изучил штрафы за перерасход дней.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_177",
+      "word": "Customs green channel walked.",
+      "translation": "Прошёл по зелёному коридору таможни.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_178",
+      "word": "Random check pulled aside politely.",
+      "translation": "Вежливо отвели на выборочную проверку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_179",
+      "word": "Bag swabbed for traces.",
+      "translation": "Сумку протёрли тестом на следы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_180",
+      "word": "Explosive detector beep false alarm.",
+      "translation": "Писк детектора взрывчатки — ложная тревога.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_181",
+      "word": "Second screening cleared quickly.",
+      "translation": "Второй досмотр прошёл быстро.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_182",
+      "word": "Welcome hall flowers vendor crowd.",
+      "translation": "В зале прилёта толпятся цветочницы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_183",
+      "word": "Driver sign spotted above heads.",
+      "translation": "Табличку водителя разглядел над головами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_184",
+      "word": "Sim card kiosk before taxi.",
+      "translation": "Сим-карту купил до такси.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_185",
+      "word": "ATM withdrawal airport rates worse.",
+      "translation": "Снимать деньги в аэропорту — невыгодный курс.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airport_186",
+      "word": "Currency exchange commission compared.",
+      "translation": "Сравнил комиссии обменников.",
+      "language": "en"
+    },
+    {
       "id": "pb_attheairport_0_0",
       "word": "I called security.",
       "translation": "Я вызвал охрану.",

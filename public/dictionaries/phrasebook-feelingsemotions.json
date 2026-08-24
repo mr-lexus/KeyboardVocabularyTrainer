@@ -269,8 +269,8 @@
     },
     {
       "id": "pbq_feelings_44",
-      "word": "Envy of your neighbors is pointless.",
-      "translation": "Завидовать соседям бессмысленно.",
+      "word": "There’s no point in envying others.",
+      "translation": "Завидовать другим бессмысленно.",
       "language": "en"
     },
     {
@@ -331,6 +331,360 @@
       "id": "pbq_feelings_54",
       "word": "Take a deep breath.",
       "translation": "Сделай глубокий вдох.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_55",
+      "word": "How did that make you feel?",
+      "translation": "Что ты при этом почувствовал?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_56",
+      "word": "I’m at a loss for words.",
+      "translation": "Я не нахожу слов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_57",
+      "word": "I’m overwhelmed.",
+      "translation": "Меня это переполняет / я не справляюсь с потоком эмоций.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_58",
+      "word": "I need to process this.",
+      "translation": "Мне нужно это осмыслить.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_59",
+      "word": "It hasn’t sunk in yet.",
+      "translation": "Это ещё не осозналось до конца.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_60",
+      "word": "I’m in shock, honestly.",
+      "translation": "Честно, я в шоке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_61",
+      "word": "I’m speechless.",
+      "translation": "Я онемел / нет слов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_62",
+      "word": "I’m overjoyed!",
+      "translation": "Я вне себя от радости!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_63",
+      "word": "I’m on cloud nine.",
+      "translation": "Я летаю на облаке счастья.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_64",
+      "word": "Life is beautiful.",
+      "translation": "Жизнь прекрасна.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_65",
+      "word": "I wouldn’t change a thing.",
+      "translation": "Я бы ничего не менял.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_66",
+      "word": "Content and grateful.",
+      "translation": "Доволен и благодарен.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_67",
+      "word": "Counting my blessings.",
+      "translation": "Считаю свои блага (благодарю за всё).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_68",
+      "word": "I feel blessed.",
+      "translation": "Я чувствую, что мне повезло в жизни.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_69",
+      "word": "I couldn’t ask for more.",
+      "translation": "Больше и желать нельзя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_70",
+      "word": "Living the dream.",
+      "translation": "Живу мечтой (шутл.).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_71",
+      "word": "Best day ever!",
+      "translation": "Лучший день в жизни!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_72",
+      "word": "Made my whole week.",
+      "translation": "Украсил мне всю неделю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_73",
+      "word": "I’m buzzing with excitement.",
+      "translation": "Я звеню от восторга.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_74",
+      "word": "Can’t stop smiling.",
+      "translation": "Не могу перестать улыбаться.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_75",
+      "word": "Grinning from ear to ear.",
+      "translation": "Улыбаюсь до ушей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_76",
+      "word": "My heart is full.",
+      "translation": "У меня сердце переполнено.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_77",
+      "word": "Touched beyond words.",
+      "translation": "Тронут(а) до глубины души.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_78",
+      "word": "That means the world to me.",
+      "translation": "Для меня это очень много значит.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_79",
+      "word": "You warmed my heart.",
+      "translation": "Ты согрел моё сердце.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_80",
+      "word": "I’m moved to tears.",
+      "translation": "Я растроган(а) до слёз.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_81",
+      "word": "Bittersweet memories.",
+      "translation": "Горько-сладкие воспоминания.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_82",
+      "word": "Nostalgia is hitting hard.",
+      "translation": "Ностальгия накрыла с головой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_83",
+      "word": "I miss being a kid sometimes.",
+      "translation": "Иногда скучаю по детству.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_84",
+      "word": "Time heals all wounds.",
+      "translation": "Время лечит любые раны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_85",
+      "word": "Grief comes in waves.",
+      "translation": "Горе накатывает волнами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_86",
+      "word": "I’m still grieving.",
+      "translation": "Я всё ещё скорблю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_87",
+      "word": "My heart goes out to them.",
+      "translation": "Моё сердце им принадлежит (им сочувствую).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_88",
+      "word": "I feel for you.",
+      "translation": "Мне искренне тебя жаль / понимаю тебя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_89",
+      "word": "That must be so hard.",
+      "translation": "Как же это тяжело для тебя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_90",
+      "word": "Sending strength.",
+      "translation": "Шлю тебе силы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_91",
+      "word": "I’m here for you.",
+      "translation": "Я рядом / я с тобой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_92",
+      "word": "Lean on me.",
+      "translation": "Обопрись на меня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_93",
+      "word": "You’re not alone in this.",
+      "translation": "Ты не один в этом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_94",
+      "word": "It’s okay to not be okay.",
+      "translation": "Нормально быть не в порядке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_95",
+      "word": "Feelings are valid.",
+      "translation": "Твои чувства имеют значение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_96",
+      "word": "Don’t bottle it up.",
+      "translation": "Не держи всё в себе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_97",
+      "word": "Let it all out.",
+      "translation": "Выплесни всё наружу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_98",
+      "word": "Have a good cry if you need to.",
+      "translation": "Поплачь, если нужно — поможет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_99",
+      "word": "Cry it out, you’ll feel better.",
+      "translation": "Проревись, станет легче.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_100",
+      "word": "I needed that cry.",
+      "translation": "Мне это было нужно — поплакала.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_101",
+      "word": "Feeling much lighter now.",
+      "translation": "Сейчас стало легче на душе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_102",
+      "word": "Weight lifted off my shoulders.",
+      "translation": "Будто гора с плеч.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_103",
+      "word": "Like a weight has been lifted.",
+      "translation": "Как будто гирю сняли с плеч.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_104",
+      "word": "Breathing easier now.",
+      "translation": "Теперь дышится легче.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_105",
+      "word": "Peace of mind at last.",
+      "translation": "Наконец-то душевный покой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_106",
+      "word": "At peace with it now.",
+      "translation": "Теперь я примирился с этим.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_107",
+      "word": "Made peace with the past.",
+      "translation": "Помирился со своим прошлым.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_108",
+      "word": "No regrets.",
+      "translation": "Никаких сожалений.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_109",
+      "word": "Live without regrets.",
+      "translation": "Живи без сожалений.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_110",
+      "word": "Looking back with fondness.",
+      "translation": "Оглядываюсь назад с теплотой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_111",
+      "word": "The good old days.",
+      "translation": "Старые добрые времена.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_112",
+      "word": "Those were the days!",
+      "translation": "Вот были времена!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_feelings_44",
+      "word": "Envy of your neighbors is pointless.",
+      "translation": "Завидовать соседям бессмысленно.",
       "language": "en"
     },
     {

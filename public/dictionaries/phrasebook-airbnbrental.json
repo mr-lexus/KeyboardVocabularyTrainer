@@ -242,6 +242,654 @@
       "word": "Sure, we’ll leave a five-star review!",
       "translation": "Конечно, оставим пятизвёздочный отзыв!",
       "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_40",
+      "word": "Second visit to this host!",
+      "translation": "Второй раз у этого хозяина!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_41",
+      "word": "Repeat guest discount possible?",
+      "translation": "Возможна скидка для постоянных гостей?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_42",
+      "word": "Long stay monthly rate?",
+      "translation": "Какая цена за долгий срок помесячно?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_43",
+      "word": "Discounts for bookings over two weeks?",
+      "translation": "Скидки за бронирование больше двух недель?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_44",
+      "word": "Flexible cancellation policy preferred.",
+      "translation": "Предпочитаю гибкую отмену.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_45",
+      "word": "Strict policy risky with flight delays.",
+      "translation": "Строгие правила рискованны при задержках рейсов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_46",
+      "word": "Instant book enabled.",
+      "translation": "Мгновенное бронирование включено.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_47",
+      "word": "Host responds within an hour.",
+      "translation": "Хозяин отвечает в течение часа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_48",
+      "word": "Response time matters when plans change.",
+      "translation": "Скорость ответа важна, когда планы меняются.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_49",
+      "word": "Verified photos match reality.",
+      "translation": "Проверенные фото соответствуют реальности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_50",
+      "word": "Reviews mention thin walls.",
+      "translation": "В отзывах пишут про тонкие стены.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_51",
+      "word": "Reading reviews between the lines.",
+      "translation": "Читаю отзывы между строк.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_52",
+      "word": "Superhost badge reassuring.",
+      "translation": "Значок Суперхоста внушает доверие.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_53",
+      "word": "Cleaning fee steep on short stays.",
+      "translation": "За короткие сроки уборка дорогая.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_54",
+      "word": "Longer stays reduce daily price.",
+      "translation": "Длинные сроки снижают цену за сутки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_55",
+      "word": "Midweek nights cheaper than weekends.",
+      "translation": "Будни дешевле выходных.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_56",
+      "word": "Security deposit held then released.",
+      "translation": "Залог блокируют, потом возвращают.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_57",
+      "word": "Deposit released after inspection.",
+      "translation": "Залог вернут после осмотра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_58",
+      "word": "Report damages immediately, honestly.",
+      "translation": "О повреждениях сообщайте сразу и честно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_59",
+      "word": "Minor wear and tear normal.",
+      "translation": "Небольшой естественный износ нормален.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_60",
+      "word": "Extra guests must be declared.",
+      "translation": "Дополнительных гостей нужно указывать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_61",
+      "word": "Quiet hours after ten enforced.",
+      "translation": "Тишину после десяти соблюдают строго.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_62",
+      "word": "Parties strictly forbidden.",
+      "translation": "Вечеринки строго запрещены.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_63",
+      "word": "Noise complaints risk eviction.",
+      "translation": "Жалобы на шум грозят выселением.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_64",
+      "word": "Neighbors sensitive here apparently.",
+      "translation": "Здесь, похоже, чуткие соседи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_65",
+      "word": "Trash sorting rules posted.",
+      "translation": "Правила сортировки мусора висят на стене.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_66",
+      "word": "Recycling bins color-coded.",
+      "translation": "Баки для переработки размечены цветами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_67",
+      "word": "Compost caddy under the sink.",
+      "translation": "Компостное ведро под раковиной.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_68",
+      "word": "Heating controls explained in guidebook.",
+      "translation": "Управление отоплением объяснено в памятке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_69",
+      "word": "Thermostat locked at twenty degrees.",
+      "translation": "Термостат заблокирован на двадцати градусах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_70",
+      "word": "Boiler instructions in the folder.",
+      "translation": "Инструкция по котлу в папке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_71",
+      "word": "Fuse box labeled clearly.",
+      "translation": "Щиток подписан понятно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_72",
+      "word": "Breakers tripped twice already.",
+      "translation": "Автоматы выбило уже дважды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_73",
+      "word": "Hair dryer tucked in wardrobe.",
+      "translation": "Фен спрятан в шкафу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_74",
+      "word": "Iron board inside closet shelf.",
+      "translation": "Гладильная доска на полке в шкафу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_75",
+      "word": "Spare linens in dresser drawer.",
+      "translation": "Запасное бельё в ящике комода.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_76",
+      "word": "Extra blankets for cold nights.",
+      "translation": "Дополнительные одеяла для холодных ночей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_77",
+      "word": "Coffee machine pods included.",
+      "translation": "Кофейные капсулы входят в набор.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_78",
+      "word": "Basic cooking supplies stocked.",
+      "translation": "Базовые продукты для готовки есть.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_79",
+      "word": "Oil and salt left by guests.",
+      "translation": "Масло и соль остались от прошлых гостей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_80",
+      "word": "Tea collection grows every guest.",
+      "translation": "Коллекция чая растёт с каждым гостем.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_81",
+      "word": "Local SIM card in the drawer.",
+      "translation": "Местная сим-карта лежит в ящике.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_82",
+      "word": "Umbrella by the door handy.",
+      "translation": "Зонт у двери очень кстати.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_83",
+      "word": "Beach towels separate from bath ones.",
+      "translation": "Пляжные полотенца отдельно от банных.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_84",
+      "word": "Board games shelf rainy days.",
+      "translation": "Полка настолок на дождливые дни.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_85",
+      "word": "Guidebook handwritten by host.",
+      "translation": "Гид написан рукой хозяина.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_86",
+      "word": "Restaurant cards with host discounts.",
+      "translation": "Карточки ресторанов со скидками хозяина.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_87",
+      "word": "Checkout checklist on the fridge.",
+      "translation": "Чек-лист выезда висит на холодильнике.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_88",
+      "word": "Strip beds before leaving?",
+      "translation": "Снять постельное перед уходом?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_89",
+      "word": "Start dishwasher on checkout morning.",
+      "translation": "Запустите посудомойку утром выезда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_90",
+      "word": "Keys returned via lockbox code.",
+      "translation": "Ключи вернуть в зам-бокс по коду.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_91",
+      "word": "Review exchanged both ways politely.",
+      "translation": "Отзывами обменялись взаимно вежливо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_92",
+      "word": "Host greeted us personally at arrival.",
+      "translation": "Хозяин лично встретил нас по приезде.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_93",
+      "word": "Local tips taped to the fridge.",
+      "translation": "Местные советы приклеены к холодильнику.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_94",
+      "word": "Welcome basket with wine waiting.",
+      "translation": "Нас ждала корзина с вином.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_95",
+      "word": "Neighborhood guidebook updated recently.",
+      "translation": "Гид по району недавно обновляли.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_96",
+      "word": "Metro map pinned above the desk.",
+      "translation": "Карта метро приколота над столом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_97",
+      "word": "Grocery store two blocks away.",
+      "translation": "Продуктовый магазин в двух кварталах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_98",
+      "word": "Bakery downstairs sells out early.",
+      "translation": "Пекарня внизу распродаётся рано.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_99",
+      "word": "The best coffee spot is around the block.",
+      "translation": "Лучшая кофейня — за углом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_100",
+      "word": "Farmers market on Saturdays nearby.",
+      "translation": "Фермерский рынок по субботам рядом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_101",
+      "word": "Laundromat coin-operated downstairs.",
+      "translation": "Прачечная самообслуживания внизу, монеты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_102",
+      "word": "Drying rack on the balcony.",
+      "translation": "Сушилка для белья на балконе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_103",
+      "word": "Iron hidden in bedroom closet.",
+      "translation": "Утюг спрятан в шкафу спальни.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_104",
+      "word": "Wi-Fi router restarted remotely by host.",
+      "translation": "Хозяин удалённо перезагрузил роутер.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_105",
+      "word": "Backup hotspot code provided.",
+      "translation": "Дали код резервной точки доступа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_106",
+      "word": "Streaming accounts were signed out before us.",
+      "translation": "Из стриминговых аккаунтов вышли до нашего приезда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_107",
+      "word": "Smart TV needs host account.",
+      "translation": "Смарт-ТВ требует аккаунт хозяина.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_108",
+      "word": "Bluetooth speaker paired instantly.",
+      "translation": "Колонка подключилась мгновенно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_109",
+      "word": "Universal adapters in kitchen drawer.",
+      "translation": "Переходники для розеток в кухонном ящике.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_110",
+      "word": "Blackout blinds in both bedrooms.",
+      "translation": "Блэкаут-шторы в обеих спальнях.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_111",
+      "word": "Mattress firmer than expected.",
+      "translation": "Матрас жёстче, чем ожидали.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_112",
+      "word": "Pillows swapped for softer ones.",
+      "translation": "Подушки поменяли на помягче.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_113",
+      "word": "Duvet cover freshly laundered.",
+      "translation": "Пододеяльник свежевыстиранный.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_114",
+      "word": "Heater timer set for mornings.",
+      "translation": "Таймер обогревателя настроен на утро.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_115",
+      "word": "Hot water takes a minute to arrive.",
+      "translation": "Горячая вода идёт с минутной задержкой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_116",
+      "word": "Water pressure strong upstairs.",
+      "translation": "Напор воды наверху сильный.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_117",
+      "word": "Drain gurgles but works fine.",
+      "translation": "Слив булькает, но работает исправно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_118",
+      "word": "Lightbulb replaced within an hour.",
+      "translation": "Лампочку заменили в течение часа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_119",
+      "word": "Smoke detector battery chirping.",
+      "translation": "Пищит батарейка датчика дыма.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_120",
+      "word": "Fire extinguisher under the sink.",
+      "translation": "Огнетушитель под раковиной.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_121",
+      "word": "First aid kit bathroom shelf.",
+      "translation": "Аптечка на полке в ванной.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_122",
+      "word": "Emergency numbers laminated by phone.",
+      "translation": "Экстренные номера заламинированы у телефона.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_123",
+      "word": "Building intercom code shared.",
+      "translation": "Код домофона прислали заранее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_124",
+      "word": "Elevator occasionally out of service.",
+      "translation": "Лифт иногда не работает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_125",
+      "word": "Fifth floor walk-up warning noted.",
+      "translation": "Предупреждение: пятый этаж без лифта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_126",
+      "word": "Dragging luggage up the stairs is painful.",
+      "translation": "Тащить чемоданы по лестнице — мучение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_127",
+      "word": "Host carried the heaviest suitcase up.",
+      "translation": "Хозяин занёс самый тяжёлый чемодан наверх.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_128",
+      "word": "Street parking permit included.",
+      "translation": "Разрешение на уличную парковку включено.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_129",
+      "word": "Garage remote on the keyring.",
+      "translation": "Пульт гаража на связке ключей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_130",
+      "word": "Charging spot for electric car.",
+      "translation": "Есть место зарядки электромобиля.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_131",
+      "word": "Bike storage in the courtyard shed.",
+      "translation": "Велосипеды хранят в сарае во дворе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_132",
+      "word": "Two bikes lent free of charge.",
+      "translation": "Два велосипеда дали бесплатно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_133",
+      "word": "Helmet straps adjustable, safe.",
+      "translation": "Ремни шлемов регулируются, безопасно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_134",
+      "word": "Rooftop terrace view stunning.",
+      "translation": "Вид с крыши-террасы потрясающий.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_135",
+      "word": "Sunset photos from the balcony.",
+      "translation": "Фото заката сделали с балкона.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_136",
+      "word": "A neighbor waters the plants weekly.",
+      "translation": "Сосед поливает растения раз в неделю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_137",
+      "word": "There is a cat living downstairs.",
+      "translation": "Этажом ниже живёт кот.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_138",
+      "word": "Allergic guests warned beforehand.",
+      "translation": "Аллергикам предупреждают заранее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_139",
+      "word": "Checkout instructions followed exactly.",
+      "translation": "Инструкции выезда выполнили точно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_140",
+      "word": "Left a thank-you note behind.",
+      "translation": "Оставили благодарственную записку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_141",
+      "word": "Review posted with five stars.",
+      "translation": "Отставили отзыв на пять звёзд.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_142",
+      "word": "Photos attached to honest review.",
+      "translation": "К честному отзыву приложили фото.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_143",
+      "word": "Rebooking same place next trip.",
+      "translation": "Забронировали то же место на следующую поездку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_144",
+      "word": "Shared listing link with friends.",
+      "translation": "Скинули друзьям ссылку на объявление.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_145",
+      "word": "Host replied thanking warmly.",
+      "translation": "Хозяин тепло поблагодарил в ответ.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_146",
+      "word": "Discount code for returning guests.",
+      "translation": "Код скидки для вернувшихся гостей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_airbnb_147",
+      "word": "Referral bonus applied automatically.",
+      "translation": "Реферальный бонус применился автоматически.",
+      "language": "en"
     }
   ]
 }

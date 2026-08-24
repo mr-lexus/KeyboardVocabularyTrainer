@@ -322,6 +322,618 @@
       "language": "en"
     },
     {
+      "id": "pbq_timedates_53",
+      "word": "Could you tell me the time?",
+      "translation": "Не подскажете время?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_54",
+      "word": "It's five to twelve.",
+      "translation": "Сейчас без пяти двенадцать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_55",
+      "word": "It's twenty past four.",
+      "translation": "Сейчас двадцать минут пятого.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_56",
+      "word": "It's a quarter past nine.",
+      "translation": "Сейчас четверть десятого.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_57",
+      "word": "Around seven-ish.",
+      "translation": "Часов в семь примерно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_58",
+      "word": "Sometime around noon.",
+      "translation": "Где-то около полудня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_59",
+      "word": "At exactly six o’clock.",
+      "translation": "Ровно в шесть часов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_60",
+      "word": "On the dot!",
+      "translation": "Минута в минуту!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_61",
+      "word": "Sharp at eight.",
+      "translation": "Ровно в восемь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_62",
+      "word": "Be punctual, please.",
+      "translation": "Будьте пунктуальны, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_63",
+      "word": "Sorry, I lost track of time.",
+      "translation": "Извините, я не заметил времени.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_64",
+      "word": "What time works best for you?",
+      "translation": "Какое время вам удобнее всего?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_65",
+      "word": "Any time after five.",
+      "translation": "В любое время после пяти.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_66",
+      "word": "Between two and three.",
+      "translation": "Между двумя и тремя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_67",
+      "word": "Before noon if possible.",
+      "translation": "До полудня, если возможно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_68",
+      "word": "Late afternoon suits me.",
+      "translation": "Ближе к вечеру мне удобно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_69",
+      "word": "First thing in the morning.",
+      "translation": "Первым делом утром.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_70",
+      "word": "Bright and early tomorrow.",
+      "translation": "Завтра спозаранку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_71",
+      "word": "At the crack of dawn.",
+      "translation": "Чуть свет / на заре.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_72",
+      "word": "In broad daylight.",
+      "translation": "Средь белого дня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_73",
+      "word": "At midnight sharp.",
+      "translation": "Ровно в полночь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_74",
+      "word": "In the wee hours.",
+      "translation": "В малые часы / глубокой ночью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_75",
+      "word": "Past midnight already.",
+      "translation": "Уже за полночь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_76",
+      "word": "Almost daybreak.",
+      "translation": "Почти рассвет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_77",
+      "word": "At dusk.",
+      "translation": "В сумерках.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_78",
+      "word": "From dusk till dawn.",
+      "translation": "От заката до рассвета.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_79",
+      "word": "See you at sunset.",
+      "translation": "Увидимся на закате.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_80",
+      "word": "What date works for you?",
+      "translation": "Какая дата вам подходит?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_81",
+      "word": "Pick any date in May.",
+      "translation": "Выберите любую дату в мае.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_82",
+      "word": "Circle the fifteenth.",
+      "translation": "Отметьте пятнадцатое число.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_83",
+      "word": "On the first of June.",
+      "translation": "Первого июня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_84",
+      "word": "By the end of the month.",
+      "translation": "До конца месяца.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_85",
+      "word": "Within a fortnight.",
+      "translation": "В течение двух недель.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_86",
+      "word": "Fortnightly meetings.",
+      "translation": "Встречи раз в две недели.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_87",
+      "word": "Every other day.",
+      "translation": "Через день.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_88",
+      "word": "Once in a blue moon.",
+      "translation": "Очень редко (раз в сто лет).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_89",
+      "word": "Once upon a time.",
+      "translation": "Давным-давно, в старину.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_90",
+      "word": "Back in the day.",
+      "translation": "В былые времена.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_91",
+      "word": "In my younger years.",
+      "translation": "В молодости.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_92",
+      "word": "Sooner than expected.",
+      "translation": "Раньше, чем ожидалось.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_93",
+      "word": "Later than planned.",
+      "translation": "Позже запланированного.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_94",
+      "word": "Ahead of schedule.",
+      "translation": "С опережением графика.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_95",
+      "word": "Right on schedule.",
+      "translation": "Точно по графику.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_96",
+      "word": "Behind schedule again.",
+      "translation": "Опять отставание от графика.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_97",
+      "word": "Running behind, sorry.",
+      "translation": "Выбиваюсь из графика, извини.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_98",
+      "word": "In due course.",
+      "translation": "В установленный срок / своевременно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_99",
+      "word": "At your earliest convenience.",
+      "translation": "В ближайшее удобное для вас время.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_100",
+      "word": "At the eleventh hour.",
+      "translation": "В последний момент.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_101",
+      "word": "Down to the wire.",
+      "translation": "Впритык к сроку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_102",
+      "word": "Cutting it close.",
+      "translation": "Впритык.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_103",
+      "word": "Just in the nick of time.",
+      "translation": "В самую последнюю секунду.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_104",
+      "word": "Made it with seconds to spare.",
+      "translation": "Успели за секунды до конца.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_105",
+      "word": "Better hurry, clock’s ticking.",
+      "translation": "Поторопитесь, время идёт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_106",
+      "word": "Time is money.",
+      "translation": "Время — деньги.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_107",
+      "word": "Wasting precious minutes.",
+      "translation": "Тратим драгоценные минуты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_108",
+      "word": "Every second counts.",
+      "translation": "Каждая секунда на счету.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_109",
+      "word": "In record time.",
+      "translation": "В рекордно короткие сроки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_110",
+      "word": "Faster than expected.",
+      "translation": "Быстрее, чем ожидалось.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_111",
+      "word": "Slower than molasses.",
+      "translation": "Медленнее некуда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_112",
+      "word": "Taking forever.",
+      "translation": "Тянется целую вечность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_113",
+      "word": "It’s been ages!",
+      "translation": "Сто лет не виделись!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_114",
+      "word": "Long overdue.",
+      "translation": "Давно назревший.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_115",
+      "word": "About time!",
+      "translation": "Давно пора!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_116",
+      "word": "High time to leave.",
+      "translation": "Давно пора уходить.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_117",
+      "word": "Not a moment too soon.",
+      "translation": "Как раз вовремя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_118",
+      "word": "Right on cue.",
+      "translation": "Как по заказу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_119",
+      "word": "In the meantime,",
+      "translation": "Тем временем,",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_120",
+      "word": "For the time being.",
+      "translation": "На данный момент.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_121",
+      "word": "As of Monday.",
+      "translation": "Начиная с понедельника.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_122",
+      "word": "Starting next month.",
+      "translation": "Со следующего месяца.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_123",
+      "word": "Effective immediately.",
+      "translation": "Вступает в силу немедленно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_124",
+      "word": "Until further notice.",
+      "translation": "До особого распоряжения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_125",
+      "word": "For the foreseeable future.",
+      "translation": "В обозримом будущем.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_126",
+      "word": "In the long run.",
+      "translation": "В конечном итоге / на длинной дистанции.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_127",
+      "word": "Sooner rather than later.",
+      "translation": "Чем скорее, тем лучше.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_128",
+      "word": "Any day now.",
+      "translation": "Со дня на день.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_129",
+      "word": "Day in, day out.",
+      "translation": "Изо дня в день.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_130",
+      "word": "Week after week.",
+      "translation": "Неделя за неделей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_131",
+      "word": "Year after year.",
+      "translation": "Год за годом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_132",
+      "word": "Over the years.",
+      "translation": "За эти годы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_133",
+      "word": "In recent months.",
+      "translation": "За последние месяцы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_134",
+      "word": "Last but not least.",
+      "translation": "Последнее по порядку, но не по важности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_135",
+      "word": "Marking the anniversary.",
+      "translation": "Отмечаем годовщину.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_136",
+      "word": "Happy anniversary!",
+      "translation": "С годовщиной!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_137",
+      "word": "Many happy returns!",
+      "translation": "С днём рождения, долгих лет!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_138",
+      "word": "Belated birthday wishes!",
+      "translation": "Запоздалые поздравления с днём рождения!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_139",
+      "word": "Save the date for the wedding.",
+      "translation": "Заблокируйте дату свадьбы в календаре.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_140",
+      "word": "Countdown has begun!",
+      "translation": "Обратный отсчёт начался!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_141",
+      "word": "Two days and counting.",
+      "translation": "Осталось два дня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_142",
+      "word": "D-day is Friday.",
+      "translation": "Решающий день — пятница.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_143",
+      "word": "Zero hour approaches.",
+      "translation": "Час настаёт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_144",
+      "word": "What keeps you so busy lately?",
+      "translation": "Что вас так занимает в последнее время?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_145",
+      "word": "This week flew by.",
+      "translation": "Неделя пролетела.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_146",
+      "word": "Dragging on forever today.",
+      "translation": "Сегодня тянется бесконечно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_147",
+      "word": "Monday again already?",
+      "translation": "Опять понедельник?!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_148",
+      "word": "Midweek hump day.",
+      "translation": "Экватор недели — среда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_149",
+      "word": "Almost weekend, hang tight.",
+      "translation": "Почти выходные, потерпите.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_150",
+      "word": "Sunday reset routine.",
+      "translation": "Воскресная перезагрузка (планы на неделю).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_151",
+      "word": "New Year resolutions fading.",
+      "translation": "Новогодние обещания тают.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_152",
+      "word": "Spring forward one hour.",
+      "translation": "Переводим часы на час вперёд.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_153",
+      "word": "Fall back tonight.",
+      "translation": "Ночью переводим часы назад.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_timedates_154",
+      "word": "Daylight saving confusion again.",
+      "translation": "Опять путаница с переводом часов.",
+      "language": "en"
+    },
+    {
       "id": "pb_timedates_0_3",
       "word": "What do you plan to do this year?",
       "translation": "Что ты планируешь сделать в этом году?",

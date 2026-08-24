@@ -218,6 +218,246 @@
       "word": "Pickpockets work in crowded places.",
       "translation": "Карманники работают в людных местах.",
       "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_36",
+      "word": "Retracing steps through the market.",
+      "translation": "Иду заново по рынку тем же маршрутом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_37",
+      "word": "Checked every pocket twice already.",
+      "translation": "Уже дважды проверил все карманы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_38",
+      "word": "Empty pockets, sinking feeling.",
+      "translation": "Пустые карманы — и сердце сразу падает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_39",
+      "word": "My backpack zipper stayed open all day.",
+      "translation": "Молния рюкзака была расстёгнута весь день.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_40",
+      "word": "Pickpocket bump near the fountain.",
+      "translation": "Толчок карманника у фонтана.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_41",
+      "word": "Distracted by street performer.",
+      "translation": "Отвлёкся на уличного артиста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_42",
+      "word": "Crowded tram perfect for thieves.",
+      "translation": "Тесный трамвай — рай для воров.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_43",
+      "word": "Someone snatched my phone running past.",
+      "translation": "Телефон выхватил пробегавший мимо вор.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_44",
+      "word": "Motorbike sidewalk theft common here.",
+      "translation": "Здесь часто крадут телефоны с мотоциклов с тротуара.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_45",
+      "word": "Keep phone away from curb side.",
+      "translation": "Держите телефон дальше от дороги.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_46",
+      "word": "Wear your bag cross-body in front.",
+      "translation": "Носите сумку через плечо спереди.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_47",
+      "word": "Zip pockets defeat pickpockets.",
+      "translation": "Застёгнутые карманы побеждают карманников.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_48",
+      "word": "Money belt under clothes advised.",
+      "translation": "Советуют поясную сумочку под одеждой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_49",
+      "word": "Split cash between bags.",
+      "translation": "Делите наличные между сумками.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_50",
+      "word": "Dummy wallet with expired cards.",
+      "translation": "Кошелёк-приманка с просроченными картами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_51",
+      "word": "Hotel safe for passports nightly.",
+      "translation": "Паспорта ночуют в сейфе отеля.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_52",
+      "word": "Police here accept photocopies of passports.",
+      "translation": "Полиция здесь принимает ксерокопии паспорта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_53",
+      "word": "Digital copies in cloud storage.",
+      "translation": "Цифровые копии в облаке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_54",
+      "word": "Email yourself passport scan.",
+      "translation": "Отправьте себе скан паспорта почтой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_55",
+      "word": "IMEI number written down somewhere?",
+      "translation": "Где-нибудь записан IMEI телефона?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_56",
+      "word": "Track my phone remotely possible?",
+      "translation": "Можно отследить телефон удалённо?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_57",
+      "word": "Marked device as lost mode.",
+      "translation": "Телефон переведён в режим пропажи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_58",
+      "word": "Remote wipe executed immediately.",
+      "translation": "Удалённая очистка выполнена немедленно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_59",
+      "word": "Find My shows last location gym.",
+      "translation": "«Локатор» показывает последнее место — спортзал.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_60",
+      "word": "Reception safe box checked.",
+      "translation": "Проверили сейф на ресепшене.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_61",
+      "word": "Housekeeping found nothing yet.",
+      "translation": "Горничные пока ничего не находили.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_62",
+      "word": "Restaurant staff kept it behind the bar.",
+      "translation": "Персонал ресторана убрал находку за стойку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_63",
+      "word": "Taxi company lost property line busy.",
+      "translation": "Линия находок таксопарка занята.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_64",
+      "word": "Transit authority form filled online.",
+      "translation": "Онлайн-форму транспортной компании заполнил.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_65",
+      "word": "Claim reference number noted.",
+      "translation": "Записал номер обращения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_66",
+      "word": "Item matched description exactly.",
+      "translation": "Вещь точно совпала с описанием.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_67",
+      "word": "Proved ownership with personal photos.",
+      "translation": "Доказал владение личными фотографиями.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_68",
+      "word": "Unique scratch on the case.",
+      "translation": "Особая царапина на чехле.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_69",
+      "word": "Stickers make luggage identifiable.",
+      "translation": "Наклейки делают чемодан узнаваемым.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_70",
+      "word": "Bright ribbon on handle tip.",
+      "translation": "Яркая лента на ручке чемодана.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_71",
+      "word": "Airline delivered suitcase next day.",
+      "translation": "Авиакомпания привезла чемодан назавтра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_72",
+      "word": "Compensation for essentials purchased.",
+      "translation": "Компенсировали необходимые покупки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_73",
+      "word": "Keep receipts for reimbursement claim.",
+      "translation": "Сохраняйте чеки для возмещения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_74",
+      "word": "Delayed baggage kit provided.",
+      "translation": "Выдали набор первой необходимости при задержке багажа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_lostitems_75",
+      "word": "Insurance claim form completed.",
+      "translation": "Страховую форму заполнили полностью.",
+      "language": "en"
     }
   ]
 }

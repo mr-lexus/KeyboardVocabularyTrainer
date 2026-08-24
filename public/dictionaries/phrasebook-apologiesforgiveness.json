@@ -258,7 +258,7 @@
     {
       "id": "pbq_apologies_42",
       "word": "Sorry to interrupt, but…",
-      "translation": "Извините, что перебиваю, но...",
+      "translation": "Извините, что перебиваю, но.",
       "language": "en"
     },
     {
@@ -289,6 +289,648 @@
       "id": "pbq_apologies_47",
       "word": "Go ahead, sorry.",
       "translation": "Говорите, извините (перебил).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_48",
+      "word": "Sorry for the confusion.",
+      "translation": "Извините за путаницу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_49",
+      "word": "Sorry for the mix-up.",
+      "translation": "Извините за накладку (путаницу).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_50",
+      "word": "Sorry about the noise.",
+      "translation": "Извините за шум.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_51",
+      "word": "Sorry I’m late — traffic was awful.",
+      "translation": "Извините за опоздание — были жуткие пробки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_52",
+      "word": "The traffic was terrible, sorry.",
+      "translation": "Пробки были ужасные, извините.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_53",
+      "word": "My alarm didn’t go off, forgive me.",
+      "translation": "Будильник не сработал, простите.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_54",
+      "word": "Overslept again, my bad.",
+      "translation": "Опять проспал, виноват.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_55",
+      "word": "Sorry, wrong number.",
+      "translation": "Извините, я ошибся номером.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_56",
+      "word": "Oops, my mistake.",
+      "translation": "Ой, моя ошибка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_57",
+      "word": "That one’s on me.",
+      "translation": "Это на моей совести.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_58",
+      "word": "The blame is entirely mine.",
+      "translation": "Вся вина полностью на мне.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_59",
+      "word": "It was careless of me.",
+      "translation": "Я был невнимателен.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_60",
+      "word": "How careless of me!",
+      "translation": "Какая же я неловкая!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_61",
+      "word": "How silly of me!",
+      "translation": "Ну и глупость же я сделал!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_62",
+      "word": "What was I thinking?",
+      "translation": "О чём я только думал?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_63",
+      "word": "Forgive my absent-mindedness.",
+      "translation": "Простите мою рассеянность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_64",
+      "word": "I wasn’t thinking straight.",
+      "translation": "Я тогда не соображал.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_65",
+      "word": "I lost track of time, sorry.",
+      "translation": "Я не заметил, как прошло время, извини.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_66",
+      "word": "Time got away from me.",
+      "translation": "Время от меня убежало.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_67",
+      "word": "Sorry to keep you waiting so long.",
+      "translation": "Извините, что заставил вас так долго ждать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_68",
+      "word": "Thanks for waiting.",
+      "translation": "Спасибо, что дождались.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_69",
+      "word": "Apologies for the short notice.",
+      "translation": "Извините, что предупреждаю в последний момент.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_70",
+      "word": "Sorry for such short notice.",
+      "translation": "Простите за спешку с предупреждением.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_71",
+      "word": "I hope I’m not intruding.",
+      "translation": "Надеюсь, я не помешал.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_72",
+      "word": "Am I interrupting something?",
+      "translation": "Я вам мешаю?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_73",
+      "word": "Sorry, am I in your way?",
+      "translation": "Извините, я вам не мешаю? / Я не на дороге?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_74",
+      "word": "Excuse the interruption.",
+      "translation": "Извините за вторжение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_75",
+      "word": "Pardon the intrusion.",
+      "translation": "Прошу простить за беспокойство.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_76",
+      "word": "Sorry, that was rude of me.",
+      "translation": "Извини, это было грубо с моей стороны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_77",
+      "word": "That was thoughtless of me.",
+      "translation": "Я поступил легкомысленно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_78",
+      "word": "I spoke out of turn.",
+      "translation": "Я ляпнул не подумав.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_79",
+      "word": "I shouldn’t have jumped to conclusions.",
+      "translation": "Зря я поспешил с выводами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_80",
+      "word": "I owe you an explanation.",
+      "translation": "Я должен вам всё объяснить.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_81",
+      "word": "Let me explain myself.",
+      "translation": "Позвольте объясниться.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_82",
+      "word": "Hear me out, please.",
+      "translation": "Выслушайте меня до конца, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_83",
+      "word": "Please hear me out.",
+      "translation": "Пожалуйста, дослушай меня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_84",
+      "word": "Can we start over?",
+      "translation": "Можно начнём заново?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_85",
+      "word": "Let’s wipe the slate clean.",
+      "translation": "Давай начнём с чистого листа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_86",
+      "word": "Water under the bridge.",
+      "translation": "Это уже вода утекла (всё в прошлом).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_87",
+      "word": "Let bygones be bygones.",
+      "translation": "Что было, то прошло.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_88",
+      "word": "No hard feelings?",
+      "translation": "Мы в расчёте? Без обид?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_89",
+      "word": "No hard feelings at all.",
+      "translation": "Никаких обид, честное слово.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_90",
+      "word": "Don’t sweat it.",
+      "translation": "Да не парься.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_91",
+      "word": "Forget I said anything.",
+      "translation": "Забудьте, что я это говорил.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_92",
+      "word": "Scratch that last remark.",
+      "translation": "Забудьте про моё последнее замечание.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_93",
+      "word": "Strike that from the record.",
+      "translation": "Уберите эту фразу из протокола (шутл.).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_94",
+      "word": "Retracted!",
+      "translation": "Беру свои слова назад!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_95",
+      "word": "I misspoke, sorry.",
+      "translation": "Я оговорился, извините.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_96",
+      "word": "My tongue slipped.",
+      "translation": "Я оговорилась.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_97",
+      "word": "That was a slip of the tongue.",
+      "translation": "Это была оговорка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_98",
+      "word": "Sorry for being blunt.",
+      "translation": "Извини за прямолинейность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_99",
+      "word": "No offense meant.",
+      "translation": "Без обид / Ничего личного.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_100",
+      "word": "None taken.",
+      "translation": "Ничего, не обиделся.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_101",
+      "word": "No offense, but…",
+      "translation": "Без обид, но.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_102",
+      "word": "With all due respect…",
+      "translation": "С должным уважением... (но вы не правы)",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_103",
+      "word": "Respectfully, I disagree.",
+      "translation": "С уважением, но я не согласен.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_104",
+      "word": "Sorry, I beg your pardon.",
+      "translation": "Прошу прощения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_105",
+      "word": "A thousand pardons.",
+      "translation": "Тысяча извинений (шутл.).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_106",
+      "word": "My sincerest apologies.",
+      "translation": "Мои искренние извинения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_107",
+      "word": "Please accept my deepest apologies.",
+      "translation": "Примите мои глубочайшие извинения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_108",
+      "word": "I can’t apologize enough.",
+      "translation": "Мне не хватит никаких извинений.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_109",
+      "word": "Words cannot express how sorry I am.",
+      "translation": "Нет слов, чтобы выразить, как мне жаль.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_110",
+      "word": "I feel awful about this.",
+      "translation": "Мне ужасно неловко за это.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_111",
+      "word": "This is entirely my fault.",
+      "translation": "Это целиком моя вина.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_112",
+      "word": "The fault lies with me alone.",
+      "translation": "Виноват тут только я.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_113",
+      "word": "Point taken, it won’t recur.",
+      "translation": "Замечание принято, больше не повторится.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_114",
+      "word": "Next time I’ll handle it differently.",
+      "translation": "В следующий раз я сделаю иначе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_115",
+      "word": "Lesson learned.",
+      "translation": "Урок усвоен.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_116",
+      "word": "Mea culpa.",
+      "translation": "Виноват (моя вина).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_117",
+      "word": "Shame on me.",
+      "translation": "Как мне не стыдно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_118",
+      "word": "I could kick myself.",
+      "translation": "Сам себя ругаю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_119",
+      "word": "Kick yourself later; fix it now.",
+      "translation": "Ругать себя будете потом — сейчас исправляйте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_120",
+      "word": "Sorry seems to be the hardest word.",
+      "translation": "Извиниться бывает труднее всего.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_121",
+      "word": "Actions will speak louder than this apology.",
+      "translation": "Дела скажут больше этих извинений.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_122",
+      "word": "Give me a chance to make it right.",
+      "translation": "Дай мне шанс всё исправить.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_123",
+      "word": "I’ll make it up to you somehow.",
+      "translation": "Я как-нибудь заглажу свою вину.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_124",
+      "word": "Dinner’s on me tonight.",
+      "translation": "Сегодня ужин за мой счёт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_125",
+      "word": "Coffee’s on me, no arguments.",
+      "translation": "Кофе за мой счёт, без возражений.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_126",
+      "word": "All is forgiven.",
+      "translation": "Всё прощено.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_127",
+      "word": "Say no more — we’re fine.",
+      "translation": "Хватит слов — у нас всё хорошо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_128",
+      "word": "Honestly, it’s nothing.",
+      "translation": "Да правда, ерунда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_129",
+      "word": "Think nothing of it.",
+      "translation": "Не стоит внимания.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_130",
+      "word": "It’s already forgotten.",
+      "translation": "Уже забыто.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_131",
+      "word": "Ancient history!",
+      "translation": "Давно дело было, забыто!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_132",
+      "word": "We’re square now.",
+      "translation": "Теперь мы в расчёте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_133",
+      "word": "All good between us.",
+      "translation": "Между нами всё в порядке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_134",
+      "word": "Truly, don’t mention it again.",
+      "translation": "Право, больше об этом не говори.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_135",
+      "word": "Enough apologizing already!",
+      "translation": "Хватит уже извиняться!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_136",
+      "word": "One apology is quite enough.",
+      "translation": "Одного извинения вполне достаточно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_137",
+      "word": "Your apology means a lot.",
+      "translation": "Ваши извинения много значат.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_138",
+      "word": "Thank you for saying sorry.",
+      "translation": "Спасибо, что извинились.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_139",
+      "word": "That takes courage to admit.",
+      "translation": "Признать это требует смелости.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_140",
+      "word": "Admitting it was brave of you.",
+      "translation": "Признаться — это смело с твоей стороны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_141",
+      "word": "I appreciate your honesty.",
+      "translation": "Ценю вашу честность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_142",
+      "word": "Sorry for the wall of text.",
+      "translation": "Извините за простыню текста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_143",
+      "word": "Apologies for the essay-length reply.",
+      "translation": "Простите за ответ длиной с сочинение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_144",
+      "word": "Sorry, hit send too early.",
+      "translation": "Извините, рано отправил сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_145",
+      "word": "Ignore my previous message.",
+      "translation": "Проигнорируйте моё прошлое сообщение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_146",
+      "word": "Correction to my earlier note.",
+      "translation": "Поправка к моему раннему сообщению.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_147",
+      "word": "My mistake on the dates.",
+      "translation": "Я ошибся с датами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_148",
+      "word": "Mixed up two threads, sorry.",
+      "translation": "Перепутал две переписки, извините.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_149",
+      "word": "Wrong recipient, please delete.",
+      "translation": "Не тому адресату — удалите, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_150",
+      "word": "Recall that email immediately!",
+      "translation": "Отзовите то письмо немедленно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_151",
+      "word": "Sent before proofreading, oops.",
+      "translation": "Отправил без вычитки — упс.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_152",
+      "word": "Typos mine, apologies.",
+      "translation": "Опечатки мои, извините.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_153",
+      "word": "Autocorrect betrayed me again.",
+      "translation": "Автозамена снова меня подвела.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_apologies_154",
+      "word": "Voice message by accident.",
+      "translation": "Голосовое записалось случайно.",
       "language": "en"
     },
     {

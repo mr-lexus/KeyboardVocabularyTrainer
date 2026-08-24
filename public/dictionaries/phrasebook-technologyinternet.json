@@ -274,6 +274,600 @@
       "language": "en"
     },
     {
+      "id": "pbq_techsupport_45",
+      "word": "My inbox is overflowing.",
+      "translation": "Мой почтовый ящик переполнен.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_46",
+      "word": "Unsubscribe from everything possible.",
+      "translation": "Отпишитесь от всего возможного.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_47",
+      "word": "Spam filter caught the invite.",
+      "translation": "Спам-фильтр съел приглашение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_48",
+      "word": "Check the spam folder, please.",
+      "translation": "Проверьте папку «Спам», пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_49",
+      "word": "Whitelist our address.",
+      "translation": "Добавьте наш адрес в исключения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_50",
+      "word": "Emails bounce back undelivered.",
+      "translation": "Письма возвращаются недоставленными.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_51",
+      "word": "Attachment size limit exceeded.",
+      "translation": "Превышен лимит размера вложения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_52",
+      "word": "Compress files into a zip.",
+      "translation": "Заархивируйте файлы в zip.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_53",
+      "word": "Share via cloud link instead.",
+      "translation": "Лучше пришлите ссылку на облако.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_54",
+      "word": "Link permissions set to view-only.",
+      "translation": "Права ссылки — только просмотр.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_55",
+      "word": "Grant edit access, please.",
+      "translation": "Дайте права на редактирование, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_56",
+      "word": "Version history saved automatically.",
+      "translation": "История версий сохраняется автоматически.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_57",
+      "word": "Restore previous version of the doc.",
+      "translation": "Восстановите прежнюю версию документа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_58",
+      "word": "Autosave saved my work.",
+      "translation": "Автосохранение спасло мою работу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_59",
+      "word": "Lost an hour of edits.",
+      "translation": "Потерял час правок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_60",
+      "word": "Sync conflict between devices.",
+      "translation": "Конфликт синхронизации между устройствами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_61",
+      "word": "Offline mode queued changes.",
+      "translation": "Автономный режим поставил изменения в очередь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_62",
+      "word": "Changes synced overnight.",
+      "translation": "Изменения синхронизировались за ночь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_63",
+      "word": "Battery health at eighty percent.",
+      "translation": "Здоровье батареи — восемьдесят процентов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_64",
+      "word": "Cycle count matters more than age.",
+      "translation": "Число циклов важнее возраста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_65",
+      "word": "Calibrate the battery monthly.",
+      "translation": "Калибруйте батарею ежемесячно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_66",
+      "word": "Fast charger heats the phone.",
+      "translation": "Быстрая зарядка греет телефон.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_67",
+      "word": "Charging overnight degrades capacity slowly.",
+      "translation": "Зарядка ночью медленно снижает ёмкость.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_68",
+      "word": "Optimized charging enabled.",
+      "translation": "Включена оптимизированная зарядка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_69",
+      "word": "Power bank fully drained.",
+      "translation": "Пауэрбанк разрядился полностью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_70",
+      "word": "Cable fraying near the connector.",
+      "translation": "Кабель перетирается у разъёма.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_71",
+      "word": "Third-party cables can be risky.",
+      "translation": "Сторонние кабели бывают опасны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_72",
+      "word": "Certified charger recommended.",
+      "translation": "Рекомендуется сертифицированная зарядка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_73",
+      "word": "Port clogged with lint.",
+      "translation": "Разъём забился пылью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_74",
+      "word": "Compressed air cleaned it out.",
+      "translation": "Продул сжатым воздухом — помогло.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_75",
+      "word": "Screen protector replaced cheaply.",
+      "translation": "Заменил защитное стекло дёшево.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_76",
+      "word": "Case absorbed the drop.",
+      "translation": "Чехол погасил падение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_77",
+      "word": "Cracked corner but working fine.",
+      "translation": "Угол треснут, но всё работает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_78",
+      "word": "Dead pixel spreading slowly.",
+      "translation": "Битый пиксель расползается.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_79",
+      "word": "Burn-in from static images.",
+      "translation": "Выгорание от статичных картинок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_80",
+      "word": "Brightness auto-adjusts too aggressively.",
+      "translation": "Яркость регулируется слишком агрессивно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_81",
+      "word": "True tone easier on the eyes.",
+      "translation": "True tone легче для глаз.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_82",
+      "word": "Night mode warms the screen.",
+      "translation": "Ночной режим делает экран теплее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_83",
+      "word": "Blue light filter before bed.",
+      "translation": "Синий фильтр перед сном.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_84",
+      "word": "Font size bumped up.",
+      "translation": "Увеличил размер шрифта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_85",
+      "word": "Dark mode saves battery on OLED.",
+      "translation": "Тёмная тема экономит батарею на OLED.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_86",
+      "word": "Notification overload, muted groups.",
+      "translation": "Уведомлений слишком много — заглушил группы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_87",
+      "word": "Do not disturb until morning.",
+      "translation": "Не беспокоить до утра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_88",
+      "word": "Focus mode blocks distractions.",
+      "translation": "Режим фокусировки блокирует отвлечения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_89",
+      "word": "App notifications prioritized.",
+      "translation": "Уведомления приложений настроены по важности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_90",
+      "word": "Background refresh drains battery.",
+      "translation": "Фоновое обновление сажает батарею.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_91",
+      "word": "Location services per-app only.",
+      "translation": "Геолокация — только для отдельных приложений.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_92",
+      "word": "Permissions audit recommended.",
+      "translation": "Рекомендую ревизию разрешений приложений.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_93",
+      "word": "Microphone access revoked.",
+      "translation": "Отозвал доступ к микрофону.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_94",
+      "word": "Camera indicator lights up unexpectedly.",
+      "translation": "Индикатор камеры загорается без причины.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_95",
+      "word": "Factory reset wiped everything.",
+      "translation": "Сброс до заводских стёр всё.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_96",
+      "word": "Signed out of all devices remotely.",
+      "translation": "Удалил входы на всех устройствах удалённо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_97",
+      "word": "Two-step verification everywhere now.",
+      "translation": "Теперь двухфакторная защита везде.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_98",
+      "word": "Backup codes printed and stored.",
+      "translation": "Резервные коды распечатаны и спрятаны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_99",
+      "word": "Passkey setup instead of passwords.",
+      "translation": "Настроил пасскей вместо паролей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_100",
+      "word": "Password manager generated it.",
+      "translation": "Сгенерировал менеджером паролей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_101",
+      "word": "Unique password per site.",
+      "translation": "Уникальный пароль для каждого сайта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_102",
+      "word": "Data breach email checked.",
+      "translation": "Проверил почту по базам утечек.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_103",
+      "word": "Change compromised passwords immediately.",
+      "translation": "Сразу меняйте скомпрометированные пароли.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_104",
+      "word": "Phishing texts impersonate banks.",
+      "translation": "Фишинговые СМС маскируются под банки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_105",
+      "word": "Bank never asks for full PIN.",
+      "translation": "Банк никогда не спрашивает полный PIN.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_106",
+      "word": "Hover links before clicking.",
+      "translation": "Наводите курсор на ссылки перед нажатием.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_107",
+      "word": "Shortened URLs hide destinations.",
+      "translation": "Короткие ссылки скрывают адреса.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_108",
+      "word": "VPN on public Wi-Fi always.",
+      "translation": "На публичном Wi-Fi — всегда VPN.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_109",
+      "word": "Hotel networks are insecure.",
+      "translation": "Сети отелей небезопасны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_110",
+      "word": "Router firmware updated quarterly.",
+      "translation": "Прошивку роутера обновляю ежеквартально.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_111",
+      "word": "Guest network for visitors.",
+      "translation": "Гостевая сеть для посетителей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_112",
+      "word": "Strong WPA3 encryption enabled.",
+      "translation": "Включено надёжное шифрование WPA3.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_113",
+      "word": "Default admin password changed.",
+      "translation": "Сменил заводской пароль администратора.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_114",
+      "word": "Port forwarding disabled unless needed.",
+      "translation": "Проброс портов выключен без необходимости.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_115",
+      "word": "Speed test results fluctuate.",
+      "translation": "Скорость по тесту скачет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_116",
+      "word": "Ping spikes during gaming.",
+      "translation": "Пинг подскакивает в играх.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_117",
+      "word": "Ethernet cable beats Wi-Fi stability.",
+      "translation": "Кабель стабильнее Wi-Fi.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_118",
+      "word": "Mesh system killed dead zones.",
+      "translation": "Mesh-система убила мёртвые зоны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_119",
+      "word": "Extender placed halfway upstairs.",
+      "translation": "Повторитель поставил на полпути наверх.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_120",
+      "word": "Channel interference from neighbors.",
+      "translation": "Помехи каналов от соседей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_121",
+      "word": "Router rebooted nightly on schedule.",
+      "translation": "Роутер перезагружается по расписанию ночью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_122",
+      "word": "Firmware update bricked it once.",
+      "translation": "Одно обновление прошивки окирпичило роутер.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_123",
+      "word": "Warranty replacement covered it.",
+      "translation": "Гарантийная замена покрыла это.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_124",
+      "word": "Keep purchase receipts for claims.",
+      "translation": "Храните чеки для гарантийных случаев.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_125",
+      "word": "Extended warranty rarely worth it.",
+      "translation": "Расширенная редко оправдывает себя (гарантия).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_126",
+      "word": "Cursor freezes randomly.",
+      "translation": "Курсор беспричинно замирает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_127",
+      "word": "Touchpad double-typing letters.",
+      "translation": "Тачпад дублирует буквы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_128",
+      "word": "Keyboard keys sticking.",
+      "translation": "Клавиши клавиатуры залипают.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_129",
+      "word": "Spilled coffee on the keyboard!",
+      "translation": "Пролил кофе на клавиатуру!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_130",
+      "word": "Flip it upside down quickly!",
+      "translation": "Быстро переверните вверх дном!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_131",
+      "word": "The rice trick is a myth for laptops.",
+      "translation": "Для ноутбуков способ с рисом — миф.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_132",
+      "word": "Power off and remove battery.",
+      "translation": "Выключите и вытащите батарею.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_133",
+      "word": "Take it to service immediately.",
+      "translation": "Сразу несите в сервис.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_134",
+      "word": "Data recovery might be possible.",
+      "translation": "Данные, возможно, восстановят.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_135",
+      "word": "Backups saved me twice this year.",
+      "translation": "Резервные копии дважды спасли меня за год.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_136",
+      "word": "Cloud sync finished overnight.",
+      "translation": "Облачная синхронизация закончилась за ночь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_137",
+      "word": "Storage almost full warning.",
+      "translation": "Предупреждение: память почти заполнена.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_138",
+      "word": "Duplicate photos eating space.",
+      "translation": "Повторяющиеся фото съедают место.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_139",
+      "word": "Deduplication app cleaned gigabytes.",
+      "translation": "Приложение нашло и убрало гигабайты дублей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_140",
+      "word": "Cache cleared, speed returned.",
+      "translation": "Очистил кеш — скорость вернулась.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_141",
+      "word": "Background apps hogging memory.",
+      "translation": "Фоновые приложения забивают память.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_142",
+      "word": "Task manager reveals culprits.",
+      "translation": "Диспетчер задач показывает виновников.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_techsupport_143",
+      "word": "Startup list trimmed drastically.",
+      "translation": "Список автозагрузки сильно сократил.",
+      "language": "en"
+    },
+    {
       "id": "pb_technologyinternet_0_0",
       "word": "Turn your phone off.",
       "translation": "Выключи телефон.",

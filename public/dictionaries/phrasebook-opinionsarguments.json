@@ -144,13 +144,13 @@
     {
       "id": "pbq_opinions_23",
       "word": "I see your point, but…",
-      "translation": "Я понимаю вашу мысль, но...",
+      "translation": "Я понимаю вашу мысль, но.",
       "language": "en"
     },
     {
       "id": "pbq_opinions_24",
       "word": "I see what you mean, however…",
-      "translation": "Я понимаю, о чём вы, однако...",
+      "translation": "Я понимаю, о чём вы, однако.",
       "language": "en"
     },
     {
@@ -192,7 +192,7 @@
     {
       "id": "pbq_opinions_31",
       "word": "That’s partly true, but…",
-      "translation": "Отчасти это правда, но...",
+      "translation": "Отчасти это правда, но.",
       "language": "en"
     },
     {
@@ -288,19 +288,19 @@
     {
       "id": "pbq_opinions_47",
       "word": "If I’m not mistaken…",
-      "translation": "Если я не ошибаюсь...",
+      "translation": "Если я не ошибаюсь.",
       "language": "en"
     },
     {
       "id": "pbq_opinions_48",
       "word": "Correct me if I’m wrong, but…",
-      "translation": "Поправьте меня, если я ошибаюсь, но...",
+      "translation": "Поправьте меня, если я ошибаюсь, но.",
       "language": "en"
     },
     {
       "id": "pbq_opinions_49",
       "word": "From my point of view…",
-      "translation": "С моей точки зрения...",
+      "translation": "С моей точки зрения.",
       "language": "en"
     },
     {
@@ -324,7 +324,7 @@
     {
       "id": "pbq_opinions_53",
       "word": "On the one hand… on the other hand…",
-      "translation": "С одной стороны... с другой стороны...",
+      "translation": "С одной стороны... с другой стороны.",
       "language": "en"
     },
     {
@@ -342,13 +342,721 @@
     {
       "id": "pbq_opinions_56",
       "word": "Speaking of which…",
-      "translation": "Кстати говоря...",
+      "translation": "Кстати говоря.",
       "language": "en"
     },
     {
       "id": "pbq_opinions_57",
       "word": "That reminds me…",
-      "translation": "Это напоминает мне...",
+      "translation": "Это напоминает мне.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_58",
+      "word": "What do you make of it?",
+      "translation": "Как ты это оцениваешь?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_59",
+      "word": "How do you feel about that?",
+      "translation": "Как ты к этому относишься?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_60",
+      "word": "What's your take on the news?",
+      "translation": "Что думаешь по поводу новостей?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_61",
+      "word": "Have you given it any thought?",
+      "translation": "Ты об этом думал?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_62",
+      "word": "Let me put it this way…",
+      "translation": "Скажем так.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_63",
+      "word": "To put it bluntly…",
+      "translation": "Если прямо говорить.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_64",
+      "word": "To put it mildly…",
+      "translation": "Мягко выражаясь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_65",
+      "word": "In a nutshell, it failed.",
+      "translation": "Если коротко, провалилось.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_66",
+      "word": "Long story short, we agreed.",
+      "translation": "Короче говоря, мы договорились.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_67",
+      "word": "All jokes aside…",
+      "translation": "Если без шуток.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_68",
+      "word": "Joking apart, we must act.",
+      "translation": "Шутки в сторону, нужно действовать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_69",
+      "word": "Strictly speaking, that’s not true.",
+      "translation": "Строго говоря, это неправда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_70",
+      "word": "Roughly speaking, it doubles the cost.",
+      "translation": "Грубо говоря, это удваивает цену.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_71",
+      "word": "Broadly speaking, I support it.",
+      "translation": "В общих чертах я это поддерживаю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_72",
+      "word": "For what it’s worth, I liked it.",
+      "translation": "Хоть это мало что значит, мне понравилось.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_73",
+      "word": "Take it or leave it.",
+      "translation": "Либо соглашайтесь, либо нет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_74",
+      "word": "Like it or not, times change.",
+      "translation": "Хочешь или нет, времена меняются.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_75",
+      "word": "Believe me, it won’t last.",
+      "translation": "Поверьте, это надолго не затянется.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_76",
+      "word": "Mark my words.",
+      "translation": "Запомните мои слова.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_77",
+      "word": "I have a feeling it’ll work out.",
+      "translation": "Чувствую, что всё получится.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_78",
+      "word": "Something tells me he’s lying.",
+      "translation": "Мне что-то подсказывает, что он лжёт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_79",
+      "word": "I could be wrong, but…",
+      "translation": "Возможно, я ошибаюсь, но.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_80",
+      "word": "Don’t quote me on that.",
+      "translation": "Только не ссылайся на меня в этом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_81",
+      "word": "I stand corrected.",
+      "translation": "Признаю свою ошибку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_82",
+      "word": "You’ve convinced me.",
+      "translation": "Вы меня убедили.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_83",
+      "word": "Now that you mention it…",
+      "translation": "Раз ты это упомянул.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_84",
+      "word": "Come to think of it, you’re right.",
+      "translation": "Подумав, признаю: ты прав.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_85",
+      "word": "On second thought, let’s wait.",
+      "translation": "Поразмыслив, давай подождём.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_86",
+      "word": "I changed my mind.",
+      "translation": "Я передумал.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_87",
+      "word": "I stick to my guns.",
+      "translation": "Я остаюсь при своём мнении.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_88",
+      "word": "I still say we’re right.",
+      "translation": "Я по-прежнему считаю, что мы правы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_89",
+      "word": "Nothing will change my mind.",
+      "translation": "Ничто не изменит моего мнения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_90",
+      "word": "You can’t be serious!",
+      "translation": "Да вы серьёзно?!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_91",
+      "word": "Surely not!",
+      "translation": "Да не может этого быть!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_92",
+      "word": "That’s beside the point.",
+      "translation": "Это не по существу / не относится к делу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_93",
+      "word": "That’s exactly the point.",
+      "translation": "В этом-то и суть.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_94",
+      "word": "You missed the point.",
+      "translation": "Ты не понял сути.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_95",
+      "word": "Let’s stay on topic.",
+      "translation": "Давайте не будем уходить от темы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_96",
+      "word": "We’re getting off track.",
+      "translation": "Мы уклоняемся от темы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_97",
+      "word": "That goes without saying.",
+      "translation": "Это само собой разумеется.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_98",
+      "word": "Needless to say, we were upset.",
+      "translation": "Само собой, мы были расстроены.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_99",
+      "word": "It’s common knowledge.",
+      "translation": "Это общеизвестный факт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_100",
+      "word": "Everyone knows that.",
+      "translation": "Это все знают.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_101",
+      "word": "Quite the opposite!",
+      "translation": "Совсем наоборот!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_102",
+      "word": "Far from it!",
+      "translation": "Далеко не так!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_103",
+      "word": "Not at all!",
+      "translation": "Нисколько!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_104",
+      "word": "Absolutely not!",
+      "translation": "Однозначно нет!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_105",
+      "word": "I suppose so.",
+      "translation": "Пожалуй, да.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_106",
+      "word": "I guess you could say that.",
+      "translation": "Можно и так сказать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_107",
+      "word": "Sort of.",
+      "translation": "И да и нет. / Типа того.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_108",
+      "word": "Kind of, yes.",
+      "translation": "Ну, отчасти да.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_109",
+      "word": "More or less.",
+      "translation": "Более или менее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_110",
+      "word": "It varies from person to person.",
+      "translation": "Это у каждого своё.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_111",
+      "word": "There’s no right answer.",
+      "translation": "Здесь нет правильного ответа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_112",
+      "word": "Both sides have a point.",
+      "translation": "Обе стороны по-своему правы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_113",
+      "word": "It’s a double-edged sword.",
+      "translation": "Это палка о двух концах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_114",
+      "word": "Every coin has two sides.",
+      "translation": "У любой медали две стороны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_115",
+      "word": "Don’t judge a book by its cover.",
+      "translation": "Не суди о книге по обложке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_116",
+      "word": "Appearances can be deceiving.",
+      "translation": "Внешность бывает обманчива.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_117",
+      "word": "Never say never.",
+      "translation": "Никогда не говори никогда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_118",
+      "word": "Time will tell.",
+      "translation": "Время покажет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_119",
+      "word": "The future will show.",
+      "translation": "Будущее покажет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_120",
+      "word": "History repeats itself.",
+      "translation": "История повторяется.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_121",
+      "word": "Old habits die hard.",
+      "translation": "Привычка — вторая натура.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_122",
+      "word": "Old habits die hard, you know.",
+      "translation": "Старые привычки трудно искоренить.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_123",
+      "word": "Better late than sorry.",
+      "translation": "Лучше поздно, чем сожалеть.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_124",
+      "word": "Practice what you preach.",
+      "translation": "Подчиняйся сам тому, что проповедуешь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_125",
+      "word": "Easier said than done.",
+      "translation": "Легче сказать, чем сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_126",
+      "word": "That’s easier said than done, honestly.",
+      "translation": "Честно говоря, проще сказать, чем сделать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_127",
+      "word": "It works both ways.",
+      "translation": "Это работает в обе стороны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_128",
+      "word": "Two wrongs don’t make a right.",
+      "translation": "Злом зла не исправишь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_129",
+      "word": "The end justifies the means.",
+      "translation": "Цель оправдывает средства.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_130",
+      "word": "Knowledge is power.",
+      "translation": "Знание — сила.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_131",
+      "word": "Silence gives consent.",
+      "translation": "Молчание — знак согласия.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_132",
+      "word": "Opposites attract.",
+      "translation": "Противоположности притягиваются.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_133",
+      "word": "Birds of a feather flock together.",
+      "translation": "Рыбак рыбака видит издалека.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_134",
+      "word": "Money doesn’t buy happiness.",
+      "translation": "Деньги не купят счастья.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_135",
+      "word": "Money talks.",
+      "translation": "Деньги решают всё.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_136",
+      "word": "Honesty is the best policy.",
+      "translation": "Честность — лучшая политика.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_137",
+      "word": "Curiosity killed the cat.",
+      "translation": "Любопытство сгубило кошку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_138",
+      "word": "Ignorance is bliss.",
+      "translation": "Незнание — благо (счастье).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_139",
+      "word": "Less is more.",
+      "translation": "Иногда меньше значит больше.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_140",
+      "word": "No pain, no gain.",
+      "translation": "Без труда не вытащишь и рыбку из пруда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_141",
+      "word": "No pain, no gain, as they say.",
+      "translation": "Без боли нет результата, как говорится.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_142",
+      "word": "When in Rome, do as the Romans do.",
+      "translation": "Со своим уставом в чужой монастырь не ходят.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_143",
+      "word": "Strike while the iron is hot.",
+      "translation": "Куй железо, пока горячо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_144",
+      "word": "Make hay while the sun shines.",
+      "translation": "Коси коса, пока роса.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_145",
+      "word": "Don’t count your chickens before they hatch.",
+      "translation": "Не дели шкуру неубитого медведя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_146",
+      "word": "The proof of the pudding is in the eating.",
+      "translation": "Всё проверяется на практике.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_147",
+      "word": "First come, first served.",
+      "translation": "Кто первый пришёл, того первым обслужили.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_148",
+      "word": "Out of sight, out of mind.",
+      "translation": "С глаз долой — из сердца вон.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_149",
+      "word": "Absence makes the heart grow fonder.",
+      "translation": "Разлука укрепляет чувства.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_150",
+      "word": "Blood is thicker than water.",
+      "translation": "Кровь гуще воды (родные ближе).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_151",
+      "word": "A friend in need is a friend indeed.",
+      "translation": "Друг в беде — настоящий друг.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_152",
+      "word": "Many hands make light work.",
+      "translation": "Когда рук много, работа спорится.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_153",
+      "word": "Too many cooks spoil the broth.",
+      "translation": "У семи нянек дитя без глазу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_154",
+      "word": "The early bird catches the worm.",
+      "translation": "Кто рано встаёт, тому Бог подаёт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_155",
+      "word": "A watched pot never boils.",
+      "translation": "Когда ждёшь, время тянется медленно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_156",
+      "word": "Still waters run deep.",
+      "translation": "В тихом омуте черти водятся.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_157",
+      "word": "All that glitters is not gold.",
+      "translation": "Не всё то золото, что блестит.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_158",
+      "word": "Don’t judge too quickly.",
+      "translation": "Не спеши с выводами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_159",
+      "word": "Give him the benefit of the doubt.",
+      "translation": "Отнесись к нему с доверчивостью (пока не доказано).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_160",
+      "word": "Let’s give it the benefit of the doubt.",
+      "translation": "Дадим этому шанс (не будем судить строго).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_161",
+      "word": "I beg your pardon?",
+      "translation": "Прошу прощения, что вы сказали?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_162",
+      "word": "Say no more.",
+      "translation": "Понял, продолжать не надо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_163",
+      "word": "Enough said.",
+      "translation": "Ясно, комментариев не требуется.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_164",
+      "word": "Well said!",
+      "translation": "Метко сказано!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_165",
+      "word": "Nicely put.",
+      "translation": "Хорошо сказано.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_166",
+      "word": "You took the words out of my mouth.",
+      "translation": "Ты сказал то, что я хотел сказать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_167",
+      "word": "Great minds think alike.",
+      "translation": "Великие умы мыслят одинаково.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_168",
+      "word": "I couldn’t have said it better.",
+      "translation": "Лучше и не скажешь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_169",
+      "word": "Truer words were never spoken.",
+      "translation": "Как же верно сказано.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_170",
+      "word": "That remains to be seen.",
+      "translation": "Это ещё вопрос / поживём — увидим.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_171",
+      "word": "Only time will tell if it works.",
+      "translation": "Только время покажет, сработает ли.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_172",
+      "word": "It’s anyone’s guess.",
+      "translation": "Кто его знает, можно лишь гадать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_173",
+      "word": "Your guess is as good as mine.",
+      "translation": "Откуда мне знать, гадаю как и ты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_174",
+      "word": "Who knows?",
+      "translation": "Кто знает?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_opinions_175",
+      "word": "Debatable.",
+      "translation": "Спорно.",
       "language": "en"
     },
     {

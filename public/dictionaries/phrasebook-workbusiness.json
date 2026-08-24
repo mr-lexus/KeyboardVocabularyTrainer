@@ -66,7 +66,7 @@
     {
       "id": "pbq_work_10",
       "word": "The main goal of this meeting is…",
-      "translation": "Главная цель этого собрания...",
+      "translation": "Главная цель этого собрания.",
       "language": "en"
     },
     {
@@ -379,6 +379,414 @@
       "id": "pbq_work_62",
       "word": "Your report was very thorough.",
       "translation": "Ваш доклад был очень основательным.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_63",
+      "word": "Welcome aboard!",
+      "translation": "Добро пожаловать в команду!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_64",
+      "word": "Welcome to the team!",
+      "translation": "Добро пожаловать в команду!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_65",
+      "word": "Meet the new hire.",
+      "translation": "Знакомьтесь, новый сотрудник.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_66",
+      "word": "Show him the ropes.",
+      "translation": "Познакомь его с работой (научи всему).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_67",
+      "word": "She’s shadowing me this week.",
+      "translation": "Она в этом неделю проходит стажировку рядом со мной.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_68",
+      "word": "Onboarding paperwork first.",
+      "translation": "Сначала оформительные бумаги.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_69",
+      "word": "HR will send the contract.",
+      "translation": "Кадры пришлют договор.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_70",
+      "word": "Probation period is three months.",
+      "translation": "Испытательный срок — три месяца.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_71",
+      "word": "Performance review next week.",
+      "translation": "Оценка эффективности на следующей неделе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_72",
+      "word": "Annual review coming up.",
+      "translation": "Скоро годовая аттестация.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_73",
+      "word": "KPIs look solid this quarter.",
+      "translation": "Показатели за квартал крепкие.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_74",
+      "word": "Numbers are up ten percent.",
+      "translation": "Цифры выросли на десять процентов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_75",
+      "word": "Revenue exceeded targets.",
+      "translation": "Выручка превысила план.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_76",
+      "word": "We blew past our goals.",
+      "translation": "Мы перевыполнили цели.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_77",
+      "word": "Budget got cut again.",
+      "translation": "Бюджет опять урезали.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_78",
+      "word": "Hiring freeze until further notice.",
+      "translation": "Заморозка найма до особого распоряжения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_79",
+      "word": "Two positions opened up.",
+      "translation": "Открылись две вакансии.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_80",
+      "word": "Referral bonus for recommendations.",
+      "translation": "Премия за рекомендацию кандидата.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_81",
+      "word": "Team building event on Thursday.",
+      "translation": "Тимбилдинг в четверг.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_82",
+      "word": "Offsite next month.",
+      "translation": "Выездной корпоратив в следующем месяце.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_83",
+      "word": "Retreat agenda attached.",
+      "translation": "Повестка выезда во вложении.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_84",
+      "word": "Casual dress code on Fridays.",
+      "translation": "По пятницам свободная форма одежды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_85",
+      "word": "Kitchen is stocked.",
+      "translation": "На кухне всё есть (запасы пополнены).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_86",
+      "word": "Coffee machine is broken again.",
+      "translation": "Кофемашина опять сломалась.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_87",
+      "word": "Someone stole my yogurt from the fridge!",
+      "translation": "Кто-то украл мой йогурт из холодильника!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_88",
+      "word": "Fridge cleanup at five.",
+      "translation": "Разбор холодильника в пять (уберите свои продукты).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_89",
+      "word": "Fire drill at noon.",
+      "translation": "Учебная пожарная тревога в полдень.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_90",
+      "word": "Assembly point is the parking lot.",
+      "translation": "Место сбора — парковка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_91",
+      "word": "Badge access only after hours.",
+      "translation": "После рабочего времени вход только по карте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_92",
+      "word": "Tailgate behind you, please.",
+      "translation": "Не пускайте хвостом за собой посторонних.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_93",
+      "word": "Security badge lost again.",
+      "translation": "Опять потерял пропуск.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_94",
+      "word": "IT reset my password twice today.",
+      "translation": "Айтишники дважды сбрасывали мне пароль.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_95",
+      "word": "VPN acting up again.",
+      "translation": "VPN опять барахлит.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_96",
+      "word": "Server maintenance tonight.",
+      "translation": "Техобслуживание сервера сегодня ночью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_97",
+      "word": "System downtime expected.",
+      "translation": "Ожидается простой системы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_98",
+      "word": "Everything back online.",
+      "translation": "Всё снова работает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_99",
+      "word": "Ticket resolved.",
+      "translation": "Заявка закрыта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_100",
+      "word": "Escalate it to support.",
+      "translation": "Передай это в поддержку (эскалация).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_101",
+      "word": "Client feedback attached.",
+      "translation": "Отзыв клиента во вложении.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_102",
+      "word": "Client wants changes.",
+      "translation": "Клиент просит правки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_103",
+      "word": "Revision requested.",
+      "translation": "Запрошена доработка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_104",
+      "word": "Final version approved!",
+      "translation": "Финальная версия утверждена!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_105",
+      "word": "Sign-off from legal pending.",
+      "translation": "Юристы ещё не согласовали.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_106",
+      "word": "Compliance signed off.",
+      "translation": "Комплаенс согласовал.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_107",
+      "word": "Contract renewal discussion.",
+      "translation": "Обсуждение продления договора.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_108",
+      "word": "Negotiations went smoothly.",
+      "translation": "Переговоры прошли гладко.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_109",
+      "word": "Deal is closed!",
+      "translation": "Сделка закрыта!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_110",
+      "word": "Invoice sent on the first.",
+      "translation": "Счёт выставлен первого числа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_111",
+      "word": "Payment overdue reminder.",
+      "translation": "Напоминание о просроченном платеже.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_112",
+      "word": "Expenses reimbursed weekly.",
+      "translation": "Расходы возмещают еженедельно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_113",
+      "word": "Submit receipts by Friday.",
+      "translation": "Сдайте чеки до пятницы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_114",
+      "word": "Payday is the twenty-fifth.",
+      "translation": "Зарплата двадцать пятого.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_115",
+      "word": "Raise request denied.",
+      "translation": "В просьбе о повышении отказано.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_116",
+      "word": "Promotion announced today!",
+      "translation": "О повышении объявили сегодня!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_117",
+      "word": "Well-deserved promotion.",
+      "translation": "Заслуженное повышение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_118",
+      "word": "New role starts Monday.",
+      "translation": "Новая должность с понедельника.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_119",
+      "word": "Handover notes shared.",
+      "translation": "Заметки по передаче дел разослал.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_120",
+      "word": "Knowledge transfer session booked.",
+      "translation": "Сессия передачи знаний забронирована.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_121",
+      "word": "Offboarding checklist complete.",
+      "translation": "Чек-лист увольнения заполнен.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_122",
+      "word": "Farewell party at five!",
+      "translation": "Прощальная вечеринка в пять!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_123",
+      "word": "Going-away card circulating.",
+      "translation": "Открытка на прощание ходит по рукам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_124",
+      "word": "Wishing you success in your new role!",
+      "translation": "Успехов на новом месте!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_125",
+      "word": "Keep in touch after you leave.",
+      "translation": "Оставайтесь на связи после ухода.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_126",
+      "word": "LinkedIn connect request sent.",
+      "translation": "Отправил запрос на связь в LinkedIn.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_127",
+      "word": "Desk moved next week.",
+      "translation": "Мой стол перенесут на следующей неделе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_128",
+      "word": "Hot-desking every Friday.",
+      "translation": "По пятницам — свободные рабочие места.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_129",
+      "word": "Printer code changed monthly.",
+      "translation": "Код принтера меняют ежемесячно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_work_130",
+      "word": "Parking permit renewal due.",
+      "translation": "Скоро продление парковочного пропуска.",
       "language": "en"
     },
     {

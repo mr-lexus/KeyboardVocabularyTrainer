@@ -266,6 +266,684 @@
       "word": "Would you like a box for those?",
       "translation": "Вам коробку для них?",
       "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_44",
+      "word": "New arrivals just landed.",
+      "translation": "Только что завезли новинки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_45",
+      "word": "This season’s palette is earthy.",
+      "translation": "Палитра сезона — природные тона.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_46",
+      "word": "Trying a capsule wardrobe myself.",
+      "translation": "Сам собираю капсульный гардероб.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_47",
+      "word": "Basics never go out of style.",
+      "translation": "База никогда не выходит из моды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_48",
+      "word": "Timeless over trendy, always.",
+      "translation": "Классика лучше трендов, всегда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_49",
+      "word": "Fast fashion guilt is real.",
+      "translation": "Чувство вины за fast fashion реально.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_50",
+      "word": "Quality denim lasts years.",
+      "translation": "Качественный деним живёт годами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_51",
+      "word": "Raw selvedge breaks in beautifully.",
+      "translation": "Необработанный селвидж красиво обкатывается.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_52",
+      "word": "Stretch denim comfort wins.",
+      "translation": "Комфорт стрейч-денима побеждает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_53",
+      "word": "High waist suits your figure.",
+      "translation": "Высокая талия вам идёт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_54",
+      "word": "Tailored fit versus slim fit?",
+      "translation": "Приталенный или узкий крой?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_55",
+      "word": "Slim taper works for office.",
+      "translation": "Зауженный крой подходит офису.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_56",
+      "word": "Relaxed fit for weekends.",
+      "translation": "Свободный крой на выходные.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_57",
+      "word": "Shoulders must sit right.",
+      "translation": "Плечи должны сидеть точно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_58",
+      "word": "Seams aligned at stripes.",
+      "translation": "Швы совпадают по полоскам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_59",
+      "word": "Pattern matching quality check.",
+      "translation": "Совпадение рисунка — признак качества.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_60",
+      "word": "Lining indicates better construction.",
+      "translation": "Подкладка говорит о лучшем пошиве.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_61",
+      "word": "Check stitching density inside.",
+      "translation": "Посмотрите плотность строчки внутри.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_62",
+      "word": "Loose thread already fraying.",
+      "translation": "Торчит нитка — уже осыпается.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_63",
+      "word": "Buttons reinforced or falling off?",
+      "translation": "Пуговицы укреплены или отвалятся?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_64",
+      "word": "Zipper glides smoothly.",
+      "translation": "Молния ходит плавно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_65",
+      "word": "Test all pockets depth.",
+      "translation": "Проверьте глубину всех карманов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_66",
+      "word": "Hidden inner pocket for passport.",
+      "translation": "Скрытый внутренний карман для паспорта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_67",
+      "word": "Hood lining detachable?",
+      "translation": "Подкладка капюшона отстёгивается?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_68",
+      "word": "Drawstrings adjustable both sides.",
+      "translation": "Шнурки регулируются с обеих сторон.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_69",
+      "word": "Water-resistant versus waterproof difference.",
+      "translation": "Разница водоотталкивающего и водонепроницаемого.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_70",
+      "word": "Sealed seams for heavy rain.",
+      "translation": "Проклеенные швы для сильного дождя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_71",
+      "word": "Breathable membrane prevents sweat.",
+      "translation": "Дышащая мембрана против пота.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_72",
+      "word": "Layer up for winter hikes.",
+      "translation": "Для зимних походов одевайтесь слоями.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_73",
+      "word": "Merino wool resists odor.",
+      "translation": "Мериносовая шерсть не впитывает запахи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_74",
+      "word": "Cotton breathes better than polyester.",
+      "translation": "Хлопок дышит лучше полиэстера.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_75",
+      "word": "Synthetic blends dry faster.",
+      "translation": "Синтетические смеси сохнут быстрее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_76",
+      "word": "Iron-free fabrics travel well.",
+      "translation": "Не мнущиеся ткани удобны в поездках.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_77",
+      "word": "Pack wrinkle-prone pieces last.",
+      "translation": "Мнущееся кладите в чемодан последними.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_78",
+      "word": "Garment bag for suits.",
+      "translation": "Чехол для костюмов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_79",
+      "word": "Shoe horn included with loafers.",
+      "translation": "Рожок идёт с лоферами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_80",
+      "word": "Leather stretches half size.",
+      "translation": "Кожа растягивается на полразмера.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_81",
+      "word": "Suede hates rain, remember.",
+      "translation": "Замша боится дождя, запомни.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_82",
+      "word": "Protector spray for nubuck.",
+      "translation": "Спрей-защита для нубука.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_83",
+      "word": "Heel height comfortable all day?",
+      "translation": "Каблук комфортен на весь день?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_84",
+      "word": "Arch support matters most.",
+      "translation": "Главное — поддержка свода стопы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_85",
+      "word": "Insoles replaceable in sneakers.",
+      "translation": "Стельки в кроссовках сменные.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_86",
+      "word": "Wide fit available in store.",
+      "translation": "Полную колодку можно посмотреть в магазине.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_87",
+      "word": "Returns window excludes final sale.",
+      "translation": "Финальная распродажа возврату не подлежит.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_88",
+      "word": "Clearance items as-is only.",
+      "translation": "Уценённые товары продаются как есть.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_89",
+      "word": "Fitting rooms close thirty minutes early.",
+      "translation": "Примерочные закрываются за полчаса.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_90",
+      "word": "Queue for mirrors weekend madness.",
+      "translation": "Очередь к зеркалам в выходные — безумие.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_91",
+      "word": "Dressing room attendant counts items.",
+      "translation": "Сотрудник считает вещи перед примерочной.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_92",
+      "word": "Numbered tag shows limit.",
+      "translation": "На бирке номер показывает лимит вещей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_93",
+      "word": "Hangers returned to staff, please.",
+      "translation": "Возвращайте вешалки сотрудникам, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_94",
+      "word": "Hold these at the counter while browsing.",
+      "translation": "Подержите это на стойке, пока я смотрю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_95",
+      "word": "Starting a pile of maybes.",
+      "translation": "Начинаю стопку «может быть».",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_96",
+      "word": "Decision fatigue from too many options.",
+      "translation": "Усталость от выбора из-за обилия вариантов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_97",
+      "word": "Sleep on it before big purchases.",
+      "translation": "Обдумайте крупные покупки до утра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_98",
+      "word": "Impulse buys regretted later.",
+      "translation": "Спонтанные покупки потом жалко.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_99",
+      "word": "Wardrobe audit before sales season.",
+      "translation": "Ревизия гардероба перед сезоном распродаж.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_100",
+      "word": "Donate what you haven’t worn in a year.",
+      "translation": "Отдайте то, что не носили год.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_101",
+      "word": "One in, one out rule works.",
+      "translation": "Правило «одно купил — одно отдал» работает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_102",
+      "word": "Alterations counter downstairs.",
+      "translation": "Ателье по подгонке этажом ниже.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_103",
+      "word": "Hemming trousers same week.",
+      "translation": "Укоротить брюки могут за неделю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_104",
+      "word": "Tailoring costs extra naturally.",
+      "translation": "Подгонка естественно оплачивается отдельно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_105",
+      "word": "Vintage rack hidden gems hunting.",
+      "translation": "Охота за находками на полке винтажа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_106",
+      "word": "Thrift store treasure Thursday haul.",
+      "translation": "Четверг — удачный заход в секонд-хенд.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_107",
+      "word": "Secondhand first choice now.",
+      "translation": "Теперь сначала смотрю секонды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_108",
+      "word": "Sustainable fashion movement growing.",
+      "translation": "Движение устойчивой моды растёт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_109",
+      "word": "Ethical brands worth premium.",
+      "translation": "Этичные бренды стоят наценки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_110",
+      "word": "Fair trade cotton label checked.",
+      "translation": "Проверил маркировку fair trade.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_111",
+      "word": "Organic cotton softer washes.",
+      "translation": "Органический хлопок мягче с каждой стиркой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_112",
+      "word": "Bamboo fabric temperature regulating.",
+      "translation": "Бамбуковая ткань регулирует тепло.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_113",
+      "word": "Linen wrinkles charmingly though.",
+      "translation": "Лён мнётся, но это даже мило.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_114",
+      "word": "Summer linen breathes beautifully.",
+      "translation": "Летом лён отлично дышит.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_115",
+      "word": "Wool coat investment piece.",
+      "translation": "Шерстяное пальто — инвестиция на годы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_116",
+      "word": "Cashmere pilling prevention tips?",
+      "translation": "Как избежать катышков на кашемире?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_117",
+      "word": "Fabric comb de-pills gently.",
+      "translation": "Расчёска для ткани убирает катышки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_118",
+      "word": "Hand wash cashmere lukewarm.",
+      "translation": "Кашемир стирают вручную в тёплой воде.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_119",
+      "word": "Dry flat never hanger.",
+      "translation": "Сушить горизонтально, не на вешалке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_120",
+      "word": "Silk pillowcase hair benefits.",
+      "translation": "Шёлковая наволочка полезна для волос.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_121",
+      "word": "Delicate cycle mesh bag always.",
+      "translation": "Деликатные вещи — всегда в мешке для стирки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_122",
+      "word": "Color catcher sheets miracle.",
+      "translation": "Ловушки цвета — настоящее чудо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_123",
+      "word": "Red sock ruined white load once.",
+      "translation": "Красный носок погубил целую стирку белого.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_124",
+      "word": "Separate laundry like grandma taught.",
+      "translation": "Сортирую бельё как учила бабушка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_125",
+      "word": "Denim freeze instead washing hack.",
+      "translation": "Лайфхак: джинсы можно «морозить» вместо стирки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_126",
+      "word": "Raw denim fade patterns personal.",
+      "translation": "У сырого денима выцветания уникальны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_127",
+      "word": "Whiskers creases behind knees form.",
+      "translation": "За коленями появляются «усы» — заломы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_128",
+      "word": "Selvedge line inside cuff visible.",
+      "translation": "Кромка видна на отвороте брючины.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_129",
+      "word": "Chain stitched hem vintage value.",
+      "translation": "Цепной шов подола — признак винтажности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_130",
+      "word": "Buttons mother-of-pearl real shell.",
+      "translation": "Пуговицы из перламутра — настоящий панцирь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_131",
+      "word": "YKK zipper quality indicator.",
+      "translation": "Молния YKK — признак качества.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_132",
+      "word": "French seams inside finishing.",
+      "translation": "Французские швы внутри — аккуратная отделка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_133",
+      "word": "Basting stitches removed wearing.",
+      "translation": "Временные стежки убирают перед ноской.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_134",
+      "word": "Vent tacking thread snip gently.",
+      "translation": "Нитку на шлице срезают осторожно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_135",
+      "word": "Pocket sewn shut deliberately.",
+      "translation": "Карман зашит намеренно — чтобы сохранить силуэт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_136",
+      "word": "Care label symbols decoded online.",
+      "translation": "Значки на ярлыке расшифровываются онлайн.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_137",
+      "word": "Iron temperature matching fabric.",
+      "translation": "Утюг по температуре — под ткань.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_138",
+      "word": "Steam refreshes between washes.",
+      "translation": "Отпаривание освежает между стирками.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_139",
+      "word": "Lint roller living room staple.",
+      "translation": "Валик для ворса — маст-хэв в гостиной.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_140",
+      "word": "Pet hair magnet fabrics avoided.",
+      "translation": "Ткани-магниты для шерсти лучше обходить стороной.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_141",
+      "word": "Static cling dryer balls fix.",
+      "translation": "Шарики для сушки спасают от статики.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_142",
+      "word": "Socks disappearing mystery unsolved.",
+      "translation": "Тайна пропадающих носков нераскрыта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_143",
+      "word": "Mateless socks craft project pile.",
+      "translation": "Гора одиноких носков копится для рукоделия.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_144",
+      "word": "Underwear drawer Marie Kondoed.",
+      "translation": "Ящик белья разобран по КонМари.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_145",
+      "word": "Fold vertically see everything.",
+      "translation": "Вертикальная складка — видно всё сразу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_146",
+      "word": "Seasonal wardrobe rotation boxes.",
+      "translation": "Сезонный гардероб кочует по коробкам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_147",
+      "word": "Vacuum bags shrink bulky coats.",
+      "translation": "Вакуумные пакеты сплющивают пуховики.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_148",
+      "word": "Mothballs replaced cedar blocks.",
+      "translation": "Нафталин заменили кедровыми кубиками.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_149",
+      "word": "Clothes moths larvae damage wool.",
+      "translation": "Личинки моли портят шерсть.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_150",
+      "word": "Garment bags protect best pieces.",
+      "translation": "Чехлы берегут лучшие вещи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_151",
+      "word": "Tailor took trousers hem perfectly.",
+      "translation": "Ателье идеально укоротило брюки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_152",
+      "word": "Original hem preserved denim.",
+      "translation": "На джинсах сохранили фабричный подгиб.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_153",
+      "word": "Waistband alteration invisible seam.",
+      "translation": "Пояс перешит незаметным швом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_154",
+      "word": "Shoulder pads removed eighties style.",
+      "translation": "Плечики в стиле восьмидесятых удалили.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_155",
+      "word": "Vintage blazer modern tailoring update.",
+      "translation": "Винтажный пиджак обновили современной посадкой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_clothingshop_156",
+      "word": "Thrift flip transformation satisfying.",
+      "translation": "Переделка из секонда — сплошное удовольствие.",
+      "language": "en"
     }
   ]
 }

@@ -60,7 +60,7 @@
     {
       "id": "pbq_chat_9",
       "word": "Typing…",
-      "translation": "Печатает...",
+      "translation": "Печатает.",
       "language": "en"
     },
     {
@@ -96,7 +96,7 @@
     {
       "id": "pbq_chat_15",
       "word": "No wayyy!",
-      "translation": "Не может быть!!!",
+      "translation": "Не может быть!",
       "language": "en"
     },
     {
@@ -361,6 +361,504 @@
       "id": "pbq_chat_59",
       "word": "Good night, talk tomorrow.",
       "translation": "Спокойной ночи, созвонимся завтра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_60",
+      "word": "Hey stranger, long time!",
+      "translation": "Привет, незнакомец, сколько лет!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_61",
+      "word": "Alive over there?",
+      "translation": "Ты там живой вообще?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_62",
+      "word": "Hello?! Anyone home?",
+      "translation": "Аллё?! Ты тут?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_63",
+      "word": "Earth to Alex!",
+      "translation": "Алекс, выйди на связь!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_64",
+      "word": "Answer your phone sometime!",
+      "translation": "Возьми иногда трубку!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_65",
+      "word": "Left you a voicemail.",
+      "translation": "Оставил тебе голосовое.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_66",
+      "word": "Check your voicemail, please.",
+      "translation": "Проверь голосовые сообщения, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_67",
+      "word": "Sent a voice message instead.",
+      "translation": "Отправил голосовое вместо текста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_68",
+      "word": "Too lazy to type, listen to it.",
+      "translation": "Лень печатать — послушай.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_69",
+      "word": "Typing one-handed, feeding the baby.",
+      "translation": "Печатаю одной рукой, кормлю ребёнка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_70",
+      "word": "Multitasking master right here.",
+      "translation": "Мастер многозадачности на связи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_71",
+      "word": "In line at the store, quick question.",
+      "translation": "Стою в очереди в магазине, есть быстрый вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_72",
+      "word": "Walk-and-talk call?",
+      "translation": "Созвонимся на ходу?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_73",
+      "word": "Calling during lunch break.",
+      "translation": "Позвоню в обеденный перерыв.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_74",
+      "word": "Free after six?",
+      "translation": "Свободна после шести?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_75",
+      "word": "After work drinks?",
+      "translation": "Пиво после работы? Кто со мной?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_76",
+      "word": "Who’s in for Friday?",
+      "translation": "Кто идёт в пятницу?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_77",
+      "word": "Headcount for Saturday, please.",
+      "translation": "Посчитайтесь на субботу, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_78",
+      "word": "Confirming attendance.",
+      "translation": "Подтверждаю участие.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_79",
+      "word": "Regretfully declining, family stuff.",
+      "translation": "К сожалению, не смогу — семейные дела.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_80",
+      "word": "Family emergency, be there soon.",
+      "translation": "Семейные обстоятельства, скоро буду.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_81",
+      "word": "Running ten minutes behind.",
+      "translation": "Опаздываю минут на десять.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_82",
+      "word": "Parking now, two minutes.",
+      "translation": "Паркуюсь, буду через две минуты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_83",
+      "word": "Found parking on the third try.",
+      "translation": "Нашёл парковку с третьего раза.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_84",
+      "word": "Traffic is brutal today.",
+      "translation": "Пробки сегодня свирепые.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_85",
+      "word": "Roads are jammed everywhere.",
+      "translation": "Дороги стоят повсюду.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_86",
+      "word": "Left already, see you there.",
+      "translation": "Уже выехал, увидимся на месте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_87",
+      "word": "Almost there!",
+      "translation": "Почти приехал!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_88",
+      "word": "Five minutes out.",
+      "translation": "Буду через пять минут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_89",
+      "word": "Outside, buzz me in.",
+      "translation": "Я снаружи, открой дверь (набери в домофон).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_90",
+      "word": "Ring the doorbell twice.",
+      "translation": "Позвоните в дверной звонок дважды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_91",
+      "word": "We’re in booth seven.",
+      "translation": "Мы в седьмой кабинке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_92",
+      "word": "Back corner table by the window.",
+      "translation": "Дальний столик у окна.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_93",
+      "word": "Grabbing the corner table.",
+      "translation": "Забираю столик в углу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_94",
+      "word": "Splitting the bill three ways.",
+      "translation": "Делим счёт на троих.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_95",
+      "word": "Venmo me later.",
+      "translation": "Переведи мне потом через приложение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_96",
+      "word": "Send money to my card.",
+      "translation": "Скинь деньги на карту.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_97",
+      "word": "I’ll cover it, you get next round.",
+      "translation": "Я заплачу, следующая порция твоя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_98",
+      "word": "Thanks again for yesterday!",
+      "translation": "Ещё раз спасибо за вчера!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_99",
+      "word": "Yesterday was a blast!",
+      "translation": "Вчера было огонь!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_100",
+      "word": "Same crew next month?",
+      "translation": "Та же компания через месяц?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_101",
+      "word": "Making this a monthly thing.",
+      "translation": "Делаем это ежемесячной традицией.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_102",
+      "word": "Calendar invite sent.",
+      "translation": "Приглашение в календарь отправлено.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_103",
+      "word": "Added it to the group calendar.",
+      "translation": "Добавил в общий календарь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_104",
+      "word": "Poll attached, vote please.",
+      "translation": "Прикрепил опрос, проголосуйте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_105",
+      "word": "Vote closes at midnight.",
+      "translation": "Голосование закроется в полночь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_106",
+      "word": "Majority rules!",
+      "translation": "Большинство решает!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_107",
+      "word": "Fine by majority vote.",
+      "translation": "Решено большинством.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_108",
+      "word": "Overruled by popular demand.",
+      "translation": "Отменено общим голосованием (шутл.).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_109",
+      "word": "Democracy wins again.",
+      "translation": "Демократия снова победила (шутл.).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_110",
+      "word": "Screenshot this before it disappears.",
+      "translation": "Скриньте, пока не исчезло.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_111",
+      "word": "This message will self-destruct.",
+      "translation": "Сообщение самоуничтожится (шутл.).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_112",
+      "word": "Forwarded as received.",
+      "translation": "Пересылаю как есть.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_113",
+      "word": "Copied from the group chat.",
+      "translation": "Скопировал из группового чата.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_114",
+      "word": "Bringing this back to the top.",
+      "translation": "Поднимаю это сообщение наверх.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_115",
+      "word": "Bumping this thread.",
+      "translation": "Поднимаю тему.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_116",
+      "word": "Pinned message for reference.",
+      "translation": "Закрепил сообщение для справки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_117",
+      "word": "Check pinned messages.",
+      "translation": "Гляньте закреплённые сообщения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_118",
+      "word": "Scroll up for context.",
+      "translation": "Пролистайте вверх для контекста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_119",
+      "word": "TL;DR below.",
+      "translation": "Краткое содержание ниже.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_120",
+      "word": "Long story short, we won.",
+      "translation": "Короче, мы победили.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_121",
+      "word": "Details in the doc.",
+      "translation": "Детали в документе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_122",
+      "word": "Doc link in bio.",
+      "translation": "Ссылка на документ в профиле.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_123",
+      "word": "Link in comments.",
+      "translation": "Ссылка в комментариях.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_124",
+      "word": "Reposting for reach.",
+      "translation": "Репощу для охвата.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_125",
+      "word": "Sharing to stories.",
+      "translation": "Делю в сторис.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_126",
+      "word": "Story expires in twenty-four hours.",
+      "translation": "История исчезнет через двадцать четыре часа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_127",
+      "word": "Highlight saved.",
+      "translation": "Сохранено в актуальное.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_128",
+      "word": "Archive is gold.",
+      "translation": "Архив — золото.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_129",
+      "word": "Digging through old posts.",
+      "translation": "Копаюсь в старых постах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_130",
+      "word": "Throwback time!",
+      "translation": "Время ностальгических фото!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_131",
+      "word": "Flashback Friday!",
+      "translation": "Пятница воспоминаний!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_132",
+      "word": "Memory popped up today.",
+      "translation": "Сегодня всплыло старое фото из памяти.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_133",
+      "word": "One year ago today.",
+      "translation": "Ровно год назад.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_134",
+      "word": "Typing from the checkout line.",
+      "translation": "Пишу прямо из очереди на кассе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_135",
+      "word": "Battery at five percent, hurry!",
+      "translation": "Батареи пять процентов, быстрее!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_136",
+      "word": "Charger lent to a colleague.",
+      "translation": "Одолжил зарядку коллеге.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_137",
+      "word": "Signal drops in the elevator.",
+      "translation": "В лифте пропадает связь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_138",
+      "word": "Basement has zero bars.",
+      "translation": "В подвале ни одного деления.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_139",
+      "word": "Wi-Fi password changed again?",
+      "translation": "Пароль от Wi-Fi опять сменился?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_140",
+      "word": "Router restart fixed it.",
+      "translation": "Перезапуск роутера помог.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_141",
+      "word": "Airplane mode toggled accidentally.",
+      "translation": "Случайно включил авиарежим.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_chat_142",
+      "word": "Missed notifications flood after reboot.",
+      "translation": "После перезагрузки лавина уведомлений.",
       "language": "en"
     },
     {

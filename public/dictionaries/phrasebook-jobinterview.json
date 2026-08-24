@@ -132,7 +132,7 @@
     {
       "id": "pbq_interview_21",
       "word": "What experience do you have with…",
-      "translation": "Какой у вас опыт работы с...",
+      "translation": "Какой у вас опыт работы с.",
       "language": "en"
     },
     {
@@ -247,6 +247,534 @@
       "id": "pbq_interview_40",
       "word": "I accept the offer, thank you!",
       "translation": "Я принимаю предложение, спасибо!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_41",
+      "word": "Please have a seat.",
+      "translation": "Присаживайтесь, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_42",
+      "word": "Would you like some water?",
+      "translation": "Не хотите воды?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_43",
+      "word": "Make yourself comfortable.",
+      "translation": "Устраивайтесь поудобнее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_44",
+      "word": "Ready to begin?",
+      "translation": "Готовы начать?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_45",
+      "word": "Walk me through your resume.",
+      "translation": "Проведите меня по вашему резюме.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_46",
+      "word": "Summarize your experience briefly.",
+      "translation": "Кратко изложите ваш опыт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_47",
+      "word": "Highlight your most relevant role.",
+      "translation": "Отметьте самую близкую вам должность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_48",
+      "word": "What drew you to this field?",
+      "translation": "Что привело вас в эту сферу?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_49",
+      "word": "Why this industry specifically?",
+      "translation": "Почему именно эта индустрия?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_50",
+      "word": "What excites you professionally?",
+      "translation": "Что вас вдохновляет профессионально?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_51",
+      "word": "Describe your ideal workplace.",
+      "translation": "Опишите ваше идеальное место работы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_52",
+      "word": "What environment do you thrive in?",
+      "translation": "В какой обстановке вы расцветаете?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_53",
+      "word": "Do you prefer structure or autonomy?",
+      "translation": "Вам ближе регламент или самостоятельность?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_54",
+      "word": "How do you handle ambiguity?",
+      "translation": "Как вы справляетесь с неопределённостью?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_55",
+      "word": "How do you prioritize tasks?",
+      "translation": "Как вы расставляете приоритеты в задачах?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_56",
+      "word": "How do you organize your workflow?",
+      "translation": "Как вы организуете рабочий процесс?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_57",
+      "word": "What tools do you use daily?",
+      "translation": "Какими инструментами вы пользуетесь ежедневно?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_58",
+      "word": "Rate your proficiency honestly.",
+      "translation": "Честно оцените свой уровень владения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_59",
+      "word": "On a scale of one to ten?",
+      "translation": "По шкале от одного до десяти?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_60",
+      "word": "Intermediate level, working toward advanced.",
+      "translation": "Средний уровень, двигаюсь к продвинутому.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_61",
+      "word": "Tell me about a project you’re proud of.",
+      "translation": "Расскажите о проекте, которым гордитесь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_62",
+      "word": "What was your contribution exactly?",
+      "translation": "Каков был именно ваш вклад?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_63",
+      "word": "Were you leading or supporting?",
+      "translation": "Вы руководили или помогали?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_64",
+      "word": "What obstacles did you face?",
+      "translation": "С какими препятствиями столкнулись?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_65",
+      "word": "How did you measure success?",
+      "translation": "Как вы измеряли успех?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_66",
+      "word": "What would you do differently?",
+      "translation": "Что бы вы сделали иначе?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_67",
+      "word": "Lessons learned from that failure?",
+      "translation": "Какие уроки извлекли из той неудачи?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_68",
+      "word": "Failure taught me resilience.",
+      "translation": "Неудача научила меня стойкости.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_69",
+      "word": "Tell me about a conflict with a coworker.",
+      "translation": "Расскажите о конфликте с коллегой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_70",
+      "word": "How did you resolve the disagreement?",
+      "translation": "Как вы уладили разногласия?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_71",
+      "word": "We found common ground quickly.",
+      "translation": "Мы быстро нашли общий язык.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_72",
+      "word": "Disagreement stayed professional.",
+      "translation": "Разногласия остались в рабочих рамках.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_73",
+      "word": "How do you take criticism?",
+      "translation": "Как вы относитесь к критике?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_74",
+      "word": "Criticism makes me better.",
+      "translation": "Критика делает меня лучше.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_75",
+      "word": "Feedback is a gift.",
+      "translation": "Обратная связь — это подарок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_76",
+      "word": "Describe your management style.",
+      "translation": "Опишите ваш стиль управления.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_77",
+      "word": "I delegate and stay involved.",
+      "translation": "Я делегирую, но остаюсь вовлечённым.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_78",
+      "word": "Lead by example.",
+      "translation": "Я веду за собой личным примером.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_79",
+      "word": "How big was your team?",
+      "translation": "Насколько большой была ваша команда?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_80",
+      "word": "Cross-functional collaboration?",
+      "translation": "Работали ли кросс-функционально?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_81",
+      "word": "Worked closely with designers and QA.",
+      "translation": "Тесно работал с дизайнерами и тестировщиками.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_82",
+      "word": "Stakeholder management experience?",
+      "translation": "Есть опыт работы с заинтересованными сторонами?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_83",
+      "word": "Presented findings to executives.",
+      "translation": "Представлял результаты руководству.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_84",
+      "word": "Comfortable presenting to large groups?",
+      "translation": "Комфортно ли выступать перед большой аудиторией?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_85",
+      "word": "Public speaking grows on you.",
+      "translation": "К публичным выступлениям привыкаешь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_86",
+      "word": "Any certifications or courses?",
+      "translation": "Есть сертификаты или курсы?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_87",
+      "word": "Currently studying for certification.",
+      "translation": "Сейчас готовлюсь к сертификации.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_88",
+      "word": "Continuous learner here.",
+      "translation": "Я учусь постоянно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_89",
+      "word": "Upskilling every year.",
+      "translation": "Каждый год повышаю квалификацию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_90",
+      "word": "Do you freelance on the side?",
+      "translation": "Подрабатываете фрилансом параллельно?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_91",
+      "word": "Notice period at current job?",
+      "translation": "Срок отработки на текущем месте?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_92",
+      "word": "References available upon request.",
+      "translation": "Рекомендации предоставлю по запросу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_93",
+      "word": "Former manager will vouch for me.",
+      "translation": "Бывший руководитель за меня поручится.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_94",
+      "word": "Portfolio link in my resume.",
+      "translation": "Ссылка на портфолио есть в резюме.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_95",
+      "word": "Case studies available on request.",
+      "translation": "Кейсы покажу по запросу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_96",
+      "word": "Anything else you’d like us to know?",
+      "translation": "Хотите что-то добавить о себе?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_97",
+      "word": "I think we covered everything.",
+      "translation": "Кажется, обсудили всё.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_98",
+      "word": "Thank you for considering my application.",
+      "translation": "Спасибо за рассмотрение моей кандидатуры.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_99",
+      "word": "Hope to hear good news soon!",
+      "translation": "Надеюсь на хорошие новости!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_100",
+      "word": "Either way, thanks for the opportunity.",
+      "translation": "В любом случае спасибо за возможность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_101",
+      "word": "Traffic made me circle the block twice.",
+      "translation": "Из-за пробок пришлось дважды объехать квартал.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_102",
+      "word": "Nervous but well-prepared.",
+      "translation": "Волнуюсь, но хорошо подготовился.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_103",
+      "word": "Prepared answers to classic questions.",
+      "translation": "Подготовил ответы на классические вопросы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_104",
+      "word": "Researched your latest product launch.",
+      "translation": "Изучил ваш последний запуск продукта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_105",
+      "word": "Read the team blog regularly.",
+      "translation": "Регулярно читаю блог команды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_106",
+      "word": "Your mission statement resonates.",
+      "translation": "Ваша миссия мне откликается.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_107",
+      "word": "Growth opportunity attracts me most.",
+      "translation": "Больше всего привлекает возможность роста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_108",
+      "word": "Mentoring juniors excites me.",
+      "translation": "Мне интересно наставничество над новичками.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_109",
+      "word": "I thrive on challenging problems.",
+      "translation": "Расцветаю на сложных задачах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_110",
+      "word": "Routine kills my motivation slowly.",
+      "translation": "Рутина медленно убивает мотивацию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_111",
+      "word": "Deadlines focus me naturally.",
+      "translation": "Дедлайны меня естественно собирают.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_112",
+      "word": "I break big tasks into milestones.",
+      "translation": "Делю крупные задачи на этапы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_113",
+      "word": "Estimate first, then add twenty percent buffer.",
+      "translation": "Сначала оценка, затем плюс двадцать процентов запаса.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_114",
+      "word": "Underpromise and overdeliver.",
+      "translation": "Обещай меньше — сделай больше.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_115",
+      "word": "Communication avoids surprises.",
+      "translation": "Коммуникация избавляет от сюрпризов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_116",
+      "word": "Bad news reaches me first.",
+      "translation": "Плохие новости я узнаю первым.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_117",
+      "word": "Documentation saves future headaches.",
+      "translation": "Документация избавляет от будущих проблем.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_118",
+      "word": "Code reviews taught me humility.",
+      "translation": "Ревью кода научили меня скромности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_119",
+      "word": "Testing is respect for teammates.",
+      "translation": "Тестирование — уважение к коллегам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_120",
+      "word": "Legacy code deserves patience.",
+      "translation": "Старый код требует терпения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_121",
+      "word": "Refactoring gradually beats rewriting.",
+      "translation": "Постепенный рефакторинг лучше переписывания.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_122",
+      "word": "Metrics guided our decisions.",
+      "translation": "Метрики вели наши решения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_123",
+      "word": "A/B testing settled the debate.",
+      "translation": "A/B-тест закрыл спор.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_124",
+      "word": "User feedback beats assumptions.",
+      "translation": "Отзывы пользователей лучше предположений.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_125",
+      "word": "Accessibility often overlooked.",
+      "translation": "Доступность часто упускают из виду.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_126",
+      "word": "Performance budget enforced early.",
+      "translation": "Бюджет производительности соблюдали сразу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_127",
+      "word": "Security review before launch.",
+      "translation": "Проверка безопасности перед релизом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_interview_128",
+      "word": "Postmortems without blame culture.",
+      "translation": "Разборы инцидентов без поиска виновных.",
       "language": "en"
     },
     {

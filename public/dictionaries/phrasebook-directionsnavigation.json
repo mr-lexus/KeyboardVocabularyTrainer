@@ -262,6 +262,366 @@
       "language": "en"
     },
     {
+      "id": "pbq_directions_43",
+      "word": "Sorry to trouble you, quick question.",
+      "translation": "Извините за беспокойство, быстрый вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_44",
+      "word": "Point me toward the river, please.",
+      "translation": "Направьте меня к реке, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_45",
+      "word": "Lead the way!",
+      "translation": "Веди дорогу! / Показывайте путь!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_46",
+      "word": "After you.",
+      "translation": "После вас. / Проходите первым.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_47",
+      "word": "Mind your step here.",
+      "translation": "Осторожно, здесь ступенька.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_48",
+      "word": "Low ceiling ahead, duck down.",
+      "translation": "Впереди низкий потолок, пригнитесь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_49",
+      "word": "Narrow passage, single file.",
+      "translation": "Узкий проход, идёмте по одному.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_50",
+      "word": "Dead end, we turn back.",
+      "translation": "Тупик, разворачиваемся.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_51",
+      "word": "No through road here.",
+      "translation": "Здесь сквозного проезда нет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_52",
+      "word": "Loop back to the main path.",
+      "translation": "Возвращаемся к главной тропе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_53",
+      "word": "Shortcut through the park.",
+      "translation": "Короткий путь через парк.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_54",
+      "word": "Cut through the alley.",
+      "translation": "Срежем через переулок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_55",
+      "word": "Scenic route is longer.",
+      "translation": "Красивый маршрут длиннее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_56",
+      "word": "Pedestrian zone starts here.",
+      "translation": "Пешеходная зона начинается здесь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_57",
+      "word": "Cars banned beyond this point.",
+      "translation": "Дальше машины запрещены.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_58",
+      "word": "One-way street, circle around.",
+      "translation": "Улица с односторонним движением, объезжайте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_59",
+      "word": "U-turn not allowed here.",
+      "translation": "Здесь разворот запрещён.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_60",
+      "word": "Underpass beneath the ring road.",
+      "translation": "Подземный переход под кольцевой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_61",
+      "word": "Footbridge over the highway.",
+      "translation": "Пешеходный мост над трассой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_62",
+      "word": "Crosswalk painted on the road.",
+      "translation": "Зебра нарисована на дороге.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_63",
+      "word": "Wait for the green man.",
+      "translation": "Ждите зелёный сигнал.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_64",
+      "word": "Jaywalking fine is steep here.",
+      "translation": "Штраф за переход в неположенном месте большой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_65",
+      "word": "Tram tracks in the middle.",
+      "translation": "Трамвайные пути посередине дороги.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_66",
+      "word": "Cycle lane on your left.",
+      "translation": "Велодорожка слева от вас.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_67",
+      "word": "Watch for scooters on the sidewalk.",
+      "translation": "Осторожно, самокаты на тротуаре.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_68",
+      "word": "Bollards block car entry.",
+      "translation": "Столбики не пускают машины.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_69",
+      "word": "Archway leads to the courtyard.",
+      "translation": "За аркой двор.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_70",
+      "word": "Passage between the buildings.",
+      "translation": "Проход между домами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_71",
+      "word": "Landmark is the big clock tower.",
+      "translation": "Ориентир — большая часовая башня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_72",
+      "word": "Golden dome visible from afar.",
+      "translation": "Золотой купол виден издалека.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_73",
+      "word": "Statue marks the square’s center.",
+      "translation": "Статуя в центре площади.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_74",
+      "word": "Fountain is the meeting spot.",
+      "translation": "Фонтан — место встречи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_75",
+      "word": "Stand by the fountain, I’ll find you.",
+      "translation": "Стой у фонтана, я тебя найду.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_76",
+      "word": "Look for the red awning.",
+      "translation": "Ищи красный навес.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_77",
+      "word": "Entrance hidden behind the café.",
+      "translation": "Вход спрятан за кафе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_78",
+      "word": "Side door open till eight.",
+      "translation": "Боковая дверь открыта до восьми.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_79",
+      "word": "Staff entrance around back.",
+      "translation": "Служебный вход сзади.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_80",
+      "word": "Loading zone, keep moving.",
+      "translation": "Зона погрузки, не задерживайтесь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_81",
+      "word": "Driveway, don’t block it.",
+      "translation": "Въезд во двор, не загораживайте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_82",
+      "word": "Kerb cut ahead for wheelchairs.",
+      "translation": "Впереди спуск с бордюра для колясок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_83",
+      "word": "Ramp instead of steps.",
+      "translation": "Пандус вместо ступенек.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_84",
+      "word": "Elevator to the platform level.",
+      "translation": "Лифт до уровня платформы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_85",
+      "word": "Accessible route clearly marked.",
+      "translation": "Безбарьерный маршрут размечен.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_86",
+      "word": "Tourist info booth straight ahead.",
+      "translation": "Информационная стойка прямо впереди.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_87",
+      "word": "Free city maps inside.",
+      "translation": "Внутри бесплатные карты города.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_88",
+      "word": "Guided walking tour starts here.",
+      "translation": "Пешеходная экскурсия стартует отсюда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_89",
+      "word": "Self-guided trail signs along the way.",
+      "translation": "Указатели самостоятельного маршрута вдоль пути.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_90",
+      "word": "Trail forks at the big oak.",
+      "translation": "Тропа раздваивается у большого дуба.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_91",
+      "word": "Keep the lake on your right.",
+      "translation": "Держите озеро по правую руку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_92",
+      "word": "Summit trail is steep but worth it.",
+      "translation": "Тропа к вершине крутая, но стоит того.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_93",
+      "word": "Viewpoint ten minutes further.",
+      "translation": "Смотровая площадка ещё в десяти минутах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_94",
+      "word": "Photo spot just past the bridge.",
+      "translation": "Лучшее место для фото сразу за мостом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_95",
+      "word": "Best angle from the opposite bank.",
+      "translation": "Лучший ракурс с противоположного берега.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_96",
+      "word": "Panorama opens at the top.",
+      "translation": "Панорама открывается на вершине.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_97",
+      "word": "Worth every step of the climb.",
+      "translation": "Подъёма стоило каждого шага.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_98",
+      "word": "Loop trail returns to parking.",
+      "translation": "Кольцевая тропа выводит к парковке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_99",
+      "word": "Return the way we came.",
+      "translation": "Вернёмся той же дорогой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_100",
+      "word": "Backtrack to the signpost.",
+      "translation": "Возвращаемся к указателю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_101",
+      "word": "Signpost points two ways.",
+      "translation": "Указатель показывает в обе стороны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_directions_102",
+      "word": "Distance marker says three kilometers.",
+      "translation": "Табличка расстояния: три километра.",
+      "language": "en"
+    },
+    {
       "id": "pb_directionsnavigation_0_0",
       "word": "It's not your turn.",
       "translation": "Сейчас не ваша очередь.",

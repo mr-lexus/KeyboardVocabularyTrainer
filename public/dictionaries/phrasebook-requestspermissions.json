@@ -288,7 +288,7 @@
     {
       "id": "pbq_requests_47",
       "word": "Sorry to bother you again, but…",
-      "translation": "Извините за беспокойство, но...",
+      "translation": "Извините за беспокойство, но.",
       "language": "en"
     },
     {
@@ -337,6 +337,600 @@
       "id": "pbq_requests_55",
       "word": "Hang on a second.",
       "translation": "Подожди секундочку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_56",
+      "word": "Could you repeat the last part?",
+      "translation": "Повторите последнюю часть, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_57",
+      "word": "Could you say that again more slowly?",
+      "translation": "Можете повторить помедленнее?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_58",
+      "word": "Could you spell that for me?",
+      "translation": "Продиктуйте по буквам, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_59",
+      "word": "Could you explain that in simple terms?",
+      "translation": "Можете объяснить попроще?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_60",
+      "word": "Could you keep it brief?",
+      "translation": "Можете покороче?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_61",
+      "word": "Could we skip the details?",
+      "translation": "Можно без подробностей?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_62",
+      "word": "Get to the point, please.",
+      "translation": "Переходите к делу, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_63",
+      "word": "Cut a long story short.",
+      "translation": "Короче говоря.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_64",
+      "word": "Could you speak one at a time?",
+      "translation": "Говорите по одному, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_65",
+      "word": "Stop talking over each other.",
+      "translation": "Не перебивайте друг друга.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_66",
+      "word": "Could you lower your voice?",
+      "translation": "Не могли бы вы потише?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_67",
+      "word": "Keep it down, please.",
+      "translation": "Потише, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_68",
+      "word": "Could you turn the music down?",
+      "translation": "Можно сделать музыку потише?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_69",
+      "word": "Turn it up a little, please.",
+      "translation": "Сделайте погромче, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_70",
+      "word": "Would you close the door behind you?",
+      "translation": "Закрой за собой дверь, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_71",
+      "word": "Shut the window, please.",
+      "translation": "Закрой окно, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_72",
+      "word": "Open the blinds, please.",
+      "translation": "Раздвиньте шторы, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_73",
+      "word": "Could you move your car?",
+      "translation": "Не могли бы вы переставить машину?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_74",
+      "word": "You’re blocking the driveway.",
+      "translation": "Вы загораживаете въезд.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_75",
+      "word": "Could you scoot over?",
+      "translation": "Подвинься чуть-чуть, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_76",
+      "word": "Could I squeeze in here?",
+      "translation": "Можно здесь присесть/втиснуться?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_77",
+      "word": "Is this spot taken?",
+      "translation": "Это место занято?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_78",
+      "word": "Save me a seat, please.",
+      "translation": "Займи мне место, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_79",
+      "word": "Hold the elevator, please!",
+      "translation": "Придержите лифт, пожалуйста!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_80",
+      "word": "Hold the door!",
+      "translation": "Придержите дверь!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_81",
+      "word": "Could you grab me a coffee?",
+      "translation": "Хватишь мне кофе по пути?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_82",
+      "word": "Pick up some milk on your way home.",
+      "translation": "Купи молока по дороге домой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_83",
+      "word": "Drop this off at the post office.",
+      "translation": "Занеси это на почту, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_84",
+      "word": "Could you water my plants next week?",
+      "translation": "Полей мои цветы на следующей неделе?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_85",
+      "word": "Feed the cat while I’m away, please.",
+      "translation": "Покорми кота, пока меня нет, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_86",
+      "word": "Check my mailbox from time to time.",
+      "translation": "Заглядывай иногда в мой почтовый ящик.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_87",
+      "word": "Look after my flat when I’m on holiday.",
+      "translation": "Присмотри за квартирой, пока я в отпуске.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_88",
+      "word": "Could you print this for me?",
+      "translation": "Распечатайте это мне, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_89",
+      "word": "Sign this document, please.",
+      "translation": "Подпишите этот документ, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_90",
+      "word": "Fill in this form and bring it back.",
+      "translation": "Заполните форму и верните её.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_91",
+      "word": "Send me the file by tonight.",
+      "translation": "Отправьте мне файл до сегодняшнего вечера.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_92",
+      "word": "Reply to all, please.",
+      "translation": "Ответьте всем, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_93",
+      "word": "Forward me that email.",
+      "translation": "Перешлите мне то письмо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_94",
+      "word": "Remind me about it tomorrow.",
+      "translation": "Напомни мне об этом завтра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_95",
+      "word": "Set an alarm for seven.",
+      "translation": "Поставь будильник на семь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_96",
+      "word": "Add it to my calendar.",
+      "translation": "Добавь это в мой календарь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_97",
+      "word": "Book us a table for six.",
+      "translation": "Забронируй нам столик на шестерых.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_98",
+      "word": "Reserve a room under my name.",
+      "translation": "Забронируйте номер на моё имя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_99",
+      "word": "Order pizza for everyone.",
+      "translation": "Закажите пиццу для всех.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_100",
+      "word": "Charge my phone, please.",
+      "translation": "Поставь мой телефон на зарядку, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_101",
+      "word": "Plug it in, please.",
+      "translation": "Включи его в розетку, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_102",
+      "word": "Unplug it when it’s done.",
+      "translation": "Вытащи из розетки, когда зарядится.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_103",
+      "word": "Switch off the lights when you leave.",
+      "translation": "Выключи свет, когда уходишь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_104",
+      "word": "Lock the door behind you.",
+      "translation": "Запри дверь за собой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_105",
+      "word": "Don’t forget to lock up.",
+      "translation": "Не забудь закрыть дверь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_106",
+      "word": "Take out the trash, please.",
+      "translation": "Вынеси мусор, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_107",
+      "word": "Walk the dog after dinner.",
+      "translation": "Выведи собаку после ужина.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_108",
+      "word": "Could you babysit on Saturday?",
+      "translation": "Ты можешь посидеть с ребёнком в субботу?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_109",
+      "word": "Can you cover my shift tomorrow?",
+      "translation": "Можешь подменить меня завтра?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_110",
+      "word": "Swap shifts with me, please.",
+      "translation": "Поменяйся со мной сменами, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_111",
+      "word": "Give me a ring when you land.",
+      "translation": "Позвони, когда приземлишься.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_112",
+      "word": "Text me the address, please.",
+      "translation": "Скинь адрес сообщением, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_113",
+      "word": "Send me the link, please.",
+      "translation": "Скинь ссылку, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_114",
+      "word": "Share that article with me.",
+      "translation": "Поделись той статьёй со мной.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_115",
+      "word": "Could you proofread my letter?",
+      "translation": "Можете проверить моё письмо?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_116",
+      "word": "Take a look at this, please.",
+      "translation": "Взгляните на это, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_117",
+      "word": "Have a look and tell me what you think.",
+      "translation": "Посмотри и скажи, что думаешь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_118",
+      "word": "Rate this from one to ten.",
+      "translation": "Оцени это от одного до десяти.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_119",
+      "word": "Choose for me, I don’t mind.",
+      "translation": "Выбери за меня, мне всё равно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_120",
+      "word": "Surprise me!",
+      "translation": "Удиви меня!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_121",
+      "word": "Whatever you think is best.",
+      "translation": "Как считаешь лучше.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_122",
+      "word": "It’s up to you.",
+      "translation": "Решай сам. / На твоё усмотрение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_123",
+      "word": "I leave it to your judgment.",
+      "translation": "Оставляю это на ваше усмотрение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_124",
+      "word": "Do as you please.",
+      "translation": "Поступайте как хотите.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_125",
+      "word": "Please yourself.",
+      "translation": "Вольному воля.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_126",
+      "word": "Suit yourself!",
+      "translation": "Как хотите! / Хозяин — барин!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_127",
+      "word": "Have it your way.",
+      "translation": "Пусть будет по-твоему.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_128",
+      "word": "Fine, have it your way.",
+      "translation": "Ладно, пусть будет по-твоему.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_129",
+      "word": "Could you not do that, please?",
+      "translation": "Не могли бы вы так не делать?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_130",
+      "word": "I’d rather you didn’t smoke here.",
+      "translation": "Я бы предпочёл, чтобы вы здесь не курили.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_131",
+      "word": "I’d appreciate it if you knocked first.",
+      "translation": "Буду благодарен, если сначала постучите.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_132",
+      "word": "Next time, call ahead.",
+      "translation": "В следующий раз предупреждайте заранее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_133",
+      "word": "Please don’t touch anything.",
+      "translation": "Пожалуйста, ничего не трогайте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_134",
+      "word": "Hands off my dessert!",
+      "translation": "Руки прочь от моего десерта!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_135",
+      "word": "Leave it as it is.",
+      "translation": "Оставьте как есть.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_136",
+      "word": "Leave me alone for a minute.",
+      "translation": "Оставьте меня одного на минуту.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_137",
+      "word": "Give me some space, please.",
+      "translation": "Дай мне немного пространства, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_138",
+      "word": "Stop pushing!",
+      "translation": "Хватит толкаться!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_139",
+      "word": "Wait for me!",
+      "translation": "Подождите меня!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_140",
+      "word": "Wait up!",
+      "translation": "Эй, подождите!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_141",
+      "word": "Slow down, I can’t keep up!",
+      "translation": "Помедленнее, я не успеваю!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_142",
+      "word": "Catch up with us later.",
+      "translation": "Догоните нас позже.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_143",
+      "word": "Go on without me.",
+      "translation": "Идите без меня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_144",
+      "word": "Save it for later.",
+      "translation": "Отложи это на потом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_145",
+      "word": "Deal with it tomorrow.",
+      "translation": "Разберись с этим завтра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_146",
+      "word": "Handle it, please.",
+      "translation": "Разберитесь с этим, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_147",
+      "word": "Take care of the bill.",
+      "translation": "Расплатись по счёту.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_148",
+      "word": "Sort out the paperwork.",
+      "translation": "Оформите бумаги.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_149",
+      "word": "Run it by the manager.",
+      "translation": "Согласуйте это с менеджером.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_150",
+      "word": "Clear it with the boss first.",
+      "translation": "Сначала согласуйте с начальником.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_151",
+      "word": "Could you keep this confidential?",
+      "translation": "Держите это в секрете, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_152",
+      "word": "Keep it between us.",
+      "translation": "Пусть останется между нами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_153",
+      "word": "Off the record, please.",
+      "translation": "Не для протокола, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_requests_154",
+      "word": "Could you cover for me briefly?",
+      "translation": "Можешь меня на минутку прикрыть?",
       "language": "en"
     },
     {

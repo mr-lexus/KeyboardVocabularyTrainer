@@ -42,7 +42,7 @@
     {
       "id": "pbq_phonecalls_6",
       "word": "Hang on a moment, please.",
-      "translation": "Повесьте трубку на минуту... подождите, пожалуйста.",
+      "translation": "Подождите минутку, пожалуйста.",
       "language": "en"
     },
     {
@@ -277,6 +277,264 @@
       "id": "pbq_phonecalls_45",
       "word": "Speak to you soon!",
       "translation": "До связи!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_46",
+      "word": "Wrong number again third time.",
+      "translation": "Опять не тот номер — уже третий раз!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_47",
+      "word": "Similar digits dialing confusion.",
+      "translation": "Похожие цифры — путаница при наборе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_48",
+      "word": "Save contacts with country codes.",
+      "translation": "Сохраняйте контакты с кодами стран.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_49",
+      "word": "International prefix plus needed.",
+      "translation": "Для международных набирается плюс.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_50",
+      "word": "Roaming charges abroad shocking.",
+      "translation": "Роуминг за границей кусается.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_51",
+      "word": "Local SIM cheaper solution found.",
+      "translation": "Нашли решение — местная сим-карта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_52",
+      "word": "eSIM activated before flight.",
+      "translation": "eSIM активировал ещё до рейса.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_53",
+      "word": "QR code scan installed profile.",
+      "translation": "Профиль установил сканом QR-кода.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_54",
+      "word": "Data plan topped up easily.",
+      "translation": "Пакет интернета пополнил легко.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_55",
+      "word": "Balance inquiry shortcode dialed.",
+      "translation": "Баланс проверил коротким номером.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_56",
+      "word": "Customer care wait music eternal.",
+      "translation": "Музыка ожидания поддержки длится вечность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_57",
+      "word": "Your call is important message ironic.",
+      "translation": "«Ваш звонок важен» — звучит иронично.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_58",
+      "word": "Agent finally answered hour later.",
+      "translation": "Оператор ответил лишь через час.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_59",
+      "word": "Complaint reference number requested.",
+      "translation": "Запросил номер обращения по жалобе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_60",
+      "word": "Callback option instead waiting chosen.",
+      "translation": "Выбрал обратный звонок вместо музыки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_61",
+      "word": "They called back within promised time.",
+      "translation": "Перезвонили в обещанное время.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_62",
+      "word": "Voicemail greeting re-recorded professionally.",
+      "translation": "Перезаписал приветствие на автоответчике.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_63",
+      "word": "Speak clearly state name number.",
+      "translation": "Говорите чётко: имя и номер.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_64",
+      "word": "Slow down leaving callback digits.",
+      "translation": "Медленнее диктуйте номер для перезвона.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_65",
+      "word": "Repeat number confirmation asked.",
+      "translation": "Попросили повторить номер для проверки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_66",
+      "word": "Missed call badge anxiety real.",
+      "translation": "Значок пропущенных реально давит.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_67",
+      "word": "Clear notifications weekly ritual.",
+      "translation": "Разбираю уведомления еженедельно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_68",
+      "word": "Spam calls blocked automatically now.",
+      "translation": "Спам-звонки блокируются автоматически.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_69",
+      "word": "Unknown numbers silenced setting.",
+      "translation": "Неизвестные номера — режим тишины.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_70",
+      "word": "Robocall hangup immediately advice.",
+      "translation": "Совет: робоколы сбрасывайте сразу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_71",
+      "word": "Bank never phones asking codes.",
+      "translation": "Банк не звонит с просьбой назвать коды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_72",
+      "word": "Grandparents scam awareness taught.",
+      "translation": "Научил бабушек распознавать телефонных жуликов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_73",
+      "word": "Safe word family agreed upon.",
+      "translation": "Семейное кодовое слово придумали вместе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_74",
+      "word": "Video call grandma Sunday tradition.",
+      "translation": "Видеозвонок бабушке — воскресная традиция.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_75",
+      "word": "Screen frozen mid-conversation laugh.",
+      "translation": "Экран завис посреди разговора — хохот.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_76",
+      "word": "Beauty filter accidentally enabled granny.",
+      "translation": "Бабушке случайно включил фильтр красоты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_77",
+      "word": "Background filter cat ears meeting.",
+      "translation": "На совещании фильтр с кошачьими ушами!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_78",
+      "word": "Virtual background messy room hidden.",
+      "translation": "Виртуальный фон скрыл бардак в комнате.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_79",
+      "word": "Blur background professional look.",
+      "translation": "Размытый фон выглядит профессионально.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_80",
+      "word": "Lighting face window trick learned.",
+      "translation": "Свет из окна на лицо — лайфхак.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_81",
+      "word": "Headset mic better than built-in.",
+      "translation": "Гарнитура пишет звук лучше встроенного микрофона.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_82",
+      "word": "Echo feedback headphones solved.",
+      "translation": "Эхо исчезло с наушниками.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_83",
+      "word": "Mute when typing loudly reminder.",
+      "translation": "Напоминание: печатаете громко — мутитесь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_84",
+      "word": "Unmute fumble embarrassing pause.",
+      "translation": "Суета с включением микрофона — неловкая пауза.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_85",
+      "word": "You are muted meme born.",
+      "translation": "Мем «вы на мьюте» родился в ковиде.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_86",
+      "word": "Recording consent laws vary.",
+      "translation": "Законы о записи разговоров различаются.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_87",
+      "word": "Note-taking during calls permission.",
+      "translation": "Конспектировать звонок — спросите разрешения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_phonecalls_88",
+      "word": "Summary email follow-up standard practice.",
+      "translation": "Итоги звонка письмом — стандартная практика.",
       "language": "en"
     }
   ]

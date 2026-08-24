@@ -192,13 +192,631 @@
     {
       "id": "pbq_barbershop_31",
       "word": "Same time next month, please.",
-      "translation": "Запишите меня на следующей месяц, в то же время.",
+      "translation": "Запишите меня через месяц, в то же время.",
       "language": "en"
     },
     {
       "id": "pbq_barbershop_32",
       "word": "Book me in for next Friday.",
       "translation": "Запишите меня на следующую пятницу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_33",
+      "word": "Walk-ins welcome sign outside.",
+      "translation": "Табло «без записи можно» снаружи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_34",
+      "word": "Next available barber?",
+      "translation": "Какой барбер освободится первым?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_35",
+      "word": "Request the senior stylist.",
+      "translation": "Запишите к старшему стилисту.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_36",
+      "word": "Junior barber rates lower.",
+      "translation": "У младшего барбера цены ниже.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_37",
+      "word": "Consultation before the cut?",
+      "translation": "Сначала консультация перед стрижкой?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_38",
+      "word": "Reference photo on my phone.",
+      "translation": "Фото-референс в телефоне.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_39",
+      "word": "Match this picture as close as possible.",
+      "translation": "Сделай максимально похоже на это фото.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_40",
+      "word": "Slightly messier than the photo.",
+      "translation": "Чуть более растрёпанно, чем на фото.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_41",
+      "word": "Textured top, natural finish.",
+      "translation": "Текстурный верх, естественная укладка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_42",
+      "word": "Matte product, no shine.",
+      "translation": "Матовая укладка, без блеска.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_43",
+      "word": "Pomade with medium hold.",
+      "translation": "Помада средней фиксации.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_44",
+      "word": "Clay paste for volume.",
+      "translation": "Глина для объёма.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_45",
+      "word": "Sea salt spray beforehand?",
+      "translation": "Сначала спрей с морской солью?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_46",
+      "word": "Blow-dry back and to the side.",
+      "translation": "Феном назад и набок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_47",
+      "word": "Comb over or finger styled?",
+      "translation": "Укладывать расчёской или пальцами?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_48",
+      "word": "Hard part shaved on the left.",
+      "translation": "Выбритый пробор слева.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_49",
+      "word": "Line-up sharp across forehead.",
+      "translation": "Чёткая окантовка по лбу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_50",
+      "word": "Clean necklines matter most.",
+      "translation": "Главное — чистая линия шеи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_51",
+      "word": "Taper the neckline naturally.",
+      "translation": "Шею сведи естественно, плавно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_52",
+      "word": "Blocked neckline lasts longer.",
+      "translation": "Прямая линия шеи держится дольше.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_53",
+      "word": "Eyebrows tidy-up included?",
+      "translation": "Брови подравнять входит?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_54",
+      "word": "Nose trim requested quietly.",
+      "translation": "Аккуратно попросил подровнять в носу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_55",
+      "word": "Ear hair trimmed discreetly.",
+      "translation": "В ушах подровняли незаметно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_56",
+      "word": "Grey blending color rinse.",
+      "translation": "Тонирование седины.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_57",
+      "word": "Subtle color, not jet black.",
+      "translation": "Неброский цвет, не иссиня-чёрный.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_58",
+      "word": "Scissor cut all over, please.",
+      "translation": "Стрижка только ножницами, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_59",
+      "word": "Clipper-over-comb for blending.",
+      "translation": "Машинка поверх расчёски для переходов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_60",
+      "word": "Guard length four on top.",
+      "translation": "Насадка четыре сверху.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_61",
+      "word": "Skin fade starting at zero.",
+      "translation": "Скин-фейд начиная с нуля.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_62",
+      "word": "Mid fade behind the ears.",
+      "translation": "Средний фейд за ушами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_63",
+      "word": "High fade with a hard part.",
+      "translation": "Высокий фейд с чётким пробором.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_64",
+      "word": "Crop top with fringe forward.",
+      "translation": "Кроп с чёлкой вперёд.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_65",
+      "word": "French crop suits round faces.",
+      "translation": "Французский кроп идёт круглому лицу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_66",
+      "word": "Undercut disconnected dramatically.",
+      "translation": "Андеркат с резким переходом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_67",
+      "word": "Man bun needs extra length.",
+      "translation": "Для пучка нужна дополнительная длина.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_68",
+      "word": "Growing it out, just tidy edges.",
+      "translation": "Отращиваю, только края подровнять.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_69",
+      "word": "Trim split ends minimally.",
+      "translation": "Секущиеся кончики — минимально.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_70",
+      "word": "Half inch off the length.",
+      "translation": "Отрезать полдюйма длины.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_71",
+      "word": "Two centimeters max, please.",
+      "translation": "Максимум два сантиметра, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_72",
+      "word": "Beard oil recommendation?",
+      "translation": "Порекомендуете масло для бороды?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_73",
+      "word": "Beard balm for flyaways.",
+      "translation": "Бальзам для торчащих волосков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_74",
+      "word": "Cheek line kept natural.",
+      "translation": "Линию щёк оставить натуральной.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_75",
+      "word": "Neard trimmed weekly.",
+      "translation": "Борода на шее подравнивается еженедельно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_76",
+      "word": "Mustache wax light hold.",
+      "translation": "Воск для усов слабой фиксации.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_77",
+      "word": "Handlebar takes months to train.",
+      "translation": "Классические усы тренируются месяцами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_78",
+      "word": "Straight razor nick stings briefly.",
+      "translation": "Порез опасной бритвой слегка жжёт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_79",
+      "word": "Alum stone stops bleeding fast.",
+      "translation": "Квасцовый камень быстро останавливает кровь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_80",
+      "word": "Aftershave balm alcohol-free.",
+      "translation": "Бальзам после бритья без спирта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_81",
+      "word": "Hot towel softens the beard.",
+      "translation": "Горячее полотенце размягчает бороду.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_82",
+      "word": "Second pass for baby-smooth skin.",
+      "translation": "Второй проход для гладкости как у младенца.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_83",
+      "word": "Tipping fifteen percent standard here.",
+      "translation": "Чаевые здесь обычно пятнадцать процентов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_84",
+      "word": "Cash tip in the jar.",
+      "translation": "Наличные чаевые в банку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_85",
+      "word": "Rebook before leaving, slots fill fast.",
+      "translation": "Перезапишитесь до ухода — места разлетаются.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_86",
+      "word": "Standing appointment every third Saturday.",
+      "translation": "Постоянная запись каждую третью субботу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_87",
+      "word": "First visit consultation free.",
+      "translation": "Первичная консультация бесплатно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_88",
+      "word": "Portfolio photos on Instagram.",
+      "translation": "Портфолио барбера в Инстаграме.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_89",
+      "word": "Booked through the app easily.",
+      "translation": "Записался через приложение без проблем.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_90",
+      "word": "Cancellation policy twenty-four hours.",
+      "translation": "Отмена минимум за сутки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_91",
+      "word": "No-show fee half price cut.",
+      "translation": "За неявку — половина цены стрижки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_92",
+      "word": "Running late call ahead courtesy.",
+      "translation": "Опаздываешь — позвони, так принято.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_93",
+      "word": "Chair turned away from mirror reveal.",
+      "translation": "Кресло развернули от зеркала ради сюрприза.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_94",
+      "word": "Cape snapped closed dramatically.",
+      "translation": "Пелерину застегнули резко и ловко.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_95",
+      "word": "Neck paper tucked collar snugly.",
+      "translation": "Бумажный вороток плотно заправили.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_96",
+      "word": "Consultation questions about maintenance.",
+      "translation": "На консультации обсудили уход после стрижки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_97",
+      "word": "Morning person styling minimal.",
+      "translation": "Тем, кто не утренняя птица, важен стиль без укладки утром.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_98",
+      "word": "Five-minute hairstyle requirement stated.",
+      "translation": "Главное требование: причёска за пять минут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_99",
+      "word": "Bedhead acceptable messy look.",
+      "translation": "Взъерошенность допустима — это стиль.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_100",
+      "word": "Product buildup clarifying shampoo.",
+      "translation": "От укладочных средств — очищающий шампунь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_101",
+      "word": "Scalp massage worth upgrade.",
+      "translation": "Массаж головы стоит апгрейда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_102",
+      "word": "Hot towel neck wrap relaxing.",
+      "translation": "Горячее полотенце на шею — блаженство.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_103",
+      "word": "Shoulder rub unexpected bonus.",
+      "translation": "Разминка плеч — неожиданный бонус.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_104",
+      "word": "Straight razor neckline crisp.",
+      "translation": "Опасная бритва делает линию шеи идеальной.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_105",
+      "word": "Single blade less irritation.",
+      "translation": "Одно лезвие — меньше раздражения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_106",
+      "word": "Ingrown hairs prevented technique.",
+      "translation": "Правильная техника против врастающих волос.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_107",
+      "word": "Post-shave cold towel shock.",
+      "translation": "Холодное полотенце после бритья взбодрило.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_108",
+      "word": "Aftershave sting means clean.",
+      "translation": "Щиплет после лосьона — так и должно быть.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_109",
+      "word": "Beard oil scented cedar.",
+      "translation": "Масло для бороды с ароматом кедра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_110",
+      "word": "Beard dandruff flakes embarrassing.",
+      "translation": "Перхоть в бороде стесняет не на шутку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_111",
+      "word": "Exfoliating beard wash recommended.",
+      "translation": "Рекомендуют отшелушивающее мытьё бороды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_112",
+      "word": "Comb distribution even oil.",
+      "translation": "Гребнем распределяют масло по всей длине.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_113",
+      "word": "Boar bristle brush training.",
+      "translation": "Щётка из щетины укладывает бороду.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_114",
+      "word": "Mustache wax twist ends.",
+      "translation": "Концы усов закручиваю воском.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_115",
+      "word": "Handlebar progress month three.",
+      "translation": "Классические усы — третий месяц роста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_116",
+      "word": "Itchy stubble phase passes.",
+      "translation": "Зудящая фаза щетины проходит недели через две.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_117",
+      "word": "Beard roller growth trend.",
+      "translation": "Дермароллер для роста бороды — тренд.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_118",
+      "word": "Patchy beard styles disguise gaps.",
+      "translation": "Стрижка скрывает проплешины.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_119",
+      "word": "Clean shave baby face revealed.",
+      "translation": "После голого бритья — детское лицо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_120",
+      "word": "Friends barely recognized me!",
+      "translation": "Друзья меня едва узнали!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_121",
+      "word": "Twin brother comparison hilarious.",
+      "translation": "Сравнение с братом-близнецом — угар.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_122",
+      "word": "Before-after photos side by side.",
+      "translation": "Фото до/после рядом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_123",
+      "word": "Subscription cuts monthly discount.",
+      "translation": "Подписка на стрижки дешевле.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_124",
+      "word": "Referral card friend discount.",
+      "translation": "Карточка другу — скидка по рекомендации.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_125",
+      "word": "Gift vouchers birthdays popular.",
+      "translation": "Сертификаты популярны на дни рождения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_126",
+      "word": "Father-son appointments tradition.",
+      "translation": "Традиция: записаться вдвоём с сыном.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_127",
+      "word": "Kid first haircut certificate.",
+      "translation": "Сертификат на первую стрижку ребёнка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_128",
+      "word": "Lock of hair envelope kept.",
+      "translation": "Прядь волос на память в конвертик.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_129",
+      "word": "Wedding day groom package.",
+      "translation": "Свадебный пакет для жениха.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_130",
+      "word": "Groomsmen group booking discount.",
+      "translation": "Групповая скидка для свидетелей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_131",
+      "word": "Morning-of touch-ups scheduled early.",
+      "translation": "Освежиться в день свадьбы стоит записаться заранее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_132",
+      "word": "Photographer catches stray hairs.",
+      "translation": "Фотограф поймал торчащие волоски в кадре.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_133",
+      "word": "Final mirror spin approval nod.",
+      "translation": "Финальный поворот к зеркалу — одобрительный кивок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_134",
+      "word": "Fresh cut confidence boost real.",
+      "translation": "Свежая стрижка реально добавляет уверенности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_barbershop_135",
+      "word": "Walking taller leaving shop.",
+      "translation": "Выхожу из барбершопа будто выше ростом.",
       "language": "en"
     },
     {

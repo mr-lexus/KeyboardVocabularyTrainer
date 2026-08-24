@@ -254,6 +254,648 @@
       "word": "Prices went up again.",
       "translation": "Цены снова выросли.",
       "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_42",
+      "word": "Shopping basket rather than cart.",
+      "translation": "Мне корзинку, а не тележку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_43",
+      "word": "Coin for the cart lock.",
+      "translation": "Монетка для тележки (замок).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_44",
+      "word": "Cart stuck together again.",
+      "translation": "Тележки опять сцепились друг с другом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_45",
+      "word": "Wonky wheel on this one.",
+      "translation": "У этой колесо болтается.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_46",
+      "word": "Aisle signs overhead confusing.",
+      "translation": "Надписи рядов сверху сбивают с толку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_47",
+      "word": "Store map at the entrance.",
+      "translation": "План магазина у входа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_48",
+      "word": "Deli counter ticket machine.",
+      "translation": "Талоны электронной очереди у кулинарии.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_49",
+      "word": "Now serving number fifteen.",
+      "translation": "Вызывают номер пятнадцать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_50",
+      "word": "Sample station over there.",
+      "translation": "Дегустация вон там.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_51",
+      "word": "Free samples today!",
+      "translation": "Бесплатные дегустации сегодня!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_52",
+      "word": "Taste before buying cheese.",
+      "translation": "Попробуйте сыр перед покупкой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_53",
+      "word": "Bakery smells incredible.",
+      "translation": "От пекарни невероятный запах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_54",
+      "word": "Bread still warm from oven.",
+      "translation": "Хлеб ещё тёплый из печи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_55",
+      "word": "End-of-day discount stickers.",
+      "translation": "Вечерние скидочные стикеры.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_56",
+      "word": "Yellow sticker clearance section.",
+      "translation": "Жёлтые стикеры — секция уценки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_57",
+      "word": "Reduced after eight nightly.",
+      "translation": "Уценяют после восьми вечера.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_58",
+      "word": "Best before versus use by dates.",
+      "translation": "«Годно до» и «употребить до» различаются.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_59",
+      "word": "Sell-by date not expiry.",
+      "translation": "Дата продажи не равна сроку годности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_60",
+      "word": "Frozen aisle restocked mornings.",
+      "translation": "Морозильный ряд пополняют по утрам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_61",
+      "word": "Cold chain broken once thawed.",
+      "translation": "После разморозки холодовую цепь не восстановить.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_62",
+      "word": "Keep frozen goods together.",
+      "translation": "Заморозку складывайте вместе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_63",
+      "word": "Insulated bag for ice cream.",
+      "translation": "Термосумка для мороженого.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_64",
+      "word": "Organic labels verified?",
+      "translation": "Эко-маркировки проверены?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_65",
+      "word": "Locally grown produce section.",
+      "translation": "Отдел местных овощей и фруктов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_66",
+      "word": "Seasonal fruit cheapest now.",
+      "translation": "Сезонные фрукты сейчас самые дешёвые.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_67",
+      "word": "Berries mold fast — check bottoms.",
+      "translation": "Ягода плесневеет быстро — смотрите донышки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_68",
+      "word": "Weigh and sticker yourself here.",
+      "translation": "Взвесьте и распечатайте стикер сами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_69",
+      "word": "Item look-up code needed.",
+      "translation": "Нужен код товара для весов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_70",
+      "word": "Loose mushrooms in paper bags.",
+      "translation": "Грибы россыпью — в бумажные пакеты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_71",
+      "word": "Bring containers for bulk bins.",
+      "translation": "Приходите со своими контейнерами на развес.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_72",
+      "word": "Zero-waste aisle popular now.",
+      "translation": "Ряд без упаковки сейчас популярен.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_73",
+      "word": "Reusable produce nets sold upfront.",
+      "translation": "Многоразовые сеточки продают на входе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_74",
+      "word": "Plastic bag charge five cents.",
+      "translation": "Пластиковый пакет — пять центов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_75",
+      "word": "Paper bags free at bakery.",
+      "translation": "Бумажные бесплатно в пекарном отделе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_76",
+      "word": "Cart return corral full again.",
+      "translation": "Стоянка тележек снова переполнена.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_77",
+      "word": "Abandoned carts block parking.",
+      "translation": "Брошенные тележки мешают парковаться.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_78",
+      "word": "Express lane ten items max.",
+      "translation": "Экспресс-касса: максимум десять товаров.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_79",
+      "word": "Basket-only lane faster.",
+      "translation": "Полоса только с корзинами быстрее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_80",
+      "word": "Cash lane shorter surprisingly.",
+      "translation": "Наличная касса неожиданно короче.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_81",
+      "word": "Card reader asking for signature.",
+      "translation": "Терминал требует подпись.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_82",
+      "word": "Split payment cash plus card.",
+      "translation": "Оплата частями: наличные плюс карта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_83",
+      "word": "Voucher scanned at the end.",
+      "translation": "Купон сканируется в конце покупки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_84",
+      "word": "Digital coupon clipped in app.",
+      "translation": "Цифровой купон активирован в приложении.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_85",
+      "word": "Points card swiped first.",
+      "translation": "Сначала проведите карту лояльности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_86",
+      "word": "Receipt emailed, save trees.",
+      "translation": "Чек пришлют на почту — бережём деревья.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_87",
+      "word": "Survey code wins prize draw.",
+      "translation": "Код опроса участвует в розыгрыше.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_88",
+      "word": "Bag packing etiquette varies.",
+      "translation": "Правила упаковки пакетов везде разные.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_89",
+      "word": "Heavy items bottom of the bag.",
+      "translation": "Тяжёлое — на дно пакета.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_90",
+      "word": "Eggs on top, always.",
+      "translation": "Яйца всегда наверх.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_91",
+      "word": "Cold items bagged last.",
+      "translation": "Холодное пакуют последним.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_92",
+      "word": "Rush home, freezer waiting.",
+      "translation": "Едем домой быстрее — морозилка ждёт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_93",
+      "word": "Forgot the shopping list at home!",
+      "translation": "Опять забыл список покупок дома!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_94",
+      "word": "List on the fridge magnet board.",
+      "translation": "Список на доске-магните на холодильнике.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_95",
+      "word": "Shared family shopping app.",
+      "translation": "Общее семейное приложение для списка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_96",
+      "word": "Partner added requests remotely.",
+      "translation": "Партнёр добавил просьбы удалённо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_97",
+      "word": "Substitutions okay if sold out?",
+      "translation": "Если нет в наличии — можно заменить?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_98",
+      "word": "No substitutions on this order.",
+      "translation": "Без замен в этом заказе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_99",
+      "word": "Weekly shop Sunday mornings.",
+      "translation": "Большая закупка по воскресеньям утром.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_100",
+      "word": "Beat the crowds early bird.",
+      "translation": "Ранние птицы избегают толп.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_101",
+      "word": "Empty shelves before holidays.",
+      "translation": "Перед праздниками полки пустеют.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_102",
+      "word": "Panic buying toilet paper again!",
+      "translation": "Опять скупают туалетную бумагу!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_103",
+      "word": "Limit two per customer signs.",
+      "translation": "Таблички: не больше двух в руки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_104",
+      "word": "Restocker stacking cans pyramid.",
+      "translation": "Фасовщик ставит банки пирамидкой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_105",
+      "word": "Box cutter opening deliveries.",
+      "translation": "Коробки вскрывают ножом для коробок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_106",
+      "word": "Pallet jack beeping corners.",
+      "translation": "Гидротележка сигналит на поворотах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_107",
+      "word": "Foragers hunt reduced stickers.",
+      "translation": "Охотники за скидками ищут жёлтые стикеры.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_108",
+      "word": "Markdown marathon before closing.",
+      "translation": "Марафон уценки перед закрытием.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_109",
+      "word": "Scanner app compares unit prices.",
+      "translation": "Приложение сравнивает цену за единицу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_110",
+      "word": "Per kilo versus per pound labels.",
+      "translation": "Цены за килограмм и за фунт путают.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_111",
+      "word": "Unit price trick reveals savings.",
+      "translation": "Цена за единицу помогает сэкономить.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_112",
+      "word": "Store brands rival name brands.",
+      "translation": "Собственные марки не хуже брендов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_113",
+      "word": "Blind taste test surprised me.",
+      "translation": "Слепая дегустация показала: дешёвый вкуснее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_114",
+      "word": "Packaging downsized prices same.",
+      "translation": "Упаковку уменьшили, цена прежняя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_115",
+      "word": "Shrinkflation complaints trending.",
+      "translation": "Жалобы на шринкфляцию набирают обороты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_116",
+      "word": "Loyalty app personalized coupons.",
+      "translation": "В приложении купоны подобраны под меня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_117",
+      "word": "Digital receipts searchable later.",
+      "translation": "Цифровые чеки потом удобно искать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_118",
+      "word": "Budget spreadsheet updated weekly.",
+      "translation": "Таблицу бюджета обновляем еженедельно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_119",
+      "word": "Couple argues over brand loyalty.",
+      "translation": "Пара спорит о приверженности марке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_120",
+      "word": "Kids begging cereal aisle toys.",
+      "translation": "Дети выпрашивают игрушки в ряду хлопьев.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_121",
+      "word": "Checkout candy impulse trap.",
+      "translation": "Импульсные сладости у кассы — классическая ловушка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_122",
+      "word": "Basket subtotal mental math.",
+      "translation": "Прикидываешь сумму корзины в уме.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_123",
+      "word": "Over budget by ten bucks.",
+      "translation": "Превысил бюджет баксов на десять.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_124",
+      "word": "Return impulse items at till.",
+      "translation": "Импульсные товары можно вернуть прямо на кассе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_125",
+      "word": "Cashier small talk pleasant.",
+      "translation": "Кассир поддержал приятную беседу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_126",
+      "word": "Double-bagged heavy glass jars.",
+      "translation": "Тяжёлые банки упаковали в двойной пакет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_127",
+      "word": "Eggs separated from canned goods.",
+      "translation": "Яйца кладут отдельно от консервов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_128",
+      "word": "Frozen peas cushioning fragile bread.",
+      "translation": "Замороженный горошек стелют под хлеб.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_129",
+      "word": "Cold chain unbroken till fridge.",
+      "translation": "Холодовая цепь не прервана до домашней камеры.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_130",
+      "word": "Unload perishables first home.",
+      "translation": "Дома скоропортящееся убираем первым.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_131",
+      "word": "Meal prep Sunday containers ready.",
+      "translation": "Контейнеры для заготовок ждут воскресной заготовки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_132",
+      "word": "Bulk cooking saves evenings.",
+      "translation": "Готовка запасами экономит вечера.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_133",
+      "word": "Groceries delivered subscription considered.",
+      "translation": "Всё чаще думаем о подписке на доставку продуктов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_134",
+      "word": "Delivery slot booked Thursday dawn.",
+      "translation": "Слот доставки забронирован на раннее утро четверга.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_135",
+      "word": "Substitutions texted for approval.",
+      "translation": "О заменах присылают СМС на согласование.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_136",
+      "word": "Ripe avocado guarantee or refund.",
+      "translation": "«Авокадо спелое или вернём деньги» или возврат.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_137",
+      "word": "Squeeze test unreliable myth.",
+      "translation": "Тест на мягкость — работает не всегда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_138",
+      "word": "Stem pops off means ripe.",
+      "translation": "Если черенок легко отходит — спелое.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_139",
+      "word": "Watermelon thumping technique debated.",
+      "translation": "Технику простукивания арбуза обсуждают до хрипа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_140",
+      "word": "Hollow sound indicates ripeness.",
+      "translation": "Звонкий звук — признак спелости.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_141",
+      "word": "Seasonal strawberries taste incomparable.",
+      "translation": "Сезонная клубника несравнима по вкусу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_142",
+      "word": "Frozen berries smoothie backup plan.",
+      "translation": "Замороженные ягоды — запас для смузи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_143",
+      "word": "Canned tomatoes pantry staple.",
+      "translation": "Консервированные томаты — основа кладовой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_144",
+      "word": "Dried lentils cheapest protein.",
+      "translation": "Сушёная чечевица — самый дешёвый белок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_145",
+      "word": "Spices aisle smells incredible.",
+      "translation": "Ряд специй пахнет божественно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_146",
+      "word": "Bulk section bring own jars.",
+      "translation": "На развес — приходите с банками.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_147",
+      "word": "Tare weight sticker request.",
+      "translation": "Попросите стикер с весом тары.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_supermarket_148",
+      "word": "Zero packaging guilt-free shopping.",
+      "translation": "Без упаковки — покупки без чувства вины.",
+      "language": "en"
     }
   ]
 }
