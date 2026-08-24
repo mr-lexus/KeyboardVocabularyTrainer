@@ -1,0 +1,607 @@
+{
+  "id": "phrasebook-presentations",
+  "name": "Presentations & Speaking",
+  "description": "Презентации и публичные выступления: слайды, вопросы зала, работа с волнением",
+  "entries": [
+    {
+      "id": "pbq_presentations_0",
+      "word": "Thank you all for coming today.",
+      "translation": "Спасибо всем, что пришли сегодня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_1",
+      "word": "Introduce myself briefly first.",
+      "translation": "Сначала коротко представлюсь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_2",
+      "word": "My name is Alex, product lead.",
+      "translation": "Меня зовут Алекс, я лид продукта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_3",
+      "word": "Today I will cover three points.",
+      "translation": "Сегодня я освещу три вопроса.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_4",
+      "word": "Talk structured in two parts.",
+      "translation": "Доклад состоит из двух частей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_5",
+      "word": "Roughly twenty minutes plus questions.",
+      "translation": "Около двадцати минут плюс вопросы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_6",
+      "word": "Feel free to interrupt with questions.",
+      "translation": "Задавайте вопросы по ходу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_7",
+      "word": "Questions saved for the end.",
+      "translation": "Вопросы — в конце выступления.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_8",
+      "word": "Slides available after the talk.",
+      "translation": "Слайды пришлю после доклада.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_9",
+      "word": "QR code links to my slides.",
+      "translation": "По QR-коду открываются слайды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_10",
+      "word": "Lets dive straight in.",
+      "translation": "Перейдём сразу к делу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_11",
+      "word": "Starting with some context.",
+      "translation": "Начну с контекста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_12",
+      "word": "Background for those unfamiliar.",
+      "translation": "Немного вводной для тех, кто не в теме.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_13",
+      "word": "Quick show of hands question.",
+      "translation": "Быстрый вопрос — поднимите руки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_14",
+      "word": "Who here has experienced this?",
+      "translation": "Кто-нибудь сталкивался с этим?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_15",
+      "word": "Exactly as I expected.",
+      "translation": "Именно как я и ожидал.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_16",
+      "word": "This graph tells the story.",
+      "translation": "Этот график говорит сам за себя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_17",
+      "word": "Numbers doubled year over year.",
+      "translation": "Цифры удвоились за год.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_18",
+      "word": "Notice the spike right here.",
+      "translation": "Обратите внимание на этот скачок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_19",
+      "word": "The trend line speaks volumes.",
+      "translation": "Линия тренда красноречива.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_20",
+      "word": "Let that sink in for a moment.",
+      "translation": "Осознайте эту цифру секунду.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_21",
+      "word": "Moving on to the next slide.",
+      "translation": "Переходим к следующему слайду.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_22",
+      "word": "Next slide please.",
+      "translation": "Следующий слайд, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_23",
+      "word": "Could we go back one slide?",
+      "translation": "Можно на слайд назад?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_24",
+      "word": "Skip ahead to the demo.",
+      "translation": "Перемотаем сразу к демонстрации.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_25",
+      "word": "This slide summarizes everything.",
+      "translation": "Этот слайд резюмирует всё.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_26",
+      "word": "Key takeaway highlighted in yellow.",
+      "translation": "Главное выделено жёлтым.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_27",
+      "word": "Three key takeaways today.",
+      "translation": "Три главных вывода сегодня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_28",
+      "word": "First point worth remembering.",
+      "translation": "Первый пункт стоит запомнить.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_29",
+      "word": "If you remember one thing…",
+      "translation": "Если запомните что-то одно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_30",
+      "word": "Demo time fingers crossed.",
+      "translation": "Время демо — надеюсь, не подведёт техника.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_31",
+      "word": "Live demo always risky exciting.",
+      "translation": "Живое демо риск и драйвер одновременно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_32",
+      "word": "Technology gods smiling today hopefully.",
+      "translation": "Технические боги сегодня пусть будут благосклонны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_33",
+      "word": "Bear with me one moment.",
+      "translation": "Одну секунду, сейчас наладим.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_34",
+      "word": "Technical difficulties aside moving on.",
+      "translation": "Не будем застревать на технических проблемах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_35",
+      "word": "Works on my machine joke landed.",
+      "translation": "Шутка «у меня работало» вызвала смех.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_36",
+      "word": "Screen share starting now.",
+      "translation": "Начинаю трансляцию экрана.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_37",
+      "word": "Can everyone see my screen?",
+      "translation": "Всем виден мой экран?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_38",
+      "word": "Zoom into this section here.",
+      "translation": "Приблизим этот фрагмент.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_39",
+      "word": "Highlighting the important row.",
+      "translation": "Подсвечиваю важную строку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_40",
+      "word": "Laser pointer distracting use sparingly.",
+      "translation": "Лазерную указку лучше не злоупотреблять.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_41",
+      "word": "Pause for effect dramatic silence.",
+      "translation": "Драматическая пауза для эффекта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_42",
+      "word": "That was the bad news part.",
+      "translation": "Это была часть с плохими новостями.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_43",
+      "word": "Good news comes next slide.",
+      "translation": "Хорошие новости — на следующем слайде.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_44",
+      "word": "Anticipation building nicely now.",
+      "translation": "Интрига нарастает как надо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_45",
+      "word": "Drum roll please.",
+      "translation": "Барабанная дробь!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_46",
+      "word": "Announcing the results finally.",
+      "translation": "Наконец объявляю результаты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_47",
+      "word": "Applause line prepared carefully.",
+      "translation": "Реплика под аплодисменты подготовлена заранее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_48",
+      "word": "Self-deprecating humor works every time.",
+      "translation": "Самоирония работает безотказно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_49",
+      "word": "Nervous laughter acknowledged gracefully.",
+      "translation": "Неловкий смешок залпа обыграли изящно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_50",
+      "word": "Forgot my place notes help.",
+      "translation": "Сбился — заглянул в заметки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_51",
+      "word": "Lost my train of thought briefly.",
+      "translation": "На секунду потерял нить мысли.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_52",
+      "word": "Where was I? Ah yes.",
+      "translation": "На чём я остановился? Ах да.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_53",
+      "word": "Speaking pace deliberately slower here.",
+      "translation": "Здесь говорю намеренно медленнее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_54",
+      "word": "Emphasizing this word strongly.",
+      "translation": "Особенно выделяю это слово голосом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_55",
+      "word": "Eye contact corners of room.",
+      "translation": "Держу зрительный контакт со всеми частями зала.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_56",
+      "word": "Avoiding death by PowerPoint.",
+      "translation": "Спасаемся от «смерти через PowerPoint».",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_57",
+      "word": "Six words maximum per bullet.",
+      "translation": "Максимум шесть слов в пункте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_58",
+      "word": "Reading slides aloud forbidden.",
+      "translation": "Читать слайды вслух запрещено!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_59",
+      "word": "Slide is backdrop not script.",
+      "translation": "Слайд — фон, а не шпаргалка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_60",
+      "word": "White space is your friend.",
+      "translation": "Пустота на слайде — ваш друг.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_61",
+      "word": "Font size legible from back row.",
+      "translation": "Шрифт читается с заднего ряда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_62",
+      "word": "Consistent color scheme professional look.",
+      "translation": "Единая цветовая гамма выглядит профессионально.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_63",
+      "word": "Animation transitions minimal tasteful.",
+      "translation": "Анимации минимальные и со вкусом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_64",
+      "word": "Chart junk eliminated ruthlessly.",
+      "translation": "Мусорные элементы с графиков убраны беспощадно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_65",
+      "word": "Story arc beginning middle end.",
+      "translation": "История: завязка, развитие, развязка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_66",
+      "word": "Anecdote opens attention grabbed.",
+      "translation": "История с порога цепляет внимание сразу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_67",
+      "word": "Personal failure story relatable.",
+      "translation": "Личная история провала вызывает доверие.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_68",
+      "word": "Vulnerability builds speaker credibility.",
+      "translation": "Открытость делает спикера убедительным.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_69",
+      "word": "Rehearsed opening cold memorized.",
+      "translation": "Вступление отрепетировано до автоматизма.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_70",
+      "word": "First thirty seconds decide attention.",
+      "translation": "Первые тридцать секунд решают внимание зала.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_71",
+      "word": "Energy level matches message.",
+      "translation": "Энергия подачи соответствует сообщению.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_72",
+      "word": "Microphone feedback screech adjusted distance.",
+      "translation": "Свист микрофона — отошёл подальше.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_73",
+      "word": "Handheld mic frees gestures.",
+      "translation": "Ручной микрофон освобождает жесты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_74",
+      "word": "Lavalier mic clipped discreetly.",
+      "translation": "Петличка незаметно закреплена.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_75",
+      "word": "Confidence booth pre-stage ritual.",
+      "translation": "Перед выходом — ритуал собранности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_76",
+      "word": "Deep breaths backstage nerves calmed.",
+      "translation": "Глубокие вдохи за кулисами успокоили нервы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_77",
+      "word": "Butterflies flying formation phrase classic.",
+      "translation": "Классика: «пусть бабочки летят строем».",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_78",
+      "word": "Stage fright never fully disappears.",
+      "translation": "Страх сцены не уходит полностью никогда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_79",
+      "word": "Audience wants you to succeed.",
+      "translation": "Зал хочет, чтобы вы выступили хорошо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_80",
+      "word": "They are rooting for you.",
+      "translation": "Они болеют за вас.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_81",
+      "word": "Wrapping up final thoughts now.",
+      "translation": "Завершаю, последние мысли.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_82",
+      "word": "To summarize three things matter.",
+      "translation": "Резюмирую: важны три вещи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_83",
+      "word": "Call to action clear single step.",
+      "translation": "Призыв к действию: один ясный шаг.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_84",
+      "word": "Contact details final slide stay.",
+      "translation": "Контакты на последнем слайде, оставлю до конца.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_85",
+      "word": "Questions welcome fire away.",
+      "translation": "Вопросы приветствуются — задавайте!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_86",
+      "word": "Great question thank you asking.",
+      "translation": "Отличный вопрос, спасибо, что спросили.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_87",
+      "word": "Answer briefly elaborate if needed.",
+      "translation": "Отвечу кратко, могу развернуть.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_88",
+      "word": "Interesting angle never considered that.",
+      "translation": "Любопытный ракурс, не думал об этом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_89",
+      "word": "Offline discussion better venue detailed.",
+      "translation": "Детали лучше обсудим лично после.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_90",
+      "word": "Hard question stalling politely think.",
+      "translation": "Сложный вопрос — беру паузу подумать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_91",
+      "word": "Honest answer simply dont know.",
+      "translation": "Честный ответ: не знаю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_92",
+      "word": "Will find out and follow up.",
+      "translation": "Выясню и обязательно вернусь с ответом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_93",
+      "word": "Host signaling wrap up soon.",
+      "translation": "Ведущий сигналит — пора закругляться.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_94",
+      "word": "One more slide promise short.",
+      "translation": "Ещё один слайд, обещаю коротко.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_95",
+      "word": "Thank you applause bow slightly.",
+      "translation": "Спасибо, аплодисменты, лёгкий поклон.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_96",
+      "word": "Relieved exhale backstage celebration.",
+      "translation": "Выдох облегчения за кулисами, празднуем!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_97",
+      "word": "Adrenaline crash post-talk nap.",
+      "translation": "После доклада — откат адреналина и сон.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_98",
+      "word": "Feedback forms honest comments gold.",
+      "translation": "Честные комментарии в анкетах — золото.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_presentations_99",
+      "word": "Recording link shared company channel.",
+      "translation": "Запись доклада разослана по каналу.",
+      "language": "en"
+    }
+  ]
+}

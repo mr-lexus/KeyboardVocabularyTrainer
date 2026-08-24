@@ -1,0 +1,1753 @@
+{
+  "id": "phrasebook-simracing",
+  "name": "Sim Racing",
+  "description": "Симрейсинг: рули и педали, FFB, iRacing и рейтинги, лиги, стримы, сленг",
+  "entries": [
+    {
+      "id": "pbq_simracing_0",
+      "word": "Direct drive wheel base instant torque response.",
+      "translation": "Direct drive руль: момент передаётся мгновенно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_1",
+      "word": "Wheelbase torque ratings nm compared shopping.",
+      "translation": "Сравниваю вилбейсы по ньютон-метрам перед покупкой!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_2",
+      "word": "Load cell pedals pressure braking consistency game changer.",
+      "translation": "Лоад-селл педали: торможение усилием меняет всё!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_3",
+      "word": "Progressive brake springs mod installed feel improved.",
+      "translation": "Поставил прогрессивные пружины — стало информативнее.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_4",
+      "word": "Heel toe box pedal spacing adjusted brackets.",
+      "translation": "Переставил кронштейны под пятку-носок!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_5",
+      "word": "H-pattern shifter sequential swap mods popular.",
+      "translation": "Популярный мод: замена H-shifter на секвентал!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_6",
+      "word": "Handbrake drift sessions rally stages fun.",
+      "translation": "Ручник для дрифта на раллийных этапах — весело!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_7",
+      "word": "Triple monitors bezel-free kit immersion seamless.",
+      "translation": "Безрамочные киты для трёх мониторов — бесшовное погружение!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_8",
+      "word": "FOV calculation correct perspective speed perception accurate.",
+      "translation": "Правильный FOV даёт честное восприятие скорости!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_9",
+      "word": "Single screen distance math vertical angle calculators online.",
+      "translation": "Для одного монитора есть онлайн-калькуляторы углов!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_10",
+      "word": "VR headset sim racing immersion unmatched motion sickness managed.",
+      "translation": "VR в симрейсинге непревзойдён, укачивание лечится привычкой!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_11",
+      "word": "Frame rate stability VR comfort critical priority settings.",
+      "translation": "Для VR стабильный фпс важнее красоты графики!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_12",
+      "word": "Motion rig actuators g-forces simulated wallet pain real.",
+      "translation": "Моушн-риг с актуаторами имитирует перегрузки — кошелёк плачет!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_13",
+      "word": "Traction loss rear sway platform drift feel added.",
+      "translation": "Трекшн-лосс платформа добавляет ощущение заноса задом!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_14",
+      "word": "Seat time virtual equals real skills debate ongoing.",
+      "translation": "Спор: равнозначно ли виртуальное кресло-время реальному!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_15",
+      "word": "Button boxes stream deck functions mapped macros.",
+      "translation": "Буттон-боксы и Stream Deck с макросами!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_16",
+      "word": "Quick release system wheel swaps seconds.",
+      "translation": "Куик-релиз: смена руля за секунды!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_17",
+      "word": "Aftermarket rims deep dish oval GT styles collected.",
+      "translation": "Коллекционирую ободы: глубокие, овальные, GT!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_18",
+      "word": "Magnetic shifters paddle clicks crisp tactile.",
+      "translation": "Магнитные лепестки щёлкают сочно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_19",
+      "word": "Dual clutch paddles launch control binds assigned.",
+      "translation": "Двойная муфта на лепестках — для старта!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_20",
+      "word": "Force feedback settings gain minimum force damping per title.",
+      "translation": "Настройки FFB: gain, minimum force, демпфирование — под каждую игру!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_21",
+      "word": "Caster self-aligning torque felt wheel weight realism.",
+      "translation": "Кастер чувствуется как вес на руле — реализм!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_22",
+      "word": "FFB clipping distortion detail lost warning meter apps.",
+      "translation": "Клиппинг FFB убивает детали — есть приложения-индикаторы!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_23",
+      "word": "Natural inertia small MIG effect subtle road texture.",
+      "translation": "Натуральная инерция даёт тонкую текстуру дороги!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_24",
+      "word": "Gear effects kerb strikes transmitted faithfully tuned.",
+      "translation": "Удары поребриков переданы точно после настройки!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_25",
+      "word": "Wheel check app oscillation test frequency response measured.",
+      "translation": "Wheel Check меряет частотный отклик осцилляцией!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_26",
+      "word": "IRacing subscription model official series structured progression.",
+      "translation": "iRacing: подписка и официальные серии со структурой!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_27",
+      "word": "Safety rating clean driving metric licence progression gates.",
+      "translation": "Safety rating — метрика чистоты езды, открывает лицензии!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_28",
+      "word": "iRating skill matchmaking splits balanced fields.",
+      "translation": "iRating матчит тебя с равными по силе!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_29",
+      "word": "Rookies chaos avoidance survival guide forum wisdom.",
+      "translation": "Выживание среди новичков — мудрость форумов!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_30",
+      "word": "License class D C B A Pro progression earned.",
+      "translation": "Лицензии D, C, B, A и Про — заслуживаются!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_31",
+      "word": "Participation credit weekly races points minimum.",
+      "translation": "Зачёт участия: минимум очков в неделю!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_32",
+      "word": "Official practice lobbies open setup experimentation.",
+      "translation": "Официальные практики: свобода настроек!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_33",
+      "word": "Hosted leagues custom grids passwords private.",
+      "translation": "Хостед-лиги: приватные гриды по паролю!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_34",
+      "word": "Fixed setup series driving skill purest test.",
+      "translation": "Фикс-сетап серии: чистая проверка мастерства!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_35",
+      "word": "Open setup tinkering garage hours deep dives.",
+      "translation": "Открытый сетап — часы гаражных копаний!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_36",
+      "word": "Fast repairs track damage minimal arcade compromise.",
+      "translation": "Быстрый ремонт — аркадный компромисс повреждений!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_37",
+      "word": "Full damage mechanical failures race ending realistic.",
+      "translation": "Полные повреждения: механические отказы заканчивают гонку!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_38",
+      "word": "Dirty racing protest filed replay reviewed stewards.",
+      "translation": "За грязную езду — протест, стюарды смотрят реплей!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_39",
+      "word": "Incident report submission time limits strict enforced.",
+      "translation": "На жалобы строгие сроки подачи!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_40",
+      "word": "Protest culture policing standards community driven moderation.",
+      "translation": "Модерация сообщества сама следит за стандартами!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_41",
+      "word": "Netcode warping ghost cars rubber banding complaints.",
+      "translation": "Неткод: варпинг, призраки машин, резинка — вечные жалобы!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_42",
+      "word": "Ping latency thresholds competitive integrity affected.",
+      "translation": "Высокий пинг бьёт по честности борьбы!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_43",
+      "word": "Connection quality indicator bars join decisions.",
+      "translation": "Индикатор связи помогает решить, заходить ли!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_44",
+      "word": "Start jump penalties rolling starts timing sensitive.",
+      "translation": "На роллинг-стартах чувствительны к фальстарту!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_45",
+      "word": "Pit lane speeding infractions automated enforcement strict.",
+      "translation": "Превышение в пит-лейне карается автоматически!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_46",
+      "word": "Off-track excursions cut track penalties lap invalidated.",
+      "translation": "Срезки аннулируют круг автоматически!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_47",
+      "word": "SoF strength of field rating difficulty multiplier rating gains.",
+      "translation": "SoF: сила поля множит прирост рейтинга!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_48",
+      "word": "Winning top split elite lobby achievement screenshot posted.",
+      "translation": "Победа в топ-сплите — скриншот в соцсети!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_49",
+      "word": "Bottom split survival races chaotic carnage videos.",
+      "translation": "Гонки в нижнем сплите — хаос и карнаж на видео!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_50",
+      "word": "Alien slang fastest sim racers untouchable times respect.",
+      "translation": "«Алиены» — недосягаемые быстрые симрейсеры!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_51",
+      "word": "Hotlapping ghost car delta chasing personal bests.",
+      "translation": "Хотлапы: гоняюсь за призраком своего рекорда!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_52",
+      "word": "Time trial leaderboards world records hunted setups shared.",
+      "translation": "Мировые рекорды тайм-триала охотятся сетапами!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_53",
+      "word": "Telemetry comparison MoTeC data files swapped coaching.",
+      "translation": "Обменяются телеметрией MoTeC для коучинга!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_54",
+      "word": "VRS virtual racing school coaching subscriptions data packs.",
+      "translation": "VRS: коучинг и пакеты данных по подписке!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_55",
+      "word": "Driver coach session voice comms corner-by-corner feedback.",
+      "translation": "Сессия с тренером: разбор каждого поворота голосом!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_56",
+      "word": "Trail braking simulator precision brake pedals taught control.",
+      "translation": "Трейл-брейкинг в симе учит контролю педали!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_57",
+      "word": "Skip Barber going faster book sim racers bible.",
+      "translation": "Книга Skip Barber «Going Faster» — библия симрейсеров!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_58",
+      "word": "Slow in fast out mythbusted proper technique explained.",
+      "translation": "Миф «медленно вхади» развенчан правильной техникой!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_59",
+      "word": "Friction circle management throttle steering balance lessons transfer.",
+      "translation": "Управление кругом трения переносится из сима в жизнь!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_60",
+      "word": "Muscle memory keyboard racers transition wheel awkward weeks.",
+      "translation": "Переход с клавиатуры на руль — недели неловкости!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_61",
+      "word": "Controller pad racers competitive surprisingly esports examples exist.",
+      "translation": "Даже на геймпаде бывают конкурентные про-игроки!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_62",
+      "word": "Assists off purist badge honour claimed.",
+      "translation": "Езда без ассистов — значок чести пуристов!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_63",
+      "word": "ABS on off debate stopping distances sims modelled.",
+      "translation": "Споры про ABS: в симах расстояния смоделированы!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_64",
+      "word": "Auto clutch manual shifting gearbox choice preference.",
+      "translation": "Автосцепка или ручное переключение — дело вкуса!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_65",
+      "word": "Automatic gears beginners crutch eventually abandoned pride.",
+      "translation": "Автомат — костыль новичков, потом бросают с гордостью!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_66",
+      "word": "Racing line assist braking markers dependency trap avoided.",
+      "translation": "Помощь гоночной траектории — ловушка зависимости, избегаем!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_67",
+      "word": "Stability control off slide recovery skills developed.",
+      "translation": "Со выключенной стабилизацией учишься ловить заносы!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_68",
+      "word": "Setup guides community forums baseline sheets shared generously.",
+      "translation": "Комьюнити щедро делится базовыми сетапами!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_69",
+      "word": "Garage 61 telemetry hosting platform popular data sharing.",
+      "translation": "Garage 61 — популярная платформа обмена телеметрией!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_70",
+      "word": "Lap records world time attack boards competitive ecosystems.",
+      "translation": "Таблицы мировых рекордов — целые экосистемы конкуренции!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_71",
+      "word": "Season championships points tables league standings websites.",
+      "translation": "Чемпионаты лиг ведут таблицы на сайтах!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_72",
+      "word": "Team endurance events driver swaps coordination voice chat.",
+      "translation": "Командные эндурансы: смены пилотов через войс!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_73",
+      "word": "Fuel saving lift coast techniques endurance stints required.",
+      "translation": "В эндуранс стинтах обязателен lift-and-coast!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_74",
+      "word": "Night cycle lighting transitions visually stunning immersive.",
+      "translation": "Циклы дня и ночи визуально шикарны!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_75",
+      "word": "Dynamic weather rain tyres gamble simulation depth praised.",
+      "translation": "Динамическая погода и риск с резиной — глубина хвалится!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_76",
+      "word": "Track rubbering in evolving grip conditions replicated.",
+      "translation": "Трасса «резинится» и цепляет по ходу заезда.!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_77",
+      "word": "Marbles offline grip loss authentic hazard recreated.",
+      "translation": "Мармелад вне траектории — аутентичная опасность!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_78",
+      "word": "Scanner radio team chatter immersive endurance experience.",
+      "translation": "Сканер с командным радио — полное погружение в эндуранс!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_79",
+      "word": "Spotter calls optional blind spots assistance toggle.",
+      "translation": "Голос споттера включается опционально!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_80",
+      "word": "Crew chief feedback setup suggestions automated hints helpful.",
+      "translation": "Подсказки чиф-инженера по сетапу помогают новичкам!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_81",
+      "word": "Ghost racing against your best lap motivation loop.",
+      "translation": "Призрак лучшего круга — мотивационная петля!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_82",
+      "word": "AI field difficulty adaptive learning your pace levels.",
+      "translation": "ИИ-соперники адаптируются под твой темп!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_83",
+      "word": "AI aggression sliders fairness tuning preferences personal.",
+      "translation": "Агрессию ИИ каждый крутит под себя!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_84",
+      "word": "Photo mode replays cinematic cameras editing creativity outlet.",
+      "translation": "Фото-режим и кинематографичные камеры — выход для творчества!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_85",
+      "word": "Replay theatre director mode angles cinematic storytelling.",
+      "translation": "Театр повторов: режиссёрские ракурсы, кино-нарратив!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_86",
+      "word": "Streaming overlay dashboards telemetry widgets viewers engagement.",
+      "translation": "Стрим-оверлеи с телеметрией вовлекают зрителей!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_87",
+      "word": "Twitch sim racing categories viewership growing steadily.",
+      "translation": "Категория симрейсинга на Twitch стабильно растёт!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_88",
+      "word": "Commentary casting amateur leagues professional quality improving.",
+      "translation": "Любительский комментинг лиг тянется к профессионализму!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_89",
+      "word": "Esports scholarships universities sim racing programs accredited.",
+      "translation": "Университеты дают стипендии за симрейсинг!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_90",
+      "word": "Pro esports teams scouting talent pools tournaments watched.",
+      "translation": "Про-команды скаутят таланты на турнирах!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_91",
+      "word": "Real drivers compete sims crossover legitimacy validated.",
+      "translation": "Реальные гонщики играют симы — легитимность подтверждена!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_92",
+      "word": "Sim racing Olympic dreams virtual olympic series hosted.",
+      "translation": "Виртуальные олимпийские серии уже проводились!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_93",
+      "word": "Home rig budget tiers entry mid high-end spreadsheets compared.",
+      "translation": "Бюджетные уровни ригов сравнивают в табличках!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_94",
+      "word": "Secondhand market bargains upgrades cycles community marketplace.",
+      "translation": "Б/у рынок ригов: циклы апгрейдов и выгодные находки!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_95",
+      "word": "DIY profiles aluminium extrusion builds cost effective sturdy.",
+      "translation": "Самодельные стенды из алюминия — дёшево и жёстко!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_96",
+      "word": "Rigidity flex pedal forces tested wall mounted braces.",
+      "translation": "Жёсткость стенда под лоад-селлы проверяют упорами!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_97",
+      "word": "Buttkeeper seat position sliding under braking fixed bracket.",
+      "translation": "Упор для корпуса: не съезжать под торможением!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_98",
+      "word": "Pedal tuning software curves deadzones calibrated carefully.",
+      "translation": "Кривые педалей и мёртвые зоны калибруют тщательно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_99",
+      "word": "Wheel firmware updates changelog read before flashing.",
+      "translation": "Прошивку руля обновляют, читая changelog!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_100",
+      "word": "Driver conflicts USB devices bandwidth allocation troubleshooting forums.",
+      "translation": "Конфликты USB-устройств решают на форумах!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_101",
+      "word": "Cable management velcro ties organised desk cockpit neat.",
+      "translation": "Кабель-менеджмент: стяжки и порядок в кокпите!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_102",
+      "word": "Room temperature wheelbase thermal throttling performance drops noticed.",
+      "translation": "Перегрев вилбея душит момент летом!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_103",
+      "word": "Cooling fans accessories overheating prevention mods added.",
+      "translation": "Кулеры для базы — популярный антиперегревательный мод!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_104",
+      "word": "Warranty claims customer service experiences varied brands reputation matters.",
+      "translation": "Репутация бренда видна в гарантийном сервисе!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_105",
+      "word": "Community Discord servers setup help channels active helpful.",
+      "translation": "Discord-серверы: живые каналы помощи по настройкам!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_106",
+      "word": "YouTube tutorials setup guides beginner playlists bookmarked.",
+      "translation": "Плейлисты гайдов для новичков в закладках!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_107",
+      "word": "Coaching marketplaces hourly rates pro drivers affordable sessions.",
+      "translation": "Маркеты коучинга: часы с профи по доступным ценам!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_108",
+      "word": "Progress tracking spreadsheets laps times deltas motivation charts.",
+      "translation": "Таблицы прогресса с дельтами мотивируют графиками!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_109",
+      "word": "Plateau breaking techniques fresh perspectives coaching breakthroughs.",
+      "translation": "Пробить плато помогает свежий взгляд тренера!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_110",
+      "word": "Consistency metrics standard deviation lap times improvement goal.",
+      "translation": "Цель — снизить разброс времён круга!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_111",
+      "word": "Racecraft practice overtaking AI bots etiquette learned safely.",
+      "translation": "Раскрутка райскрафта против ИИ учит этике обгонов безопасно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_112",
+      "word": "Multiclass traffic lapping protocols slower classes awareness trained.",
+      "translation": "Мультикласс: учат осознанности вокруг медленных классов!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_113",
+      "word": "Prototype versus GTE speed differential mirrors usage critical.",
+      "translation": "Разница скоростей прототипов и GTE — зеркала критичны!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_114",
+      "word": "Day night transitions headlight beams immersion endurance magic.",
+      "translation": "Смена дня и ночью в эндурансе — магия фар!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_115",
+      "word": "Cold tyre first lap spins lessons humility learned repeatedly.",
+      "translation": "Первый круг на холодной резине — урок смирения!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_116",
+      "word": "Reset button rage quit temptations discipline practised.",
+      "translation": "Кнопка рестарта искушает — дисциплину качаем!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_117",
+      "word": "Save replay every race post-analysis ritual habits formed.",
+      "translation": "Сохранять реплей каждой гонки — полезный ритуал!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_118",
+      "word": "Highlight clips edited social media shared community feedback loops.",
+      "translation": "Хайлайты режутся в соцсети — циклы фидбека комьюнити!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_119",
+      "word": "Virtual friendships international teammates timezone juggling schedules.",
+      "translation": "Виртуальные дружбы: тиммейты через часовые пояса!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_120",
+      "word": "Language barriers voice comms English lingua franca paddocks digital.",
+      "translation": "Английский — язык цифровых паддоков!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_121",
+      "word": "Respect sportsmanship values community codes conduct written.",
+      "translation": "Кодексы поведения сообществ прописывают уважение!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_122",
+      "word": "Growth sim racing accessibility costs lowered democratised motorsport dreams.",
+      "translation": "Симрейсинг удешевил мечты о автоспорте для всех!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_123",
+      "word": "Servo motor bases belt drive comparison torque ripple differences felt.",
+      "translation": "Серво против ремённого привода: рябь момента ощущается по-разному!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_124",
+      "word": "Encoder resolution degrees feedback smoothness quantified specs sheets.",
+      "translation": "Разрешение энкодера в градусах = плавность обратной связи!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_125",
+      "word": "Oversteer understeer feedback asymmetry FFB tuning balance cues learned.",
+      "translation": "Асимметрия FFB учит различать недо- и избыточную поворачиваемость!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_126",
+      "word": "Slip angle feel tyre squeal audio cues mixed levels balanced.",
+      "translation": "Баланс визга резины и усилий — настройка звука!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_127",
+      "word": "Audio mixing engine tyres wind sliders immersion tuned headphones open-back preferred.",
+      "translation": "Открытые наушники: микс мотора, резины, ветра!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_128",
+      "word": "Butt kicker transducers bass shakers kerb rumble felt seated.",
+      "translation": "Сабвуфер-трансдюсеры дают вибрацию поребриков в кресло!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_129",
+      "word": "Subwoofer placement floor coupling low-end frequencies road texture added.",
+      "translation": "Сабвуфер в пол добавляет низкочастотную текстуру дороги!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_130",
+      "word": "Wind sim fans speed correlated airspeed blast face straights.",
+      "translation": "Вентиляторы-«ветер» дуют в лицо пропорционально скорости!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_131",
+      "word": "Haptic patterns gearshift kick rev limiter brrrp tactile language developed.",
+      "translation": "Гаптика переключений выработала тактильный язык!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_132",
+      "word": "Rev limiter bounce anticipation audio cue timing lifts practiced.",
+      "translation": "Отсечка на слух — сброс газа отработан!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_133",
+      "word": "Clutch kick drift handbrake mods rally stages sideways fun",
+      "translation": "Клатч-кик и ручник — веселье боком на раллийных этапах!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_134",
+      "word": "Drift missions scoring angles line clipping points judged software.",
+      "translation": "Дрифтерские миссии судят софт: углы, траектория, точки!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_135",
+      "word": "Formula Vee open wheel slipstream battles drafting lessons taught basics.",
+      "translation": "Формула-V учит азы слипстрима в открытых колёсах!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_136",
+      "word": "Rookie series Mazda MX5 spec close racing philosophy door-to-door.",
+      "translation": "Мазда MX5 в rookie: философия плотной борьбы борт к борту!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_137",
+      "word": "Spec racing equality driver skill differentiator only variable eliminated car.",
+      "translation": "В моноклассе единственная переменная — пилот!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_138",
+      "word": "GT3 class manufacturer variety BoP balancing meta shifts patches.",
+      "translation": "BoP в GT3 меняет мету с каждым патчем!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_139",
+      "word": "LMP2 prototype downforce speeds intimidating first stints humbling experiences.",
+      "translation": "Первые стинты в LMP2 прототипе смиряют!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_140",
+      "word": "GTE versus GT3 category differences ABS TC allowances explained guides.",
+      "translation": "Разница GTE и GT3: уровни ABS/TC объяснены!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_141",
+      "word": "Multiclass awareness mirrors spotter calls lapping etiquette trained scenarios.",
+      "translation": "Этикет мультикласса тренируют сценариями!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_142",
+      "word": "Day night transitions headlight pools darkness endurance immersion magic hours.",
+      "translation": "Магические часы эндуранса: фары в темноте!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_143",
+      "word": "Rain transition crossover tyres gamble simulation gambling thrill replicated authentically.",
+      "translation": "Переход на дождевую резину — тот же азарт, что в жизни!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_144",
+      "word": "Dynamic grip rubbering offline marbles evolving track states mastered learning curves.",
+      "translation": "Обучение состояниям трассы: от чистой до «мармеладной»!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_145",
+      "word": "Track state persistence sessions practice qualifying race continuity realism praised.",
+      "translation": "Состояние трассы живёт между сессиями — реализм хвалят!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_146",
+      "word": "Fast repairs vs tow damage economics strategy decisions race weekend long.",
+      "translation": "Ремонт против эвакуации — стратегия всего уик-энда!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_147",
+      "word": "Tow to pit garage teleport penalty time cost decisions calculated.",
+      "translation": "Телепорт из гаража стоит времени — считаем!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_148",
+      "word": "Black flag protocol serving penalties pit lane stops counted correctly bugs occasionally reported.",
+      "translation": "Отбытие чёрного флага иногда глючит — репортим!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_149",
+      "word": "Support ticket responses developer engagement community communication transparency appreciated rare industry.",
+      "translation": "Прозрачность разработчиков — редкость, здесь ценят!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_150",
+      "word": "Roadmap previews upcoming cars tracks voted community polls influence prioritisation.",
+      "translation": "Сообщество голосует за приоритеты контента!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_151",
+      "word": "Content drops seasonal releases anticipation hype cycles forums speculation threads.",
+      "translation": "Сезонные релизы кормят спекуляции форумов!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_152",
+      "word": "Laser scanned circuits millimetre accuracy bumps kerbs faithfully recreated selling points.",
+      "translation": "Лазерное сканирование трасс — главный аргумент продаж!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_153",
+      "word": "LiDAR scanning technology real world data captured processed months pipelines.",
+      "translation": "LiDAR-данные обрабатываются месяцами!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_154",
+      "word": "Kerb feel audio rumble strips distinct per circuit signatures recognised blindfolded veterans claims.",
+      "translation": "Ветераны узнают поребрики трасс с закрытыми глазами!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_155",
+      "word": "Surface grip variations painted concrete asphalt concrete patches modelled slip hazards authentic.",
+      "translation": "Пятна краски и бетона скользят как в жизни!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_156",
+      "word": "Banking physics ovals sustained lateral Gs simulated neck strain virtual too!",
+      "translation": "Овальные перегрузки чувствуются даже виртуальной шеей!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_157",
+      "word": "Superspeedway drafting inches from walls palms sweat.",
+      "translation": "Драфт на суперспидвее у стенки — ладони мокреют!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_158",
+      "word": "Incident review self-analysis replays frame-by-frame blame assigned honestly ego checked growth mindset adopted.",
+      "translation": "Честный разбор своих аварий без самолюбия = рост!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_159",
+      "word": "Blame game teammates toxicity leagues moderation policies enforcement consistency reputation managed carefully.",
+      "translation": "Модерация лиг следит за токсичностью тщательно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_160",
+      "word": "Steward applications volunteer positions training modules certification quizzes passed roles earned trust.",
+      "translation": "Стюардами становятся после обучения и тестов!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_161",
+      "word": "Penalty points licence suspension league disciplinary systems mirrored real motorsport structures.",
+      "translation": "Дисциплинарки лиг копируют настоящий автоспорт!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_162",
+      "word": "Appeal processes video evidence timestamps submitted reviewed panels verdicts final sometimes overturned drama.",
+      "translation": "Апелляции с таймкодами рассматривают коллегии — бывает драма!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_163",
+      "word": "Champion interviews end season awards nights speeches gratitude sponsors teams mentioned politely always.",
+      "translation": "Речи чемпионов всегда благодарят спонсоров и команды!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_164",
+      "word": "Hall of fame legends sim racing pioneers honoured annual ceremonies growing tradition prestige accumulating.",
+      "translation": "Зал славы симрейсинга растёт престижем ежегодно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_165",
+      "word": "Real drivers hide behind sim aliases until revealed.",
+      "translation": "Про-гонщики прячутся за никами до момента вскрытия!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_166",
+      "word": "Alias reveal moments go viral in communities.",
+      "translation": "Вскрытия ников становятся вирусными событиями!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_167",
+      "word": "Handicap systems weight penalties fast drivers equalise amateur friendly events inclusive fun preserved.",
+      "translation": "Гандикапы уравнивают быстрых и новичков в дружеских заездах!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_168",
+      "word": "Team radios voice comms discipline calls concise military-inspired protocols adopted clean comms culture.",
+      "translation": "Военная лаконичность в войсе — культура чистой связи!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_169",
+      "word": "Chatter noise versus critical info signal noise ratio discipline valued professional squads.",
+      "translation": "Профи-звенья ценят сигнал без шума!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_170",
+      "word": "Panic calls unnecessary incidents avoided calm voices steady guidance mentors coaching through crises live.",
+      "translation": "Спокойный коуч ведёт через кризисы вживую!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_171",
+      "word": "Post-race debriefs honest self-criticism culture healthy egos parked outside garages virtual too.",
+      "translation": "Эго оставляют за дверью виртуального гаража!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_172",
+      "word": "Lap delta charts turn progress into addiction loops.",
+      "translation": "Графики дельт превращают прогресс в затягивающую петлю!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_173",
+      "word": "Wrist stretches prevent strain injuries long sessions.",
+      "translation": "Растяжка запястий спасает от туннельного синдрома!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_174",
+      "word": "The 20-20-20 rule protects eyes on marathon streams.",
+      "translation": "Правило 20-20-20 бережёт глаза на марафонских стримах!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_175",
+      "word": "Hydration reminders chat moderators water bottles visible streamers modelling healthy habits influence positive.",
+      "translation": "Модераторы напоминают пить воду — стримеры подают пример!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_176",
+      "word": "Esports teams hire ergonomists for career longevity.",
+      "translation": "Киберспортивные команды нанимают эргономистов ради долгих карьер!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_177",
+      "word": "Universities grant sim racing scholarships now.",
+      "translation": "Университеты уже дают стипендии за симрейсинг!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_178",
+      "word": "Varsity esports legitimacy marks a generational shift.",
+      "translation": "Вузовский киберспорт — знаковая смена поколений!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_179",
+      "word": "Grandparents watch grandchildren race with confused pride.",
+      "translation": "Бабушки смотрят внуков-симрейсеров со смущённой гордостью!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_180",
+      "word": "iRacing laser scanned Nurburgring Nordschleife pilgrimage lap twenty-four hours endurance.",
+      "translation": "Нордшляйфе в iRacing: паломничество и 24-часовые марафоны!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_181",
+      "word": "Combined Nordschleife VLN layout tourist practice laps memorised sections religiously.",
+      "translation": "Комбинированную Нордшляйфе учат наизусть как молитву!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_182",
+      "word": "Flugplatz jump compression stomach drop famous crest respect earned crashes watched.",
+      "translation": "Флюгплац: знаменитый прыжок, уважение через чужые аварии!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_183",
+      "word": "Karussell banked concrete bowl momentum carried historic banking technique required.",
+      "translation": "Карусель: бетонная чаша требует старой техники банкинга!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_184",
+      "word": "Bergwerk top of mountain final challenge descent bravery tested brakes.",
+      "translation": "Бергверк: последняя проверка тормозов перед спуском!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_185",
+      "word": "Brunnchen dips camber changes rhythm section flow state required.",
+      "translation": "Брюнхен: ритм-секция перепадов требует состояния потока!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_186",
+      "word": "ACC GT World Challenge officially licensed Blancpain heritage continuity.",
+      "translation": "ACC с лицензией GT World Challenge — преемственность серии!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_187",
+      "word": "Competizione weather dynamic track grip evolution praised benchmark simulation standard set.",
+      "translation": "Динамическая погода ACC задала стандарт симуляциям!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_188",
+      "word": "Custom championships server browser community hosted events discovery easy filters.",
+      "translation": "Браузер серверов ACC: фильтры легко находят события!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_189",
+      "word": "Driver swap feature endurance team races coordinated handoffs voice comms choreographed chaos organised beautifully.",
+      "translation": "Смена пилотов в эндурансе — скоординированный красивый хаос!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_190",
+      "word": "rFactor2 tyre model real-time deformation praised physics nerds deep dives threads.",
+      "translation": "Модель резины rFactor2 — рай для физико-нёрдов!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_191",
+      "word": "Modding community tracks cars conversions quality varies gems buried treasure hunting rewarding patience.",
+      "translation": "Моды rFactor2: алмазы среди черновиков — охота терпеливых!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_192",
+      "word": "Gran Turismo licence school tests discipline fundamentals taught generations console racers raised right.",
+      "translation": "Лицензионная школа Gran Turismo воспитала поколения консольных гонщиков!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_193",
+      "word": "Sport mode FIA certified online racing console integrity matchmaking ranked seasons structured.",
+      "translation": "Sport Mode в GT: рейтинговые сезоны с сертификатом FIA!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_194",
+      "word": "Daily races variety circuits cars rotation schedules timezone friendly regions balanced.",
+      "translation": "Ежедневные гонки подобраны под все часовые пояса!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_195",
+      "word": "Forza Motorsport telemetry tuning menus deep builds garage empire collections curated.",
+      "translation": "Гаражные коллекции Forza курируются как музеи!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_196",
+      "word": "Career progression narrative driven accessibility casual audiences gateway drug sim racing deeper.",
+      "translation": "Карьера Forza — «входные ворота» в глубокий симрейсинг!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_197",
+      "word": "F1 official game career modes storylines rival AI personalities generated drama entertainment value added layers.",
+      "translation": "Карьера в игре F1: ИИ-соперники создают драму!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_198",
+      "word": "Braking point storyline fictional rivals teammates dynamics soap opera racing fans guilty pleasure admitted laughing.",
+      "translation": "«Rival» истории — мыльная опера, фанаты признаются с улыбкой!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_199",
+      "word": "VR halo visibility gives respect for real drivers.",
+      "translation": "Видимость через хало в VR даёт уважение к профи!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_200",
+      "word": "Project CARS aimed ambitiously; lessons shaped the industry.",
+      "translation": "Project CARS замахнулся смело — индустрия училась на его уроках!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_201",
+      "word": "Assetto Corsa modders are cult figures of the scene.",
+      "translation": "Мододелы Assetto Corsa — культовые фигуры сцены!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_202",
+      "word": "Content Manager revolutionised the AC launcher experience.",
+      "translation": "Content Manager революционизировал запуск Assetto Corsa!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_203",
+      "word": "Pure CSP shaders deliver photorealistic visuals worth wallpapers.",
+      "translation": "Шейдеры Pure/CSP дают картинку, достойную обоев!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_204",
+      "word": "Raytraced rain FX justified many GPU upgrades diplomatically.",
+      "translation": "Трассируемый дождь оправдал немало апгрейдов GPU (дипломатично)!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_205",
+      "word": "Shared FFB config sheets lift everyones boats.",
+      "translation": "Общие таблицы конфигов FFB поднимают все лодки!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_206",
+      "word": "Driving schools integrated sims or lost students to YouTube coaches.",
+      "translation": "Автошколы внедрили симы или уступили YouTube-тренерам!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_207",
+      "word": "Slew rate motor limit clips fast corrections hardware ceiling.",
+      "translation": "Slew rate мотора режет быстрые коррекции — предел железа!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_208",
+      "word": "Oscillation damping firmware updates resonance improved feel.",
+      "translation": "Прошивки гасят резонансы — ощущение улучшилось!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_209",
+      "word": "Friction slider static resistance personal preference purists zero.",
+      "translation": "Слайдер трения: пуристы ставят ноль!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_210",
+      "word": "Cogging steps gear driven versus smooth direct drive debates eternal.",
+      "translation": "Ряды зубьев редукторных против плавности direct drive!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_211",
+      "word": "Hydraulic pedal cylinders pressure transducers ultimate realism sought.",
+      "translation": "Гидропедали с датчиками давления — предел реализма!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_212",
+      "word": "Elastomer stacks progressive curves swapped brake feel tuned.",
+      "translation": "Прогрессивные вставки настраивают ощущение тормоза!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_213",
+      "word": "Brake force consistency apps graphs improvement tracked.",
+      "translation": "Стабильность торможения трекают графиками приложений!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_214",
+      "word": "Eye tracking research gaze patterns vision discipline science.",
+      "translation": "Трекинг взгляда изучает дисциплину зрения!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_215",
+      "word": "Look through corner apex before braking rule drilled.",
+      "translation": "Апекс замечают раньше точки торможения — правило!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_216",
+      "word": "Peripheral mirror checks without head movement skill trained.",
+      "translation": "Зеркала ловят периферией без поворота головы!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_217",
+      "word": "Consistency variance two tenths elite benchmark standard.",
+      "translation": "Элита держит разброс в две десятых!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_218",
+      "word": "Delta bar colour coded gaining losing instant feedback loop.",
+      "translation": "Дельта-бар зелёный/красный даёт мгновенный фидбек!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_219",
+      "word": "Ghost car racing your best lap shadow self competition.",
+      "translation": "Призрак лучшего круга — соревнование с собой!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_220",
+      "word": "RaceRoom free entry accessible gateway title genre.",
+      "translation": "RaceRoom — бесплатная дверь в жанр!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_221",
+      "word": "Automobilista 2 Brazilian circuits physics depth hidden gem.",
+      "translation": "AMS2 — бразильские трассы и скрытая жемчужина физики!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_222",
+      "word": "Le Mans Ultimate official WEC licence hypercar era cutting edge.",
+      "translation": "Le Mans Ultimate: официальная WEC и гиперкары!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_223",
+      "word": "Laser scanned tracks millimetre bumps kerbs faithfully recreated selling points decisive purchases.",
+      "translation": "Лазерное сканирование с точностью до миллиметра продаёт симуляторы!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_224",
+      "word": "LiDAR data capture real world processing pipelines months work per circuit.",
+      "translation": "Обработка LiDAR-данных трассы занимает месяцы!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_225",
+      "word": "AI difficulty calibration sessions recommended defaults overwhelm newcomers adjust gradually.",
+      "translation": "Сложность ИИ подбирают постепенно — дефолты ошеломляют новичков!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_226",
+      "word": "Fuel consumption mental arithmetic laps remaining pressure split-second decisions club lore.",
+      "translation": "Подсчёт топлива в голове — клубные легенды!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_227",
+      "word": "Direct drive base instant torque response unmatched feel.",
+      "translation": "Direct drive: мгновенный момент и непревзойдённый отклик!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_228",
+      "word": "Load cell brakes pressure based modulation consistency improved.",
+      "translation": "Лоад-селл тормоза улучшили модуляцию давлением!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_229",
+      "word": "Triple monitor setup bezel free immersion seamless view.",
+      "translation": "Три монитора без рамок — бесшовный обзор!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_230",
+      "word": "FOV calculator correct perspective realistic speed perception.",
+      "translation": "Правильный FOV даёт честное восприятие скорости!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_231",
+      "word": "VR headset immersion unmatched motion sickness gradually overcome.",
+      "translation": "VR даёт полное погружение — укачивание проходит постепенно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_232",
+      "word": "Motion platform actuators g-force simulation wallet pain acknowledged.",
+      "translation": "Моушн-платформа имитирует перегрузки — кошелёк страдает!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_233",
+      "word": "Button boxes macros mapped functions stream deck integrated.",
+      "translation": "Буттон-боксы: макросы и функции Stream Deck!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_234",
+      "word": "Quick release wheel swaps seconds between disciplines.",
+      "translation": "Куик-релиз: смена руля между классами за секунды!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_235",
+      "word": "FFB clipping meter distortion detail lost monitored apps.",
+      "translation": "Клиппинг FFB теряет детали — следим индикатором!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_236",
+      "word": "Safety rating clean driving metric licence gates progression.",
+      "translation": "Safety rating открывает лицензии за чистую езду!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_237",
+      "word": "iRating matchmaking splits balanced competitive fields guaranteed.",
+      "translation": "iRating собирает равные по силе сплиты!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_238",
+      "word": "Rookie chaos survival guide patience virtues forum wisdom.",
+      "translation": "Выживание в rookie: терпение — главная добродетель!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_239",
+      "word": "Fixed setup series purest driving skill test purists favourite.",
+      "translation": "Фикс-сетапы — любимцы пуристов: только мастерство!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_240",
+      "word": "Open setup garage tinkering hours deep dives spreadsheets.",
+      "translation": "Открытый сетап — часы гаражных копаний и таблиц!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_241",
+      "word": "Protest filed replay reviewed stewards verdict posted forums.",
+      "translation": "Протест подан — вердикт стюардов опубликован!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_242",
+      "word": "Netcode warping ghost cars connection quality bars join decisions.",
+      "translation": "Варпинг и призраки: индикатор связи решает заходить ли!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_243",
+      "word": "Top split victory screenshots social media posted proudly.",
+      "translation": "Победа в топ-сплите — скриншот гордо в соцсети!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_244",
+      "word": "Alien slang untouchable fastest times respect earned thousands hours.",
+      "translation": "«Алиены» — недосягаемые времена за тысячи часов!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_245",
+      "word": "Hotlapping ghost car chasing personal bests addiction loop.",
+      "translation": "Хоняние призрака личного рекорда затягивает!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_246",
+      "word": "MoTeC telemetry files swapped coaching corner analysis deep dives.",
+      "translation": "Обмен телеметрией MoTeC — разбор каждого поворота!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_247",
+      "word": "VRS data packs coaching subscriptions professional improvement paths.",
+      "translation": "VRS: пакеты данных и профессиональный коучинг!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_248",
+      "word": "Trail braking simulator taught threshold control transferable real track.",
+      "translation": "Трейл-брейкинг из сима переносится на реальный трек!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_249",
+      "word": "Skip Barber Going Faster book sim racers bible recommended universally.",
+      "translation": "«Going Faster» Скита Барбера — всеобщая рекомендация!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_250",
+      "word": "Assists off purist badge honour claimed pridefully.",
+      "translation": "Езда без ассистов — гордый значок пуриста!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_251",
+      "word": "ABS on off debate stopping distances modelled realistically both valid choices.",
+      "translation": "Спор про ABS честно смоделирован — выбор за тобой!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_252",
+      "word": "Garage 61 telemetry sharing platform setups data community pooled.",
+      "translation": "Garage 61 — платформа обмена телеметрией и сетапами!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_253",
+      "word": "World record time attack leaderboards hunted setups shared generously.",
+      "translation": "За мировыми рекордами стоят щедро отданные сетапы!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_254",
+      "word": "League championships points tables standings websites tracked seasons.",
+      "translation": "Чемпионаты лиг ведут сезонные таблицы на сайтах!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_255",
+      "word": "Team endurance driver swaps voice chat coordination choreographed chaos organised.",
+      "translation": "Командные смены в эндурансе — организованный хаос по войсу!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_256",
+      "word": "Dynamic weather rain gamble tyres simulation depth praised benchmark.",
+      "translation": "Динамический дождь и риск с резиной — эталон глубины!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_257",
+      "word": "Track rubbering evolving grip states session persistence realism praised.",
+      "translation": "Трасса «резинится» между сессиями — реализм хвалят!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_258",
+      "word": "Spotter calls blind spot assistance toggle personal preference.",
+      "translation": "Голос споттера включается по вкусу!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_259",
+      "word": "AI adaptive difficulty learning your pace levels personalised.",
+      "translation": "ИИ адаптируется под твой темп персонально!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_260",
+      "word": "Photo mode cinematic cameras replays creativity outlet editing skills showcased.",
+      "translation": "Фото-режим и кинематографичные реплеи — площадка творчества!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_261",
+      "word": "Streaming overlays telemetry widgets viewer engagement interactive displays.",
+      "translation": "Стрим-оверлеи с телеметрией вовлекают зрителей!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_262",
+      "word": "Twitch sim racing category viewership growing steadily communities forming.",
+      "translation": "Симрейсинг на Твиче растёт и объединяет!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_263",
+      "word": "Commentary casting amateur leagues professional quality improving production values raised.",
+      "translation": "Комментаторы любительских лиг подняли продакшн!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_264",
+      "word": "Esports scholarships universities varsity legitimacy institutional recognition milestones.",
+      "translation": "Университетские стипендии — институциональное признание симрейсинга!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_265",
+      "word": "Real drivers competing sims crossover legitimacy validated mutual respect earned.",
+      "translation": "Реальные гонщики в симах подтвердили взаимное уважение!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_266",
+      "word": "Secondhand market bargains upgrade cycles community marketplace bargains found.",
+      "translation": "Б/у рынок ригов полон выгодных находок!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_267",
+      "word": "Aluminium extrusion DIY rigs cost effective rigid builds popular workshops.",
+      "translation": "Самодельные стенды из алюминия дёшевы и жёстки!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_268",
+      "word": "Pedal tuning software curves deadzones calibrated meticulously.",
+      "translation": "Кривые педалей и мёртвые зоны калибруют тщательно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_269",
+      "word": "Firmware updates changelogs read before flashing caution advised.",
+      "translation": "Прошивки обновляют, читая changelog — осторожность!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_270",
+      "word": "USB bandwidth conflicts troubleshooting forums solutions shared generously.",
+      "translation": "Конфликты USB-устройств решают общими советами!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_271",
+      "word": "Discord servers setup help channels active helpful mentors volunteering time.",
+      "translation": "Discord-каналы помощи: менторы жертвуют время!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_272",
+      "word": "Coaching marketplaces hourly rates professional drivers affordable sessions booked.",
+      "translation": "Коучинг от профи по доступным часовых ставкам!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_273",
+      "word": "Progress tracking spreadsheets deltas charted motivation visible graphs upward.",
+      "translation": "Таблицы прогресса: мотивация видна на графиках!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_274",
+      "word": "Plateau breakthrough coaching fresh perspective unlocked next tier performance.",
+      "translation": "Свежий взгляд тренера пробил плато!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_275",
+      "word": "Racecraft AI bots etiquette learned safely before humans risked.",
+      "translation": "Райскрафт против ИИ осваивают безопасно до людей!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_276",
+      "word": "Multiclass lapping protocols slower classes mirrors awareness trained drills.",
+      "translation": "Мультикласс: тренировки осознанности вокруг медленных классов!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_277",
+      "word": "Night endurance headlight pools darkness immersive magic atmosphere unique.",
+      "translation": "Ночной эндуранс: pools фар — непередаваемая атмосфера!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_278",
+      "word": "Cold tyre first laps spins humility lesson repeated everyone equal.",
+      "translation": "Первый круг на холодной резине смиряет всех одинаково!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_279",
+      "word": "Reset button rage quit temptation discipline practised maturity grown.",
+      "translation": "Соблазн рестарта побеждён дисциплиной — зрелость!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_280",
+      "word": "Save replays post-race analysis ritual habits formed improvement culture.",
+      "translation": "Реплей каждой гонки — культура анализа и роста!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_281",
+      "word": "Highlight clips edited shared community feedback loops positive reinforcement cycles.",
+      "translation": "Хайлайты в сообщество — циклы позитива и фидбека!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_282",
+      "word": "International teammates timezone juggling schedules coordinated calendars global friendships forged.",
+      "translation": "Тиммейты через часовые пояса — дружба по календарям!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_283",
+      "word": "English lingua franca digital paddocks communication bridges built language barriers lowered.",
+      "translation": "Английский — язык цифровых паддоков, барьеры ниже!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_284",
+      "word": "Codes of conduct written respect enforced moderation teams volunteer hours invested culture protected.",
+      "translation": "Кодексы поведения охраняются волонтёрами-модераторами!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_285",
+      "word": "Accessibility costs lowered democratised motorsport dreams entry barriers collapsed generations included.",
+      "translation": "Симрейсинг рухнувшими ценами открыл автоспорт всем поколениям!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_286",
+      "word": "Veterans advise: invest in your body before hardware.",
+      "translation": "Ветераны советуют: сначала тело, потом железо!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_287",
+      "word": "Consistency beats raw pace league standings philosophy proven seasons statistics charts.",
+      "translation": "Стабильность бьёт сырую скорость — статистика сезонов доказала!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_288",
+      "word": "Honest race reviews build healthier community culture.",
+      "translation": "Честный разбор гонок делает сообщество здоровее!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_289",
+      "word": "Mentorship pairs newcomers with veterans; wisdom flows freely.",
+      "translation": "Наставничество: новички с ветеранами — мудрость течёт свободно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_simracing_290",
+      "word": "Community warmth crosses continents and timezones.",
+      "translation": "Тепло сообщества пересекает континенты и часовые пояса!",
+      "language": "en"
+    }
+  ]
+}

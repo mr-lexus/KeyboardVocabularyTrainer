@@ -1,0 +1,421 @@
+{
+  "id": "phrasebook-petvet",
+  "name": "Vet & Pet Care",
+  "description": "Ветеринар и уход за питомцем: приём, симптомы, прививки, груминг",
+  "entries": [
+    {
+      "id": "pbq_petvet_0",
+      "word": "First visit registration form filled.",
+      "translation": "На первом визите заполнили анкету.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_1",
+      "word": "Vaccination booklet brought along.",
+      "translation": "Принесли прививочный паспорт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_2",
+      "word": "Microchip number recorded correctly.",
+      "translation": "Номер микрочипа записан верно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_3",
+      "word": "Annual booster shots due soon.",
+      "translation": "Скоро срок ежегодной ревакцинации.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_4",
+      "word": "Rabies vaccine legally required.",
+      "translation": "Прививка от бешенства обязательна по закону.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_5",
+      "word": "Side effects lethargy day after.",
+      "translation": "После прививки — вялость на день.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_6",
+      "word": "Kitten series three shots.",
+      "translation": "Котёнку — серия из трёх прививок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_7",
+      "word": "Puppy socialization window critical early.",
+      "translation": "Окно социализации щенка критично рано.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_8",
+      "word": "Neutering discussion pros cons.",
+      "translation": "Обсудили плюсы и минусы стерилизации.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_9",
+      "word": "Spayed before first heat recommended.",
+      "translation": "Стерилизуют до первой течки — рекомендация.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_10",
+      "word": "Recovery cone prevents licking stitches.",
+      "translation": "Елизаветинский воротник не даёт лизать швы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_11",
+      "word": "Cone of shame nickname universal.",
+      "translation": "«Воротник позора» — прозвище всем понятное.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_12",
+      "word": "Soft collar alternative tolerated better.",
+      "translation": "Мягкий воротник переносится легче.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_13",
+      "word": "Loss of appetite two days worrying.",
+      "translation": "Два дня отказ от еды — тревожно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_14",
+      "word": "Drinking water excessively diabetes sign?",
+      "translation": "Пьёт слишком много — не диабет?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_15",
+      "word": "Vomiting bile empty stomach mornings.",
+      "translation": "Утром рвота желчью — пустой желудок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_16",
+      "word": "Diarrhea sample collection requested.",
+      "translation": "Попросили собрать образец кала.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_17",
+      "word": "Fecal test parasites confirmed treated.",
+      "translation": "Анализ показал паразитов — пролечили.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_18",
+      "word": "Deworming schedule every three months.",
+      "translation": "Глистогонка раз в три месяца.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_19",
+      "word": "Flea treatment monthly year-round.",
+      "translation": "От блох — ежемесячно круглый год.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_20",
+      "word": "Tick removal tweezers twist gently.",
+      "translation": "Клеща выкручивают пинцетом плавно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_21",
+      "word": "Tick fever symptoms watch week.",
+      "translation": "Неделю наблюдайте за симптомы клещевой лихорадки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_22",
+      "word": "Limping favoring left hind leg.",
+      "translation": "Хромает, бережёт левую заднюю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_23",
+      "word": "X-ray hips dysplasia screening done.",
+      "translation": "Сделали снимок таза — скрининг дисплазии.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_24",
+      "word": "Arthritis senior dogs common manageable.",
+      "translation": "Артрит у пожилых собак обычен и управляем.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_25",
+      "word": "Joint supplements glucosamine chondroitin added.",
+      "translation": "Добавили добавки: глюкозамин и хондроитин.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_26",
+      "word": "Dental tartar cleaning under anesthesia.",
+      "translation": "Зубной камень чистят под наркозом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_27",
+      "word": "Brushing teeth daily prevention ideal.",
+      "translation": "Идеал — ежедневная чистка зубов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_28",
+      "word": "Dental treats help somewhat honestly.",
+      "translation": "Жевательные лакомства помогают, но частично.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_29",
+      "word": "Bad breath gum disease indicator.",
+      "translation": "Запах изо рта — признак болезней дёсен.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_30",
+      "word": "Scratching ears head shaking mites.",
+      "translation": "Чешет уши и трясёт головой — клещи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_31",
+      "word": "Ear cleaning solution cotton pads.",
+      "translation": "Лосьон для ушей и диски.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_32",
+      "word": "Hot spots licked raw patches.",
+      "translation": "«Горячие пятна» — разлизанные ранки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_33",
+      "word": "Elizabethan collar until healed fully.",
+      "translation": "Воротник до полного заживления.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_34",
+      "word": "Allergic reaction swelling face emergency!",
+      "translation": "Опухла морда — аллергия, срочно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_35",
+      "word": "EpiPen pets exist too apparently.",
+      "translation": "Для питомцев тоже есть ЭпиПены, оказывается.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_36",
+      "word": "Antihistamine dosing vet calculated.",
+      "translation": "Дозу антигистамина рассчитал ветеринар.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_37",
+      "word": "Poisoned chocolate grapes lilies deadly.",
+      "translation": "Ядовиты: шоколад, виноград, лилии!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_38",
+      "word": "Induced vomiting hydrogen peroxide guided.",
+      "translation": "Рвоту вызывали перекисью под контролем.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_39",
+      "word": "Activated charcoal absorbed toxins quickly.",
+      "translation": "Активированный уголь связал токсины.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_40",
+      "word": "Emergency clinic after hours posted.",
+      "translation": "Ночной стационар — телефон на двери.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_41",
+      "word": "Intake triage most critical first.",
+      "translation": "Приём: сначала самых тяжёлых.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_42",
+      "word": "Waiting owner crying quietly corner.",
+      "translation": "В очереди хозяйка плакала тихо в углу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_43",
+      "word": "Prognosis guarded hopeful cautiously optimistic.",
+      "translation": "Прогноз осторожный: сдержанно-оптимистичный.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_44",
+      "word": "Overnight monitoring intensive care unit.",
+      "translation": "Наблюдение ночью в реанимации.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_45",
+      "word": "Update call morning relieved improving.",
+      "translation": "Утренний звонок: стало лучше — облегчение!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_46",
+      "word": "Euthanasia conversation hardest decision ever.",
+      "translation": "Разговор об эвтаназии — труднейшее решение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_47",
+      "word": "Quality of life scale discussed gently.",
+      "translation": "Шкалу качества жизни обсуждали бережно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_48",
+      "word": "Grief counseling resources provided kindly.",
+      "translation": "Деликатно дали контакты психолога по утрате.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_49",
+      "word": "Paw prints clay memorial keepsake.",
+      "translation": "Отпечаток лапки на глине — память.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_50",
+      "word": "Groomer appointment nails trimming included.",
+      "translation": "У грумера включена стрижка когтей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_51",
+      "word": "Quick cutting nail pink line avoided.",
+      "translation": "Быстро срезают коготь не задев живую часть.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_52",
+      "word": "Styptic powder stops bleeding quick.",
+      "translation": "Кровеостанавливающий порошок быстро помогает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_53",
+      "word": "Double coat never shaved myth busted.",
+      "translation": "Двойную шерсть нельзя брить — врачи против.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_54",
+      "word": "Matting painful dematting patient work.",
+      "translation": "Колтуны болят; распутывать нужно терпеливо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_55",
+      "word": "Anal glands expressed routine groomers.",
+      "translation": "Анальные железы чистят грумеры по расписанию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_56",
+      "word": "Pet insurance premiums worth calculating.",
+      "translation": "Посчитайте: страховка может окупиться.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_57",
+      "word": "Pre-existing conditions excluded typically fine.",
+      "translation": "Обычно страховка не покрывает уже имеющиеся болезни.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_58",
+      "word": "Deductible per incident versus annual.",
+      "translation": "Франшиза за случай или за год?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_59",
+      "word": "Claims reimbursement seventy percent typical.",
+      "translation": "Возмещают обычно семьдесят процентов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_60",
+      "word": "Pet sitter references checked thoroughly.",
+      "translation": "У петситтера тщательно проверили рекомендации.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_61",
+      "word": "Boarding kennel vaccination requirements strict.",
+      "translation": "В передержке строгие требования к прививкам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_62",
+      "word": "Kennel cough vaccine intranasal quick.",
+      "translation": "Капли в нос от кашля питомников — быстро.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_63",
+      "word": "Separation anxiety training gradual desensitization.",
+      "translation": "Тревогу разлуки лечат постепенным приучением.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_64",
+      "word": "Crate training den instinct positive.",
+      "translation": "Клетка как «нора» — позитивное приучение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_65",
+      "word": "Clicker training positive reinforcement works.",
+      "translation": "Кликер-дрессировка работает без наказаний.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_66",
+      "word": "Leash pulling front-clip harness helped.",
+      "translation": "Рывки на поводке остановила шлейка с креплением спереди.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_67",
+      "word": "Recall training long line practice.",
+      "translation": "Подзыв тренируют на длинном поводке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_petvet_68",
+      "word": "Poop bags responsible ownership everywhere.",
+      "translation": "Пакетки за собой — везде, это ответственность.",
+      "language": "en"
+    }
+  ]
+}

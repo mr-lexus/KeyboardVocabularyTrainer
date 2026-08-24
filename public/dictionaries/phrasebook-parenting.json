@@ -1,0 +1,391 @@
+{
+  "id": "phrasebook-parenting",
+  "name": "School & Parenting",
+  "description": "Школа и дети: собрания, разговоры с учителями, уроки, режим",
+  "entries": [
+    {
+      "id": "pbq_parenting_0",
+      "word": "Parent-teacher conference scheduled Thursday.",
+      "translation": "Родительское собрание в четверг.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_1",
+      "word": "Report card progress satisfactory overall.",
+      "translation": "Табель в целом удовлетворительный.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_2",
+      "word": "Straight A student proudly announced.",
+      "translation": "Гордо объявили: отличница!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_3",
+      "word": "Struggling with fractions needs tutoring.",
+      "translation": "Дроби даются тяжело — нужен репетитор.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_4",
+      "word": "Homework battles nightly exhausting everyone.",
+      "translation": "Битвы за уроки каждую ночь изматывают всех.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_5",
+      "word": "Set homework routine same time daily.",
+      "translation": "Уроки в одно время каждый день.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_6",
+      "word": "Designated homework spot distractions free.",
+      "translation": "Место для уроков без отвлекающих факторов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_7",
+      "word": "Screen time limits negotiated reasonably.",
+      "translation": "Экранное время договорились ограничить разумно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_8",
+      "word": "Device charging station kitchen overnight.",
+      "translation": "Гаджеты ночуют на зарядке на кухне.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_9",
+      "word": "Reading before bed non-negotiable rule.",
+      "translation": "Чтение перед сном — непреложное правило.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_10",
+      "word": "Bedtime story chapter book tradition.",
+      "translation": "Традиция: глава книги перед сном.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_11",
+      "word": "Lights out nine thirty school nights.",
+      "translation": "Отбой в полдесятого по школьным дням.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_12",
+      "word": "Morning routine checklist laminated door.",
+      "translation": "Чек-лист утра заламинирован на двери.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_13",
+      "word": "Backpack packed night before habit.",
+      "translation": "Рюкзак собираем с вечера — привычка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_14",
+      "word": "Lunch box notes surprise smiles.",
+      "translation": "Записки в ланчбоксе вызывают улыбки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_15",
+      "word": "Allergy list school nurse updated.",
+      "translation": "Список аллергий у медсестры обновлён.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_16",
+      "word": "Epipen kept front office accessible.",
+      "translation": "ЭпиПен хранится в доступном месте администрации.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_17",
+      "word": "Asthma inhaler spare gym office.",
+      "translation": "Запасный ингалятор в спортзале и офисе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_18",
+      "word": "Permission slip signed returned today.",
+      "translation": "Согласие подписала и вернула сегодня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_19",
+      "word": "Field trip volunteers needed three.",
+      "translation": "На экскурсию нужны три волонтёра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_20",
+      "word": "Carpool rotation schedule shared spreadsheet.",
+      "translation": "График карпула в общей таблице.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_21",
+      "word": "Playdate after school arranged Friday.",
+      "translation": "Договорились о гостях после школы в пятницу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_22",
+      "word": "Sleepover permission questions asked parents.",
+      "translation": "Спросила родителей разрешили ночёвку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_23",
+      "word": "Birthday party guest list politics tricky.",
+      "translation": "Список гостей на день рождения — тонкая политика.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_24",
+      "word": "Whole class invited avoids hurt feelings.",
+      "translation": "Пригласить весь класс — никто не обидится.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_25",
+      "word": "Goodie bags assembled late night.",
+      "translation": "Подарки гостям собирали полночи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_26",
+      "word": "Pinata candy explosion chaos delightful.",
+      "translation": "Пиньята взорвалась конфетти — восхитительный хаос.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_27",
+      "word": "Bullying concern raised meeting firmly.",
+      "translation": "На собрании твёрдо подняли тему травли.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_28",
+      "word": "Zero tolerance policy requested clarification.",
+      "translation": "Попросили пояснить политику нулевой терпимости.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_29",
+      "word": "School counselor mediation sessions arranged.",
+      "translation": "Школьный психолог организовал медиацию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_30",
+      "word": "Kids resolve conflicts faster adults sometimes.",
+      "translation": "Иногда дети мирятся быстрее взрослых.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_31",
+      "word": "Teacher appreciation week gifts organized.",
+      "translation": "К неделе благодарности учителям собрали подарки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_32",
+      "word": "Class parent volunteer role accepted.",
+      "translation": "Стал родителем-координатором класса.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_33",
+      "word": "Fundraiser bake sale tables stacked.",
+      "translation": "Благотворительная распродажа выпечки — столы ломятся.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_34",
+      "word": "PTA meetings monthly attendance encouraged.",
+      "translation": "На собраниях родительского комитета приветствуется явка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_35",
+      "word": "Budget approval field trips subsidized.",
+      "translation": "Бюджет одобрили: экскурсии субсидируют.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_36",
+      "word": "Uniform policy relaxed Fridays exception.",
+      "translation": "По пятницам можно без формы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_37",
+      "word": "Non-uniform day donation charity linked.",
+      "translation": "День без формы — за пожертвование.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_38",
+      "word": "Lost jumper named labels saved again.",
+      "translation": "Именные бирки снова спасли потерянный джемпер.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_39",
+      "word": "Everything labeled sharpie permanent marker.",
+      "translation": "Всё подписано перманентным маркером.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_40",
+      "word": "Gym kit washed weekly reminder.",
+      "translation": "Напоминалка: стирать спортивную форму еженедельно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_41",
+      "word": "Sneakers scuffed growth spurt excuse.",
+      "translation": "Кроссовки потрёпаны — — виноват скачок роста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_42",
+      "word": "Shoe shopping half sizes constantly.",
+      "translation": "Покупаем обувь постоянно — размер растёт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_43",
+      "word": "Growth chart pencil marks doorframe.",
+      "translation": "Отметки роста карандашом на дверном косяке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_44",
+      "word": "Height measured birthdays tradition since toddler.",
+      "translation": "Традиция мерить рост в день рождения с малышества.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_45",
+      "word": "Picky eater phases pass eventually.",
+      "translation": "Фазы малоежки со временем проходят.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_46",
+      "word": "Hidden vegetables sauces trick works.",
+      "translation": "Овощи, спрятанные в соусе, — работает!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_47",
+      "word": "Broccoli trees dinosaur food framing genius.",
+      "translation": "Брокколи «деревья динозавров» — гениальная подача.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_48",
+      "word": "Family dinner phones basket rule.",
+      "translation": "За ужином телефоны — в корзинку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_49",
+      "word": "Highs lows dinner conversation game.",
+      "translation": "Игра за ужином: «лучшее и худшее за день».",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_50",
+      "word": "Active listening without interrupting practiced.",
+      "translation": "Учимся слушать, не перебивая.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_51",
+      "word": "Feelings validated before solutions offered.",
+      "translation": "Сначала признаём чувства, потом советы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_52",
+      "word": "Time-out minutes age matching guideline.",
+      "translation": "Правило тайм-аута: одна минута на год возраста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_53",
+      "word": "Consistent consequences follow-through matters.",
+      "translation": "Последствия должны быть последовательными — это важно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_54",
+      "word": "Counting to three childhood universal.",
+      "translation": "Счёт до трёх — универсальное детство.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_55",
+      "word": "Reward chart stickers stars collected.",
+      "translation": "За успехи — наклейки и звёздочки на карту.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_56",
+      "word": "Allowance chores connection debated families.",
+      "translation": "Связь карманных денег с делами — семьи решают по-разному.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_57",
+      "word": "Three-jar system spend save share.",
+      "translation": "Система трёх банок: потратить, накопить, поделиться.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_58",
+      "word": "First bank account opened proud moment.",
+      "translation": "Первый банковский счёт — гордый момент!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_59",
+      "word": "Driving lessons permit nervous passenger parents.",
+      "translation": "Учимся водить: родители — нервные пассажиры.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_60",
+      "word": "Curfew negotiations teenage independence balance.",
+      "translation": "Комендантский час: баланс свободы и контроля.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_61",
+      "word": "Trust earned privileges extended gradually.",
+      "translation": "Доверие даёт привилегии постепенно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_62",
+      "word": "Empty nest feelings surprisingly emotional.",
+      "translation": "Опустевший дом — неожиданно сильные эмоции.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_parenting_63",
+      "word": "Care package college student appreciated.",
+      "translation": "Посылка студенту в общагу — огромная радость.",
+      "language": "en"
+    }
+  ]
+}

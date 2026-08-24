@@ -1,0 +1,631 @@
+{
+  "id": "phrasebook-homerepairs",
+  "name": "Home Repairs & Plumbers",
+  "description": "Вызов мастеров: сантехник, электрик, мелкий ремонт и общение с подрядчиком",
+  "entries": [
+    {
+      "id": "pbq_homerepairs_0",
+      "word": "Looking for reliable handyman recommendations.",
+      "translation": "Ищу рекомендации надёжного мастера.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_1",
+      "word": "Neighbor referred excellent electrician.",
+      "translation": "Сосед посоветовал отличного электрика.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_2",
+      "word": "Licensed and insured contractors only.",
+      "translation": "Только лицензированные мастера со страховкой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_3",
+      "word": "Written estimate before work starts.",
+      "translation": "Письменная смета до начала работ.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_4",
+      "word": "Quote seemed reasonable compared others.",
+      "translation": "Расценки показались разумными на фоне других.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_5",
+      "word": "Lowest bid raised red flags.",
+      "translation": "Самая низкая цена вызвала подозрения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_6",
+      "word": "Materials markup disclosed upfront.",
+      "translation": "Наценку на материалы раскрыли сразу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_7",
+      "word": "Labor charged hourly versus fixed.",
+      "translation": "Работа почасово или за фиксированную цену?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_8",
+      "word": "Payment schedule milestones agreed.",
+      "translation": "Оплата поэтапно, по вехам, договорились.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_9",
+      "word": "Half deposit maximum standard practice.",
+      "translation": "Максимум половина авансом — стандарт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_10",
+      "word": "Never pay everything in advance.",
+      "translation": "Никогда не платите всё вперёд.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_11",
+      "word": "Start date scheduled next Monday.",
+      "translation": "Начало работ — в следующий понедельник.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_12",
+      "word": "Timeline two weeks realistically speaking.",
+      "translation": "Реалистичный срок — две недели.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_13",
+      "word": "Delays happen weather materials supply.",
+      "translation": "Задержки случаются: погода, поставки материалов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_14",
+      "word": "Dust sheets covered furniture carefully.",
+      "translation": "Мебель аккуратно укрыли плёнкой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_15",
+      "word": "Shoes off house rules respected.",
+      "translation": "Правило «без обуви» соблюдали.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_16",
+      "word": "Working hours noise restrictions local.",
+      "translation": "Шумные работы — только в разрешённые часы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_17",
+      "word": "Drilling prohibited Sundays here.",
+      "translation": "Здесь нельзя сверлить по воскресеньям.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_18",
+      "word": "Neighbors notified renovation schedule politely.",
+      "translation": "Соседей вежливо предупредили о графике ремонта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_19",
+      "word": "Building management approval alterations required.",
+      "translation": "Для перепланировки нужно согласие УК.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_20",
+      "word": "Load-bearing wall removal engineer assessed.",
+      "translation": "Снос несущей стены оценивал инженер.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_21",
+      "word": "Permits pulled before demolition started.",
+      "translation": "Разрешения получили до начала демонтажа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_22",
+      "word": "Asbestos testing older buildings essential.",
+      "translation": "Для старых домов проверка на асбест обязательна.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_23",
+      "word": "Lead paint abatement specialists hired.",
+      "translation": "Специалистов по свинцовой краске наняли.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_24",
+      "word": "Water shutoff valve located finally.",
+      "translation": "Наконец нашли запорный кран воды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_25",
+      "word": "Main valve basement corner typically.",
+      "translation": "Главный кран обычно в углу подвала.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_26",
+      "word": "Turn clockwise to shut off.",
+      "translation": "Закручивается по часовой стрелке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_27",
+      "word": "Dripping faucet washer replacement simple.",
+      "translation": "Капающий кран — замена прокладки, просто.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_28",
+      "word": "Constant drip drives me crazy.",
+      "translation": "Постоянное капанье сводит с ума.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_29",
+      "word": "Aerator clogged mineral deposits soaked.",
+      "translation": "Аэратор забился известью — отмочили.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_30",
+      "word": "Water pressure suddenly dropped upstairs.",
+      "translation": "Напор воды наверху вдруг упал.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_31",
+      "word": "Pressure regulator adjustment needed probably.",
+      "translation": "Похоже, нужна регулировка редуктора давления.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_32",
+      "word": "Running toilet wasting water constantly.",
+      "translation": "Бачок постоянно течёт, вода утекает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_33",
+      "word": "Flapper valve replacement five dollars.",
+      "translation": "Прокладка-клапан стоит пять долларов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_34",
+      "word": "Jiggle handle stops it temporarily.",
+      "translation": "Подёргать ручку — временно помогает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_35",
+      "word": "Fill level adjusted float arm.",
+      "translation": "Уровень воды отрегулировали поплавком.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_36",
+      "word": "Clogged drain plunger first attempt.",
+      "translation": "Первым делом вантуз в засор.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_37",
+      "word": "Snake auger deeper clogs cleared.",
+      "translation": "Тросом пробили глубокий засор.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_38",
+      "word": "Chemical cleaners pipe damage risk.",
+      "translation": "Химия разъедает трубы — осторожно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_39",
+      "word": "Grease never down the sink.",
+      "translation": "Никогда не лей жир в раковину.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_40",
+      "word": "Hair catcher screen shower drain.",
+      "translation": "Сеточка-ловушка для волос в сливе душа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_41",
+      "word": "Overflowing toilet emergency shut valve.",
+      "translation": "Переполненный унитаз — перекрой аварийный кран!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_42",
+      "word": "Mop bucket towels immediate containment.",
+      "translation": "Тут же тазик и полотенца — сдерживаем потоп.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_43",
+      "word": "Water heater pilot light extinguished.",
+      "translation": "Фитиль водонагревателя погас.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_44",
+      "word": "Relight instructions sticker inside panel.",
+      "translation": "Инструкция розжига наклеена внутри панели.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_45",
+      "word": "Sediment flush annually recommended.",
+      "translation": "Рекомендуют ежегодно промывать от осадка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_46",
+      "word": "Anode rod replaced every five years.",
+      "translation": "Анод меняют раз в пять лет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_47",
+      "word": "Tankless water heater endless hot showers.",
+      "translation": "Проточный нагреватель — бесконечный горячий душ.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_48",
+      "word": "Electrician upgraded breaker panel capacity.",
+      "translation": "Электрик увеличил мощность щитка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_49",
+      "word": "Flickering lights loose wiring warning.",
+      "translation": "Мерцающий свет — признак плохих контактов!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_50",
+      "word": "Burning smell outlet emergency call!",
+      "translation": "Горелый запах из розетки — срочный вызов!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_51",
+      "word": "GFCI outlets required near water.",
+      "translation": "Возле воды нужны УЗО-розетки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_52",
+      "word": "Test reset buttons monthly habit.",
+      "translation": "Кнопки тест/сброс жмём ежемесячно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_53",
+      "word": "Three-prong grounding plugs safety.",
+      "translation": "Вилки с заземлением — это безопасность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_54",
+      "word": "Extension cords permanent solution never.",
+      "translation": "Удлинители — никогда не постоянное решение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_55",
+      "word": "Circuit overloaded space heater culprit.",
+      "translation": "Цепь перегружена — виноват обогреватель.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_56",
+      "word": "Breaker tripped reset after unplugging.",
+      "translation": "Автомат выбило — выключи прибор, потом включай.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_57",
+      "word": "Fuse box labeled mystery switches.",
+      "translation": "На щитке подписи неразборчивые у рубильники.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_58",
+      "word": "Wiring diagram photographed before painting.",
+      "translation": "Схему проводки сфотографировали перед покраской.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_59",
+      "word": "Stud finder located beams accurately.",
+      "translation": "Детектор нашёл балки точно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_60",
+      "word": "Wall anchors heavy mirrors essential.",
+      "translation": "Дюбели для тяжёлых зеркал обязательны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_61",
+      "word": "Hanging TV cable management hidden.",
+      "translation": "Кабели телевизора спрятали в стену.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_62",
+      "word": "Picture hanging height eye level.",
+      "translation": "Картины вешают на уровень глаз.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_63",
+      "word": "Level bubble perfectly straight confirmed.",
+      "translation": "Пузырьковый уровень подтвердил горизонталь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_64",
+      "word": "Patching drywall sanding priming painting.",
+      "translation": "Заделка гипсокартона: шпаклёвка, шлифовка, грунт, краска.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_65",
+      "word": "Texture matching existing walls tricky.",
+      "translation": "Совпадение фактуры со стенами — хитрая задача.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_66",
+      "word": "Paint sample patches tested lighting.",
+      "translation": "Пробники краски проверяли при разном свете.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_67",
+      "word": "Two coats coverage recommended usually.",
+      "translation": "Обычно рекомендуют два слоя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_68",
+      "word": "Painter tape edges crisp lines.",
+      "translation": "Малярный скотч даёт чёткие границы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_69",
+      "word": "Drop cloth splatter protection everywhere.",
+      "translation": "Плёнка от брызг — везде.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_70",
+      "word": "Ventilation open windows fumes.",
+      "translation": "Проветривайте — пары краски!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_71",
+      "word": "Low VOC paints safer nursery.",
+      "translation": "Краски без летучих веществ безопаснее для детской.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_72",
+      "word": "Caulking bathtub mildew resistant type.",
+      "translation": "Для ванны — герметик с защитой от грибка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_73",
+      "word": "Old caulk scored removed scraper.",
+      "translation": "Старый герметик подрезали и сняли скребком.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_74",
+      "word": "Smooth bead finger wet tip.",
+      "translation": "Шов разгладили мокрым пальцем.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_75",
+      "word": "Tile grout refresh transformed bathroom.",
+      "translation": "Свежая затирка преобразила ванную.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_76",
+      "word": "Regrouting weekend project satisfying.",
+      "translation": "Обновить затирку за выходные — приятно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_77",
+      "word": "Cracked tile replacement matching discontinued.",
+      "translation": "Трещину в плитке сложно: серию сняли с производства.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_78",
+      "word": "Spare tiles attic box saved.",
+      "translation": "Запасные плитки храним в коробке на чердаке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_79",
+      "word": "Grout sealer annual application extends.",
+      "translation": "Ежегодная пропитка продлевает затирку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_80",
+      "word": "Squeaky floorboards talcum powder seams.",
+      "translation": "Скрипящие доски — тальк в щели.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_81",
+      "word": "Door hinge squeak WD-40 classic.",
+      "translation": "Скрип петель — классический WD-40.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_82",
+      "word": "Sticking door plane edge slightly.",
+      "translation": "Прилипающую дверь чуть прострогали по краю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_83",
+      "word": "Draft excluder winter energy savings.",
+      "translation": "Уплотнитель двери экономит зимой отопление.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_84",
+      "word": "Window glazing putty cracked replaced.",
+      "translation": "Замазку окна потрескалась — заменили.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_85",
+      "word": "Double glazing fogged seal failed.",
+      "translation": "Стеклопакет запотел — герметичность нарушена.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_86",
+      "word": "Warranty claim window manufacturer honored.",
+      "translation": "Производитель окна принял гарантию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_87",
+      "word": "Gutters cleaned leaves autumn twice.",
+      "translation": "Жёлоба чистят от листьев дважды осенью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_88",
+      "word": "Downspouts extended away foundation.",
+      "translation": "Водостоки удлинили подальше от фундамента.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_89",
+      "word": "Roof missing shingle tarp temporary.",
+      "translation": "Отсутствующую черепицу временно закрыли тентом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_90",
+      "word": "Chimney swept annually creosote fires.",
+      "translation": "Дымоход чистят ежегодно — креозот опасен пожарами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_91",
+      "word": "Smoke detector batteries changed daylight saving.",
+      "translation": "Батарейки детекторов дыма меняют при переводе часов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_92",
+      "word": "Carbon monoxide detector bedroom hallway.",
+      "translation": "Детектор угарного газа — в коридоре у спален.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_93",
+      "word": "Fire extinguisher kitchen under sink.",
+      "translation": "Огнетушитель на кухне под мойкой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_94",
+      "word": "Escape plan family practiced twice yearly.",
+      "translation": "План эвакуации семья репетирует дважды в год.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_95",
+      "word": "Final walkthrough punch list completed.",
+      "translation": "Финальный обход: список недоделок закрыт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_96",
+      "word": "Snagging list minor fixes documented.",
+      "translation": "Мелкие недочёты внесены в акт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_97",
+      "word": "Retention payment until snagged items fixed.",
+      "translation": "Последний платёж — после устранения замечаний.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_98",
+      "word": "Workmanship warranty one year typical.",
+      "translation": "Гарантия на работу — обычно год.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_99",
+      "word": "Manufacturer warranty appliances registered online.",
+      "translation": "Гарантии техники регистрируют онлайн.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_100",
+      "word": "Receipts folder home improvement binder.",
+      "translation": "Папка чеков по ремонту в папке-регистраторе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_101",
+      "word": "Before photos renovation transformation dramatic.",
+      "translation": "Фото до ремонта — трансформация разительная!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_102",
+      "word": "After reveal party friends amazed.",
+      "translation": "Показали друзьям после ремонта — были в восторге.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_homerepairs_103",
+      "word": "Referral discount shared neighbors both happy.",
+      "translation": "Скидку за рекомендацию разделили с соседями.",
+      "language": "en"
+    }
+  ]
+}

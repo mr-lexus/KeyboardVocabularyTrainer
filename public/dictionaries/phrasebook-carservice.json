@@ -1,0 +1,565 @@
+{
+  "id": "phrasebook-carservice",
+  "name": "Car Trouble & Mechanic",
+  "description": "Машина сломалась: СТО, диагностика, запчасти, шины и эвакуатор",
+  "entries": [
+    {
+      "id": "pbq_carservice_0",
+      "word": "Engine making weird knocking noise.",
+      "translation": "Двигатель странно стучит.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_1",
+      "word": "Check engine light illuminated yesterday.",
+      "translation": "Чек энджин загорелся вчера.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_2",
+      "word": "OBD scanner read fault codes.",
+      "translation": "Диагностический сканер считал коды ошибок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_3",
+      "word": "Misfire cylinder three diagnosed.",
+      "translation": "Диагностирован пропуск зажигания в третьем цилиндре.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_4",
+      "word": "Spark plugs replacement due mileage.",
+      "translation": "Свечи пора менять по пробегу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_5",
+      "word": "Rough idle cold mornings only.",
+      "translation": "Неровный холостой ход только холодным утром.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_6",
+      "word": "Stalls at traffic lights occasionally.",
+      "translation": "Иногда глохнет на светофорах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_7",
+      "word": "Fuel filter clogged suspected first.",
+      "translation": "Сначала заподозрили забитый топливный фильтр.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_8",
+      "word": "Battery dead again third winter.",
+      "translation": "Аккумулятор сдох опять — третья зима.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_9",
+      "word": "Jump leads connected correct order.",
+      "translation": "Прикуриваем проводами в правильном порядке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_10",
+      "word": "Red positive black negative remember.",
+      "translation": "Помни: красный плюс, чёрный минус.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_11",
+      "word": "Donor car running while charging.",
+      "translation": "Донор работает во время зарядки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_12",
+      "word": "Alternator not charging battery properly.",
+      "translation": "Генератор плохо заряжает аккумулятор.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_13",
+      "word": "Dashboard battery symbol stays lit.",
+      "translation": "Значок батареи на панели горит не гаснув.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_14",
+      "word": "Serpentine belt squealing startup.",
+      "translation": "Ремень генератора визжит на заводке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_15",
+      "word": "Belt tensioner worn replaced together.",
+      "translation": "Натяжитель изношен — поменяли вместе с ремнём.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_16",
+      "word": "Timing belt critical mileage interval.",
+      "translation": "Ремень ГРМ критичен по пробегу!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_17",
+      "word": "Interference engine bent valves risk.",
+      "translation": "На «втыковом» двигателе риск загнуть клапана.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_18",
+      "word": "Water pump replaced same time logic.",
+      "translation": "Помпу меняют вместе с ремнём — логично.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_19",
+      "word": "Coolant temperature climbing dangerously high.",
+      "translation": "Температура охлаждающей опасно ползёт вверх!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_20",
+      "word": "Pull over immediately engine damage risk.",
+      "translation": "Немедленно на обочину — рискуешь мотором!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_21",
+      "word": "Steam hissing under hood scary.",
+      "translation": "Пар шипит из-под капота — жутко.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_22",
+      "word": "Never open radiator cap hot!",
+      "translation": "Никогда не открывай крышку радиатора горячей!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_23",
+      "word": "Coolant leak puddle bright green.",
+      "translation": "Ярко-зелёная лужа — течь антифриза.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_24",
+      "word": "Head gasket failure expensive repair dreaded.",
+      "translation": "Пробой прокладки ГБЦ — дорогой страшный ремонт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_25",
+      "word": "Oil change intervals around five thousand miles.",
+      "translation": "Замена масла примерно каждые пять тысяч миль.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_26",
+      "word": "Dipstick check level color consistency.",
+      "translation": "Проверяй масляный щуп: уровень, цвет, консистенция.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_27",
+      "word": "Milky oil coolant mixing head gasket.",
+      "translation": "Молочное масло = эмульсия = прокладка ГБЦ.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_28",
+      "word": "Oil light flickering stop driving!",
+      "translation": "Моргает лампа масла — остановись немедленно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_29",
+      "word": "Oil pressure loss seizes engines fast.",
+      "translation": "Без давления масла мотор клинит быстро.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_30",
+      "word": "Tow truck called highway shoulder.",
+      "translation": "Эвакуатор вызвали на обочину трассы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_31",
+      "word": "Hazard lights triangles distance placed.",
+      "translation": "Аварийка и треугольники выставлены по норме.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_32",
+      "word": "Reflective vest roadside safety law.",
+      "translation": "Жилет на дороге — требование безопасности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_33",
+      "word": "Flat tire spare wheel changing.",
+      "translation": "Меняем проколотое колесо на запаску.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_34",
+      "word": "Lug nuts loosened before jacking.",
+      "translation": "Болты ослабляют ДО подъёма домкратом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_35",
+      "word": "Jack points reinforced metal only.",
+      "translation": "Домкрат ставить только в усиленные точки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_36",
+      "word": "Handbrake engaged chocks wheels opposite.",
+      "translation": "Ручник затянут, колёса противоположные — упоры.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_37",
+      "word": "Torque wrench tightened star pattern.",
+      "translation": "Болты тянут динамометром крест-накрест.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_38",
+      "word": "Temporary spare speed limit fifty.",
+      "translation": "Докатка: скорость максимум пятьдесят!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_39",
+      "word": "Tire pressure monitoring light reset.",
+      "translation": "Сброс датчика давления в шинах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_40",
+      "word": "Recommended PSI door jamb sticker.",
+      "translation": "Рекомендованное давление — на наклейке в проёме двери.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_41",
+      "word": "Nitrogen fill marketing mostly hype.",
+      "translation": "Азот в шинах — в основном маркетинг.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_42",
+      "word": "Tread depth legal minimum checked.",
+      "translation": "Проверили глубину протектора на законный минимум.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_43",
+      "word": "Penny test tread wear quick.",
+      "translation": "Тест монеткой — быстрая оценка протектора.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_44",
+      "word": "Uneven wear alignment issue likely.",
+      "translation": "Неравномерный износ — похоже, развал-схождение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_45",
+      "word": "Steering wheel vibration highway speeds.",
+      "translation": "Руль вибрирует на трассовой скорости.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_46",
+      "word": "Wheel balancing weights redistributed.",
+      "translation": "Балансировка: грузики переставили.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_47",
+      "word": "Pulling left right alignment needed.",
+      "translation": "Тянет влево/вправо — нужен сход-развал.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_48",
+      "word": "Brakes grinding metal-on-metal urgent!",
+      "translation": "Скрежет тормозов металл-о-металл — срочно!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_49",
+      "word": "Brake pads squealer tab intentional.",
+      "translation": "Скрипун на колодках — сделано специально.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_50",
+      "word": "Rotors resurfaced or replaced decision.",
+      "translation": "Диски точат или меняют — решаем.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_51",
+      "word": "Soft pedal air bubbles bled.",
+      "translation": "Мягкая педаль — прокачали, воздух вышел.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_52",
+      "word": "Brake fluid hygroscopic flushed biennially.",
+      "translation": "Тормозную жидкость меняют раз в два года (гигроскопична).",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_53",
+      "word": "ABS light traction issues winter.",
+      "translation": "Зимой ABS и система стабилизации критична.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_54",
+      "word": "Handbrake frozen morning ice released.",
+      "translation": "Ручник примёрз утром — отпустили аккуратно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_55",
+      "word": "Clutch slipping revs without acceleration.",
+      "translation": "Сцепление буксует: обороты есть, ускорения нет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_56",
+      "word": "Gearbox grinding into second gear.",
+      "translation": "Хруст при включении второй передачи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_57",
+      "word": "Synchromesh worn downshifting rev-matched.",
+      "translation": "Синхронизаторы изношены — лечится перегазовкой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_58",
+      "word": "Transmission fluid burnt smell alarming.",
+      "translation": "Жжёный запах масла АКПП — тревожно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_59",
+      "word": "CV joint clicking turning corners.",
+      "translation": "ШРУС щёлкает при поворотах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_60",
+      "word": "Boot torn grease flung everywhere.",
+      "translation": "Пыльник порван — смазка разлетелась.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_61",
+      "word": "Suspension clunking potholes suspension bushings.",
+      "translation": "Стуки на ямах — втулки подвески.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_62",
+      "word": "Shock absorber bounce test performed.",
+      "translation": "Тест амортизаторов: качнул и отпустил.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_63",
+      "word": "Car keeps bouncing worn shocks.",
+      "translation": "Машину качает после кочки — амортизаторы умерли.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_64",
+      "word": "Power steering whine fluid low.",
+      "translation": "Гул гидроусилителя — мало жидкости.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_65",
+      "word": "Electric power steering no fluid needed.",
+      "translation": "У электроусилителя жидкости нет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_66",
+      "word": "Air conditioning recharged refrigerant summer.",
+      "translation": "Летом заправили кондиционер фреоном.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_67",
+      "word": "Cabin filter pollen fresh air.",
+      "translation": "Салонный фильтр — свежий воздух без пыльцы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_68",
+      "word": "Windshield chip resin injection repaired.",
+      "translation": "Скол на лобовом залили смолой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_69",
+      "word": "Crack spreading windshield replacement required.",
+      "translation": "Трещина поползла — нужна замена стекла.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_70",
+      "word": "Wiper blades streaking rubber hardened.",
+      "translation": "Дворники полосатят — резина задубела.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_71",
+      "word": "Winter wipers summer blades difference.",
+      "translation": "Зимние дворники отличаются от летних.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_72",
+      "word": "Headlight lenses cloudy restoration kit.",
+      "translation": "Мутные фары восстановили полировочным набором.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_73",
+      "word": "Beam alignment adjusted blinding oncoming.",
+      "translation": "Свет настроили — больше не слепим встречных.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_74",
+      "word": "Diagnostic fee waived with repair.",
+      "translation": "Диагностику бесплатно при ремонте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_75",
+      "word": "OEM parts versus aftermarket debate.",
+      "translation": "Оригинал или аналог — вечный вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_76",
+      "word": "OEM guaranteed fit higher price.",
+      "translation": "Оригинал: гарантированная совместимость, дороже.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_77",
+      "word": "Aftermarket quality varies wildly research.",
+      "translation": "Качество аналогов скачет — изучай отзывы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_78",
+      "word": "Used parts salvage yard savings.",
+      "translation": "Б/у запчасти с разборки — экономия.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_79",
+      "word": "Core charge refunded old part returned.",
+      "translation": "За старый агрегат вернули залоговый сбор.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_80",
+      "word": "Second opinion independent garage sought.",
+      "translation": "Искали независимое мнение другого сервиса.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_81",
+      "word": "Dealership service pricey but thorough.",
+      "translation": "У дилера дорого, но дотошно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_82",
+      "word": "Service book stamps resale value.",
+      "translation": "Отметки о сервисе держат цену при продаже.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_83",
+      "word": "Maintenance log complete buyer confidence.",
+      "translation": "Полный сервисный журнал — доверие покупателя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_84",
+      "word": "Roadside assistance membership paid itself.",
+      "translation": "Подписка на ассистанс уже окупилась.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_85",
+      "word": "Emergency kit blanket flashlight jumper cables.",
+      "translation": "Набор: одеяло, фонарь, провода прикуривания.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_86",
+      "word": "First aid kit expiry dates checked.",
+      "translation": "Сроки аптечки проверили.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_87",
+      "word": "Warning triangle reflective vest mandatory.",
+      "translation": "Треугольник и жилет обязательны!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_88",
+      "word": "Fuel can empty reserve lessons learned.",
+      "translation": "Пустая канистра: ездить на лампочке не будем.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_89",
+      "word": "Ran out fuel embarrassing walk.",
+      "translation": "Кончилось топливо — позорно шёл пешком.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_90",
+      "word": "Wrong fuel type disaster diesel petrol.",
+      "translation": "Дизель вместо бензина — катастрофа!",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_91",
+      "word": "Fuel line drained tank flushed costly.",
+      "translation": "Сливали систему и промывали бак — дорого.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_carservice_92",
+      "word": "Insurance roadside add-on worth considering.",
+      "translation": "Рассмотри ассистанса как допу к страховке.",
+      "language": "en"
+    }
+  ]
+}

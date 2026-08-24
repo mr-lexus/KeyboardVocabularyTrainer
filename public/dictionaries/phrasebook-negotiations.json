@@ -1,0 +1,451 @@
+{
+  "id": "phrasebook-negotiations",
+  "name": "Negotiations & Deals",
+  "description": "Переговоры и сделки: условия, уступки, торги и закрытие договорённостей",
+  "entries": [
+    {
+      "id": "pbq_negotiations_0",
+      "word": "Pleasure doing business with you.",
+      "translation": "Рад с вами работать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_1",
+      "word": "Shall we get down to terms?",
+      "translation": "Перейдём к условиям?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_2",
+      "word": "Agenda proposed both parties agreed.",
+      "translation": "Повестку согласовали обе стороны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_3",
+      "word": "Win-win outcome our goal today.",
+      "translation": "Наша цель сегодня — взаимовыгодный итог.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_4",
+      "word": "Interests versus positions distinction matters.",
+      "translation": "Разница интересов и позиций ключевая.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_5",
+      "word": "What does success look like you?",
+      "translation": "Как выглядит успех для вас?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_6",
+      "word": "Underlying needs beneath stated demands.",
+      "translation": "За заявленными требованиями — реальные нужды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_7",
+      "word": "Priority ranking helps trade-offs.",
+      "translation": "Расстановка приоритетов помогает уступать разумно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_8",
+      "word": "BATNA preparation before table.",
+      "translation": "Готовьте запасной вариант до стола.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_9",
+      "word": "Walkaway point defined privately.",
+      "translation": "Точку выхода определил заранее и молча.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_10",
+      "word": "Anchoring high opening offer strategy.",
+      "translation": "Стратегия якоря: стартовое предложение выше.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_11",
+      "word": "Counter-offer expected protocol normal.",
+      "translation": "Ответное предложение — нормальный протокол.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_12",
+      "word": "Concessions exchanged gradually reciprocal.",
+      "translation": "Уступки обменивают постепенно и зеркально.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_13",
+      "word": "Never concede without getting something.",
+      "translation": "Никогда не уступай бесплатно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_14",
+      "word": "If you flex on price, then…",
+      "translation": "Если идёте вниз по цене, то.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_15",
+      "word": "Throw-in sweetens the deal.",
+      "translation": "Бонус подслащивает сделку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_16",
+      "word": "Bundle pricing attractive combined.",
+      "translation": "Комплектная цена привлекательнее.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_17",
+      "word": "Volume discount tier structure discussed.",
+      "translation": "Обсудили уровни скидок за объём.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_18",
+      "word": "Payment terms flexible options offered.",
+      "translation": "Предложили гибкие варианты оплаты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_19",
+      "word": "Net thirty standard industry practice.",
+      "translation": "Оплата в течение месяца — стандарт отрасли.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_20",
+      "word": "Deposit secures production slot.",
+      "translation": "Аванс бронирует место в производстве.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_21",
+      "word": "Milestone payments de-risk both sides.",
+      "translation": "Поэтапная оплата снижает риски обеих сторон.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_22",
+      "word": "Escrow arrangement trust builder.",
+      "translation": "Аккредитив строит доверие.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_23",
+      "word": "Delivery window realistic buffer included.",
+      "translation": "В срок поставки заложен реалистичный запас.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_24",
+      "word": "Penalty clauses cut both ways.",
+      "translation": "Штрафные пункты работают в обе стороны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_25",
+      "word": "Liability cap negotiated reasonable level.",
+      "translation": "Лимит ответственности согласовали разумный.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_26",
+      "word": "Force majeure language standard boilerplate.",
+      "translation": "Формулировки форс-мажора — стандартный текст.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_27",
+      "word": "Exclusivity clause limited geography time.",
+      "translation": "Эксклюзив ограничен территорией и сроком.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_28",
+      "word": "Non-compete scope narrowed sensibly.",
+      "translation": "Объём неконкуренции сузили разумно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_29",
+      "word": "Intellectual property ownership clarified upfront.",
+      "translation": "Права на интеллектуальную собственность уточнили сразу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_30",
+      "word": "Licensing versus assignment difference significant.",
+      "translation": "Лицензия и уступка прав сильно различаются.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_31",
+      "word": "Royalty rate percentage revenue net.",
+      "translation": "Роялти — процент от чистой выручки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_32",
+      "word": "Term sheet non-binding framework document.",
+      "translation": "Термшит — рамочный необязывающий документ.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_33",
+      "word": "Subject to contract wording protects.",
+      "translation": "Оговорка «при условии договора» страхует обе стороны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_34",
+      "word": "Head of agreement principles only.",
+      "translation": "Меморандум фиксирует только принципы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_35",
+      "word": "Due diligence documents requested list.",
+      "translation": "Список документов для проверки направлен.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_36",
+      "word": "Data room access granted temporary.",
+      "translation": "Доступ в дата-рум выдали временный.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_37",
+      "word": "Red flags surfaced during review.",
+      "translation": "При проверке вскрылись тревожные сигналы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_38",
+      "word": "Deal breaker identified early saves pain.",
+      "translation": "Ранний стоп-фактор сберегает месяцы впустую.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_39",
+      "word": "Silence tactic uncomfortable powerful.",
+      "translation": "Тактика паузы неудобна, но сильна.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_40",
+      "word": "Good cop bad cop transparent ploy.",
+      "translation": "Парочка «злой и добрый» — видимый приём.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_41",
+      "word": "Higher authority excuse buying time.",
+      "translation": "Ссылка на начальство покупает время.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_42",
+      "word": "Nibbling after handshake annoys.",
+      "translation": "Дожим после рукопожатия портит отношения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_43",
+      "word": "Salami slicing tactics recognized resisted.",
+      "translation": "Тактику «салями» распознали и пресекли.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_44",
+      "word": "Deadline pressure manufactured artificial often.",
+      "translation": "Дедлайн-давление часто искусственное.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_45",
+      "word": "Take it or leave it rarely final.",
+      "translation": "«Бери или уходи» редко бывает окончательным.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_46",
+      "word": "Every number negotiable until signed.",
+      "translation": "До подписи любое число обсуждаемо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_47",
+      "word": "Package deal versus itemized haggling.",
+      "translation": "Пакетом торговаться проще, чем по пунктам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_48",
+      "word": "Splitting difference midpoint compromise common.",
+      "translation": "Компромисс посередине — частый исход.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_49",
+      "word": "Round numbers invite round counters.",
+      "translation": "Круглые цифры тянут к новому торгу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_50",
+      "word": "Precise figures signal homework done.",
+      "translation": "Точные суммы показывают домашнюю работу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_51",
+      "word": "Currency fluctuation clause protects margins.",
+      "translation": "Валютная оговорка защищает маржу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_52",
+      "word": "Indexation annual review built-in.",
+      "translation": "Ежегодная индексация предусмотрена.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_53",
+      "word": "Most favored nation clause requested.",
+      "translation": "Попросили оговорку о наибольшем благоприятствовании.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_54",
+      "word": "Right of first refusal negotiated.",
+      "translation": "Согласовали преимущественное право покупки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_55",
+      "word": "Termination notice period ninety days mutual.",
+      "translation": "Расторжение с уведомлением за девяносто дней, взаимно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_56",
+      "word": "Exit provisions clarity prevents lawsuits.",
+      "translation": "Ясные условия выхода предотвращают суды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_57",
+      "word": "Dispute resolution arbitration preferred.",
+      "translation": "Предпочли арбитраж для споров.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_58",
+      "word": "Governing law jurisdiction debated lengthily.",
+      "translation": "Применимое право обсуждали долго.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_59",
+      "word": "Signaling flexibility without weakness art.",
+      "translation": "Искусство: показать гибкость без слабости.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_60",
+      "word": "Empathy maps counterpart pressures real.",
+      "translation": "Карта эмпатии: у второй стороны свои давления.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_61",
+      "word": "Rapport small talk icebreaker genuine.",
+      "translation": "Small talk для контакта — искренний, не дежурный.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_62",
+      "word": "Coffee break resets tense atmosphere.",
+      "translation": "Кофе-брейк сбрасывает напряжение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_63",
+      "word": "Caucus private huddle regroup strategy.",
+      "translation": "Тайм-аут: совещание в стороне, пересборка стратегии.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_64",
+      "word": "Note-taker captures commitments precisely.",
+      "translation": "Протоколист точно фиксирует договорённости.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_65",
+      "word": "Action items owner deadline assigned.",
+      "translation": "У каждого пункта — владелец и срок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_66",
+      "word": "Memorandum understanding drafted same day.",
+      "translation": "Меморандум составили в тот же день.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_67",
+      "word": "Verbal agreements fragile paper solid.",
+      "translation": "Словесные договорённости хрупки, бумага тверда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_68",
+      "word": "Handshake deals still mean something.",
+      "translation": "Рукопожатие пока ещё что-то значит.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_69",
+      "word": "Relationship capital compounds future deals.",
+      "translation": "Репутационный капитал умножает будущие сделки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_70",
+      "word": "Squeeze last dime loses lifetime customer.",
+      "translation": "Дожав до последней копейки, теряешь клиента навсегда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_71",
+      "word": "Leave money on table goodwill earned.",
+      "translation": "Оставленная на столе скидка = заработанная лояльность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_72",
+      "word": "Deal closed handshakes photographs signatures.",
+      "translation": "Сделка закрыта: рукопожатия, фото, подписи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_negotiations_73",
+      "word": "Champagne toast successful negotiation concluded.",
+      "translation": "Тост шампанским — успешные переговоры завершены.",
+      "language": "en"
+    }
+  ]
+}
