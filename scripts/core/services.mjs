@@ -200,7 +200,7 @@ export const services = {
       ['How much do I owe you?', 'Сколько я должен?'],
       ['Twenty-five dollars even.', 'Ровно двадцать пять долларов.'],
       ['Keep the change.', 'Сдачи оставьте себе.'],
-      ['Same time next month, please.', 'Запишите меня на следующей месяц, в то же время.'],
+      ['Same time next month, please.', 'Запишите меня через месяц, в то же время.'],
       ['Book me in for next Friday.', 'Запишите меня на следующую пятницу.'],
     ],
   },

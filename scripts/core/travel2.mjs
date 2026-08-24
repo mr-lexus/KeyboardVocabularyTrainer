@@ -158,7 +158,7 @@ export const travel2 = {
       ['May I ask who’s calling?', 'Можно узнать, кто звонит?'],
       ['Hold on, please.', 'Подождите минутку, пожалуйста.'],
       ['Just a second, I’ll get him.', 'Одну секунду, сейчас позову его.'],
-      ['Hang on a moment, please.', 'Повесьте трубку на минуту... подождите, пожалуйста.'],
+      ['Hang on a moment, please.', 'Подождите минутку, пожалуйста.'],
       ['I’m putting you through now.', 'Соединяю вас.'],
       ['Sorry, she’s not available right now.', 'Извините, она сейчас не может подойти.'],
       ['She’s on another call.', 'Она разговаривает по другой линии.'],
