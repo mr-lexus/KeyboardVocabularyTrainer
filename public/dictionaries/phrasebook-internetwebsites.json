@@ -4,6 +4,648 @@
   "description": "Фразы об интернете и сайтах: браузер, аккаунты, поиск, безопасность в сети. Для повседневной онлайн-жизни.",
   "entries": [
     {
+      "id": "pbq_internetwebsites_0",
+      "word": "Clear your browser cache and reload the page.",
+      "translation": "Очистите кэш браузера и перезагрузите страницу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_1",
+      "word": "The website loads instantly on fibre but crawls on mobile data.",
+      "translation": "Сайт мгновенно грузится по оптоволокну и ползёт на мобильном интернете.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_2",
+      "word": "Incognito mode hides history, not identity.",
+      "translation": "Режим инкогнито скрывает историю, но не личность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_3",
+      "word": "Cookies accepted without reading, as tradition demands.",
+      "translation": "Куки приняты без чтения, как велит традиция.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_4",
+      "word": "Third party trackers follow you across sites.",
+      "translation": "Сторонние трекеры следят за вами между сайтами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_5",
+      "word": "Ad blockers pay for themselves in sanity.",
+      "translation": "Блокировщики рекламы окупаются спокойствием.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_6",
+      "word": "Some sites refuse to load with blockers enabled.",
+      "translation": "Некоторые сайты отказываются грузиться с блокировщиком.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_7",
+      "word": "Pop-ups multiply like weeds on shady pages.",
+      "translation": "Попапы плодятся как сорняки на сомнительных страницах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_8",
+      "word": "Check the address bar before entering passwords.",
+      "translation": "Проверяйте адресную строку перед вводом пароля.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_9",
+      "word": "The padlock icon means encrypted, not trustworthy.",
+      "translation": "Значок замочка означает шифрование, а не надёжность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_10",
+      "word": "Phishing emails imitate urgency convincingly.",
+      "translation": "Фишинговые письма убедительно изображают срочность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_11",
+      "word": "Hover over links to preview the real destination.",
+      "translation": "Наводите курсор на ссылки, чтобы увидеть настоящий адрес.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_12",
+      "word": "That domain spelled slightly wrong on purpose.",
+      "translation": "Домен специально написан чуть неправильно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_13",
+      "word": "Password managers generate and remember everything.",
+      "translation": "Менеджеры паролей генерируют и помнят всё.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_14",
+      "word": "One password for everything risks everything.",
+      "translation": "Один пароль на всё ставит на карту всё.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_15",
+      "word": "Password reset links expire within minutes.",
+      "translation": "Ссылки сброса пароля устаревают за минуты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_16",
+      "word": "Security questions guess easily from social media.",
+      "translation": "Ответы на секретные вопросы легко угадать по соцсетям.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_17",
+      "word": "Enable two factor authentication everywhere it exists.",
+      "translation": "Включайте двухфакторную защиту везде, где она есть.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_18",
+      "word": "Backup codes belong printed in a drawer.",
+      "translation": "Резервные коды должны лежать распечатанными в ящике.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_19",
+      "word": "My account got locked after three failed attempts.",
+      "translation": "Мой аккаунт заблокировали после трёх неудачных попыток.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_20",
+      "word": "Username available, finally a short one.",
+      "translation": "Имя пользователя свободно, наконец-то короткое.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_21",
+      "word": "Email verification landed in spam as usual.",
+      "translation": "Письмо подтверждения улетело в спам, как обычно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_22",
+      "word": "Unsubscribe links legally must work.",
+      "translation": "Ссылки отписки обязаны работать по закону.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_23",
+      "word": "Newsletter subscriptions breed faster than rabbits.",
+      "translation": "Подписки на рассылки плодятся быстрее кроликов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_24",
+      "word": "Search engines answer questions search engines trained us to ask.",
+      "translation": "Поисковики отвечают на вопросы, которым сами нас научили.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_25",
+      "word": "Quotation marks narrow search results dramatically.",
+      "translation": "Кавычки резко сужают результаты поиска.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_26",
+      "word": "Site colon search limits results to one website.",
+      "translation": "Поиск с оператором site ограничивает результаты одним сайтом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_27",
+      "word": "The first page of results is the only page of results.",
+      "translation": "Первая страница выдачи — единственная страница выдачи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_28",
+      "word": "Wiki articles cite sources at the bottom.",
+      "translation": "Вики-статьи указывают источники внизу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_29",
+      "word": "Verify quotes before sharing them anywhere.",
+      "translation": "Проверяйте цитаты, прежде чем делиться ими где-либо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_30",
+      "word": "Screenshots outlive deleted posts inconveniently.",
+      "translation": "Скриншоты переживают удалённые посты некстати.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_31",
+      "word": "The internet remembers what you hope it forgot.",
+      "translation": "Интернет помнит то, что вы надеялись похоронить.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_32",
+      "word": "Right click saves images but not permission.",
+      "translation": "Правый клик сохраняет картинки, но не разрешение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_33",
+      "word": "Copyright applies to memes too, technically.",
+      "translation": "Авторское право касается и мемов, технически.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_34",
+      "word": "Creative Commons licenses explain what sharing allows.",
+      "translation": "Лицензии Creative Commons объясняют, что разрешено делиться.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_35",
+      "word": "Streaming quality auto-adjusts to bandwidth.",
+      "translation": "Качество стриминга подстраивается под скорость соединения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_36",
+      "word": "Buffering spins forever right before the climax.",
+      "translation": "Буферизация крутится вечно прямо перед кульминацией.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_37",
+      "word": "Downloads pause when laptops sleep unexpectedly.",
+      "translation": "Загрузки останавливаются, когда ноутбук внезапно засыпает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_38",
+      "word": "Upload speeds lag far behind downloads on home lines.",
+      "translation": "Исходящая скорость дома сильно отстаёт от входящей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_39",
+      "word": "Latency matters more than bandwidth for video calls.",
+      "translation": "Для видеозвонков задержка важнее пропускной способности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_40",
+      "word": "The router restart fixed the connection again.",
+      "translation": "Перезапуск роутера снова починил соединение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_41",
+      "word": "Public wifi networks deserve healthy suspicion.",
+      "translation": "Публичный wi-fi заслуживает здоровой подозрительности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_42",
+      "word": "VPNs encrypt traffic between you and trusted servers.",
+      "translation": "VPN шифрует трафик между вами и доверенными серверами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_43",
+      "word": "Free VPNs monetise something, find out what.",
+      "translation": "Бесплатные VPN на чём-то зарабатывают — выясните на чём.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_44",
+      "word": "DNS translates names into addresses invisibly.",
+      "translation": "DNS незаметно переводит имена в адреса.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_45",
+      "word": "Changing DNS providers sometimes speeds everything up.",
+      "translation": "Смена DNS-провайдера иногда ускоряет вообще всё.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_46",
+      "word": "The comment section tested my faith in humanity again.",
+      "translation": "Комментарии снова проверили мою веру в человечество.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_47",
+      "word": "Reply politely or not at all.",
+      "translation": "Отвечайте вежливо или никак.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_48",
+      "word": "Trolls feed on attention, starve them politely.",
+      "translation": "Тролли питаются вниманием — голодом их морите вежливо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_49",
+      "word": "Forums archive answers search engines bury.",
+      "translation": "Форумы хранят ответы, которые поисковики хоронят.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_50",
+      "word": "Read the thread before asking the answered question.",
+      "translation": "Читайте ветку, прежде чем задавать отвеченный вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_51",
+      "word": "Documentation beats tutorials six months later.",
+      "translation": "Документация через полгода полезнее обучающих видео.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_52",
+      "word": "APIs let websites talk to each other.",
+      "translation": "API позволяют сайтам разговаривать друг с другом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_53",
+      "word": "Rate limits throttle enthusiastic scripts.",
+      "translation": "Лимиты запросов усмиряют рьяные скрипты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_54",
+      "word": "Web scraping walks legal grey areas.",
+      "translation": "Парсинг сайтов ходит по серым юридическим зонам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_55",
+      "word": "Progressive web apps install like native ones.",
+      "translation": "Прогрессивные веб-приложения устанавливаются как нативные.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_56",
+      "word": "Responsive design adapts layouts to screen sizes.",
+      "translation": "Адаптивный дизайн подстраивает вёрстку под размеры экрана.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_57",
+      "word": "Mobile traffic outgrew desktop years ago.",
+      "translation": "Мобильный трафик обогнал настольный годы назад.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_58",
+      "word": "Accessibility labels help screen readers navigate.",
+      "translation": "Подписи доступности помогают экранным дикторам ориентироваться.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_59",
+      "word": "Alt text describes images for everyone benefit.",
+      "translation": "Альтернативный текст описывает картинки на пользу всем.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_60",
+      "word": "Dark mode spares eyes at midnight.",
+      "translation": "Тёмная тема бережёт глаза в полночь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_61",
+      "word": "Autoplay videos violate fundamental human dignity.",
+      "translation": "Автовоспроизведение видео нарушает базовое человеческое достоинство.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_62",
+      "word": "Cookie banners outnumber actual cookies.",
+      "translation": "Баннеры про куки outnumberят сами куки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_63",
+      "word": "Accept all remains the fastest button on the internet.",
+      "translation": "«Принять все» — самая быстрая кнопка интернета.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_64",
+      "word": "Privacy policies average longer than novels.",
+      "translation": "Политики конфиденциальности в среднем длиннее романов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_65",
+      "word": "Data brokers sell profiles assembled from breadcrumbs.",
+      "translation": "Брокеры данных продают профили, собранные из крошек.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_66",
+      "word": "Location permissions deserve annual audits.",
+      "translation": "Разрешения на геолокацию заслуживают ежегодного аудита.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_67",
+      "word": "Apps request contacts for reasons unclear.",
+      "translation": "Приложения просят контакты по неясным причинам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_68",
+      "word": "Revoking permissions breaks apps entertainingly sometimes.",
+      "translation": "Отзыв разрешений иногда разваливает приложения очень занятно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_69",
+      "word": "Bookmarks folders organise chaos approximately.",
+      "translation": "Папки закладок организуют хаос приблизительно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_70",
+      "word": "Open tabs reproduce faster than you close them.",
+      "translation": "Открытые вкладки плодятся быстрее, чем вы их закрываете.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_71",
+      "word": "Four hundred unread tabs is a lifestyle choice.",
+      "translation": "Четыреста непрочитанных вкладок — это выбор образа жизни.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_72",
+      "word": "Session restore resurrects everything after crashes.",
+      "translation": "Восстановление сессии воскрешает всё после сбоев.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_73",
+      "word": "Autofill forms save typing and leak surprises.",
+      "translation": "Автозаполнение форм экономит время и иногда удивляет утечками.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_74",
+      "word": "CAPTCHA tests prove humanity through traffic lights.",
+      "translation": "КАПЧА доказывает человечность через светофоры.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_75",
+      "word": "Select every image containing a bicycle, apparently none.",
+      "translation": "Выберите все картинки с велосипедами — видимо, ни одной.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_76",
+      "word": "Dead links litter the web like abandoned buildings.",
+      "translation": "Мёртвые ссылки усеивают сеть как заброшенные здания.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_77",
+      "word": "Archive services snapshot pages before they vanish.",
+      "translation": "Архивные сервисы снимают страницы, прежде чем они исчезнут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_78",
+      "word": "Wayback machines preserve digital history accidentally.",
+      "translation": "Машины времени случайно сохраняют цифровую историю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_79",
+      "word": "Domain names appreciate like real estate sometimes.",
+      "translation": "Доменные имена иногда дорожают как недвижимость.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_80",
+      "word": "Hosting plans renew at painful premium prices.",
+      "translation": "Хостинг продлевается по болезненным премиальным ценам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_81",
+      "word": "SSL certificates renew automatically or sites panic.",
+      "translation": "SSL-сертификаты продлеваются автоматически, иначе сайты паникуют.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_82",
+      "word": "Downtime happens on weekends by universal law.",
+      "translation": "Отбои случаются по выходным согласно вселенскому закону.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_83",
+      "word": "Status pages update slower than complaints arrive.",
+      "translation": "Страницы статуса обновляются медленнее, чем приходят жалобы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_84",
+      "word": "Backups restore everything except yesterday work.",
+      "translation": "Бэкапы восстанавливают всё, кроме вчерашней работы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_85",
+      "word": "Test restores, not just backups.",
+      "translation": "Проверяйте восстановление, а не только копирование.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_86",
+      "word": "Two browsers isolate work from personal browsing.",
+      "translation": "Два браузера разделяют работу и личное.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_87",
+      "word": "Guest networks quarantine smart gadgets safely.",
+      "translation": "Гостевые сети безопасно изолируют умные гаджеты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_88",
+      "word": "Password sharing circles break terms of service.",
+      "translation": "Круги обмена паролями нарушают условия обслуживания.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_89",
+      "word": "Family plans share subscriptions legitimately.",
+      "translation": "Семейные тарифы легально делят подписки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_90",
+      "word": "Cancellation flows hide behind retention offers.",
+      "translation": "Отмена подписки прячется за удерживающими предложениями.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_91",
+      "word": "Free trials convert into invoices silently.",
+      "translation": "Бесплатные пробные периоды молча превращаются в счета.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_92",
+      "word": "Calendar reminders cancel trials before charges.",
+      "translation": "Напоминания в календаре отменяют триалы до списаний.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_93",
+      "word": "Digital minimalism starts with unsubscribing.",
+      "translation": "Цифровой минимализм начинается с отписок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_94",
+      "word": "The offline world missed you while you scrolled.",
+      "translation": "Офлайн-мир скучал по вам, пока вы листали ленту.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_95",
+      "word": "Reader modes strip ads and fonts down to text.",
+      "translation": "Режим чтения снимает рекламу и оставляет чистый текст.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_96",
+      "word": "Print stylesheets rescue long articles from layout chaos.",
+      "translation": "Стили печати спасают длинные статьи от хаоса вёрстки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_97",
+      "word": "Browser extensions request alarming permissions casually.",
+      "translation": "Расширения браузера невзначай просят тревожные разрешения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_98",
+      "word": "Audit your extensions twice a year honestly.",
+      "translation": "Честно проверяйте расширения дважды в год.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_99",
+      "word": "Sync conflicts duplicate bookmarks into confusion.",
+      "translation": "Конфликты синхронизации плодят дубликаты закладок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_100",
+      "word": "Profile separation keeps work logins from leaking.",
+      "translation": "Раздельные профили не дают рабочих логинов утечь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_101",
+      "word": "The download folder is where files go to be forgotten.",
+      "translation": "Папка загрузок — место, куда файлы приходят забываться.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_102",
+      "word": "Desktop clutter mirrors browser tab anxiety.",
+      "translation": "Захламлённый рабочий стол отражает тревогу открытых вкладок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_103",
+      "word": "Search within page finds what scrolling missed.",
+      "translation": "Поиск по странице находит то, что пропустил скроллинг.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_104",
+      "word": "Keyboard shortcuts double browsing speed eventually.",
+      "translation": "Горячие клавиши со временем удваивают скорость браузинга.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_105",
+      "word": "Middle click opens links without losing your place.",
+      "translation": "Средняя кнопка открывает ссылки, не теряя текущую страницу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_internetwebsites_106",
+      "word": "Reading lists park articles for the weekend.",
+      "translation": "Списки для чтения паркуют статьи до выходных.",
+      "language": "en"
+    },
+    {
       "id": "pb_internetwebsites_0_0",
       "word": "The data hasn't been compiled yet.",
       "translation": "Данные ещё не собраны.",

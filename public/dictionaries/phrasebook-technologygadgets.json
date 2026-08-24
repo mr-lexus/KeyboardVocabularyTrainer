@@ -4,6 +4,654 @@
   "description": "Фразы о гаджетах и технологиях: телефоны, настройки, покупки, поломки. Для техники в быту и на работе.",
   "entries": [
     {
+      "id": "pbq_technologygadgets_0",
+      "word": "My phone battery barely survives until lunch.",
+      "translation": "Батарея моего телефона едва доживает до обеда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_1",
+      "word": "Did you remember the charger?",
+      "translation": "Ты не забыл зарядку?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_2",
+      "word": "This cable charges twice as fast as the old one.",
+      "translation": "Этот кабель заряжает вдвое быстрее старого.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_3",
+      "word": "Fast charging heats the battery noticeably.",
+      "translation": "Быстрая зарядка заметно греет батарею.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_4",
+      "word": "Battery health dropped below eighty percent.",
+      "translation": "Ёмкость батареи упала ниже восьмидесяти процентов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_5",
+      "word": "Replacing the battery costs less than a new phone.",
+      "translation": "Замена батареи дешевле нового телефона.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_6",
+      "word": "The screen cracked but touch still works.",
+      "translation": "Экран треснул, но сенсор работает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_7",
+      "word": "Screen protectors save screens and sanity.",
+      "translation": "Защитные стёкла спасают экраны и нервы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_8",
+      "word": "The camera quality convinced me to upgrade.",
+      "translation": "Качество камеры убедило меня обновить телефон.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_9",
+      "word": "Night mode photography changed everything.",
+      "translation": "Ночная съёмка изменила всё.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_10",
+      "word": "Storage full again, time to delete something.",
+      "translation": "Память опять забита — пора что-то удалить.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_11",
+      "word": "Cloud backups run automatically overnight.",
+      "translation": "Облачные резервные копии создаются автоматически ночью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_12",
+      "word": "I lost all my photos before learning about backups.",
+      "translation": "Я потерял все фото, прежде чем узнал про резервные копии.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_13",
+      "word": "Two-factor authentication saved my account once already.",
+      "translation": "Двухфакторная защита уже раз спасла мой аккаунт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_14",
+      "word": "Update tonight, it fixes the security hole.",
+      "translation": "Обновись сегодня — залатают дыру в безопасности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_15",
+      "word": "The update bricked my tablet last year.",
+      "translation": "Прошлое обновление превратило планшет в кирпич.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_16",
+      "word": "Restarting fixes eighty percent of problems.",
+      "translation": "Перезагрузка лечит восемьдесят процентов проблем.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_17",
+      "word": "Have you tried turning it off and on again?",
+      "translation": "Вы пробовали выключить и включить?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_18",
+      "word": "The warranty covers manufacturing defects for two years.",
+      "translation": "Гарантия покрывает заводские дефекты два года.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_19",
+      "word": "Water damage voids the warranty immediately.",
+      "translation": "Последствия воды гарантию аннулируют сразу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_20",
+      "word": "This model is water resistant, not waterproof.",
+      "translation": "Эта модель водостойкая, но не водонепроницаемая.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_21",
+      "word": "Headphone jacks disappeared and adapters multiplied.",
+      "translation": "Разъёмы для наушников исчезли, а переходники размножились.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_22",
+      "word": "Wireless earbuds vanish into sofa cushions mysteriously.",
+      "translation": "Беспроводные наушники таинственно исчезают в диванных подушках.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_23",
+      "word": "Noise cancelling makes flights bearable.",
+      "translation": "Шумоподавление делает перелёты терпимыми.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_24",
+      "word": "The microphone picks up my voice clearly on calls.",
+      "translation": "Микрофон чётко передаёт голос в звонках.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_25",
+      "word": "Bluetooth pairing fails at the worst moments.",
+      "translation": "Bluetooth отказывается сопрягаться в худший момент.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_26",
+      "word": "Forget the device and pair again from scratch.",
+      "translation": "Забудьте устройство и подключите заново с нуля.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_27",
+      "word": "Smart speakers listen for wake words only, supposedly.",
+      "translation": "Умные колонки слушают только активационную фразу, якобы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_28",
+      "word": "Smart plugs turn any lamp into automation.",
+      "translation": "Умные розетки превращают любую лампу в автоматизацию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_29",
+      "word": "The robot vacuum maps the flat and avoids stairs.",
+      "translation": "Робот-пылесос строит карту квартиры и боится лестниц.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_30",
+      "word": "It got stuck under the bed again.",
+      "translation": "Он опять застрял под кроватью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_31",
+      "word": "Fitness trackers count steps whether you trust them or not.",
+      "translation": "Фитнес-браслеты считают шаги независимо от вашего доверия.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_32",
+      "word": "Sleep tracking says I toss all night.",
+      "translation": "Трекер сна говорит, что я ворочаюсь всю ночь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_33",
+      "word": "Smartwatch battery lasts three days at best.",
+      "translation": "Батарея смарт-часов держится максимум три дня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_34",
+      "word": "Notifications buzz constantly unless you tame them.",
+      "translation": "Уведомления вибрируют без остановки, пока их не приручишь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_35",
+      "word": "Do not disturb mode is self-care.",
+      "translation": "Режим «не беспокоить» — это забота о себе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_36",
+      "word": "The keyboard keys started sticking after the spill.",
+      "translation": "Клавиши залипли после пролитого кофе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_37",
+      "word": "Mechanical keyboards last decades if maintained.",
+      "translation": "Механические клавиатуры живут десятилетия при уходе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_38",
+      "word": "External monitors double my productivity honestly.",
+      "translation": "Внешние мониторы честно удваивают продуктивность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_39",
+      "word": "The laptop fan screams during video calls.",
+      "translation": "Кулер ноутбука вопит во время видеозвонков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_40",
+      "word": "Thermal throttling slows everything down eventually.",
+      "translation": "Троттлинг со временем замедляет всё.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_41",
+      "word": "Cleaning the vents lowered temperatures dramatically.",
+      "translation": "Чистка вентиляторов резко снизила температуры.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_42",
+      "word": "SSD upgrades breathe new life into old laptops.",
+      "translation": "Апгрейд на SSD вдохнул жизнь в старый ноутбук.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_43",
+      "word": "RAM shortage shows up as constant disk swapping.",
+      "translation": "Нехватка оперативки проявляется постоянной загрузкой с диска.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_44",
+      "word": "The graphics card costs more than the rest of the PC.",
+      "translation": "Видеокарта стоит дороже остального компьютера.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_45",
+      "word": "Cable management behind the desk is a losing battle.",
+      "translation": "Порядок в проводах под столом — проигрышная битва.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_46",
+      "word": "Label your cables before regret teaches you why.",
+      "translation": "Подписывайте провода, пока не стало поздно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_47",
+      "word": "Universal serial bus became anything but universal.",
+      "translation": "USB давно перестал быть универсальным.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_48",
+      "word": "Adapters for adapters, welcome to modern ports.",
+      "translation": "Переходники для переходников — добро пожаловать в мир современных портов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_49",
+      "word": "The drone camera stabilises gimbal and software combined.",
+      "translation": "Камера дрона стабилизируется подвесом вместе с софтом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_50",
+      "word": "Register your products to extend warranty coverage.",
+      "translation": "Регистрируйте покупки, чтобы продлить гарантию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_51",
+      "word": "Refurbished devices carry the same warranty sometimes.",
+      "translation": "Восстановленные устройства иногда получают ту же гарантию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_52",
+      "word": "Black Friday deals reward research, not impulse.",
+      "translation": "Чёрная пятница вознаграждает исследование, а не импульс.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_53",
+      "word": "Read reviews from owners six months later.",
+      "translation": "Читайте отзывы владельцев спустя полгода.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_54",
+      "word": "Spec sheets hide real world performance.",
+      "translation": "Характеристики скрывают реальную производительность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_55",
+      "word": "Megapixels stopped mattering years ago.",
+      "translation": "Мегапиксели перестали иметь значение годы назад.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_56",
+      "word": "Processor generations matter more than clock speed.",
+      "translation": "Поколения процессоров важнее частоты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_57",
+      "word": "Compare benchmarks, not marketing slides.",
+      "translation": "Сравнивайте тесты производительности, а не маркетинговые слайды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_58",
+      "word": "The demo unit always runs smoother than yours will.",
+      "translation": "Демонстрационный образец всегда работает шустрее вашего.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_59",
+      "word": "E-waste recycling bins accept old cables too.",
+      "translation": "Контейнеры для электроники принимают и старые провода.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_60",
+      "word": "Donate working devices instead of hoarding drawers.",
+      "translation": "Отдавайте рабочие устройства, а не храните их в ящиках.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_61",
+      "word": "Factory reset wipes everything, triple check first.",
+      "translation": "Сброс к заводским стирает всё — проверьте трижды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_62",
+      "word": "Remove accounts before selling any device.",
+      "translation": "Удалите аккаунты перед продажей устройства.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_63",
+      "word": "Encryption protects data on lost phones.",
+      "translation": "Шифрование защищает данные на потерянных телефонах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_64",
+      "word": "Find my phone located it under the car seat.",
+      "translation": "Найти телефон определил его под сиденьем машины.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_65",
+      "word": "Screen time reports are mildly horrifying.",
+      "translation": "Отчёты о времени экрана слегка пугают.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_66",
+      "word": "Blue light filters supposedly improve sleep.",
+      "translation": "Синий свет, говорят, портит сон, а фильтры помогают.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_67",
+      "word": "Wireless charging pads clutter the nightstand differently.",
+      "translation": "Беспроводные зарядки захламляют прикроватную тумбочку по-новому.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_68",
+      "word": "Reverse charging tops up earbuds from the phone.",
+      "translation": "Обратная зарядка подзаряжает наушники от телефона.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_69",
+      "word": "Dual SIM separates work from life nicely.",
+      "translation": "Две SIM-карты удобно разделяют работу и жизнь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_70",
+      "word": "eSIM activation took one QR code scan.",
+      "translation": "Активация eSIM заняла одно сканирование QR-кода.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_71",
+      "word": "Roaming charges surprise even careful travellers.",
+      "translation": "Роуминг удивляет даже аккуратных путешественников.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_72",
+      "word": "Offline maps saved us in the mountains.",
+      "translation": "Офлайн-карты спасли нас в горах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_73",
+      "word": "The stylus writes like pen on paper now.",
+      "translation": "Стилус теперь пишет как ручка по бумаге.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_74",
+      "word": "Foldable screens crease where you fold them, obviously.",
+      "translation": "Гибкие экраны мнутся там, где складываются, естественно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_75",
+      "word": "Early adopters pay premium prices as beta testers.",
+      "translation": "Ранние последователи платят премиум как бета-тестеры.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_76",
+      "word": "Wait for the second generation of anything foldable.",
+      "translation": "Ждите второе поколение всего, что складывается.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_77",
+      "word": "The remote control lost itself somewhere again.",
+      "translation": "Пульт опять куда-то запропастился.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_78",
+      "word": "Voice assistants misunderstand accents charmingly.",
+      "translation": "Голосовые ассистенты очаровательно путают акценты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_79",
+      "word": "Parental controls limit screen time by schedule.",
+      "translation": "Родительский контроль ограничивает экранное время по расписанию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_80",
+      "word": "Kids crack passwords faster than adults admit.",
+      "translation": "Дети взламывают пароли быстрее, чем взрослые признают.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_81",
+      "word": "The projector turns any wall into a cinema.",
+      "translation": "Проектор превращает любую стену в кинотеатр.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_82",
+      "word": "Portable power banks rescue dying phones daily.",
+      "translation": "Портативные аккумуляторы ежедневно спасают умирающие телефоны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_83",
+      "word": "Solar chargers trickle power on cloudy hikes.",
+      "translation": "Солнечные панели еле-еле заряжают в пасходный поход.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_84",
+      "word": "Action cameras survive crashes that end phones.",
+      "translation": "Экшн-камеры переживают падения, убивающие телефоны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_85",
+      "word": "E-readers last weeks on one charge.",
+      "translation": "Электронные книги живут неделями на одном заряде.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_86",
+      "word": "E-ink reads fine in direct sunlight.",
+      "translation": "Электронные чернила читаются на прямом солнце.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_87",
+      "word": "The coffee machine connects to wifi, which says everything.",
+      "translation": "Кофемашина подключается к wi-fi, и это говорит обо всём.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_88",
+      "word": "Not every appliance needs internet access.",
+      "translation": "Далеко не каждому прибору нужен интернет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_89",
+      "word": "Smart features become dumb liabilities offline.",
+      "translation": "Умные функции офлайн превращаются в глупые обузы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_90",
+      "word": "Compatibility beats specifications every purchase.",
+      "translation": "Совместимость важнее характеристик при каждой покупке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_91",
+      "word": "Keep the boxes until the return window closes.",
+      "translation": "Храните коробки, пока не закрылось окно возврата.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_92",
+      "word": "Serial numbers live on receipts worth filing.",
+      "translation": "Серийные номера живут в чеках, которые стоит хранить.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_93",
+      "word": "Insurance covers theft but not carelessness.",
+      "translation": "Страховка покрывает кражу, но не беспечность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_94",
+      "word": "Technology serves you the moment you stop serving it.",
+      "translation": "Техника служит вам, когда вы перестаёте служить ей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_95",
+      "word": "The tablet replaced my stack of printed manuals.",
+      "translation": "Планшет заменил мою стопку распечатанных инструкций.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_96",
+      "word": "Stylus notes sync across devices instantly now.",
+      "translation": "Заметки стилусом мгновенно синхронизируются между устройствами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_97",
+      "word": "The keyboard dock turns tablets into laptops grudgingly.",
+      "translation": "Клавиатура-док неохотно превращает планшет в ноутбук.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_98",
+      "word": "Hubs multiply one port into seven compromises.",
+      "translation": "Хабы размножают один порт в семь компромиссов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_99",
+      "word": "Thunderbolt docks cost as much as budget monitors.",
+      "translation": "Доки Thunderbolt стоят как бюджетные мониторы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_100",
+      "word": "Monitor arms reclaim desk space heroically.",
+      "translation": "Кронштейны мониторов героически возвращают место на столе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_101",
+      "word": "The webcam cover tape is a lifestyle now.",
+      "translation": "Плейнштейн на камере — уже образ жизни.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_102",
+      "word": "Microphone quality matters more than camera resolution in meetings.",
+      "translation": "В созвонах качество микрофона важнее разрешения камеры.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_103",
+      "word": "Noise gate plugins mute keyboard clatter automatically.",
+      "translation": "Гейт шума автоматически глушит стук клавиатуры.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_104",
+      "word": "The presentation clicker batteries die mid-slide always.",
+      "translation": "Батарейки кликера всегда садятся посреди слайда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_105",
+      "word": "Presentation remotes work better with fresh batteries obviously.",
+      "translation": "Презентационные пульты лучше работают со свежими батарейками, очевидно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_106",
+      "word": "Cable testers save hours of blind debugging.",
+      "translation": "Тестеры кабелей экономят часы слепой отладки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_technologygadgets_107",
+      "word": "Label printers justify themselves in any server closet.",
+      "translation": "Принтеры этикеток оправдывают себя в любой серверной.",
+      "language": "en"
+    },
+    {
       "id": "pb_technologygadgets_0_0",
       "word": "Everyone was wearing headphones.",
       "translation": "Все были в наушниках.",

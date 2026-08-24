@@ -4,6 +4,606 @@
   "description": "Фразы о религии и духовности: вера, практики, праздники, философские беседы. Для межкультурных разговоров.",
   "entries": [
     {
+      "id": "pbq_religionspirituality_0",
+      "word": "Do you celebrate any religious holidays?",
+      "translation": "Ты отмечаешь какие-нибудь религиозные праздники?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_1",
+      "word": "Faith means different things to different people.",
+      "translation": "Вера значит разное для разных людей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_2",
+      "word": "The cathedral bells ring every hour.",
+      "translation": "Соборные колокола звонят каждый час.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_3",
+      "word": "Visitors should dress modestly inside the temple.",
+      "translation": "Посетителям стоит одеваться скромно внутри храма.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_4",
+      "word": "Shoes stay at the entrance of the mosque.",
+      "translation": "Обувь оставляют у входа в мечеть.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_5",
+      "word": "The service begins at nine on Sunday mornings.",
+      "translation": "Служба начинается в девять в воскресенье утром.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_6",
+      "word": "The choir sang so beautifully that people wept.",
+      "translation": "Хор пел так прекрасно, что люди плакали.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_7",
+      "word": "Candles flicker along the entire altar.",
+      "translation": "Свечи мерцают вдоль всего алтаря.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_8",
+      "word": "She lights a candle for her grandmother every visit.",
+      "translation": "Она ставит свечку за бабушку при каждом визите.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_9",
+      "word": "The monk rises before dawn for meditation.",
+      "translation": "Монах поднимается до рассвета для медитации.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_10",
+      "word": "Silence is part of the practice here.",
+      "translation": "Тишина — часть практики в этих местах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_11",
+      "word": "Pilgrims walk hundreds of kilometres on this route.",
+      "translation": "Паломники проходят сотни километров по этому маршруту.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_12",
+      "word": "The pilgrimage ends at the steps of the basilica.",
+      "translation": "Паломничество заканчивается на ступенях базилики.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_13",
+      "word": "Fasting teaches discipline more than hunger.",
+      "translation": "Пост учит дисциплине больше, чем голоду.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_14",
+      "word": "We break the fast together at sunset.",
+      "translation": "Мы разговляемся вместе на закате.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_15",
+      "word": "Ramadan shifts earlier every year on the calendar.",
+      "translation": "Рамадан каждый год сдвигается раньше по календарю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_16",
+      "word": "Easter is the most important feast for us.",
+      "translation": "Пасха — самый важный праздник для нас.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_17",
+      "word": "Christmas Eve dinner starts when the first star appears.",
+      "translation": "Ужин в Сочельник начинается с первой звездой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_18",
+      "word": "The menorah burns for eight nights.",
+      "translation": "Менора горит восемь вечеров подряд.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_19",
+      "word": "Diwali lights up the whole neighbourhood.",
+      "translation": "Дивали озаряет весь квартал.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_20",
+      "word": "The imam delivered a sermon about patience.",
+      "translation": "Имам произнёс проповедь о терпении.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_21",
+      "word": "The rabbi answered our questions for an hour.",
+      "translation": "Раввин целый час отвечал на наши вопросы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_22",
+      "word": "The priest blesses the fields every spring.",
+      "translation": "Священник освящает поля каждую весну.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_23",
+      "word": "Their wedding included vows from both traditions.",
+      "translation": "На их свадьбе прозвучали обеты обеих традиций.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_24",
+      "word": "Funerals here focus on celebrating a life.",
+      "translation": "Здесь на похоронах скорее празднуют жизнь человека.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_25",
+      "word": "Grief needs ritual as much as words.",
+      "translation": "Горю нужны ритуалы не меньше, чем слова.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_26",
+      "word": "The sacred text sits wrapped in cloth.",
+      "translation": "Священный текст завёрнут в ткань.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_27",
+      "word": "Passages are chanted rather than read aloud.",
+      "translation": "Отрывки поют, а не читают вслух.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_28",
+      "word": "Translation always loses something in scripture.",
+      "translation": "Перевод всегда что-то теряет в писании.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_29",
+      "word": "Interpretations differ even within one community.",
+      "translation": "Толкования расходятся даже внутри одной общины.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_30",
+      "word": "The elders gather to discuss the question.",
+      "translation": "Старейшины собираются обсудить этот вопрос.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_31",
+      "word": "Doubt is welcome in honest conversation.",
+      "translation": "Сомнение приветствуется в честном разговоре.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_32",
+      "word": "Agnostic does not mean indifferent.",
+      "translation": "Агностик — не значит равнодушный.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_33",
+      "word": "He identifies as spiritual but not religious.",
+      "translation": "Он называет себя духовным, но не религиозным.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_34",
+      "word": "Meditation calmed my mind more than arguments ever did.",
+      "translation": "Медитация успокоила мой разум сильнее любых споров.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_35",
+      "word": "Breathing slowly is harder than it sounds.",
+      "translation": "Медленно дышать сложнее, чем кажется.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_36",
+      "word": "The retreat bans phones for a whole week.",
+      "translation": "На ретрите запрещены телефоны всю неделю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_37",
+      "word": "Gratitude journaling changed my mornings.",
+      "translation": "Дневник благодарности изменил мои утра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_38",
+      "word": "Mindfulness simply means paying attention.",
+      "translation": "Осознанность — это просто внимание.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_39",
+      "word": "The bell marks the beginning and end of sitting.",
+      "translation": "Колокольчик отмечает начало и конец сидячей медитации.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_40",
+      "word": "Karma is often misunderstood as punishment.",
+      "translation": "Карму часто понимают как наказание, и зря.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_41",
+      "word": "Reincarnation raises more questions than it answers for me.",
+      "translation": "Реинкарнация порождает для меня больше вопросов, чем ответов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_42",
+      "word": "The lotus grows out of mud, which is the whole point.",
+      "translation": "Лотос растёт из грязи — в этом и смысл.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_43",
+      "word": "Their shrine overlooks the rice terraces.",
+      "translation": "Их алтарь смотрит на рисовые террасы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_44",
+      "word": "Offerings of fruit cover the small altar.",
+      "translation": "Маленький алтарь уставлен фруктовыми подношениями.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_45",
+      "word": "Incense smoke curls toward the ceiling paintings.",
+      "translation": "Дым благовоний вьётся к потолочным росписям.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_46",
+      "word": "The mosaic depicts scenes from the old testament.",
+      "translation": "Мозаика изображает сцены Ветхого Завета.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_47",
+      "word": "Stained glass turns sunlight into stories.",
+      "translation": "Витражи превращают солнечный свет в истории.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_48",
+      "word": "Icons are written, not painted, according to tradition.",
+      "translation": "По традиции иконы пишут, а не рисуют.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_49",
+      "word": "The bell tower offers a view of the whole valley.",
+      "translation": "С колокольни видна вся долина.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_50",
+      "word": "Sunday school taught us songs better than theology.",
+      "translation": "В воскресной школе нас учили песням лучше, чем теологии.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_51",
+      "word": "Confirmation classes met every Thursday evening.",
+      "translation": "Занятия для конфирмации проходили каждый четверг вечером.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_52",
+      "word": "Bar mitzvah preparations take years of study.",
+      "translation": "Подготовка к бар-мицве занимает годы учёбы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_53",
+      "word": "The mosque courtyard stays cool even in August.",
+      "translation": "Во дворе мечети прохладно даже в августе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_54",
+      "word": "Call to prayer echoes across the rooftops five times daily.",
+      "translation": "Призыв к молитве звучит над крышами пять раз в день.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_55",
+      "word": "Wudu stations line the entrance hall.",
+      "translation": "У входа выстроены места для омовения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_56",
+      "word": "Sikh temples serve free meals to anyone who comes.",
+      "translation": "Сикхские храмы кормят бесплатно всех приходящих.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_57",
+      "word": "Volunteering in the kitchen counts as worship there.",
+      "translation": "Работа на кухне считается служением.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_58",
+      "word": "Interfaith dialogues start with listening, not debating.",
+      "translation": "Межрелигиозные диалоги начинаются со слушания, а не споров.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_59",
+      "word": "We compared traditions and found more overlap than expected.",
+      "translation": "Мы сравнили традиции и нашли больше общего, чем ожидали.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_60",
+      "word": "Respect costs nothing and opens every door.",
+      "translation": "Уважение ничего не стоит и открывает все двери.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_61",
+      "word": "Ask before photographing any ceremony.",
+      "translation": "Спрашивай разрешения перед съёмкой любой церемонии.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_62",
+      "word": "Some rituals are closed to outsiders, and that is fine.",
+      "translation": "Некоторые ритуалы закрыты для чужих, и это нормально.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_63",
+      "word": "The spring festival celebrates renewal and forgiveness.",
+      "translation": "Весенний праздник посвящён обновлению и прощению.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_64",
+      "word": "Processions wind through the old town carrying lanterns.",
+      "translation": "Процессии с фонарями петляют по старому городу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_65",
+      "word": "Pilgrims tie ribbons to the ancient tree.",
+      "translation": "Паломники вяжут ленточки на древнее дерево.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_66",
+      "word": "The healing spring attracts believers and sceptics alike.",
+      "translation": "Целебный источник привлекает и верующих, и скептиков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_67",
+      "word": "Superstition and faith are not the same thing.",
+      "translation": "Суеверие и вера — не одно и то же.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_68",
+      "word": "My grandmother prayed every night without fail.",
+      "translation": "Бабушка молилась каждый вечер без пропусков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_69",
+      "word": "Her rosary worn smooth from decades of use.",
+      "translation": "Её чётки отполированы десятилетиями использования.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_70",
+      "word": "Prayer beads help some people focus.",
+      "translation": "Чётки помогают некоторым сосредоточиться.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_71",
+      "word": "Chanting synchronises breathing and voice.",
+      "translation": "Пение мантр синхронизирует дыхание и голос.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_72",
+      "word": "The gospel choir rehearsed late into the night.",
+      "translation": "Евангелический хор репетировал допоздна.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_73",
+      "word": "Sufi whirling looks like prayer in motion.",
+      "translation": "Суфийское кружение похоже на молитву в движении.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_74",
+      "word": "Gospel music carries sorrow and joy in the same verse.",
+      "translation": "В госпеле печаль и радость живут в одном куплете.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_75",
+      "word": "The organ filled the nave with sound.",
+      "translation": "Орган наполнил неф звуком.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_76",
+      "word": "Weddings in this church require months of preparation.",
+      "translation": "Свадьба в этой церкви требует месяцев подготовки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_77",
+      "word": "Baptisms happen on the first Sunday of the month.",
+      "translation": "Крещения проводят в первое воскресенье месяца.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_78",
+      "word": "Godparents take their promises seriously here.",
+      "translation": "Крёстные здесь серьёзно относятся к обещаниям.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_79",
+      "word": "Naming ceremonies differ wildly between cultures.",
+      "translation": "Церемонии наречения именем сильно различаются между культурами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_80",
+      "word": "Coming of age ceremonies mark responsibility, not just age.",
+      "translation": "Обряды взросления отмечают ответственность, а не только возраст.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_81",
+      "word": "The monastery accepts guests for weekend stays.",
+      "translation": "Монастырь принимает гостей на выходные.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_82",
+      "word": "Monastic life follows a strict schedule of prayer and work.",
+      "translation": "Монашеская жизнь подчинена строгому распорядку молитвы и труда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_83",
+      "word": "Vows of silence fascinate those of us who talk too much.",
+      "translation": "Обеты молчания завораживают таких болтунов, как я.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_84",
+      "word": "The abbot greeted us with unexpected humour.",
+      "translation": "Настоятель встретил нас неожиданным юмором.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_85",
+      "word": "Simple food tastes richer after a day of manual work.",
+      "translation": "Простая еда вкуснее после дня физического труда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_86",
+      "word": "Charity sits at the centre of every tradition I know.",
+      "translation": "Милосердие в центре каждой известной мне традиции.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_87",
+      "word": "Doctrine divides, kindness rarely does.",
+      "translation": "Доктрины разделяют, доброта — почти никогда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_88",
+      "word": "History records wars fought over interpretations.",
+      "translation": "История помнит войны за толкования.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_89",
+      "word": "Hopefully the next generation argues less and helps more.",
+      "translation": "Будем надеяться, следующее поколение будет меньше спорить и больше помогать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_90",
+      "word": "The cemetery paths are lined with century-old oaks.",
+      "translation": "Дорожки кладбища обрамлены вековыми дубами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_91",
+      "word": "Gravestone inscriptions preserve whole biographies in few words.",
+      "translation": "Надгробные надписи хранят целые биографии в нескольких словах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_92",
+      "word": "Remembrance matters to the living more than the dead.",
+      "translation": "Память нужна живым больше, чем умершим.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_93",
+      "word": "Every faith wrestles with the same hard questions.",
+      "translation": "Каждая вера борется с одними и теми же трудными вопросами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_94",
+      "word": "Meaning is built, not found ready-made.",
+      "translation": "Смысл строят, а не находят готовым.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_95",
+      "word": "The chapel stays open all night during exams week.",
+      "translation": "Часовня открыта всю ночь в экзаменационную неделю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_96",
+      "word": "Even atheists appreciate the architecture.",
+      "translation": "Даже атеисты ценят эту архитектуру.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_97",
+      "word": "The tour covers five places of worship in one afternoon.",
+      "translation": "Экскурсия охватывает пять храмов за один день.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_98",
+      "word": "Our guide explained each custom without judgement.",
+      "translation": "Гид объяснял каждый обычай без осуждения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_religionspirituality_99",
+      "word": "Curiosity turned out to be the best passport.",
+      "translation": "Любопытство оказалось лучшим паспортом.",
+      "language": "en"
+    },
+    {
       "id": "pb_religionspirituality_0_0",
       "word": "I'm a nun.",
       "translation": "Я монахиня.",

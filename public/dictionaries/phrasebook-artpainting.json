@@ -4,6 +4,630 @@
   "description": "Фразы о живописи и изобразительном искусстве: картины, стили, художники, выставки. Для галерей и разговора об искусстве.",
   "entries": [
     {
+      "id": "pbq_artpainting_0",
+      "word": "This painting catches my eye every time.",
+      "translation": "Эта картина каждый раз притягивает взгляд.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_1",
+      "word": "What do you see in this abstract piece?",
+      "translation": "Что ты видишь в этой абстракции?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_2",
+      "word": "The brushwork here is incredibly confident.",
+      "translation": "Мазки здесь невероятно уверенные.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_3",
+      "word": "I prefer landscapes to portraits.",
+      "translation": "Я предпочитаю пейзажи портретам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_4",
+      "word": "The colours blend softly near the horizon.",
+      "translation": "У горизонта цвета сливаются мягко.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_5",
+      "word": "Who painted this canvas?",
+      "translation": "Кто написал это полотно?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_6",
+      "word": "This gallery opens a new exhibition every month.",
+      "translation": "Эта галерея открывает новую выставку каждый месяц.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_7",
+      "word": "Even the frame is a work of art.",
+      "translation": "Даже рама здесь — произведение искусства.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_8",
+      "word": "Watercolour punishes hesitation because you cannot hide a mistake.",
+      "translation": "Акварель наказывает за нерешительность — ошибку не скрыть.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_9",
+      "word": "The still life looks simple until you try painting it.",
+      "translation": "Натюрморт выглядит простым, пока сам не попробуешь его написать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_10",
+      "word": "She works mostly with palette knives instead of brushes.",
+      "translation": "Она работает в основном мастихином, а не кистями.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_11",
+      "word": "The underpainting shows through in the shadows.",
+      "translation": "Подмалёвок просвечивает в тенях.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_12",
+      "word": "Glazing gives the sky that glowing depth.",
+      "translation": "Лессировка даёт небу это светящееся глубину.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_13",
+      "word": "Impressionists painted light rather than objects.",
+      "translation": "Импрессионисты писали свет, а не предметы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_14",
+      "word": "Cubism breaks faces into geometric planes.",
+      "translation": "Кубизм разбивает лица на геометрические плоскости.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_15",
+      "word": "Surrealism bends reality like a dream.",
+      "translation": "Сюрреализм изгибает реальность, как сон.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_16",
+      "word": "This portrait captures her stubbornness perfectly.",
+      "translation": "Этот портрет идеально передаёт её упрямство.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_17",
+      "word": "The artist left the background deliberately unfinished.",
+      "translation": "Художник нарочно оставил фон незавершённым.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_18",
+      "word": "Notice how the shadows lead your eye to the doorway.",
+      "translation": "Заметь, как тени ведут взгляд к двери.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_19",
+      "word": "My sketches stay loose because I overthink details.",
+      "translation": "Мои наброски остаются свободными, иначе я утону в деталях.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_20",
+      "word": "Perspective drawing starts with the horizon line.",
+      "translation": "Перспектива начинается с линии горизонта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_21",
+      "word": "The vanishing point sits just off centre.",
+      "translation": "Точка схода лежит чуть сбоку от центра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_22",
+      "word": "Mixing complementary colours makes clean greys.",
+      "translation": "Смешение комплементарных цветов даёт чистые серые.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_23",
+      "word": "Oil paint stays wet for days, which suits my pace.",
+      "translation": "Масло сохнет днями — это подходит моему темпу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_24",
+      "word": "Gouache dries matte and layers beautifully.",
+      "translation": "Гуашь высыхает матовой и красиво слоится.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_25",
+      "word": "Acrylics dry too fast for blending large skies.",
+      "translation": "Акрил сохнет слишком быстро для больших растяжек неба.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_26",
+      "word": "Stretching canvas properly saves cracks later.",
+      "translation": "Правильная натяжка холста избавит от трещин потом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_27",
+      "word": "Priming the canvas with gesso takes patience.",
+      "translation": "Грунтовка холста левкасом требует терпения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_28",
+      "word": "A limited palette actually simplifies colour decisions.",
+      "translation": "Ограниченная палитра упрощает выбор цветов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_29",
+      "word": "His early period looks nothing like his later work.",
+      "translation": "Его ранний период совсем не похож на поздние работы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_30",
+      "word": "The museum restored the varnish to its original clarity.",
+      "translation": "Музей восстановил лак до первоначальной прозрачности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_31",
+      "word": "Conservators cleaned centuries of grime off this panel.",
+      "translation": "Реставраторы сняли с этой доски века копоти.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_32",
+      "word": "Cracked paint tells the story of bad storage.",
+      "translation": "Растрескавшаяся краска рассказывает о плохом хранении.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_33",
+      "word": "This etching comes from a limited run of fifty.",
+      "translation": "Эта гравюра из тиража в пятьдесят оттисков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_34",
+      "word": "Lithography needs a completely different mindset than painting.",
+      "translation": "Литография требует совсем другого склада, чем живопись.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_35",
+      "word": "Street art deserves the same analysis as gallery pieces.",
+      "translation": "Стрит-арт заслуживает того же разбора, что и галерейные работы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_36",
+      "word": "Murals change how a whole neighbourhood feels.",
+      "translation": "Муралы меняют ощущение целого района.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_37",
+      "word": "The curator hung the small studies opposite the final canvas.",
+      "translation": "Куратор повесил этюды напротив итогового полотна.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_38",
+      "word": "Audio guides ruin the silence I come to galleries for.",
+      "translation": "Аудиогиды разрушают тишину, ради которой я хожу в галереи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_39",
+      "word": "We queued an hour for the Vermeer exhibition.",
+      "translation": "Мы стояли час к выставке Вермеера.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_40",
+      "word": "Photography is allowed without flash in this wing.",
+      "translation": "В этом крыле снимать можно без вспышки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_41",
+      "word": "The gift shop sells surprisingly good print reproductions.",
+      "translation": "В музейном магазине продают на удивление хорошие репродукции.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_42",
+      "word": "I bought this print at the student degree show.",
+      "translation": "Я купил этот принт на выпускной выставке студентов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_43",
+      "word": "Commissioning a portrait costs less than you think.",
+      "translation": "Заказать портрет дешевле, чем кажется.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_44",
+      "word": "The commission required three sittings and two revisions.",
+      "translation": "Над заказом было три сеанса и две правки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_45",
+      "word": "Art fairs overwhelm me within the first hour.",
+      "translation": "Арт-ярмарки утомляют меня уже через час.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_46",
+      "word": "Collectors rarely explain why they buy what they buy.",
+      "translation": "Коллекционеры редко объясняют, почему покупают именно это.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_47",
+      "word": "Provenance papers matter as much as the picture.",
+      "translation": "Документы происхождения важны не меньше самой картины.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_48",
+      "word": "This study sold for ten times its estimate.",
+      "translation": "Этот этюд ушёл в десять раз дороже оценки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_49",
+      "word": "The auction catalogue notes restretching and minor inpainting.",
+      "translation": "В аукционном каталоге отмечены перетяжка и небольшая реставрация.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_50",
+      "word": "Her studio smells of linseed oil and turpentine.",
+      "translation": "В её мастерской пахнет льняным маслом и скипидаром.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_51",
+      "word": "North light keeps colours true through the day.",
+      "translation": "Северный свет сохраняет верность цвета весь день.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_52",
+      "word": "I ruined a good canvas rushing the underdrawing.",
+      "translation": "Я испортил хороший холст, торопясь с рисунком.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_53",
+      "word": "Charcoal smudges if you forget the fixative.",
+      "translation": "Уголь смазывается, если забыть про фиксатив.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_54",
+      "word": "Contour drawing trains your eye faster than copying photos.",
+      "translation": "Рисунок контура тренирует глаз быстрее копирования фото.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_55",
+      "word": "Gesture drawing captures movement in thirty seconds.",
+      "translation": "Набросок позы ловит движение за тридцать секунд.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_56",
+      "word": "Value studies matter more than colour at this stage.",
+      "translation": "На этом этапе тональные эскизы важнее цвета.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_57",
+      "word": "Warm light pushes forward, cool light recedes.",
+      "translation": "Тёплый свет выступает, холодный уходит вглубь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_58",
+      "word": "Cast shadows anchor objects to the ground plane.",
+      "translation": "Падающие тени привязывают предметы к плоскости.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_59",
+      "word": "Reflected light in shadows keeps them alive.",
+      "translation": "Отражённый свет в тенях оставляет их живыми.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_60",
+      "word": "The golden section hides in half the classics.",
+      "translation": "Золотое сечение прячется в половине классики.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_61",
+      "word": "Rule of thirds is a crutch, but a useful one.",
+      "translation": "Правило третей — костыль, но полезный.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_62",
+      "word": "Negative space shapes the composition as much as the subject.",
+      "translation": "Негативное пространство формирует композицию не меньше объекта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_63",
+      "word": "Rhythm in painting comes from repeated angles.",
+      "translation": "Ритм в живописи рождается из повторяющихся углов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_64",
+      "word": "This seascape conveys wind better than any photograph.",
+      "translation": "Эта марина передаёт ветер лучше любой фотографии.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_65",
+      "word": "Botanical illustration demands almost scientific precision.",
+      "translation": "Ботаническая иллюстрация требует почти научной точности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_66",
+      "word": "Urban sketchers gather by the old bridge on Sundays.",
+      "translation": "Городские скетчеры собираются у старого моста по воскресеньям.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_67",
+      "word": "Plein air painting teaches you to decide fast.",
+      "translation": "Работа на пленэре учит быстро принимать решения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_68",
+      "word": "The rain destroyed my paper halfway through the sketch.",
+      "translation": "Дождь уничтожил мою бумагу посреди наброска.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_69",
+      "word": "Miniature painting tests patience like nothing else.",
+      "translation": "Миниатюра испытывает терпение как ничто другое.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_70",
+      "word": "Icon painting follows strict canonical rules.",
+      "translation": "Иконопись следует строгим каноническим правилам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_71",
+      "word": "Fresco must be finished before the plaster dries.",
+      "translation": "Фреску нужно закончить, пока не высохла штукатурка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_72",
+      "word": "Tempera gives that unmistakable matte luminosity.",
+      "translation": "Темпера даёт неповторимое матовое свечение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_73",
+      "word": "Pastels sit on the surface and demand glass.",
+      "translation": "Пастель лежит на поверхности и требует стекла.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_74",
+      "word": "Ink wash rewards bold single strokes.",
+      "translation": "Техника тушью награждает за смелые одиночные мазки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_75",
+      "word": "Collage lets me recycle failed drawings.",
+      "translation": "Коллаж позволяет спасти неудачные рисунки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_76",
+      "word": "Digital tablets mimic oils convincingly now.",
+      "translation": "Планшеты теперь убедительно имитируют масло.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_77",
+      "word": "Nothing replaces the resistance of real bristles on canvas.",
+      "translation": "Но ничто не заменит сопротивление настоящей щетины на холсте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_78",
+      "word": "Colour theory finally clicked after mixing my own wheel.",
+      "translation": "Теория цвета встала на место, когда я смешал свой круг.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_79",
+      "word": "Chroma and value are different conversations.",
+      "translation": "Насыщенность и тон — разные разговоры.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_80",
+      "word": "Muted backgrounds make the focal colour sing.",
+      "translation": "Приглушённый фон заставляет главный цвет звучать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_81",
+      "word": "This nude study respects anatomy without stiffness.",
+      "translation": "Этот этюд обнажённой фигуры уважает анатомию без скованности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_82",
+      "word": "Hands are harder than faces, always.",
+      "translation": "Руки всегда сложнее лиц.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_83",
+      "word": "Capturing likeness is ninety percent observation.",
+      "translation": "Сходство — это девяносто процентов наблюдения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_84",
+      "word": "The sitter fell asleep twice during the portrait.",
+      "translation": "Модель дважды заснула во время сеанса.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_85",
+      "word": "Self-portraits honest up quickly.",
+      "translation": "Автопортреты быстро становятся честными.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_86",
+      "word": "Art school taught me to defend every choice.",
+      "translation": "Художественная школа научила защищать каждое решение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_87",
+      "word": "Rejection letters from galleries make great bookmarks.",
+      "translation": "Отказы от галерей отлично работают закладками.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_88",
+      "word": "Social media flattened taste into trends.",
+      "translation": "Соцсети превратили вкус в тренды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_89",
+      "word": "Still, a good painting stops the scroll every time.",
+      "translation": "И всё же хорошая картина останавливает ленту каждый раз.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_90",
+      "word": "The docent explained the symbolism for twenty minutes.",
+      "translation": "Экскурсовод двадцать минут объяснял символику.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_91",
+      "word": "Children ask the best questions about modern art.",
+      "translation": "Дети задают лучшие вопросы о современном искусстве.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_92",
+      "word": "Is it art if nobody feels anything?",
+      "translation": "Это искусство, если никто ничего не чувствует?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_93",
+      "word": "Craftsmanship earns my respect before concept does.",
+      "translation": "Мастерство завоёвывает моё уважение раньше концепции.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_94",
+      "word": "This triptych reads left to right like a sentence.",
+      "translation": "Этот триптих читается слева направо, как предложение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_95",
+      "word": "The diptych hinges on the gap between panels.",
+      "translation": "Весь диптих держится на зазоре между створками.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_96",
+      "word": "Installations photograph better than they feel in person.",
+      "translation": "Инсталляции фотогеничнее, чем они ощущаются вживую.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_97",
+      "word": "Video art tests my patience unless the loop is short.",
+      "translation": "Видеоарт испытывает моё терпение, если цикл длинный.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_98",
+      "word": "Performance art lives in memory, not in collections.",
+      "translation": "Перформанс живёт в памяти, а не в коллекциях.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_99",
+      "word": "The retrospective traces forty years of doubt and daring.",
+      "translation": "Ретроспектива прослеживает сорок лет сомнений и смелости.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_100",
+      "word": "I left the museum with a sketchbook full of notes.",
+      "translation": "Я вышел из музея с блокнотом полным заметок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_101",
+      "word": "Copy the masters to learn, never to pass off as yours.",
+      "translation": "Копируй мастеров, чтобы учиться, но не чтобы выдавать за своё.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_102",
+      "word": "Every artist steals, then pays it back with interest.",
+      "translation": "Каждый художник заимствует, а потом возвращает с процентами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_artpainting_103",
+      "word": "Talent opens the door, but only hours keep you in the room.",
+      "translation": "Талант открывает дверь, но в комнате удерживают только часы работы.",
+      "language": "en"
+    },
+    {
       "id": "pb_artpainting_0_2",
       "word": "Is this your drawing?",
       "translation": "Это твой рисунок?",

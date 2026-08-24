@@ -4,6 +4,672 @@
   "description": "Фразы об империях и великих эпохах: власть, войны, расцвет и падение государств. Для любителей истории.",
   "entries": [
     {
+      "id": "pbq_historyempires_0",
+      "word": "The Roman Empire lasted roughly five centuries in the west.",
+      "translation": "Западная Римская империя просуществовала около пяти веков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_1",
+      "word": "All roads famously led to Rome.",
+      "translation": "Все дороги, как известно, вели в Рим.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_2",
+      "word": "Roman aqueducts still stand after two thousand years.",
+      "translation": "Римские акведуки стоят две тысячи лет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_3",
+      "word": "Legions marched on roads they built themselves.",
+      "translation": "Легионы шли по дорогам собственного строительства.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_4",
+      "word": "Caesar crossed the Rubicon and broke the republic.",
+      "translation": "Цезарь перешёл Рубикон и сломал республику.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_5",
+      "word": "The Senate declared emperors, then lost control of them.",
+      "translation": "Сенат возводил императоров, а потом терял над ними контроль.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_6",
+      "word": "Constantinople bridged Europe and Asia for a thousand years.",
+      "translation": "Константинополь тысячу лет соединял Европу и Азию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_7",
+      "word": "Byzantine diplomacy outlived Byzantine armies.",
+      "translation": "Византийская дипломатия пережила византийские армии.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_8",
+      "word": "Greek fire guarded the harbour walls.",
+      "translation": "Греческий огонь стражал стены гавани.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_9",
+      "word": "The Ottomans conquered Constantinople in fourteen fifty-three.",
+      "translation": "Османы взяли Константинополь в тысяча четыреста пятьдесят третьем.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_10",
+      "word": "Ottoman sultans ruled three continents at their peak.",
+      "translation": "Османские султаны на пике правили тремя континентами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_11",
+      "word": "The devshirme system raised officials from conquered families.",
+      "translation": "Система девширме растила чиновников из покорённых семей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_12",
+      "word": "Janissaries began as loyal slaves and ended as kingmakers.",
+      "translation": "Янычары начались верными рабами, а кончили вершителями судеб.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_13",
+      "word": "Suleiman the Magnificent codified laws as eagerly as he waged war.",
+      "translation": "Сулейман Великолепный кодифицировал законы столь же охотно, как вёл войны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_14",
+      "word": "The Mongol Empire covered the largest contiguous land ever.",
+      "translation": "Монгольская империя была крупнейшим сплошным государством в истории.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_15",
+      "word": "Genghis Khan united rival tribes through conquest and law.",
+      "translation": "Чингисхан объединил враждующие племена завоеванием и законом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_16",
+      "word": "Mongol couriers relayed messages across continents in days.",
+      "translation": "Монгольские гонцы доставляли сообщения через континенты за дни.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_17",
+      "word": "The Silk Road flourished under Mongol protection.",
+      "translation": "Шёлковый путь расцвёл под монгольской защитой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_18",
+      "word": "Trade spread plagues as efficiently as silk.",
+      "translation": "Торговля разносила моры так же эффективно, как шёлк.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_19",
+      "word": "Alexander built an empire faster than anyone could administer it.",
+      "translation": "Александр построил империю быстрее, чем смог ею управлять.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_20",
+      "word": "His generals divided the conquests like an inheritance.",
+      "translation": "Его полководцы разделили завоевания, как наследство.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_21",
+      "word": "Alexandria kept its library burning bright for centuries.",
+      "translation": "Александрия веками держала свою библиотеку горящей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_22",
+      "word": "The Persian Empire ran on roads and tolerance.",
+      "translation": "Персидская держава держалась на дорогах и веротерпимости.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_23",
+      "word": "Royal couriers crossed the empire in a week.",
+      "translation": "Царские курьеры пересекали державу за неделю.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_24",
+      "word": "Satraps governed provinces and paid tribute faithfully, usually.",
+      "translation": "Сатрапы управляли провинциями и платили дань исправно, обычно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_25",
+      "word": "The British Empire once governed a quarter of humanity.",
+      "translation": "Британская империя когда-то управляла четвертью человечества.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_26",
+      "word": "The sun never set on territories spanning every ocean.",
+      "translation": "Солнце не заходило над владениями во всех океанах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_27",
+      "word": "Naval power made island empires possible.",
+      "translation": "Морская сила сделала островные империи возможными.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_28",
+      "word": "Colonial administration often ruled through local elites.",
+      "translation": "Колониальные администрации часто правили через местных элит.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_29",
+      "word": "Railways built for extraction reshaped continents anyway.",
+      "translation": "Железные дороги для вывоза ресурсов всё равно перекроили континенты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_30",
+      "word": "Independence movements learned nationalism from their rulers.",
+      "translation": "Движения за независимость переняли национализм у самих властителей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_31",
+      "word": "Decolonisation redrew maps faster than conquest had.",
+      "translation": "Деколонизация перекроила карты быстрее завоеваний.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_32",
+      "word": "The Spanish Empire funded itself with American silver.",
+      "translation": "Испанская империя кормилась американским серебром.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_33",
+      "word": "Silver inflation wrecked Spanish finances eventually.",
+      "translation": "Серебряная инфляция в итоге подкосила испанские финансы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_34",
+      "word": "Armadas sink, empires adapt or collapse.",
+      "translation": "Армады тонут, а империи адаптируются или гибнут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_35",
+      "word": "The Habsburgs married their way across Europe.",
+      "translation": "Габсбурги женились по всей Европе вместо войн.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_36",
+      "word": "Bella gerant alii, tu felix Austria nube.",
+      "translation": "Пусть воюют другие, а ты, счастливая Австрия, выходи замуж.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_37",
+      "word": "Empires of inheritance fracture among heirs predictably.",
+      "translation": "Наследственные империи предсказуемо дробятся между наследниками.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_38",
+      "word": "The Austro-Hungarian compromise created a state of two crowns.",
+      "translation": "Австро-венгерский компромисс создал государство двух корон.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_39",
+      "word": "Nationalism dissolved multinational empires within decades.",
+      "translation": "Национализм растворил многонациональные империи за считанные десятилетия.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_40",
+      "word": "The Qing dynasty expanded into Central Asia aggressively.",
+      "translation": "Династия Цин агрессивно расширялась в Центральную Азию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_41",
+      "word": "The Opium Wars forced open Chinese ports.",
+      "translation": "Опиумные войны силой открыли китайские порты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_42",
+      "word": "Unequal treaties humiliated a proud civilisation.",
+      "translation": "Неравноправные договоры унизили гордую цивилизацию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_43",
+      "word": "The Meiji restoration industrialised Japan within a generation.",
+      "translation": "Реставрация Мэйдзи индустриализировала Японию за одно поколение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_44",
+      "word": "Japan defeated a European empire in nineteen oh five.",
+      "translation": "Япония победила европейскую державу в тысяча девятьсот пятом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_45",
+      "word": "Industrial capacity decided twentieth century wars.",
+      "translation": "Индустриальная мощь решала войны двадцатого века.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_46",
+      "word": "Empires rose on bronze, then iron changed everything.",
+      "translation": "Империи вставали на бронзе, потом железо всё изменило.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_47",
+      "word": "Assyria ruled through fear and deported populations.",
+      "translation": "Ассирия правила страхом и депортациями народов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_48",
+      "word": "Babylon fell in a single night, the chronicles claim.",
+      "translation": "Вавилон пал за одну ночь, утверждают хроники.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_49",
+      "word": "Egypt endured pharaohs for three thousand years.",
+      "translation": "Египет выдержал три тысячи лет фараонов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_50",
+      "word": "The Rosetta stone unlocked hieroglyphs for everyone.",
+      "translation": "Розеттский камень открыл иероглифы для всех.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_51",
+      "word": "Inca runners carried messages along mountain roads.",
+      "translation": "Инкские гонцы несли вести по горным дорогам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_52",
+      "word": "The Inca empire administered without writing or wheels.",
+      "translation": "Империя инков управлялась без письменности и колёс.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_53",
+      "word": "Spanish conquistadors arrived seeking gold and found empires.",
+      "translation": "Испанские конкистадоры искали золото, а нашли империи.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_54",
+      "word": "Smallpox conquered where armies struggled.",
+      "translation": "Оспа завоёвывала там, где вязли армии.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_55",
+      "word": "The Mali empire grew rich on gold and salt trade.",
+      "translation": "Империя Мали разбогатела на торговле золотом и солью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_56",
+      "word": "Mansa Musa devalued Cairo simply by spending there.",
+      "translation": "Манса Муса обесценил Каир одной лишь щедростью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_57",
+      "word": "Timbuktu became synonymous with distant learning.",
+      "translation": "Тимбукту стал синонимом далёкой учёности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_58",
+      "word": "Empires tax trade routes more profitably than farms.",
+      "translation": "Империи облагают торговые пути выгоднее, чем фермы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_59",
+      "word": "Ports outgrow palaces in the long run.",
+      "translation": "Порты в итоге перерастают дворцы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_60",
+      "word": "Venice ruled a maritime empire without conquering land.",
+      "translation": "Венеция правила морской империей, не завоёвывая земли.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_61",
+      "word": "The Venetian arsenal launched a ship a day at its peak.",
+      "translation": "Венецианский арсенал спускал корабль в день на пике.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_62",
+      "word": "Hanseatic merchants bound northern Europe in trade leagues.",
+      "translation": "Ганзейские купцы связали Северную Европу торговыми союзами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_63",
+      "word": "Merchant republics elected doges and dukes cautiously.",
+      "translation": "Купеческие республики осторожно избирали дожей и герцогов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_64",
+      "word": "Empires standardise weights, coins and calendars.",
+      "translation": "Империи стандартизируют меры, монеты и календари.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_65",
+      "word": "Standardisation quietly outlasts every army.",
+      "translation": "Стандартизация тихо переживает любую армию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_66",
+      "word": "Latin survived Rome as the language of learning.",
+      "translation": "Латынь пережила Рим как язык науки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_67",
+      "word": "Legal codes outlive the legislators who wrote them.",
+      "translation": "Правовые кодексы переживают своих законодателей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_68",
+      "word": "Justinian codified Roman law while plague raged.",
+      "translation": "Юстиниан кодифицировал римское право среди чумы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_69",
+      "word": "The Antonine plague weakened Rome at its height.",
+      "translation": "Антонинова чума ослабила Рим на самом подъёме.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_70",
+      "word": "Climate shifts pushed steppe riders westward repeatedly.",
+      "translation": "Смены климата снова и снова гнали степных всадников на запад.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_71",
+      "word": "Rivers birth capitals and betray them in floods.",
+      "translation": "Реки рождают столицы и предают их наводнениями.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_72",
+      "word": "Frontiers cost more than conquests ever earn.",
+      "translation": "Границы стоят дороже, чем приносят завоевания.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_73",
+      "word": "Overextension killed more empires than enemies did.",
+      "translation": "Чрезмерное расширение убило больше империй, чем враги.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_74",
+      "word": "Reform comes late or never, rarely on time.",
+      "translation": "Реформы приходят поздно или никогда, редко вовремя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_75",
+      "word": "Decline takes generations, collapse takes winters.",
+      "translation": "Упадок длится поколениями, крах — одну зиму.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_76",
+      "word": "Historians still argue why Rome fell.",
+      "translation": "Историки до сих пор спорят, почему пал Рим.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_77",
+      "word": "Probably a hundred reasons and no single villain.",
+      "translation": "Вероятно, причин сотня, и ни одного единственного злодея.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_78",
+      "word": "Archaeology rewrites textbooks every decade.",
+      "translation": "Археология переписывает учебники каждое десятилетие.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_79",
+      "word": "Amateur diggers found the Sutton Hoo treasure.",
+      "translation": "Клад Саттон-Ху нашли любители.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_80",
+      "word": "Museums display looted artefacts under growing scrutiny.",
+      "translation": "Музеи выставляют награбленные артефакты под всё большим вниманием.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_81",
+      "word": "Repatriation debates reshape museum politics today.",
+      "translation": "Споры о возвращении реликвий меняют музейную политику сегодня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_82",
+      "word": "Empire means different things to rulers and ruled.",
+      "translation": "Империя значит разное для правящих и управляемых.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_83",
+      "word": "Infrastructure outlives ideology.",
+      "translation": "Инфраструктура переживает идеологию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_84",
+      "word": "Aqueducts, roads and codes remain long after flags change.",
+      "translation": "Акведуки, дороги и кодексы остаются после смены флагов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_85",
+      "word": "History rhymes more than it repeats.",
+      "translation": "История скорее рифмуется, чем повторяется.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_86",
+      "word": "Primary sources beat patriotic legends.",
+      "translation": "Первичные источники достовернее патриотических легенд.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_87",
+      "word": "Read the victors and the vanquished, then compare notes.",
+      "translation": "Читайте и победителей, и побеждённых, затем сверяйте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_88",
+      "word": "Chronicles were written by survivors with agendas.",
+      "translation": "Хроники писали выжившие со своими задачами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_89",
+      "word": "Coins reveal empires that manuscripts forgot.",
+      "translation": "Монеты рассказывают об империях, забытых манускриптами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_90",
+      "word": "Border walls announce fear more than strength.",
+      "translation": "Пограничные стены говорят о страхе больше, чем о силе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_91",
+      "word": "Mercenaries defend territory, never loyalty.",
+      "translation": "Наёмники защищают территорию, но не проявляют верность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_92",
+      "word": "Succession crises topple thrones faster than invasions.",
+      "translation": "Кризисы престолонаследия валят троны быстрее вторжений.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_93",
+      "word": "Every empire believes it will be the exception.",
+      "translation": "Каждая империя верит, что станет исключением.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_94",
+      "word": "Maps in old atlases show ambitions, not realities.",
+      "translation": "Карты старых атласов показывают амбиции, а не реальность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_95",
+      "word": "Ruins attract tourists who would never salute the flag that built them.",
+      "translation": "Руины привлекают туристов, которые не salютовали бы флагу их построившему.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_96",
+      "word": "Grandeur photographs well; governance rarely does.",
+      "translation": "Величие фотогенично, управление — почти никогда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_97",
+      "word": "Study empires to notice the patterns repeating today.",
+      "translation": "Изучайте империи, чтобы замечать повторяющиеся узоры сегодня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_98",
+      "word": "The Khmer empire raised Angkor from jungle clay.",
+      "translation": "Кхмерская империя воздвигла Анкор из джунглевой глины.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_99",
+      "word": "Hydraulic cities rise and fall with their waterworks.",
+      "translation": "Гидравлические города встают и падают вместе с водопроводами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_100",
+      "word": "The Mali griots memorised king lists for centuries.",
+      "translation": "Малийские гриоты веками заучивали списки королей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_101",
+      "word": "Oral historians preserve what paper never recorded.",
+      "translation": "Устные историки хранят то, чего бумага не записала.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_102",
+      "word": "Austrian archdukes collected crowns like stamps.",
+      "translation": "Австрийские эрцгерцоги коллекционировали короны как марки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_103",
+      "word": "Every imperial museum hides disputed provenance somewhere.",
+      "translation": "В каждом имперском музее прячется спорное происхождение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_104",
+      "word": "The Berlin conference divided Africa with rulers on maps.",
+      "translation": "Берлинская конференция разделила Африку линейками по картам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_105",
+      "word": "Borders drawn in European capitals still bleed today.",
+      "translation": "Границы, прочерченные в европейских столицах, кровоточат до сих пор.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_106",
+      "word": "Gunpowder empires rose together and modernised apart.",
+      "translation": "Пороховые империи вставали вместе, а модернизировались порознь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_107",
+      "word": "Cannons breached walls that diplomacy had kept standing.",
+      "translation": "Пушки пробили стены, которые держала дипломатия.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_108",
+      "word": "Court chroniclers flattered, exiled poets told truths.",
+      "translation": "Придворные летописцы льстили, а сосланные поэты говорили правду.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_109",
+      "word": "Exile letters outlast court gazettes as sources.",
+      "translation": "Письма из ссылки переживают придворные газеты как источники.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_historyempires_110",
+      "word": "The Song dynasty invented paper money and market regulation.",
+      "translation": "Династия Сун изобрела бумажные деньги и регулирование рынков.",
+      "language": "en"
+    },
+    {
       "id": "pb_historyempires_0_0",
       "word": "The rebellion was suppressed.",
       "translation": "Восстание было подавлено.",

@@ -58,6 +58,10 @@ import { topups as tSim3 } from './core/topup-simracing3.mjs';
 import { topups as tSim4 } from './core/topup-simracing4.mjs';
 import { topups as tMsFinalFill } from './core/topup-ms-finalfill.mjs';
 
+// Fill-up batches for the thinnest phrasebooks (registered LAST so legacy
+// topics keep global-dedupe priority).
+import { artpainting, religionspirituality, sciencephysics, historyempires, technologygadgets, internetwebsites } from './core/fill-thin-a.mjs';
+
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
 const DICT_DIR = path.join(ROOT, 'public', 'dictionaries');
@@ -98,6 +102,13 @@ const TOPICS = {
   motorsportspectator,
   motorsportengineermechanic,
   simracing,
+  // thin-dictionary fill-ups (part A) — must stay LAST for dedupe priority
+  artpainting,
+  religionspirituality,
+  sciencephysics,
+  historyempires,
+  technologygadgets,
+  internetwebsites,
 };
 
 // Merge every top-up batch into its base topic (order: base phrases first).

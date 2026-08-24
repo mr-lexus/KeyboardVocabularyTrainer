@@ -4,6 +4,630 @@
   "description": "Фразы о физике и науке: материя, энергия, законы, эксперименты. Для учёбы и научно-популярных бесед.",
   "entries": [
     {
+      "id": "pbq_sciencephysics_0",
+      "word": "Gravity keeps our feet on the ground.",
+      "translation": "Гравитация держит наши ноги на земле.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_1",
+      "word": "Energy cannot be created or destroyed, only converted.",
+      "translation": "Энергия не создаётся и не исчезает, а лишь переходит.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_2",
+      "word": "Every action has an equal and opposite reaction.",
+      "translation": "Каждому действию есть равное противодействие.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_3",
+      "word": "The experiment failed, which is still a result.",
+      "translation": "Эксперимент провалился, но это тоже результат.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_4",
+      "word": "Always state your hypothesis before looking at the data.",
+      "translation": "Формулируй гипотезу до взгляда на данные.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_5",
+      "word": "The control group keeps the comparison honest.",
+      "translation": "Контрольная группа делает сравнение честным.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_6",
+      "word": "Repeat measurements reduce random error.",
+      "translation": "Повторные измерения снижают случайную погрешность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_7",
+      "word": "Correlation does not imply causation.",
+      "translation": "Корреляция не означает причинность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_8",
+      "word": "The sample size was too small to conclude anything.",
+      "translation": "Выборка слишком мала для выводов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_9",
+      "word": "Peer review exists to catch our mistakes.",
+      "translation": "Рецензирование существует, чтобы ловить наши ошибки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_10",
+      "word": "The paper was retracted after replication failed.",
+      "translation": "Статью отозвали, когда повторить результат не удалось.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_11",
+      "word": "Publishing negative results helps everyone.",
+      "translation": "Публикация отрицательных результатов полезна всем.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_12",
+      "word": "Light behaves as both wave and particle.",
+      "translation": "Свет ведёт себя и как волна, и как частица.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_13",
+      "word": "The double slit experiment still bends my mind.",
+      "translation": "Опыт с двумя щелями по-прежнему ломает мне голову.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_14",
+      "word": "Absolute zero equals minus two hundred seventy-three degrees Celsius.",
+      "translation": "Абсолютный нуль — это минус двести семьдесят три градуса Цельсия.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_15",
+      "word": "Entropy always increases in a closed system.",
+      "translation": "Энтропия в замкнутой системе только растёт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_16",
+      "word": "A perpetual motion machine violates thermodynamics.",
+      "translation": "Вечный двигатель нарушает термодинамику.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_17",
+      "word": "Speed of light sets the universal speed limit.",
+      "translation": "Скорость света задаёт предел скорости во Вселенной.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_18",
+      "word": "Time dilation sounds like science fiction until GPS proves it daily.",
+      "translation": "Замедление времени звучит как фантастика, пока GPS не доказывает его ежедневно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_19",
+      "word": "Mass and weight are not synonyms.",
+      "translation": "Масса и вес — не синонимы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_20",
+      "word": "Your weight changes on the Moon, your mass does not.",
+      "translation": "На Луне меняется вес, но не масса.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_21",
+      "word": "Acceleration is change in velocity over time.",
+      "translation": "Ускорение — это изменение скорости за время.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_22",
+      "word": "Friction converts motion into heat.",
+      "translation": "Трение превращает движение в тепло.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_23",
+      "word": "Momentum equals mass times velocity.",
+      "translation": "Импульс равен массе, умноженной на скорость.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_24",
+      "word": "The pendulum swings with predictable regularity.",
+      "translation": "Маятник качается с предсказуемой регулярностью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_25",
+      "word": "Resonance shattered the bridge, not wind alone.",
+      "translation": "Мост разрушил резонанс, а не только ветер.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_26",
+      "word": "Sound travels faster through water than air.",
+      "translation": "Звук быстрее распространяется в воде, чем в воздухе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_27",
+      "word": "Vacuum carries no sound at all.",
+      "translation": "В вакууме звук не распространяется вовсе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_28",
+      "word": "Static electricity builds up on dry winter days.",
+      "translation": "Статическое электричество копится сухими зимними днями.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_29",
+      "word": "Opposite charges attract, like charges repel.",
+      "translation": "Разноимённые заряды притягиваются, одноимённые отталкиваются.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_30",
+      "word": "Voltage drives current through resistance.",
+      "translation": "Напряжение гонит ток через сопротивление.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_31",
+      "word": "Ohm law ties voltage, current and resistance together.",
+      "translation": "Закон Ома связывает напряжение, ток и сопротивление.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_32",
+      "word": "Short circuits happen when current finds an easier path.",
+      "translation": "Короткое замыкание случается, когда ток находит лёгкий путь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_33",
+      "word": "Magnets always have two poles.",
+      "translation": "У магнита всегда два полюса.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_34",
+      "word": "Cutting a magnet in half makes two smaller magnets.",
+      "translation": "Разрежьте магнит — получите два меньших магнита.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_35",
+      "word": "Electromagnets switch on and off with current.",
+      "translation": "Электромагниты включаются и выключаются током.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_36",
+      "word": "Induction chargers transfer power without contact.",
+      "translation": "Индукционные зарядки передают энергию без контакта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_37",
+      "word": "Radio waves carry signals across continents.",
+      "translation": "Радиоволны переносят сигналы через континенты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_38",
+      "word": "Microwaves excite water molecules to heat food.",
+      "translation": "Микроволны раскачивают молекулы воды, нагревая еду.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_39",
+      "word": "X-rays pass through soft tissue but not bone.",
+      "translation": "Рентген проходит через мягкие ткани, но не кости.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_40",
+      "word": "Ultraviolet light causes sunburn.",
+      "translation": "Ультрафиолет вызывает солнечные ожоги.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_41",
+      "word": "Infrared cameras reveal heat signatures at night.",
+      "translation": "Инфракрасные камеры показывают тепловые следы ночью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_42",
+      "word": "Half-life measures radioactive decay rate.",
+      "translation": "Период полураспада измеряет скорость распада.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_43",
+      "word": "Carbon dating reads ages from isotopes.",
+      "translation": "Радиоуглеродный анализ определяет возраст по изотопам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_44",
+      "word": "Nuclear fusion powers the Sun.",
+      "translation": "Солнце питает термоядерный синтез.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_45",
+      "word": "Fusion produces less waste than fission.",
+      "translation": "Синтез даёт меньше отходов, чем деление.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_46",
+      "word": "Chain reactions require critical mass.",
+      "translation": "Цепная реакция требует критической массы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_47",
+      "word": "Quantum entanglement links particles across distance.",
+      "translation": "Квантовая запутанность связывает частицы на расстоянии.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_48",
+      "word": "Superposition means a particle holds multiple states at once.",
+      "translation": "Суперпозиция значит, что частица пребывает в нескольких состояниях сразу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_49",
+      "word": "Measurement itself disturbs the system.",
+      "translation": "Само измерение возмущает систему.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_50",
+      "word": "Uncertainty is built into nature, not just our instruments.",
+      "translation": "Неопределённость заложена в природе, а не только в приборах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_51",
+      "word": "Semiconductors conduct under precise conditions.",
+      "translation": "Полупроводники проводят ток при точных условиях.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_52",
+      "word": "Doping silicon changes its conductivity dramatically.",
+      "translation": "Легирование кремния резко меняет проводимость.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_53",
+      "word": "Transistors switch billions of times per second.",
+      "translation": "Транзисторы переключаются миллиарды раз в секунду.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_54",
+      "word": "Superconductors lose all electrical resistance when cooled.",
+      "translation": "Сверхпроводники теряют сопротивление при охлаждении.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_55",
+      "word": "Plasma is the fourth state of matter.",
+      "translation": "Плазма — четвёртое состояние вещества.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_56",
+      "word": "Liquid crystals flow like liquids but align like crystals.",
+      "translation": "Жидкие кристаллы текут как жидкости, но выстраиваются как кристаллы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_57",
+      "word": "Surface tension lets insects walk on water.",
+      "translation": "Благодаря поверхностному натяжению насекомые ходят по воде.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_58",
+      "word": "Capillary action pulls water up thin tubes.",
+      "translation": "Капиллярность поднимает воду по тонким трубкам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_59",
+      "word": "Pressure doubles every ten metres underwater.",
+      "translation": "Каждые десять метров под водой давление удваивается.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_60",
+      "word": "Archimedes shouted Eureka in his bathtub for a reason.",
+      "translation": "Архидед кричал «Эврика» в ванне не просто так.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_61",
+      "word": "Density decides whether objects float or sink.",
+      "translation": "Плотность решает, плавает предмет или тонет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_62",
+      "word": "Ice floats because freezing expands water.",
+      "translation": "Лёд плавает, потому что вода при замерзании расширяется.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_63",
+      "word": "Boiling point drops at high altitude.",
+      "translation": "Точка кипения падает на большой высоте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_64",
+      "word": "Evaporation cools whatever it leaves behind.",
+      "translation": "Испарение охлаждает то, что осталось.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_65",
+      "word": "Convection currents stir the atmosphere.",
+      "translation": "Конвекционные потоки перемешивают атмосферу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_66",
+      "word": "Metals conduct heat quickly, which is why handles stay cool.",
+      "translation": "Металлы быстро проводят тепло, поэтому ручки остаются прохладными.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_67",
+      "word": "Radiation transfers heat even through vacuum.",
+      "translation": "Излучение переносит тепло даже через вакуум.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_68",
+      "word": "The greenhouse effect is basic physics, not opinion.",
+      "translation": "Парниковый эффект — базовая физика, а не мнение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_69",
+      "word": "Kinetic energy grows with the square of speed.",
+      "translation": "Кинетическая энергия растёт квадратично со скоростью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_70",
+      "word": "Potential energy waits in the stretched spring.",
+      "translation": "Потенциальная энергия ждёт в растянутой пружине.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_71",
+      "word": "Work equals force times distance moved.",
+      "translation": "Работа равна силе, умноженной на перемещение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_72",
+      "word": "Power measures how fast work gets done.",
+      "translation": "Мощность измеряет быстроту совершения работы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_73",
+      "word": "Efficiency never reaches one hundred percent.",
+      "translation": "КПД никогда не достигает ста процентов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_74",
+      "word": "Waste heat escapes every engine.",
+      "translation": "Из каждого двигателя уходит тепло впустую.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_75",
+      "word": "Levers trade distance for force.",
+      "translation": "Рычаги меняют расстояние на силу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_76",
+      "word": "Pulleys multiply lifting power cheaply.",
+      "translation": "Блоки дёшево умножают подъёмную силу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_77",
+      "word": "Gears change speed into torque.",
+      "translation": "Шестерни превращают скорость в крутящий момент.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_78",
+      "word": "Centrifugal force pins you to the carousel wall.",
+      "translation": "Центробежная сила прижимает вас к стенке карусели.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_79",
+      "word": "Orbits are endless falling around a planet.",
+      "translation": "Орбиты — это бесконечное падение вокруг планеты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_80",
+      "word": "Escape velocity equals eleven kilometres per second from Earth.",
+      "translation": "Вторая космическая скорость с Земли — одиннадцать километров в секунду.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_81",
+      "word": "Tides follow the Moon more than the Sun.",
+      "translation": "Приливы зависят от Луны больше, чем от Солнца.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_82",
+      "word": "Eclipses happen because of cosmic coincidence in sizes.",
+      "translation": "Затмения возможны благодаря космическому совпадению размеров.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_83",
+      "word": "Telescopes collect light, they do not magnify alone.",
+      "translation": "Телескопы собирают свет, а не только увеличивают.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_84",
+      "word": "Redshift reveals an expanding universe.",
+      "translation": "Красное смещение выдаёт расширение Вселенной.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_85",
+      "word": "Cosmic microwave background is the oldest light we can detect.",
+      "translation": "Реликтовое излучение — древнейший доступный нам свет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_86",
+      "word": "Dark matter outweighs visible matter five to one.",
+      "translation": "Тёмная материя превосходит видимую в пять раз.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_87",
+      "word": "Dark energy accelerates cosmic expansion.",
+      "translation": "Тёмная энергия ускоряет расширение Вселенной.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_88",
+      "word": "Black holes bend light beyond escape.",
+      "translation": "Чёрные дыры искривляют свет так, что он не может вырваться.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_89",
+      "word": "Nothing escapes the event horizon.",
+      "translation": "За горизонт событий не выбирается ничто.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_90",
+      "word": "Spacetime curves around mass.",
+      "translation": "Пространство-время искривляется вокруг массы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_91",
+      "word": "Einstein published relativity as a patent clerk.",
+      "translation": "Эйнштейн опубликовал теорию относительности, будучи клерком в патентном бюро.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_92",
+      "word": "Newton invented calculus partly to explain planetary motion.",
+      "translation": "Ньютон придумал анализ отчасти для объяснения движения планет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_93",
+      "word": "Curie carried test tubes of radium in her pockets.",
+      "translation": "Кюри носила пробирки с радием в карманах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_94",
+      "word": "Science advances one funeral at a time, someone joked.",
+      "translation": "Наука продвигается похоронами за похоронами, пошутил кто-то.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_95",
+      "word": "A good experiment embarrasses the researcher first.",
+      "translation": "Хороший эксперимент сначала смущает самого исследователя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_96",
+      "word": "Models are maps, never the territory.",
+      "translation": "Модели — это карты, но не сама местность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_97",
+      "word": "Statistics can mislead when cherry-picked.",
+      "translation": "Статистика обманывает, если выбирать удобное.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_98",
+      "word": "Show me the error bars before the headline.",
+      "translation": "Сначала покажите погрешности, потом заголовки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_99",
+      "word": "Extraordinary claims require extraordinary evidence.",
+      "translation": "Исключительные заявления требуют исключительных доказательств.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_100",
+      "word": "The lab notebook matters more than memory.",
+      "translation": "Лабораторный журнал надёжнее памяти.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_101",
+      "word": "Calibrate the instrument before trusting a single reading.",
+      "translation": "Калибруй прибор, прежде чем доверять хоть одному показанию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_102",
+      "word": "Safety goggles exist because someone lost an eye.",
+      "translation": "Защитные очки существуют, потому что кто-то потерял глаз.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_sciencephysics_103",
+      "word": "Curiosity is the only prerequisite for physics.",
+      "translation": "Для физики нужно только любопытство.",
+      "language": "en"
+    },
+    {
       "id": "pb_sciencephysics_0_0",
       "word": "Don't force it.",
       "translation": "Не вышибайте его.",
