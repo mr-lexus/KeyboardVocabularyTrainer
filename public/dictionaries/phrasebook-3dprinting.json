@@ -1,0 +1,613 @@
+{
+  "id": "phrasebook-3dprinting",
+  "name": "3D Printing",
+  "description": "Фразы про 3D-печать: слайсеры, пластики, калибровка стола, типичные неудачи и их лечение.",
+  "entries": [
+    {
+      "id": "pbq_printing3d_0",
+      "word": "Level the bed before every first print.",
+      "translation": "Калибруйте стол перед каждой первой печатью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_1",
+      "word": "Paper slides under the nozzle with slight resistance.",
+      "translation": "Лист бумаги ходит под соплом с лёгким сопротивлением.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_2",
+      "word": "Auto bed levelling maps warped surfaces with probes.",
+      "translation": "Автокалибровка картографирует неровности стола щупом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_3",
+      "word": "First layers decide whether prints survive.",
+      "translation": "Первые слои решают судьбу печати.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_4",
+      "word": "Elephants foot spreads when bed temperatures run hot.",
+      "translation": "Слоновья нога расползается при перегретом столе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_5",
+      "word": "Z offset tweaks fix squished first lines.",
+      "translation": "Подстройка Z-offset чинит примятые первые линии.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_6",
+      "word": "Brim edges hold tall prints onto beds.",
+      "translation": "Кайма держит высокие модели на столе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_7",
+      "word": "Rafts sacrifice layers for difficult adhesion cases.",
+      "translation": "Поддерживающая плита жертвует слоями ради сложного сцепления.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_8",
+      "word": "Supports snap away from overhangs after printing.",
+      "translation": "Поддержки отламываются от нависаний после печати.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_9",
+      "word": "Overhangs beyond forty five degrees need support.",
+      "translation": "Нависания больше сорока пяти градусов требуют поддержки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_10",
+      "word": "Bridges span gaps when cooling works properly.",
+      "translation": "Мосты перекрывают пролёты, когда охлаждение работает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_11",
+      "word": "Part cooling fans solidify bridges before sagging.",
+      "translation": "Вентиляторы обдува твердеют мосты до провисания.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_12",
+      "word": "Stringing leaves cobwebs between travel moves.",
+      "translation": "Сопли оставляют паутину между перемещениями.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_13",
+      "word": "Retraction settings pull filament back during travels.",
+      "translation": "Ретракт втягивает пластик во время перемещений.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_14",
+      "word": "Temperature towers reveal ideal settings per filament.",
+      "translation": "Температурные башни выявляют идеальные настройки для пластика.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_15",
+      "word": "PLA prints easiest for absolute beginners.",
+      "translation": "PLA печатается проще всего для новичков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_16",
+      "word": "PETG resists heat and weather outdoors.",
+      "translation": "PETG терпит жару и погоду на улице.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_17",
+      "word": "ABS demands enclosures against warping drafts.",
+      "translation": "ABS требует закрытый корпус против коробления сквозняками.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_18",
+      "word": "ASA replaced ABS for outdoor UV resistance.",
+      "translation": "ASA заменил ABS там, где нужна стойкость к ультрафиолету.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_19",
+      "word": "TPU flexibles print slowly through direct drives.",
+      "translation": "Гибкий TPU печатается медленно через директ-экструдеры.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_20",
+      "word": "Bowden tubes struggle feeding flexible filaments.",
+      "translation": "Боуден-трубки плохо кормят гибкие пластики.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_21",
+      "word": "Nylon absorbs humidity straight from the air.",
+      "translation": "Нейлон впитывает влагу прямо из воздуха.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_22",
+      "word": "Wet filament sizzles and bubbles at the nozzle.",
+      "translation": "Влажный пластик шипит и пузырится у сопла.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_23",
+      "word": "Filament dryers bake moisture out overnight.",
+      "translation": "Сушилки для пластика выпекают влагу за ночь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_24",
+      "word": "Vacuum bags with desiccant store open spools.",
+      "translation": "Вакуумные пакеты с силикагелем хранят открытые катушки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_25",
+      "word": "Spool holders should rotate freely without snags.",
+      "translation": "Держатели катушек должны крутиться свободно, без заеданий.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_26",
+      "word": "Nozzle clogs clear with cold pulls technique.",
+      "translation": "Засоры сопла чистятся методом холодной протяжки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_27",
+      "word": "Brass nozzles suit PLA but wear on abrasives.",
+      "translation": "Латунные сопла любят PLA, но стираются абразивами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_28",
+      "word": "Hardened steel nozzles survive carbon fibre filaments.",
+      "translation": "Закалённые сопла выживают с карбоновыми пластиками.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_29",
+      "word": "Nozzle diameters trade detail against speed directly.",
+      "translation": "Диаметр сопла напрямую меняет детализацию на скорость.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_30",
+      "word": "Layer heights below nozzle diameter print poorly.",
+      "translation": "Высота слоя меньше диаметра сопла печатается плохо.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_31",
+      "word": "Zero point one two layers produce jewellery smoothness.",
+      "translation": "Слои в двенадцать сотых дают ювелирную гладкость.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_32",
+      "word": "Speed versus quality sliders tempt everyone initially.",
+      "translation": "Ползунки скорость-качество искушают всех поначалу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_33",
+      "word": "Slower outer walls sharpen surface details visibly.",
+      "translation": "Медленные внешние стенки заметно проявляют детали поверхности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_34",
+      "word": "Infill patterns balance strength against material use.",
+      "translation": "Заполнение балансирует прочность и расход пластика.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_35",
+      "word": "Gyroid infill distributes forces omnidirectionally elegantly.",
+      "translation": "Заполнение гироид элегантно распределяет силы во все стороны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_36",
+      "word": "Wall counts matter more than infill percentages usually.",
+      "translation": "Число периметров важнее процентов заполнения обычно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_37",
+      "word": "Slicer profiles encode community wisdom per printer.",
+      "translation": "Профили слайсера хранят мудрость сообщества для каждого принтера.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_38",
+      "word": "Test models calibrate flow rates precisely.",
+      "translation": "Тестовые модели точно калибруют поток экструзии.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_39",
+      "word": "Extruder steps calibrate against marked hundred millimetres.",
+      "translation": "Шаги экструдера калибруют по размеченным ста миллиметрам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_40",
+      "word": "Ghosting ripples echo across surfaces from fast direction changes.",
+      "translation": "Призрачные волны расходятся по поверхностям от резких смен направления.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_41",
+      "word": "Faster accelerations demand stiffer frames mechanically.",
+      "translation": "Большие ускорения требуют механически более жёстких рам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_42",
+      "word": "Belt tension checks precede every quality investigation.",
+      "translation": "Проверка натяжения ремней предшествует любому разбору качества.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_43",
+      "word": "Linear rails glide where V wheels wore grooves.",
+      "translation": "Линейные рельсы скользят там, где V-ролики продавливали канавки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_44",
+      "word": "Lead screws need greasing every few months.",
+      "translation": "Ходовые винты нуждаются в смазке каждые пару месяцев.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_45",
+      "word": "Print farm operators log every failure religiously.",
+      "translation": "Операторы ферм печати религиозно логируют каждый отказ.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_46",
+      "word": "Spaghetti detection pauses failed prints automatically now.",
+      "translation": "Детекция спагетти теперь сама ставит на паузу неудавшиеся печати.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_47",
+      "word": "Camera timelapses compress twelve hour prints into minutes.",
+      "translation": "Таймлапсы сжимают двенадцатичасовые печати в минуты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_48",
+      "word": "Purge lines prime colours between filament changes.",
+      "translation": "Линии продувки готовят цвета между сменами пластика.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_49",
+      "word": "Multicolour prints waste filament through purge towers.",
+      "translation": "Многоцветные печати жгут пластик через башни продувки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_50",
+      "word": "MMU systems juggle filaments with varying reliability.",
+      "translation": "Системы мультиматериала жонглируют пластиками с переменным успехом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_51",
+      "word": "Resin printers cure liquid photopolymers layer by layer.",
+      "translation": "Фотополимерные принтеры засвечивают жидкую смолу слой за слоем.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_52",
+      "word": "Resin prints wash in isopropyl alcohol afterwards.",
+      "translation": "Фотополимерные модели после печати моются в изопропиловом спирте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_53",
+      "word": "Uncured resin irritates skin through nitrile gloves eventually.",
+      "translation": "Незастывшая смола раздражает кожу даже сквозь нитриловые перчатки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_54",
+      "word": "Curing stations harden washed prints under UV light.",
+      "translation": "УФ-камеры досвечивают отмытые модели до твёрдости.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_55",
+      "word": "Resin fumes demand ventilation or carbon filters.",
+      "translation": "Пары смолы требуют вентиляции или угольных фильтров.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_56",
+      "word": "Miniatures from resin capture details filaments cannot.",
+      "translation": "Смоляные миниатюры ловят детали, недоступные филаменту.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_57",
+      "word": "Post processing sanding smooths layer lines away.",
+      "translation": "Шлифовка после печати сглаживает линии слоёв.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_58",
+      "word": "Primer coats reveal imperfections worth fixing early.",
+      "translation": "Грунт проявляет дефекты, которые стоит править рано.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_59",
+      "word": "Vapor smoothing melts ABS surfaces glossy with acetone.",
+      "translation": "Ацетоновый пар делает поверхность ABS глянцевой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_60",
+      "word": "Heat setting inserts embed brass threads permanently.",
+      "translation": "Паяльник с насадками вплавляет латунные резьбы навечно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_61",
+      "word": "Functional prints replace broken appliance parts heroically.",
+      "translation": "Функциональная печать героически заменяет сломанные части техники.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_62",
+      "word": "Parametric models resize through variables not remodelling.",
+      "translation": "Параметрические модели меняют размер переменными, без переделки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_63",
+      "word": "Open source model libraries host millions of files.",
+      "translation": "Библиотеки открытых моделей хранят миллионы файлов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_64",
+      "word": "Licence headers matter even for downloaded toys.",
+      "translation": "Лицензии важны даже для скачанных игрушек.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_65",
+      "word": "Slicing estimates lie optimistically about print times.",
+      "translation": "Оценки слайсера оптимистично врут про время печати.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_66",
+      "word": "Power failures resume prints from saved positions.",
+      "translation": "После отключения питания печать продолжается с сохранённой позиции.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_67",
+      "word": "Octoprint hosts remote monitoring through webcams.",
+      "translation": "OctoPrint даёт удалённый мониторинг через вебкамеры.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_68",
+      "word": "Enclosures trap heat and contain burning surprises.",
+      "translation": "Корпуса копят тепло и содержат горящие сюрпризы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_69",
+      "word": "Smoke detectors belong above every workshop printer.",
+      "translation": "Дымовые извещатели висят над каждым станочным принтером.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_70",
+      "word": "The first successful print hooks people permanently.",
+      "translation": "Первая удачная печать цепляет людей навсегда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_71",
+      "word": "Bed adhesion sprays coat glass surfaces thinly.",
+      "translation": "Спреи адгезии покрывают стекло тонким слоем.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_72",
+      "word": "Glue sticks work as release agents surprisingly well.",
+      "translation": "Клеевые карандаши неожиданно хорошо работают как разделитель.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_73",
+      "word": "Textured PEI sheets grip prints without adhesives.",
+      "translation": "Текстурированные PEI-столы держат модели без всяких клеёв.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_74",
+      "word": "Flexible plates pop finished prints off by bending.",
+      "translation": "Гибкие пластины отдают готовые печати изгибом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_75",
+      "word": "Print removal tools slide under edges like spatulas.",
+      "translation": "Лопатки для снятия проскальзывают под края как шпатели.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_76",
+      "word": "Warped corners lift when cooling pulls unevenly.",
+      "translation": "Загнутые углы поднимаются при неравномерном остывании.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_77",
+      "word": "Draft shields block room air from curling prints.",
+      "translation": "Защитные кожухи прячут модель от сквозняков, сворачивающих печать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_78",
+      "word": "Chamber heaters keep ambient temperatures stable for ABS.",
+      "translation": "Обогрев камеры держит температуру стабильной для ABS.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_79",
+      "word": "Cooling part fans hiss like tiny wind tunnels.",
+      "translation": "Вентиляторы охлаждения шипят как маленькие аэродинамические трубы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_80",
+      "word": "Fan ducts print as replacement parts for themselves.",
+      "translation": "Воздуховоды печатают replacement-детали для самих себя.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_81",
+      "word": "Printers printing printer parts delights everyone once.",
+      "translation": "Принтер, печатающий детали для принтера, радует каждого хотя бы раз.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_82",
+      "word": "Self replicating jokes aside, maintenance parts matter practically.",
+      "translation": "Шутки о саморепликации в сторону — запчасти имеют практическое значение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_83",
+      "word": "Extruder gears grip filament teeth clogged with debris.",
+      "translation": "Шестерни экструдера впиваются в пластик, забиваясь крошкой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_84",
+      "word": "Cold pulls extract degraded filament chunks cleanly.",
+      "translation": "Холодная протяжка чисто вытаскивает комки испорченного пластика.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_85",
+      "word": "Nozzle changes require hot tightening against leaks.",
+      "translation": "Смена сопла требует протяжки на горячую против протечек.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_86",
+      "word": "Leaking nozzles blob blobs onto future layers.",
+      "translation": "Протекающее сопло роняет капли на будущие слои.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_87",
+      "word": "Blob removal waits until nozzles cool completely.",
+      "translation": "Удаление наростов ждёт полного остывания сопла.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_88",
+      "word": "Heat creep softens filament above its melting zone.",
+      "translation": "Тепловой размягчает пластик выше зоны плавления.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_89",
+      "word": "Hotend fans failing announce themselves through jams.",
+      "translation": "Отказ вентилятора хотэнда объявляет себя заторами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_90",
+      "word": "Thermistor errors halt heating as safety features.",
+      "translation": "Ошибки термистора останавливают нагрев как мера безопасности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_91",
+      "word": "Thermal runaway protection prevents workshop fires seriously.",
+      "translation": "Защита от теплового разгона всерьёз предотвращает пожары.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_92",
+      "word": "Firmware safety limits exist because accidents happened.",
+      "translation": "Аппаратные лимиты существуют, потому что аварии случались.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_93",
+      "word": "Klipper firmware moves printers faster through host computing.",
+      "translation": "Прошивка Klipper разгоняет принтеры вычислениями на хосте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_94",
+      "word": "Input shaping cancels vibrations mathematically mid move.",
+      "translation": "Input shaping математически гасит вибрации прямо в движении.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_95",
+      "word": "Acceleration tuning transforms print speed ceilings dramatically.",
+      "translation": "Настройка ускорений драматично поднимает потолки скорости печати.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_96",
+      "word": "Pressure advance smooths corners against bulging seams.",
+      "translation": "Pressure advance приглаживает углы против вздутых швов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_97",
+      "word": "Seam placement hides zippers inside model corners.",
+      "translation": "Размещение шва прячет «молнии» внутри углов модели.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_98",
+      "word": "Randomised seams scatter imperfections into texture instead.",
+      "translation": "Случайный шов рассеивает несовершенства, превращая их в текстуру.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_99",
+      "word": "Vase mode spirals single continuous lines upward beautifully.",
+      "translation": "Режим вазы рисует одну непрерывную спираль вверх красиво.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_printing3d_100",
+      "word": "Vase mode prints sacrifice walls for speed and shine.",
+      "translation": "Режим вазы жертвует стенками ради скорости и блеска.",
+      "language": "en"
+    }
+  ]
+}

@@ -1,0 +1,619 @@
+{
+  "id": "phrasebook-boardgames",
+  "name": "Board Games",
+  "description": "Фразы для настольных игр: правила, компоненты, разговоры за столом, вечеринки и клубы.",
+  "entries": [
+    {
+      "id": "pbq_boardgames_0",
+      "word": "Whose turn is it anyway?",
+      "translation": "Чей вообще ход?",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_1",
+      "word": "Read the rulebook aloud while we set up.",
+      "translation": "Читай правила вслух, пока мы раскладываем.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_2",
+      "word": "The rulebook contradicts itself on page four.",
+      "translation": "Правила противоречат себе на четвёртой странице.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_3",
+      "word": "We house ruled this corner case years ago.",
+      "translation": "Мы закрыли этот спорный случай домашним правилом годы назад.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_4",
+      "word": "Shuffle properly, I saw that stack.",
+      "translation": "Перетасуй как следует — я видел эту стопку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_5",
+      "word": "Cut the deck before dealing please.",
+      "translation": "Сними колоду перед раздачей, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_6",
+      "word": "Roll for initiative, highest goes first.",
+      "translation": "Бросай за инициативу — первый ходит лучший.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_7",
+      "word": "That dice rolled off the table entirely.",
+      "translation": "Этот кубик укатился прямо со стола.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_8",
+      "word": "Reroll anything landing on the floor.",
+      "translation": "Всё, что упало на пол, перебрасывай.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_9",
+      "word": "I am drawing two cards and skipping combat.",
+      "translation": "Я беру две карты и пропускаю бой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_10",
+      "word": "Discard down to your hand limit.",
+      "translation": "Сбрось до лимита руки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_11",
+      "word": "Your worker cannot occupy an already claimed space.",
+      "translation": "Твой рабочий не может встать на занятую клетку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_12",
+      "word": "Place meeples only after resolving the tile.",
+      "translation": "Миппулы ставятся только после розыгрыша плитки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_13",
+      "word": "That resource conversion feels overpowered.",
+      "translation": "Эта конвертация ресурсов кажется имбовой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_14",
+      "word": "Engine building games reward early economy.",
+      "translation": "Игры про движок награждают раннюю экономику.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_15",
+      "word": "Area control scores majority in each region.",
+      "translation": "Контроль зон приносит очки за большинство в регионах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_16",
+      "word": "Deckbuilding means thinning your deck matters.",
+      "translation": "Декбилдинг значит, что чистка колоды важна.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_17",
+      "word": "Drafting passes hands until cards run out.",
+      "translation": "Драфт идёт по кругу, пока карты не кончатся.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_18",
+      "word": "Worker placement blocks everyone else from that action.",
+      "translation": "Размещение рабочих блокирует другим это действие.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_19",
+      "word": "Cooperative games beat us again last night.",
+      "translation": "Кооператив опять обыграл нас вчера.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_20",
+      "word": "The traitor mechanic ruins friendships beautifully.",
+      "translation": "Механика предателя красиво рушит дружбы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_21",
+      "word": "Hidden roles keep everyone suspicious until reveal.",
+      "translation": "Скрытые роли держат всех в подозрениях до вскрытия.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_22",
+      "word": "Legacy games permanently alter components as you play.",
+      "translation": "Легаси-игры навсегда меняют компоненты по ходу партии.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_23",
+      "word": "Campaign games save progress between sessions.",
+      "translation": "Кампании сохраняют прогресс между партиями.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_24",
+      "word": "Our campaign stalled because Pete moved cities.",
+      "translation": "Наша кампания встала, потому что Пит переехал.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_25",
+      "word": "Never splitting the party applies to board games too.",
+      "translation": "«Не разделяй группу» работает и в настолках.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_26",
+      "word": "Table talk counts as gameplay in negotiation games.",
+      "translation": "Столовые переговоры — часть геймплея в играх о сделках.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_27",
+      "word": "Backstabbing is legal, sulking is not.",
+      "translation": "Предательства разрешены, дуться — нет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_28",
+      "word": "Kingmaking ruins competitive integrity at four players.",
+      "translation": "Кингмейкинг рушит честность борьбы при четырёх игроках.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_29",
+      "word": "Play the player, not just the pieces.",
+      "translation": "Играй против человека, а не только против фишек.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_30",
+      "word": "Analysis paralysis struck our newest player hard.",
+      "translation": "Аналитический паралич крепко схватил нашего новичка.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_31",
+      "word": "Use a timer for turns when overthinking threatens.",
+      "translation": "Ставьте таймер на ходы, когда нависает долгое обдумывание.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_32",
+      "word": "Think aloud so others can plan meanwhile.",
+      "translation": "Думайте вслух, чтобы остальные планировали параллельно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_33",
+      "word": "Score tracking pencils live in the box lid.",
+      "translation": "Карандаши для подсчёта живут в крышке коробки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_34",
+      "word": "Tally end game scoring twice to avoid arguments.",
+      "translation": "Считайте финальные очки дважды во избежание споров.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_35",
+      "word": "Tiebreakers favour earlier position usually.",
+      "translation": "При ничьей обычно выигрывает более ранний порядок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_36",
+      "word": "First player token rotates clockwise every round.",
+      "translation": "Жетон первого игрока идёт по часовой каждый раунд.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_37",
+      "word": "Round tracker advanced, three rounds remain.",
+      "translation": "Счётчик раундов сдвинулся — осталось три раунда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_38",
+      "word": "The event deck flips at dusk every cycle.",
+      "translation": "Колода событий открывается в сумерках каждого цикла.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_39",
+      "word": "Resource scarcity drives every tough decision here.",
+      "translation": "Нехватка ресурсов стоит за каждым сложным решением.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_40",
+      "word": "Tempo versus value debates never resolve.",
+      "translation": "Споры темпа против ценности никогда не кончаются.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_41",
+      "word": "Card advantage compounds like interest.",
+      "translation": "Преимущество по картам растёт как проценты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_42",
+      "word": "Burning cards for fuel hurts but wins races.",
+      "translation": "Сжигать карты ради топлива больно, но выигрывает гонки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_43",
+      "word": "Mulligan rules allow one free redraw.",
+      "translation": "Правила муллигана дают одну бесплатную замену руки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_44",
+      "word": "Stack the discard pile neatly for reshuffling.",
+      "translation": "Складывайте сброс аккуратно для пересборки колоды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_45",
+      "word": "Tokens spilled everywhere demand bag storage.",
+      "translation": "Рассыпанные жетоны требуют хранения в мешочках.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_46",
+      "word": "Plastic bags sorted by component save setup minutes.",
+      "translation": "Пакетики по компонентам экономят минуты на подготовке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_47",
+      "word": "Inserts organise boxes but cramp sleeved cards.",
+      "translation": "Органайзеры удобны, но тесны для карт в рукавах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_48",
+      "word": "Sleeving cards protects them and doubles thickness.",
+      "translation": "Рукава защищают карты и удваивают их толщину.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_49",
+      "word": "Sleeve quality matters for shuffling comfort.",
+      "translation": "Качество рукавов важно для удобства тасования.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_50",
+      "word": "Mat surfaces dampen dice clatter at midnight.",
+      "translation": "Коврики глушат стук кубиков в полночь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_51",
+      "word": "Dice towers settle rolling disputes instantly.",
+      "translation": "Башни для кубиков мгновенно гасят споры о бросках.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_52",
+      "word": "Loaded dice accusations require actual evidence friends.",
+      "translation": "Обвинения в шулерстве требуют доказательств, друзья.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_53",
+      "word": "House rules get written down or forgotten into fights.",
+      "translation": "Домашние правила записывают, иначе они превращаются в ссоры.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_54",
+      "word": "Rule disputes pause play for five minutes maximum.",
+      "translation": "Споры о правилах ставят игру на паузу максимум пять минут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_55",
+      "word": "When rules fail, vote and continue playing.",
+      "translation": "Когда правила молчат — голосуем и играем дальше.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_56",
+      "word": "Designer notes clarify most ambiguous cases.",
+      "translation": "Примечания автора проясняют большинство спорных случаев.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_57",
+      "word": "FAQ documents answer tournament level questions.",
+      "translation": "FAQ отвечает на вопросы турнирного уровня.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_58",
+      "word": "Errata cards fix printing mistakes officially.",
+      "translation": "Карточки исправлений официально чинят опечатки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_59",
+      "word": "Kickstarter deliveries arrive years after promises.",
+      "translation": "Посылки с Kickstarter приходят через годы после обещаний.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_60",
+      "word": "Miniatures arrive unassembled and unpainted deliberately.",
+      "translation": "Миниатюры приходят несобранными и некрашеными намеренно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_61",
+      "word": "Painting minis became its own hobby honestly.",
+      "translation": "Покраска миниатюр стала отдельным хобби, честно говоря.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_62",
+      "word": "Grey plastic armies shame nobody at casual tables.",
+      "translation": "Серые пластиковые армии никого не стыдят за казуальными столами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_63",
+      "word": "Table space requirements scare apartment dwellers.",
+      "translation": "Требования к пространству пугают жителей квартир.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_64",
+      "word": "Kitchen tables host more epic campaigns than any hall.",
+      "translation": "Кухонные столы видели больше эпичных кампаний, чем любые залы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_65",
+      "word": "Snacks and board games share an oily history.",
+      "translation": "Снеки и настолки связаны жирной историей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_66",
+      "word": "Greasy fingers stay away from card sleeves please.",
+      "translation": "Жирные пальцы подальше от карт в рукавах, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_67",
+      "word": "Cupholders belong nowhere near the game board.",
+      "translation": "Подстаканники не имеют места возле игрового поля.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_68",
+      "word": "Caffeine fuels marathon sessions of heavy strategy games.",
+      "translation": "Кофеин питает марафоны тяжёлых стратегий.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_69",
+      "word": "Eight hour games need scheduled food breaks.",
+      "translation": "Восьмичасовым играм нужны перерывы на еду по расписанию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_70",
+      "word": "Game nights rotate hosts to share cleanup duties.",
+      "translation": "Игровые вечера ротируют хозяев ради справедливой уборки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_71",
+      "word": "Library game cafes charge per table hourly.",
+      "translation": "Настольные кафе берут почасово за стол.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_72",
+      "word": "Learn to play sessions welcome total beginners warmly.",
+      "translation": "Обучающие партии тепло принимают полных новичков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_73",
+      "word": "Teaching while losing gracefully earns respect.",
+      "translation": "Обучать, красиво проигрывая, — искусство, вызывающее уважение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_74",
+      "word": "Experienced players handicap themselves with worse factions.",
+      "translation": "Опытные игроки берут слабые фракции ради баланса.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_75",
+      "word": "Tournament brackets pair sixteen players cleanly.",
+      "translation": "Турнирные сетки аккуратно устраивают шестнадцать игроков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_76",
+      "word": "Swiss rounds pair similar win records together.",
+      "translation": "Швейцарская система сводит игроков с равными результатами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_77",
+      "word": "Byes award free wins to odd numbered fields.",
+      "translation": "Технические победы достаются лишним при нечётном числе участников.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_78",
+      "word": "Judge calls settle disputes faster than table votes.",
+      "translation": "Судьи решают споры быстрее голосований за столом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_79",
+      "word": "Slow play penalties exist for good reasons.",
+      "translation": "Штрафы за затягивание существуют не просто так.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_80",
+      "word": "Card games legally distinguish public and hidden information.",
+      "translation": "Карточные игры юридически различают открытую и скрытую информацию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_81",
+      "word": "Bluffing poker faces transfer poorly to family games.",
+      "translation": "Покерные блеф-лица плохо работают в семейных играх.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_82",
+      "word": "Party games laugh at strategy veterans hilariously.",
+      "translation": "Пати-игры веселятся над ветеранами стратегий.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_83",
+      "word": "Charades needs no board, just shameless acting.",
+      "translation": "Крокодилу не нужна доска — только бесстыдная актёрская игра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_84",
+      "word": "Word games spark dictionary arguments at midnight.",
+      "translation": "Словесные игры зажигают споры со словарём в полночь.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_85",
+      "word": "Proper nouns never count, house rules aside.",
+      "translation": "Имена собственные не считаются, что ни говори.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_86",
+      "word": "Tile placement games punish hoarding space greedily.",
+      "translation": "Игры с выкладкой плиток наказывают жадность к месту.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_87",
+      "word": "Route building connects cities for satisfying chains.",
+      "translation": "Построение маршрутов связывает города в приятные цепочки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_88",
+      "word": "Ticket completion pays big but risks big losses.",
+      "translation": "Выполненные контракты платят много, но провал бьёт больно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_89",
+      "word": "Pick short routes early for safe points.",
+      "translation": "Берите короткие маршруты рано ради безопасных очков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_90",
+      "word": "Blocking opponents costs you tempo too.",
+      "translation": "Блокировка соперников стоит вам же темпа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_91",
+      "word": "Passing early banks bonuses sometimes.",
+      "translation": "Иногда ранний пас приберегает бонусы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_92",
+      "word": "Final scoring reveals surprise winners regularly.",
+      "translation": "Финальный подсчёт регулярно выдаёт неожиданных победителей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_93",
+      "word": "Engine points hide behind innocent farm fences.",
+      "translation": "Очки прячутся за невинными заборами ферм.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_94",
+      "word": "Nobody suspects the quiet grain farmer until scoring.",
+      "translation": "Никто не подозревает тихого фермера до подсчёта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_95",
+      "word": "Rematch demands echo across the table immediately.",
+      "translation": "Требования реванша звучат через стол немедленно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_96",
+      "word": "Best games end close enough to argue about.",
+      "translation": "Лучшие партии заканчиваются так близко, что хочется спорить.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_97",
+      "word": "A loss by two points stings better than any victory lap.",
+      "translation": "Проигрыш в два очка щемит сердце лучше победного марша.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_98",
+      "word": "Box art promises adventures the rules deliver slowly.",
+      "translation": "Коробочное искусство обещает приключения, которые правила выдают медленно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_99",
+      "word": "Reading rules beforehand doubles first game enjoyment.",
+      "translation": "Прочитанные заранее правила удваивают удовольствие от первой партии.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_100",
+      "word": "Watch a rules video instead if reading bores you.",
+      "translation": "Посмотрите видеообзор, если чтение навевает скуку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_boardgames_101",
+      "word": "Every group develops its own house culture eventually.",
+      "translation": "У каждой компании со временем своя культура игры.",
+      "language": "en"
+    }
+  ]
+}

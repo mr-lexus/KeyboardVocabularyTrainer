@@ -1,0 +1,655 @@
+{
+  "id": "phrasebook-smarthomeiot",
+  "name": "Smart Home & IoT",
+  "description": "Фразы про умный дом: устройства, хабы, автоматизации, протоколы, поиск неисправностей.",
+  "entries": [
+    {
+      "id": "pbq_smarthomeiot_0",
+      "word": "Turn on the living room lights please.",
+      "translation": "Включи свет в гостиной, пожалуйста.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_1",
+      "word": "Dim the bedroom lights to forty percent.",
+      "translation": "Приглуши свет в спальне до сорока процентов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_2",
+      "word": "Set the thermostat to twenty one degrees.",
+      "translation": "Установи термостат на двадцать один градус.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_3",
+      "word": "The thermostat lowers temperature when nobody home.",
+      "translation": "Термостат снижает температуру, когда дома никого нет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_4",
+      "word": "Geofencing arms the alarm when we leave.",
+      "translation": "Геозона ставит сигнализацию, когда мы уходим.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_5",
+      "word": "Motion sensors trigger hallway lights at night.",
+      "translation": "Датчики движения зажигают свет в коридоре ночью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_6",
+      "word": "The doorbell camera caught a parcel thief yesterday.",
+      "translation": "Камера дверного звонка вчера поймала похитителя посылок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_7",
+      "word": "Door sensors notify phones when left open.",
+      "translation": "Датчики дверей уведомляют телефон, если дверь открыта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_8",
+      "word": "Water leak detectors saved our basement twice.",
+      "translation": "Датчики протечки дважды спасли наш подвал.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_9",
+      "word": "Smart plugs make dumb lamps schedulable.",
+      "translation": "Умные розетки делают обычные лампы программируемыми.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_10",
+      "word": "Schedule the coffee maker for six thirty.",
+      "translation": "Запрограммируй кофеварку на шесть тридцать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_11",
+      "word": "Robot vacuums map floors and dodge socks.",
+      "translation": "Роботы-пылесосы строят карты этажей и объезжают носки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_12",
+      "word": "The vacuum dock empties itself into a bag now.",
+      "translation": "Док пылесоса теперь сам опустошается в мешок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_13",
+      "word": "Air quality monitors track CO2 and humidity.",
+      "translation": "Мониторы воздуха следят за CO2 и влажностью.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_14",
+      "word": "Humidity below thirty percent cracks wooden furniture.",
+      "translation": "Влажность ниже тридцати процентов сушит деревянную мебель.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_15",
+      "word": "Smart blinds close against afternoon glare automatically.",
+      "translation": "Умные жалюзи сами закрываются от послеполуденного блика.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_16",
+      "word": "Voice assistants mispronounce unfamiliar device names charmingly.",
+      "translation": "Голосовые ассистенты очаровательно коверкают незнакомые имена устройств.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_17",
+      "word": "Rename devices clearly or routines never find them.",
+      "translation": "Называйте устройства понятно, иначе сценарии их не найдут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_18",
+      "word": "Room assignments matter for voice commands.",
+      "translation": "Привязка к комнатам важна для голосовых команд.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_19",
+      "word": "Hubs translate protocols between incompatible devices.",
+      "translation": "Хабы переводят протоколы между несовместимыми устройствами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_20",
+      "word": "Zigbee meshes strengthen through mains powered repeaters.",
+      "translation": "Zigbee-сеть крепнет через повторители с постоянным питанием.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_21",
+      "word": "Battery sensors refuse acting as mesh routers.",
+      "translation": "Батарейные датчики отказываются работать маршрутизаторами сети.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_22",
+      "word": "Z-Wave networks prefer fewer hops than seven.",
+      "translation": "Z-Wave сети предпочитают меньше семи перескоков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_23",
+      "word": "Matter promises cross brand compatibility finally.",
+      "translation": "Matter наконец обещает совместимость между брендами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_24",
+      "word": "Thread devices form self healing mesh networks.",
+      "translation": "Thread-устройства образуют самовосстанавливающиеся сети.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_25",
+      "word": "Wi-Fi devices crowd routers beyond comfortable limits.",
+      "translation": "Wi-Fi устройства переполняют роутеры сверх комфортных лимитов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_26",
+      "word": "Separate IoT VLANs isolate gadgets from laptops.",
+      "translation": "Отдельный VLAN изолирует гаджеты от ноутбуков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_27",
+      "word": "Firmware updates patch security holes silently.",
+      "translation": "Обновления прошивок тихо закрывают дыры безопасности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_28",
+      "word": "Default passwords remain the classic smart home vulnerability.",
+      "translation": "Заводские пароли остаются классической уязвимостью умного дома.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_29",
+      "word": "Change every default password before connecting anything.",
+      "translation": "Меняйте каждый заводской пароль до подключения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_30",
+      "word": "Cloud dependent devices die when companies shut servers.",
+      "translation": "Облачные устройства умирают, когда компании закрывают серверы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_31",
+      "word": "Local control keeps automations running offline.",
+      "translation": "Локальное управление держит автоматизации работающими офлайн.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_32",
+      "word": "Home Assistant bridges every protocol imaginable locally.",
+      "translation": "Home Assistant локально объединяет все мыслимые протоколы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_33",
+      "word": "YAML automations read like recipes once learned.",
+      "translation": "Автоматизации YAML читаются как рецепты после обучения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_34",
+      "word": "Trigger conditions actions structure every automation.",
+      "translation": "Триггер, условие, действие — структура любой автоматизации.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_35",
+      "word": "Too many notifications train users to ignore alerts.",
+      "translation": "Избыток уведомлений приучает пользователей игнорировать оповещения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_36",
+      "word": "Critical alerts deserve separate louder channels.",
+      "translation": "Критические оповещения заслуживают отдельных громких каналов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_37",
+      "word": "Routines chain multiple actions behind single phrases.",
+      "translation": "Рутины прячут несколько действий за одной фразой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_38",
+      "word": "Goodnight routine locks doors and dims everything.",
+      "translation": "Вечерняя рутина закрывает замки и приглушает всё.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_39",
+      "word": "Morning routines open curtains gradually like sunrise.",
+      "translation": "Утренние рутины открывают шторы постепенно, как рассвет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_40",
+      "word": "Movie mode dims lights and pauses phones.",
+      "translation": "Кинорежим приглушает свет и усмиряет телефоны.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_41",
+      "word": "Vacation mode randomises lights against burglars.",
+      "translation": "Режим отпуска рандомизирует свет против грабителей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_42",
+      "word": "Presence simulation fools nobody after two weeks.",
+      "translation": "Имитация присутствия перестаёт обманывать через две недели.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_43",
+      "word": "Energy monitors expose the always on vampires.",
+      "translation": "Мониторы энергии разоблачают вечно включённых вампиров.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_44",
+      "word": "Standby consumption adds real money yearly.",
+      "translation": "Энергия ожидания добавляет реальные деньги за год.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_45",
+      "word": "Smart thermostats pay for themselves within winters.",
+      "translation": "Умные термостаты окупаются за пару зим.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_46",
+      "word": "Heating schedules follow occupancy patterns learned automatically.",
+      "translation": "Расписания отопления следуют выученным паттернам присутствия.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_47",
+      "word": "Multiroom audio synchronises speakers within milliseconds.",
+      "translation": "Мультирум аудио синхронизирует колонки с точностью до миллисекунд.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_48",
+      "word": "Audio drift annoys ears walking between rooms.",
+      "translation": "Рассинхрон звука раздражает при ходьбе между комнатами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_49",
+      "word": "Intercom features page individual rooms directly.",
+      "translation": "Функция интеркома вызывает отдельные комнаты напрямую.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_50",
+      "word": "Baby monitors stream encrypted feeds only nowadays.",
+      "translation": "Видеоняни сегодня транслируют только шифрованный поток.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_51",
+      "word": "Camera cloud subscriptions bill monthly per device.",
+      "translation": "Облачные подписки камер тарифицируются ежемесячно за устройство.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_52",
+      "word": "Local SD storage avoids subscription fees entirely.",
+      "translation": "Локальные SD-карты полностью избегают подписок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_53",
+      "word": "Privacy zones mask neighbouring properties in recordings.",
+      "translation": "Зоны приватности маскируют соседние участки в записях.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_54",
+      "word": "Facial recognition raises consent questions worth discussing.",
+      "translation": "Распознавание лиц поднимает вопросы согласия, которые стоит обсудить.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_55",
+      "word": "Guest access grants temporary limited permissions.",
+      "translation": "Гостевой доступ выдаёт временные ограниченные права.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_56",
+      "word": "Cleaning staff codes expire after scheduled hours.",
+      "translation": "Коды клинеров истекают после назначенных часов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_57",
+      "word": "Lock codes log entries with names attached.",
+      "translation": "Коды замков логируют входы с именами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_58",
+      "word": "Smart locks fail safe versus fail secure differently.",
+      "translation": "Умные замки по-разному ведут себя при сбое питания.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_59",
+      "word": "Mechanical key overrides rescue dead smart locks.",
+      "translation": "Механический ключ спасает разряженный умный замок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_60",
+      "word": "Battery warnings arrive weeks before lockouts do.",
+      "translation": "Предупреждения о батарее приходят за недели до блокировки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_61",
+      "word": "Zigbee battery sensors last years on coins.",
+      "translation": "Zigbee датчики живут годами на батарейках-таблетках.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_62",
+      "word": "Cold porches drain batteries faster than interiors.",
+      "translation": "Холодные крыльцы сажают батареи быстрее помещений.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_63",
+      "word": "Signal strength maps reveal dead corners precisely.",
+      "translation": "Карты уровня сигнала точно показывают мёртвые углы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_64",
+      "word": "Mesh nodes relocate until every sensor reports reliably.",
+      "translation": "Узлы сети переставляют, пока каждый датчик не начнёт отвечать.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_65",
+      "word": "Interference from microwaves drops 2.4 GHz connections.",
+      "translation": "Микроволновки роняют соединения на 2.4 ГГц.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_66",
+      "word": "Bluetooth devices struggle past single room ranges.",
+      "translation": "Bluetooth-устройства едва выходят за пределы комнаты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_67",
+      "word": "Ultrasonic sensors false trigger on curtain movement.",
+      "translation": "Ультразвуковые датчики ложно срабатывают на движение штор.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_68",
+      "word": "Pet immune motion sensors ignore cats under ten kilos.",
+      "translation": "Датчики с защитой от питомцев игнорируют кошек до десяти кило.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_69",
+      "word": "False alarms erode trust faster than failures do.",
+      "translation": "Ложные тревоги подрывают доверие быстрее поломок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_70",
+      "word": "Automation testing happens in daylight first always.",
+      "translation": "Автоматизации сначала тестируют днём, всегда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_71",
+      "word": "One automation per problem keeps debugging sane.",
+      "translation": "Одна автоматизация на проблему сохраняет рассудок при отладке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_72",
+      "word": "Document your setup or future you suffers.",
+      "translation": "Документируйте настройки, иначе будущий вы пострадает.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_73",
+      "word": "Backups of configurations restore hours of work.",
+      "translation": "Резервные копии конфигураций возвращают часы работы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_74",
+      "word": "Labels on switches help guests survive visits.",
+      "translation": "Подписи на выключателях помогают гостям выжить в визите.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_75",
+      "word": "Physical switches must keep working without internet.",
+      "translation": "Физические выключатели обязаны работать без интернета.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_76",
+      "word": "Light switches confuse guests when lamps automate themselves.",
+      "translation": "Гости путаются, когда лампы включаются сами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_77",
+      "word": "Manual overrides belong within reach of every device.",
+      "translation": "Ручное управление должно быть доступно у каждого устройства.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_78",
+      "word": "The best automation is invisible until it fails.",
+      "translation": "Лучшая автоматизация невидима, пока не сломается.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_79",
+      "word": "Smart homes serve residents, not gadget collections.",
+      "translation": "Умный дом служит жильцам, а не коллекции гаджетов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_80",
+      "word": "Motion activated night lights guide midnight kitchen trips.",
+      "translation": "Ночники с датчиком движения ведут к полуночной кухне.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_81",
+      "word": "Stair lighting strips step forward ahead of feet.",
+      "translation": "Подсветка ступеней зажигается впереди ног.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_82",
+      "word": "Bathroom humidity fans trigger on shower steam automatically.",
+      "translation": "Вентиляторы в ванной сами включаются от пара душа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_83",
+      "word": "Laundry sensors buzz phones when cycles finish.",
+      "translation": "Датчики стирки будят телефон по окончании цикла.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_84",
+      "word": "Oven timers announce dinner through every speaker simultaneously.",
+      "translation": "Таймер духовки объявляет ужин через все колонки сразу.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_85",
+      "word": "Fridge cameras photograph interiors during grocery runs.",
+      "translation": "Камеры холодильника фотографируют полки во время походов за едой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_86",
+      "word": "Shopping lists build themselves from depleted barcode scans.",
+      "translation": "Списки покупок собираются из отсканированных пустых упаковок.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_87",
+      "word": "Irrigation controllers skip watering when rain forecasts arrive.",
+      "translation": "Контроллеры полива пропускают полив при дожде в прогнозе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_88",
+      "word": "Soil moisture probes water plants exactly when thirsty.",
+      "translation": "Датчики влажности почвы поят растения ровно когда нужно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_89",
+      "word": "Aquarium feeders dispense flakes on precise schedules.",
+      "translation": "Аквариумные кормушки сыплют хлопья по точному расписанию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_90",
+      "word": "Pet doors unlock only for registered collar chips.",
+      "translation": "Дверцы для питомцев открываются только зарегистрированным чипам.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_91",
+      "word": "Litter boxes weigh visitors and log health trends.",
+      "translation": "Умные лотки взвешивают посетителей и логируют здоровье.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_92",
+      "word": "Chicken coop doors close at dusk without supervision.",
+      "translation": "Дверцы курятника закрываются в сумерках без присмотра.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_93",
+      "word": "Garage doors close themselves after ten forgetful minutes.",
+      "translation": "Гаражные ворота закрываются сами через десять забывчивых минут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_94",
+      "word": "Car presence opens gates without remote fumbles.",
+      "translation": "Машина открывает ворота без поиска брелока.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_95",
+      "word": "Doorbell chimes route to headphones during meetings.",
+      "translation": "Звонок двери направляется в наушники во время встреч.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_96",
+      "word": "Package detection snapshots every delivery automatically.",
+      "translation": "Детекция посылок автоматически снимает каждую доставку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_97",
+      "word": "Smoke alarms interconnect so bedrooms hear kitchen danger.",
+      "translation": "Пожарные датчики связаны, и спальни слышат опасность с кухни.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_98",
+      "word": "CO detectors alert phones far from home too.",
+      "translation": "Датчики углекислого газа тревожат телефон даже вдали от дома.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_99",
+      "word": "Freeze warnings protect pipes before bursts happen.",
+      "translation": "Предупреждения о заморозке спасают трубы до прорыва.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_100",
+      "word": "Sump pump alarms text before basements swim.",
+      "translation": "Сигналы дренажных насосов приходят раньше затопления подвала.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_101",
+      "word": "Elderly care modes alert family after unusual inactivity.",
+      "translation": "Режимы заботы о пожилых тревожат семью после необычной тишины.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_102",
+      "word": "Fall detection pings emergency contacts within seconds.",
+      "translation": "Детекция падений вызывает экстренные контакты за секунды.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_103",
+      "word": "Medication reminders flash pill cabinet lids politely.",
+      "translation": "Напоминания о лекарствах мягко мигают на аптечке.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_104",
+      "word": "Sleep trackers dim the house gradually toward bedtime.",
+      "translation": "Трекеры сна плавно гасят дом к отходу ко сну.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_105",
+      "word": "Wake up lights simulate sunrises through winter darkness.",
+      "translation": "Светильники-будильники имитируют рассвет сквозь зимнюю тьму.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_106",
+      "word": "White noise machines sync with sleep detection automatically.",
+      "translation": "Генераторы белого шума сами включаются по детекции сна.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_smarthomeiot_107",
+      "word": "Kids screen time controls tie into house lighting rituals.",
+      "translation": "Контроль экранного времени детей связан со световыми ритуалами дома.",
+      "language": "en"
+    }
+  ]
+}

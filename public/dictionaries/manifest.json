@@ -1527,6 +1527,38 @@
       "file": "dictionaries/phrasebook-customersupport.json",
       "wordCount": 105,
       "emoji": "🎧"
+    },
+    {
+      "id": "phrasebook-boardgames",
+      "name": "Board Games",
+      "description": "Фразы для настольных игр: правила, компоненты, разговоры за столом, вечеринки и клубы.",
+      "file": "dictionaries/phrasebook-boardgames.json",
+      "wordCount": 102,
+      "emoji": "🎲"
+    },
+    {
+      "id": "phrasebook-dronesfpv",
+      "name": "Drones & FPV",
+      "description": "Фразы про дроны и FPV: полёты, аккумуляторы, аппаратура, регуляторы, съёмка и правила.",
+      "file": "dictionaries/phrasebook-dronesfpv.json",
+      "wordCount": 104,
+      "emoji": "🛸"
+    },
+    {
+      "id": "phrasebook-smarthomeiot",
+      "name": "Smart Home & IoT",
+      "description": "Фразы про умный дом: устройства, хабы, автоматизации, протоколы, поиск неисправностей.",
+      "file": "dictionaries/phrasebook-smarthomeiot.json",
+      "wordCount": 108,
+      "emoji": "🚁"
+    },
+    {
+      "id": "phrasebook-3dprinting",
+      "name": "3D Printing",
+      "description": "Фразы про 3D-печать: слайсеры, пластики, калибровка стола, типичные неудачи и их лечение.",
+      "file": "dictionaries/phrasebook-3dprinting.json",
+      "wordCount": 101,
+      "emoji": "🖨️"
     }
   ]
 }

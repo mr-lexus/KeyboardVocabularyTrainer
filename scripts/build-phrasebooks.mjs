@@ -64,6 +64,7 @@ import { artpainting, religionspirituality, sciencephysics, historyempires, tech
 import { toolshardware, officestationery, mythologyfolklore, videogamesshootersaction, hobbiesgardening } from './core/fill-thin-b.mjs';
 import { bordercustoms, pharmacy, gasstationparking, laundromatcleaning, concertsevents, carrental } from './core/batch-everyday3.mjs';
 import { aimlengineering, devopsclouds, productmanagement, customersupport } from './core/batch-professional.mjs';
+import { boardgames, dronesfpv, smarthomeiot, printing3d } from './core/batch-hobbies2.mjs';
 
 const __dirname = path.dirname(fileURLToPath(import.meta.url));
 const ROOT = path.resolve(__dirname, '..');
@@ -130,6 +131,11 @@ const TOPICS = {
   devopsclouds,
   productmanagement,
   customersupport,
+  // hobby verticals (todo 9)
+  boardgames,
+  dronesfpv,
+  smarthomeiot,
+  printing3d,
 };
 
 // Merge every top-up batch into its base topic (order: base phrases first).

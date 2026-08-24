@@ -1,0 +1,631 @@
+{
+  "id": "phrasebook-dronesfpv",
+  "name": "Drones & FPV",
+  "description": "Фразы про дроны и FPV: полёты, аккумуляторы, аппаратура, регуляторы, съёмка и правила.",
+  "entries": [
+    {
+      "id": "pbq_dronesfpv_0",
+      "word": "Arm the drone only after prop checks.",
+      "translation": "Взводите дрон только после проверки винтов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_1",
+      "word": "Props spin clockwise and counterclockwise alternately.",
+      "translation": "Винты крутятся попеременно по и против часовой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_2",
+      "word": "Remove props before flashing firmware always.",
+      "translation": "Снимайте винты перед прошивкой всегда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_3",
+      "word": "Betaflight configurator guides initial setup visually.",
+      "translation": "Конфигуратор Betaflight ведёт настройку наглядно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_4",
+      "word": "Calibrate the accelerometer on a level surface.",
+      "translation": "Калибруйте акселерометр на ровной поверхности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_5",
+      "word": "Compass calibration needs figure eight movements outdoors.",
+      "translation": "Калибровка компаса требует восьмёрки на улице.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_6",
+      "word": "Failsafe settings decide where lost signal lands.",
+      "translation": "Настройки fail-safe решают, где приземлится потерявший связь дрон.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_7",
+      "word": "Set failsafe to hover rather than drop.",
+      "translation": "Ставьте fail-safe на висение, а не падение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_8",
+      "word": "Return to home misjudges trees constantly.",
+      "translation": "Возврат домой постоянно недооценивает деревья.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_9",
+      "word": "GPS lock needs open sky and patience.",
+      "translation": "GPS захватывает спутники под открытым небом и с терпением.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_10",
+      "word": "Attitude mode self levels without GPS assistance.",
+      "translation": "Режим Attitude выравнивается сам, без GPS.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_11",
+      "word": "Acro mode trusts pilot skill completely.",
+      "translation": "Режим Acro полностью доверяет пилоту.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_12",
+      "word": "Angle mode limits tilt for cinematic shots.",
+      "translation": "Режим Angle ограничивает наклон для киношных кадров.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_13",
+      "word": "Rates define stick response curves personally.",
+      "translation": "Рейты задают личную кривую отклика стиков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_14",
+      "word": "Expo softens centre stick sensitivity gently.",
+      "translation": "Экспо смягчает чувствительность в центре стика.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_15",
+      "word": "Throttle management separates smooth pilots from bouncy ones.",
+      "translation": "Работа газом отличает плавных пилотов от прыгучих.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_16",
+      "word": "Hover throttle sits around mid stick typically.",
+      "translation": "Газ висения обычно около середины стика.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_17",
+      "word": "Battery sag warns about landing urgency clearly.",
+      "translation": "Просадка батареи ясно намекает на посадку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_18",
+      "word": "LiPo cells balance at four point two volts full.",
+      "translation": "Банки LiPo заряжаются до четырёх целых двух десятых вольта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_19",
+      "word": "Storage charge holds cells at three point eight volts.",
+      "translation": "Заряд хранения держит банки на трёх целых восьми.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_20",
+      "word": "Puffed batteries retire immediately into fireproof bags.",
+      "translation": "Вздутие батареи — немедленная пенсия в огнеупорный пакет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_21",
+      "word": "LiPo fires resist ordinary extinguishers stubbornly.",
+      "translation": "Пожары литиевых батарей упрямо гасят обычные огнетушители.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_22",
+      "word": "Charge batteries inside fireproof bags always.",
+      "translation": "Заряжайте батареи всегда в защитных пакетах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_23",
+      "word": "Balance chargers monitor every cell individually.",
+      "translation": "Балансирные зарядки следят за каждой банкой отдельно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_24",
+      "word": "Discharge rates confuse newcomers with C ratings.",
+      "translation": "Токи разряда путают новичков рейтингом C.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_25",
+      "word": "Higher C ratings deliver punchier throttle response.",
+      "translation": "Высокий рейтинг C даёт резче отклик газа.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_26",
+      "word": "Flight times average five minutes for freestyle quads.",
+      "translation": "Фристайловые квадрики летают в среднем пять минут.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_27",
+      "word": "Carry multiple batteries for meaningful sessions.",
+      "translation": "Носите несколько батарей для осмысленных сессий.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_28",
+      "word": "Motors warm beyond touch signal winding stress.",
+      "translation": "Горячие на ощупь моторы сигналят о перегрузке обмоток.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_29",
+      "word": "Prop pitch affects thrust and efficiency inversely.",
+      "translation": "Шаг винта обратно влияет на тягу и эффективность.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_30",
+      "word": "Tri blade props grip air aggressively during acro.",
+      "translation": "Трёхлопастные винты агрессивно цепляют воздух в акро.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_31",
+      "word": "Damaged props vibrate motors into early graves.",
+      "translation": "Битые винты доводят моторы до ранней смерти вибрацией.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_32",
+      "word": "Inspect props for cracks after every crash.",
+      "translation": "Осматривайте винты на трещины после каждого падения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_33",
+      "word": "Crashes cost props, lessons cost pride only.",
+      "translation": "Падения стоят винтов, уроки — только гордости.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_34",
+      "word": "Simulators teach acro without repair bills.",
+      "translation": "Симуляторы учат акро без счетов за ремонт.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_35",
+      "word": "Two hundred simulator hours precede confident freestyle.",
+      "translation": "Двумстам часам симулятора предшествует уверенный фристайл.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_36",
+      "word": "Goggles display live camera feed from the drone.",
+      "translation": "Очки показывают живую картинку с камеры дрона.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_37",
+      "word": "Analogue signals fuzz at range gracefully.",
+      "translation": "Аналоговый сигнал красиво шумит на дальности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_38",
+      "word": "Digital systems cut out abruptly past range limits.",
+      "translation": "Цифровые системы резко обрываются за пределом дальности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_39",
+      "word": "Antenna placement affects range more than power does.",
+      "translation": "Расположение антенны влияет на дальность сильнее мощности.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_40",
+      "word": "Never point directional antennas at flying friends.",
+      "translation": "Не направляйте направленные антенны на летающих друзей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_41",
+      "word": "Frequency bands separate pilots from interference.",
+      "translation": "Частотные диапазоны разводят пилотов от помех.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_42",
+      "word": "Pit mode attenuates output while others fly.",
+      "translation": "Режим pit приглушает мощность, пока летят другие.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_43",
+      "word": "Radio binds to the flight controller once securely.",
+      "translation": "Аппаратура привязывается к полётнику один раз надёжно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_44",
+      "word": "Channel checks precede every group flying session.",
+      "translation": "Проверка каналов предшествует каждой групповой сессии.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_45",
+      "word": "ESC calibration syncs motors to throttle range.",
+      "translation": "Калибровка регуляторов синхронизирует моторы с газом.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_46",
+      "word": "Motor order matters or props spin wrong directions.",
+      "translation": "Порядок моторов важен, иначе винты крутятся не туда.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_47",
+      "word": "Bidirectional dshot logs motor rpm for filtering.",
+      "translation": "Bidirectional DShot логирует обороты для фильтрации.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_48",
+      "word": "RPM filtering smooths flight footage dramatically.",
+      "translation": "Фильтрация по оборотам драматично чистит полётное видео.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_49",
+      "word": "Frame stiffness determines flight feel fundamentally.",
+      "translation": "Жёсткость рамы фундаментально определяет характер полёта.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_50",
+      "word": "Carbon fibre frames crack invisibly after hard impacts.",
+      "translation": "Карбоновые рамы трескаются незаметно после жёстких ударов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_51",
+      "word": "Soft mounted cameras reduce jello in footage.",
+      "translation": "Мягкая подвеска камеры убирает желе в видео.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_52",
+      "word": "ND filters lengthen shutter times for motion blur.",
+      "translation": "ND-фильтры удлиняют выдержку ради смазывания движения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_53",
+      "word": "Shutter angle double the framerate looks cinematic.",
+      "translation": "Выдержка вдвое короче частоты кадров выглядит киношно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_54",
+      "word": "Freestyle flows through gaps and around obstacles.",
+      "translation": "Фристайл течёт сквозь щели и вокруг препятствий.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_55",
+      "word": "Dive lines chase towers from great heights.",
+      "translation": "Дайвы преследуют башни с большой высоты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_56",
+      "word": "Proximity flying demands split second reflexes honestly.",
+      "translation": "Полёты у объектов требуют рефлексов доли секунды честно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_57",
+      "word": "Race gates punish wide lines with missed splits.",
+      "translation": "Гоночные ворота наказывают широкие траектории потерянными долями.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_58",
+      "word": "Race tracks reward consistent laps over hero runs.",
+      "translation": "Гоночные трассы вознаграждают стабильные круги больше героических.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_59",
+      "word": "Timing systems measure laps through transponder beeps.",
+      "translation": "Системы хронометража меряют круги через транспондеры.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_60",
+      "word": "Cinewhoops carry heavier cameras with prop guards.",
+      "translation": "Cinewhoop несут тяжёлые камеры с защитой винтов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_61",
+      "word": "Tiny whoops fly indoors between furniture legs.",
+      "translation": "Тайни-вупы летают в помещениях между ножками мебели.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_62",
+      "word": "Long range builds sacrifice agility for endurance.",
+      "translation": "Лонг-рейнд сборки меняют ловкость на выносливость.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_63",
+      "word": "Cross country flights demand map awareness beforehand.",
+      "translation": "Перелёты через страну требуют заранее изученной карты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_64",
+      "word": "Line of sight rules still apply legally everywhere.",
+      "translation": "Правило прямой видимости действует юридически везде.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_65",
+      "word": "Visual observers extend legal range safely.",
+      "translation": "Наблюдатели законно расширяют дальность безопасно.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_66",
+      "word": "Registration numbers display on airframes where required.",
+      "translation": "Регистрационные номера размещаются на корпусах там, где требуется.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_67",
+      "word": "No fly zones surround airports automatically in apps.",
+      "translation": "Запретные зоны вокруг аэропортов автоматически видны в приложениях.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_68",
+      "word": "Altitude caps protect manned aviation strictly.",
+      "translation": "Потолки высоты строго защищают пилотируемую авиацию.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_69",
+      "word": "Weather apps forecast wind gusts before launches.",
+      "translation": "Погодные приложения прогнозируют порывы перед запусками.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_70",
+      "word": "Wind above fifteen knots grounds lightweight builds.",
+      "translation": "Ветер выше пятнадцати узлов оставляет лёгкие сборки на земле.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_71",
+      "word": "Cold weather sags batteries faster than summer heat.",
+      "translation": "Холод просаживает батареи быстрее летней жары.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_72",
+      "word": "Rain kills unsealed electronics instantly on contact.",
+      "translation": "Дождь мгновенно убивает негерметичную электронику при контакте.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_73",
+      "word": "Pre flight checklists prevent forgotten arm switches.",
+      "translation": "Предполётные чек-листы предотвращают забытые тумблеры взвода.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_74",
+      "word": "Spotter calls warn about approaching people early.",
+      "translation": "Наблюдатель заранее предупреждает о приближающихся людях.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_75",
+      "word": "Fly over private land only with permission granted.",
+      "translation": "Летайте над частной землёй только с разрешения.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_76",
+      "word": "Livestock panic beneath low passing drones.",
+      "translation": "Скот паникует под низко пролетающими дронами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_77",
+      "word": "Wildlife disturbance fines exist in national parks.",
+      "translation": "В нацпарках штрафуют за беспокойство животных.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_78",
+      "word": "Respect privacy laws when filming neighbours accidentally.",
+      "translation": "Уважайте законы о приватности, случайно снимая соседей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_79",
+      "word": "Footage releases require consent from identifiable people.",
+      "translation": "Для публикации кадров нужно согласие узнаваемых людей.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_80",
+      "word": "Log files help diagnose crashes after the fact.",
+      "translation": "Логи помогают разбирать падения постфактум.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_81",
+      "word": "Blackbox logs reveal vibration issues graphically.",
+      "translation": "Blackbox-логи наглядно показывают проблемы вибрации.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_82",
+      "word": "PID tuning balances stability against responsiveness.",
+      "translation": "Настройка PID балансирует стабильность и отзывчивость.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_83",
+      "word": "Default PIDs fly acceptably for most beginners.",
+      "translation": "Заводские PID вполне приемлемы для большинства новичков.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_84",
+      "word": "Filter tuning reduces motor heat and noise together.",
+      "translation": "Настройка фильтров снижает нагрев моторов и шум вместе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_85",
+      "word": "Motor desync causes sudden uncommanded flips mid air.",
+      "translation": "Рассинхрон моторов вызывает внезапные неконтролируемые перевороты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_86",
+      "word": "Browned prop tips indicate overpowered cornering.",
+      "translation": "Пожелтевшие кончики винтов говорят о перегрузе в поворотах.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_87",
+      "word": "Bearing wear announces itself through gritty sounds.",
+      "translation": "Износ подшипников объявляет себя хрустящими звуками.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_88",
+      "word": "Spare parts boxes save whole flying weekends.",
+      "translation": "Коробки запчастей спасают целые выходные полётов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_89",
+      "word": "Solder joints fail where vibration fatigues them.",
+      "translation": "Пайка ломается там, где вибрация её утомляет.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_90",
+      "word": "Heat shrink everything before closing frames up.",
+      "translation": "Усадите термоусадку везде перед закрытием рамы.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_91",
+      "word": "Zip ties route antenna leads away from props.",
+      "translation": "Стяжки уводят антенные провода от винтов.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_92",
+      "word": "Community fields welcome newcomers with spare radios.",
+      "translation": "Клубные поля встречают новичков запасными аппаратурами.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_93",
+      "word": "Every pilot remembers their first successful hover forever.",
+      "translation": "Каждый пилот навсегда помнит своё первое успешное висение.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_94",
+      "word": "Goggle focus dials adjust for glasses wearers.",
+      "translation": "Колёсики фокуса очков подстраиваются под носящих очки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_95",
+      "word": "Foam padding around faces blocks sunlight leaks.",
+      "translation": "Поролон вокруг лица блокирует засветку.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_96",
+      "word": "DVR recordings capture flights even when feeds glitch.",
+      "translation": "DVR записывает полёты даже при сбоях картинки.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_97",
+      "word": "Reviewing DVR footage teaches lines better than memory.",
+      "translation": "Разбор DVR учит траекториям лучше памяти.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_98",
+      "word": "Radio gimbals feel springy versus friction damped ones.",
+      "translation": "Стимы с пружинами ощущаются иначе, чем с трением.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_99",
+      "word": "Hall effect gimbals eliminate potentiometer wear entirely.",
+      "translation": "Гимбалы на эффекте Холла полностью убирают износ потенциометров.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_100",
+      "word": "Backpack builds carry quads, goggles and radios together.",
+      "translation": "Рюкзаки носят квадрики, очки и аппаратуры вместе.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_101",
+      "word": "Landing pads protect grass and props simultaneously.",
+      "translation": "Посадочные площадки берегут и траву, и винты.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_102",
+      "word": "Freestyle spots share locations through responsible etiquette.",
+      "translation": "Фристайл-точки делятся локациями с ответственной этикеткой.",
+      "language": "en"
+    },
+    {
+      "id": "pbq_dronesfpv_103",
+      "word": "Pack out everything you fly in with.",
+      "translation": "Уносите всё, с чем прилетели.",
+      "language": "en"
+    }
+  ]
+}
